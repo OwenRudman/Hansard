@@ -1,0 +1,26 @@
+2019-07-31-14-30-00 - Senate: 6 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 183 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "REPORTS AND CONSIDERATION OF REPORTS"
+
+2. block 190, PDF p.34 [speech | Getrude Musuruve Inimah]
+   Name check: PDF says 'Sen. Farhiya', block says 'Getrude Musuruve Inimah '.
+   Text: "Madam Temporary Speaker, Sir, I beg to second."
+
+3. block 324 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "BILL Second Reading"
+
+4. block 364 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "BILL Second Reading"
+
+5. block 369 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "BILL Second Reading"
+
+6. block 400, PDF p.51 [speech | Farhiya Ali Haji]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Hon. Senators, it is now 6.30 p.m., time to adjourn the Hous...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I am requesting for five to seven minutes. I have a lot of information that I want to"
+

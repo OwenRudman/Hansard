@@ -1,0 +1,107 @@
+2018-09-20-14-30-00 - Senate: 26 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 34, PDF p.3 [speech | Ledama Olekina]
+   Name check: PDF says 'Sen. Ole Kina', block says 'Ledama Olekina '.
+   Text: "Mr. Deputy Speaker, Sir, thank you for allowing me to ride on this Statement requested by Sen. Pareno. Mr. Dep"
+
+2. block 36, PDF p.4 [speech | Ledama Olekina]
+   Name check: PDF says 'Sen. Ole Kina', block says 'Ledama Olekina '.
+   Text: "Mr. Deputy Speaker, Sir, I would really like, in conclusion, to encourage the Senator for Kajiado County who i"
+
+3. block 300, PDF p.26 [speech]
+   PDF shows a new speaker ('Sen. Outa') starting inside this block: "Mr. Deputy Speaker, Sir, my point of order is that in the ab...". May need a split.
+   Text: "Sen. (Prof) Kindiki: Order, Senator! It is not out of order to challenge an Order which is in the Order Paper."
+
+4. block 310, PDF p.30 [speech | Cleophas Wakhungu Malalah]
+   Name check: PDF says 'Sen. Orengo', block says 'Cleophas Wakhungu Malalah '.
+   Text: "On a point of order, Mr. Deputy Speaker, Sir. I was a Member of County Assembly (MCA) and learnt the rules of "
+
+5. block 314, PDF p.30 [speech | Cleophas Wakhungu Malalah]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Thank you, Sen. Orengo....". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I believe that this is a matter of public importance and it is important that we put "
+
+6. block 320, PDF p.31 [speech | Franklin Mithika Linturi]
+   Name check: PDF says 'Sen. Wetangula', block says 'Franklin Mithika Linturi '.
+   Text: "Mr. Deputy Speaker, Sir, allow me to say this. As I earlier said, I do not run away from responsibility. I am "
+
+7. block 322, PDF p.31 [speech | Franklin Mithika Linturi]
+   Name check: PDF says 'Sen. Wetangula', block says 'Franklin Mithika Linturi '.
+   Text: "Mr. Deputy Speaker, Sir, 10 minutes before the start of the sitting, I was with the Chairperson outside there "
+
+8. block 322, PDF p.31 [speech | Franklin Mithika Linturi]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Order, Sen. Wetangula. You have not moved the Motion....". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, 10 minutes before the start of the sitting, I was with the Chairperson outside there "
+
+9. block 322, PDF p.31 [speech | Franklin Mithika Linturi]
+   PDF shows a new speaker ('Sen. Wetangula') starting inside this block: "I already did that....". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, 10 minutes before the start of the sitting, I was with the Chairperson outside there "
+
+10. block 326, PDF p.31 [speech | Fredrick Otieno Outa]
+   Name check: PDF says 'Sen. Wetangula', block says 'Fredrick Otieno Outa '.
+   Text: "Mr. Deputy Speaker, Sir, my point of order is that in the absence of the Chairperson, any other Member - and i"
+
+11. block 363, PDF p.36 [speech | Moses Masika Wetangula]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Pareno)') starting inside this block: "You have two more minutes....". May need a split.
+   Text: "Madam Temporary Speaker, we agonize on which direction we are going. As the country is burdened with debt, we "
+
+12. block 370, PDF p.37 [speech | Moses Masika Wetangula]
+   Name check: PDF says 'Sen. Farhiya', block says 'Moses Masika Wetangula '.
+   Text: "Thank you, Madam Temporary Speaker. You have seen even the altercation between the International Monetary Fund"
+
+13. block 371, PDF p.39 [speech | Farhiya Ali Haji]
+   Name check: PDF says 'Sen. Cheruiyot', block says 'Farhiya Ali Haji '.
+   Text: "Thank you, Madam Temporary Speaker. I beg to second this Motion for the simple reason that unsuitable debt lev"
+
+14. block 371, PDF p.39 [speech | Farhiya Ali Haji]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Pareno)') starting inside this block: "Maybe you need to move to the next microphone.
+Proceed and, ...". May need a split.
+   Text: "Thank you, Madam Temporary Speaker. I beg to second this Motion for the simple reason that unsuitable debt lev"
+
+15. block 371, PDF p.39 [speech | Farhiya Ali Haji]
+   PDF shows a new speaker ('Sen. Cheruiyot') starting inside this block: "Madam Temporary Speaker, the point that I was trying to make...". May need a split.
+   Text: "Thank you, Madam Temporary Speaker. I beg to second this Motion for the simple reason that unsuitable debt lev"
+
+16. block 373, PDF p.42 [speech | Aaron Kipkirui Cheruiyot]
+   Name check: PDF says 'Sen. Linturi', block says 'Aaron Kipkirui Cheruiyot '.
+   Text: "Thank you, Madam Temporary Speaker, for giving me this chance. I want to congratulate my colleague, Sen. Wetan"
+
+17. block 378, PDF p.48 [speech | Franklin Mithika Linturi]
+   Name check: PDF says 'Sen. Wario', block says 'Franklin Mithika Linturi '.
+   Text: "Thank you, Madam Temporary Speaker, for giving me this opportunity. I wish to start by thanking the distinguis"
+
+18. block 379, PDF p.48 [speech | Abshiro Soka Halake]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Pareno)') starting inside this block: "Proceed, Senator Mwangi Githiomi, although this gadget has r...". May need a split.
+   Text: "Madam Temporary Speaker, thank you very much for giving me the opportunity to weigh in on this matter. Let me "
+
+19. block 379, PDF p.48 [speech | Abshiro Soka Halake]
+   PDF shows a new speaker ('Sen. Mwangi') starting inside this block: "I am sorry, Madam Temporary Speaker; Senator Prengei has gon...". May need a split.
+   Text: "Madam Temporary Speaker, thank you very much for giving me the opportunity to weigh in on this matter. Let me "
+
+20. block 379, PDF p.48 [speech | Abshiro Soka Halake]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Pareno)') starting inside this block: "Order, Senators! Can we allow him to conclude his submission...". May need a split.
+   Text: "Madam Temporary Speaker, thank you very much for giving me the opportunity to weigh in on this matter. Let me "
+
+21. block 379, PDF p.48 [speech | Abshiro Soka Halake]
+   PDF shows a new speaker ('Sen. Mwangi') starting inside this block: "I believe you will obey, Madam Temporary Speaker....". May need a split.
+   Text: "Madam Temporary Speaker, thank you very much for giving me the opportunity to weigh in on this matter. Let me "
+
+22. block 379, PDF p.48 [speech | Abshiro Soka Halake]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Pareno)') starting inside this block: "I am not sure whether the Sen. Githiomi would like to be inf...". May need a split.
+   Text: "Madam Temporary Speaker, thank you very much for giving me the opportunity to weigh in on this matter. Let me "
+
+23. block 379, PDF p.48 [speech | Abshiro Soka Halake]
+   PDF shows a new speaker ('Sen. Mwangi') starting inside this block: "Madam Temporary Speaker, I do not want to be informed becaus...". May need a split.
+   Text: "Madam Temporary Speaker, thank you very much for giving me the opportunity to weigh in on this matter. Let me "
+
+24. block 379, PDF p.48 [speech | Abshiro Soka Halake]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Pareno)') starting inside this block: "Kindly, proceed and try to finish, so that we can allow othe...". May need a split.
+   Text: "Madam Temporary Speaker, thank you very much for giving me the opportunity to weigh in on this matter. Let me "
+
+25. block 379, PDF p.48 [speech | Abshiro Soka Halake]
+   PDF shows a new speaker ('Sen. Mwangi') starting inside this block: "Madam Temporary Speaker, the leadership of this country shou...". May need a split.
+   Text: "Madam Temporary Speaker, thank you very much for giving me the opportunity to weigh in on this matter. Let me "
+
+26. block 380, PDF p.51 [speech | Golich Juma Wario]
+   Name check: PDF says 'Sen. Olekina', block says 'Golich Juma Wario '.
+   Text: "Thank you, Madam Temporary Speaker, for giving me this chance to add my voice to this Motion. First, I congrat"
+

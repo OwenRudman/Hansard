@@ -1,0 +1,90 @@
+2020-10-01-14-30-00 - Senate: 22 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 18, PDF p.3 [speech | Sen. (Dr.) Ochillo- Ayacko]
+   Name check: PDF says 'Sen. Wambua', block says 'Sen. (Dr.) Ochillo- Ayacko '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. This Petition and Petitions similar to this have been visiting this Hou"
+
+2. block 19, PDF p.4 [speech | Enoch Kiio Wambua]
+   Name check: PDF says 'Sen. Mwaruma', block says 'Enoch Kiio Wambua '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir, for this opportunity. If my memory serves me right, this is the second "
+
+3. block 21, PDF p.5 [speech | Johnes Mwashushe Mwaruma]
+   Name check: PDF says 'Sen. (Dr.) Langat', block says 'Johnes Mwashushe Mwaruma '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir, for this opportunity to support the Petition on county boundaries. Judg"
+
+4. block 21, PDF p.5 [speech | Johnes Mwashushe Mwaruma]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Dr.) Lelegwe)') starting inside this block: "Sen. (Dr.) Musuruve, kindly, procced....". May need a split.
+   Text: "Thank you, Mr. Temporary Speaker, Sir, for this opportunity to support the Petition on county boundaries. Judg"
+
+5. block 23, PDF p.5 [speech | Christopher Andrew Langat]
+   Name check: PDF says 'Sen. (Dr.) Musuruve', block says 'Christopher Andrew Langat '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir, for also giving me this chance to support this important Petition. Issu"
+
+6. block 25, PDF p.6 [speech | Getrude Musuruve Inimah]
+   Name check: PDF says 'Sen. (Prof.) Ekal', block says 'Getrude Musuruve Inimah '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir, for giving me this opportunity to support this Petition. I want to than"
+
+7. block 27, PDF p.11 [speech | Malachy Charles Ekal Imana]
+   Name check: PDF says 'Sen. Shiyonga', block says 'Malachy Charles Ekal Imana '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir, for giving me the chance. From the beginning, I support the Petition be"
+
+8. block 33, PDF p.13 [speech | Abshiro Soka Halake]
+   Name check: PDF says 'Sen. M. Kajwang’', block says 'Abshiro Soka Halake '.
+   Text: "Mr. Temporary Speaker, Sir, I rise to support the Petition by Mr. Ogana to the Senate. A good solution has bee"
+
+9. block 59, PDF p.29 [speech | Sylvia Mueni Kasanga]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Dr.) Mwaura)') starting inside this block: "Asante sana, Sen. (Dr.) Musuruve. Waheshimiwa Maseneta, kwa ...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I beg to move the following Motion: - THAT, AWARE that at its sitting held on Tues"
+
+10. block 59, PDF p.29 [speech | Sylvia Mueni Kasanga]
+   PDF shows a new speaker ('Sen. (Prof.) Kamar') starting inside this block: "Thank you, Mr. Temporary Speaker, Sir, for giving me this op...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I beg to move the following Motion: - THAT, AWARE that at its sitting held on Tues"
+
+11. block 59, PDF p.29 [speech | Sylvia Mueni Kasanga]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Dr.) Mwaura)') starting inside this block: "Asante sana, Naibu wa Spika. Fursa hii ni ya Seneta wa Makue...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I beg to move the following Motion: - THAT, AWARE that at its sitting held on Tues"
+
+12. block 59, PDF p.29 [speech | Sylvia Mueni Kasanga]
+   PDF shows a new speaker ('Sen. Mutula Kilonzo Jnr') starting inside this block: "Thank you, Mr. Temporary Speaker, Sir. I rise to support thi...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I beg to move the following Motion: - THAT, AWARE that at its sitting held on Tues"
+
+13. block 59, PDF p.29 [speech | Sylvia Mueni Kasanga]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Dr.) Mwaura)') starting inside this block: "Asante sana, Sen. Mutula Kilonzo Jnr. Sasa hivi nampa fursa ...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I beg to move the following Motion: - THAT, AWARE that at its sitting held on Tues"
+
+14. block 59, PDF p.29 [speech | Sylvia Mueni Kasanga]
+   PDF shows a new speaker ('Sen. Farhiya') starting inside this block: "Thank you, Mr. Temporary Speaker, Sir. I am happy and proud ...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I beg to move the following Motion: - THAT, AWARE that at its sitting held on Tues"
+
+15. block 59, PDF p.29 [speech | Sylvia Mueni Kasanga]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Dr.) Mwaura)') starting inside this block: "One minute....". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I beg to move the following Motion: - THAT, AWARE that at its sitting held on Tues"
+
+16. block 59, PDF p.29 [speech | Sylvia Mueni Kasanga]
+   PDF shows a new speaker ('Sen. Farhiya') starting inside this block: "The Auditor-General must carry out a special audit on COVID-...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I beg to move the following Motion: - THAT, AWARE that at its sitting held on Tues"
+
+17. block 59, PDF p.29 [speech | Sylvia Mueni Kasanga]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Dr.) Mwaura)') starting inside this block: "Asante sana kwa vile umezungumza vizuri. Hata hukuhitaji mud...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I beg to move the following Motion: - THAT, AWARE that at its sitting held on Tues"
+
+18. block 59, PDF p.29 [speech | Sylvia Mueni Kasanga]
+   PDF shows a new speaker ('Sen. Mwaruma') starting inside this block: "Thank you, Mr. Temporary Speaker, Sir. Just to correct you, ...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I beg to move the following Motion: - THAT, AWARE that at its sitting held on Tues"
+
+19. block 60, PDF p.34 [speech | Abshiro Soka Halake]
+   Name check: PDF says 'Sen. (Eng.) Mahamud)', block says 'Abshiro Soka Halake '.
+   Text: "Thank you very much, Mr. Temporary Speaker, Sir. I rise to support this Motion and the report of the Ad Hoc Co"
+
+20. block 67, PDF p.40 [speech | Getrude Musuruve Inimah]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Dr.) Mwaura)') starting inside this block: "Asante Sana, Sen. Olekina, kwa mchango wako mzuri lakini nin...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I thank you for giving me the opportunity to support this Motion. The Ad Hoc Commi"
+
+21. block 67, PDF p.40 [speech | Getrude Musuruve Inimah]
+   PDF shows a new speaker ('Sen. Kasanga') starting inside this block: "Mr. Temporary Speaker, Sir, I am honestly overwhelmed by the...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I thank you for giving me the opportunity to support this Motion. The Ad Hoc Commi"
+
+22. block 87, PDF p.46 [speech | (Sen. (Dr.) Mwaura)]
+   Name check: PDF says 'The Temporary Speaker (Sen. Pareno)', block says '(Sen. (Dr.) Mwaura) The Temporary Speaker'.
+   Text: "Sen. Olekina."
+

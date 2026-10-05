@@ -1,0 +1,25 @@
+2020-02-19-14-30-00 - Senate: 6 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 280, PDF p.55 [speech | Sen. Majority]
+   Name check: PDF says 'The Senate Majority Leader (Sen. Murkomen)', block says 'Sen. Majority (The Senate Majority Leader)'.
+   Text: "On a point of information, Mr. Deputy Speaker, Sir."
+
+2. block 183
+   Suggest hierarchy placed a Quorum/Division cutout (blocks 183-189). Check where it ends.
+
+3. block 1 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "PARLIAMENT OF KENYA"
+
+4. block 2 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "THE SENATE"
+
+5. block 3 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "THE HANSARD"
+
+6. block 5 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "The House met at the Senate Chamber, Parliament Buildings, at 2.30 p.m."
+

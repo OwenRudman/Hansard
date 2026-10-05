@@ -1,0 +1,10 @@
+2018-03-08-14-30-00 - Senate: 2 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 5 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "SENATOR'S GENERAL STATEMENT"
+
+2. block 6 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "KENYA PASTORALIST WEEK, 2018"
+

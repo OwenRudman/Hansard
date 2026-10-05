@@ -1,0 +1,9 @@
+2021-02-23-14-30-00 - Senate: 2 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 277 [speech | Judith Ramaita Pareno]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "Page 15044 of Tuesday, 23rd February, 2021 At 2.30 P.m. Next Order."
+
+2. blocks 1, 12, 17, 23, 27, 31, 36, 39, 42, 48, 59, 64, 71, 80, 86, 93, 99, 103, 106, 120, 124, 127, 131, 135, 139, 143, 154, 164, 169, 182, 201, 204, 206, 210, 220, 224, 226, 229, 231, 235, 241, 243, 249, 251, 253, 256, 258, 266, 269, 271, 273, 285, 287
+   53 page markers ('Page N of <date>') the cleaner missed were marked deleted. Where the speech blocks just above and below one of them are the same speech, combine them.
+

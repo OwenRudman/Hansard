@@ -1,0 +1,39 @@
+2018-06-13-14-30-00 - Senate: 9 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 47 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "NOTICES OF MOTION"
+
+2. block 69 [speech]
+   Speech with no speaker.
+   Text: "Sen. Boy, Kwale County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi County; Se"
+
+3. block 70 [speech]
+   Speech with no speaker.
+   Text: "Nil"
+
+4. block 106, PDF p.42 [speech | Steve Ltumbesi Lelegwe]
+   Name check: PDF says 'Sen. Were', block says 'Steve Ltumbesi Lelegwe '.
+   Text: "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered The Division of Revenu"
+
+5. block 114, PDF p.47 [speech | James Orengo]
+   Name check: PDF says 'Sen. Cherargei', block says 'James Orengo (The Senate Minority Leader)'.
+   Text: "Madam Temporary Speaker, I beg to second. There is only one issue which would come clearer when my friend, the"
+
+6. block 114, PDF p.47 [speech | James Orengo]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Pareno)') starting inside this block: "Order, Senator! You know the rules of this House. If you mak...". May need a split.
+   Text: "Madam Temporary Speaker, I beg to second. There is only one issue which would come clearer when my friend, the"
+
+7. block 114, PDF p.47 [speech | James Orengo]
+   PDF shows a new speaker ('Sen. Cherargei') starting inside this block: "Madam Temporary Speaker, I withdraw and apologize. I respect...". May need a split.
+   Text: "Madam Temporary Speaker, I beg to second. There is only one issue which would come clearer when my friend, the"
+
+8. block 114, PDF p.47 [speech | James Orengo]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Pareno)') starting inside this block: "You can proceed but, please, withdraw your statement.
+Sen. C...". May need a split.
+   Text: "Madam Temporary Speaker, I beg to second. There is only one issue which would come clearer when my friend, the"
+
+9. block 133 [speech]
+   Speech with no speaker.
+   Text: "Nil"
+

@@ -1,0 +1,42 @@
+2018-03-21-14-30-00 - Senate: 10 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 398, PDF p.46 [speech | Moses Otieno Kajwang']
+   Name check: PDF says 'Sen. Mutula Kilonzo Jnr.', block says 'Moses Otieno Kajwang' '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I rise to support The National Flag, Emblems and Names (Amendment) Bill"
+
+2. block 398, PDF p.46 [speech | Moses Otieno Kajwang']
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Malalah)') starting inside this block: "I direct that we defer the putting of the question to next w...". May need a split.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I rise to support The National Flag, Emblems and Names (Amendment) Bill"
+
+3. block 399, PDF p.46 [speech | Isaac Maigua Mwaura]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Malalah)') starting inside this block: "I direct that we defer this order to tomorrow....". May need a split.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I rise to support the amendments. This is one of those Bills that lapse"
+
+4. block 399, PDF p.46 [speech | Isaac Maigua Mwaura]
+   PDF shows a new speaker ('Sen. (Eng.) Mahamud') starting inside this block: "Mr. Temporary Speaker, Sir, I beg to move the following Moti...". May need a split.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I rise to support the amendments. This is one of those Bills that lapse"
+
+5. block 400, PDF p.48 [speech | Agnes Zani]
+   Name check: PDF says 'Sen. Mutula Kilonzo Jnr.', block says 'Agnes Zani '.
+   Text: "Thank you Mr. Temporary Speaker, Sir. I stand right from the onset to support this Bill. The whole idea of the"
+
+6. block 405, PDF p.58 [speech | Ledama Olekina]
+   Name check: PDF says 'Sen. (Dr.) Langat', block says 'Ledama Olekina '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I rise to support this Bill. I have gone through it and one of the ques"
+
+7. block 413, PDF p.60 [speech | Agnes Zani]
+   Name check: PDF says 'Sen. Outa', block says 'Agnes Zani '.
+   Text: "On a point of order, Mr. Temporary Speaker, Sir. Would I be in order to request for a few minutes to welcome t"
+
+8. block 418, PDF p.61 [speech | Moses Otieno Kajwang']
+   Name check: PDF says 'The Senate Majority Leader (Sen. Murkomen)', block says 'Moses Otieno Kajwang' '.
+   Text: "Mr. Temporary Speaker, Sir, we have 47 leaders elected to look into the interests of women, forgetting that th"
+
+9. block 430, PDF p.61 [speech | Amos Wako]
+   PDF shows a new speaker ('Sen. Pareno') starting inside this block: "Mr. Temporary Speaker, Sir, I rise to second that amendment....". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, if we say that it may not be possible for everybody to fly the national flag at th"
+
+10. block 430, PDF p.61 [speech | Amos Wako]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Malalah)') starting inside this block: "I open up the matter for debate. I welcome Sen. Faki from Mo...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, if we say that it may not be possible for everybody to fly the national flag at th"
+

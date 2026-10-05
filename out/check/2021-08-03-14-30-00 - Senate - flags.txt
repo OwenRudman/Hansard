@@ -1,0 +1,5 @@
+2021-08-03-14-30-00 - Senate: 1 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. blocks 1, 20, 39, 41, 43, 45, 47, 49, 52, 54, 56, 58, 62, 71, 73, 77, 79, 81, 85, 90, 94, 99, 101, 105, 107, 111, 113, 117, 119, 121, 123, 126, 129, 131, 135, 137, 144, 146, 150, 153, 159, 161, 165, 169, 175, 177, 190, 192, 194
+   49 page markers ('Page N of <date>') the cleaner missed were marked deleted. Where the speech blocks just above and below one of them are the same speech, combine them.
+

@@ -1,0 +1,14 @@
+2018-06-07-14-30-00 - Senate: 3 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 94 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "BILLS Second Reading"
+
+2. block 170, PDF p.34 [speech | George Khaniri]
+   PDF shows a new speaker ('Sen. (Dr.) Musuruve') starting inside this block: "Thank you, Madam Temporary Speaker, for the opportunity to s...". May need a split.
+   Text: "Thank you, Madam Temporary Speaker, for granting me this opportunity to move this important Motion. I beg to m"
+
+3. block 188 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "."
+

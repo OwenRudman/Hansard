@@ -1,0 +1,10 @@
+2018-08-09-14-30-00 - Senate: 2 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 115, PDF p.29 [speech | Agnes Zani]
+   Name check: PDF says 'Sen. (Eng.) Maina', block says 'Agnes Zani '.
+   Text: "Thank you, Madam Temporary Speaker. From the outset, I stand to support this very important Energy Bill, which"
+
+2. block 230, PDF p.72 [speech | (Sen. (Prof.) Kamar)]
+   PDF shows a new speaker ('Sen. (Dr.) Zani') starting inside this block: "Madam Temporary Speaker, did you hear how you were referred ...". May need a split.
+   Text: "There is a point of order from Sen. (Dr.) Zani. Sen. (Dr.) Zani: Madam Temporary Speaker, did you hear how you"
+

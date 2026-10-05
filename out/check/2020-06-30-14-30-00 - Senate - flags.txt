@@ -1,0 +1,22 @@
+2020-06-30-14-30-00 - Senate: 5 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 38 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "BILLS Second Reading"
+
+2. block 182, PDF p.18 [other]
+   PDF shows a new speaker ('The Chairperson (Sen. (Prof.) Kamar)') starting inside this block: "Hon. Senators, the results for the last Division are as foll...". May need a split.
+   Text: "Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo Count"
+
+3. block 186, PDF p.27 [speech | (Sen. (Prof.) Kamar)]
+   Name check: PDF says 'The Speaker (Hon. Lusaka)', block says '(Sen. (Prof.) Kamar) The Chairperson'.
+   Text: "Hon Senators, the results of the Division are as follows-  AYES  : 38  NOES"
+
+4. block 200, PDF p.28 [speech | (Sen. (Prof.) Kamar)]
+   Name check: PDF says 'The Speaker (Hon. Lusaka)', block says '(Sen. (Prof.) Kamar) The Chairperson'.
+   Text: "Hon. Senators, the results of the vote on the National Assembly Amendments to the Office of the County Attorne"
+
+5. block 212, PDF p.29 [speech | (Sen. (Prof.) Kamar)]
+   Name check: PDF says 'The Speaker (Hon. Lusaka)', block says '(Sen. (Prof.) Kamar) The Chairperson'.
+   Text: "Hon. Senators, the results of the Division are as follows: -  AYES:  33  NOES:"
+

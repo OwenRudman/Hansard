@@ -1,0 +1,42 @@
+2019-04-09-14-30-00 - Senate: 10 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 36, PDF p.11 [speech | Paul Kimani Wamatangi]
+   Name check: PDF says 'Sen. Wetangula', block says 'Paul Kimani Wamatangi '.
+   Text: "Mr. Deputy Speaker, Sir, I wish to join you in welcoming our visitors today. On behalf of my colleague from La"
+
+2. block 36, PDF p.11 [speech | Paul Kimani Wamatangi]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Thank you, Sen. Wetangula. Next is the request for Statement...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I wish to join you in welcoming our visitors today. On behalf of my colleague from La"
+
+3. block 38, PDF p.11 [speech | Sam Ongeri]
+   Name check: PDF says 'Sen. (Dr.) Milgo', block says 'Sam Ongeri '.
+   Text: "Mr. Deputy Speaker, Sir, I take this pleasant moment to welcome the students from Homa Bay and Nyamira Countie"
+
+4. block 40, PDF p.13 [speech | Ochilo George Mbogo Ayacko]
+   Name check: PDF says 'Sen. (Dr.) Musuruve', block says 'Ochilo George Mbogo Ayacko '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me an opportunity to welcome the delegation from Laikipia Count"
+
+5. block 40, PDF p.13 [speech | Ochilo George Mbogo Ayacko]
+   PDF shows a new speaker ('Sen. Kasanga') starting inside this block: "Sorry, Mr. Deputy Speaker, Sir. I would have spoken after he...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me an opportunity to welcome the delegation from Laikipia Count"
+
+6. block 40, PDF p.13 [speech | Ochilo George Mbogo Ayacko]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "It has been overtaken by events. You did not create the cond...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me an opportunity to welcome the delegation from Laikipia Count"
+
+7. block 40, PDF p.13 [speech | Ochilo George Mbogo Ayacko]
+   PDF shows a new speaker ('Sen. Kasanga') starting inside this block: "Mr. Deputy Speaker, Sir, I did not shout. My buzzer and his ...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me an opportunity to welcome the delegation from Laikipia Count"
+
+8. block 40, PDF p.13 [speech | Ochilo George Mbogo Ayacko]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "The Senate waits for no man, woman or Senator....". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me an opportunity to welcome the delegation from Laikipia Count"
+
+9. block 60 [speech]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "(Sen. (Prof.) Kindiki: Next Order!"
+
+10. block 8 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "IMMINENT BAN ON THE USE OF ANIMAL MANURE IN CROP FARMING"
+

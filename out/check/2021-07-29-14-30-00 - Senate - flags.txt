@@ -1,0 +1,118 @@
+2021-07-29-14-30-00 - Senate: 29 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 25, PDF p.24 [speech | Milgo Alice Chepkorir]
+   Name check: PDF says 'Sen. (Dr.) Langat', block says 'Milgo Alice Chepkorir '.
+   Text: "Madam Deputy Speaker, I beg to lay the following Paper on the Table of the Senate today, 29th July 2021- Repor"
+
+2. block 28, PDF p.25 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. Mwaruma', block says 'Johnson Arthur Sakaja '.
+   Text: "Thank you, Madam Deputy Speaker. I beg to lay the following Papers on the Table of the Senate, today, 29th Jul"
+
+3. block 35, PDF p.25 [speech | Dullo Fatuma Adan]
+   Name check: PDF says 'Sen. (Prof.) Ekal', block says 'Dullo Fatuma Adan '.
+   Text: "Thank you, Madam Deputy Speaker. I rise under Standing Order No.48(4) regarding this report tabled by the Chai"
+
+4. block 35, PDF p.25 [speech | Dullo Fatuma Adan]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kamar)') starting inside this block: "Thank you. The next one is by Sen. Halake....". May need a split.
+   Text: "Thank you, Madam Deputy Speaker. I rise under Standing Order No.48(4) regarding this report tabled by the Chai"
+
+5. block 58, PDF p.27 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. Olekina', block says 'Johnson Arthur Sakaja '.
+   Text: "Madam Deputy Speaker, let me explain."
+
+6. block 60, PDF p.27 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. Kinyua', block says 'Johnson Arthur Sakaja '.
+   Text: "Madam Deputy Speaker, probably it would have been useful if you knew that you were going to open up the Report"
+
+7. block 60, PDF p.27 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kamar)') starting inside this block: "We are not debating it....". May need a split.
+   Text: "Madam Deputy Speaker, probably it would have been useful if you knew that you were going to open up the Report"
+
+8. block 60, PDF p.27 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('Sen. Kinyua') starting inside this block: "I am not debating. I am just putting it for the purpose of t...". May need a split.
+   Text: "Madam Deputy Speaker, probably it would have been useful if you knew that you were going to open up the Report"
+
+9. block 60, PDF p.27 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kamar)') starting inside this block: "Hon. Senator, we do not want to work for the Committee. Thes...". May need a split.
+   Text: "Madam Deputy Speaker, probably it would have been useful if you knew that you were going to open up the Report"
+
+10. block 64, PDF p.29 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. Olekina', block says 'Johnson Arthur Sakaja '.
+   Text: "Madam Deputy Speaker, this Report--- If there was one I would delay the report."
+
+11. block 66, PDF p.29 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. Olekina', block says 'Johnson Arthur Sakaja '.
+   Text: "Madam Deputy Speaker, there was a team there. This Report having been adopted by five Members of the Committee"
+
+12. block 71, PDF p.30 [speech | Kipchumba Murkomen]
+   Name check: PDF says 'Sen. Olekina', block says 'Kipchumba Murkomen '.
+   Text: "Madam Deputy Speaker, I have followed what Sen. Sakaja said very keenly and you have said that there is a Repo"
+
+13. block 77, PDF p.30 [speech | John Kinyua Nderitu]
+   Name check: PDF says 'Sen. Cheruiyot', block says 'John Kinyua Nderitu '.
+   Text: "Madam Deputy Speaker, thank you."
+
+14. block 78, PDF p.32 [speech | Paul Kimani Wamatangi]
+   Name check: PDF says 'Sen. Sakaja', block says 'Paul Kimani Wamatangi '.
+   Text: "Madam Deputy Speaker, I raised my hand and I am sure maybe you had not seen me on a point of order when the Ch"
+
+15. block 78, PDF p.32 [speech | Paul Kimani Wamatangi]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kamar)') starting inside this block: "The ears of the Speaker cannot hear what has not been pronou...". May need a split.
+   Text: "Madam Deputy Speaker, I raised my hand and I am sure maybe you had not seen me on a point of order when the Ch"
+
+16. block 80, PDF p.33 [speech | Paul Kimani Wamatangi]
+   Name check: PDF says 'Sen. Sakaja', block says 'Paul Kimani Wamatangi '.
+   Text: "Madam Deputy Speaker, my point is simple. The Chairperson of the Committee is out of order to mislead the Hous"
+
+17. block 84, PDF p.33 [speech | Mutula Kilonzo Jnr]
+   Name check: PDF says 'Sen. Sakaja', block says 'Mutula Kilonzo Jnr '.
+   Text: "Madam Deputy Speaker, we will not mince our words. This Report is terrible. The Committee, as Sen. Kinyua has "
+
+18. block 84, PDF p.33 [speech | Mutula Kilonzo Jnr]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kamar)') starting inside this block: "Thank you. That is why I am saying please do not---...". May need a split.
+   Text: "Madam Deputy Speaker, we will not mince our words. This Report is terrible. The Committee, as Sen. Kinyua has "
+
+19. block 96, PDF p.33 [speech | Mutula Kilonzo Jnr]
+   Name check: PDF says 'Sen. Sakaja', block says 'Mutula Kilonzo Jnr '.
+   Text: "How?"
+
+20. block 348 [speech]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "(Sen. (Prof.) Kamar: No. That is not---"
+
+21. block 434, PDF p.56 [speech | Johnes Mwashushe Mwaruma]
+   Name check: PDF says 'Sen. Ndwiga', block says 'Johnes Mwashushe Mwaruma '.
+   Text: "Madam Temporary Chairperson, pursuant to Standing Order No.148 I beg to move that the Committee of the Whole d"
+
+22. block 446, PDF p.70 [speech | Ledama Olekina]
+   Name check: PDF says 'Sen. Ndwiga', block says 'Ledama Olekina '.
+   Text: "Madam Temporary Chairperson, I beg to move- THAT Clause 4 of the Bill be amended in paragraph (e) by inserting"
+
+23. block 1005, PDF p.83 [speech | Njeru Ndwiga]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Nyamunga)') starting inside this block: "Thank you Senators for the contributions. As requested, I de...". May need a split.
+   Text: "Pursuant to Standing Order No.148 I move that the Committee of the Whole do report progress on its considerati"
+
+24. block 1014 [speech]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "(Sen. (Prof.) Kamar: Proceed, Mover."
+
+25. block 1073, PDF p.85 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. (Dr.) Zani', block says 'Johnson Arthur Sakaja '.
+   Text: "Madam Temporary Speaker, I appreciate Sen. (Dr.) Zani. I just want to inform her that Oscar Wilde once said th"
+
+26. block 1 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "PARLIAMENT OF KENYA"
+
+27. block 2 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "THE SENATE"
+
+28. block 3 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "THE HANSARD"
+
+29. block 5 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "The House met at the Senate Chamber, Parliament Buildings, at 2.30 p.m."
+

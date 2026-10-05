@@ -1,0 +1,52 @@
+2020-12-17-14-05-00 - Senate: 12 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 523 [speech]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "(Hon.) Lusaka): Order!"
+
+2. block 1214, PDF p.95 [speech | Hon. Lusaka]
+   Name check: PDF says 'The Deputy Speaker (Sen. (Prof.) Kamar)', block says 'Hon. Lusaka (The Speaker)'.
+   Text: "Thank you very much. Governor, you should sit down. You have been standing for long. Governor, you can take yo"
+
+3. block 1228, PDF p.110 [speech | Aaron Kipkirui Cheruiyot]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "It is seconded. Therefore, I will just give three minutes.
+S...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. I just have a clarification. I need the Assembly to point us through; I have gone"
+
+4. block 1228, PDF p.110 [speech | Aaron Kipkirui Cheruiyot]
+   PDF shows a new speaker ('Sen. Sakaja') starting inside this block: "Mr. Speaker, Sir, thank you. I would like to---...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. I just have a clarification. I need the Assembly to point us through; I have gone"
+
+5. block 1228, PDF p.110 [speech | Aaron Kipkirui Cheruiyot]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "Sen. (Prof.) Kindiki, proceed....". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. I just have a clarification. I need the Assembly to point us through; I have gone"
+
+6. block 1228, PDF p.110 [speech | Aaron Kipkirui Cheruiyot]
+   PDF shows a new speaker ('Sen. (Prof.) Kindiki') starting inside this block: "Mr. Speaker, Sir, the Senator for Kakamega County has moved ...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. I just have a clarification. I need the Assembly to point us through; I have gone"
+
+7. block 1228, PDF p.110 [speech | Aaron Kipkirui Cheruiyot]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "Okay. A Motion has been proposed to limit the time of the Mo...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. I just have a clarification. I need the Assembly to point us through; I have gone"
+
+8. block 1229, PDF p.112 [speech | Erick Okong'o Mogeni]
+   PDF shows a new speaker ('Sen. Olekina') starting inside this block: "Thank you, Mr. Speaker, Sir. I rise to oppose this Motion wi...". May need a split.
+   Text: "Mr. Speaker, Sir, having listened to my colleagues, there is an issue that I want us to handle with a lot of c"
+
+9. block 1233, PDF p.118 [speech | Sen. (Dr.) Ochillo-Ayacko]
+   Name check: PDF says 'Sen. Wetangula', block says 'Sen. (Dr.) Ochillo-Ayacko '.
+   Text: "Thank you, Mr. Speaker, Sir. I want to ask questions to both sides; the prosecuting side and the side defendin"
+
+10. block 1235, PDF p.119 [speech | Rose Nyamunga Ogendo]
+   Name check: PDF says 'Sen. Farhiya', block says 'Rose Nyamunga Ogendo '.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me this opportunity. From the governor's presentation, it was very cle"
+
+11. block 1244, PDF p.119 [speech | Mr. Ndegwa Njiru]
+   PDF shows a new speaker ('Sen. Omanga') starting inside this block: "Mr. Speaker, Sir, I cannot substantiate the obvious.
+I want ...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. My name again is Mr. Ndegwa Njiru. We want to thank you for the opportunity you h"
+
+12. block 1244, PDF p.119 [speech | Mr. Ndegwa Njiru]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "Order! Do not just plough through. Make sure your people are...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. My name again is Mr. Ndegwa Njiru. We want to thank you for the opportunity you h"
+

@@ -1,0 +1,78 @@
+2021-05-11-14-30-00 - Senate: 19 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 255, PDF p.21 [speech | Kipchumba Murkomen]
+   Name check: PDF says 'Sen. (Prof.) Ongeri', block says 'Kipchumba Murkomen '.
+   Text: "Madam Deputy Speaker, can you hear me?"
+
+2. block 257, PDF p.21 [speech | Kipchumba Murkomen]
+   Name check: PDF says 'Sen. Omogeni', block says 'Kipchumba Murkomen '.
+   Text: "Madam Deputy Speaker, as I said, for the third time and on behalf of the people of Kenya and for posterity, fo"
+
+3. block 259, PDF p.22 [speech | Sen. Kavindu Muthama]
+   Name check: PDF says 'The Senate Minority Leader (Sen. Orengo)', block says 'Sen. Kavindu Muthama '.
+   Text: "Madam Deputy Speaker, on behalf of the people of Machakos, we have received three constituencies and we cannot"
+
+4. block 265, PDF p.22 [speech | Johnes Mwashushe Mwaruma]
+   Name check: PDF says 'The Senate Minority Leader (Sen. Orengo)', block says 'Johnes Mwashushe Mwaruma '.
+   Text: "Madam Deputy Speaker, Taita-Taveta votes yes."
+
+5. block 269, PDF p.23 [speech | John Kinyua Nderitu]
+   Name check: PDF says 'Sen. Kavindu Muthama', block says 'John Kinyua Nderitu '.
+   Text: "Madam Deputy Speaker, I vote yes."
+
+6. block 271, PDF p.23 [speech | Njeru Ndwiga]
+   Name check: PDF says 'Sen. Wetangula', block says 'Njeru Ndwiga '.
+   Text: "Madam Deputy Speaker, on behalf of the great people of Embu County, and on behalf of those who know the histor"
+
+7. block 273, PDF p.23 [speech | Rose Nyamunga Ogendo]
+   Name check: PDF says 'Sen. Cherargei', block says 'Rose Nyamunga Ogendo '.
+   Text: "Madam Deputy Speaker, on behalf of the people of Kisumu, I vote yes."
+
+8. block 275, PDF p.23 [speech | Ledama Olekina]
+   PDF shows a new speaker ('Sen. Madzayo') starting inside this block: "Bi Naibu Spika, asante sana kwa kunipa fursa hii. Kwanza nam...". May need a split.
+   Text: "Madam Deputy Speaker, once again, this being a Bill by popular initiative I am confident that the vote of cons"
+
+9. block 278, PDF p.24 [speech | Ledama Olekina]
+   Name check: PDF says 'Sen. Sakaja', block says 'Ledama Olekina '.
+   Text: "Madam Deputy Speaker, I said once again this is not a conscious vote which---"
+
+10. block 292, PDF p.26 [speech | Judith Ramaita Pareno]
+   Name check: PDF says 'Sen. (Dr.) Milgo', block says 'Judith Ramaita Pareno '.
+   Text: "Madam Deputy Speaker, for the sake of Kajiado County, the women, my party ODM that believes in devolution, pea"
+
+11. block 301, PDF p.27 [speech | Mary Yiane Senata]
+   Name check: PDF says 'Sen. Kang’ata', block says 'Mary Yiane Senata '.
+   Text: "Madam Deputy Speaker, I choose to abstain."
+
+12. block 320, PDF p.28 [speech | Sen. (Dr.): Ochillo-Ayacko]
+   Name check: PDF says 'Sen. Shiyonga', block says 'Sen. (Dr.): Ochillo-Ayacko '.
+   Text: "Madam Deputy Speaker, can you now hear me?"
+
+13. block 325, PDF p.29 [speech | Golich Juma Wario]
+   Name check: PDF says 'The Senate Majority Leader (Sen. Poghisio)', block says 'Golich Juma Wario '.
+   Text: "Madam Deputy Speaker---"
+
+14. block 347, PDF p.30 [speech | Erick Okong'o Mogeni]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kamar)') starting inside this block: "Sen. Poghisio, there is another point of order, but you brou...". May need a split.
+   Text: "Madam Deputy Speaker, I just wanted to give some words of comfort to my good friend Sen. (Prof.) Ongeri that o"
+
+15. block 349, PDF p.31 [speech | James Orengo]
+   Name check: PDF says 'The Senate Majority Leader (Sen. Poghisio)', block says 'James Orengo (The Senate Minority Leader)'.
+   Text: "Madam Deputy Speaker, I want to thank the House for passing this Bill. There are many people who have very sim"
+
+16. block 349, PDF p.31 [speech | James Orengo]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kamar)') starting inside this block: "Thank you. I agree that you had not started and so, you can ...". May need a split.
+   Text: "Madam Deputy Speaker, I want to thank the House for passing this Bill. There are many people who have very sim"
+
+17. block 349, PDF p.31 [speech | James Orengo]
+   PDF shows a new speaker ('The Senate Majority Leader (Sen. Poghisio)') starting inside this block: "Thank you, Madam Deputy Speaker. Let me now move the Motion....". May need a split.
+   Text: "Madam Deputy Speaker, I want to thank the House for passing this Bill. There are many people who have very sim"
+
+18. block 355, PDF p.31 [speech | Sen. Kavindu Muthama]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kamar)') starting inside this block: "Thank you. Sen. Madzayo, kindly, proceed....". May need a split.
+   Text: "Madam Deputy Speaker, I thank you for giving me this opportunity. I am grateful that the Bill proposes an addi"
+
+19. block 355, PDF p.31 [speech | Sen. Kavindu Muthama]
+   PDF shows a new speaker ('Sen. Madzayo') starting inside this block: "Shukran, Bi. Naibu Spika. Kwanza, natoa shukran kwa Rais wa ...". May need a split.
+   Text: "Madam Deputy Speaker, I thank you for giving me this opportunity. I am grateful that the Bill proposes an addi"
+

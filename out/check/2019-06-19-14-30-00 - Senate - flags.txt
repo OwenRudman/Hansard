@@ -1,0 +1,23 @@
+2019-06-19-14-30-00 - Senate: 5 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 18, PDF p.2 [speech | Kipchumba Murkomen]
+   Name check: PDF says 'Sen. Mwangi', block says 'Kipchumba Murkomen (The Senate Majority Leader)'.
+   Text: "Mr. Speaker, Sir, I beg to lay the following Paper on the Table of the Senate today, Wednesday, 19th June, 201"
+
+2. block 21, PDF p.3 [speech | Ephraim Mwangi Maina]
+   Name check: PDF says 'The Senate Majority Leader (Sen. Murkomen)', block says 'Ephraim Mwangi Maina '.
+   Text: "Mr. Speaker, Sir, I beg to lay the following Paper on the Table of the Senate today, Wednesday, 19th June, 201"
+
+3. block 30, PDF p.16 [speech | Mutula Kilonzo Jnr]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "There is no request to comment on this Motion.
+Hon. Senators...". May need a split.
+   Text: "Mr. Speaker, Sir, I rise pursuant to Standing Order 48(1), to seek a Statement from the Chairperson of the Sta"
+
+4. block 30, PDF p.16 [speech | Mutula Kilonzo Jnr]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "Order! Hon. Senators, I now direct that the Bars be drawn an...". May need a split.
+   Text: "Mr. Speaker, Sir, I rise pursuant to Standing Order 48(1), to seek a Statement from the Chairperson of the Sta"
+
+5. block 383, PDF p.53 [speech | (Sen. (Prof) Kindiki)]
+   Name check: PDF says 'The Temporary Speaker (Sen. (Prof.) Kamar)', block says '(Sen. (Prof) Kindiki) The Deputy Speaker'.
+   Text: "Hon. Senators, it is now time for Division. We are going to ring the bell for three minutes. Note that we have"
+

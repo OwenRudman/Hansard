@@ -1,0 +1,138 @@
+2019-11-26-14-30-00 - Senate: 33 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 11 [scene]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "(Paper stood down)"
+
+2. block 29 [scene]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "(Interruption of Notice of Motion)"
+
+3. block 34, PDF p.13 [speech | Cherarkey K Samson]
+   Name check: PDF says 'Sen. Wamatangi', block says 'Cherarkey K Samson '.
+   Text: "Mr. Deputy Speaker, Sir, I rise on point of order to seek leave to withdraw the Report of the Standing Committ"
+
+4. block 37, PDF p.13 [speech | Cherarkey K Samson]
+   Name check: PDF says 'Sen. Wamatangi', block says 'Cherarkey K Samson '.
+   Text: "Mr. Deputy Speaker, Sir, I do not know why Members are excited. The Report was laid on the Table of the Senate"
+
+5. block 37, PDF p.13 [speech | Cherarkey K Samson]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Not now. Even now?...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I do not know why Members are excited. The Report was laid on the Table of the Senate"
+
+6. block 37, PDF p.13 [speech | Cherarkey K Samson]
+   PDF shows a new speaker ('Sen. Wamatangi') starting inside this block: "Thank you, Mr. Deputy Speaker, Sir....". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I do not know why Members are excited. The Report was laid on the Table of the Senate"
+
+7. block 37, PDF p.13 [speech | Cherarkey K Samson]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "We are done with that particular order.
+Next Order....". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I do not know why Members are excited. The Report was laid on the Table of the Senate"
+
+8. block 37, PDF p.13 [speech | Cherarkey K Samson]
+   PDF shows a new speaker ('Sen. (Dr.) Langat') starting inside this block: "Thank you, Mr. Deputy Speaker, Sir. Pursuant to Standing Ord...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I do not know why Members are excited. The Report was laid on the Table of the Senate"
+
+9. block 45, PDF p.21 [speech | Cherarkey K Samson]
+   Name check: PDF says 'Sen. M. Kajwang’', block says 'Cherarkey K Samson '.
+   Text: "Mr. Deputy Speaker, Sir, I withdraw and apologise."
+
+10. block 52, PDF p.22 [speech | Masitsa Naomi Shiyonga]
+   Name check: PDF says 'Sen. Cheruiyot', block says 'Masitsa Naomi Shiyonga '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. We were waiting to hear what the Senator for Nandi, Sen. Cherargei, has ju"
+
+11. block 58, PDF p.23 [speech | Ephraim Mwangi Maina]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "The time is up.
+Proceed, Sen. Farhiya and, please, be brief....". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I want to say that we should be careful in this House. Let us not try to a"
+
+12. block 73, PDF p.24 [speech | Franklin Mithika Linturi]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Thank you very much. Thank you Sen. M. Kajwang’. Your Report...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I seek your indulgence on this matter because whatever I am likely to say may not go "
+
+13. block 80, PDF p.29 [speech | Franklin Mithika Linturi]
+   Name check: PDF says 'Sen. M. Kajwang'', block says 'Franklin Mithika Linturi '.
+   Text: "Mr. Deputy Speaker, Sir, I had decided---"
+
+14. block 94, PDF p.33 [speech | Franklin Mithika Linturi]
+   Name check: PDF says 'Sen. Kibiru', block says 'Franklin Mithika Linturi '.
+   Text: "Mr. Deputy Speaker, Sir, I was trying to gauge the ground on the basis of withdrawal."
+
+15. block 119, PDF p.33 [speech | Moses Otieno Kajwang']
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Well done, Sen. Kibiru....". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, yes, a matter for the House. It should not even be contemplated since the Committee h"
+
+16. block 123, PDF p.38 [speech | Margaret Kamar]
+   Name check: PDF says 'Sen. Wambua', block says 'Margaret Kamar '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity. I would like to contribute to this Stateme"
+
+17. block 123, PDF p.38 [speech | Margaret Kamar]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Order, Hon. Senator.
+Sen. (Dr.) Langat and Sen. Cherargei ki...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity. I would like to contribute to this Stateme"
+
+18. block 125, PDF p.38 [speech | Margaret Kamar]
+   Name check: PDF says 'Sen. Wambua', block says 'Margaret Kamar '.
+   Text: "Mr. Deputy Speaker, Sir, you know, as much as I know, that we have closed this House with a quorum that has ha"
+
+19. block 132, PDF p.38 [speech | Mary Yiane Senata]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Order, Senators. I wish to give directions as follows:-
+We h...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I wish to seek your indulgence on the procedure of the Statement by the Chairperson o"
+
+20. block 147, PDF p.42 [speech | Enoch Kiio Wambua]
+   Name check: PDF says 'The Senate Minority Leader (Sen. Orengo)', block says 'Enoch Kiio Wambua '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for this opportunity. I am rising on a matter of procedure because as it w"
+
+21. block 151, PDF p.43 [speech | Farhiya Ali Haji]
+   Name check: PDF says 'Sen. Wetangula', block says 'Farhiya Ali Haji '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity. As you can see, even getting the microphon"
+
+22. block 179 [scene]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "(Resumption of Notice of Motion)"
+
+23. block 344, PDF p.52 [speech | Getrude Musuruve Inimah]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Prof.) Kamar)') starting inside this block: "I will allow you one more minute....". May need a split.
+   Text: "Madam Temporary Speaker, I thank you for giving me the opportunity to ventilate on this Motion. I also thank S"
+
+24. block 344, PDF p.52 [speech | Getrude Musuruve Inimah]
+   PDF shows a new speaker ('Sen. Wetangula') starting inside this block: "One minute is too little....". May need a split.
+   Text: "Madam Temporary Speaker, I thank you for giving me the opportunity to ventilate on this Motion. I also thank S"
+
+25. block 344, PDF p.52 [speech | Getrude Musuruve Inimah]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Prof.) Kamar)') starting inside this block: "You still have two minutes....". May need a split.
+   Text: "Madam Temporary Speaker, I thank you for giving me the opportunity to ventilate on this Motion. I also thank S"
+
+26. block 344, PDF p.52 [speech | Getrude Musuruve Inimah]
+   PDF shows a new speaker ('Sen. Wetangula') starting inside this block: "Madam Temporary Speaker, when Americans are killed in the co...". May need a split.
+   Text: "Madam Temporary Speaker, I thank you for giving me the opportunity to ventilate on this Motion. I also thank S"
+
+27. block 344, PDF p.52 [speech | Getrude Musuruve Inimah]
+   PDF shows a new speaker ('Sen. (Dr.) Zani') starting inside this block: "Madam Temporary Speaker, I wish to start by thanking Sen. (D...". May need a split.
+   Text: "Madam Temporary Speaker, I thank you for giving me the opportunity to ventilate on this Motion. I also thank S"
+
+28. block 346, PDF p.54 [speech | Ochilo George Mbogo Ayacko]
+   Name check: PDF says 'Sen. (Dr.) Zani', block says 'Ochilo George Mbogo Ayacko '.
+   Text: "Thank you, Madam Temporary Speaker, for giving me an opportunity to add my voice to those of the people of goo"
+
+29. block 347, PDF p.54 [speech | Moses Masika Wetangula]
+   Name check: PDF says 'Sen. (Prof.) Ongeri', block says 'Moses Masika Wetangula '.
+   Text: "Thank you, Madam Temporary Speaker, for giving me time to contribute to this Motion of Adjournment. I send my "
+
+30. block 354, PDF p.55 [speech | Agnes Zani]
+   Name check: PDF says 'The Senate Minority Leader (Sen. Orengo)', block says 'Agnes Zani '.
+   Text: "Madam Temporary Speaker, I wish to start by thanking Sen. (Dr.) Langat for bringing this important Motion for "
+
+31. block 357, PDF p.57 [speech | Agnes Zani]
+   Name check: PDF says 'Sen. Omogeni', block says 'Agnes Zani '.
+   Text: "Thank you, Madam Temporary Speaker. We will move away from this if those other plans are put in place. It is a"
+
+32. block 358, PDF p.58 [speech | Sam Ongeri]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Prof.) Kamar)') starting inside this block: "Thank you, Senators, for those good contributions....". May need a split.
+   Text: "Thank you, Madam Temporary Speaker, for allowing me to express my sympathy and condolences to the families in "
+
+33. block 372 [speech]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "(Sen. (Prof.) Kamar: Please conclude!"
+

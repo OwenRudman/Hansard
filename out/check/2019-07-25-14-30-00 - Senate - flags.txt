@@ -1,0 +1,38 @@
+2019-07-25-14-30-00 - Senate: 9 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 43, PDF p.41 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. M. Kajwang’', block says 'Johnson Arthur Sakaja '.
+   Text: "On a point of order, Mr. Speaker, Sir. I heard you say the Senator of Nairobi County. I would like to confirm "
+
+2. block 43, PDF p.41 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Dr.) Lelegwe)') starting inside this block: "What is your point of order, Sen. M. Kajwang'?...". May need a split.
+   Text: "On a point of order, Mr. Speaker, Sir. I heard you say the Senator of Nairobi County. I would like to confirm "
+
+3. block 43, PDF p.41 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('Sen. M. Kajwang'') starting inside this block: "On a point of order, Mr. Temporary Speaker, Sir. There is so...". May need a split.
+   Text: "On a point of order, Mr. Speaker, Sir. I heard you say the Senator of Nairobi County. I would like to confirm "
+
+4. block 351, PDF p.52 [speech | Dullo Fatuma Adan]
+   Name check: PDF says 'Sen. (Dr.) Musuruve', block says 'Dullo Fatuma Adan '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I beg to move that the House do agree with the Committee in the said Re"
+
+5. block 360, PDF p.54 [speech | Paul Kimani Wamatangi]
+   Name check: PDF says 'Sen. Farhiya', block says 'Paul Kimani Wamatangi '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I rise pursuant to Standing Order No. 51(1)(b) to make a Statement on t"
+
+6. block 360, PDF p.54 [speech | Paul Kimani Wamatangi]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Lelegwe)') starting inside this block: "Hon. Senators, there being no other requests to comment on t...". May need a split.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I rise pursuant to Standing Order No. 51(1)(b) to make a Statement on t"
+
+7. block 360, PDF p.54 [speech | Paul Kimani Wamatangi]
+   PDF shows a new speaker ('Sen. M. Kajwang’') starting inside this block: "Thank you, Mr. Temporary Speaker, Sir. I would like to thank...". May need a split.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I rise pursuant to Standing Order No. 51(1)(b) to make a Statement on t"
+
+8. block 370, PDF p.59 [speech | Moses Otieno Kajwang']
+   Name check: PDF says 'Sen. (Dr.) Zani', block says 'Moses Otieno Kajwang' '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir, for protecting me. I just wanted the Chair to help us understand the wa"
+
+9. block 371, PDF p.61 [speech | Cherarkey K Samson]
+   Name check: PDF says 'Sen. Farhiya', block says 'Cherarkey K Samson '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I have heard the distinguished Senator for Kiambu County - who has the "
+

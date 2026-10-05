@@ -1,0 +1,71 @@
+2019-07-10-14-30-00 - Senate: 17 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 161, PDF p.22 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. (Dr.) Milgo', block says 'Johnson Arthur Sakaja '.
+   Text: "Thank you, Madam Temporary Speaker. I hope my time is being counted from now. First of all, I just want to con"
+
+2. block 163, PDF p.22 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Prof.) Kamar)') starting inside this block: "Thank you, Senator.
+Hon. Senators, that Statement, therefore...". May need a split.
+   Text: "Madam Temporary Speaker, we need to be looking at how to regulate certain aspects, for instance, my concern in"
+
+3. block 167, PDF p.22 [speech | Mutula Kilonzo Jnr]
+   Name check: PDF says 'Sen. Kibiru', block says 'Mutula Kilonzo Jnr '.
+   Text: "Thank you, Madam Temporary Speaker, I cannot agree to any proposal of this nature. Yesterday, I was in a funct"
+
+4. block 176, PDF p.32 [speech | Mary Yiane Senata]
+   Name check: PDF says 'Sen. Farhiya', block says 'Mary Yiane Senata '.
+   Text: "Thank you, Madam Temporary Speaker. I welcome students from the two schools from Kajiado County, and wish them"
+
+5. block 178, PDF p.39 [speech | Mary Yiane Senata]
+   Name check: PDF says 'Sen. Nyamunga', block says 'Mary Yiane Senata '.
+   Text: "Madam Temporary Speaker, I also oppose this Statement. The issue of forestry in this country is very important"
+
+6. block 189, PDF p.40 [speech | John Kinyua Nderitu]
+   Name check: PDF says 'Sen. Moi', block says 'John Kinyua Nderitu '.
+   Text: "Madam Temporary Speaker, I cannot see you because some Senators are standing between me and you."
+
+7. block 199, PDF p.40 [speech | Farhiya Ali Haji]
+   Name check: PDF says 'Sen. Moi', block says 'Farhiya Ali Haji '.
+   Text: "Madam Temporary Speaker, there are many issues in health and our Committee on Health needs to be more proactiv"
+
+8. block 199, PDF p.40 [speech | Farhiya Ali Haji]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Prof.) Kamar)') starting inside this block: "The Division will be at the end....". May need a split.
+   Text: "Madam Temporary Speaker, there are many issues in health and our Committee on Health needs to be more proactiv"
+
+9. block 199, PDF p.40 [speech | Farhiya Ali Haji]
+   PDF shows a new speaker ('Sen. Nyamunga') starting inside this block: "Madam Temporary Speaker, I beg to report that the Committee ...". May need a split.
+   Text: "Madam Temporary Speaker, there are many issues in health and our Committee on Health needs to be more proactiv"
+
+10. block 199, PDF p.40 [speech | Farhiya Ali Haji]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Prof.) Kamar)') starting inside this block: "Mover?...". May need a split.
+   Text: "Madam Temporary Speaker, there are many issues in health and our Committee on Health needs to be more proactiv"
+
+11. block 199, PDF p.40 [speech | Farhiya Ali Haji]
+   PDF shows a new speaker ('Sen. Faki') starting inside this block: "I second....". May need a split.
+   Text: "Madam Temporary Speaker, there are many issues in health and our Committee on Health needs to be more proactiv"
+
+12. block 199, PDF p.40 [speech | Farhiya Ali Haji]
+   PDF shows a new speaker ('Sen. Omogeni') starting inside this block: "Madam Temporary Speaker, I second....". May need a split.
+   Text: "Madam Temporary Speaker, there are many issues in health and our Committee on Health needs to be more proactiv"
+
+13. block 199, PDF p.40 [speech | Farhiya Ali Haji]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Prof.) Kamar)') starting inside this block: "The Division will be at the end....". May need a split.
+   Text: "Madam Temporary Speaker, there are many issues in health and our Committee on Health needs to be more proactiv"
+
+14. block 199, PDF p.40 [speech | Farhiya Ali Haji]
+   PDF shows a new speaker ('Sen. Nyamunga') starting inside this block: "Madam Temporary Speaker, I beg to report that the Committee ...". May need a split.
+   Text: "Madam Temporary Speaker, there are many issues in health and our Committee on Health needs to be more proactiv"
+
+15. block 279, PDF p.47 [speech | Rose Nyamunga Ogendo]
+   Name check: PDF says 'The Temporary Speaker (Sen. (Prof.) Kamar)', block says 'Rose Nyamunga Ogendo (The Temporary Chairperson)'.
+   Text: "Hon. Senators, the results of the Division are as follows:-  AYES  : 29  NOES"
+
+16. block 289, PDF p.47 [speech | Rose Nyamunga Ogendo]
+   Name check: PDF says 'The Temporary Speaker (Sen. (Prof.) Kamar)', block says 'Rose Nyamunga Ogendo (The Temporary Chairperson)'.
+   Text: "Hon. Senators, the results of the Division are as follows:-  AYES  : 31  NOES"
+
+17. block 362, PDF p.48 [speech | Rose Nyamunga Ogendo]
+   Name check: PDF says 'The Temporary Speaker (Sen. (Prof.) Kamar)', block says 'Rose Nyamunga Ogendo (The Temporary Chairperson)'.
+   Text: "Hon. Senators, I now put the question; that Clauses 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 15, New Clause"
+

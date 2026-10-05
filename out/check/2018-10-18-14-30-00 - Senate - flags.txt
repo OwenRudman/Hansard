@@ -1,0 +1,42 @@
+2018-10-18-14-30-00 - Senate: 10 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 243, PDF p.32 [speech | Cleophas Wakhungu Malalah]
+   Name check: PDF says 'Sen. Wako', block says 'Cleophas Wakhungu Malalah '.
+   Text: "Thank you, Madam Temporary Speaker. I am a proud former Member of County Assembly (MCA), who has been modified"
+
+2. block 247, PDF p.33 [speech | Amos Wako]
+   Name check: PDF says 'Sen. (Dr.) Langat', block says 'Amos Wako '.
+   Text: "Thank you, Madam Temporary Speaker. I support this Motion. As I do so, I hope the former herdsman who used to "
+
+3. block 249, PDF p.34 [speech | Christopher Andrew Langat]
+   Name check: PDF says 'Sen. (Dr.) Kabaka', block says 'Christopher Andrew Langat '.
+   Text: "Thank you, Madam Temporary Speaker, for also giving me this opportunity to support this Motion by Sen. Kinyua."
+
+4. block 249, PDF p.34 [speech | Christopher Andrew Langat]
+   PDF shows a new speaker ('Sen. Cheruiyot') starting inside this block: "Madam Temporary Speaker, in the spirit and the mood of the H...". May need a split.
+   Text: "Thank you, Madam Temporary Speaker, for also giving me this opportunity to support this Motion by Sen. Kinyua."
+
+5. block 251, PDF p.36 [speech | Boniface Mutinda Kabaka]
+   Name check: PDF says 'Sen. (Dr.) Musuruve', block says 'Boniface Mutinda Kabaka '.
+   Text: "Thank you, Madam Temporary Speaker for also giving me this opportunity. I am known not to tautologise or as a "
+
+6. block 254, PDF p.37 [speech | Getrude Musuruve Inimah]
+   Name check: PDF says 'Sen. (Prof) Kamar', block says 'Getrude Musuruve Inimah '.
+   Text: "Thank you, Madam Temporary Speaker, for the opportunity to contribute to this very important Motion. When we a"
+
+7. block 258, PDF p.39 [speech | Margaret Kamar]
+   Name check: PDF says 'Sen. Kang’ata', block says 'Margaret Kamar '.
+   Text: "Thank you, Madam Temporary Speaker, for giving me the opportunity to join my colleagues in supporting this gre"
+
+8. block 259, PDF p.40 [speech | Irungu Kang'ata]
+   Name check: PDF says 'Sen. (Dr.) Ali', block says 'Irungu Kang'ata '.
+   Text: "Thank you, Madam Temporary Speaker. Allow me to support this Motion for several reasons. The first reason is t"
+
+9. block 259, PDF p.40 [speech | Irungu Kang'ata]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Pareno)') starting inside this block: "Having no other requests, I now call upon the Mover to reply...". May need a split.
+   Text: "Thank you, Madam Temporary Speaker. Allow me to support this Motion for several reasons. The first reason is t"
+
+10. block 260, PDF p.41 [speech | Sen. (Dr.) Ali]
+   Name check: PDF says 'Sen. Kinyua', block says 'Sen. (Dr.) Ali '.
+   Text: "Thank you, Madam Temporary Speaker. I am happy to be the last one. I stand to support the Motion. I have never"
+

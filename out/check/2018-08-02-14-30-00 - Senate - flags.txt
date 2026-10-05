@@ -1,0 +1,46 @@
+2018-08-02-14-30-00 - Senate: 11 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 67, PDF p.14 [speech | (Sen. (Prof.) Kindiki)]
+   Name check: PDF says 'The Temporary Speaker (Sen. Pareno)', block says '(Sen. (Prof.) Kindiki) The Deputy Speaker'.
+   Text: "Hon. Senators, I have a communication to make on the Sixth Edition of the Kenya Inter-counties Sports and Cult"
+
+2. block 67, PDF p.14 [speech | (Sen. (Prof.) Kindiki)]
+   PDF shows a new speaker ('Sen. Khaniri') starting inside this block: "Thank you, Madam Temporary Speaker. Allow me to join you in ...". May need a split.
+   Text: "Hon. Senators, I have a communication to make on the Sixth Edition of the Kenya Inter-counties Sports and Cult"
+
+3. block 73, PDF p.23 [speech | Sam Ongeri]
+   Name check: PDF says 'Sen. Outa', block says 'Sam Ongeri '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. One of the uniqueness of Kisii County is that in the 1964 Vancouver Games,"
+
+4. block 73, PDF p.23 [speech | Sam Ongeri]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "I am Sorry, Sen. Outa; I did not quite get you.  What is out...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. One of the uniqueness of Kisii County is that in the 1964 Vancouver Games,"
+
+5. block 77, PDF p.23 [speech | John Kinyua Nderitu]
+   Name check: PDF says 'Sen. Outa', block says 'John Kinyua Nderitu '.
+   Text: "Mr. Deputy Speaker, Sir, I want to talk as the Chairman of the Committee on Devolution and Intergovernmental R"
+
+6. block 82, PDF p.24 [speech | Dullo Fatuma Adan]
+   Name check: PDF says 'Sen. Mutula Kilonzo Jnr.', block says 'Dullo Fatuma Adan '.
+   Text: "Mr. Deputy Speaker, Sir, I wish to reply. I hope the Committee will have requisite quorum now to run its busin"
+
+7. block 89, PDF p.25 [speech | Cleophas Wakhungu Malalah]
+   Name check: PDF says 'Sen. Mwaruma', block says 'Cleophas Wakhungu Malalah '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. The country is waiting for this House to debate the Motion about Solai Dam"
+
+8. block 91, PDF p.25 [speech | Cleophas Wakhungu Malalah]
+   Name check: PDF says 'Sen. Mutula Kilonzo Jnr.', block says 'Cleophas Wakhungu Malalah '.
+   Text: "Mr. Deputy Speaker, Sir, I was waiting for Order No.8."
+
+9. block 113, PDF p.38 [speech | Sen. Sakaja]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Prof.) Kamar)') starting inside this block: "Hon. Members, there is no conversation between the Mover and...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, it will be beneficial to this House and the Chairperson when a Senator contributes, y"
+
+10. block 154, PDF p.54 [speech | George Khaniri]
+   Name check: PDF says 'Sen. (Dr.) Milgo', block says 'George Khaniri '.
+   Text: "Thank you, Madam Temporary Speaker. Allow me to join you in welcoming the young girls from St. Elizabeth Erusu"
+
+11. block 157, PDF p.55 [speech | Sylvia Mueni Kasanga]
+   Name check: PDF says 'Sen. (Dr.) Musuruve', block says 'Sylvia Mueni Kasanga '.
+   Text: "Thank you, Madam Temporary Speaker. Let me also take this opportunity to welcome the students. We are looking "
+

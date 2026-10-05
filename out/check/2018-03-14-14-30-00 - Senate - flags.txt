@@ -1,0 +1,9 @@
+2018-03-14-14-30-00 - Senate: 2 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 187 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "BILLS Second Reading"
+
+2. whole sitting
+   Mzalendo's 2018-03-14 page is a duplicate of the 2018-03-15 sitting (127 of 128 text snippets identical). Audited against the 15 March PDF. The real 14 March transcript is on Mzalendo's 2018-03-28 page. Probably drop this file.
+

@@ -1,0 +1,30 @@
+2019-07-02-14-30-00 - Senate: 7 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 110, PDF p.19 [speech]
+   Name check: PDF says 'The Deputy Speaker (Sen. (Prof.) Kindiki', block says ' The Deputy Speaker'.
+   Text: "Hon. Senators, I would like to acknowledge, the presence, in the Public Gallery this afternoon, of visiting st"
+
+2. block 114, PDF p.21 [speech | Susan Wakarura Kihika]
+   Name check: PDF says 'Sen. Sakaja', block says 'Susan Wakarura Kihika '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I also join you in welcoming the students and teachers from Nakuru Boys' H"
+
+3. block 118, PDF p.25 [speech | Agnes Zani]
+   Name check: PDF says 'Sen. Kinyua', block says 'Agnes Zani '.
+   Text: "On a point of order, Mr. Deputy Speaker, Sir."
+
+4. block 120, PDF p.29 [speech | Agnes Zani]
+   Name check: PDF says 'Sen. Ochillo-Ayako', block says 'Agnes Zani '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. Would it be in order to take a moment to congratulate Sen. Halake for this"
+
+5. block 174, PDF p.31 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. Ochillo-Ayacko', block says 'Johnson Arthur Sakaja '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I join you in welcoming the students from St. Charles Lwanga High School t"
+
+6. block 233, PDF p.35 [speech | Erick Okong'o Mogeni]
+   Name check: PDF says 'Sen. (Dr.) Ali', block says 'Erick Okong'o Mogeni '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I rise to support this Bill. First, I would like to pass my condolences"
+
+7. block 234, PDF p.37 [speech | Sen. (Dr.) Ali]
+   Name check: PDF says 'Sen. (Prof.) Ongeri', block says 'Sen. (Dr.) Ali '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. The problem with the Senate is that we pass very good amendments, and w"
+

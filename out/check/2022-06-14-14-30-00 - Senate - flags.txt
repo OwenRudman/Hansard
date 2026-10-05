@@ -1,0 +1,22 @@
+2022-06-14-14-30-00 - Senate: 5 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 88, PDF p.28 [speech | Hon. Lusaka]
+   Name check: PDF says 'The Temporary Speaker (Sen. Pareno)', block says 'Hon. Lusaka (The Speaker)'.
+   Text: "There is a point of intervention from Sen. Farhiya."
+
+2. block 131, PDF p.36 [speech | Christopher Andrew Langat]
+   Name check: PDF says 'Sen. (Dr.) Musuruve', block says 'Christopher Andrew Langat '.
+   Text: "Thank you, Madam Temporary Speaker, for giving me the chance to support this Motion on the County Governments "
+
+3. block 145, PDF p.49 [speech | Cherarkey K Samson]
+   Name check: PDF says 'Sen. Faki', block says 'Cherarkey K Samson '.
+   Text: "Madam Temporary Speaker, I beg to lay the following Paper on the Table of the Senate, today, Tuesday, 14th Jun"
+
+4. block 343 [speech | Judith Ramaita Pareno]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "Mover, proceed.  At 2.30. P.m."
+
+5. block 384 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "At 2.30. P.m."
+

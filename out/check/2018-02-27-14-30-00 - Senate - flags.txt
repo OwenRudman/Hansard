@@ -1,0 +1,5 @@
+2018-02-27-14-30-00 - Senate: 1 to check.
+
+1. whole sitting
+   PDF layout not recognised by the parser (speaker lines start at x=118, expected 120-135), so the speaker-name and new-speaker checks did not run on this sitting. Check speakers and block splits by hand.
+

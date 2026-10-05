@@ -1,0 +1,55 @@
+2018-11-28-14-30-00 - Senate: 13 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 41 [speech | Michael Maling'a Mbito]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "1. State of 18/9/18 Visit to Pumwani Maternity Ongoing"
+
+2. block 60 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "DATE REMARKS REFERRED ACTION TAKEN BY THE NO BILL TO THE STATUS COMMITTEE COMMITT EE"
+
+3. block 90 [scene]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "(Sen. Dullo on 20.11.2018)"
+
+4. block 134, PDF p.27 [speech | George Khaniri]
+   Name check: PDF says 'Sen. Cheruiyot', block says 'George Khaniri '.
+   Text: "Thank you, Madam Temporary Speaker."
+
+5. block 135, PDF p.31 [speech | Aaron Kipkirui Cheruiyot]
+   Name check: PDF says 'Sen. Wetangula', block says 'Aaron Kipkirui Cheruiyot '.
+   Text: "Thank you, Madam Temporary Speaker, for giving me this chance. I want to appreciate the very good thoughts and"
+
+6. block 138, PDF p.36 [speech | Aaron Kipkirui Cheruiyot]
+   Name check: PDF says 'Sen. Wambua', block says 'Aaron Kipkirui Cheruiyot '.
+   Text: "Thank you, Madam Temporary Speaker. The CPSB advised that despite the fact that there might be established nee"
+
+7. block 145, PDF p.37 [speech | Samuel Poghisio]
+   Name check: PDF says 'Sen. Ochillo-Ayacko', block says 'Samuel Poghisio '.
+   Text: "On a point of order, Madam Temporary Speaker."
+
+8. block 163, PDF p.40 [speech | Aaron Kipkirui Cheruiyot]
+   Name check: PDF says 'Sen. Cherargei', block says 'Aaron Kipkirui Cheruiyot '.
+   Text: "Thank you, Madam Temporary Speaker. I support this particular proposal. I request my colleagues to support it "
+
+9. block 167, PDF p.41 [speech | Moses Masika Wetangula]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Nyamunga)') starting inside this block: "That is good, Sen. (Dr.) Musuruve.
+Sen. Mbogo George Ochillo...". May need a split.
+   Text: "Madam Temporary Speaker, it is really bad. You will then see the public scramble to help themselves on the war"
+
+10. block 167, PDF p.41 [speech | Moses Masika Wetangula]
+   PDF shows a new speaker ('Sen. Ochillo-Ayacko') starting inside this block: "Thank you very much Madam Temporary Speaker. I want to depar...". May need a split.
+   Text: "Madam Temporary Speaker, it is really bad. You will then see the public scramble to help themselves on the war"
+
+11. block 169, PDF p.47 [speech | Enoch Kiio Wambua]
+   Name check: PDF says 'Sen. (Dr.) Kabaka', block says 'Enoch Kiio Wambua '.
+   Text: "Thank you, Madam Temporary Speaker, for the opportunity to add my voice in support of this Bill by Sen. Khanir"
+
+12. block 189, PDF p.49 [speech | Cherarkey K Samson]
+   Name check: PDF says 'Sen. (Dr.) Kabaka', block says 'Cherarkey K Samson '.
+   Text: "Thank you, Madam Temporary Speaker. Sen. (Dr.) Langat is refusing the blessings. I come from the Talai; people"
+
+13. block 189, PDF p.49 [speech | Cherarkey K Samson]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Nyamunga)') starting inside this block: "Let us move on to the next Order....". May need a split.
+   Text: "Thank you, Madam Temporary Speaker. Sen. (Dr.) Langat is refusing the blessings. I come from the Talai; people"
+

@@ -1,0 +1,123 @@
+2019-02-27-14-30-00 - Senate: 30 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 156, PDF p.24 [speech | Beatrice Kwamboka Makori]
+   Name check: PDF says 'Sen. (Dr.) Langat', block says 'Beatrice Kwamboka Makori '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, I want to request for a Statement on the state of water and sewerage syste"
+
+2. block 170, PDF p.30 [speech | Christopher Andrew Langat]
+   Name check: PDF says 'Sen. Ochillo-Ayacko', block says 'Christopher Andrew Langat '.
+   Text: "Thank you Mr. Deputy Speaker, Sir, for giving me this opportunity, to make a request for the Statement on the "
+
+3. block 170, PDF p.30 [speech | Christopher Andrew Langat]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Very well. I think the rest of you have spoken. Proceed, Sen...". May need a split.
+   Text: "Thank you Mr. Deputy Speaker, Sir, for giving me this opportunity, to make a request for the Statement on the "
+
+4. block 170, PDF p.30 [speech | Christopher Andrew Langat]
+   PDF shows a new speaker ('Sen. Sakaja') starting inside this block: "Thank you, Mr. Deputy Speaker, Sir. I had not spoken on this...". May need a split.
+   Text: "Thank you Mr. Deputy Speaker, Sir, for giving me this opportunity, to make a request for the Statement on the "
+
+5. block 172, PDF p.38 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'The Senate Majority Leader (Sen. Murkomen)', block says 'Johnson Arthur Sakaja '.
+   Text: "Yes, Mr. Deputy Speaker, Sir. We shall deal with that matter, but I would also like to urge you to reconsider "
+
+6. block 176, PDF p.39 [speech | Dullo Fatuma Adan]
+   Name check: PDF says 'The Senate Majority Leader (Sen. Murkomen)', block says 'Dullo Fatuma Adan '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. There was a Statement I requested on the Floor of this House before we wen"
+
+7. block 197, PDF p.50 [speech | Masitsa Naomi Shiyonga]
+   Name check: PDF says 'Sen. Mutula Kilonzo Jnr.', block says 'Masitsa Naomi Shiyonga '.
+   Text: "Mr. Deputy Speaker, Sir, I have said three-quarters because we have done something. We have not just been sitt"
+
+8. block 200, PDF p.52 [speech | Aaron Kipkirui Cheruiyot]
+   Name check: PDF says 'Sen. (Prof.) Ongeri', block says 'Aaron Kipkirui Cheruiyot '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I want to make a comment on the circus that we are being treated to, as a "
+
+9. block 202, PDF p.53 [speech | Cherarkey K Samson]
+   Name check: PDF says 'Sen. Halake', block says 'Cherarkey K Samson '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I want to comment on this issue because at one point after the Committee o"
+
+10. block 207, PDF p.57 [speech | Ephraim Mwangi Maina]
+   Name check: PDF says 'Sen. Mutula Kilonzo Jnr.', block says 'Ephraim Mwangi Maina '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. This is a serious national matter and instead of this House going around i"
+
+11. block 207, PDF p.57 [speech | Ephraim Mwangi Maina]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "The Report is a criminal enterprise?...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. This is a serious national matter and instead of this House going around i"
+
+12. block 209, PDF p.57 [speech | Ephraim Mwangi Maina]
+   Name check: PDF says 'Sen. Mutula Kilonzo Jnr.', block says 'Ephraim Mwangi Maina '.
+   Text: "Mr. Deputy Speaker, Sir, I am just saying---."
+
+13. block 213, PDF p.58 [speech | Ephraim Mwangi Maina]
+   Name check: PDF says 'Sen. Mutula Kilonzo Jnr.', block says 'Ephraim Mwangi Maina '.
+   Text: "Mr. Deputy Speaker, Sir, not in the real sense of taking the whole thing. Whenever you assign some work to a p"
+
+14. block 231, PDF p.63 [speech | James Orengo]
+   Name check: PDF says 'Sen. (Eng.) Mahamud', block says 'James Orengo (The Senate Minority Leader)'.
+   Text: "Mr. Deputy Speaker, Sir, the bigger question is that the Chair and the Committee have undermined the authority"
+
+15. block 283, PDF p.72 [speech | Kipchumba Murkomen]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof) Kindiki)') starting inside this block: "Very well. I hope you are not saying that you appointed him ...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I totally agree with you and I will take as little time as possible. First"
+
+16. block 283, PDF p.72 [speech | Kipchumba Murkomen]
+   PDF shows a new speaker ('Hon. Senators') starting inside this block: "Ten minutes!...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I totally agree with you and I will take as little time as possible. First"
+
+17. block 283, PDF p.72 [speech | Kipchumba Murkomen]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Is that the mood of the House? As many as of that opinion sa...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I totally agree with you and I will take as little time as possible. First"
+
+18. block 283, PDF p.72 [speech | Kipchumba Murkomen]
+   PDF shows a new speaker ('Hon. Senators') starting inside this block: "Aye....". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I totally agree with you and I will take as little time as possible. First"
+
+19. block 283, PDF p.72 [speech | Kipchumba Murkomen]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "The Ayes have it.
+The next speaker will be Sen. Halake....". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I totally agree with you and I will take as little time as possible. First"
+
+20. block 283, PDF p.72 [speech | Kipchumba Murkomen]
+   PDF shows a new speaker ('Sen. Halake') starting inside this block: "Mr. Deputy Speaker, Sir, thank you. I am lucky to be the fir...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I totally agree with you and I will take as little time as possible. First"
+
+21. block 283, PDF p.72 [speech | Kipchumba Murkomen]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "One minute to conclude....". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I totally agree with you and I will take as little time as possible. First"
+
+22. block 283, PDF p.72 [speech | Kipchumba Murkomen]
+   PDF shows a new speaker ('Sen. Halake') starting inside this block: "Mr. Deputy Speaker, Sir, in the Financial Year 2018/2018 the...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I totally agree with you and I will take as little time as possible. First"
+
+23. block 283, PDF p.72 [speech | Kipchumba Murkomen]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Thank you, Senator Abshiro. Proceed, Sen. Mutula Kilonzo Jnr...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I totally agree with you and I will take as little time as possible. First"
+
+24. block 283, PDF p.72 [speech | Kipchumba Murkomen]
+   PDF shows a new speaker ('Sen. Mutula Kilonzo Jnr.') starting inside this block: "Thank you, Mr. Deputy Speaker, Sir. I will be brief since mo...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I totally agree with you and I will take as little time as possible. First"
+
+25. block 287, PDF p.78 [speech | Kipchumba Murkomen]
+   PDF shows a new speaker ('Sen. Cherargei') starting inside this block: "Mr. Deputy Speaker, Sir, I thank the distinguished Chair for...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I see newspapers in this country, and I could see where the Senate Minority Leader wa"
+
+26. block 291, PDF p.81 [speech | Ochilo George Mbogo Ayacko]
+   PDF shows a new speaker ('Sen. Olekina') starting inside this block: "Mr. Deputy Speaker, Sir, I thank you. I am one of those few ...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me the opportunity to make my remarks on the maize report. The "
+
+27. block 295, PDF p.88 [speech | Aaron Kipkirui Cheruiyot]
+   Name check: PDF says 'Sen. (Prof.) Ongeri', block says 'Aaron Kipkirui Cheruiyot '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I will try and be brief, despite the fact that I have so much to say, just"
+
+28. block 297, PDF p.90 [speech | Christopher Andrew Langat]
+   Name check: PDF says 'Sen. (Prof.) Ongeri', block says 'Christopher Andrew Langat '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I want to bring to the attention of this House that there has been a lot o"
+
+29. block 297, PDF p.90 [speech | Christopher Andrew Langat]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Thank you, Sen. (Prof.) Ongeri. It is always a pleasure to l...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I want to bring to the attention of this House that there has been a lot o"
+
+30. block 299, PDF p.91 [speech | Ledama Olekina]
+   Name check: PDF says 'Sen. (Eng.) Mahamud', block says 'Ledama Olekina '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I rise to support this Report. From the onset, I state here categorically "
+

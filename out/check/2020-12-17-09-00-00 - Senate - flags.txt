@@ -1,0 +1,10 @@
+2020-12-17-09-00-00 - Senate: 2 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 26 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "GOVERNOR OF NAIROBI CITY COUNTY"
+
+2. block 27 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "PRESENTATION OF THE CASE OF THE NAIROBI CITY COUNTY GOVERNOR"
+

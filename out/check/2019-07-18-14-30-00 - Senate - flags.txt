@@ -1,0 +1,34 @@
+2019-07-18-14-30-00 - Senate: 8 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 186, PDF p.37 [speech | Mohamed Faki Mwinyihaji]
+   Name check: PDF says 'Sen. Mwaura', block says 'Mohamed Faki Mwinyihaji '.
+   Text: "On a point of order, Madam Temporary Speaker."
+
+2. block 187, PDF p.37 [speech | Rose Nyamunga Ogendo]
+   Name check: PDF says 'The Temporary Speaker (Sen. (Dr.) Lelegwe)', block says 'Rose Nyamunga Ogendo (The Temporary Speaker)'.
+   Text: "What is your point of order, Sen. Faki?"
+
+3. block 197, PDF p.37 [speech | Njeru Ndwiga]
+   Name check: PDF says 'Sen. Wetangula', block says 'Njeru Ndwiga '.
+   Text: "Mr. Temporary Speaker, Sir, I hope that our colleagues in the National Assembly will wake up one day and read "
+
+4. block 198, PDF p.37 [speech | Godana Hargura]
+   Name check: PDF says 'The Senate Majority Leader (Sen. Murkomen)', block says 'Godana Hargura '.
+   Text: "Mr. Temporary Speaker, Sir, I support this Procedural Motion to reduce the publication period for the Senate D"
+
+5. block 204, PDF p.41 [speech | Milgo Alice Chepkorir]
+   Name check: PDF says 'Sen. Cheruiyot', block says 'Milgo Alice Chepkorir '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir, for giving me a chance to support this Procedural Motion. We should not"
+
+6. block 206, PDF p.47 [speech | Mary Yiane Senata]
+   PDF shows a new speaker ('Sen. (Dr.) Musuruve') starting inside this block: "Thank you, Mr. Temporary Speaker Sir, for giving me this opp...". May need a split.
+   Text: "Mr. Temporary Speaker, Sir, I support the Motion on reduction of publication period of the Division of Revenue"
+
+7. block 207, PDF p.49 [speech | Ephraim Mwangi Maina]
+   Name check: PDF says 'Sen. (Dr.) Milgo', block says 'Ephraim Mwangi Maina '.
+   Text: "Thank you, Mr. Temporary Speaker, Sir, for giving me this chance. From the onset, I support this Procedural Mo"
+
+8. block 215, PDF p.51 [speech | Beth Mugo]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Dr.) Lelegwe)') starting inside this block: "Thank you. The Statement is, therefore, committed to the Com...". May need a split.
+   Text: "Thank you, Mr. Temporary Speaker, Sir, for the opportunity to also support this Procedural Motion on the Floor"
+

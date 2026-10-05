@@ -1,0 +1,51 @@
+2018-02-21-14-30-00 - Senate: 12 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 66, PDF p.13 [speech | Moses Masika Wetangula]
+   Name check: PDF says 'Sen. Cheruiyot', block says 'Moses Masika Wetangula (The Senate Minority Leader)'.
+   Text: "Thank you, Mr. Speaker Sir, for allowing me to ride on this important statement sought by the distinguished Se"
+
+2. block 67, PDF p.16 [speech | Ephraim Mwangi Maina]
+   Name check: PDF says 'Sen. Olekina', block says 'Ephraim Mwangi Maina '.
+   Text: "Thank you, Mr. Speaker, Sir. I rise to add on the Senators' concern that has been expressed, highlighting vari"
+
+3. block 70, PDF p.17 [speech | Ledama Olekina]
+   Name check: PDF says 'The Senate Minority Leader (Sen. Wetangula)', block says 'Ledama Olekina '.
+   Text: "Thank you, Mr. Speaker, Sir, I would like to ride on the statement by the distinguished Sen. Seneta. The Chair"
+
+4. block 71, PDF p.20 [speech | Johnes Mwashushe Mwaruma]
+   Name check: PDF says 'Sen. Sakaja', block says 'Johnes Mwashushe Mwaruma '.
+   Text: "Thank you, Mr. Speaker, Sir. I would also want to ride on the statement so that when the Chairperson of the Co"
+
+5. block 129, PDF p.31 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Order, Sen. Dullo. This is your second term in this House. P...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, today in Nairobi, Kisumu, Mombasa, somebody in, for example, in Kisauni, Nyando, Ruai"
+
+6. block 131, PDF p.33 [speech | Milgo Alice Chepkorir]
+   Name check: PDF says 'Sen. M. Kajwang’', block says 'Milgo Alice Chepkorir '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I rise to support this Bill. If amended to factor in all the proposals tha"
+
+7. block 133, PDF p.36 [speech | Otieno Kajwang]
+   Name check: PDF says 'Sen. Kihika', block says 'Otieno Kajwang '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity. First of all, I want to congratulate you b"
+
+8. block 136, PDF p.41 [speech | Otieno Kajwang]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "What is it, Sen. Kajwang'?...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I am well guided. Mr. Deputy Speaker, Sir, this amendment Bill--- Mr. Depu"
+
+9. block 136, PDF p.41 [speech | Otieno Kajwang]
+   PDF shows a new speaker ('Sen. Cheruiyot') starting inside this block: "Mr. Deputy Speaker, Sir, I do not think Sen. Kajwang' unders...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I am well guided. Mr. Deputy Speaker, Sir, this amendment Bill--- Mr. Depu"
+
+10. block 140, PDF p.44 [speech | Moses Otieno Kajwang']
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Very well.
+Proceed, Sen. Wetangula....". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. When it is hot, we eat a lot of watermelon. I will support this Bill subje"
+
+11. block 144, PDF p.46 [speech | Dullo Fatuma Adan]
+   Name check: PDF says 'The Senate Minority Leader (Sen. Wetangula)', block says 'Dullo Fatuma Adan '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. Before I respond, I must say one or two words on what happened to the Irri"
+
+12. block 159, PDF p.46 [speech | Moses Otieno Kajwang']
+   Name check: PDF says 'The Senate Minority Leader (Sen. Wetangula)', block says 'Moses Otieno Kajwang' '.
+   Text: "Mr. Deputy Speaker, Sir, I just want your guidance because the Senate Deputy Majority Leader has gone on recor"
+

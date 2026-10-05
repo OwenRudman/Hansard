@@ -1,0 +1,34 @@
+2019-04-03-14-30-00 - Senate: 8 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 8 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "COMMUNICATION FROM THE CHAIR"
+
+2. block 87, PDF p.15 [speech | Mutula Kilonzo Jnr]
+   Name check: PDF says 'Sen. Sakaja', block says 'Mutula Kilonzo Jnr '.
+   Text: "Thank you Mr. Speaker, Sir. I rise under Standing Order No. 47 to make a Statement on a matter of national con"
+
+3. block 88, PDF p.18 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. Pareno', block says 'Johnson Arthur Sakaja '.
+   Text: "Thank you, Mr. Speaker, Sir. I thank Sen. Mutula Kilonzo Jnr. for raising this important issue of great nation"
+
+4. block 96, PDF p.19 [speech | Judith Ramaita Pareno]
+   Name check: PDF says 'Sen. Poghisio', block says 'Judith Ramaita Pareno '.
+   Text: "Thank you, Mr. Speaker, Sir. I thank Sen. Mutula Kilonzo Jnr. for raising this important issue regarding Sambu"
+
+5. block 110, PDF p.22 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. Olekina', block says 'Johnson Arthur Sakaja '.
+   Text: "Thank you Mr. Deputy Speaker, Sir, for your indulgence. I rise to make a Statement on the audit queries raised"
+
+6. block 116, PDF p.23 [speech | Ledama Olekina]
+   Name check: PDF says 'Sen. Nyamunga', block says 'Ledama Olekina '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. The issues that have been raised by Sen. Sakaja are very serious. This is "
+
+7. block 122, PDF p.32 [speech | Rose Nyamunga Ogendo]
+   Name check: PDF says 'The Deputy Speaker (Sen. (Prof.) Kindiki)', block says 'Rose Nyamunga Ogendo '.
+   Text: "Yes, Mr. Deputy Speaker, Sir."
+
+8. block 230, PDF p.56 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Nyamunga)') starting inside this block: "Sen. Sakaja, I know that you are a senior Member of this Hou...". May need a split.
+   Text: "Madam Temporary Speaker, that is why I am supporting the Bill. The institutions of governance then were design"
+

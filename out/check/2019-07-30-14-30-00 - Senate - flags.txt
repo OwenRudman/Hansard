@@ -1,0 +1,78 @@
+2019-07-30-14-30-00 - Senate: 19 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 126, PDF p.35 [speech | Sen. (Dr.) Ali]
+   Name check: PDF says 'Sen. (Prof.) Ongeri', block says 'Sen. (Dr.) Ali '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir."
+
+2. block 135, PDF p.38 [speech | Sen. (Dr.) Ali]
+   Name check: PDF says 'Sen. Olekina', block says 'Sen. (Dr.) Ali '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. First, I stand to give my condolences to the families of the MP for Kibra "
+
+3. block 139, PDF p.43 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. Ochillo-Ayacko', block says 'Johnson Arthur Sakaja '.
+   Text: "On a point of order, Mr. Deputy Speaker, Sir."
+
+4. block 141, PDF p.44 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Sen. Ochillo-Ayacko is not on the microphone. However, you c...". May need a split.
+   Text: "On a point of order Mr. Deputy Speaker, Sir. I do not wish to interrupt the Vice Chairman of the Committee on "
+
+5. block 141, PDF p.44 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('Sen. Farhiya') starting inside this block: "Mr. Deputy Speaker, Sir, I wish to inform the House that it ...". May need a split.
+   Text: "On a point of order Mr. Deputy Speaker, Sir. I do not wish to interrupt the Vice Chairman of the Committee on "
+
+6. block 141, PDF p.44 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "What gives energy?...". May need a split.
+   Text: "On a point of order Mr. Deputy Speaker, Sir. I do not wish to interrupt the Vice Chairman of the Committee on "
+
+7. block 141, PDF p.44 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('Sen. Farhiya') starting inside this block: "Mr. Deputy Speaker, Sir, milk gives energy....". May need a split.
+   Text: "On a point of order Mr. Deputy Speaker, Sir. I do not wish to interrupt the Vice Chairman of the Committee on "
+
+8. block 141, PDF p.44 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Which one? Is it the one of Sen. Cherargei?...". May need a split.
+   Text: "On a point of order Mr. Deputy Speaker, Sir. I do not wish to interrupt the Vice Chairman of the Committee on "
+
+9. block 141, PDF p.44 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('Sen. Farhiya') starting inside this block: "Mr. Deputy Speaker, Sir, mursik, ititu or whatever it is cal...". May need a split.
+   Text: "On a point of order Mr. Deputy Speaker, Sir. I do not wish to interrupt the Vice Chairman of the Committee on "
+
+10. block 143, PDF p.44 [speech | Sen. (Dr.) Ali]
+   Name check: PDF says 'Sen. Cherargei', block says 'Sen. (Dr.) Ali '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I was moving the Bill. I said that the Bill proposes to amend Section 6 of"
+
+11. block 143, PDF p.44 [speech | Sen. (Dr.) Ali]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Neither does the Speaker know what this declaration of love ...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I was moving the Bill. I said that the Bill proposes to amend Section 6 of"
+
+12. block 143, PDF p.44 [speech | Sen. (Dr.) Ali]
+   PDF shows a new speaker ('Sen. Cherargei') starting inside this block: "Mr. Deputy Speaker, Sir, I am almost concluding....". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I was moving the Bill. I said that the Bill proposes to amend Section 6 of"
+
+13. block 143, PDF p.44 [speech | Sen. (Dr.) Ali]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Yes, we need to make progress. We have a lot of interest and...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I was moving the Bill. I said that the Bill proposes to amend Section 6 of"
+
+14. block 143, PDF p.44 [speech | Sen. (Dr.) Ali]
+   PDF shows a new speaker ('Sen. Cherargei') starting inside this block: "Mr. Deputy Speaker, Sir, I was making a critical point that ...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I was moving the Bill. I said that the Bill proposes to amend Section 6 of"
+
+15. block 145, PDF p.46 [speech | Getrude Musuruve Inimah]
+   Name check: PDF says 'Sen. Ochillo-Ayacko', block says 'Getrude Musuruve Inimah '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me an opportunity to second this Bill. Before I second, I pass "
+
+16. block 149, PDF p.48 [speech | Getrude Musuruve Inimah]
+   Name check: PDF says 'Sen. (Rev.) Waqo', block says 'Getrude Musuruve Inimah '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I am sure that we can stop the spread of cancer if we come together. We al"
+
+17. block 149, PDF p.48 [speech | Getrude Musuruve Inimah]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Order, Sen. Mutula Kilonzo Jnr.! Are you disputing the goodn...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I am sure that we can stop the spread of cancer if we come together. We al"
+
+18. block 149, PDF p.48 [speech | Getrude Musuruve Inimah]
+   PDF shows a new speaker ('Sen. Mutula Kilonzo Jnr.') starting inside this block: "I am sorry, Mr. Deputy Speaker, Sir. Maybe I missed the memo...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I am sure that we can stop the spread of cancer if we come together. We al"
+
+19. block 151, PDF p.50 [speech | Getrude Musuruve Inimah]
+   Name check: PDF says 'Sen. Mutula Kilonzo Jnr.', block says 'Getrude Musuruve Inimah '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. I beg to second."
+

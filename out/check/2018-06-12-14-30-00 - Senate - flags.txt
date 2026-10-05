@@ -1,0 +1,18 @@
+2018-06-12-14-30-00 - Senate: 4 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 98 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "BILL Second Reading"
+
+2. block 111, PDF p.22 [speech | Cherarkey K Samson]
+   Name check: PDF says 'Sen. Cheragei', block says 'Cherarkey K Samson '.
+   Text: "Thank you Mr. Deputy Speaker, Sir, for that information I stand corrected. I meant LAPFUND or LAPTRUST. I did "
+
+3. block 125, PDF p.23 [speech | Cherarkey K Samson]
+   Name check: PDF says 'Sen. Cheragei', block says 'Cherarkey K Samson '.
+   Text: "My apologies. The way he was looking at me was suspicious. He seemed not to be trusting what I was saying. I d"
+
+4. block 133, PDF p.25 [speech | Mutula Kilonzo Jnr]
+   PDF shows a new speaker ('Sen. (Dr.) Kabaka') starting inside this block: "Thank you, Mr. Deputy Speaker, Sir.  I also stand to contrib...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I rise to contribute to the County Governments Retirement Scheme Bill. Allow me to th"
+

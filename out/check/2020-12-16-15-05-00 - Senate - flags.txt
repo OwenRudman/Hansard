@@ -1,0 +1,18 @@
+2020-12-16-15-05-00 - Senate: 4 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 1 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "PARLIAMENT OF KENYA"
+
+2. block 2 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "THE SENATE"
+
+3. block 3 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "THE HANSARD"
+
+4. block 7 [heading]
+   Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
+   Text: "The House met at the Senate Chamber, Parliament Buildings, at 3.05 p.m."
+

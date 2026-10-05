@@ -1,0 +1,22 @@
+2019-05-30-14-30-00 - Senate: 5 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 69, PDF p.29 [speech | Mutula Kilonzo Jnr]
+   Name check: PDF says 'Sen. Kinyua', block says 'Mutula Kilonzo Jnr '.
+   Text: "On a point of order, Mr. Speaker, Sir."
+
+2. block 123, PDF p.39 [speech | Mary Yiane Senata]
+   Name check: PDF says 'Sen. Shiyonga', block says 'Mary Yiane Senata '.
+   Text: "Thank you, Madam Temporary Speaker, for giving me a chance to add my voice to this important Motion. However, "
+
+3. block 130, PDF p.41 [speech | Paul Kimani Wamatangi]
+   Name check: PDF says 'Sen. (Dr.) Zani', block says 'Paul Kimani Wamatangi '.
+   Text: "Thank you, Madam Temporary Speaker. I heard my colleague, the Senate Minority Whip, wonder why a Clause that m"
+
+4. block 159, PDF p.45 [speech | Getrude Musuruve Inimah]
+   Name check: PDF says 'Sen. Seneta', block says 'Getrude Musuruve Inimah '.
+   Text: "Thank you, Madam Temporary Speaker, for giving me the opportunity to continue seconding this Motion. This Moti"
+
+5. block 178, PDF p.45 [speech | Agnes Zani]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Nyamunga)') starting inside this block: "Order, Senator. You will have a balance of three minutes the...". May need a split.
+   Text: "Madam Temporary Speaker, from the outset, I support this Motion. I will start by saying that all people across"
+

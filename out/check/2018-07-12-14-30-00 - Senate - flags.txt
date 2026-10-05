@@ -1,0 +1,94 @@
+2018-07-12-14-30-00 - Senate: 23 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 39 [scene]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "(Sen. Murkomen on 04.07.2018)"
+
+2. block 41, PDF p.6 [speech | Mohammed Maalim Mahamud]
+   Name check: PDF says 'Sen. (Eng.) Maina', block says 'Mohammed Maalim Mahamud '.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me the chance to contribute to the debate on The Kenya Roads Bill (Nat"
+
+3. block 41, PDF p.6 [speech | Mohammed Maalim Mahamud]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "What is your point of order, Sen. (Dr.) Ali?...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me the chance to contribute to the debate on The Kenya Roads Bill (Nat"
+
+4. block 41, PDF p.6 [speech | Mohammed Maalim Mahamud]
+   PDF shows a new speaker ('Sen. (Dr.) Ali') starting inside this block: "On a point of order, Mr. Speaker, Sir. Is the senior Senator...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me the chance to contribute to the debate on The Kenya Roads Bill (Nat"
+
+5. block 41, PDF p.6 [speech | Mohammed Maalim Mahamud]
+   PDF shows a new speaker ('Sen. (Eng.) Maina') starting inside this block: "No, I never said that!...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me the chance to contribute to the debate on The Kenya Roads Bill (Nat"
+
+6. block 41, PDF p.6 [speech | Mohammed Maalim Mahamud]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "I guess it was slip of the tongue, but you said that....". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me the chance to contribute to the debate on The Kenya Roads Bill (Nat"
+
+7. block 41, PDF p.6 [speech | Mohammed Maalim Mahamud]
+   PDF shows a new speaker ('Sen. (Eng.) Maina') starting inside this block: "No, Mr. Speaker, Sir; I said my people of Nyeri support the ...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me the chance to contribute to the debate on The Kenya Roads Bill (Nat"
+
+8. block 41, PDF p.6 [speech | Mohammed Maalim Mahamud]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "What is your point of order, Sen. Poghisio?...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me the chance to contribute to the debate on The Kenya Roads Bill (Nat"
+
+9. block 41, PDF p.6 [speech | Mohammed Maalim Mahamud]
+   PDF shows a new speaker ('Sen. Poghisio') starting inside this block: "Mr. Speaker, Sir, I do not know if you noticed that both of ...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me the chance to contribute to the debate on The Kenya Roads Bill (Nat"
+
+10. block 41, PDF p.6 [speech | Mohammed Maalim Mahamud]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "They were actually out order.
+Sen. (Eng.) Maina, conclude yo...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me the chance to contribute to the debate on The Kenya Roads Bill (Nat"
+
+11. block 43, PDF p.8 [speech | Ephraim Mwangi Maina]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "Proceed, Sen. Wetangula....". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. I rise to support this Bill and make a few comments and observations. The road se"
+
+12. block 43, PDF p.8 [speech | Ephraim Mwangi Maina]
+   PDF shows a new speaker ('Sen. Wetangula') starting inside this block: "Thank you, Mr. Speaker, Sir, for the opportunity. Listening ...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. I rise to support this Bill and make a few comments and observations. The road se"
+
+13. block 54, PDF p.13 [speech | Ephraim Mwangi Maina]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "Hon. Senators, before we proceed, I have a brief Communicati...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. Sen. Poghisio has been here long enough and he knows the rules thoroughly. Theref"
+
+14. block 54, PDF p.13 [speech | Ephraim Mwangi Maina]
+   PDF shows a new speaker ('Sen. Outa') starting inside this block: "Thank you, Mr. Speaker, Sir, for giving me this opportunity ...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. Sen. Poghisio has been here long enough and he knows the rules thoroughly. Theref"
+
+15. block 55, PDF p.22 [speech | Hon. Lusaka]
+   Name check: PDF says 'The Temporary Speaker (Sen. (Prof.) Kamar)', block says 'Hon. Lusaka (The Speaker)'.
+   Text: "Proceed, Sen. Wetangula."
+
+16. block 63, PDF p.22 [speech | Hon. Lusaka]
+   Name check: PDF says 'Sen. Mwaura', block says 'Hon. Lusaka (The Speaker)'.
+   Text: "Thank you, Sen. Wetangula. Yes, Sen. (Prof.) Ongeri."
+
+17. block 81, PDF p.23 [speech | Sen. Cherargei]
+   PDF shows a new speaker ('Sen. Olekina') starting inside this block: "Thank you, Madam Temporary Speaker, for giving me a chance t...". May need a split.
+   Text: "Thank you, Madam Temporary Speaker. According to Standing Order No. 35 a quorum of the Senate or a Committee o"
+
+18. block 87, PDF p.25 [speech | Isaac Maigua Mwaura]
+   Name check: PDF says 'Sen. Seneta', block says 'Isaac Maigua Mwaura '.
+   Text: "Thank you, Madam Temporary Speaker."
+
+19. block 94, PDF p.29 [speech | Abshiro Soka Halake]
+   Name check: PDF says 'Sen. (Eng.) Mahamud', block says 'Abshiro Soka Halake '.
+   Text: "Thank you, Madam Temporary Speaker, for giving me this opportunity to welcome the students and teachers of St."
+
+20. block 98, PDF p.31 [speech | Abshiro Soka Halake]
+   Name check: PDF says 'Sen. Kasanga', block says 'Abshiro Soka Halake '.
+   Text: "Thank you, Madam Temporary Speaker, for protecting me. I would like to take this opportunity to welcome the st"
+
+21. block 101, PDF p.37 [speech | Isaac Maigua Mwaura]
+   Name check: PDF says 'Sen. (Prof.) Ongeri', block says 'Isaac Maigua Mwaura '.
+   Text: "Thank you, Madam Temporary Speaker. I also want to thank the Senators who came in to give us quorum."
+
+22. block 107, PDF p.38 [speech | Moses Masika Wetangula]
+   Name check: PDF says 'Sen. (Prof.) Ongeri', block says 'Moses Masika Wetangula '.
+   Text: "Thank you, Madam Temporary Speaker. Sen. Mwaura, I congratulate you for the very intelligent contribution you "
+
+23. block 80
+   Suggest hierarchy placed a Quorum/Division cutout (blocks 80-86). Check where it ends.
+

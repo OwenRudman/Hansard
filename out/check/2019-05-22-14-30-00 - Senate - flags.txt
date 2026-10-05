@@ -1,0 +1,30 @@
+2019-05-22-14-30-00 - Senate: 7 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 116, PDF p.28 [speech | Hon. Lusaka]
+   Name check: PDF says 'The Temporary Speaker (Sen. Prof. Kamar)', block says 'Hon. Lusaka (NilThe Speaker)'.
+   Text: "I now direct that the doors be unlocked and Bar drawn."
+
+2. block 309, PDF p.39 [speech | Kipchumba Murkomen]
+   Name check: PDF says 'The Senate Minority Leader (Sen. Orengo)', block says 'Kipchumba Murkomen (The Senate Majority Leader)'.
+   Text: "Madam Temporary Speaker, I beg to move that the House do agree with the Committee on the said Report. I ask Se"
+
+3. block 402, PDF p.43 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Nyamunga)') starting inside this block: "The putting of the question is deferred to a later date. Tak...". May need a split.
+   Text: "Madam Temporary Speaker, pursuant to Standing Order 47(1), I rise to make a Statement on the recently announce"
+
+4. block 402, PDF p.43 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('Sen. Mutula Kilonzo Jnr.') starting inside this block: "Madam Temporary Speaker, most obliged....". May need a split.
+   Text: "Madam Temporary Speaker, pursuant to Standing Order 47(1), I rise to make a Statement on the recently announce"
+
+5. block 402, PDF p.43 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Nyamunga)') starting inside this block: "Next order....". May need a split.
+   Text: "Madam Temporary Speaker, pursuant to Standing Order 47(1), I rise to make a Statement on the recently announce"
+
+6. block 402, PDF p.43 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. Nyamunga)') starting inside this block: "Sen. Kasanga has requested the Bill be deferred to another d...". May need a split.
+   Text: "Madam Temporary Speaker, pursuant to Standing Order 47(1), I rise to make a Statement on the recently announce"
+
+7. block 425, PDF p.45 [speech | Aaron Kipkirui Cheruiyot]
+   Name check: PDF says 'Sen. Pareno', block says 'Aaron Kipkirui Cheruiyot '.
+   Text: "Thank you, Madam Temporary Speaker. In fact, I was about to protest if you had not allowed us to make contribu"
+

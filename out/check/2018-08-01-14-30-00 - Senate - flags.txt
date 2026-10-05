@@ -1,0 +1,66 @@
+2018-08-01-14-30-00 - Senate: 16 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 16, PDF p.21 [speech | Dullo Fatuma Adan]
+   Name check: PDF says 'Sen. Mutula Kilonzo Jnr.', block says 'Dullo Fatuma Adan '.
+   Text: "Mr. Deputy Speaker, Sir, I beg to lay the following Paper on the Table of the Senate, today, Wednesday, 1st Au"
+
+2. block 19, PDF p.21 [speech | Milgo Alice Chepkorir]
+   Name check: PDF says 'Sen. Moi', block says 'Milgo Alice Chepkorir '.
+   Text: "Mr. Deputy Speaker, Sir, I beg to lay the following Paper on the Table of the Senate, today, Wednesday, 1st Au"
+
+3. block 27, PDF p.21 [speech | George Khaniri]
+   Name check: PDF says 'Sen. Olekina', block says 'George Khaniri '.
+   Text: "Mr. Deputy Speaker, Sir, I thank you for your indulgence. I beg to lay the following Paper on the Table of the"
+
+4. block 27, PDF p.21 [speech | George Khaniri]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof. Kindiki)') starting inside this block: "Sen. Olekina, I would rather you use the word “persons” as o...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I thank you for your indulgence. I beg to lay the following Paper on the Table of the"
+
+5. block 34, PDF p.22 [speech | Michael Maling'a Mbito]
+   Name check: PDF says 'Sen. Moi', block says 'Michael Maling'a Mbito '.
+   Text: "Mr. Deputy Speaker, Sir, I beg to lay the following Petition report on the Table of the Senate, today, Wednesd"
+
+6. block 34, PDF p.22 [speech | Michael Maling'a Mbito]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof. Kindiki)') starting inside this block: "Order, Senator! If I heard Sen. Mutula Kilonzo Jnr., he just...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, I beg to lay the following Petition report on the Table of the Senate, today, Wednesd"
+
+7. block 50, PDF p.25 [speech | George Khaniri]
+   PDF shows a new speaker ('Sen. Mwaura') starting inside this block: "Mr. Deputy Speaker, Sir, this matter has been well canvassed...". May need a split.
+   Text: "Mr. Deputy Speaker, pursuant to Standing Order No.46(2)(a), I rise to make a Statement on a county issue relat"
+
+8. block 50, PDF p.25 [speech | George Khaniri]
+   PDF shows a new speaker ('Sen. Omogeni') starting inside this block: "Thank you, Mr. Deputy Speaker, Sir.  I also want to add my v...". May need a split.
+   Text: "Mr. Deputy Speaker, pursuant to Standing Order No.46(2)(a), I rise to make a Statement on a county issue relat"
+
+9. block 50, PDF p.25 [speech | George Khaniri]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Order! Sen. Omogeni, so that I get you clear, are you saying...". May need a split.
+   Text: "Mr. Deputy Speaker, pursuant to Standing Order No.46(2)(a), I rise to make a Statement on a county issue relat"
+
+10. block 50, PDF p.25 [speech | George Khaniri]
+   PDF shows a new speaker ('Sen. Omogeni') starting inside this block: "Mr. Deputy Speaker, Sir, the point I want to make is that al...". May need a split.
+   Text: "Mr. Deputy Speaker, pursuant to Standing Order No.46(2)(a), I rise to make a Statement on a county issue relat"
+
+11. block 50, PDF p.25 [speech | George Khaniri]
+   PDF shows a new speaker ('Sen. Cheruiyot') starting inside this block: "Thank you, Mr. Deputy Speaker, Sir. I will be extremely care...". May need a split.
+   Text: "Mr. Deputy Speaker, pursuant to Standing Order No.46(2)(a), I rise to make a Statement on a county issue relat"
+
+12. block 50, PDF p.25 [speech | George Khaniri]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Order, Sen. Cheruiyot!...". May need a split.
+   Text: "Mr. Deputy Speaker, pursuant to Standing Order No.46(2)(a), I rise to make a Statement on a county issue relat"
+
+13. block 50, PDF p.25 [speech | George Khaniri]
+   PDF shows a new speaker ('Sen. Cheruiyot') starting inside this block: "Mr. Deputy Speaker, Sir, you know I am not a lawyer so when ...". May need a split.
+   Text: "Mr. Deputy Speaker, pursuant to Standing Order No.46(2)(a), I rise to make a Statement on a county issue relat"
+
+14. block 59, PDF p.33 [speech | Fredrick Otieno Outa]
+   Name check: PDF says 'Sen. Wetangula', block says 'Fredrick Otieno Outa '.
+   Text: "On a point of order, Mr. Deputy Speaker, Sir."
+
+15. block 61, PDF p.33 [speech | Fredrick Otieno Outa]
+   Name check: PDF says 'Sen. Wetangula', block says 'Fredrick Otieno Outa '.
+   Text: "Mr. Deputy Speaker, Sir, is the Senator for Bungoma in order to tell this august House that he knows the maste"
+
+16. block 350 [heading]
+   Couldn't find this text in the PDF. Check it against the PDF.
+   Text: "BILL Second Reading"
+

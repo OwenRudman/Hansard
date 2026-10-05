@@ -1,0 +1,75 @@
+2019-10-22-14-30-00 - Senate: 18 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 30, PDF p.4 [speech | Samuel Poghisio]
+   Name check: PDF says 'Sen. Were', block says 'Samuel Poghisio '.
+   Text: "Thank you, Mr. Speaker, Sir. It is important that we support this Motion on engagement of community health wor"
+
+2. block 31, PDF p.5 [speech | Petronila Were Lokorio]
+   Name check: PDF says 'Sen. (Dr.) Langat', block says 'Petronila Were Lokorio '.
+   Text: "Thank you, Mr. Speaker, Sir. I join my colleagues in supporting the Motion on engagement of community health w"
+
+3. block 31, PDF p.5 [speech | Petronila Were Lokorio]
+   PDF shows a new speaker ('Sen. Faki') starting inside this block: "Asante, Bw. Spika, kwa kunipa fursa hii ili kuchangia Hoja y...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. I join my colleagues in supporting the Motion on engagement of community health w"
+
+4. block 32, PDF p.7 [speech | Christopher Andrew Langat]
+   Name check: PDF says 'Sen. Wetangula', block says 'Christopher Andrew Langat '.
+   Text: "Thank you, Mr. Speaker, Sir, for also giving me this opportunity to make my contribution to this very importan"
+
+5. block 34, PDF p.14 [speech | Michael Maling'a Mbito]
+   Name check: PDF says 'Sen. (Dr.) Ali', block says 'Michael Maling'a Mbito '.
+   Text: "Mr. Speaker, Sir, I wish to support this important Motion brought by Sen. Nyamunga on the engagement of commun"
+
+6. block 35, PDF p.18 [speech | Moses Masika Wetangula]
+   Name check: PDF says 'Sen. Shiyonga', block says 'Moses Masika Wetangula '.
+   Text: "Thank you, Mr. Speaker Sir, this Motion comes at a very timely period when the country is facing serious chall"
+
+7. block 36, PDF p.19 [speech | James Orengo]
+   Name check: PDF says 'Sen. Pareno', block says 'James Orengo (The Senate Minority Leader)'.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me a chance to contribute to this Motion. Of all the devolved function"
+
+8. block 36, PDF p.19 [speech | James Orengo]
+   PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "Let us have Sen. Cherargei....". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me a chance to contribute to this Motion. Of all the devolved function"
+
+9. block 36, PDF p.19 [speech | James Orengo]
+   PDF shows a new speaker ('Sen. Cherargei') starting inside this block: "Thank you, Mr. Speaker, Sir. From the onset, I want to suppo...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me a chance to contribute to this Motion. Of all the devolved function"
+
+10. block 85, PDF p.36 [speech | Moses Otieno Kajwang']
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "It is not illegal to travel with governors or their chairmen...". May need a split.
+   Text: "Thank you, Mr. Deputy Speaker, Sir. Allow me to go to the substance of the Motion or the report that is before"
+
+11. block 95, PDF p.45 [speech | Moses Otieno Kajwang']
+   Name check: PDF says 'Sen. Kibiru', block says 'Moses Otieno Kajwang' '.
+   Text: "Thank you, Mr. Deputy Speaker, Sir, for guiding me."
+
+12. block 99, PDF p.45 [speech | Moses Otieno Kajwang']
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Thank you, Sen. Kibiru.
+Kindly, proceed, Sen. Mutula Kilonzo...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, well, a little bit of satire there. You can imagine Kshs6.1 million and only 20 seedl"
+
+13. block 99, PDF p.45 [speech | Moses Otieno Kajwang']
+   PDF shows a new speaker ('Sen. Mutula Kilonzo Jnr.') starting inside this block: "Mr. Deputy Speaker, Sir, I rise to support the Motion by the...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, well, a little bit of satire there. You can imagine Kshs6.1 million and only 20 seedl"
+
+14. block 99, PDF p.45 [speech | Moses Otieno Kajwang']
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Sen. Mutula Kilonzo Jnr., you can try me now....". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, well, a little bit of satire there. You can imagine Kshs6.1 million and only 20 seedl"
+
+15. block 99, PDF p.45 [speech | Moses Otieno Kajwang']
+   PDF shows a new speaker ('Sen. Mutula Kilonzo Jnr.') starting inside this block: "Mr. Deputy Speaker, Sir, you attempted to persuade me to mov...". May need a split.
+   Text: "Mr. Deputy Speaker, Sir, well, a little bit of satire there. You can imagine Kshs6.1 million and only 20 seedl"
+
+16. block 107, PDF p.50 [speech | Sam Ongeri]
+   Name check: PDF says 'Sen. Mutula Kilonzo Jnr.', block says 'Sam Ongeri '.
+   Text: "Mr. Deputy Speaker, Sir, I beg to second."
+
+17. block 120, PDF p.50 [speech | Mutula Kilonzo Jnr]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Order, you were quiescent to the harassment....". May need a split.
+   Text: ".: Mr. Deputy Speaker, Sir, I rise to support the Motion by the County Public Accounts and Investments Committ"
+
+18. block 120, PDF p.50 [speech | Mutula Kilonzo Jnr]
+   PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Okay, proceed....". May need a split.
+   Text: ".: Mr. Deputy Speaker, Sir, I rise to support the Motion by the County Public Accounts and Investments Committ"
+

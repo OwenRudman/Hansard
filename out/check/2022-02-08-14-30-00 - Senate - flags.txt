@@ -1,0 +1,22 @@
+2022-02-08-14-30-00 - Senate: 5 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 32, PDF p.7 [speech | Johnson Arthur Sakaja]
+   Name check: PDF says 'Sen. (Dr.) Musuruve', block says 'Johnson Arthur Sakaja '.
+   Text: "Thank you, Mr. Speaker, Sir. I rise to support this list of Members to the SBC. I am surprised that Sen. Khani"
+
+2. block 32, PDF p.7 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('Sen. (Eng.) Hargura') starting inside this block: "Mr. Speaker, Sir, I would like to support this Motion. We ar...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. I rise to support this list of Members to the SBC. I am surprised that Sen. Khani"
+
+3. block 32, PDF p.7 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('Sen. Omogeni') starting inside this block: "Mr. Speaker, Sir, I rise to support the Motion which propose...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. I rise to support this list of Members to the SBC. I am surprised that Sen. Khani"
+
+4. block 32, PDF p.7 [speech | Johnson Arthur Sakaja]
+   PDF shows a new speaker ('Sen. Cherargei') starting inside this block: "Thank you, Mr. Speaker, Sir, for this opportunity. Looking a...". May need a split.
+   Text: "Thank you, Mr. Speaker, Sir. I rise to support this list of Members to the SBC. I am surprised that Sen. Khani"
+
+5. block 34, PDF p.10 [speech | Getrude Musuruve Inimah]
+   Name check: PDF says 'Sen. (Prof.) Kamar', block says 'Getrude Musuruve Inimah '.
+   Text: "Thank you, Mr. Speaker, Sir, for giving me this opportunity to congratulate my colleagues for being appointed "
+

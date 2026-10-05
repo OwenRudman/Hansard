@@ -1,0 +1,17 @@
+2020-11-03-14-30-00 - Senate: 4 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+
+1. block 118, PDF p.38 [speech | (Sen. (Dr.) Mwaura)]
+   PDF shows a new speaker ('Sen. M. Kajwang’') starting inside this block: "Asante, Bw. Spika wa Muda. I know that I have already breach...". May need a split.
+   Text: "Pole. Nafikiri niliangalia mahali ambapo wewe hukaa kila wakati. Sen. M. Kajwang':  Asante, Bw. Spika wa Muda."
+
+2. block 144, PDF p.47 [speech | Milgo Alice Chepkorir]
+   PDF shows a new speaker ('The Temporary Speaker (Sen. (Dr.) Mwaura)') starting inside this block: "Asante sana. Nafikiri unaweza kuweka waraka rasmi. Sasa hivi...". May need a split.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I rise pursuant to  S  tanding Order 51(1) (b) to make a Statement on t"
+
+3. block 144, PDF p.47 [speech | Milgo Alice Chepkorir]
+   PDF shows a new speaker ('Sen. (Arch.) Kasanga') starting inside this block: "Thank you, Mr. Temporary Speaker, Sir. I beg to move the Mot...". May need a split.
+   Text: "Thank you, Mr. Temporary Speaker, Sir. I rise pursuant to  S  tanding Order 51(1) (b) to make a Statement on t"
+
+4. whole sitting
+   PDF layout not recognised by the parser (speaker lines start at x=None, expected 120-135), so the speaker-name and new-speaker checks did not run on this sitting. Check speakers and block splits by hand.
+
