@@ -7,13 +7,19 @@ All 419 sittings from the "12th Senate" sheet of `mzalendo_links.xlsx` (2017-08-
 2. **Cleaning:** `Mzalendo_Speed_Script.ipynb`, cleaner revision 4.41 (Box/Automation, 2 Oct). All 419 completed. Re-running it on the earlier raw files reproduced your cleaned files exactly (80 of 80).
 3. **Audit against the PDF:** `hansard_auto_audit` (auditor.py + pdfparse.py). The only change is the Node path for this machine.
 4. **Suggest hierarchy and export:** run inside your saved copy of the Hansard Label Editor. Its code is byte-identical to the live tool page you sent.
-5. **Post-run checks (`postcheck.py`, new):** these pull sittings out of `ready/` when the audit couldn't really check them. See the table below.
+5. **Post-run checks (`postcheck.py`, new):** these move sittings from "Finished - no issues found" to "Needs human check" when the audit couldn't really check them. See the table below.
+
+## What's in this folder
+- **Finished - no issues found**: final JSONs. Every block was checked against the PDF and nothing came up. All blocks are marked reviewed and heading levels come from Suggest hierarchy.
+- **Needs human check - each has a flags list**: JSONs where something needs a person to look. Each comes with "<sitting> - Senate - flags.txt", which lists the block number, the PDF page and what to check. Flagged blocks are left unreviewed, so "Go to first unreviewed" in the tool steps through them.
+- **summary.csv**: one row per sitting with its status, flag count, block count, the PDF it was checked against, and "done manually" for the 13 sittings you audited by hand.
+- **../Audit code used for this run**: the scripts that produced these files.
 
 ## Totals
 | | Sittings |
 |---|---|
-| ready/ (no flags) | 233 |
-| check/ (flagged) | 186 |
+| Finished - no issues found | 233 |
+| Needs human check - each has a flags list | 186 |
 | **Total** | **419** |
 
 Total flags: **1,497**
@@ -34,7 +40,7 @@ Total flags: **1,497**
 "Text not found" is concentrated in a few sittings: 2019-09-17 has 160, 2022-06-08 has 47 and 2021-05-25 has 31. 81 sittings have any.
 
 ## Flag rate by year
-| Year | Sittings | Flags | Flags per sitting | Flags per 1,000 blocks | In check/ |
+| Year | Sittings | Flags | Flags per sitting | Flags per 1,000 blocks | Needing a check |
 |---|---|---|---|---|---|
 | 2017 | 19 | 133 | 7.0 | 35.5 | 13 |
 | 2018 | 93 | 415 | 4.5 | 16.2 | 56 |
@@ -45,7 +51,7 @@ Total flags: **1,497**
 
 No year rises above 2017. Rates fall after 2019, so I checked whether that's because the parser finds less in later PDFs. It isn't: the PDF parser finds about 0.8 speaker turns per JSON speech block in every year, from 2017 to 2022.
 
-There is a problem with individual PDFs instead. 10 PDFs are laid out differently: speaker lines are indented 107–118 or 140 points instead of 120–135, or bold speaker names aren't detected. On those 10 the name and new-speaker checks never ran. They are in check/ with a whole-sitting note:
+There is a problem with individual PDFs instead. 10 PDFs are laid out differently: speaker lines are indented 107–118 or 140 points instead of 120–135, or bold speaker names aren't detected. On those 10 the name and new-speaker checks never ran. They are in "Needs human check" with a whole-sitting note:
 2018-02-27, 2019-03-20, 2019-03-21, 2020-01-29 14:00, 2020-05-26 10:00, 2020-11-03, 2020-12-09, 2020-12-21, 2021-09-23, 2022-03-22.
 
 ## Failures and data problems
@@ -64,26 +70,26 @@ There is a problem with individual PDFs instead. 10 PDFs are laid out differentl
 - **PDFs with no Mzalendo link (not processed):** 2019-03-27, 2020-01-21 (Special Sitting), 2022-01-26 (Special Sitting), 2022-02-09.
 
 ## Empty sittings
-2020-08-11, 2020-08-17 10:00 and 2020-08-17 14:30 each came from Mzalendo as one empty block. The audit alone put them in ready/ with 0 blocks, so it didn't fail or flag them as it should have. The post-run check moved all three to check/ with an "empty sitting" flag.
+2020-08-11, 2020-08-17 10:00 and 2020-08-17 14:30 each came from Mzalendo as one empty block. The audit alone put them in "Finished - no issues found" with 0 blocks, so it didn't fail or flag them as it should have. The post-run check moved all three to "Needs human check" with an "empty sitting" flag.
 
 ## Sittings already audited by hand
 These 13 were still run so they can be compared with your versions. They are marked "done manually" in summary.csv.
 | Sitting | Status | Flags |
 |---|---|---|
-| 2017-08-31 | check | 4 |
-| 2017-09-13 | check | 5 |
-| 2017-09-14 | check | 4 |
-| 2017-09-26 | ready | 0 |
-| 2017-09-27 | ready | 0 |
-| 2017-09-28 | ready | 0 |
-| 2017-10-10 | ready | 0 |
-| 2017-10-11 | ready | 0 |
-| 2017-10-12 | check | 2 |
-| 2017-11-07 | check | 1 |
-| 2017-11-08 | check | 8 |
-| 2017-11-09 | check | 3 |
-| 2017-11-29 | check | 1 |
+| 2017-08-31 | needs check | 4 |
+| 2017-09-13 | needs check | 5 |
+| 2017-09-14 | needs check | 4 |
+| 2017-09-26 | finished | 0 |
+| 2017-09-27 | finished | 0 |
+| 2017-09-28 | finished | 0 |
+| 2017-10-10 | finished | 0 |
+| 2017-10-11 | finished | 0 |
+| 2017-10-12 | needs check | 2 |
+| 2017-11-07 | needs check | 1 |
+| 2017-11-08 | needs check | 8 |
+| 2017-11-09 | needs check | 3 |
+| 2017-11-29 | needs check | 1 |
 
 ## Caveats
-- **Calibration:** the auditor was built and tested on an older cleaner's output. Until it's scored against your 13 hand-finished JSONs, treat the ready/check split as a first pass.
+- **Calibration:** the auditor was built and tested on an older cleaner's output. Until it's scored against your 13 hand-finished JSONs, treat the "Finished - no issues found"check split as a first pass.
 - **Speaker/Title order:** many blocks have Speaker and Title the other way round, e.g. Speaker "(Sen. (Prof.) Kamar)" with Title "The Temporary Speaker". The processing instructions say this doesn't need fixing, so it isn't flagged.

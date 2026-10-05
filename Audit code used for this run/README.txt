@@ -10,3 +10,6 @@ sample.html                     Saved copy of the Hansard tool page the harness 
 
 Run:  python3 hansard_auto_audit/run_batch.py <cleaned_json_dir> <pdf_dir> <out_dir>
 Needs: Python 3 with pymupdf and levenshtein; Node with playwright + Chromium.
+
+Note: run_batch.py writes its results to folders called ready/ and check/. For the 12th Senate run these were
+renamed to "Finished - no issues found" and "Needs human check - each has a flags list" (in "12th Senate - audit results").
