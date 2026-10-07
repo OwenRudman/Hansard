@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-03-24-14-30-00",
-  "exported_at": "2026-10-05T08:08:45.032Z",
+  "exported_at": "2026-10-07T22:21:20.628Z",
   "entries": [
     {
       "order": 1,
@@ -172,19 +172,7 @@
     },
     {
       "order": 15,
-      "id": "entry-1059569",
-      "label": "speech",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Dullo Fatuma Adan",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "PROCUREMENT IRREGULARITIES IN THE AWARD OF TENDERS FOR Pre-Export VERIFICATION"
-    },
-    {
-      "order": 16,
-      "id": "entry-1059569-inserted-241a9523-32ce-4c74-8997-4f7428b02735",
+      "id": "entry-1059569-split-selected-e1a1a25f-dcbb-4a67-8f12-e501799a81e7",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -192,7 +180,19 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "PROCUREMENT IRREGULARITIES IN THE AWARD OF TENDERS FOR PRE-EXPORT VERIFICATION"
+      "text": "PROCUREMENT IRREGULARITIES IN THE AWARD OF TENDERS FOR"
+    },
+    {
+      "order": 16,
+      "id": "entry-1059569-split-after-0d16fe98-9362-4408-843d-7a40b2f489e7",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Dullo Fatuma Adan",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "Pre-Export VERIFICATION"
     },
     {
       "order": 17,

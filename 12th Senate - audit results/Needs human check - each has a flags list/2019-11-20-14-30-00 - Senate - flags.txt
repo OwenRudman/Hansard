@@ -1,4 +1,4 @@
-2019-11-20-14-30-00 - Senate: 8 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+2019-11-20-14-30-00 - Senate: 9 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
 
 1. block 213, PDF p.35 [speech | Milgo Alice Chepkorir]
    Name check: PDF says 'Sen. (Dr.) Musuruve', block says 'Milgo Alice Chepkorir '.
@@ -31,4 +31,7 @@
 8. block 226, PDF p.46 [speech | Johnson Arthur Sakaja]
    Name check: PDF says 'The Temporary Speaker (Sen. (Prof.) Kamar)', block says 'Johnson Arthur Sakaja (The Temporary Speaker)'.
    Text: "What is your point, Sen. Madzayo?"
+
+9. block 168 [speech]
+   The PDF heading 'ACTIVITIES OF THE COMMITTEE ON COUNTY PUBLIC ACCOUNTS AND INVESTMENTS' is split across this block and the next one (this block has 'ACTIVITIES OF THE COMMITTEE ON COUNTY PUBLIC'). Split it out and combine the two halves into one heading.
 

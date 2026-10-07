@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-09-08-14-30-00",
-  "exported_at": "2026-10-05T08:07:28.232Z",
+  "exported_at": "2026-10-07T22:20:52.320Z",
   "entries": [
     {
       "order": 1,
@@ -3772,7 +3772,7 @@
     },
     {
       "order": 315,
-      "id": "entry-1022110",
+      "id": "entry-1022110-split-before-a4f83176-3e4e-4dd0-93ef-b145f41e8061",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -3780,11 +3780,11 @@
       "speaker": "Anuar Loitiptip",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity. I will go straight to the first Statement considering that I have two Statements.\n\nSTATUS OF DOCK WORKERS JOB OPPORTUNITIES FOR YOUTHS AT THE LAMU PORT\n\nI rise pursuant to Standing Order No. 48 (1) to seek a Statement from the Standing Committee on Roads and Transportation concerning the status of dock workers job opportunities at the Lamu Port for the youth in Lamu County. In the Statement, the Committee should- (i)State the status of interviews conducted by the Kenya Ports Authority (KPA) for Lamu youths for jobs advertised by the said Authority on 6th November, 2019 and whose interviews were carried out in December, 2019. That is more than eight months. (ii)Explain the reason for lack of communication to the applicants for more than eight months later by the Kenya Ports Authority, particularly those who were successful following the interviews and whether there are any intensions to do so. (iii)State plans, if any, by the Ministry to absorb various youth from Lamu to work in the said port, both as manual laborers and as professionals according to their qualifications. (iv)Outline the Government position in relation to the continued construction of the Port, putting into consideration the fact that there has been a reduction in the Financial Year 2020/2021 budgetary allocation that was meant to fast-track the construction of the Port."
+      "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity. I will go straight to the first Statement considering that I have two Statements."
     },
     {
       "order": 316,
-      "id": "entry-1022110-inserted-1f868320-3047-4a4a-9255-d4f80cdd0dae",
+      "id": "entry-1022110-split-selected-5ea5f0b6-3096-4f98-b884-123dadefa814",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -3792,10 +3792,22 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "STATUS OF DOCK WORK JOB OPPORTUNITIES FOR YOUTHS AT THE LAMU PORT"
+      "text": "STATUS OF DOCK WORKERS JOB OPPORTUNITIES FOR YOUTHS AT THE LAMU PORT"
     },
     {
       "order": 317,
+      "id": "entry-1022110-split-after-e7105908-1b22-4724-8e53-1f6627f2429e",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Anuar Loitiptip",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "I rise pursuant to Standing Order No. 48 (1) to seek a Statement from the Standing Committee on Roads and Transportation concerning the status of dock workers job opportunities at the Lamu Port for the youth in Lamu County. In the Statement, the Committee should- (i)State the status of interviews conducted by the Kenya Ports Authority (KPA) for Lamu youths for jobs advertised by the said Authority on 6th November, 2019 and whose interviews were carried out in December, 2019. That is more than eight months. (ii)Explain the reason for lack of communication to the applicants for more than eight months later by the Kenya Ports Authority, particularly those who were successful following the interviews and whether there are any intensions to do so. (iii)State plans, if any, by the Ministry to absorb various youth from Lamu to work in the said port, both as manual laborers and as professionals according to their qualifications. (iv)Outline the Government position in relation to the continued construction of the Port, putting into consideration the fact that there has been a reduction in the Financial Year 2020/2021 budgetary allocation that was meant to fast-track the construction of the Port."
+    },
+    {
+      "order": 318,
       "id": "entry-1022113",
       "label": "heading",
       "level": "2",
@@ -3807,7 +3819,7 @@
       "text": "KILLING OF CHIEFS, POLICE OFFICERS AND COMMUNITY VOLUNTEERS IN LAMU COUNTY"
     },
     {
-      "order": 318,
+      "order": 319,
       "id": "entry-1022114",
       "label": "speech",
       "level": "2",
@@ -3819,7 +3831,7 @@
       "text": "I rise pursuant to Standing Order No. 48 (1) to seek a Statement from the Standing Committee on National Security, Defence and Foreign Relations concerning the killings of chiefs, police officers and community volunteers in Lamu East Constituency, Lamu County. In the Statement, the Committee should- (i)Explain steps the Ministry of Interior and Coordination of National Government has taken, if any, to bring to book the killers of chiefs, police officers and community volunteers as well as enhance security in Lamu County. (ii)Explain what measures the Ministry is putting in place to ensure that the Committee embraces community policing to ensure that locals relay any information that would help avert such killings. (iii)Outline measures, if any, that the Ministry has put in place to ensure that families that have lost their bread winners such as brutal killings are safe, justice is served and they are fully compensated. I thank you."
     },
     {
-      "order": 319,
+      "order": 320,
       "id": "entry-1022115",
       "label": "speech",
       "level": "2",
@@ -3831,7 +3843,7 @@
       "text": "Very short comments, please. This is because we are short of time and still have some work to do. I will allow Sen. (Dr.) Musuruve to make very short comments."
     },
     {
-      "order": 320,
+      "order": 321,
       "id": "entry-1022116",
       "label": "speech",
       "level": "2",
@@ -3843,7 +3855,7 @@
       "text": "Thank you, Madam Temporary Speaker for giving me this opportunity to support this Statement from Sen. Loitiptip, who has brought an issue to the Floor of the House that is important. I remember that at one point the Local Content Bill was brought to the Floor of the House. The proposition of The Local Content Bill was that locals should have a percentage with regard to the industries present in various counties. When it comes to dock workers, job opportunities should benefit the people of Lamu County. When it comes to issues of the Youth, most of them are idle and lack jobs. There is need for county governments -- not Lamu County only-- to ensure that any opportunity that comes on board in the counties is given to the youths. Even when giving opportunities to youths, let them know that we have youths with disabilities, who also need to be given an opportunity to work. This is a valid Statement that should not be taken lightly. I believe that the relevant Committee will work with speed and ensure that the prayers of Senator for Lamu are considered. Thank you, Madam Temporary Speaker for the opportunity."
     },
     {
-      "order": 321,
+      "order": 322,
       "id": "entry-1022117",
       "label": "speech",
       "level": "2",
@@ -3855,7 +3867,7 @@
       "text": "Sen. Sakaja, you have two minutes."
     },
     {
-      "order": 322,
+      "order": 323,
       "id": "entry-1022118",
       "label": "speech",
       "level": "2",
@@ -3867,7 +3879,7 @@
       "text": "Madam Temporary Speaker, two minutes are many. The Senator for Lamu knows that I feel very strongly about the issues he has raised with respect to the people of Lamu. I have been there previously, but officially when we had the problems in Mpeketoni. At that time, I was chairing a Joint Committee of the National Assembly and the Senate on National Cohesion and Equal Opportunities. We could see the pain and the real underlying problems taking place in that area. We have subsequently gone there with other Committees. Madam Temporary Speaker, the people of Lamu are extremely accommodative and loving. The young people there are hardworking, but lack opportunities. This is why for a long time they have become fodder for the recruitment by terrorist group. I have been there as the Vice Chairperson of the Committee on National Security and Foreign Relations and in other capacities. The issue of radicalization comes about when young people, who have education and energy, see opportunities passing them and see other people coming and taking advantage of what is rightfully theirs. This is why I would ask that weight be put on this. From the time of Lamu Port-South Sudan-Ethiopia-Transport (LAPSSET) Corridor project promising things to the young people in Lamu; job opportunities and scholarship which sometimes come and sometimes they do not, the issue of the tourist facilities there. I am happy that Sen. Loitiptip became the Senator of Lamu. Before you were Senator of Lamu, you were one of my coordinators when I was the chair of The National Alliance (TNA) and you did an excellent job. Even before that we still worked together. The people of Lamu have a voice in you. You are the one who will go down on record because you removed---"
     },
     {
-      "order": 323,
+      "order": 324,
       "id": "entry-1022120",
       "label": "speech",
       "level": "2",
@@ -3879,7 +3891,7 @@
       "text": "Your two minutes are over."
     },
     {
-      "order": 324,
+      "order": 325,
       "id": "entry-1022121",
       "label": "speech",
       "level": "2",
@@ -3891,7 +3903,7 @@
       "text": "Let me finish that statement."
     },
     {
-      "order": 325,
+      "order": 326,
       "id": "entry-1022122",
       "label": "speech",
       "level": "2",
@@ -3903,7 +3915,7 @@
       "text": "You said you were going to use less."
     },
     {
-      "order": 326,
+      "order": 327,
       "id": "entry-1022123",
       "label": "speech",
       "level": "2",
@@ -3915,7 +3927,7 @@
       "text": "I got inspired because of my love for Lamu County. Sen. Loitiptip removed a politician who would have been in the seat in Lamu from 1992 to 2013 because of the faith of the young people, and also because they were tired. If you do not speak on these issues, they will be tired again. Keep talking about them, let us see action and I am ready to support."
     },
     {
-      "order": 327,
+      "order": 328,
       "id": "entry-1022124",
       "label": "speech",
       "level": "2",
@@ -3927,7 +3939,7 @@
       "text": "Sen. Halake, normally, you are fast. I give you two minutes."
     },
     {
-      "order": 328,
+      "order": 329,
       "id": "entry-1022125",
       "label": "speech",
       "level": "2",
@@ -3939,7 +3951,7 @@
       "text": "Thank you, Madam Temporary Speaker. I am fast but allow me to say something about police brutality. Let me start with congratulating my brother, Sen. Anwar, for this excellent Statement that will go a long way in providing opportunity and ask questions around why locals are always by-passed. It is not just the locals; certain counties have a way of being neglected, especially Lamu and Isiolo. Smaller counties seem not to be taken seriously when it comes to youth opportunities. I am happy that the Senator for Lamu County is a youth, who is standing up for their rights. He knows what it means to be given an opportunity. By him sitting here, he has an opportunity to ensure that his cohorts and youths in Lamu are given opportunities. Madam Temporary Speaker, we are from the Coast with the COVID-19 Ad Hoc Committee. The issues around drugs, unemployment and people loaded in a ferry to pick bread is unacceptable in this day and age when our Constitution is clear and also because we have been self-governing for approximately 60 years. Allow me to say one thing on Sen. Dullo's Statement on police brutality. In the COVID-19 Ad Hoc Committee, we saw police brutality first hand in the Coast. It is not the first time that the Senator has brought these issues. Allow me to congratulate the Isiolo human rights defenders. Youth who have united and called themselves the Isiolo Human Rights Defenders have been highlighting these issues to all of us and have been active. Every single day they highlight to us two or three people who have been clobbered by the police or other agencies that are supposed to be looking after them. The Independent Police and Oversight Authority should ensure that justice is served to the people of Isiolo and the people of this Country. I support both Statements and look forward to working on these issues with the two Senators. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 329,
+      "order": 330,
       "id": "entry-1022127",
       "label": "speech",
       "level": "2",
@@ -3951,7 +3963,7 @@
       "text": "The first Statement by the Senator for Lamu on dock workers is referred to the Committee on Roads and Transportation. The second Statement on killings of chiefs, police officers and community volunteers is referred to the Committee on National Security, Defence and Foreign Relations. The next Statement is by the Senator for Wajir, Sen. (Dr.) Ali."
     },
     {
-      "order": 330,
+      "order": 331,
       "id": "entry-1022128",
       "label": "heading",
       "level": "2",
@@ -3963,7 +3975,7 @@
       "text": "STATUS OF PREPAREDNESS FOR COVID-19 BY WAJIR COUNTY GOVERNMENT"
     },
     {
-      "order": 331,
+      "order": 332,
       "id": "entry-1022129",
       "label": "speech",
       "level": "2",
@@ -3975,7 +3987,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise pursuant to Standing order 48 (1) to seek a Statement from the Ad Hoc Committee on COVID-19 Situation in Kenya on the status of preparedness for COVID-19 by Wajir County Government. In the Statement, the Committee should address the following- (1)State the status of availability of oxygen cylinders, oxygen floor meters and functional concentrators at the Wajir County Referral hospital and whether the Ministry is aware that Abdi Yusuf, a resident of Wajir County and a veteran public health officer of over 30years experience, died on 24th July, 2020 at Wajir County Referral Hospital in the COVID-19 isolation ward allegedly after failing to get medical emergency that required supplemental oxygen, despite the millions of shillings allocated to the county. The gentleman died while asking for oxygen. (2) Explain the capacity of Wajir regional referral laboratory to conclusively conduct COVID-19 test. (3) Provide a list of all the staff employment in Wajir County hospital and their academic qualification, stating the number of competent Intensive Care Unit (ICU) nurses, doctors and anesthetists capable of performing incubation, as well as the number of ICU beds. (4) State the amount the county was allocated from the national Budget for COVID-19 preparedness and whether the COVID-19 isolation center at Wajir referral hospital is properly branded and there are dedicated ambulances ready to handle patients with COVID-19 and related emergencies. Madam Temporary Speaker, I am asking all these because when this young gentleman died people in Wajir were up in arms. He died because of lack of oxygen. Many other members of staff have contracted the disease, and up to now, the problems are still there. Thank you."
     },
     {
-      "order": 332,
+      "order": 333,
       "id": "entry-1022131",
       "label": "speech",
       "level": "2",
@@ -3987,7 +3999,7 @@
       "text": "This touches on a very serious pandemic. Looking at the time, and we still have sort out very urgent issues, I will only allow one comment from the Chair of the Committee on the COVID-19 Situation in Kenya, Sen. Kasanga."
     },
     {
-      "order": 333,
+      "order": 334,
       "id": "entry-1022132",
       "label": "speech",
       "level": "2",
@@ -3999,7 +4011,7 @@
       "text": "Thank you, Madam Temporary Speaker. I want to thank---"
     },
     {
-      "order": 334,
+      "order": 335,
       "id": "entry-1022133",
       "label": "speech",
       "level": "2",
@@ -4011,7 +4023,7 @@
       "text": "I can see an intervention by Sen. Farhiya. Kindly, urgently, because we are running short of time."
     },
     {
-      "order": 335,
+      "order": 336,
       "id": "entry-1022134",
       "label": "speech",
       "level": "2",
@@ -4023,7 +4035,7 @@
       "text": "Madam Temporary Speaker, I was requesting if you could just allow me two minutes, because I come from the same county as the Senator, and I have something to add."
     },
     {
-      "order": 336,
+      "order": 337,
       "id": "entry-1022135",
       "label": "speech",
       "level": "2",
@@ -4035,7 +4047,7 @@
       "text": "I will ask Sen. Kasanga to be very brief since she is very conversant with what is happening, so that I give you one minute. However, we are strained of time."
     },
     {
-      "order": 337,
+      "order": 338,
       "id": "entry-1022136",
       "label": "speech",
       "level": "2",
@@ -4047,7 +4059,7 @@
       "text": "Thank you, Madam Temporary Speaker. I am actually happy to let my time go to Sen. Farhiya, so that she can add on to it. I just wanted to thank the Senator for Wajir because he had actually called me about this situation, and I am happy that the Statement has now been laid on the Table of the Senate. We shall pick it up. I guarantee you that we shall look into it as we did for Isiolo and all the other counties that we were able to look into. Thank you."
     },
     {
-      "order": 338,
+      "order": 339,
       "id": "entry-1022137",
       "label": "speech",
       "level": "2",
@@ -4059,7 +4071,7 @@
       "text": "Sen. Farhiya, one minute, please."
     },
     {
-      "order": 339,
+      "order": 340,
       "id": "entry-1022138",
       "label": "speech",
       "level": "2",
@@ -4071,7 +4083,7 @@
       "text": "Thank you, Madam Temporary Speaker. Given that Wajir county borders Somalia, where there is a bit of inter-trade, and because of the pastoralist nature of our county where people move to Somalia and back in search of pasture, the cases of COVID-19 will continue rising. As a matter of urgency, I am requesting that the Ad Hoc Committee on the COVID Situation in Kenya visits Wajir, so that they can assess the real situation on the ground. When that medical officer died, contract tracing was not done. The other day, a county staff also died in a hospital here in Nairobi. Due to lack of insurance by the county government, some of us were called to contribute to his medical bill. Madam Temporary Speaker, the situation is dire. Kenyans deserve better from us. I really plead with the Ad hoc Committee on the COVID-19 Situation in Kenya to urgently visit Wajir, so that they can establish what the issue there is. I thank you."
     },
     {
-      "order": 340,
+      "order": 341,
       "id": "entry-1022139-split-before-f23a1fbb-aa8b-4f0d-ab0e-e0fe1e344a37",
       "label": "speech",
       "level": "2",
@@ -4083,7 +4095,7 @@
       "text": "The Statement is referred to the Ad hoc Committee on the COVID-19 Situation, and you have heard the Chair say that she is going to look into it. We will move to the next Statement. Sen. Cheruiyot is not here. So, that Statement is deferred."
     },
     {
-      "order": 341,
+      "order": 342,
       "id": "entry-1022139-split-selected-325aa6a9-4ef8-48e6-b82a-0aa330a1c101",
       "label": "heading",
       "level": "2",
@@ -4095,7 +4107,7 @@
       "text": "OPERATIONS OF ADAK AND THE RAMPANT DOPING TEST FAILURE BY KENYAN ATHLETES"
     },
     {
-      "order": 342,
+      "order": 343,
       "id": "entry-1022141",
       "label": "scene",
       "level": "2",
@@ -4107,7 +4119,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 343,
+      "order": 344,
       "id": "entry-1022142",
       "label": "speech",
       "level": "2",
@@ -4119,7 +4131,7 @@
       "text": "Sen. Kwamboka, Sen. Iman, and Sen. M. Kajwang are also not here. Those Statements are also deferred."
     },
     {
-      "order": 344,
+      "order": 345,
       "id": "entry-1022143",
       "label": "heading",
       "level": "2",
@@ -4131,7 +4143,7 @@
       "text": "STATUS OF GRADUATIONS IN VARIOUS LEARNING INSTITUTIONS IN 2020"
     },
     {
-      "order": 345,
+      "order": 346,
       "id": "entry-1022144",
       "label": "heading",
       "level": "2",
@@ -4143,7 +4155,7 @@
       "text": "USE OF EXCESSIVE FORCE BY POLICE WHEN ENGAGING WITH CIVILIANS"
     },
     {
-      "order": 346,
+      "order": 347,
       "id": "entry-1022145",
       "label": "heading",
       "level": "2",
@@ -4155,7 +4167,7 @@
       "text": "ALLEGED INDUSTRIAL STRIKE BY HEALTH WORKERS IN HOMA BAY COUNTY IN THE MIDST OF COVID-19 PANDEMIC"
     },
     {
-      "order": 347,
+      "order": 348,
       "id": "entry-1022146",
       "label": "scene",
       "level": "2",
@@ -4167,7 +4179,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 348,
+      "order": 349,
       "id": "entry-1022147",
       "label": "heading",
       "level": "2",
@@ -4179,7 +4191,7 @@
       "text": "ALLEGED FRUSTRATIONS FACED BY RETIRED PUBLIC SERVANTS OR THEIR BENEFICIARIES IN CLAIMING BENEFITS AT THE PENSIONS DEPARTMENT"
     },
     {
-      "order": 349,
+      "order": 350,
       "id": "entry-1022148",
       "label": "speech",
       "level": "2",
@@ -4191,7 +4203,7 @@
       "text": "We will move to Sen. Were."
     },
     {
-      "order": 350,
+      "order": 351,
       "id": "entry-1022149",
       "label": "speech",
       "level": "2",
@@ -4203,7 +4215,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to request for a Statement on the frustration faced by retirees or their beneficiaries at the pensions department. Madam Temporary Speaker, I rise pursuant to Standing Order 48 (1) to seek a Statement from the Standing Committee on Labour and Social Welfare regarding the frustration faced by retired public servants or their beneficiaries in claiming benefits at the pensions department. In the Statement, the Committee should - (i)state if there is a service charter at the pensions department in the National Treasury stipulating the timelines within which a retired public servant or their beneficiaries should receive retirement or death benefits, and if so, indicate the level of compliance with that service charter; (ii)explain whether the Government is aware of the frustration experienced by retired public servants and/or their beneficiaries in accessing retirement or death benefits and state the measures being put in place, if any, to address the problem; (iii)state the measures, if any, that the Ministry of Finance and National Treasury has put in place to ensure that services are decentralized in order to make them easily accessible to pensioners and/ their beneficiaries; and, (iv)clarify whether the pensions department undertakes any monitoring and evaluation exercises to ensure efficient service delivery, and if so, state whether the findings/results of such surveys are ever publicised. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 351,
+      "order": 352,
       "id": "entry-1022150",
       "label": "speech",
       "level": "2",
@@ -4215,7 +4227,7 @@
       "text": "I will only allow one Senator to make comments. Sen. Farhiya."
     },
     {
-      "order": 352,
+      "order": 353,
       "id": "entry-1022151",
       "label": "speech",
       "level": "2",
@@ -4227,7 +4239,7 @@
       "text": "Thank you, Madam Temporary Speaker. You know, as we all work hard at our different respective places of employment, we expect that when we retire we will have a decent life. First of all, let me state that I support the Statement by Sen. Were, and thank her for bringing this matter to the Senate. When those people retire, they expect that they at least get their money regularly, because they are now aged, and that is the time they need that money. Also, when people's pension is deducted, that money is usually used for other investments, so that it generates income. It is also a source of financing for either businesses, or the Government to get financing because of that pool of resources from different people. Madam Temporary Speaker, when these people who have retired, are aged and vulnerable cannot access that money, it is pathetic. This House should put to task people who are supposed to take care of the retirement benefits for those people, to ensure that they are given their money. The other issue is about people whose breadwinners passed on and are now orphans and widowed."
     },
     {
-      "order": 353,
+      "order": 354,
       "id": "entry-1022152",
       "label": "speech",
       "level": "2",
@@ -4239,7 +4251,7 @@
       "text": "Your time is up. Kindly, conclude."
     },
     {
-      "order": 354,
+      "order": 355,
       "id": "entry-1022153",
       "label": "speech",
       "level": "2",
@@ -4251,7 +4263,7 @@
       "text": "Thank you. Since they relied on that person for income, and now the person is gone and they do not get their benefits, they are left without school fees, housing and everything else in terms of the lifestyle that they were used to. Madam Temporary Speaker, this is an urgent matter. The Committee that is allocated needs to fast track this issue so that there is the restoration of benefits to those people. I thank you."
     },
     {
-      "order": 355,
+      "order": 356,
       "id": "entry-1022156",
       "label": "speech",
       "level": "2",
@@ -4263,7 +4275,7 @@
       "text": "This Statement is referred to the Standing Committee on Committee Labour and Social Welfare. We move to the next Statement by Sen. Cherargei."
     },
     {
-      "order": 356,
+      "order": 357,
       "id": "entry-1022157",
       "label": "heading",
       "level": "2",
@@ -4275,7 +4287,7 @@
       "text": "ALLEGED REDUCTION OF TEA PRICES BY TEA COMPANIES IN NANDI COUNTY"
     },
     {
-      "order": 357,
+      "order": 358,
       "id": "entry-1022158",
       "label": "speech",
       "level": "2",
@@ -4287,7 +4299,7 @@
       "text": "Thank you, Madam Temporary Speaker, for this indulgence. I request for a Statement on the reduction of tea prices by tea companies in Nandi County. I rise pursuant to Standing Order No. 48 (1) to seek a Statement from the Standing Committee on Agriculture, Livestock and Fisheries concerning the reduction of tea prices by tea companies in Nandi County. In the Statement, the Committee, should- (i)explain why Kipchabo Tea Factory in Nandi County has breached its tea pricing contract with farmers and reduced the price of tea from Kshs30 per kilo to Kshs19 per kilo; (ii)state and provide the current prices being paid to farmers by all tea companies in Nandi County for tea producing supplied by farmers; (iii)state why the management of Kipchabo Tea Factory has not refunded farmers' money deducted towards the supply of fertilizers as the company had earlier agreed with the farmers; (iv)state why Kipchabo Tea Factory has continued to deduct cess fee from farmers despite the company having not financed and/or participated in any Corporate Social Responsibility (CSR) activities in Nandi County; (v)provide information on the Corporate Social Responsibilities that the tea companies in Nandi County have engaged in targeting residents of the host county; (vi)state how much is collected from farmers by tea companies in Nandi County as cess fee; and, (vii)explain why the company made farmers to sign a contract whose contents they were not made aware of and in a language that they cannot best understand. I thank you."
     },
     {
-      "order": 358,
+      "order": 359,
       "id": "entry-1022160",
       "label": "speech",
       "level": "2",
@@ -4299,7 +4311,7 @@
       "text": "I will not allow any more comments on these Statements, so that we are able to catch up with the rest of the business. This Statement is, therefore, referred to the Standing Committee on Agriculture, Livestock, and Fisheries. Next is Sen. Halake's Statement. Very briefly, please."
     },
     {
-      "order": 359,
+      "order": 360,
       "id": "entry-1022161",
       "label": "heading",
       "level": "2",
@@ -4311,7 +4323,7 @@
       "text": "DEROGATORY REFERENCE OF MENTALLY CHALLENGED VICTIMS OF SEXUAL VIOLENCE IN THE PENAL CODE"
     },
     {
-      "order": 360,
+      "order": 361,
       "id": "entry-1022162",
       "label": "speech",
       "level": "2",
@@ -4323,7 +4335,7 @@
       "text": "Thank you very much Madam Temporary Speaker. I rise pursuant to Standing Order. No. 48(1) to seek a Statement from the Standing Committee on Justice, Legal Affairs and Human Rights regarding derogatory reference to mentally challenged victims of sexual violence in the Penal Code. The Sexual violence bit is not even the most important, but the derogatory terms used to describe our mentally challenged citizens is---"
     },
     {
-      "order": 361,
+      "order": 362,
       "id": "entry-1022164",
       "label": "scene",
       "level": "2",
@@ -4335,7 +4347,7 @@
       "text": "(Interruption of Statement by Sen. Halake)"
     },
     {
-      "order": 362,
+      "order": 363,
       "id": "entry-1022165",
       "label": "speech",
       "level": "2",
@@ -4347,7 +4359,7 @@
       "text": "Do you have an intervention, Sen. Sakaja?"
     },
     {
-      "order": 363,
+      "order": 364,
       "id": "entry-1022166",
       "label": "speech",
       "level": "2",
@@ -4359,7 +4371,7 @@
       "text": "Yes, Madam Temporary Speaker. I am very sorry, Sen. Halake. I earlier had a Statement that was deferred, but would like on the record to withdraw it, so that it is not brought back next week because of time."
     },
     {
-      "order": 364,
+      "order": 365,
       "id": "entry-1022167",
       "label": "speech",
       "level": "2",
@@ -4371,7 +4383,7 @@
       "text": "So, it shall be marked as withdrawn."
     },
     {
-      "order": 365,
+      "order": 366,
       "id": "entry-1022169",
       "label": "heading",
       "level": "2",
@@ -4383,7 +4395,7 @@
       "text": "SOURCE AND UTILIZATION OF FUNDS ON THE BEAUTIFICATION AND \"NG'ARISHA JIJI\" PROGRAMME BY NAIROBI CITY COUNTY"
     },
     {
-      "order": 366,
+      "order": 367,
       "id": "entry-1022170",
       "label": "scene",
       "level": "2",
@@ -4395,7 +4407,7 @@
       "text": "(Statement withdrawn)"
     },
     {
-      "order": 367,
+      "order": 368,
       "id": "entry-1022171",
       "label": "scene",
       "level": "2",
@@ -4407,7 +4419,7 @@
       "text": "(Resumption of statement by Sen. Halake)"
     },
     {
-      "order": 368,
+      "order": 369,
       "id": "entry-1022172",
       "label": "speech",
       "level": "2",
@@ -4419,7 +4431,7 @@
       "text": "The issue of the sexual violence notwithstanding, generally, the language used on our mentally challenged individuals is a point of concern. In the Statement, the Committee should: (a)Provide justification if any for the continued use to the terms idiots. In our Penal Code, mentally challenged individuals are referred to as idiots and imbeciles. In section 146 of the Penal Code refer to mentally challenged victims--- I am using the sexual bit because I came to this while following up on sexual abuse of mentally girls. I then realized as I was reading the Penal Code that they are referred to as imbeciles and idiots. (b)Explain why the Statute has not been amended in line with article 27(4) of the Constitution of Kenya which prohibits direct or indirect discrimination against any person on any ground especially when using those words. (c)State the steps, if any, that have been taken to amend section 146 of the Penal Code to replace the offensive terminology. I am sponsoring amendments to ensure that those kinds of derogatory, unacceptable terms to call people idiots and imbeciles are not there. I thought I should bring it to this House and make sure the Committee on Justice, Legal Affairs and Human Rights looks at these and also gives it the highlight it requires. I thank you."
     },
     {
-      "order": 369,
+      "order": 370,
       "id": "entry-1022174",
       "label": "speech",
       "level": "2",
@@ -4431,7 +4443,7 @@
       "text": "The Statement is committed to the Senate Committee on Justice, Legal Affairs and Human Rights. I now invoke the Standing Orders to defer the business in Statement pursuant to Standing Order No. 51(1) (a) and the ones that are pursuant to Standing Order No. 51(1) (b)."
     },
     {
-      "order": 370,
+      "order": 371,
       "id": "entry-1022175",
       "label": "heading",
       "level": "2",
@@ -4443,7 +4455,7 @@
       "text": "ACTIVITIES OF THE COMMITTEE ON JUSTICE, LEGAL AFFAIRS AND HUMAN RIGHTS"
     },
     {
-      "order": 371,
+      "order": 372,
       "id": "entry-1022176",
       "label": "heading",
       "level": "2",
@@ -4455,7 +4467,7 @@
       "text": "DEMISE OF RENOWNED ARTIST PAPA SHIRANDULA"
     },
     {
-      "order": 372,
+      "order": 373,
       "id": "entry-1022176-inserted-15e55fcf-7777-477a-ab2f-e141bf4928cc",
       "label": "heading",
       "level": "2",
@@ -4467,7 +4479,7 @@
       "text": "DEMISE OF RENOWNED ARTIST POPULARLY KNOWN AS PAPA SHIRANDULA"
     },
     {
-      "order": 373,
+      "order": 374,
       "id": "entry-1022177",
       "label": "heading",
       "level": "2",
@@ -4479,7 +4491,7 @@
       "text": "ACTIVITIES OF THE COMMITTEE ON AGRICULTURE, LIVESTOCK AND FISHERIES"
     },
     {
-      "order": 374,
+      "order": 375,
       "id": "entry-1022178",
       "label": "heading",
       "level": "2",
@@ -4491,7 +4503,7 @@
       "text": "ACTIVITIES OF THE COMMITTEE ON DEVOLUTION AND INTERGOVERNMENTAL RELATIONS"
     },
     {
-      "order": 375,
+      "order": 376,
       "id": "entry-1022180",
       "label": "heading",
       "level": "2",
@@ -4503,7 +4515,7 @@
       "text": "ACTIVITIES OF THE COMMITTEE ON EDUCATION"
     },
     {
-      "order": 376,
+      "order": 377,
       "id": "entry-1022181",
       "label": "scene",
       "level": "2",
@@ -4515,7 +4527,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 377,
+      "order": 378,
       "id": "entry-1022182",
       "label": "speech",
       "level": "2",
@@ -4527,7 +4539,7 @@
       "text": "We, therefore, move to the Statement pursuant to Standing Order 52(2). Proceed, Senate Majority Leader."
     },
     {
-      "order": 378,
+      "order": 379,
       "id": "entry-1022183",
       "label": "heading",
       "level": "2",
@@ -4539,7 +4551,7 @@
       "text": "BUSINESS FOR THE WEEK COMMENCING TUESDAY, 15TH SEPTEMBER 2020"
     },
     {
-      "order": 379,
+      "order": 380,
       "id": "entry-1022184",
       "label": "speech",
       "level": "2",
@@ -4551,7 +4563,7 @@
       "text": "Thank you, Madam Temporary Speaker. Pursuant to Standing Order 52 (1), I hereby present to the Senate the business of the House for the for Tuesday 15th September, 2020. Before I proceed, I take this opportunity to welcome Senators to the fourth part of the Fourth Session. On Tuesday, 15th September, 2020, the Senate Business Committee (SBC) will meet to schedule the business of the Senate. On that day, the Senate will consider Bills scheduled for Second Reading and those at the Committee of the Whole Stage. The Senate will also continue with consideration of business that will not be concluded in today's Order Paper, including Motions, Petitions and Statements. Madam Temporary Speaker, a total of 20 Bills are due for Second Reading stage and another 17 Bills are at the Committee of the Whole. The SBC will prioritize these Bills accordingly starting with the following that have been scheduled for Tuesday, 15th September, 2020 - (1) The Prompt Payment Bill (Senate Bills No. 3 Of 2020) (2) The Community Health Services Bill (Senate Bills No. 5 Of 2020) (3) The Equalization Fund Bill (National Assembly Bills No. 43 Of 2019) (4) The Public Finance Management (Amendment) Bill (National Assembly Bills No. 51 Of 2017) (5) The Street Vendors (Protection of Livelihood) Bill (Senate Bills No. 10 of 2019) (6) The Elections (Amendment) Bill (Senate Bills No. 18 of 2019) (7) The Kenya Sign Language Bill (Senate Bills No. 15 of 2019) (8) Consideration of the National Assembly Amendments to The County Outdoor Advertising Control Bill (Senate Bills No. 19 of 2018) (9) The Wildlife Conservation and Management (Amendment) Bill (Senate Bills No. 24 of 2019) (10) The Law of Succession (Amendment) Bill (Senate Bills No. 1 of 2020) (11) The County Resource Development Bill (Senate Bills No. 2 of 2020) (12) The Sectional Properties Bill (National Assembly Bills No.23 of 2019) (13) The Livestock and Livestock Products Marketing Board Bill (National Assembly Bill No. 2 of 2019) (14) The representation of special interest groups law (Amendment Bill) (National Assembly Bill No. 52 of 2019) (15) The Investment promotion (amendment Bills) Senate Bills No. 8 of 2020) (16) The Mung Beans Bill (Senate Bills No.9 of 2020) Individual Senators who may have amendments to these and other Bills are encouraged to file the same in good time. Allow me to also urge representative Movers of Bills, standing Committees and respective Senators that have already filed amendments to be in the House whenever the Bills are scheduled. This will facilitate speedy consideration and smooth transition from one stage to the next. Madam Temporary Speaker critical business still remains relating to financial matters, namely the Third Basis of Revenue Sharing among the county governments and the County Allocation of Revenue Bill. I continue to urge colleague Senators that as we continue to deliberate on this matter, we need to proceed with patience, understanding and objectivity as the matter is undoubtedly weighty and emotive, so that we can arrive at a logical conclusion. I thank you, and hereby lay the Statement on the Table of the House."
     },
     {
-      "order": 380,
+      "order": 381,
       "id": "entry-1022190",
       "label": "scene",
       "level": "2",
@@ -4563,7 +4575,7 @@
       "text": "(Sen. Dullo laid the document on the Table)"
     },
     {
-      "order": 381,
+      "order": 382,
       "id": "entry-1022191",
       "label": "speech",
       "level": "2",
@@ -4575,7 +4587,7 @@
       "text": "Hon. Senators, looking at the time, I now rearrange the Order Paper, so that we move directly to Order No.24. Proceed, Senate Majority Whip. Proceed, Sen. Kang'ata:"
     },
     {
-      "order": 382,
+      "order": 383,
       "id": "entry-1022193",
       "label": "heading",
       "level": "1",
@@ -4587,7 +4599,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 383,
+      "order": 384,
       "id": "entry-1022195",
       "label": "heading",
       "level": "3",
@@ -4599,7 +4611,7 @@
       "text": "THE SECTIONAL PROPERTIES BILL (NATIONAL ASSEMBLY BILLS NO.23 OF 2019)"
     },
     {
-      "order": 384,
+      "order": 385,
       "id": "entry-1022196",
       "label": "speech",
       "level": "3",
@@ -4611,7 +4623,7 @@
       "text": "Madan Temporary Speaker, I beg to move that the Sectional Properties Bill (National Assembly Bills No.23 of 2019) be now read a Second Time. This Bill is important for several reasons. I first thank the Deputy Majority Leader for yielding that I move this Bill. The Bill is trying to establish a legal framework for ownership of property in a vertical manner. Vast majority of Kenyans own property in a vertical manner. With the rate of urbanisation, we may need to start encouraging our people to understand what we call strata/vertical ownership of property. The rate of urbanisation in this country is 4.23 per cent every year between the years 2015-2020. The urban population currently is about 30 per cent of the entire population of Kenya. We had a law that was called Sectional Properties Act of 1987, which this Bill is intending to replace. With that kind of huge rate of urbanisation, we foresee - as a Government - that more people will come to urban areas. They will need to own property, but it will be small units that will be inside a certain building. The effect of this Bill is to provide---"
     },
     {
-      "order": 385,
+      "order": 386,
       "id": "entry-1022201",
       "label": "heading",
       "level": "1",
@@ -4623,7 +4635,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 386,
+      "order": 387,
       "id": "entry-1022202",
       "label": "speech",
       "level": "1",

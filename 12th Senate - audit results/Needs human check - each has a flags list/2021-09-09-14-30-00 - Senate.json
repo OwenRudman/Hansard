@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-09-09-14-30-00",
-  "exported_at": "2026-10-05T08:09:53.338Z",
+  "exported_at": "2026-10-07T22:21:45.746Z",
   "entries": [
     {
       "order": 1,
@@ -2764,7 +2764,7 @@
     },
     {
       "order": 231,
-      "id": "entry-1098930",
+      "id": "entry-1098930-split-before-f41dafd2-1012-42f4-a0e8-d060798ae6d5",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -2772,11 +2772,11 @@
       "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "I also defer the next Statement by the Senator for Murang'a from the Committee on Tourism, Trade and Industrialization concerning operations of Murang'a County Creameries. OPERATIONS OF MURANG'A COUNTY CREAMERIES"
+      "text": "I also defer the next Statement by the Senator for Murang'a from the Committee on Tourism, Trade and Industrialization concerning operations of Murang'a County Creameries."
     },
     {
       "order": 232,
-      "id": "entry-1098930-inserted-4999a3bb-c4d7-495a-9725-fdf16ccdd5e6",
+      "id": "entry-1098930-split-selected-39df1338-8a36-4228-89cb-ff1b659b938b",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -2784,7 +2784,7 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "OPERATIONS OF MURANG’A COUNTY CREAMERIES"
+      "text": "OPERATIONS OF MURANG'A COUNTY CREAMERIES"
     },
     {
       "order": 233,

@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-05-10-14-30-00",
-  "exported_at": "2026-10-05T08:00:42.295Z",
+  "exported_at": "2026-10-07T22:17:14.035Z",
   "entries": [
     {
       "order": 1,
@@ -2296,19 +2296,7 @@
     },
     {
       "order": 192,
-      "id": "entry-798298",
-      "label": "speech",
-      "level": "1",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "VISITING DELEGATION OF STUDENTS AND TEACHERS FROM NDIIANI PRIMARY SCHOOL AND NYANG'ARA SECONDARY SCHOOL I would like to acknowledge the presence, in the public gallery this afternoon, of visiting students and teachers from Ndiiani Primary School and Nyang'ara Secondary School both from Kiambu County. We thank them for coming to the students and teachers for coming to the Senate."
-    },
-    {
-      "order": 193,
-      "id": "entry-798298-inserted-f10233ef-ba36-4d5c-8d65-959304279a2c",
+      "id": "entry-798298-split-selected-f7477dec-aa0d-429f-8715-f1c95c11b6f1",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -2316,7 +2304,19 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "VISITING DELEGATIONS FROM NDIIANI PRIMARY SCHOOL AND NYANG’ARA SECONDARY SCHOOL"
+      "text": "VISITING DELEGATION OF STUDENTS AND TEACHERS FROM NDIIANI PRIMARY SCHOOL AND NYANG'ARA SECONDARY SCHOOL"
+    },
+    {
+      "order": 193,
+      "id": "entry-798298-split-after-92dbc643-3098-4853-88a2-bba1ab4f3ce4",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Hon. Lusaka",
+      "speaker_title": "(The Speaker)",
+      "reviewed": true,
+      "text": "I would like to acknowledge the presence, in the public gallery this afternoon, of visiting students and teachers from Ndiiani Primary School and Nyang'ara Secondary School both from Kiambu County. We thank them for coming to the students and teachers for coming to the Senate."
     },
     {
       "order": 194,

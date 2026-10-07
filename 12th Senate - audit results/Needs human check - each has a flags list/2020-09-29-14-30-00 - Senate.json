@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-09-29-14-30-00",
-  "exported_at": "2026-10-05T08:07:40.774Z",
+  "exported_at": "2026-10-07T22:20:59.011Z",
   "entries": [
     {
       "order": 1,
@@ -520,7 +520,7 @@
     },
     {
       "order": 44,
-      "id": "entry-1014531",
+      "id": "entry-1014531-split-before-92baf192-d111-47ee-ae76-491d178dd9e3",
       "label": "speech",
       "level": "3",
       "cutout": false,
@@ -528,11 +528,11 @@
       "speaker": "",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "(Sen.) Prof. Kamar): Hon. Senators, having passed that, I now want to give another Communication relating to the decision that we have just made.\n\nCOMMUNICATION FROM THE CHAIR"
+      "text": "(Sen.) Prof. Kamar): Hon. Senators, having passed that, I now want to give another Communication relating to the decision that we have just made."
     },
     {
       "order": 45,
-      "id": "entry-1014531-inserted-541c9d47-120d-4f51-a4d6-3e8071f3252e",
+      "id": "entry-1014531-split-selected-42a2da38-db7a-4a4e-9996-e8d8c8e8e65b",
       "label": "heading",
       "level": "1",
       "cutout": false,
@@ -540,7 +540,7 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "COMMUNICATIONS FROM THE CHAIR"
+      "text": "COMMUNICATION FROM THE CHAIR"
     },
     {
       "order": 46,

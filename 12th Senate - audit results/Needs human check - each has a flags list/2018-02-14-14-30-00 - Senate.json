@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-02-14-14-30-00",
-  "exported_at": "2026-10-05T07:59:50.650Z",
+  "exported_at": "2026-10-07T22:16:52.881Z",
   "entries": [
     {
       "order": 1,
@@ -340,31 +340,7 @@
     },
     {
       "order": 29,
-      "id": "entry-772915",
-      "label": "speech",
-      "level": "1",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "USAGE OF THE WORD \"HARAMBEE\" IN THE COAT OF ARMS AND THE PUBLIC SEAL Honourable Senators, pursuant to Standing Orders 220(1)(a), and 224(2)(b), I hereby report to the Senate that a petition has been submitted, through the Clerk, by Mr. Isaac Aluochier, regarding usage of the word ' Harambee ' in the Coat of Arms and Public Seal of Kenya. As you are aware, under Article 119(1) of the Constitution, and I quote:- \"Every person has a right to petition Parliament to consider any matter within its authority, including enacting, amending or repealing any legislation.\" The salient issues raised in the said Petition are as follows:- (a) THAT, both the Coat of Arms and Public Seal of Kenya, as set out at the Second Schedule of the Constitution, have the word ' Harambee ' as an intrinsic part of their composition. (b) THAT, according to the Petitioner, one of the meanings of the word ' Harambee ' is ' praise Ambe ' - Ambe being a goddess in the Hindu religion, considered as wife to the Hindu god Shiva; and, (c) THAT, consequently, inclusion of the word ' Harambee ' in the national symbols of Kenya, specifically the Coat of Arms and the Public Seal, offends the Constitutional provisions on separation of the State and religion. The Petitioner, therefore, prays that the Senate investigates this matter with a view to amending the Constitution to replace the word ' Harambee ' whenever it appears, with a more appropriate term. The suggested replacement in this case is the word ' Haki ', derived from the words of the National Anthem, in which it states ' Haki iwe ngao namlinzi '."
-    },
-    {
-      "order": 30,
-      "id": "entry-772917",
-      "label": "scene",
-      "level": "1",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(Some Hon. Senators stood at the bar)"
-    },
-    {
-      "order": 31,
-      "id": "entry-772917-inserted-a4a5bf4a-aee1-41e3-8e24-97aade525bd7",
+      "id": "entry-772915-split-selected-eec150a2-cd28-4b14-b7b7-38ae010da532",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -372,7 +348,31 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "USAGE OF THE WORD “HARAMBEE” IN THE COAT OF ARMS AND THE PUBLIC SEAL"
+      "text": "USAGE OF THE WORD \"HARAMBEE\" IN THE COAT OF ARMS AND THE PUBLIC SEAL"
+    },
+    {
+      "order": 30,
+      "id": "entry-772915-split-after-eb826fc4-1327-4b37-b0d7-ebee6472e791",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Hon. Lusaka",
+      "speaker_title": "(The Speaker)",
+      "reviewed": true,
+      "text": "Honourable Senators, pursuant to Standing Orders 220(1)(a), and 224(2)(b), I hereby report to the Senate that a petition has been submitted, through the Clerk, by Mr. Isaac Aluochier, regarding usage of the word ' Harambee ' in the Coat of Arms and Public Seal of Kenya. As you are aware, under Article 119(1) of the Constitution, and I quote:- \"Every person has a right to petition Parliament to consider any matter within its authority, including enacting, amending or repealing any legislation.\" The salient issues raised in the said Petition are as follows:- (a) THAT, both the Coat of Arms and Public Seal of Kenya, as set out at the Second Schedule of the Constitution, have the word ' Harambee ' as an intrinsic part of their composition. (b) THAT, according to the Petitioner, one of the meanings of the word ' Harambee ' is ' praise Ambe ' - Ambe being a goddess in the Hindu religion, considered as wife to the Hindu god Shiva; and, (c) THAT, consequently, inclusion of the word ' Harambee ' in the national symbols of Kenya, specifically the Coat of Arms and the Public Seal, offends the Constitutional provisions on separation of the State and religion. The Petitioner, therefore, prays that the Senate investigates this matter with a view to amending the Constitution to replace the word ' Harambee ' whenever it appears, with a more appropriate term. The suggested replacement in this case is the word ' Haki ', derived from the words of the National Anthem, in which it states ' Haki iwe ngao namlinzi '."
+    },
+    {
+      "order": 31,
+      "id": "entry-772917",
+      "label": "scene",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "(Some Hon. Senators stood at the bar)"
     },
     {
       "order": 32,

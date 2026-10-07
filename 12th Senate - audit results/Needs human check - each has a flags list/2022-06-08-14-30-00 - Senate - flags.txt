@@ -1,4 +1,4 @@
-2022-06-08-14-30-00 - Senate: 48 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+2022-06-08-14-30-00 - Senate: 49 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
 
 1. block 121, PDF p.44 [speech | Rose Nyamunga Ogendo]
    Name check: PDF says 'The Speaker (Hon. Lusaka)', block says 'Rose Nyamunga Ogendo (Temporary Speaker)'.
@@ -191,4 +191,7 @@
 48. block 532 [heading]
    Couldn't find this text in the PDF. Check it against the PDF.
    Text: "603,044,748 568,996,754"
+
+49. block 237 [speech]
+   The PDF heading 'THE NATIONAL COHESION AND PEACE BUILDING BILL' is split across this block and the next one (this block has 'THE NATIONAL COHESION AND PEACE BUILDING'). Split it out and combine the two halves into one heading.
 

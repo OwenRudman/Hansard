@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-05-30-14-30-00",
-  "exported_at": "2026-10-05T08:00:50.977Z",
+  "exported_at": "2026-10-07T22:17:19.977Z",
   "entries": [
     {
       "order": 1,
@@ -796,7 +796,7 @@
     },
     {
       "order": 67,
-      "id": "entry-799455",
+      "id": "entry-799455-split-before-e73c2a38-9246-40d4-91a6-cf8e001d34d2",
       "label": "speech",
       "level": "1",
       "cutout": false,
@@ -804,11 +804,11 @@
       "speaker": "Sen. M. Kajwang'",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Mr. Deputy Speaker, Sir, I do not intend to take the trophy for late coming from the other side of the House. Tomorrow, I will make sure I am here on time. NOTING OF REPORT OF THE SENATE DELEGATION TO THE INAUGURAL COMMONWEALTH PARLIAMENTARIANS' FORUM I beg to give notice of the following Motion:- THAT, this House notes the Report of the Senate delegation to the Inaugural Commonwealth Parliamentarians' Forum held at the Westminster, London, United Kingdom, from 26th February, to 1st March, 2018 laid on the Table of the House on Thursday, 10th May, 2018."
+      "text": "Mr. Deputy Speaker, Sir, I do not intend to take the trophy for late coming from the other side of the House. Tomorrow, I will make sure I am here on time."
     },
     {
       "order": 68,
-      "id": "entry-799455-inserted-f2081441-9b8f-4ec9-8611-a1ef9f6f3bb4",
+      "id": "entry-799455-split-selected-be1b55a5-32d6-4f5b-bd3e-8d4df56bc4d4",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -816,10 +816,22 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOTING OF REPORT OF THE SENATE DELEGATION TO THE INAUGURAL COMMONWEALTH PARLIAMENTARIANS’ FORUM"
+      "text": "NOTING OF REPORT OF THE SENATE DELEGATION TO THE INAUGURAL COMMONWEALTH PARLIAMENTARIANS' FORUM"
     },
     {
       "order": 69,
+      "id": "entry-799455-split-after-6232b391-1288-437a-9157-17fadb335c4d",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Sen. M. Kajwang'",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "I beg to give notice of the following Motion:- THAT, this House notes the Report of the Senate delegation to the Inaugural Commonwealth Parliamentarians' Forum held at the Westminster, London, United Kingdom, from 26th February, to 1st March, 2018 laid on the Table of the House on Thursday, 10th May, 2018."
+    },
+    {
+      "order": 70,
       "id": "entry-799456",
       "label": "speech",
       "level": "2",
@@ -831,7 +843,7 @@
       "text": "I direct further, before we go to Order No.12, we dispense with Order No.8."
     },
     {
-      "order": 70,
+      "order": 71,
       "id": "entry-799457",
       "label": "heading",
       "level": "1",
@@ -843,7 +855,7 @@
       "text": "BILL\nFirst Reading"
     },
     {
-      "order": 71,
+      "order": 72,
       "id": "entry-799459",
       "label": "heading",
       "level": "3",
@@ -855,7 +867,7 @@
       "text": "THE DIVISION OF REVENUE (AMENDMENT) BILL (SENATE BILLS NO.14 OF 2018)"
     },
     {
-      "order": 72,
+      "order": 73,
       "id": "entry-799460",
       "label": "scene",
       "level": "3",
@@ -867,7 +879,7 @@
       "text": "(Orders for First Reading read - Read the First Time and ordered to be referred to the relevant Senate Committee)"
     },
     {
-      "order": 73,
+      "order": 74,
       "id": "entry-799461",
       "label": "speech",
       "level": "3",
@@ -879,7 +891,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 74,
+      "order": 75,
       "id": "entry-799462",
       "label": "heading",
       "level": "1",
@@ -891,7 +903,7 @@
       "text": "MOTION"
     },
     {
-      "order": 75,
+      "order": 76,
       "id": "entry-799463",
       "label": "heading",
       "level": "3",
@@ -903,7 +915,7 @@
       "text": "APPOINTMENT OF SEN. CLEOPHAS MALALAH TO THE SBC"
     },
     {
-      "order": 76,
+      "order": 77,
       "id": "entry-799464",
       "label": "speech",
       "level": "3",
@@ -915,7 +927,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move the following Motion:- THAT, pursuant to Standing Orders 178(1) (d) and 183 (3) of the Senate, the Senate approves the appointment of Sen. Cleophas Malalah, MP, as a Member of the Senate Business Committee. This is a very straight forward Motion, Sen. Malalah was recently appointed by the minority side to be the Deputy Minority Leader following the promotion of the then Minority Leader. Sen. Malalah is known to all of us. He is a former Member of County Assembly (MCA) in Kakamega County. As a young man, he qualifies to be in the bracket of the youth of this republic. He has a lot of energy and is a football player of the Bunge Team."
     },
     {
-      "order": 77,
+      "order": 78,
       "id": "entry-799465",
       "label": "speech",
       "level": "3",
@@ -927,7 +939,7 @@
       "text": "Order, Senator! Is football part of the Senate business?"
     },
     {
-      "order": 78,
+      "order": 79,
       "id": "entry-799466",
       "label": "speech",
       "level": "3",
@@ -939,7 +951,7 @@
       "text": "Yes, Mr. Deputy Speaker, Sir, football and sports is part of the Parliament business in terms of promotion of networks, opening and widening devolution. It is one of the mechanisms that we reach out to as many people as possible in this country, while promoting fitness and sports in the country. For the record, we played with him last time we faced Parliament of Turkey as part of promoting friendship with the People of Turkey and the Republic of Turkey. He is a football player and is very passionate about youth issues in this county. I am glad that in his youth, he got an opportunity to serve in leadership just like some of us did. It is important for him to join the Senate Business Committee to bring the energy, focus and commitment he has for scheduling business for this House and discussing the direction that the House takes as far as matters business are concerned. That thanks to the cordial relationship that is prevailing in this House and the country, we will work very closely with Sen. Malalah who was my friend even before the handshake, we had many handshakes before the highly profiled one, both uniting and dividing handshakes. Mr. Deputy Speaker, Sir, I support the Motion. I am not seeing the Minority leader or the whip from the minority side. You have a habit of admonishing either side of the House."
     },
     {
-      "order": 79,
+      "order": 80,
       "id": "entry-799469",
       "label": "speech",
       "level": "3",
@@ -951,7 +963,7 @@
       "text": "Order, Senator! Did you say \"habit\"?"
     },
     {
-      "order": 80,
+      "order": 81,
       "id": "entry-799470",
       "label": "speech",
       "level": "3",
@@ -963,7 +975,7 @@
       "text": "Mr. Deputy Speaker, Sir, I withdraw and apologise."
     },
     {
-      "order": 81,
+      "order": 82,
       "id": "entry-799471",
       "label": "speech",
       "level": "3",
@@ -975,7 +987,7 @@
       "text": "Proceed."
     },
     {
-      "order": 82,
+      "order": 83,
       "id": "entry-799472",
       "label": "speech",
       "level": "3",
@@ -987,7 +999,7 @@
       "text": "You have a good tradition of reminding us of our diligence to our duties in the House. When you get the appropriate time, remind the Minority side to avail their leadership in the House. In the absence of the leadership of the Minority side, I will use my own discretion and ask Sen. Kwamboka to second this Motion. I have never even heard her speak here."
     },
     {
-      "order": 83,
+      "order": 84,
       "id": "entry-799473",
       "label": "scene",
       "level": "3",
@@ -999,7 +1011,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 84,
+      "order": 85,
       "id": "entry-799474",
       "label": "speech",
       "level": "3",
@@ -1011,7 +1023,7 @@
       "text": "Order senator! Yes, Sen. Kwamboka."
     },
     {
-      "order": 85,
+      "order": 86,
       "id": "entry-799475",
       "label": "speech",
       "level": "3",
@@ -1023,7 +1035,7 @@
       "text": "Mr. Deputy Speaker, Sir, I second the Motion."
     },
     {
-      "order": 86,
+      "order": 87,
       "id": "entry-799476",
       "label": "speech",
       "level": "3",
@@ -1035,7 +1047,7 @@
       "text": "Leader of Majority, I hope you have now heard her speak. Order, Senators!"
     },
     {
-      "order": 87,
+      "order": 88,
       "id": "entry-799477",
       "label": "scene",
       "level": "3",
@@ -1047,7 +1059,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 88,
+      "order": 89,
       "id": "entry-799478",
       "label": "speech",
       "level": "3",
@@ -1059,7 +1071,7 @@
       "text": "Sen.(Dr.) Musuruve, do you insist on speaking? Say whatsoever in a minute."
     },
     {
-      "order": 89,
+      "order": 90,
       "id": "entry-799479",
       "label": "speech",
       "level": "3",
@@ -1071,7 +1083,7 @@
       "text": "Mr. Deputy Speaker, Sir, thank you for giving me the opportunity to support the appointment of Sen. Malalah to the Senate Business Committee. Sen. Malalah comes out as a vibrant Senator in this House. He is an inspiration to the youth and is all rounded, in sports and drama. He has taken a number of students to State House and this is encouraging to young leaders who are coming up. He has qualities that need to come up and be nurtured. I beg to support."
     },
     {
-      "order": 90,
+      "order": 91,
       "id": "entry-799480",
       "label": "speech",
       "level": "3",
@@ -1083,7 +1095,7 @@
       "text": "Thank you. First and foremost, this is not a matter concerning counties. Senate Majority Leader, do you want to reply?"
     },
     {
-      "order": 91,
+      "order": 92,
       "id": "entry-799481",
       "label": "speech",
       "level": "3",
@@ -1095,7 +1107,7 @@
       "text": "Yes."
     },
     {
-      "order": 92,
+      "order": 93,
       "id": "entry-799482",
       "label": "speech",
       "level": "3",
@@ -1107,7 +1119,7 @@
       "text": "Please do."
     },
     {
-      "order": 93,
+      "order": 94,
       "id": "entry-799483",
       "label": "speech",
       "level": "3",
@@ -1119,7 +1131,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to reply."
     },
     {
-      "order": 94,
+      "order": 95,
       "id": "entry-799484",
       "label": "speech",
       "level": "3",
@@ -1131,7 +1143,7 @@
       "text": "You should actually beg to move."
     },
     {
-      "order": 95,
+      "order": 96,
       "id": "entry-799486",
       "label": "scene",
       "level": "3",
@@ -1143,7 +1155,7 @@
       "text": "(Sen. Murkomen spoke off-record)"
     },
     {
-      "order": 96,
+      "order": 97,
       "id": "entry-799487",
       "label": "speech",
       "level": "3",
@@ -1155,7 +1167,7 @@
       "text": "Order, Senators! I will now put the question. As I have directed, this is not a matter concerning counties."
     },
     {
-      "order": 97,
+      "order": 98,
       "id": "entry-799488",
       "label": "scene",
       "level": "3",
@@ -1167,7 +1179,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 98,
+      "order": 99,
       "id": "entry-799489",
       "label": "speech",
       "level": "3",
@@ -1179,7 +1191,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 99,
+      "order": 100,
       "id": "entry-799490",
       "label": "heading",
       "level": "1",
@@ -1191,7 +1203,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 100,
+      "order": 101,
       "id": "entry-799491",
       "label": "scene",
       "level": "1",
@@ -1203,7 +1215,7 @@
       "text": "( Order for Committee read)"
     },
     {
-      "order": 101,
+      "order": 102,
       "id": "entry-799492",
       "label": "scene",
       "level": "1",
@@ -1215,7 +1227,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 102,
+      "order": 103,
       "id": "entry-799493",
       "label": "heading",
       "level": "2",
@@ -1227,7 +1239,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 103,
+      "order": 104,
       "id": "entry-799494",
       "label": "scene",
       "level": "2",
@@ -1239,7 +1251,7 @@
       "text": "[The Temporary Chairperson (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 104,
+      "order": 105,
       "id": "entry-799495",
       "label": "heading",
       "level": "3",
@@ -1251,7 +1263,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO.11 OF 2018)"
     },
     {
-      "order": 105,
+      "order": 106,
       "id": "entry-799496",
       "label": "speech",
       "level": "3",
@@ -1263,7 +1275,7 @@
       "text": "Order Senators, we are now in the Committee of the Whole."
     },
     {
-      "order": 106,
+      "order": 107,
       "id": "entry-799497-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1275,7 +1287,7 @@
       "text": "Clause 3"
     },
     {
-      "order": 107,
+      "order": 108,
       "id": "entry-799497-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1287,7 +1299,7 @@
       "text": "(Question that Clause 3 be part of the Bill proposed)"
     },
     {
-      "order": 108,
+      "order": 109,
       "id": "entry-799498",
       "label": "speech",
       "level": "5",
@@ -1299,7 +1311,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 109,
+      "order": 110,
       "id": "entry-799499",
       "label": "heading",
       "level": "5",
@@ -1311,7 +1323,7 @@
       "text": "Clause 4"
     },
     {
-      "order": 110,
+      "order": 111,
       "id": "entry-799500",
       "label": "speech",
       "level": "5",
@@ -1323,7 +1335,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT Clause 4 of the Bill be amended by deleting sub-clause (2) and substituting therefor the following new sub-clause- (2) Each county government's allocation under subsection (1) shall be transferred to the respective County Revenue Fund- (a) in accordance with a payment schedule approved by the Senate and published in the gazette by the Cabinet Secretary in accordance with section 17 of the Public Finance Management Act; and No.18 of 2012 (b) without undue delay and without deduction, except when the transfer has been stopped under Article 225 of the Constitution. This amendment is supposed to ensure that monies approved in the schedule by the Senate are sent on time without any deduction."
     },
     {
-      "order": 111,
+      "order": 112,
       "id": "entry-799503-parenthesis-split-1-of-6",
       "label": "scene",
       "level": "5",
@@ -1335,7 +1347,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 112,
+      "order": 113,
       "id": "entry-799503-parenthesis-split-2-of-6",
       "label": "heading",
       "level": "5",
@@ -1347,7 +1359,7 @@
       "text": "Clauses 5-10"
     },
     {
-      "order": 113,
+      "order": 114,
       "id": "entry-799503-parenthesis-split-3-of-6",
       "label": "scene",
       "level": "5",
@@ -1359,7 +1371,7 @@
       "text": "(Question, that Clauses 5, 6, 7, 8, 9 and 10 be part of the Bill, proposed)"
     },
     {
-      "order": 114,
+      "order": 115,
       "id": "entry-799503-parenthesis-split-4-of-6",
       "label": "heading",
       "level": "3",
@@ -1371,7 +1383,7 @@
       "text": "The First, the Second and the Third schedules"
     },
     {
-      "order": 115,
+      "order": 116,
       "id": "entry-799503-parenthesis-split-5-of-6",
       "label": "scene",
       "level": "3",
@@ -1383,7 +1395,7 @@
       "text": "(Question, that the First, the Second and the Third schedules be part of the Bill, proposed)"
     },
     {
-      "order": 116,
+      "order": 117,
       "id": "entry-799503-parenthesis-split-6-of-6",
       "label": "heading",
       "level": "5",
@@ -1395,7 +1407,7 @@
       "text": "The Fourth Schedule"
     },
     {
-      "order": 117,
+      "order": 118,
       "id": "entry-799504",
       "label": "speech",
       "level": "5",
@@ -1407,7 +1419,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT the Bill be amended by deleting the Fourth Schedule and substituting therefor the following new Schedule-"
     },
     {
-      "order": 118,
+      "order": 119,
       "id": "entry-799505-speaker-uppercase-heading",
       "label": "heading",
       "level": "5",
@@ -1419,7 +1431,7 @@
       "text": "FOURTH SCHEDULE (S.6)"
     },
     {
-      "order": 119,
+      "order": 120,
       "id": "entry-799505-split-before-c4fdf5de-6fde-4bb6-89b0-04046380b88a",
       "label": "speech",
       "level": "5",
@@ -1431,7 +1443,7 @@
       "text": "(Figures are in Kenya Shillings) County County Executive Recurrent County Assembly Recurrent Expenditure Ceilings for FY Expenditure Ceilings for FY 2018/19 2018/19 FY 2017/2018"
     },
     {
-      "order": 120,
+      "order": 121,
       "id": "entry-799505-split-selected-ff6d47be-1a21-476d-b3fe-976e80849220",
       "label": "heading",
       "level": "3",
@@ -1443,7 +1455,7 @@
       "text": "FY 2018/2019"
     },
     {
-      "order": 121,
+      "order": 122,
       "id": "entry-799505-split-after-246eb216-139c-40fa-9b7b-77a861670263-split-before-9176b5b4-7f64-414f-9683-247194b7b232",
       "label": "speech",
       "level": "3",
@@ -1455,7 +1467,7 @@
       "text": "FY 2017/2018"
     },
     {
-      "order": 122,
+      "order": 123,
       "id": "entry-799505-split-after-246eb216-139c-40fa-9b7b-77a861670263-split-selected-18a96d07-0d71-4845-a055-1876e4cd0dab",
       "label": "heading",
       "level": "3",
@@ -1467,7 +1479,7 @@
       "text": "FY 2018/2019"
     },
     {
-      "order": 123,
+      "order": 124,
       "id": "entry-799505-split-after-246eb216-139c-40fa-9b7b-77a861670263-split-after-00795e2d-a68d-4718-b1a0-54c09c3439ba",
       "label": "speech",
       "level": "3",
@@ -1479,7 +1491,7 @@
       "text": "1 Baringo 552,102,186 571,077,976 597,216,746 745,949,448 2 Bomet 535,190,257 553,757,614 509,765,837 593,549,397 3 Bungoma 602,837,969 623,039,058 755,249,331 830,129,329 4 Busia 569,014,114 588,398,337 626,631,094 728,502,747 5 Elgeyo- 518,278,330 536,437,254 472,435,996 566,844,007 Marakwet 6 Embu 518,278,330 536,437,254 485,937,461 568,744,226 7 Garissa 552,102,186 571,077,976 648,074,550 747,191,067 8 Homa Bay 585,926,041 605,718,697 730,589,778 837,888,910 9 Isiolo 449,417,832 466,512,829 388,553,640 415,766,822 10 Kajiado 511,832,496 530,235,145 561,789,458 656,834,585 11 Kakamega 653,573,752 675,000,140 883,457,978 1,061,364,590 12 Kericho 552,102,186 571,077,976 585,082,155 680,496,881 13 Kiambu 653,573,752 675,000,140 889,745,034 1,072,824,374 14 Kilifi 569,014,114 588,398,337 638,942,332 753,514,171 15 Kirinyaga 506,599,449 524,676,019 490,547,175 556,734,809 16 Kisii 602,837,969 623,039,058 779,851,723 907,969,871 17 Kisumu 569,014,114 588,398,337 656,616,804 684,802,036 18 Kitui 585,926,041 605,718,697 727,297,161 811,797,246 19 Kwale 518,278,330 536,437,254 491,804,086 584,760,053 20 Laikipia 478,008,640 495,594,424 403,586,936 441,560,603 21 Lamu 449,417,832 466,512,829 357,441,657 404,937,595 22 Machakos 585,926,041 605,718,697 710,670,184 831,776,339 23 Makueni 552,102,186 571,077,976 623,097,274 746,360,207 24 Mandera 561,097,207 580,289,418 708,469,750 728,474,208 25 Marsabit 518,278,330 536,437,254 559,260,215 597,578,513 26 Meru 602,837,969 623,039,058 831,034,732 925,216,546 27 Migori 585,926,041 605,718,697 736,791,733 828,127,065 28 Mombasa 552,102,186 571,077,976 611,938,336 646,914,950 29 Murang'a 569,014,114 588,398,337 613,746,528 724,534,618 30 Nairobi 738,133,392 761,601,944 1,293,426,918 1,386,671,700 City 31 Nakuru 636,661,824 657,679,779 813,963,353 969,538,825 32 Nandi 552,102,186 571,077,976 593,045,251 631,178,919 33 Narok 552,102,186 571,077,976 601,710,917 708,556,511 34 Nyamira 518,278,330 536,437,254 485,084,189 587,432,863 35 Nyandarua 535,190,257 553,757,614 555,137,541 623,474,296 36 Nyeri 552,102,186 571,077,976 586,007,599 659,447,249 37 Samburu 466,329,759 483,833,189 419,035,586 474,065,548 38 Siaya 552,102,186 571,077,976 592,664,559 648,656,207 39 Taita- 518,278,330 536,437,254 521,642,011 585,350,779 Taveta 40 Tana River 489,687,521 507,355,659 454,495,177 472,819,158 41 Tharaka 478,008,640 495,594,424 384,283,351 424,689,934 Nithi 42 Trans 535,190,257 553,757,614 530,452,425 614,078,431 Nzoia 43 Turkana 552,102,186 571,077,976 764,435,401 743,352,347 44 Uasin 552,102,186 571,077,976 568,747,182 671,972,798 Gishu 45 Vihiga 535,190,257 553,757,614 530,154,162 607,253,791 46 Wajir 543,107,164 561,866,534 643,968,360 719,759,837 47 West 518,278,330 536,437,254 483,519,537 573,674,197 Pokot Total 25,885,557,171 26,779,286,753 28,897,399,203 32,783,118,606 Ceilings This is necessitated by the fact that the recurrent expenditure ceilings for the county assemblies as proposed by the Commission on Revenue Allocation (CRA) and currently in the Bill did not take into account the committee sitting allowances of Members of County Assemblies (MCAs) that were in force prior to the gazette notice which is now in force and salaries for county assemblies staff considered the optimal numbers instead of actual numbers. So, this will help the county assemblies to meet their recurrent obligations. The figure has risen from Kshs31,031,309,010. In fact, it affected each of the 47 counties. The figures have gone upwards by about Kshs1.7 billion. We hope this will eliminate the difficulties that county assemblies go through although we did not grant them all they requested for. The total figure in the new schedule is Kshs32,783,118,606."
     },
     {
-      "order": 124,
+      "order": 125,
       "id": "entry-799514-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "3",
@@ -1491,7 +1503,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 125,
+      "order": 126,
       "id": "entry-799514-parenthesis-split-2-of-3",
       "label": "heading",
       "level": "5",
@@ -1503,7 +1515,7 @@
       "text": "Clause 2, the Title and Clause 1"
     },
     {
-      "order": 126,
+      "order": 127,
       "id": "entry-799514-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "5",
@@ -1515,7 +1527,7 @@
       "text": "(Question, that Clause 2, the Title and Clause 1 be part of the Bill, proposed)"
     },
     {
-      "order": 127,
+      "order": 128,
       "id": "entry-799515",
       "label": "speech",
       "level": "5",
@@ -1527,7 +1539,7 @@
       "text": "I order that the Division Bell be rung for three minutes."
     },
     {
-      "order": 128,
+      "order": 129,
       "id": "entry-799516",
       "label": "scene",
       "level": "5",
@@ -1539,7 +1551,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 129,
+      "order": 130,
       "id": "entry-799517",
       "label": "speech",
       "level": "5",
@@ -1551,7 +1563,7 @@
       "text": "Hon. Senators, we will proceed to the Division because we have the requisite numbers. Serjeant-at-Arms, please draw the Bar and lock the doors."
     },
     {
-      "order": 130,
+      "order": 131,
       "id": "entry-799518",
       "label": "scene",
       "level": "5",
@@ -1563,7 +1575,7 @@
       "text": "(The Bar was drawn and doors closed)"
     },
     {
-      "order": 131,
+      "order": 132,
       "id": "entry-799519",
       "label": "speech",
       "level": "5",
@@ -1575,7 +1587,7 @@
       "text": "We will use electronic voting. Please, get ready and log in. We will start with Clauses with amendments. I now put the Question, that Clause 4 and the Fourth Schedule be amended as proposed. Please, vote now. The assisted voters can come and vote manually."
     },
     {
-      "order": 132,
+      "order": 133,
       "id": "entry-799520",
       "label": "scene",
       "level": "5",
@@ -1587,7 +1599,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 133,
+      "order": 134,
       "id": "entry-799521",
       "label": "speech",
       "level": "5",
@@ -1599,7 +1611,7 @@
       "text": "We are going to the next vote and we are ready. Go ahead and vote. There is a Senator who has not voted. If you are unable to vote electronically, we can assist for there is still time."
     },
     {
-      "order": 134,
+      "order": 135,
       "id": "entry-799522",
       "label": "heading",
       "level": "3",
@@ -1611,7 +1623,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 135,
+      "order": 136,
       "id": "entry-799524",
       "label": "scene",
       "level": "3",
@@ -1623,7 +1635,7 @@
       "text": "(Question, that Clause 4 and the Fourth Schedule be amended as proposed put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 136,
+      "order": 137,
       "id": "entry-799525",
       "label": "other",
       "level": "3",
@@ -1635,7 +1647,7 @@
       "text": "AYES"
     },
     {
-      "order": 137,
+      "order": 138,
       "id": "entry-799526",
       "label": "other",
       "level": "3",
@@ -1647,7 +1659,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi County; Sen. Halake, Isiolo County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Langat, Bomet County; Sen. Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 138,
+      "order": 139,
       "id": "entry-799527",
       "label": "other",
       "level": "3",
@@ -1659,7 +1671,7 @@
       "text": "NOES\n\n: 0"
     },
     {
-      "order": 139,
+      "order": 140,
       "id": "entry-799529",
       "label": "speech",
       "level": "3",
@@ -1671,7 +1683,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 24\n\nNOES\n\n: 0\n\nABSTENTIONS"
     },
     {
-      "order": 140,
+      "order": 141,
       "id": "entry-799535",
       "label": "speech",
       "level": "3",
@@ -1683,7 +1695,7 @@
       "text": ": NIL The \"Ayes\" have it."
     },
     {
-      "order": 141,
+      "order": 142,
       "id": "entry-799536",
       "label": "scene",
       "level": "3",
@@ -1695,7 +1707,7 @@
       "text": "(Question carried by 24 votes to 0)"
     },
     {
-      "order": 142,
+      "order": 143,
       "id": "entry-799537",
       "label": "heading",
       "level": "3",
@@ -1707,7 +1719,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 143,
+      "order": 144,
       "id": "entry-799539",
       "label": "scene",
       "level": "3",
@@ -1719,7 +1731,7 @@
       "text": "(Question, that Clause 3, 4 (as amended), 5, 6, 7, 8, 9, 10, The First, Second and Third Schedule, The Fourth Schedule (as amended), Clause 2, The Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 144,
+      "order": 145,
       "id": "entry-799540",
       "label": "other",
       "level": "3",
@@ -1731,7 +1743,7 @@
       "text": "AYES"
     },
     {
-      "order": 145,
+      "order": 146,
       "id": "entry-799541",
       "label": "other",
       "level": "3",
@@ -1743,7 +1755,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi County; Sen. Halake, Isiolo County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Langat, Bomet County; Sen. Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu"
     },
     {
-      "order": 146,
+      "order": 147,
       "id": "entry-799543",
       "label": "other",
       "level": "3",
@@ -1755,7 +1767,7 @@
       "text": "County; Sen. Olekina, Narok County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 147,
+      "order": 148,
       "id": "entry-799544",
       "label": "other",
       "level": "3",
@@ -1767,7 +1779,7 @@
       "text": "NOES\n\n: 0"
     },
     {
-      "order": 148,
+      "order": 149,
       "id": "entry-799546",
       "label": "speech",
       "level": "3",
@@ -1779,7 +1791,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 24\n\nNOES\n\n: 0\n\nABSTENTIONS"
     },
     {
-      "order": 149,
+      "order": 150,
       "id": "entry-799552",
       "label": "speech",
       "level": "3",
@@ -1791,7 +1803,7 @@
       "text": ": NIL The \"Ayes\" have it."
     },
     {
-      "order": 150,
+      "order": 151,
       "id": "entry-799553-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1803,7 +1815,7 @@
       "text": "(Question carried by 24 votes to 0)"
     },
     {
-      "order": 151,
+      "order": 152,
       "id": "entry-799553-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1815,7 +1827,7 @@
       "text": "(Clause 3, 4 (as amended), 5, 6, 7, 8, 9, 10, The First, Second and Third Schedule, The Fourth Schedule (as amended), Clause 2, The Title and Clause 1 agreed to)"
     },
     {
-      "order": 152,
+      "order": 153,
       "id": "entry-799554",
       "label": "speech",
       "level": "3",
@@ -1827,7 +1839,7 @@
       "text": "Hon. Senators, we will report progress back to the House on the Division."
     },
     {
-      "order": 153,
+      "order": 154,
       "id": "entry-799555",
       "label": "speech",
       "level": "3",
@@ -1839,7 +1851,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order No. 142, I beg to move that the Committee do report to the Senate its consideration of the County Allocation of Revenue Bill (Senate Bills No.11 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 154,
+      "order": 155,
       "id": "entry-799556",
       "label": "speech",
       "level": "3",
@@ -1851,7 +1863,7 @@
       "text": "seconded."
     },
     {
-      "order": 155,
+      "order": 156,
       "id": "entry-799557-parenthesis-split-1-of-4",
       "label": "scene",
       "level": "3",
@@ -1863,7 +1875,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 156,
+      "order": 157,
       "id": "entry-799557-parenthesis-split-2-of-4",
       "label": "scene",
       "level": "3",
@@ -1875,7 +1887,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 157,
+      "order": 158,
       "id": "entry-799557-parenthesis-split-3-of-4",
       "label": "scene",
       "level": "3",
@@ -1887,7 +1899,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 158,
+      "order": 159,
       "id": "entry-799557-parenthesis-split-4-of-4",
       "label": "scene",
       "level": "3",
@@ -1899,7 +1911,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) in the Chair]"
     },
     {
-      "order": 159,
+      "order": 160,
       "id": "entry-799558",
       "label": "heading",
       "level": "3",
@@ -1911,7 +1923,7 @@
       "text": "REPORT AND CONSIDERATION OF REPORT"
     },
     {
-      "order": 160,
+      "order": 161,
       "id": "entry-799559",
       "label": "heading",
       "level": "3",
@@ -1923,7 +1935,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO.11 OF 2018)"
     },
     {
-      "order": 161,
+      "order": 162,
       "id": "entry-799560",
       "label": "speech",
       "level": "3",
@@ -1935,7 +1947,7 @@
       "text": "Hon. Senators, let us have the temporary Chairperson to report to the House."
     },
     {
-      "order": 162,
+      "order": 163,
       "id": "entry-799561",
       "label": "speech",
       "level": "3",
@@ -1947,7 +1959,7 @@
       "text": "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered the County Allocation of Revenue Bill (Senate Bills No.11 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 163,
+      "order": 164,
       "id": "entry-799562",
       "label": "speech",
       "level": "3",
@@ -1959,7 +1971,7 @@
       "text": "Can we have the Mover of the Bill?"
     },
     {
-      "order": 164,
+      "order": 165,
       "id": "entry-799563",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1983,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the House do agree with the Committee on the said report. I request the Senate Majority Whip to second."
     },
     {
-      "order": 165,
+      "order": 166,
       "id": "entry-799564",
       "label": "speech",
       "level": "3",
@@ -1983,7 +1995,7 @@
       "text": "Sen. Kihika, go ahead."
     },
     {
-      "order": 166,
+      "order": 167,
       "id": "entry-799565",
       "label": "speech",
       "level": "3",
@@ -1995,7 +2007,7 @@
       "text": "seconded"
     },
     {
-      "order": 167,
+      "order": 168,
       "id": "entry-799566-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2007,7 +2019,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 168,
+      "order": 169,
       "id": "entry-799566-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2019,7 +2031,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 169,
+      "order": 170,
       "id": "entry-799567",
       "label": "speech",
       "level": "3",
@@ -2031,7 +2043,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 170,
+      "order": 171,
       "id": "entry-799568",
       "label": "speech",
       "level": "3",
@@ -2043,7 +2055,7 @@
       "text": "Order! Sen. Mahamud, you are completely out of order. Mover of the Bill, the Floor is now yours."
     },
     {
-      "order": 171,
+      "order": 172,
       "id": "entry-799569",
       "label": "speech",
       "level": "3",
@@ -2055,7 +2067,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the County Allocation of Revenue Bill (Senate Bills No.11 of 2018) be now read a Third Time. I request the Senate Majority Leader to second."
     },
     {
-      "order": 172,
+      "order": 173,
       "id": "entry-799570",
       "label": "speech",
       "level": "3",
@@ -2067,7 +2079,7 @@
       "text": "Sen. Murkomen, please, go ahead."
     },
     {
-      "order": 173,
+      "order": 174,
       "id": "entry-799571",
       "label": "speech",
       "level": "3",
@@ -2079,7 +2091,7 @@
       "text": "(Sen. Murkomen) seconded."
     },
     {
-      "order": 174,
+      "order": 175,
       "id": "entry-799572",
       "label": "scene",
       "level": "3",
@@ -2091,7 +2103,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 175,
+      "order": 176,
       "id": "entry-799573",
       "label": "speech",
       "level": "3",
@@ -2103,7 +2115,7 @@
       "text": "Hon. Senators, we will go to Division. I direct that the division bell be rung. Whips, do we have the requisite number? We do?"
     },
     {
-      "order": 176,
+      "order": 177,
       "id": "entry-799575",
       "label": "speech",
       "level": "3",
@@ -2115,7 +2127,7 @@
       "text": "Yes."
     },
     {
-      "order": 177,
+      "order": 178,
       "id": "entry-799578",
       "label": "scene",
       "level": "3",
@@ -2127,7 +2139,7 @@
       "text": "(The Bars were drawn and the door closed)"
     },
     {
-      "order": 178,
+      "order": 179,
       "id": "entry-799579",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2151,7 @@
       "text": "Hon. Senators, get ready to vote. This is the final vote on this Bill. Hon. Senators, you have 30 minutes left to vote. Let the assisted voters come forward and vote."
     },
     {
-      "order": 179,
+      "order": 180,
       "id": "entry-799580",
       "label": "heading",
       "level": "1",
@@ -2151,7 +2163,7 @@
       "text": "THIRD READING"
     },
     {
-      "order": 180,
+      "order": 181,
       "id": "entry-799581",
       "label": "heading",
       "level": "3",
@@ -2163,7 +2175,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO.11 OF 2018)"
     },
     {
-      "order": 181,
+      "order": 182,
       "id": "entry-799582",
       "label": "heading",
       "level": "3",
@@ -2175,7 +2187,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 182,
+      "order": 183,
       "id": "entry-799584",
       "label": "scene",
       "level": "3",
@@ -2187,7 +2199,7 @@
       "text": "(Question, that the County Allocation of Revenue Bill (Senate Bills No.11 of 2018) be now read a Third Time, put and the senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 183,
+      "order": 184,
       "id": "entry-799585",
       "label": "other",
       "level": "3",
@@ -2199,7 +2211,7 @@
       "text": "AYES:"
     },
     {
-      "order": 184,
+      "order": 185,
       "id": "entry-799586",
       "label": "other",
       "level": "3",
@@ -2211,7 +2223,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi County; Sen. Halake, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Dr.) Kabaka, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. Lelegwe, Samburu County; Sen. M. Kajwang', Homa Bay County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Maina, Nyeri County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 185,
+      "order": 186,
       "id": "entry-799587",
       "label": "other",
       "level": "3",
@@ -2223,7 +2235,7 @@
       "text": "NOES\n\n: 0"
     },
     {
-      "order": 186,
+      "order": 187,
       "id": "entry-799589",
       "label": "speech",
       "level": "3",
@@ -2235,7 +2247,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:- Ayes: 26 Noes: 0 Abstentions: 0 The \"Ayes\" have it."
     },
     {
-      "order": 187,
+      "order": 188,
       "id": "entry-799590-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2247,7 +2259,7 @@
       "text": "(Question carried by 26 votes to nil)"
     },
     {
-      "order": 188,
+      "order": 189,
       "id": "entry-799590-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2259,7 +2271,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 189,
+      "order": 190,
       "id": "entry-799591",
       "label": "speech",
       "level": "3",
@@ -2271,7 +2283,7 @@
       "text": "Serjeant-at-arms, open the door and withdraw the Bars."
     },
     {
-      "order": 190,
+      "order": 191,
       "id": "entry-799592",
       "label": "scene",
       "level": "3",
@@ -2283,7 +2295,7 @@
       "text": "(The doors were opened and the bars withdrawn)"
     },
     {
-      "order": 191,
+      "order": 192,
       "id": "entry-799593",
       "label": "speech",
       "level": "3",
@@ -2295,7 +2307,7 @@
       "text": "Hon. Senators, before the next Order is called, again looking at the Order Paper, I direct that Order No.13, upon consultation with the Mover, be deferred to such a time as might be determined by the Senate Business Committee."
     },
     {
-      "order": 192,
+      "order": 193,
       "id": "entry-799596",
       "label": "heading",
       "level": "1",
@@ -2307,7 +2319,7 @@
       "text": "MOTION"
     },
     {
-      "order": 193,
+      "order": 194,
       "id": "entry-799597-split-selected-61601025-d24a-4a59-a9ba-6d642a199da3",
       "label": "heading",
       "level": "3",
@@ -2319,7 +2331,7 @@
       "text": "STANDARD POLICY REGULATION FOR CONSTRUCTION AND MAINTENANCE OF RURAL ACCESS ROADS"
     },
     {
-      "order": 194,
+      "order": 195,
       "id": "entry-799597-split-after-c530b615-c441-4a5a-9dbc-ce38531ac6c9",
       "label": "speech",
       "level": "3",
@@ -2331,7 +2343,7 @@
       "text": "THAT AWARE that infrastructure development and specifically, construction of roads is a key pillar of Kenya's vision 2030 whose objective is to spur movement of people and goods, promote trade and economic activities, encourage development and attract investments; NOTING that there is a very strong correlation between a country's economic development and the quality of its road network; CONCERNED that Government's efforts to expand the roads infrastructure are mainly focused on the urban and peri-urban areas of the country thus leaving rural areas with dilapidated or no access roads; FURTHER CONCERNED that fifty five years since independence and over five years after institutionalization of devolution, the Country's roads infrastructure is to a large extent still underdeveloped with only slightly above 9,000 kilometres of the about 178,000 kilometres of roads paved; COGNISANT that, Part Two of the Fourth Schedule to the Constitution of Kenya (2010) mandates County Governments to manage county transport, including; roads, street lighting, traffic and parking, amongst other county public transport matters; DEEPLY CONCERNED that, County Governments are continuously prioritizing routine maintenance works over sustainable and durable road quality works due to budgetary constraints; NOW THEREFORE the Senate calls upon the Ministry of Transport, Infrastructure, Housing and Urban Development to develop and adopt standard policy regulations prescribing modern, eco-friendly and inexpensive technologies to be applied across the 47 counties for construction, upgrading and maintenance of rural access roads in order to ensure durability and sustainability of the access roads and also to reduce maintenance expenses."
     },
     {
-      "order": 195,
+      "order": 196,
       "id": "entry-799598",
       "label": "scene",
       "level": "3",
@@ -2343,7 +2355,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 196,
+      "order": 197,
       "id": "entry-799600",
       "label": "heading",
       "level": "3",
@@ -2355,7 +2367,7 @@
       "text": "BILL COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 197,
+      "order": 198,
       "id": "entry-799601",
       "label": "heading",
       "level": "3",
@@ -2367,7 +2379,7 @@
       "text": "THE ASSUMPTION OF OFFICE OF THE COUNTY GOVERNOR BILL (SENATE BILLS NO.1OF 2018)"
     },
     {
-      "order": 198,
+      "order": 199,
       "id": "entry-799602",
       "label": "speech",
       "level": "3",
@@ -2379,7 +2391,7 @@
       "text": "Sen. Wamatangi is not here. I also direct that this Bill be deferred to such a time as may be determined by the Senate Business Committee."
     },
     {
-      "order": 199,
+      "order": 200,
       "id": "entry-799603",
       "label": "scene",
       "level": "3",
@@ -2391,7 +2403,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 200,
+      "order": 201,
       "id": "entry-799604",
       "label": "speech",
       "level": "3",
@@ -2403,7 +2415,7 @@
       "text": "Next Order."
     },
     {
-      "order": 201,
+      "order": 202,
       "id": "entry-799605",
       "label": "heading",
       "level": "1",
@@ -2415,7 +2427,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 202,
+      "order": 203,
       "id": "entry-799607",
       "label": "heading",
       "level": "3",
@@ -2427,7 +2439,7 @@
       "text": "THE OFFICE OF THE COUNTY ATTORNEY BILL (SENATE BILLS NO.3 OF 2018)"
     },
     {
-      "order": 203,
+      "order": 204,
       "id": "entry-799608",
       "label": "speech",
       "level": "3",
@@ -2439,7 +2451,7 @@
       "text": "The report of the Committee is not ready. Therefore, I direct that this item be deferred to Tuesday next week."
     },
     {
-      "order": 204,
+      "order": 205,
       "id": "entry-799609",
       "label": "scene",
       "level": "3",
@@ -2451,7 +2463,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 205,
+      "order": 206,
       "id": "entry-799610",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2475,7 @@
       "text": "Which one?"
     },
     {
-      "order": 206,
+      "order": 207,
       "id": "entry-799611",
       "label": "speech",
       "level": "3",
@@ -2475,7 +2487,7 @@
       "text": "Next Order."
     },
     {
-      "order": 207,
+      "order": 208,
       "id": "entry-799612",
       "label": "heading",
       "level": "1",
@@ -2487,7 +2499,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 208,
+      "order": 209,
       "id": "entry-799613-split-selected-28f73ee1-6b22-4362-b127-8d36c838de77",
       "label": "heading",
       "level": "3",
@@ -2499,7 +2511,7 @@
       "text": "REGISTRATION OF PERSONS WITH DISABILITIES"
     },
     {
-      "order": 209,
+      "order": 210,
       "id": "entry-799613-split-after-78ee48ea-d9ef-4e84-a610-5fea7b55f2db",
       "label": "speech",
       "level": "3",
@@ -2511,7 +2523,7 @@
       "text": "THAT AWARE THAT the National Council for Persons with Disabilities was established through the Persons with Disabilities Act, 2003; FURTHER AWARE THAT registration of persons living with disabilities is a function of the National Council for Persons with Disabilities; ALSO AWARE THAT persons living with disabilities are estimated to be about 10% of any given population; COGNIZANT THAT for purposes of registration of persons living with disability, it is a mandatory requirement for one to undergo medical"
     },
     {
-      "order": 210,
+      "order": 211,
       "id": "entry-799615",
       "label": "speech",
       "level": "3",
@@ -2523,7 +2535,7 @@
       "text": "examination by a registered medical officer in a registered and certified health facility; CONCERNED THAT of the nearly four million Kenyans living with disabilities who reside in Kenya, there is a very small fraction of the number which is duly registered; AWARE THAT medical services are now a devolved function; FURTHER CONCERNED THAT without proper registration, many persons living with disabilities are denied services because they lack the necessary proof of disability; ALSO CONCERNED THAT owing to lack of accurate data on persons living with disabilities, the government at both levels cannot plan properly for this category of people; NOW THEREFORE, the Senate calls upon the National Council for Persons with Disabilities in collaboration with Ministry of East African Community, Labour and Social Protection and county governments, to carry out a nationwide registration of all persons living with disabilities in order to determine their exact population to facilitate effective service for this marginalized group of our society."
     },
     {
-      "order": 211,
+      "order": 212,
       "id": "entry-799616",
       "label": "speech",
       "level": "3",
@@ -2535,7 +2547,7 @@
       "text": "I saw Sen. Khaniri here. Where has he disappeared to?"
     },
     {
-      "order": 212,
+      "order": 213,
       "id": "entry-799617",
       "label": "speech",
       "level": "3",
@@ -2547,7 +2559,7 @@
       "text": "He is not here. He did not carry his materials."
     },
     {
-      "order": 213,
+      "order": 214,
       "id": "entry-799618",
       "label": "speech",
       "level": "3",
@@ -2559,7 +2571,7 @@
       "text": "Whips, any information on Sen. Khaniri? He was here two minutes ago."
     },
     {
-      "order": 214,
+      "order": 215,
       "id": "entry-799619",
       "label": "scene",
       "level": "3",
@@ -2571,7 +2583,7 @@
       "text": "(Sen. M. Kajwang' spoke off record)"
     },
     {
-      "order": 215,
+      "order": 216,
       "id": "entry-799620",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2595,7 @@
       "text": "Order! Sen. Khaniri has to speak for himself. Anybody who has information on the whereabouts and position of Sen. Khaniri should say so on record. Yes, Sen. Nyamunga."
     },
     {
-      "order": 216,
+      "order": 217,
       "id": "entry-799621",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2607,7 @@
       "text": "Mr. Deputy Speaker, Sir, Sen. Khaniri has just whispered to me that he is not ready."
     },
     {
-      "order": 217,
+      "order": 218,
       "id": "entry-799622",
       "label": "speech",
       "level": "3",
@@ -2607,7 +2619,7 @@
       "text": "He whispered? Why did he whisper to you and not the Chair?"
     },
     {
-      "order": 218,
+      "order": 219,
       "id": "entry-799623",
       "label": "scene",
       "level": "3",
@@ -2619,7 +2631,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 219,
+      "order": 220,
       "id": "entry-799624",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2643,7 @@
       "text": "Order! We proceed to the next Order."
     },
     {
-      "order": 220,
+      "order": 221,
       "id": "entry-799625",
       "label": "scene",
       "level": "3",
@@ -2643,7 +2655,7 @@
       "text": "(Sen. (Dr.) Kabaka crossed the Floor repeatedly)"
     },
     {
-      "order": 221,
+      "order": 222,
       "id": "entry-799626",
       "label": "speech",
       "level": "3",
@@ -2655,7 +2667,7 @@
       "text": "Order, Sen. (Dr.) Kabaka! You are interfering with the proceedings of the House. You are behaving as you would do in a courtroom. You must distinguish your duality as a lawyer and as a legislator. If you were in the courtroom, you would be in order. You cannot crisscross around the Mace and bow left, right and centre. You can do that in court because there is no Mace. I do not see Sen. Khaniri and the information that Sen. Nyamunga is giving me is not verified. He was here and said that he had gone to look for his notes. Then somewhere between here and where Sen. Nyamunga is sitting, the story has changed. According to the Chair, he has disappeared."
     },
     {
-      "order": 222,
+      "order": 223,
       "id": "entry-799629",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2679,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 223,
+      "order": 224,
       "id": "entry-799630",
       "label": "speech",
       "level": "3",
@@ -2679,7 +2691,7 @@
       "text": "What is it, Sen. Wetangula?"
     },
     {
-      "order": 224,
+      "order": 225,
       "id": "entry-799631",
       "label": "speech",
       "level": "3",
@@ -2691,7 +2703,7 @@
       "text": "Mr. Deputy Speaker, Sir, to be fair to the distinguished Senator for Vihiga County, who is my kid brother, he did not disappear. He said to those of us sitting next to him that since he did not anticipate that his Order would be reached, he had left his files and notes in his office. So, he has gone to fetch them. That is different from a disappearance. At least, the record of the Senate should be straight. You remember the famous case of the British inquiry into the disappearance and reappearance of Lord Darling."
     },
     {
-      "order": 225,
+      "order": 226,
       "id": "entry-799632",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2715,7 @@
       "text": "Senator, the consequences are the same, which is, that he has allegedly disappeared to fetch his notes. Disappearance is an act of sudden unexplained absence. That Order is deferred. We move on to the next Order."
     },
     {
-      "order": 226,
+      "order": 227,
       "id": "entry-799633",
       "label": "scene",
       "level": "3",
@@ -2715,7 +2727,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 227,
+      "order": 228,
       "id": "entry-799634-split-selected-08434e14-f821-4087-8aee-8563d3f6e06f",
       "label": "heading",
       "level": "3",
@@ -2727,7 +2739,7 @@
       "text": "FRAMEWORK TO PERMANENTLY ADDRESS EFFECTS OF FLOODS"
     },
     {
-      "order": 228,
+      "order": 229,
       "id": "entry-799634-split-after-fc5cc919-4fff-49b2-a00b-27392f38c068",
       "label": "speech",
       "level": "3",
@@ -2739,7 +2751,7 @@
       "text": "THAT, aware that several days of heavy rains recently have caused severe flooding in many parts of the country, resulting in multiple deaths and devastating damage to property and infrastructure; NOTING with concern that, whenever Kenya experiences periods of severe drought, torrential rains usually follow; CONCERNED that year in year out, the challenge of floods continues to recur, leading to loss of human and animal life, displacement of people and wanton destruction of property; COGNIZANT that the number of Kenyans needing emergency food aid as a result of displacement caused by the current floods continues to rise by the day, and that the floods have also washed away many bridges and destroyed roads in many parts of Kenya; ALSO CONCERNED that no effective measures, such as improved storm water harvesting, proper drainage infrastructure and preventing the destruction of riparian reserves and natural water courses, to mitigate and/or provide a lasting solution to the menace of flooding, have been taken; NOW THEREFORE, the Senate calls upon the National Government to develop a lasting framework to permanently address the challenge of effects of floods by, among other things- 1. developing and enforcing regulations for preventing the obstruction of riparian reserves and natural water courses; and 2. preventing and regulating the construction of informal settlements and ensuring prevention of construction on low lying areas and flood plains. And further that the relevant government agency to execute this task submits a report to the Senate within three months of the adoption of this Motion."
     },
     {
-      "order": 229,
+      "order": 230,
       "id": "entry-799637",
       "label": "speech",
       "level": "3",
@@ -2751,7 +2763,7 @@
       "text": "Is Sen. Fatuma Dullo here?"
     },
     {
-      "order": 230,
+      "order": 231,
       "id": "entry-799638",
       "label": "speech",
       "level": "3",
@@ -2763,7 +2775,7 @@
       "text": "She has also disappeared."
     },
     {
-      "order": 231,
+      "order": 232,
       "id": "entry-799639",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2787,7 @@
       "text": "Order, Senators! For someone to disappear, they must have appeared in the first place. Disappearance is a consequence of- -- Is Sen. Dullo not here?"
     },
     {
-      "order": 232,
+      "order": 233,
       "id": "entry-799640",
       "label": "scene",
       "level": "3",
@@ -2787,7 +2799,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 233,
+      "order": 234,
       "id": "entry-799641-speaker-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -2799,7 +2811,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 234,
+      "order": 235,
       "id": "entry-799641",
       "label": "speech",
       "level": "1",

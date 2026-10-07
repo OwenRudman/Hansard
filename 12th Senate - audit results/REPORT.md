@@ -18,11 +18,11 @@ All 419 sittings from the "12th Senate" sheet of `mzalendo_links.xlsx` (2017-08-
 ## Totals
 | | Sittings |
 |---|---|
-| Finished - no issues found | 233 |
-| Needs human check - each has a flags list | 186 |
+| Finished - no issues found | 230 |
+| Needs human check - each has a flags list | 189 |
 | **Total** | **419** |
 
-Total flags: **1,497**
+Total flags: **1,508**
 
 | Flag type | Count |
 |---|---|
@@ -30,6 +30,7 @@ Total flags: **1,497**
 | Name in the PDF doesn't match the Speaker/Title boxes | 472 |
 | Text not found in the PDF | 466 |
 | Heading left with no level by Suggest hierarchy | 37 |
+| PDF heading broken across two blocks (split it out, combine the halves) | 11 |
 | Speech with no speaker | 10 |
 | PDF layout not recognised by the parser, so the checks didn't run (whole sitting) | 10 |
 | Mzalendo date or duplicate problem (whole sitting) | 5 |
@@ -38,6 +39,14 @@ Total flags: **1,497**
 | Page markers the cleaner missed, marked deleted (one flag per sitting) | 3 |
 
 "Text not found" is concentrated in a few sittings: 2019-09-17 has 160, 2022-06-08 has 47 and 2021-05-25 has 31. 81 sittings have any.
+
+## Fixes added after your review (7 Oct)
+These were applied to every sitting, with the same actions the tool takes, and checked: no Mzalendo text was lost or changed.
+- **Disclaimer footers inside blocks.** "The electronic version of the Senate Hansard Report … Hansard Editor, Senate." was left inside speeches. Each one is now handled as you showed: select it, Split block, then ✕ on the selected piece, which marks it deleted "was speech" with the speaker kept. The speech pieces either side stay split. 460 footers were removed across 10 sittings: 415 whole ones and 45 broken across two blocks.
+- **Headings left inside speeches.** For example "AUDIT ON DISTRIBUTION OF TEACHERS IN ALL PUBLIC SCHOOLS IN THE COUNTRY" in 2017-11-30. Mzalendo's wording differed slightly from the PDF (it dropped "COUNTRYWIDE"), so the audit had added a full copy of the heading in the wrong place instead. Now the capitals run is split out as a heading, using Mzalendo's own wording, where it actually sits, and the misplaced copy is removed. 30 headings were fixed across 21 sittings. 11 headings broken across two blocks are flagged for you.
+- **Re-export.** Every changed sitting was re-run through the tool's Suggest hierarchy and export, so levels and cutouts are the tool's own. The flags lists were renumbered to match the new block positions.
+
+The year table below is from the first run and was not recalculated after these fixes.
 
 ## Flag rate by year
 | Year | Sittings | Flags | Flags per sitting | Flags per 1,000 blocks | Needing a check |

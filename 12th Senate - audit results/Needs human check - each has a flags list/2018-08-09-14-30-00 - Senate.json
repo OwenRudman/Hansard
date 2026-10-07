@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-08-09-14-30-00",
-  "exported_at": "2026-10-05T08:01:44.462Z",
+  "exported_at": "2026-10-07T22:17:53.723Z",
   "entries": [
     {
       "order": 1,
@@ -2128,7 +2128,19 @@
     },
     {
       "order": 178,
-      "id": "entry-822738",
+      "id": "entry-822738-split-selected-827d9e82-8878-469f-a954-d1454455ea92",
+      "label": "heading",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "NOTING OF REPORT ON THE COMMONWEALTH PARLIAMENTARIANS' FORUM"
+    },
+    {
+      "order": 179,
+      "id": "entry-822738-split-after-c317982c-d19b-424f-91b4-a8ccbaf4369a",
       "label": "speech",
       "level": "3",
       "cutout": false,
@@ -2136,10 +2148,10 @@
       "speaker": "",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
-      "text": "NOTING OF REPORT ON THE COMMONWEALTH PARLIAMENTARIANS' FORUM THAT, this House notes the Report of the Senate Delegation to the Inaugural Commonwealth Parliamentarians' Forum held at the Westminster Palace, London, United Kingdom from 26th February to 1st March, 2018 laid on the Table of the House on Thursday, 10th May, 2018."
+      "text": "THAT, this House notes the Report of the Senate Delegation to the Inaugural Commonwealth Parliamentarians' Forum held at the Westminster Palace, London, United Kingdom from 26th February to 1st March, 2018 laid on the Table of the House on Thursday, 10th May, 2018."
     },
     {
-      "order": 179,
+      "order": 180,
       "id": "entry-822739",
       "label": "scene",
       "level": "3",
@@ -2149,18 +2161,6 @@
       "speaker_title": "",
       "reviewed": true,
       "text": "(Motion deferred)"
-    },
-    {
-      "order": 180,
-      "id": "entry-822739-inserted-53114b83-88e3-4bd0-8e84-c710c8e547a4",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "NOTING OF REPORT ON THE COMMONWEALTH PARLIAMENTARIANS’ FORUM"
     },
     {
       "order": 181,
@@ -2236,7 +2236,7 @@
     },
     {
       "order": 187,
-      "id": "entry-822746",
+      "id": "entry-822746-split-before-bd9a0a9b-d8d5-4f50-bf6f-a85b6b4af7c1",
       "label": "speech",
       "level": "3",
       "cutout": false,
@@ -2244,11 +2244,11 @@
       "speaker": "",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
-      "text": "national exams at the end of the year and their performance risks being negatively affected by the lost time out of school; NOW THEREFORE, the Senate resolves that the Senate Committee on Education investigates this matter with a view to: - (1) identifying strategies to ensure that the affected students are able to access education as soon as possible; (2) outlining preventative measures to ensure that more students are not affected by the floods and insecurity; and, (3) Submitting a Report to the Senate within sixty (60) days outlining the short and long-term strategies, that are being put in place to ensure that schools in flood and insecurity prone areas are not affected in the future. IMPROVEMENT OF KENYA'S RANKING IN WORLD TRAVEL AND TOURISM COMPETITIVENESS INDEX THAT, AWARE that the Ministry of Tourism have developed and published the Kenya National Tourism Blueprint 2030 in May 2017; FURTHER AWARE that Kenya Tourism Agenda 2018 - 2022, launched in April 2018, establishes the foundation for the National Tourism Blueprint 2030 and is the tool for initiating the components of the Blue Print; ALSO, AWARE that the contribution of travel and tourism to Kenyan GDP stood at 9.7 per cent in 2017, up from the 9.3 per cent previous year; COGNIZANT that in the next 10 years every industry will be changed by technology; ALSO, AWARE that Kenya Tourism Board has partnered with Google, Safaricom, Kenya Wildlife Service and Tourism Finance Corporation to create new digital content for local tourism; CONCERNED that Kenya tourism industry's potential is underutilized; AWARE that Kenya's position in World Economic Forum's Travel &amp; Tourism Competitiveness Index Ranking is 80 out of 136 in 2017, having improved by 2 points from 2015, while having currently the lowest score in cultural resources and business travel with 1.6 points out of 7; FURTHER CONCERNED that majority of the solutions proposed by the tourism agenda are brick and mortar type and not addressing the trends; noting that in less than two years, the share of online booking globally has grown from 9 per cent to almost 33 per cent and the lucrative and fast-growing segment of business tourism; ALSO CONCERNED that Kenya will continue to attract only beach and park type tourists ignoring the large number of conference and business travellers, who largely never leave Nairobi and are offered minimal exposure to Kenya;"
+      "text": "national exams at the end of the year and their performance risks being negatively affected by the lost time out of school; NOW THEREFORE, the Senate resolves that the Senate Committee on Education investigates this matter with a view to: - (1) identifying strategies to ensure that the affected students are able to access education as soon as possible; (2) outlining preventative measures to ensure that more students are not affected by the floods and insecurity; and, (3) Submitting a Report to the Senate within sixty (60) days outlining the short and long-term strategies, that are being put in place to ensure that schools in flood and insecurity prone areas are not affected in the future."
     },
     {
       "order": 188,
-      "id": "entry-822746-inserted-be3161c3-7685-49f9-ae4e-f6c35744ad9c",
+      "id": "entry-822746-split-selected-9733b081-b305-4cca-9897-2b73193beaf5",
       "label": "heading",
       "level": "3",
       "cutout": false,
@@ -2256,10 +2256,22 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "IMPROVEMENT OF KENYA’S RANKING IN WORLD TRAVEL AND TOURISM COMPETITIVENESS INDEX"
+      "text": "IMPROVEMENT OF KENYA'S RANKING IN WORLD TRAVEL AND TOURISM COMPETITIVENESS INDEX"
     },
     {
       "order": 189,
+      "id": "entry-822746-split-after-64fa3eaf-f66b-4d87-abb6-14120b87ca01",
+      "label": "speech",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "The Temporary Speaker",
+      "reviewed": true,
+      "text": "THAT, AWARE that the Ministry of Tourism have developed and published the Kenya National Tourism Blueprint 2030 in May 2017; FURTHER AWARE that Kenya Tourism Agenda 2018 - 2022, launched in April 2018, establishes the foundation for the National Tourism Blueprint 2030 and is the tool for initiating the components of the Blue Print; ALSO, AWARE that the contribution of travel and tourism to Kenyan GDP stood at 9.7 per cent in 2017, up from the 9.3 per cent previous year; COGNIZANT that in the next 10 years every industry will be changed by technology; ALSO, AWARE that Kenya Tourism Board has partnered with Google, Safaricom, Kenya Wildlife Service and Tourism Finance Corporation to create new digital content for local tourism; CONCERNED that Kenya tourism industry's potential is underutilized; AWARE that Kenya's position in World Economic Forum's Travel &amp; Tourism Competitiveness Index Ranking is 80 out of 136 in 2017, having improved by 2 points from 2015, while having currently the lowest score in cultural resources and business travel with 1.6 points out of 7; FURTHER CONCERNED that majority of the solutions proposed by the tourism agenda are brick and mortar type and not addressing the trends; noting that in less than two years, the share of online booking globally has grown from 9 per cent to almost 33 per cent and the lucrative and fast-growing segment of business tourism; ALSO CONCERNED that Kenya will continue to attract only beach and park type tourists ignoring the large number of conference and business travellers, who largely never leave Nairobi and are offered minimal exposure to Kenya;"
+    },
+    {
+      "order": 190,
       "id": "entry-822750",
       "label": "speech",
       "level": "3",
@@ -2271,7 +2283,7 @@
       "text": "NOW THEREFORE, the Senate calls upon the Ministry of Tourism to approach tourism sector with modern innovation and implement tangible, measurable and impactful solutions, resulting in improvement of Kenya's ranking in the World Economic Forum Travel &amp; Tourism Competitiveness Index 2019 by 6 positions and improve the lowest score of cultural resources and business travel by 1 point."
     },
     {
-      "order": 190,
+      "order": 191,
       "id": "entry-822751",
       "label": "scene",
       "level": "3",
@@ -2283,7 +2295,7 @@
       "text": "(Motion Deferred)"
     },
     {
-      "order": 191,
+      "order": 192,
       "id": "entry-822752-split-selected-958c4af6-a804-428f-9c5c-68a8f6d96222",
       "label": "heading",
       "level": "3",
@@ -2295,7 +2307,7 @@
       "text": "PAYMENT OF HONORARIUM AND PENSION TO FORMER COUNCILORS"
     },
     {
-      "order": 192,
+      "order": 193,
       "id": "entry-822752-split-after-89fdc58f-a5ba-44c7-a7a0-a0626e86e4d2",
       "label": "speech",
       "level": "3",
@@ -2307,7 +2319,7 @@
       "text": "THAT AWARE that National Forum of Former Councillors petitioned the Senate regarding the need for legislative interventions to address the plight and welfare of former Councillors; FURTHER AWARE that the Senate Standing Committee on Labour and Social Welfare considered the Petition and tabled its report on Tuesday, 16th February, 2016; ACKNOWLEDGING that the Committee's report on the Petition made five recommendations among them that- (1) one-off honorarium of Kshs1.5 Million be paid to former councillors who served a minimum of one term since independence; and (2) monthly pension of at least Kshs30,000 be paid to former councilors. APPRECIATING that the recommendations were based on the fact that former Councillors did not receive fixed emoluments and experienced disparities with regard to access to pension services and terms and conditions of pension schemes over the years, which made it difficult to fairly and equitably determine each councilor's rightful benefits retrospectively; CONCERNED that the State Department for Social Services and Security, State Department for Devolution and the National Treasury have to date not implemented the Committee's recommendations on the Petition; NOW THEREFORE, the Senate calls upon the Principal Secretaries to the said State Departments and the National Treasury to take necessary steps to implement the recommendations contained in the Report."
     },
     {
-      "order": 193,
+      "order": 194,
       "id": "entry-822755",
       "label": "scene",
       "level": "3",
@@ -2319,7 +2331,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 194,
+      "order": 195,
       "id": "entry-822758-split-selected-304dcb4b-77e6-4d2d-b180-625e7af72db7",
       "label": "heading",
       "level": "3",
@@ -2331,7 +2343,7 @@
       "text": "NOTING OF REPORT OF THE 138TH ASSEMBLY OF IPU AND RELATED MEETINGS"
     },
     {
-      "order": 195,
+      "order": 196,
       "id": "entry-822758-split-after-be90dcdb-4589-4c42-b0ee-906a0cd7c470",
       "label": "speech",
       "level": "3",
@@ -2343,7 +2355,7 @@
       "text": "THAT, this House notes the Report of the 138th Assembly of the Inter - Parliamentary Union (IPU) and related meetings held in Geneva, Switzerland from 22nd - 28th March, 2018 laid on the Table of the Senate on Thursday, 21st June, 2018."
     },
     {
-      "order": 196,
+      "order": 197,
       "id": "entry-822759",
       "label": "scene",
       "level": "3",
@@ -2355,7 +2367,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 197,
+      "order": 198,
       "id": "entry-822760",
       "label": "heading",
       "level": "3",
@@ -2367,7 +2379,7 @@
       "text": "NOTING OF REPORT OF THE APNAC CONFERENCE, 2018 THAT, this House notes the Report of the Senate Delegation to the African Parliamentarians' Network against Corruption (APNAC) Conference held in Ghana from 17th - 18th March, 2018, laid on the Table of the House on Tuesday, 19th June, 2018."
     },
     {
-      "order": 198,
+      "order": 199,
       "id": "entry-822763",
       "label": "scene",
       "level": "3",
@@ -2379,7 +2391,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 199,
+      "order": 200,
       "id": "entry-822764-split-selected-f3f1e8e6-8ac6-4a69-bf39-9343788c8627",
       "label": "heading",
       "level": "3",
@@ -2391,7 +2403,7 @@
       "text": "NOTING OF REPORT ON THE 20TH CONFERENCE OF COMMONWEALTH EDUCATION MINISTERS (20CCEM)"
     },
     {
-      "order": 200,
+      "order": 201,
       "id": "entry-822764-split-after-c472a75b-f6b3-4bde-94a7-f6ec5bd15f95",
       "label": "speech",
       "level": "3",
@@ -2403,7 +2415,7 @@
       "text": "THAT, this House notes the Report of the Standing Committee on Education on the 20th Conference of Commonwealth Education Ministers (20CCEM) held in Nadi, Fiji from 19-23 February, 2018, laid on the Table of the House on Thursday, 12th July, 2018."
     },
     {
-      "order": 201,
+      "order": 202,
       "id": "entry-822765",
       "label": "scene",
       "level": "3",
@@ -2415,7 +2427,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 202,
+      "order": 203,
       "id": "entry-822766-split-selected-7514c4d6-b3ae-4aa8-83c5-ec0d4f74831f",
       "label": "heading",
       "level": "3",
@@ -2427,7 +2439,7 @@
       "text": "NOTING OF REPORT OF THE PROCEEDINGS OF THE GLOBAL PARLIAMENTARY CONFERENCE (GPC)"
     },
     {
-      "order": 203,
+      "order": 204,
       "id": "entry-822766-split-after-d5efadec-b3b9-4747-997a-825786309ded",
       "label": "speech",
       "level": "3",
@@ -2439,7 +2451,7 @@
       "text": "THAT, this House notes the Report of the proceedings of the Global Parliamentary Conference (GPC), held at the World Bank Headquarters, in Washington DC, United States of America from 16th to 17th April, 2018, laid on the Table of the House on Thursday, 12th July, 2018."
     },
     {
-      "order": 204,
+      "order": 205,
       "id": "entry-822767",
       "label": "scene",
       "level": "3",
@@ -2451,7 +2463,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 205,
+      "order": 206,
       "id": "entry-822768-split-selected-244d6829-cb0d-456c-b059-52499f05ad55",
       "label": "heading",
       "level": "3",
@@ -2463,7 +2475,7 @@
       "text": "NOTING OF REPORT OF 49TH SESSION OF THE ACPPA AND INTER-SESSIONAL MEETING OF THE ACP-EU JOINT ASSEMBLY"
     },
     {
-      "order": 206,
+      "order": 207,
       "id": "entry-822768-split-after-ce0fbf29-5cb4-45c0-8b4e-fac9ea84be9e",
       "label": "speech",
       "level": "3",
@@ -2475,7 +2487,7 @@
       "text": "THAT, this House notes the Report of the 49th Session of the ACP Parliamentary Assembly and Inter- Sessional meeting of the ACP-EU"
     },
     {
-      "order": 207,
+      "order": 208,
       "id": "entry-822770",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2499,7 @@
       "text": "Joint Parliamentary Assembly held on 20thto 22nd March, 2018 in Brussels, Belgium, laid on the Table of the House on Tuesday, 31st July, 2018."
     },
     {
-      "order": 208,
+      "order": 209,
       "id": "entry-822771",
       "label": "scene",
       "level": "3",
@@ -2499,7 +2511,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 209,
+      "order": 210,
       "id": "entry-822772-split-selected-07ff67f3-9485-497f-b3ce-a09889c2bbbd",
       "label": "heading",
       "level": "3",
@@ -2511,7 +2523,7 @@
       "text": "NOTING OF REPORT ON THE 2018 COMMONWEALTH GAMES"
     },
     {
-      "order": 210,
+      "order": 211,
       "id": "entry-822772-split-after-a2a1d14c-1fdd-484a-a9e1-1ccb05a2fb2c",
       "label": "speech",
       "level": "3",
@@ -2523,7 +2535,7 @@
       "text": "THAT, this House notes the Report of the Standing Committee on Labour and Social Welfare on the 2018 Commonwealth Games held in Gold-Coast, Australia from 4th to 15th April, 2018."
     },
     {
-      "order": 211,
+      "order": 212,
       "id": "entry-822773",
       "label": "scene",
       "level": "3",
@@ -2535,7 +2547,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 212,
+      "order": 213,
       "id": "entry-822774-split-selected-a3d78188-5a93-4e96-a4de-133bfbe3eded",
       "label": "heading",
       "level": "3",
@@ -2547,7 +2559,7 @@
       "text": "NOTING OF REPORT OF THE TVET CONFERENCE HELD IN VICTORIA, CANADA"
     },
     {
-      "order": 213,
+      "order": 214,
       "id": "entry-822774-split-after-dc363899-2c32-4715-859f-7ae6d730a039",
       "label": "speech",
       "level": "3",
@@ -2559,7 +2571,7 @@
       "text": "THAT, this House notes the Report of the Standing Committee on Education on the TVET Conference held in Victoria, Canada from 27th April 2nd May, 2018."
     },
     {
-      "order": 214,
+      "order": 215,
       "id": "entry-822775",
       "label": "scene",
       "level": "3",
@@ -2571,7 +2583,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 215,
+      "order": 216,
       "id": "entry-822776-split-selected-a7eac5d3-e175-4f9d-ba76-970a9fda9597",
       "label": "heading",
       "level": "3",
@@ -2583,7 +2595,7 @@
       "text": "MEASURES TO ADDRESS THE PLIGHT OF STREET FAMILIES"
     },
     {
-      "order": 216,
+      "order": 217,
       "id": "entry-822776-split-after-38f8ae60-0d52-4afa-afc9-47a7ebe722a8",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2607,7 @@
       "text": "AWARE THAT the Street Families Rehabilitation Trust Fund (SFRTF) was established on 11th March, 2003 by the then Ministry of Local Government to address the concerns of all homeless, destitute and vulnerable persons in urban areas, and was registered as a body Corporate in August, 2010 under the Trustees (perpetual succession) Cap 164, Laws of Kenya; FURTHER AWARE THAT the mandate of SFRTF includes coordinating rehabilitation activities for street families; conducting public education on street families issues; mobilizing resources and fundraising as well as receiving donations and funding street families rehabilitation programmes; managing donations for the rehabilitation of street families through a trust fund; monitoring expenditure and disbursement of donations; and advising the government and other relevant agencies on matters relating to rehabilitation of street families; NOTING THAT Article 43 (1) of the Constitution of Kenya provides for the right to every person to the highest attainable standard of health, accessible and adequate housing, adequate food of acceptable quality, clean and safe water in adequate quantities, education, and social security;"
     },
     {
-      "order": 217,
+      "order": 218,
       "id": "entry-822778",
       "label": "speech",
       "level": "3",
@@ -2607,7 +2619,7 @@
       "text": "CONCERNED THAT the street family phenomenon has persisted despite the existence of the SFRTF and street families do not enjoy the rights enshrined in the Constitution due to lack of a national policy on the rehabilitation of street families, with women and children being the primary victims; COGNIZANT THAT the Ministry of Devolution and ASAL Areas through the SFRTF supports children and youth through charitable and community-based organizations which are vetted and approved for funding under the rescue, rehabilitation and reintegration of street families programme; NOTING THAT both the National and County Governments have a role to play in addressing the plight of street families across the Country; NOW THEREFORE the Senate resolves that Ministry of Devolution and ASAL Areas in collaboration with the Council of Governors- (1) conducts a census of street families in all urban centres in the country to determine their numbers and demographics; (2) develops a clear policy on street families rehabilitation and reintegration at county level; and (3) tables an audit report of how funds allocated to the SFRTF have been utilized since the Fund was established, indicating the impact of the rehabilitation exercise."
     },
     {
-      "order": 218,
+      "order": 219,
       "id": "entry-822779",
       "label": "scene",
       "level": "3",
@@ -2619,7 +2631,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 219,
+      "order": 220,
       "id": "entry-822780",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2643,7 @@
       "text": "We will now move to Order No. 26."
     },
     {
-      "order": 220,
+      "order": 221,
       "id": "entry-822781",
       "label": "heading",
       "level": "1",
@@ -2643,7 +2655,7 @@
       "text": "MOTION FOR ADJOURNMENT"
     },
     {
-      "order": 221,
+      "order": 222,
       "id": "entry-822782",
       "label": "heading",
       "level": "3",
@@ -2655,7 +2667,7 @@
       "text": "ADJOURNMENT OF THE SENATE PURSUANT TO THE APPROVED CALENDAR FOR 2018 SESSION"
     },
     {
-      "order": 222,
+      "order": 223,
       "id": "entry-822783",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2679,7 @@
       "text": "Thank you, Madam Temporary Speaker, I beg to move:- THAT, pursuant to Standing Orders 28 and 29, the Senate do adjourn until Tuesday, 11th September, 2018. Madam Temporary Speaker, this is a very straightforward Motion that is based on our calendar. It gives us again an opportunity to prepare to do Committee work. I hope that based on all the responses from the Senators the Committee Chairperson, vice chairperson and Members will take their work seriously over this period of time to ensure that when we come back, we will have everything in order to ensure that we move smoothly in so far bills are concerned. We are also going to prepare ourselves to go to Eldoret the week after we come back. We will be having a historic sitting outside Nairobi. I believe that we will do a very a very good job. It is also time for us to go back to our constituents. I believe that we will collect information, data and petitions that we can bring back to represent the people well in this House and also to ensure that quality of debates remains high. I want to congratulate various committees for doing their job well during the period we had. They represented the Senate well, devoid of scandals and drama; and with great respect for the people of Kenya and the institution of Parliament. As a closing remark, Madam Temporary Speaker, there is one thing that I like about the Senate; that fact that we do not get praised all the time. In fact, in most cases, we discuss very serious issues and, somehow, even when we are initiating a committee report, nobody - including the media - wants to report or discuss us. However, when we finally bite, the whole nation stops and listens, because our work is thorough, purposive, has longevity and leaves a legacy. Madam Temporary Speaker, the word 'legacy' is being used in town as if it is only President Uhuru Kenyatta who leaves a legacy; and everybody is talking about the President's legacy. However, I need to remind every leader that it is not the President alone who is supposed to leave a legacy in this country. Every day, we live and breathe; every opportunity we get to perform anything on behalf of the people of Kenya is about building blocks and bricks of our legacy. Therefore, when we go out there on recess, let us continue to do the good work we are doing and represent our people. Madam Temporary Speaker, I appreciate what Senators do in representation, when they participate in debating national issues. The other House sometimes likes debating this House. However, when Kenyans want to listen to what Kenya is saying about different issues, they look for Senators first; and that is a fact. If you see a Member of the other House being invited for a national debate out there, a Senator must have declined that invitation. That is an obvious fact. Therefore, this House has people of good quality and we must continue with what we have been doing to ensure that we enrich the quality of debate in the House and governance in our nation. I beg to move and request Senators to approve this important Motion that gives us an opportunity to undertake the other responsibilities as provided for under Articles 94 and 96 of the Constitution. Thank you, Madam Temporary Speaker. Madam Temporary Speaker, although ordinarily this is not a motion that needs seconding, I request the Minority Leader to second it."
     },
     {
-      "order": 223,
+      "order": 224,
       "id": "entry-822786",
       "label": "speech",
       "level": "3",
@@ -2679,7 +2691,7 @@
       "text": "Sen. Orengo, you had already put in a request to speak. Proceed and take the Floor."
     },
     {
-      "order": 224,
+      "order": 225,
       "id": "entry-822787",
       "label": "speech",
       "level": "3",
@@ -2691,7 +2703,7 @@
       "text": "Thank you, Madam Temporary Speaker. I did not want it to be taken for granted, and I think that is the way it should be. Nonetheless, I thank the Majority Leader for putting in a word for me. However, Madam Temporary Speaker, there is not much to be said in the sense that the calendar of the Senate is already predetermined, and that all of us are looking forward to this period of recess. This is not a recess to rest, but to do other work. Oversight will continue, whether we meet in committees or in plenary. So long as you are a Senator - whether jointly, severally or alone - your work of oversight continues in the counties and wherever you are. Madam Temporary Speaker, the Senate is a very important tool in our constitutional arrangement. As we continue to mature as a democracy under this new constitutional dispensation, the more that realisation is coming to the fore. We hope that we will continue to do our work and meet the expectations of the people of this country. Lastly, Madam Temporary Speaker, we are looking forward to going to Eldoret; and that will just be the beginning. Of course, the focus is now on Madam Temporary Speaker, because you are going to be the host. We hope that, that beginning will be a pacesetter for other deliberations to be held in other counties. Without any further ado, I beg to Second the Motion that we go on recess."
     },
     {
-      "order": 225,
+      "order": 226,
       "id": "entry-822790",
       "label": "scene",
       "level": "3",
@@ -2703,7 +2715,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 226,
+      "order": 227,
       "id": "entry-822791",
       "label": "speech",
       "level": "3",
@@ -2715,7 +2727,7 @@
       "text": "Thank you, Madam Temporary Speaker. I stand to support the Motion. We have done well before we go on recess. This Senate has seen very many Bills coming back, some of which were from the Eleventh Parliament. They were not progressed to a point of becoming Acts. So, we are pursuing them, as the Senate, because they are very important to the counties, even as we forge better relationships with them. As provided for under Article 110(3) of the Constitution, we will also ensure that the Bills that are before Parliament are quickly placed in the relevant House either in the National Assembly or the Senate. As we go on the recess, it will give us time, as Senators, to link up with the county assemblies. I hope that every Senator will link with the Members of the County Assembly (MCAs) and engage a bit more with them, in order to find out where the gaps are, especially, at the committee level. Many Committees will be able to link up with the committees within the county assemblies and strengthen their role of oversight. By linking up with the committees within the county assemblies, we will be able to share our experiences and enhance the oversight role within the counties. We also look forward to the rotating sittings of the Senate in the counties, which is now becoming a reality. This was an idea mooted in the Eleventh Parliament, but it did not happen. Members will be very excited about this. As we move into the various counties and articulate issues, the Senate will get more entrenched in the country as a House that addresses the interests of counties. These issues include the allocation of revenue to the counties, the Integrated Financial Management Information System (IFMIS) and how it works, the bills that come from the counties, implementation, corruption that is taking place within the counties, et cetera . In the Eleventh Parliament, we debated a lot on the issue of corruption and that it should not be devolved. Those are the issues that this Senate continues to address. More Kenyans are beginning to understand what the Senate is really about. The Senate of the Twelfth Parliament is very vibrant and on spot in handling the issues. The Senate is articulate, eloquent, hard and visible. We pray for that to continue. Even as we go on recess, we hope to come back more rejuvenated to serve our country as Senators. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 227,
+      "order": 228,
       "id": "entry-822792",
       "label": "speech",
       "level": "3",
@@ -2727,7 +2739,7 @@
       "text": "Thank you, Sen. (Dr.) Zani. Proceed, Sen. Cheruiyot."
     },
     {
-      "order": 228,
+      "order": 229,
       "id": "entry-822793",
       "label": "speech",
       "level": "3",
@@ -2739,7 +2751,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to support this Motion for Adjournment. This is scheduled, but it does not mean that we should not share or thoughts as to whether or not we agree to it, as is the procedure on any matter that is laid before this House. This is still an extremely busy time for us. The fact that we shall not be showing up in the Chamber does not mean that the work of the Senate has been put to halt. I know for a fact that many of the Senators will be committed in their Committee work. Personally, as Sen. (Dr.) Zani has advised, I intend to spend a good amount of time with my county assembly. I will try to drill into them the desire and need to do our work as legislators and ensure that devolution succeeds. The reason I say that is because, on many occasions - and these are some things that keep me and many other Senators awake at night - we are added to the village WhatsApp groups, which is the easiest tool of communication nowadays, from different parts of your county. Residents would complain about issues such as a road that is inaccessible, a dispensary that does not have sufficient medication, et cetera . One of the tools that we can use, as a House, despite the fact that we do not do executive work, is to pile pressure and let our county assemblies--- I personally feel that our county assemblies have not fully exercised the powers that are within their discretion. When you break down the County Government Act and follow up to the establishment of county assemblies, it gives our County Assemblies similar though not equal powers to what Parliament can do. Therefore, this new spirit of investigation where Parliament appears to be taking a very strong and vocal role on matters of accountability needs to passed on to our county assemblies. Many of our county assemblies in this country are under County Executive capture. The county governments are using projects like it used to happen in our country in the KANU era. When you were supportive of the regime, then you could be assured development in your constituency. However, if you were in opposition, then you were easily side-lined. Unfortunately, many of the governors have taken that path. The saddest bit of it, is that they do it with a support of a divided county assembly. I would urge the county assemblies to properly execute their mandate together so that they can succeed together. This dangling mentality that is being taken up by many of county governments is used to divide county assemblies. There is no assurance of continued camaraderie between county assemblies and county governor as a sure way to achieve development. Our legislative work is to debate and pass Bills. Many Kenyans are now fond of the Senate. They are appreciating the good work we are doing. It may appear as if it is self- serving to praise ourselves as Senators, but when a good thing is said about us, we need to be proud of it. Earlier on, I was following the contributions from my colleague online. I saw a leading journalist running a poll on which House Kenyans prefer between the Senate and the National Assembly. This journalist works for NTV . By the time, I was logging off, 50 replies were in favour of the Senate. Not a single mention of the \"Lower\" House. This is our moment. One of the things we should to do is to stand up for the people we represent in this House. I challenge all Committees to up their game and do their work with more zeal. For sure, that is a wakeup call to us. Finally, yesterday we passed a Motion here to establish an hoc Committee with sponsorship of yours truly---"
     },
     {
-      "order": 229,
+      "order": 230,
       "id": "entry-822796",
       "label": "speech",
       "level": "3",
@@ -2751,7 +2763,7 @@
       "text": "On a point of order, Madam Temporary Speaker."
     },
     {
-      "order": 230,
+      "order": 231,
       "id": "entry-822797",
       "label": "speech",
       "level": "3",
@@ -2763,7 +2775,7 @@
       "text": "There is a point of order from Sen. (Dr.) Zani. Sen. (Dr.) Zani: Madam Temporary Speaker, did you hear how you were referred to by hon. Senator? There are rules about reference of Members in this House. Thank you, Sen. (Dr.) Zani. Fortunately, I did not hear."
     },
     {
-      "order": 231,
+      "order": 232,
       "id": "entry-822801",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2787,7 @@
       "text": "Thank you, Madam Temporary Speaker. If I made any mistake I do apologise. There are two ad hoc Committees handling matters that are extremely important to farmers in this country; that is, the one handling challenges in the tea sector chaired by yours truly and the other one handling the challenges in the maize sector."
     },
     {
-      "order": 232,
+      "order": 233,
       "id": "entry-822802",
       "label": "speech",
       "level": "3",
@@ -2787,7 +2799,7 @@
       "text": "Hon. Kipkirui Aaron Cheruiyot, I have heard you say words that were commented on earlier about \"yours truly.\" Who is \"yours truly?\""
     },
     {
-      "order": 233,
+      "order": 234,
       "id": "entry-822803",
       "label": "speech",
       "level": "3",
@@ -2799,7 +2811,7 @@
       "text": "Madam Temporary Speaker,\n\n\""
     },
     {
-      "order": 234,
+      "order": 235,
       "id": "entry-822805",
       "label": "speech",
       "level": "3",
@@ -2811,7 +2823,7 @@
       "text": "Yours truly\" is myself. I do not think there is anything out of order with that."
     },
     {
-      "order": 235,
+      "order": 236,
       "id": "entry-822806",
       "label": "speech",
       "level": "3",
@@ -2823,7 +2835,7 @@
       "text": "Sen. Cheruiyot, go ahead. Sen. Cheruiyot: Madam Temporary Speaker, it will be important if these Committees can let people know the issues they are handling. We will help Kenyans realise that this is a great House that can respond and rise up to the occasion when called to do so. If we liberate our tea, maize, coffee and sugar farmers, then it will be worth it having a Senate in this Republic. I do not wish to say more than that. I support this Motion and wish my colleague Senators all the best as they embark on work outside the precincts of this Parliament. I thank you."
     },
     {
-      "order": 236,
+      "order": 237,
       "id": "entry-822809",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2847,7 @@
       "text": "Madam Temporary Speaker, I was not planning to say anything but I thought the record must reflect some of the things that we have done. During this period, we managed to get a Fund that will enable Senators do their work in terms of oversight. I that will be put to effect quickly so that the money we distribute to counties every year is put to good use. That will ensure that Senators are felt at the county level. I am happy about the sitting that we will have in Uasin Gishu County. I hope we will seize the moment to interrogate things that affect that region in terms of devolved functions, so that the Senate can be felt not only in Uasin Gishu County but all the neighbouring counties for the week that we will be there. I am a little disappointed that at the end of this period today, we have failed to take up something we should have. The Report on Ruaraka Land should have been debated today. I see no reason whatsoever why we did not suspend everything we were doing for purposes of interrogating the Ruaraka Land Report. Whoever caused the Ruaraka Land Report not to be discussed has done a disservice to the Senate. After 30 days from today, when we resume, the thrust and speed that the Senate appear to gain will be lost and Kenyans will be wondering why the Senate did not debate the Ruaraka Land Repot after it was tabled by Sen. M. Kajwang'. There are many things that have happened today. One of them is that the Sugar Report has been rejected by the National Assembly. We should have shown what Parliament should do to people who steal or hide the truth instead of postponing the inevitable. I must express my disappointment because that was one of the worst decisions that Senate has ever made. If anybody thought that we will protect the people who were in that report, when it finally comes for debate, the issues that are there will still be there. So what was the point of postponing after we spent a lot of time to debate the report? The reason I am saying this and the reason I voted for this Bill is because I sat in the Committee that was investigating the Solai Dam issue and I know the sort of time that is put in ad hoc committees because you work within timelines. The sort of threats and intimidations that the Committee faced yet the report has seven signatures as opposed to five for the one on Solai Dam just shows the sort of commitment Senators made. Sen. (Prof.) Ongeri had to come from the hospital. In fact, he did not take his medicine only to come here and be disappointed. I must say we have failed ourselves on this last day. We have done something we should not have done. If I have offended anybody, I will apologise later. I thank you."
     },
     {
-      "order": 237,
+      "order": 238,
       "id": "entry-822812-speaker-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -2847,7 +2859,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 238,
+      "order": 239,
       "id": "entry-822812",
       "label": "speech",
       "level": "1",

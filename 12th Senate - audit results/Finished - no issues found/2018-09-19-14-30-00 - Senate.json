@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-09-19-14-30-00",
-  "exported_at": "2026-10-05T08:01:53.057Z",
+  "exported_at": "2026-10-07T22:17:58.058Z",
   "entries": [
     {
       "order": 1,
@@ -136,7 +136,7 @@
     },
     {
       "order": 12,
-      "id": "entry-842394",
+      "id": "entry-842394-split-before-18b7f9d0-3bf6-4134-aae6-4d7b116fc9dd",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -144,11 +144,11 @@
       "speaker": "",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "Hon. Senators, I have a second communication to make. VISITING DELEGATION FROM ST. PAUL'S KYAMUTHEI SECONDARY SCHOOL, MAKUENI COUNTY Hon. Senators, I would like to acknowledge the presence in the Speaker's Gallery this afternoon, of students and teachers from St. Paul's Kyamuthei Secondary School, Makueni County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them. On behalf of the Senate and my own behalf, I wish them a fruitful visit."
+      "text": "Hon. Senators, I have a second communication to make."
     },
     {
       "order": 13,
-      "id": "entry-842394-inserted-2da1ed3b-db96-4eca-9886-a8b1d8eb3c5a",
+      "id": "entry-842394-split-selected-63066142-b8d7-498a-99c2-6c30255da1be",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -156,10 +156,22 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "VISITING DELEGATION FROM ST. PAUL’S KYAMUTHEI SECONDARY SCHOOL, MAKUENI COUNTY"
+      "text": "VISITING DELEGATION FROM ST. PAUL'S KYAMUTHEI SECONDARY SCHOOL, MAKUENI COUNTY"
     },
     {
       "order": 14,
+      "id": "entry-842394-split-after-4e2a5508-725f-48f3-a317-dd4c116e476a",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "The Deputy Speaker",
+      "reviewed": true,
+      "text": "Hon. Senators, I would like to acknowledge the presence in the Speaker's Gallery this afternoon, of students and teachers from St. Paul's Kyamuthei Secondary School, Makueni County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them. On behalf of the Senate and my own behalf, I wish them a fruitful visit."
+    },
+    {
+      "order": 15,
       "id": "entry-842397",
       "label": "scene",
       "level": "2",
@@ -171,7 +183,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 15,
+      "order": 16,
       "id": "entry-842398",
       "label": "speech",
       "level": "2",
@@ -183,7 +195,7 @@
       "text": "Next Order."
     },
     {
-      "order": 16,
+      "order": 17,
       "id": "entry-842399",
       "label": "scene",
       "level": "2",
@@ -195,7 +207,7 @@
       "text": "(Sen. (Eng.) Mahamud shook hands with several Senators)"
     },
     {
-      "order": 17,
+      "order": 18,
       "id": "entry-842400",
       "label": "speech",
       "level": "2",
@@ -207,7 +219,7 @@
       "text": "Order, Sen. (Eng.) Mahamud. You can do that a little later when it is convenient."
     },
     {
-      "order": 18,
+      "order": 19,
       "id": "entry-842401",
       "label": "heading",
       "level": "1",
@@ -219,7 +231,7 @@
       "text": "PETITION"
     },
     {
-      "order": 19,
+      "order": 20,
       "id": "entry-842402-split-selected-4b8291f4-e33b-41a1-b492-3955e1cc0220",
       "label": "heading",
       "level": "2",
@@ -231,7 +243,7 @@
       "text": "PAYMENT OF COMPENSATION TO KIBERA IDPS"
     },
     {
-      "order": 20,
+      "order": 21,
       "id": "entry-842402-split-after-48129048-8759-4f45-98a0-2c209277b039",
       "label": "speech",
       "level": "2",
@@ -243,7 +255,7 @@
       "text": "Hon. Senators, I hereby report to the Senate that a Petition has been submitted through the Clerk by Rev. David Muganda on behalf of Kibera Internally Displace Persons (IDPs). As you are aware, Article 119(1) of the Constitution says: \"Every person has a right to petition Parliament to consider any matter within its authority, including to enact, amend or repeal any legislation.\" The salient issues raised in the said Petition are as follows: (1) THAT, an estimated 90,000 Internally Displaced Persons (IDPs) were displaced in Kibera during the 2007/2008 post-election skirmishes. (2) THAT, Parliament discussed and passed a budget for the fiscal year 2016/2017 for IDPs for integrated resettlement. (3) The Chairman of the National Coordination Consultative Committee (NCCC) confirmed that over 90,000 integrated IDPs were to be settled with this amount. (4) The Government of Kenya has the list for internally displaced persons who genuinely deserve allocation through the NCCC Office. (5) The Government accepted the Kibera IDPs through the then District Commissioner for the fund payment and resettlement. (6) THAT, many IDPs were left out of the government disbursement allocation. Hon. Senators, the petitioners, therefore, pray that the Senate investigates this matter to ensure- (1) There is full compensation of the IDPs as per the Government list; (2) THAT, a thorough scrutiny is done to the records of payment of the NCCC; (3) THAT, the Office of the NCCC on IDPs should be operationalized to serve its citizenry, and; (4) THAT, all the IDPs should get equal share as per the resettlement programme, including land. Hon. Senators, pursuant to Standing Order 231, I shall now allow comments, observations or clarifications in relation to the petition for not more than 30 minutes. Sen. Moses Wetangula."
     },
     {
-      "order": 21,
+      "order": 22,
       "id": "entry-842403",
       "label": "speech",
       "level": "2",
@@ -255,7 +267,7 @@
       "text": "Thank you Mr. Speaker. This petition reminds us, particularly Members who were in this House during the last Parliament like yourself, of the long protracted issues we have argued on this Floor on IDPs. The citizen from Kibera is speaking for many other displaced persons. I recall the Senator for Murang'a then telling us of IDPs who had been displaced from their businesses and not from their farms who have not been addressed, and in areas where people did not go to live in market centres, schools and churches, people described as integrated IDPs who were living with families of friends and relatives scattered all over. We were told that Ksh25 billion was expended on resettling IDPs in a very erratic manner because, in some areas, people were being paid Ksh400, 000 while in other areas, Ksh10, 000. The Committee that will look at this may seize the opportunity to interrogate thoroughly the department of Government that was responsible for tabulating the numbers, identities, locations and subsequent compensation of IDPs and see that we bring to an end, once and for all, questions of IDPs in our country. The happenings of 2007/2008 must be put behind us by this positive action, including, but not limited to implementation of the TJRC Report that also, in part, deals with matters of displaced persons all over the country. Thank you."
     },
     {
-      "order": 22,
+      "order": 23,
       "id": "entry-842406",
       "label": "speech",
       "level": "2",
@@ -267,7 +279,7 @@
       "text": "Thank you, Sen. Moses Wetangula."
     },
     {
-      "order": 23,
+      "order": 24,
       "id": "entry-842407",
       "label": "speech",
       "level": "2",
@@ -279,7 +291,7 @@
       "text": "Thank you, Mr. Deputy Speaker, for allowing me to add my voice to this petition, which is very important. The state of the people living in slums is quite pathetic and many Kenyans are really suffering. I visited Kibera and other slums in Nairobi and was shocked. I preferred to live in the village rather than living in the slums. The slum dwellers are exposed to many dangers and risks, especially the young ladies who are exposed to many dangers, including poor parents who struggle to feed their children by doing all manner of jobs. It is even worse for the IDPs who struggle. I congratulate the reverend who got concerned on behalf of the IDPs and brought the petition. It is my prayer that the Senate will find a solution to this matter. Many a time, people have lost their lives in the slums as a result of fire, and the causes of these fires have never been established. Last night, I understand many people lost their property and everything at Mukuru Kayaba Slum including more than 100 people who come from the northern part of Kenya especially, Marsabit County. These are people who need our attention. I am sure the super Senator is aware of that and he will bring---"
     },
     {
-      "order": 24,
+      "order": 25,
       "id": "entry-842408",
       "label": "speech",
       "level": "2",
@@ -291,7 +303,7 @@
       "text": "Order, Senator! Which Senator is that?"
     },
     {
-      "order": 25,
+      "order": 26,
       "id": "entry-842409",
       "label": "speech",
       "level": "2",
@@ -303,7 +315,7 @@
       "text": "Sorry."
     },
     {
-      "order": 26,
+      "order": 27,
       "id": "entry-842410",
       "label": "speech",
       "level": "2",
@@ -315,7 +327,7 @@
       "text": "Order! Sen. Naomi Waqo."
     },
     {
-      "order": 27,
+      "order": 28,
       "id": "entry-842411",
       "label": "speech",
       "level": "2",
@@ -327,7 +339,7 @@
       "text": "I apologise for that, I meant Sen. Sakaja, if you do not know that, I apologise."
     },
     {
-      "order": 28,
+      "order": 29,
       "id": "entry-842412",
       "label": "speech",
       "level": "2",
@@ -339,7 +351,7 @@
       "text": "Order Senator! It is not about knowledge; we do not have any Senator by the title you have used in this Chamber."
     },
     {
-      "order": 29,
+      "order": 30,
       "id": "entry-842413",
       "label": "speech",
       "level": "2",
@@ -351,7 +363,7 @@
       "text": "My apology, Mr. Deputy Speaker. I meant Sen. Sakaja."
     },
     {
-      "order": 30,
+      "order": 31,
       "id": "entry-842414",
       "label": "speech",
       "level": "2",
@@ -363,7 +375,7 @@
       "text": "Very well. Sen. Sakaja, you should be on a point of order."
     },
     {
-      "order": 31,
+      "order": 32,
       "id": "entry-842415",
       "label": "scene",
       "level": "2",
@@ -375,7 +387,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 32,
+      "order": 33,
       "id": "entry-842416",
       "label": "speech",
       "level": "2",
@@ -387,7 +399,7 @@
       "text": "Proceed, Sen. Waqo."
     },
     {
-      "order": 33,
+      "order": 34,
       "id": "entry-842417",
       "label": "speech",
       "level": "2",
@@ -399,7 +411,7 @@
       "text": "Last night, many people lost their homes and properties, making them IDPs with no food or a place to sleep. I was informed that more than 100 people from Marsabit County have lost their homes. When we talk about slums, it does not mean that it excludes people from Marsabit. The slums in the city and other areas harbor many Kenyans. It is my request that this House will take it seriously and establish the causes of different challenges that IDPs are faced with, including investigations on what causes fire in the slums. The Government should plan on how to resettle IDPs, plan for their future and bring out clearly the challenges that they are exposed to. I am of the idea that the Committee that will be tasked with this should come up with a lasting solution that will give Kenyans peace of mind since the suffering of one Kenyan affects all of us, as Kenyans. I speak on behalf of all mothers and young girls who are IDPs and have been suffering without knowing their future. Mr. Deputy Speaker, still on the issue of IDPs, many officers have taken advantage of poor Kenyans. This House has debated on this severally and we condemn all the people who take advantage of poor Kenyans. This House should see how best we can serve our people. What we are lacking today are committed and dedicated people to serve Kenyans. It is bad if others have received some allocations and other have not received the same. This House should look into this matter, do proper investigations and come up with a lasting solution. Thank you, Mr. Deputy Speaker."
     },
     {
-      "order": 34,
+      "order": 35,
       "id": "entry-842420",
       "label": "speech",
       "level": "2",
@@ -411,7 +423,7 @@
       "text": "Mr. Deputy Speaker, Sir, the topic of Internally Displaced Persons (IDPs) is a really sad story in Kenya. While overseas, I watched Kenyans chasing and slaughtering each other with pangas on matters of election and democracy. It was appalling. The end result of that is the fact that we have the IDPs. Having IDPs in their own country is just hard to understand. How could people be displaced in their country when the Constitution says that Kenyans can live anywhere in the country? If there is such a Constitution, how could people have been displaced? Mr. Deputy Speaker, Sir, the idea of displacement came with a lot of robbery. Many of those people lost their property, homes and farms. They were sent back to the counties from which they came. This in itself is an affirmation of tribalism; that if you belong to the Kikuyu tribe, for example, you should always be in those regions that are supposed to be for the Kikuyu. If one is from Marsabit or Turkana counties, they should stay there. That is not the Kenya we want to see. We want to see a Kenya where Kenyans can live where they please. Even though we say that money was to settle IDPs, even giving that money alone was not enough. There should have been some investigation; to find out where those people lived before, the kind of property they had and what they lost. That would have been good because they would have reclaimed the property they used to have before being displaced. I know many IDPs within Turkana County who are living in terrible conditions. They were put in a hostile part of the county without water, food or any form of support. In fact, those structures were built so badly that nobody would be able to live there. If you drive to a place called Lokori, before you get to the town, you will find the structures for IDPs that were built. Those structures do not harbour anybody; they are just lying there and disintegrating. That means that the money that was allotted for settling displaced persons was wasted. It was done so poorly and haphazardly that nobody gained anything from the structures or that money. On this topic, I would say that the Senate should take this seriously and look into what happened to that money. Why were those people not settled well? Why were Kenyans displaced and left without supporting structures? There is something wrong in the way we think. We do not see other human beings as human and, therefore, do not provide what they need to live. Facilities like toilets, water, schools, and clinics to help those who are unwell should have been built. However, nothing like that was built. They just built structures that could not support anything or be lived in. Mr. Deputy Speaker, Sir, as much as I see a lot of canvassing, I would urge that the Senators look at this topic seriously. Thank you very much, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 35,
+      "order": 36,
       "id": "entry-842423",
       "label": "speech",
       "level": "2",
@@ -423,7 +435,7 @@
       "text": "Thank you, Sen. (prof.) Ekal. Finally, let us have the Senator for Nairobi City County, Sen. Sakaja, who likes adding a non-official and informal prefix on his name."
     },
     {
-      "order": 36,
+      "order": 37,
       "id": "entry-842424",
       "label": "speech",
       "level": "2",
@@ -435,7 +447,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. It is the people who voted for me in Nairobi City County who added that prefix. Who am I to disagree with them? Mr. Deputy Speaker, Sir, allow me to speak in Kiswahili. I know I have started in English, but I want to ask for your indulgence."
     },
     {
-      "order": 37,
+      "order": 38,
       "id": "entry-842425",
       "label": "speech",
       "level": "2",
@@ -447,7 +459,7 @@
       "text": "Start afresh because you have started in English."
     },
     {
-      "order": 38,
+      "order": 39,
       "id": "entry-842426",
       "label": "speech",
       "level": "2",
@@ -459,7 +471,7 @@
       "text": "Asante, Bw. Naibu Spika kwa kunipa nafasi hii. Kwanza ningependa kumshukuru---"
     },
     {
-      "order": 39,
+      "order": 40,
       "id": "entry-842427",
       "label": "scene",
       "level": "2",
@@ -471,7 +483,7 @@
       "text": "(Sen. Kang'ata consulted loudly)"
     },
     {
-      "order": 40,
+      "order": 41,
       "id": "entry-842428",
       "label": "speech",
       "level": "2",
@@ -483,7 +495,7 @@
       "text": "Order, Sen. Kang'ata. I know what has happened to you recently. Nevertheless, order and congratulations!"
     },
     {
-      "order": 41,
+      "order": 42,
       "id": "entry-842429",
       "label": "scene",
       "level": "2",
@@ -495,7 +507,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 42,
+      "order": 43,
       "id": "entry-842430",
       "label": "speech",
       "level": "2",
@@ -507,7 +519,7 @@
       "text": "Asante. Nampa Sen. Kang'ata heko kwa kupata jiko kirasmi. Hapo awali alikuwa hajapata jiko. Bw. Naibu Spika, kwanza ningependa kumshukuru Rev. Muganda ambaye ameleta ombi hili katika Seneti. Ni kweli kuwa watu wetu wengi sana wameumia katika Jiji la Nairobi. Hasa nazungumza kuhusu wale ambao walifurushwa kutoka kwa makao yao kule Kibera. Najua kwamba idadi haiwezi kuwa ile amesema, lakini kuna watu ambao walifukuzwa wakati ule. Watu wengi wamekosa nafasi ya kurudi na kuanza maisha yao---"
     },
     {
-      "order": 43,
+      "order": 44,
       "id": "entry-842431",
       "label": "scene",
       "level": "2",
@@ -519,7 +531,7 @@
       "text": "(Sen. Cherargei consulted loudly)"
     },
     {
-      "order": 44,
+      "order": 45,
       "id": "entry-842432",
       "label": "speech",
       "level": "2",
@@ -531,7 +543,7 @@
       "text": "Order, Sen. Cherargei. You are engaged in disorderly conduct. Proceed Sen. Sakaja."
     },
     {
-      "order": 45,
+      "order": 46,
       "id": "entry-842435",
       "label": "speech",
       "level": "2",
@@ -543,7 +555,7 @@
       "text": "Bw. Naibu Spika, hawa ni watu ambao tangu wafurushwe makwao, wamekuwa wakitazama kwa runinga kwa miaka wengine wakipata fidia katika maeneo mengine ya taifa letu. Hili ni jambo ambalo lazima liagaliwe kikamilifu. Hatutazungumza mambo ya IDPs milele katika taifa letu. Wale IDPs waliopata fidia ni wale waliokuwa kwenye mahema. Hata hivyo, tunajuwa kuwa katika jamii zingine ni vigumu sana kuwacha watu kwa hema. Watu walijiunga na wengine. Kwa lugha ya Kimombo wanaitwa integrated IDPs. Wengi wao ndio wako na hii shida na ni muhimu kuangalia jambo hili. Kuna wale ambao walifurushwa wakati wa ghasia baada ya uchaguzi wa 2007. Lakini pia kuna wale ambao, kama alivyosema Sen. (Rev.) Waqo, huathirika wakati kuna mikasa kama ya moto ambayo huendelea. Kwa mfano, jana kumekuwa na mkasa wa moto kule Mukuru na Hazina. Nimetoka Pumwani na idadi kubwa ya wananchi walikuja pale kwa sababu wengi wao mali yao imechomeka kule Matopeni, Majengo. Hawa wananchi wanahitaji kujenga makao yao. Wanahitaji misumari, blanketi, chakula na vitambulisho. Watoto wao hata hawana nguo za kwenda shule. Bw. Naibu Spika, ni jambo la kusikitisha kwa sababu, kama kiongozi, wananchi kama hao wanapokuja kwangu, siwezi kuwaaambia kuwa sina msaada. Ili niweze kuwasaidia ni lazima niingie mfukoni. Hata nikimaliza shughuli hapa ni lazima niende kuwasaidia. Mbunge katika Bunge la Taifa labda atatumia hazina ya National Government Constituency Development Fund (NG-CDF) kuona vile atawasaidia. Gavana ana kitita kikubwa sana ambacho ni mabilioni ya pesa, lakini sisi tunakosa uwezo wa kuwasaidia wananchi wakipata shida kama hizi. Shida hizi zote hutokana na mambo ya ardhi. Watu wengi wanafurushwa kwa sababu kuna mabwenyenye ambao wako na vyeti vya kumiliki ardhi. Wanataka kuwafurusha kwa kuteketeza ili waweze kuchukua makao hayo. Nimefurahi leo kwa sababu katika Gazeti Rasmi la Serikali, yaani Kenya Gazette, kuna Hati Miliki nyingi sana ambazo zimepigwa marufuku kwa sababu zilikuwa za ardhi ambayo wananchi wamenyang'anywa. Bw. Naibu Spika, nimgeomba Kamati ambayo itapata ombi hili kutuhusisha kwa sababu jambo hili linahusu watu wa Kibera. Najua kwamba wengi wameumia sana. Juzi wengine walifukuzwa pahali panaitwa Kwa DC kwa sababu ya ujenzi wa barabara na wakaachwa hivyo. Ni jambo la uchungu sana ukiona watoto wakikuangalia kwa matumaini; wamekosa imani na hawajui watafanya nini. Ningependa Kamati hiyo ituhusishe, na sisi kama viongozi, tukumbuke kuwa maisha ya Mkenya wa kawaida au mnyonge ni lazima iwe muhimu kwetu. Tusiwe tu tunaangalia maneno ambayo yanatuhusu kama viongozi na kusahau yale ambayo yana husu Wakenya wa kawaida au wanyonge. Tuna sahau yale ambayo yana wahusu Wakenya wa kawaida, walio wanyonge. Ingekuwa ni Wakenya wale mabwenyenye ama wale ambao wana uwezo katika makao ya Karen, Kileleshwa au Kilimani ambao hawana makao, ambao idadi kama hii imesemwa kwa Ombi hii, tungekuwa na shida kubwa sana. Lakini kwa sababu mara nyingi tunasema ni Mkenya mnyonge ambaye labda hana uhusiano na wewe, tuna wachana nao. Tukumbuke kila siku ya kwamba hawa ndio tunafaa kuwakilisha. Bw. Naibu Spika, asante kwa kunikubalisha kuchanganya lugha."
     },
     {
-      "order": 46,
+      "order": 47,
       "id": "entry-842438",
       "label": "speech",
       "level": "2",
@@ -555,7 +567,7 @@
       "text": "Asante Sen. Sakaja. Umejaribu sana ingawa ume endelea kuita wakimbizi wa ndani IDPs . Ungetumia IDPs halafu wakimbizi ungesema: Wakimbizi wa ndani. Nguo za kwenda shule nazo ni sare. Very well. Sen. Olekina, I had said that Sen. Sakaja will be the last intervention."
     },
     {
-      "order": 47,
+      "order": 48,
       "id": "entry-842439",
       "label": "speech",
       "level": "2",
@@ -567,7 +579,7 @@
       "text": "That is okay, Mr. Deputy Speaker."
     },
     {
-      "order": 48,
+      "order": 49,
       "id": "entry-842440",
       "label": "speech",
       "level": "2",
@@ -579,7 +591,7 @@
       "text": "Thank you."
     },
     {
-      "order": 49,
+      "order": 50,
       "id": "entry-842441",
       "label": "scene",
       "level": "2",
@@ -591,7 +603,7 @@
       "text": "(Sen. Pareno consulted Sen. Outa)"
     },
     {
-      "order": 50,
+      "order": 51,
       "id": "entry-842442",
       "label": "speech",
       "level": "2",
@@ -603,7 +615,7 @@
       "text": "Order Sen. Pareno. Hon. Senators, pursuant to Standing Order No. 226(1), the Petition should be committed to the relevant Standing Committee for its consideration. In this case, I direct that the Petition be committed to the Standing Committee on National Cohesion, Equal Opportunity and Regional Integration. In terms of Standing Order No. 226(2), the Committee is required, in not more than 60 days from the time of reading the prayer, to respond to the Petitioner by way of a report addressed to the Petitioner and laid on the Table of the Senate. Thank you."
     },
     {
-      "order": 51,
+      "order": 52,
       "id": "entry-842443",
       "label": "scene",
       "level": "2",
@@ -615,7 +627,7 @@
       "text": "(The Petition was referred to the Standing Committee on National Cohesion, Equal Opportunity and Regional Integration)"
     },
     {
-      "order": 52,
+      "order": 53,
       "id": "entry-842444",
       "label": "speech",
       "level": "2",
@@ -627,7 +639,7 @@
       "text": "Let us move on to the next Order. We do not have Notices of Motion or Statements. Let us move to the next Order."
     },
     {
-      "order": 53,
+      "order": 54,
       "id": "entry-842445",
       "label": "heading",
       "level": "1",
@@ -639,7 +651,7 @@
       "text": "MOTION"
     },
     {
-      "order": 54,
+      "order": 55,
       "id": "entry-842446-split-selected-c7239c5d-b235-4f28-948d-7976d4823a22",
       "label": "heading",
       "level": "3",
@@ -651,7 +663,7 @@
       "text": "APPROVAL OF REPORT ON THE COUNTY GOVERNMENTS CASH DISBURSEMENT SCHEDULE FOR FY 2018/2019"
     },
     {
-      "order": 55,
+      "order": 56,
       "id": "entry-842446-split-after-d892cb00-ee07-47e1-901d-5c4712990c75",
       "label": "speech",
       "level": "3",
@@ -663,7 +675,7 @@
       "text": "THAT, pursuant to Standing Order 183, the Senate approves the Report of the Standing Committee on Finance and Budget on the County Governments Cash Disbursement Schedule for Fiscal Year 2018/2019, laid on the Table of the House on Thursday, 13th September, 2018."
     },
     {
-      "order": 56,
+      "order": 57,
       "id": "entry-842447-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -675,7 +687,7 @@
       "text": "(Sen. (Eng.) Mahamud on 18.9.2018)"
     },
     {
-      "order": 57,
+      "order": 58,
       "id": "entry-842447-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -687,7 +699,7 @@
       "text": "(Resumption of Debate interrupted on 18.9.2018)"
     },
     {
-      "order": 58,
+      "order": 59,
       "id": "entry-842448",
       "label": "speech",
       "level": "3",
@@ -699,7 +711,7 @@
       "text": "Very well. Hon. Senators, we are now continuing with the debate on the item appearing under Order No. 8 which relates to the Approval of Report on the County Governments Cash Disbursement Schedule for the Fiscal Year 2018/2019. Those who did not contribute yesterday have an opportunity to do so today and hopefully, we should be able to dispose this agenda within this afternoon. Could we hear from Sen. Wetangula?"
     },
     {
-      "order": 59,
+      "order": 60,
       "id": "entry-842451",
       "label": "speech",
       "level": "3",
@@ -711,7 +723,7 @@
       "text": "Mr. Deputy Speaker, I already spoke on this."
     },
     {
-      "order": 60,
+      "order": 61,
       "id": "entry-842452",
       "label": "speech",
       "level": "3",
@@ -723,7 +735,7 @@
       "text": "Okay, thank you."
     },
     {
-      "order": 61,
+      "order": 62,
       "id": "entry-842453",
       "label": "speech",
       "level": "3",
@@ -735,7 +747,7 @@
       "text": "Thank you, Mr. Deputy Speaker, for giving me an opportunity to contribute to this Motion on the Cash Disbursement Schedule for the Fiscal Year 2018/2019. This Motion would not have come at a better time than now, when we, in the country, are alive to the fact that Kenyans are concerned about the collection of taxes, specifically on the imposition of the eight per cent Value Added Tax (VAT). This is a conversation that all Kenyans should be having at the moment. When we sit in this House and talk about the Division of Revenue Bill which then sets out the amount of money that each county should be able to get, it is important for us to have a Schedule that can be followed effectively to ensure that counties receive their monies on time. I commend the Committee on Finance and Budget for having done a very good job in pointing out where there were typographical and mathematical errors. For us to develop as a country, the county governments must receive their money when they are supposed to receive it. Going through the Report which was adopted by five Members of the Committee, I am concerned that certain aspects were not there and this has to do with the release of the Kshs9.1 billion which is supposed to pay for the medical equipment. It is imperative for the National Treasury to clarify when these funds will be released to the counties for us not to have to come up with an amendment. The Constitution is very clear that when funds are being released to the county governments, it should be done without any unnecessary delay. Although I support this Schedule, for I want the people of Narok County to receive their money on time, this House approves this Schedule every year, but the question is: Do counties receive their money when they are supposed to receive it? If they did, we would not be having a problem of unpaid bills. I know that the other Senators who spoke about this Motion yesterday including Sen. Omogeni and Sen. Kibiru raised questions regarding the Integrated Financial Management System (IFMIS). Everyone blames the IFMIS for the delay in the disbursement of money. I see it differently. I think that we must come out and be honest by telling Kenyans that the problem is that we have one payment system where the National Treasury controls when the money will be released. It is embarrassing to find that County Executive Committee Members (CEC's) in charge of finance spend most of their time in Nairobi begging the National Treasury to release the money that they are supposed to receive. I think that we have to ask ourselves a question as Kenyans: Are all these expenses and development projects, including the Big Four Agenda, really necessary at this point? They are very good on paper but in reality, are people getting money? Yesterday, we sat here and discussed the issue of Pumwani Hospital. We gave our views on what should have happened. When I stood it was rather unfortunate that I had only two minutes. When I went home I thought about the whole issue of health having been devolved. Should the county governor have come out and told us that he had uncovered all those things or should he have gone there to fix that problem? Or is it that he does not have any money? Is it that when we approve this schedule, the money is not disbursed to the county government on time for them to come up with plans? Mr. Deputy Speaker, Sir, as we sit here as a House, it is important that we not only approve this schedule but we also come up with a mechanism of ensuring that we can oversight the funds that we release to the county governments. Everything looks very good on paper. I dare say that in Kenya, we are continually benefitting and relying heavily on donor funds rather than the equitable share. Those are conditional grants which are given on certain projects. Should we cut down on our expenditure? There is this debate on 8 per cent VAT; I really pity the President. I feel bad that we as Kenyans have to pay more but I also see where the President is coming from in terms of how he has to pay off these loans. As I support this, I encourage this House to start thinking more on how we will follow up to ensure that these county governments receive their money. The Public Finance Management (PFM) Act and the regulations are very clear; that, the county governments must do reconciliation on a monthly basis. Should this reconciliation only be for the expenses or should it also be for the money that they receive from the national Government? We can spend a lot of time but until the time that this Senate will have its own kitty, then they can follow up to ensure that the county governments receive money from the national Government on time. When they spend the money, they can give the reconciliation accounts on a monthly basis. The biggest problem we have in the Committee that I sit in; the County Public Accounts and Investments Committee (CPAIC), is that when governors appear before us they say, we have not received the money. When we call the National Treasury, they tell us there is no reason as to why these county governments should say they have pending bills because we sent money when they were supposed to receive money. So, who is telling the truth? Mr. Deputy Speaker, Sir, Clause 7 of this Bill provides for the publishing of monthly reports by the national Government on actual transfers of all allocations to county governments. I am of the opinion that this Clause ought to be amended to include reconciliation from the county government to show the money that they have received so that we can know who is not doing their job. On the other issue, I was quite pleased to see that there will be a lot of money which will be disbursed out to take care of agriculture and help farmers to improve on their products. I am quite happy to note that Narok County will receive a lot of money to help improve agriculture. The only way that we can ascertain value for money is if this House goes in and carries out an audit to ensure that whatever is sent out really benefits the farmers. Mr. Deputy Speaker, Sir, with those few remarks, I beg to support the Committee report fully. I hope that the amendments which have been proposed by the Committee which has done a very good job, will be put in place; especially on the issue of the Kshs9.1 billion which is supposed to be released to counties to take care of the issues of health."
     },
     {
-      "order": 62,
+      "order": 63,
       "id": "entry-842458",
       "label": "speech",
       "level": "3",
@@ -747,7 +759,7 @@
       "text": "Very well. Thank you. Proceed, Sen. Mithika Linturi."
     },
     {
-      "order": 63,
+      "order": 64,
       "id": "entry-842459",
       "label": "speech",
       "level": "3",
@@ -759,7 +771,7 @@
       "text": "Mr. Deputy Speaker, Sir, I thank you for giving me this opportunity to speak on this Motion. From the onset, allow me to announce to the people of Meru, as part of my mandate, that today, out of this Schedule, Kshs8,007,000,000 will go to them. I would like them to know that as the Senator for Meru; we are busy trying to pass the disbursement schedule to ensure that the whole country has money to run the affairs of the counties. We are passing this schedule to release the money but a few questions must arise. As we do this, we must appreciate that the money that we are sending has to be applied and used according to the County Integrated Development Plans (CIDPs) and other approved programmes in the counties. This is not the first time that this schedule is being passed by this Senate. The amount of money we are trying to approve for disbursement is for the Financial Year 2018/2019. This means that we are not likely to sit to discuss on a disbursement at any other time within the current Financial Year. We are surprised when we get to our counties and relate with the suppliers and contractors, especially, when they share experiences with us regarding delayed payments for services rendered. I am sure the aspect of pending bills and late payments to contractors is not a new phenomenon. This is happening, not only in the county governments but even in the national Government. This being the first time, probably, that money is being sent to the counties after the passage of this Motion, the law provides that the first charge in any Financial Year is supposed to take care of the pending bills. Many counties in this country have huge pending bills. The effect of the huge pending bills in the economy of our counties and this country is so severe that the country right now is cash strapped. There is no money in circulation. People are crying. They are suffering. I use this opportunity to tell the Cabinet Secretary for the National Treasury that immediately the Senate passes this schedule, they should take the shortest time possible to send money to our counties. They should send this money so that the effect to the economy can be easily stimulated by the payment of certain pending bills in our counties. As we sit and grapple about the effect of under-collection of revenue in the country, one of the reasons that contribute to under-collection of revenue is the late payment of bills. When the Government does not pay bills, it means that the Kenya Revenue Authority (KRA) cannot collect money because Value Added Tax (VAT) is not being paid. So, we get into a vicious cycle. When services are not being offered, the Government being the greatest employer and consumer of goods and services, and when nothing is happening, the economy remains stagnant. I hope the programmes proposed in the counties have some stimulating effect and the probability of changing lives of the people in our respective counties. How I wish if, for example, those counties that have no water or want to put some money in agriculture considered water provision or something like drought resistant crops, so that even as the projects are funded, we can be working towards ensuring that people have water to do irrigation to ensure that there is food security. Kenyan citizens should at least have something to eat. We are getting to a situation where the population is becoming desperate. There is public outcry about the proposed tax increase on VAT. Some people are wondering how insensitive and unreasonable the Government can be to the extent that a mama mboga in the village who operates either by hawking or getting somebody to give them Kshs100 or 200 to feed their family for two or three days can be taxed an amount of 12 per cent when she transfers Kshs100 to her son or daughter through M-Pesa. We need to collectively or wholesomely look at this matter. You will realise that we require certain services. You cannot get services without payment. However, as policy makers of the country, as we consider how to bridge the gap in this country--- Honestly, it is ironical for the Government to propose reduction of taxes on casinos or gaming and increase VAT and the transfer of money service tax which the very common mwananchi is using to ensure that in one way or another, he or she is able to share the little they have with members of the family wherever they are situated in the country. One of the greatest mandate of the Senate is to defend the interests of counties and to oversight national revenue allocated to our counties. Therefore some questions must come to our minds. How do we effectively exercise the oversight role? For quite some time, the Senate has been asking for support to ensure that we have a monitoring and evaluation kind of fund. Meru County has nine constituencies. I am required, by virtue of my mandate, to traverse nine sub-counties. The Governor gets Kshs8 billion and Kshs7 million for recurrent and development expenditure in the county. You are supposed to oversee what the money is going to do because there is revenue from the national Government. Tell me how you will get from one sub-county to another. As a Senator with nine constituencies, tell me what support staff I require to effectively discharge my mandate. This applies to nearly each of the elected Senators here because I know there is no single--- Probably the Deputy Senate Majority Leader has the smallest county because it only has two constituencies but there are others that have 12 constituencies. So, it is important to understand facilitation of Senators to effectively exercise their mandate. This is not something that we can play around with. For those of us that sit in the County Public Accounts and Investments Committee (CPAIC), the reports that we get from counties regarding how money has been spent or wasted require serious intervention in terms of ensuring that there is a team with somebody in charge to follow up on what each and every coin will do. We have finances that go to the counties as conditional grants. These include monies to hospitals, the Kenya Roads Board (KRB) and donor-funded projects. We cannot just leave this matter to the governors to decide on how to spend all that money without public participation. We have to agree. There are structures in the county governments. Governors have to sit with their County Executive Committee (CEC) members to agree on projects in the county. No CEC has the capacity to question or put a governor into serious discussion to a level of trying to agree or disagree on a development project because they do not draw any mandate directly from the people. For that matter, they serve the interest of the governor. Similarly, this is what happens at the national level and that is why we find ourselves in such a scenario. When you are sworn in as a CEC or Cabinet Secretary, you are supposed to give serious wise counsel to the President or the governor. Disagreeing with them does not mean insubordination because it is at the table that you put different ideas for discussion and adoption. My experience has shown me that this is not happening. We have tested this Constitution that we are applying. Now we know the kind of problems that we have. As we get forward and knowing that the Senate is a House of tribes--- I am not ashamed to say that the Senate---"
     },
     {
-      "order": 64,
+      "order": 65,
       "id": "entry-842464",
       "label": "speech",
       "level": "3",
@@ -771,7 +783,7 @@
       "text": "Order, Sen. Linturi. Did you say the Senate is a House of tribes?"
     },
     {
-      "order": 65,
+      "order": 66,
       "id": "entry-842465",
       "label": "speech",
       "level": "3",
@@ -783,7 +795,7 @@
       "text": "I said and you need to listen to me properly the context in which I said the Senate is a House of tribes."
     },
     {
-      "order": 66,
+      "order": 67,
       "id": "entry-842466",
       "label": "speech",
       "level": "3",
@@ -795,7 +807,7 @@
       "text": "Order Senator! Did you say that the Senate is a House of tribes?"
     },
     {
-      "order": 67,
+      "order": 68,
       "id": "entry-842467",
       "label": "speech",
       "level": "3",
@@ -807,7 +819,7 @@
       "text": "I said the Senate is a House of tribes. I said it in this context. This Senate votes by delegations. There are 47 delegations in this House. Kenya has around 43 tribes. Out of that, all the tribes in this country are represented in this House. It is in this context that I am saying that as we try to think loudly, as the representatives of the great nation of Kenya, we should think on how to make Kenya a more cohesive society by ensuing that we support devolution because devolution was made to devolve power and resources to the ground."
     },
     {
-      "order": 68,
+      "order": 69,
       "id": "entry-842468",
       "label": "speech",
       "level": "3",
@@ -819,7 +831,7 @@
       "text": "So, your analogy is basically a mathematical issue; that there are 47 or thereabout communities and 47 delegations."
     },
     {
-      "order": 69,
+      "order": 70,
       "id": "entry-842469",
       "label": "speech",
       "level": "3",
@@ -831,7 +843,7 @@
       "text": "Mr. Deputy Speaker, Sir,"
     },
     {
-      "order": 70,
+      "order": 71,
       "id": "entry-842470",
       "label": "speech",
       "level": "3",
@@ -843,7 +855,7 @@
       "text": "hat is exactly what I am saying. If a decision is taken by 43 Senators who represent all these people, then the Kenyan people have spoken when the Senate speaks."
     },
     {
-      "order": 71,
+      "order": 72,
       "id": "entry-842471",
       "label": "speech",
       "level": "3",
@@ -855,7 +867,7 @@
       "text": "Well, proceed but be careful not to send the wrong impression out there about what the House is. If the analysis ends there, that is fine but you can venture into a dangerous analogy where you dilute the image of the House."
     },
     {
-      "order": 72,
+      "order": 73,
       "id": "entry-842472",
       "label": "speech",
       "level": "3",
@@ -867,7 +879,7 @@
       "text": "Mr. Deputy Speaker, Sir, that was not the intention and probably it is misconstrued."
     },
     {
-      "order": 73,
+      "order": 74,
       "id": "entry-842473",
       "label": "speech",
       "level": "3",
@@ -879,7 +891,7 @@
       "text": "This is especially considering that you are historically associated with other terms about this House in the past which as I have told you before, you have to live with. Those who forget history have the risk of repeating it."
     },
     {
-      "order": 74,
+      "order": 75,
       "id": "entry-842474",
       "label": "speech",
       "level": "3",
@@ -891,7 +903,7 @@
       "text": "Mr. Deputy Speaker, Sir, I stand guided."
     },
     {
-      "order": 75,
+      "order": 76,
       "id": "entry-842475",
       "label": "speech",
       "level": "3",
@@ -903,7 +915,7 @@
       "text": "Very well. Thank you."
     },
     {
-      "order": 76,
+      "order": 77,
       "id": "entry-842476",
       "label": "speech",
       "level": "3",
@@ -915,7 +927,7 @@
       "text": "Mr. Deputy Speaker, Sir, it is better so that we are not mistaken. I would want to say that the analogy was purely on the basis of numbers and not anything else. Because of the seriousness of the Motion before this House and the effect that this money is likely to make entirely in the country through economic stimulation after release of the money, I support this Motion. Finally, the Treasury has had the tendency of releasing funds either a week or a few days before the close of the financial year. So, let them kindly endeavour to try and release this money early enough so that those counties that are afraid of giving out work before the money is allocated into their system, can do it. This way, our counties can get meaningful services that would be of greater good to the people of Kenya."
     },
     {
-      "order": 77,
+      "order": 78,
       "id": "entry-842479",
       "label": "speech",
       "level": "3",
@@ -927,7 +939,7 @@
       "text": "Very well. Mover to reply."
     },
     {
-      "order": 78,
+      "order": 79,
       "id": "entry-842480",
       "label": "speech",
       "level": "3",
@@ -939,7 +951,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I thank the Members for the contribution that they made to this Motion. It is true that it is a very important Motion approving the cash disbursement schedule to counties, which will enable the national Treasury to disburse funds to counties promptly and on time. As Members have said, we are concerned that funds do not go to counties regularly, especially in the last Financial Year. In the last few years, money has been released a few months to the end of the financial rear. For example, in the last financial year, or about five months ago, money was released in June and it will not help counties to plan. It is important that the Schedule that has been done today be implemented according to the law. The small correction that we made is, in fact, only a percentage error and not a serious mathematical error. So, when we submit the Schedule back to the national Treasury, that should be corrected accordingly. It is important that the Schedule is passed. In the atmosphere today, there is a lot of discussion about reduction of money in terms of what is happening with the Value Added Tax (VAT) and other things. We hear rumours - I do not want to anticipate debate - that there will be deductions also to counties. Members, be aware that anything which requires deduction of funds to counties must start from the Division of Revenue Bill, and that must be put in the County Allocation of Revenue Act (CARA). So, we do not expect anything short of that. Beware that there is a discussion that about Kshs9 to Kshs10 billion will be deducted from this. Mr. Deputy Speaker, Sir, issues of conditional grants to counties have been mentioned. Whereas we know that shareable revenue is the money that goes straight to counties, however, there are many grants and loans from donors which are domiciled in many Ministries. I challenge the Senate to take the role of oversight seriously to know where this money goes when it leaves the Ministries and what it is supposed to do. I think this is for every Committee starting from devolution to health. For example, what does the money for the Kenya Devolution Support Programme (KDSP) do? I think we need to know as the Senate. For health, there are funds from the World Bank, the Danish International Development Agency (DANIDA) and other donors. How is it being done? I think it is important that we take our oversight role seriously, know which Ministries this money is domiciled and oversight. We should also go to counties and see what those monies are used for especially on the leased equipment which Kshs9.4 billion is being paid for every year. First of all, that money does not get to counties and should not because the contracting is done elsewhere. In fact, the person who contracted - the national Government - actually paid the contractor. However, that money is apportioned equally to all counties. Lamu County gets the same portion of Kshs200,000 million with Nairobi City County. It is a bit funny how those figures are. We are interrogating that and, in fact, going forward in the next Financial Year maybe, we have discussions on when the next cycle is starting. It is important that we understand how this is going. Next year, it might double again to Kshs18 billion from the current Kshs9.4 billion. With those few remarks, I thank the Members for their contribution and I beg to move. I beg that pursuant to Standing Order No.63(1), the question on the Motion be deferred to another day."
     },
     {
-      "order": 79,
+      "order": 80,
       "id": "entry-842483",
       "label": "speech",
       "level": "3",
@@ -951,7 +963,7 @@
       "text": "Very well. I determine that this matter concerns counties. Accordingly, it is a matter that requires Division through delegations. Looking at the numbers, we cannot proceed today. Therefore, I direct that the whips from both sides, supported by the respective leaders of the parliamentary parties represented in the House, must do everything possible to facilitate the division and eventual passage of this and other pending urgent matters before this House which are scheduled for division. I expect, therefore, that the whips will do extraordinary work to make sure that by all means this matter is out of our hands tomorrow, especially, considering the whole of next week, other important issues might arise in the context of our sitting outside Nairobi. It will be very good news if the Senate sitting outside Nairobi delivers the message to the grassroots that the disbursement schedule for this year has already been passed. It is so ordered. I expect cooperation between the whips of both sides and the leaders. The Mover of this Motion should also cooperate with the whips so that it is a joint effort. You are jointly and severally liable to this House to deliver results. Thank you. We have, as you can see from the Order Paper today, a number of items appearing on the Order Paper which I would like to reorder, pursuant to Standing Order No.40 of the Standing Orders of the Senate; namely, the items appearing in today's Order Paper at Order Nos.9,10,11 and 12. Those items are hereby deferred in accordance with Standing Order No.40"
     },
     {
-      "order": 80,
+      "order": 81,
       "id": "entry-842484",
       "label": "heading",
       "level": "1",
@@ -963,7 +975,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 81,
+      "order": 82,
       "id": "entry-842485-split-selected-6684565d-e7e9-47ef-bef9-35517e6f16d7",
       "label": "heading",
       "level": "2",
@@ -975,7 +987,7 @@
       "text": "THE COUNTY BOUNDARIES BILL"
     },
     {
-      "order": 82,
+      "order": 83,
       "id": "entry-842485-split-after-b5beab08-8929-4e79-911f-0eb64fd1b2e5-split-before-f85f9aec-8eed-4605-b25a-5f2178db1528",
       "label": "speech",
       "level": "2",
@@ -987,7 +999,7 @@
       "text": "(SENATE BILLS NO. 6 OF 2017)"
     },
     {
-      "order": 83,
+      "order": 84,
       "id": "entry-842485-split-after-b5beab08-8929-4e79-911f-0eb64fd1b2e5-split-selected-e9b0ab89-0629-4547-827f-5dddbd2a8d3a",
       "label": "heading",
       "level": "2",
@@ -999,7 +1011,7 @@
       "text": "THE OFFICE OF THE COUNTY ATTORNEY BILL"
     },
     {
-      "order": 84,
+      "order": 85,
       "id": "entry-842485-split-after-b5beab08-8929-4e79-911f-0eb64fd1b2e5-split-after-7c24fe8b-732c-49b7-be50-f4c0811da97e",
       "label": "speech",
       "level": "2",
@@ -1011,7 +1023,7 @@
       "text": "(SENATE BILLS NO. 3 OF 2018)"
     },
     {
-      "order": 85,
+      "order": 86,
       "id": "entry-842487-split-before-23918d29-0f0a-45a1-ae55-3e3df07d7459",
       "label": "heading",
       "level": "2",
@@ -1023,7 +1035,7 @@
       "text": "THE FOOD SECURITY BILL (SENATE BILLS NO. 12 OF 2017)"
     },
     {
-      "order": 86,
+      "order": 87,
       "id": "entry-842487-split-selected-ccd36025-2c2f-4db5-92ab-cc4c956f5ca7",
       "label": "heading",
       "level": "2",
@@ -1035,7 +1047,7 @@
       "text": "THE OFFICE OF THE COUNTY PRINTER BILL (SENATE BILLS NO. 7 OF 2018)"
     },
     {
-      "order": 87,
+      "order": 88,
       "id": "entry-842488",
       "label": "scene",
       "level": "2",
@@ -1047,7 +1059,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 88,
+      "order": 89,
       "id": "entry-842489",
       "label": "speech",
       "level": "2",
@@ -1059,7 +1071,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 89,
+      "order": 90,
       "id": "entry-842490",
       "label": "heading",
       "level": "1",
@@ -1071,7 +1083,7 @@
       "text": "MOTION"
     },
     {
-      "order": 90,
+      "order": 91,
       "id": "entry-842491",
       "label": "heading",
       "level": "3",
@@ -1083,7 +1095,7 @@
       "text": "ADOPTION OF CPAIC REPORT ON FINANCIAL OPERATIONS OF NAKURU COUNTY EXECUTIVE FOR FY 2013/2014"
     },
     {
-      "order": 91,
+      "order": 92,
       "id": "entry-842492",
       "label": "speech",
       "level": "3",
@@ -1095,7 +1107,7 @@
       "text": "Mr. Speaker, Sir, I beg to move: THAT, this House adopts the Report of the Sessional Committee on County Public Accounts and Investments on the inquiry into the Financial Operations of Nakuru County Executive for the Financial Year 2013/2014 laid on the table of the House on Tuesday, 19th June 2018. I move this motion very well aware that this House has registered its concern at the throughput and the timeliness of the reports that the Public Accounts and Investments Committee brings to this house. Mr. Speaker, we have had a legacy problem, a huge backlog problem that has been occasioned by many reasons. As we know, that the First Senate was not able to get down to business on consideration of these issues mainly because of court battles that pitted the Senate and the county governors. Thankfully, these issues have now been resolved, and I am very happy to report that one of the counties and one of the governors that went to court to oppose the role of the Senate in the scrutiny of the reports of the Auditor General; the Governor for Kakamega, has since appeared before the County Public Accounts and Investments Committee and he has expressed his pleasure that when he came before the Senate, he found it to be a House full of wisdom and a House that helped him to understand certain things that he was not able to see from the county where he was sitting. Mr. Speaker, I want to assure this House that the County Public Accounts and Investments Committee is committed to taking a more efficient approach to its work, consideration of reports and reporting to this House. I want it to go on record that the Committee on Public Accounts and Investment for the 40 counties that are remaining, because this House has already adopted three reports and today, we wish that we can move four other reports, we do not expect to bring 40 Motions before this House. We have already started work in consolidating the reports of the 40 counties and we hope that when that is ready, we will bring it to the House. If you look at the practice, even in the National Assembly, the Public Accounts Committee does not submit an individual report for Ministries and the Public Investments Committee does not bring an individual report for every parastatal. So, we are going to take that approach."
     },
     {
-      "order": 92,
+      "order": 93,
       "id": "entry-842495-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1107,7 +1119,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 93,
+      "order": 94,
       "id": "entry-842495-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1119,7 +1131,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 94,
+      "order": 95,
       "id": "entry-842496",
       "label": "speech",
       "level": "3",
@@ -1131,7 +1143,7 @@
       "text": "Secondly, Mr. Madam Temporary Speaker, we have engaged the Parliamentary Budget Office (PBO) to do what we are calling a fiduciary risk analysis, to look at the commonly recurring issues across the 47 counties and do one report and bring it to this House for debate. I want to ensure Members that for every financial year, we will be presenting at the maximum three reports: one consolidated report for the Executive, the Assembly and one fiduciary risk statement. I think that will be a better use of the time of this House. Madam Temporary Speaker, if I give some broad highlights about the Report for Nakuru County for Financial Year 2013/2014, Nakuru County appeared before the Senate on 26th April 2016, and this report that I am presenting today was adopted on 4th April 2017. A quick highlight of some of the issues that the Committee flagged in Nakuru County are as follows- (1) It was noticed that the national Government was deducting revenues due to the County Government at source. It was explained that 16 per cent or Kshs1.23 billion that had been retained by the national Government was due to recovery of salaries paid to staff performing devolved functions. We know that this is a problem that is still going on in counties and we have seen it with Managed Equipment Scheme where the money does not hit the County Revenue Funds but the national Government deducts that money at source. (2) There was an underperformance of Own Source Revenue (OSR) by 30 per cent and it was explained that this was due to pending bills and the Governor in mitigation noted that they had put in place measures to automate revenue collection. (3) There was also an inadequate allocation to Development Budget and the law requires that; at least 30 per cent of county budgets be allocated to development. In the case of Nakuru County, only 10 per cent of the total revenue was allocated to development. The reasons given by the Governor was underperformance of OSR revenue and also a bloated workforce or a huge wage bill. The Governor indicated that in subsequent years the ratio had improved to 30 per cent. (4) Nakuru County was also fined Kshs.9.023 million due to late remittance of Income Tax. This was really inexcusable and is a problem that cuts across counties and affects the standing of employees with banks, statutory bodies like the Kenya Revenue Authority (KRA), the National Hospital Insurance Fund (NHIF) and also with the Credit Reference Bureau (CRB). (5) During the period under review, Nakuru County had pending bills of Kshs1.284 billion and out of this sum, half of it or Kshs684 million were debts that were inherited from the defunct local authorities. The issue of validation and assessment of assets and liabilities of defunct authorities is an exercise that is ongoing. The Transition"
     },
     {
-      "order": 95,
+      "order": 96,
       "id": "entry-842498",
       "label": "speech",
       "level": "3",
@@ -1143,7 +1155,7 @@
       "text": "Authority attempted to deal with it, it shut down before it completed. The Inter- Governmental Relations Technical Committee (IGRTC) is currently seized of this matter. Madam Temporary Speaker, I must report that the deadlines that were given to counties to conclude the asset and liabilities verification has so far lapsed and we will be asking the Inter-Governmental Budget and Economic Commission (IBEC) and the Committee on Finance and Budget and the relevant committees of this House to give us an update. Madam Temporary Speaker, with those highlights and with the details presented in the Report that was tabled in this House on Tuesday 19th of June 2018, I beg to move and I wish to call upon the Senator of Narok County, my very able colleague, Sen. Olekina to second."
     },
     {
-      "order": 96,
+      "order": 97,
       "id": "entry-842499",
       "label": "speech",
       "level": "3",
@@ -1155,7 +1167,7 @@
       "text": "Sen. Olekina."
     },
     {
-      "order": 97,
+      "order": 98,
       "id": "entry-842500",
       "label": "speech",
       "level": "3",
@@ -1167,7 +1179,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to second the Motion that this House adopts the Report of the Senate Sessional Committee on County Public Accounts and Investment on the inquiry into the financial operations of Nakuru County Executive for the Financial Year 2013/2014 which runs from 1st July 2013 to the 30th June 2014. Madam Temporary Speaker, from the outset, this Committee is really doing a very good job in trying to expedite the adoption of these reports. When we looked at our legacy report, the previous House had not done a lot of work. From the amount of time we put into these reports, I concur with my good brother and Chairperson of this Committee, Sen. M. Kajwang', that for any subsequent report that we submit, particularly for the Financial Year 2013/2014, we will not be wasting our time in submitting individual reports. This is because if we continue with that trend, by the time we are out of this House in five years' time, we will not have had an opportunity to even consider the reports of the Auditor General for the time we, as Senators, are serving in this House. Madam Temporary Speaker, a few things were noted during the inquiry into this matter. First, the amount of liability that the new county governments inherited from defunct councils was quite vast, most of which had not been verified. I know that the Transition Authority (TA) has really tried to do its work, but we noted that it was abolished at the time they were just trying to pull up their socks to expedite the work. When we look at the issue of assets and liabilities, it cuts across all counties. It is extremely difficult for even the County of Narok, for instance, to know how many assets and liabilities there are. This was the same in Nakuru County. However, I am happy that this is the process that is ongoing and the Intergovernmental Relations Technical Committee (IGRTC) has engaged the county governments and county assemblies in ensuring that they expedite the process of verifying these assets and liabilities. Madam Temporary Speaker, one of the things that we noted in terms of the Auditor General's report was that there were issues that ought to be dealt with by the county assemblies. We discussed and deliberated heavily on the kind of audits that this House should be looking at. We should not be looking at issues of reconciliation because it is something that takes a lot of time. Although it is provided for in the Public Finance Management (PFM) Act; that all county governments and assemblies have to carry out their monthly reconciliation and send the report to the Auditor General, it is something that with a little induction, the county assemblies can take care of. The work of this House and particularly our Committee, is to try and look at the value for money audits. Madam Temporary Speaker, as I support this Motion, I reiterate that the Committee, as currently constituted, will table all reports, particularly for the Financial Year 2013/ 2014, in fact, within three weeks. We will not waste our time. We will also submit reports for the Financial Year 2014/2015. We were deliberating on whether to submit regional reports, because these auditors are given about six or seven counties to go through. Sometimes when we go through all those issues, we find that there are issues that we should not waste time on. Some of the issues that were very clear in the Nakuru County Report had to do with internal audit committees. These are things that cut across all other counties. I even suggested to our Chairperson that all we need to do is to write to our counterparts at the county assemblies and ensure that they give us an update on whether those internal audit committees have been established by the county governments. This is because once they do that, it will put us in a position where we can tell Kenyans that out of the amount that was sent to the counties, \"X\" amount was used prudently and \"X\" amount was misappropriated. The people on the ground will come out and tell us whether we are right. It is a complete waste of time when we now go back to look into post mortem reports; things that happened in the Financial Year 2013/2014, when we are in the 2018. However, the reality is that, that is the way the law is. That is the work we are supposed to be doing. Of course, we need to bring in some creativity in ensuring that governors are accountable for the money sent to them. This will help reduce on the wastage of public funds. Madam Temporary Speaker, as I wind up, I wish to reiterate one issue that the Chairperson spoke about on the penalties which were charged to these county governments, particularly Nakuru, by the Kenya Revenue Authority (KRA). This is something that should not be happening. The national Government, the county governments and all these agencies should be working together. However, when we have pending bills--- Earlier on we were talking about approval of a Schedule for that money to be sent. I hope that my dear sister, the Senator for Nakuru, is taking notes, so that she can follow up and say: \"Alright, we approved the Schedule and we are discussing about the audit reports for the previous year. There were penalties by KRA. Why did these penalties come in place? Was the money there?\" For instance, if the national Government deducted about Ksh1.4 billion and the explanation was that this money was used to pay for salaries of staff that had been forwarded, then it is important for us to know whether when they were deducting that, they also remitted the money to KRA, so that the burden is not sent to the County Government of Nakuru. Madam Temporary Speaker, with those few remarks, I beg to second."
     },
     {
-      "order": 98,
+      "order": 99,
       "id": "entry-842503",
       "label": "scene",
       "level": "3",
@@ -1179,7 +1191,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 99,
+      "order": 100,
       "id": "entry-842505",
       "label": "speech",
       "level": "3",
@@ -1191,7 +1203,7 @@
       "text": "Let us have Sen. Sakaja."
     },
     {
-      "order": 100,
+      "order": 101,
       "id": "entry-842506",
       "label": "speech",
       "level": "3",
@@ -1203,7 +1215,7 @@
       "text": "Thank you very much, Madam Temporary Speaker. I thank the Committee that is ably led by my good friend, Sen. M. Kajwang', who went to a very good school, for the work they have been putting in. We have complained severally on the Floor of this House about the backlog of these reports. Our primary role is oversight and we needed to get the understanding of what is happening in your Committee. We have made several suggestions. I sympathise with the Senator for Nakuru County right now, because this is the Audit Report of the Executive of Nakuru County for the Financial Year 2013/2014. She is, therefore, oversighting the previous governor, Gov. Mbugua, yet the people of Nakuru know that they have sent her to the Senate to oversight the county governments and the current governor, Gov. Lee Kinyanjui. Madam Temporary Speaker, I would not be interested much, apart from looking at the systems issues and procedural challenges in the Report for Nairobi City County. This is because the people of Nairobi County want me to do oversight, which is my role, on the current county government. We have even suggested in this House that to help the Committee - and many Members are committed to that - that all the 67 Senators should split ourselves for a period and take up some of these reports, so that we do it together, under the guidance--- We can reduce this backlog if the County Public Accounts and Investments Committee, led by Sen. M. Kajwang', could give one Member to lead each of the other nine Committees. There are Senators in this House who might never have an opportunity to actually go through the report of the current governors. I know the Committee is hesitant or might not want that to be done. However, it is because when the Committee sits, it does so on behalf of the rest of us. Actually, the Committee sits to make the work of the rest of the House easier. In this respect, it might be the other way round. I ask the Committee to be open. I am glad that they are now proposing to bring consolidated reports and that makes a lot of sense. It is not necessary for every county to have its report. A consolidated report would be good, regionally or whichever way. Moreover, the Committee needs to understand that the way they look at the reports of the Auditor-General cannot be the same thing the county assemblies look for in the Auditor-General's reports. If that is the case, then we are duplicating roles and might be wasting our time. We should know what secondary oversight requires of us such that the issues that are looked at as a Senate County Public Accounts and Investements Committee (CPAIC) must be different and at a higher level than what we expect from the County Assembly Public Accounts Committee on the same issue. Madam Temporary Speaker, Senators have spoken about the challenge that many of these counties faced when they began at that time. Many counties are facing similar challenges. I have previously asked - and maybe it is because the Committee might be overwhelmed - I made a request for a Statement last year and asked for an audit of revenue collection of the Nairobi City County. That audit was not done because we were not able to communicate with the Auditor-General. We requested to audit the E-jiji Pay, Jambo pay and the digitization of the revenue streams. I am sad to note that as much as I asked for this, many months ago, within the same period, the Nairobi City County has collected a billion less than it did under the previous county government. How is it that we can fashion ourselves as a House that holds true fidelity to our mandate in the Constitution, if we are unable to find the proper shape in which to be flexible, dynamic and not to be rigid in different ways of doing things? I know that this is a House of precedence and tradition. Let us hold true fidelity to our cause by being flexible enough to support the county governments and by bringing the kind of reports we do up to speed. The CPAIC needs to give us a proposal on how we will do oversight, not in a retroactive manner looking back but how each Senator can work with the office of the Auditor-General, the Controller of Budget and the Accountamt-General at the National Treasury, every month so that we can have real-time oversight because that is what the people want. We hope to bring monitoring and evaluation guidelines because Kshs550 million was already appropriated for all the Senators. That money should allow Senators to set up processes through which we can play the oversight role in real time. One of the intentions I have, and probably other Senators might be able to, because I have already started working on it without the fund, is how you create a GPS-driven public portal. If you are from Kilimani, Kasarani or Kware wards, based on the programme based budget, you can go online to see that the governor had said that he is doing this road or this ECD Center and it is at 30 percent. As a citizen of Nairobi, you should be able to comment and say: \"Actually, this is the photo, there is no project,\" or \"Actually, the project is very good, it is going on well.\" The point I am trying to make is that we can be creative in how this role is played by Senators, to ensure that their work is seen and felt on the ground and that people see you as direct channels to keep the governors to check. Madam Temporary Speaker, yesterday and today we discussed the Cash Disbursement Schedule. I am happy that as the second Senator of Nairobi City County in my first year I have got Ksh15.8 billion. This is the second one because we did the last cash disbursement. However, I also feel disheartened because many of our citizens in this county and across the country, cannot feel the value of that money because of what is happening on the ground. Madam Temporary Speaker, with Ksh15.8 billion from the Senate and another Ksh15 billion, because the current budget for Nairobi City County is Ksh32 billion, I am surprised why - and today we went to Pumwani Maternity Hospital with Senators and saw how babies are being put in polythene bags and boxes when they pass on. This afternoon we have seen the Governor say he has donated cooling equipment. Nairobians do not want donations. We are passing budgets here. Nairobians are paying taxes. It is not about your donations and philanthropy, especially when you have a kitty. If you see a Senator donating may be, because Senators do not have any fund--- MCAs have something coming. The Member of Parliament has the CDF, the Women Representative has Kshs7 million per constituency and the Governor has Ksh32 billion. So, why would you want to donate to address that issue? We need to change our approach to these matters because many of them are a matter of life and death to our people. So, we want the CPAIC, and I know Sen. M. Kajwang' is very creative; I have seen his creativity expressed in many different settings. I urge him to engage us in a thinking session as a House. How else do we do it? You know when you try to do the same thing the same way and expect a different results, that is close to being insane. If the last committee - I know they had court challenges, problems and the governors went to court, but beyond that, let us know how to make the people of Nyamira know Senator Omogeni can respond to issues that the county is unable to do. I want to thank the Committee on Health - I can see Sen. Naomi, Sen. Mbito was here - the Committee on Security, Defence and Foreign Relations and the Chairperson of the Committee on Devolution and Intergovernmental Relations because they swiftly accompanied me to Pumwani Maternity Hospital to address that issue. We can then be a dynamic House so that we are not called what some people used to call this House before - Nyumba ya Wazee. It was not called Nyumba ya Wazee because of wisdom, but because it was thought to be slow, almost lethargic and to have a lot of inertia. Look at the people we have today; Sen. Ledama, Sen. Kihika, Sen. Pareno and Sen., M. Kajwang'. These are energetic people who should not be slowed down in their roles because of red-tape and too much bureaucracy within this House. Madam Temporary Speaker, with those many remarks, I support this Report. I have seen the many challenges they had. We are putting the cart before the horse when it comes to dealing with devolution. The Transition Authority (TA) failed in their role to actually cost these functions. Coming up with the Division of Revenue Bill and the County Allocation of Revenue Bill is mainly due to guesswork such as: \"Ksh 300 billion is good for the counties.\" If I ask the Senator for Narok County how much it costs to run healthcare in Narok, he cannot tell me. I cannot tell you the cost unless we have fully done a proper costing. What we have seen is not costing. Once we know that this is what it takes to run devolution in Kisumu County and how much the county is collecting - Of course many of our counties are collecting less revenue than they were before. When we know what they are collecting, we will know the gap that the intergovernmental transfer, which is set at a minimum of 15 percent, is supposed to fill. Lastly, this is how much discretion we can give or how we can agree for the national Government to guarantee a county to get into borrowing. I am sure if you look at these reports you will see many counties have overdrafts. Many counties illegally went into arrangements with banks. The Constitution is clear. Before any governor or any county borrows money - an overdraft is a type of borrowing - the county must be guaranteed by the national Government. Madam Temporary Speaker, in my County in the days of Kidero, and I hope it has changed, if you got a cheque where the County was paying you, it meant nothing. I know many people in business who were paid, but when they would go to the bank, unless two individuals called, they were never paid. They used to do that because if you are owed Kshs10 million, for example, they would tell you: \"First ten percent is ours or Kshs2 million.\" So they first give you the cheque for the Kshs2 million. If you do not bring the cash, you do not get the cheque. There is so much corruption in our counties. How do we unearth this corruption? Let us move away from the back and forth where we say that the audit report came and these were the issues, or the governor came, persuaded us and it is okay, yet the biggest sign of corruption is when the people on the ground cannot feel the difference in their lives and they have a governor. With those many remarks, I support."
     },
     {
-      "order": 101,
+      "order": 102,
       "id": "entry-842513",
       "label": "speech",
       "level": "3",
@@ -1215,7 +1227,7 @@
       "text": "Thank you, Madam Temporary Speaker. I also rise to support this Motion and congratulate the Committee on County Public Accounts and Investment (CPAIC) on the work that they have been doing. However, there is an issue that other Senators have spoken on regarding the timeliness of this Report and I do hope that in the future, we can get the reports on time in order for us to deal with the issues that arise. We are now talking about 2013/2014 and the citizens have probably forgotten what this was about and as we discuss this, we are sort of missing out on what is going on in 2017/2018 and so forth. I would also like to add my voice that it might be good to maybe have the House meet at some point with all the Members in the Committee on CPAIC and, led by the very able Chairperson, Sen. M. Kajwang', to sort of figure out a way forward as to whether we are going to have many ad hoc Committees that can deal with these reports so as to get to the current year without having to wait for so long to perform our oversight role. Madam Temporary Speaker, looking at the Report on Nakuru County Executive for the Financial Year 2013/2014, the sad thing is that a lot of the issues raised in this Report are still going on at this point. As much as we would have thought that a lot of them were teething issues or they were happening due to the fact that the counties were still being set up, we are probably dealing with a lot of those issues five years later. One of them is under-performance on revenue collection. That seems to be an issue in all the counties. We have to find a way to get revenue collection audited in all the counties, especially Nakuru County, where we have had the amount going down over time, which should not happen. We should be getting more than what we had the previous year and the year before. This has not been the case. Madam Temporary Speaker, when you have revenue collection that is going down and inflated budgets that are based on revenue collection that is not going to materialise, then you have a lot of projects that cannot be completed at the end of the financial year because the money is not there. I am also extremely concerned by the delayed payments of pending contracts. Contractors in the county are complaining that many of them are being auctioned. The bank loans are yielding interest year after year. The counties get money to make these payments yet we continue to have extremely high bills. This needs to be looked into critically and that is why CPAIC should give us these reports in real time for us to keep up with what is going on so as to oversight real time. Madam Temporary Speaker, the bloated workforce, which is a big issue in Nakuru County and seems to be the case in a lot of other counties in the country, is more of a mismanagement issue than anything. You have a County like Nakuru where you hear that only 10 per cent was used for development in the financial year 2013/2014, which is unlawful, for the law requires a minimum of 30 per cent. Even though they are now saying that they are at 30 per cent, that is just a bare minimum; the very basic. We cannot have these governors complain of an extremely bloated workforce when they continue hiring then end up not having money for development such as roads, medicine, hiring Early Childhood Development (ECD) teachers or providing water to the citizens of the county at the end of the day. It is ridiculous, but I believe that as we move forward as Senate - like my colleague, the Senator for Nairobi County said, with the coming of the Monitoring and Evaluation Funds, as Senators - we will be able to oversight the county governments. This is because many times when we try to oversight them, they think that we are just criticising them. I am a strong believer that we cannot entrust public resources to an individual then they expect us to be silent when things are not working out well or when there is no accountability in the counties. I also look forward to us being able to access the Monitoring and Evaluation Funds in order for us to keep the county governments in check. I am also happy to say that from the Cash Disbursement Schedule, I see that Nakuru County is getting over Kshs11 billion this financial year. That is a lot of money which should alleviate the problems that the citizens of Nakuru County face. It is enough money to make sure that the lives of the people at the county are changed. As we move forward and as they continue bringing us these reports - hopefully in a timely manner - we shall make sure that we do not just pass these Cash Disbursement Schedules and not be able to follow that money to the county so as to make sure that it is being properly used. As I conclude, I support the very good work that is being done by CPAIC and as part of the leadership in this House, I think that it is one of the Committees that is doing us proud as Senate. This is because they are doing a lot of work and they have not been intimidated by the governors. You are able to call them and have them respond to questions which must be the way forward. We cannot fold our hands and hope that they will do what is right. We must get them to do what is right. As we continue with the other reports, I am happy that you have said that you will consolidate them for it seems impossible, for example, in the case of the financial operations of the Nakuru County Executive for the financial year 2013/2014. We still do not have those of Nakuru County Assembly and from there, we have 2014/2015 all the way moving forward. As it has been said - I have heard it said in the Senate Business Committee and other Committees - Senators are ready to help and be there when called upon by CPAIC in any way that they can help make this process a bit faster. Thank you. I support."
     },
     {
-      "order": 102,
+      "order": 103,
       "id": "entry-842516",
       "label": "speech",
       "level": "3",
@@ -1227,7 +1239,7 @@
       "text": "Thank you, Madam Temporary Speaker. I also rise to give my very hearty congratulation to the Committee that has prepared this Report. I also want to join hands with my colleagues in urging that we expedite finalisation of audit reports that have been pending for the financial year 2013/2014. We are not able to discharge our work effectively as Senators unless we get able support from the Committee that is chaired by my good friend, Sen. M. Kajwang'. As we speak, if I was to use my County of Nyamira as an example, we have not finalised all the audit queries that were raised by the Auditor-General for the County of Nyamira for the period 2013/2014. In fact, the Governor of Nyamira County is yet to appear before this Committee to respond to audit queries that were raised by the Auditor- General. If we move at this pace, we will find ourselves in a situation where a Senator will serve a second term, leave office without being held accountable by us, as Senators. I want to remind this House that---"
     },
     {
-      "order": 103,
+      "order": 104,
       "id": "entry-842519",
       "label": "speech",
       "level": "3",
@@ -1239,7 +1251,7 @@
       "text": "I did not get you right. Did you say the Senators or the governors?"
     },
     {
-      "order": 104,
+      "order": 105,
       "id": "entry-842520",
       "label": "speech",
       "level": "3",
@@ -1251,7 +1263,7 @@
       "text": "I am sorry I was referring to the governors, Madam Temporary Speaker."
     },
     {
-      "order": 105,
+      "order": 106,
       "id": "entry-842521",
       "label": "scene",
       "level": "3",
@@ -1263,7 +1275,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 106,
+      "order": 107,
       "id": "entry-842522",
       "label": "speech",
       "level": "3",
@@ -1275,7 +1287,7 @@
       "text": "There are a lot of expectations from the people that we represent; in terms of how we monitor and put our governors and the executives in our counties to account. So, unless we go by the model being suggested by my able Senators who have spoken; both Senators Sakaja and Kihika; we will reduce this into something that is like a SACCO, whereby the auditor will prepare reports, they are presented before the House, we summon governors, they give some answers, we table the report and life continues. I will give you an example. If you look at the audit queries from my county of Nyamira for the Financial Year 2013/2014, the county government set aside Kshs23 million to put up five boreholes in different regions within the county. The audit query by the Attorney-General points out to a case where this work was not done, where the people are not getting water from those boreholes and there is no value for money. If you look at the period that has lapsed, money was spent in Financial Year 2013/2014, and we are in 2018 and those queries have never been answered. How do we build confidence in the people that we represent that the money that we send to counties will be put into good use? We need to be innovative, we need to involve the citizens and push for social accountability where the people themselves can have a scorecard. Article 174 of the Constitution is very clear that self-governance is with the people themselves so as we budget for a project, we move with the people and as we want to finalise the project before we release the payments, the people must be told that this was what was budgeted for, this contract was issued to company X, we have now finished and here are the results. But we cannot just pay people, simply because money has been sent to counties. That goes against the Constitution, the Public Finance Management Act, and the expectations of the people. It is immoral and it is something that the Senate should not support. We will never achieve that dream of extending accountability to the citizens unless we get our oversight fund and most of us come from vast counties. If you were to traverse every ward of your county, you need resources, you need to organize the people, you need to mobilize people to come and do their social accountability by being told this is the money that came from the Senate, this was what was budget for by the county government, this is the project that was meant to be undertaken and these are the results. If there are no results, then the people themselves will take it up. However, if we limit ourselves to this issue of just receiving reports from the Auditor-General, we come and debate them here; we will never make accountability of our governors effective. So, I support this report by making an appeal to all of us beginning with the leadership of the Majority and the Minority side that we need to look for a quick fix solution on how our oversight funds can be made available to the Senators so that we can undertake our mandate under Article 96 of the Constitution more effectively. With those few remarks, I support."
     },
     {
-      "order": 107,
+      "order": 108,
       "id": "entry-842525",
       "label": "speech",
       "level": "3",
@@ -1287,7 +1299,7 @@
       "text": "Yes, Sen. (Dr.) Getrude Musuruve"
     },
     {
-      "order": 108,
+      "order": 109,
       "id": "entry-842526",
       "label": "speech",
       "level": "3",
@@ -1299,7 +1311,7 @@
       "text": "Madam Temporary Speaker, allow me to thank you for giving me this opportunity to add my voice to this Motion. This Motion is quite relevant in this country, especially given the fact that we are in the era of devolution. It is also relevant to the Senators and it affects us directly. We are here to represent the counties and the interests of their governments. I want to commend Sen. M. Kajwang' for the report that he has done which is valid. I want to say that for service delivery, transparency and accountability, oversight of county public accounts and investments is very important. I want to say that investments in a county are an indicator of development. If you go to a county and find out there a lot of investments, you know very well in that county, the youth are going to be employed and employment is a core issue in this country. There are youths who are unemployed. So, in a situation where a county caters for its youths and provides employment with regard to investments that will create employment; that is something that can be very good for counties. Even as you talk about public accounts and investments, there is need for public participation. We are serving the people of this country and they have a stake in what happens in the counties with regard to the investments and development that takes place in these counties. Sometimes mwananchi can be in the dark about what is happening in the counties, and yet they are entitled to know. So, there is need to build capacity for people to really know exactly what they need to ask and what their right is. There is also need for an audit to know what exactly is happening in the counties so that we get to know which county is doing what in terms of development. When we talk of development, we are looking at issues like hospitals, and finding out if we have the infrastructure, drugs and facilities that are needed. When it comes to schools, then we will be asking whether there are enough schools for the children in that particular county. If schools are not enough for children in that county the children will be left behind---"
     },
     {
-      "order": 109,
+      "order": 110,
       "id": "entry-842527",
       "label": "scene",
       "level": "3",
@@ -1311,7 +1323,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 110,
+      "order": 111,
       "id": "entry-842529",
       "label": "speech",
       "level": "3",
@@ -1323,7 +1335,7 @@
       "text": "Order, hon. Senators! I would like to draw the attention of Senators that the matter that we are discussing is of utmost importance and if you need to consult, kindly, consult in a manner that does not interfere with our debate."
     },
     {
-      "order": 111,
+      "order": 112,
       "id": "entry-842530",
       "label": "speech",
       "level": "3",
@@ -1335,7 +1347,7 @@
       "text": "Thank you, Madam Temporary Speaker. I can see very well that you are really getting the---"
     },
     {
-      "order": 112,
+      "order": 113,
       "id": "entry-842531",
       "label": "scene",
       "level": "3",
@@ -1347,7 +1359,7 @@
       "text": "(Sen. Olekina crossed the Floor without bowing to the Chair)"
     },
     {
-      "order": 113,
+      "order": 114,
       "id": "entry-842532",
       "label": "speech",
       "level": "3",
@@ -1359,7 +1371,7 @@
       "text": "Sen. Olekina, please, it is not good to obstruct any Member who is on the Floor. Kindly, observe that."
     },
     {
-      "order": 114,
+      "order": 115,
       "id": "entry-842533",
       "label": "scene",
       "level": "3",
@@ -1371,7 +1383,7 @@
       "text": "(Sen. Olekina resumed his seat)"
     },
     {
-      "order": 115,
+      "order": 116,
       "id": "entry-842534",
       "label": "speech",
       "level": "3",
@@ -1383,7 +1395,7 @@
       "text": "Madam Temporary Speaker, I would want to really thank you. This Motion is very pertinent especially with regard to people of this country because this is a core mandate. When you look at Article 96 of the Constitution, it states clearly that we represent the counties and the interest of their governments. It is a Motion that we must be really keen about because we want devolution to work for the people of this country. There is every need for Senators to oversight what is happening in the counties but it reaches a time you wonder how to oversight. Let me give an example of the nominated Senators and even all of us; we do not have a kitty to oversight what is happening in the counties. You really want to ensure that the common man gets services but you do not have even money to take you there. Even oversight requires money. That is why it is necessary and important that Senators should be given a kitty and especially nominated Senators so that they can do their oversight role as they are constitutionally mandated. We have been employed to serve with commitment, but we cannot be committed without money. We need oversight money so that we can go out to the counties to observe what is happening. Are counties being inclusive regarding Persons with Disabilities (PwDs)? What is happening in the schools, hospitals and so on, and so forth? Madam Temporary Speaker, I strongly support this Motion. I thank Sen. Kajwang' for coming up with a candid report which will help us to know what exactly is happening in the counties. This report will help us to move with speed with regards to oversighting what is happening in the counties. It will also help us to ensure that we oversight the county public accounts so that people get value for money. Thank you very much,Madam Temporary Speaker, for giving me this opportunity."
     },
     {
-      "order": 116,
+      "order": 117,
       "id": "entry-842535",
       "label": "speech",
       "level": "3",
@@ -1395,7 +1407,7 @@
       "text": "Thank you very much, Madam Temporary Speaker, for giving me this opportunity to support this report. I start by congratulating the Committee that worked on it and brought it to the Floor of the House."
     },
     {
-      "order": 117,
+      "order": 118,
       "id": "entry-842537-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1407,7 +1419,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) left the Chair]"
     },
     {
-      "order": 118,
+      "order": 119,
       "id": "entry-842537-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1419,7 +1431,7 @@
       "text": "[The Temporary Speaker (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 119,
+      "order": 120,
       "id": "entry-842538",
       "label": "speech",
       "level": "3",
@@ -1431,7 +1443,7 @@
       "text": "The Senate does oversight. A lot has been done regarding the report of Nakuru County that has been laid here. This is revenue that is collected. However, the report cannot really open up on the Floor of this House to state if the CPAIC Committee -which was dealing with these cross checks - went ahead and did physical checks in the counties to confirm whether what was given to them by the auditor who did this report was correct.It is unfortunate that, at the moment, the Senate does not have the capacity to go to the counties to cross check and to physically observe what has been cited in this report. It is high time that the Senate is capacitated to go down to the counties; not only to Nakuru County, but also to other counties whose reports we will examine. Madam Temporary Speaker, it is not enough for the governors to be summoned to the Senate to be asked a few questions here and there and to discuss the auditor's report. It is unfortunate that a lot of money is collected in the counties in billions; and much more is remitted by the national Government to the counties. Yes, this is devolution and we want devolution to work; but are we sure that the money that is remitted to the counties is being used in the right way? Counties have been given all the powers to utilise their monies according to their budgets. They are even given supplementary budgets. The money is delayed sometimes, and if there is a delay, they work on the budgets and utilize the money that was supposed to be used in other areas of interest. Where is the priority? How do they prioritise the monies that they are using on the projects? In addition, there are various donors that give money to the counties. Grants are being given to counties. Procurement is taking place. How sure are we that if this report is given to the Senate, the report is as accurate as when the Committee itself could have gone to the ground to work on it? It is high time that the capacity of the Senate should be built and empowered to go to the counties to cross check and do audit of all accounts so that when the reports come here, it is real time and it will assist devolution to work. Madam Temporary Speaker, We agree that when funds are delayed, it affects projects in the counties. However, when the counties eventually receive this money, do they use it in the right way? Are the counties up to the task such that when the money is delayed, it is used in the right way when it is eventually released? The CPAIC of the Senate needs to go beyond just summoning governors and asking them questions; it needs to certify that what they are answering is the right thing. We want to get exact budgets, expenditures and estimates to confirm that this money, which was meant for these county governments,is working for devolution. Madam Temporary Speaker, it is a challenge to examine the reports of 2013/2014 when the county leadership has changed. I congratulate the Committee that is looking at this report because it is hard to look at the reports, especially where revenue and expenditure is involved. It is difficult to look at a budget where leadership has already changed because there are new MCAs and governors in those offices. How sure are you that what you are given, what you are certifying or putting on the table was utilised in the"
     },
     {
-      "order": 120,
+      "order": 121,
       "id": "entry-842540",
       "label": "speech",
       "level": "3",
@@ -1443,7 +1455,7 @@
       "text": "right way? Systems need to change. Audit and oversight should be done when the leadership is still in office. A system is supposed to be put in place so that real time audit and project implementation corresponds to what is being presented to our Committees. Thank you, madam Temporary Speaker. I beg to support."
     },
     {
-      "order": 121,
+      "order": 122,
       "id": "entry-842541",
       "label": "speech",
       "level": "3",
@@ -1455,7 +1467,7 @@
       "text": "Madam Temporary Speaker, I support the adoption of the CPAIC report of the Senate on the Auditor General's Report for Nakuru County for the FY 2013/2014. This is an old report and the Committee which handled it was the Committee for the first Senate. That is how far we are from doing a proper audit of what is happening. Things took place a long time ago, yet we are commenting on them now. That is serious, because we are not providing effective oversight if we are handling reports four or five years down the line. Madam Temporary Speaker, the Senate is supposed to oversight funds allocated from the national revenue to the counties under Article 96(3). Those are not the only sources of revenues that the counties have; they also generate their own funds. I hope that county assemblies are doing a proper oversight for those funds, because they are supposed to do oversight on those funds. We are relying on the Auditor-General's report, which is just a paper audit because he also does not go to the field to establish whether the projects that the county says it has done and expended monies on are actually on the ground. Therefore, what we are looking at is just a paper audit. As Senators, we are supposed to do more than that. We represent particular counties in terms of delegations. We should have the capacity to oversight on the ground and make sure that there was public participation when those projects were developed in the first place. I do not think the Auditor-General does that. We also have to make sure that budgeting is also done well. This is because what the people proposed was not actually captured in the Auditor-General's report. As the Senate, we have been struggling, for the last five years or so, to make sure that we have funds to oversight these counties. With those funds, we can have real time audits and establish whether what the county is budgeting is what was actually prioritized by the public. Coming to the Auditor-General's report, the Auditor-General is supposed, by law, to submit the audited accounts for a financial year six months after the lapse of the said financial year. However, this report came one year after the lapse of the financial year. The financial year ended in June, 2014; but this report came to the Senate in June, 2015. That is already six months out of the deadline. When you look at the issues that the Auditor-General raises, they are mostly not the real problems on the ground. They will do audits but pick issues which can easily be substantiated by the county or whatever office they are auditing. By doing that - and I am sure this is what the CPAIC is going through - you will get reports, but by the time you are interrogating them, the auditor will say that the issue has been sorted out. You will then end up with nothing to interrogate, even at that level. Madam Temporary Speaker, I attended one such Committee meeting where my Governor was submitting his reports, and on most of the issues, the auditor said that they had been sorted out and settled. Therefore, there was nothing to respond to. Given that that is how the Auditor-General's office works, we, as Senators need to push to have effective ways of auditing or oversighting these counties. If we get the oversight funds, the Senators must also have a parallel oversight report for the counties which should also be submitted to the CPAIC. I have always wondered how we will channel our reports to the Senate and get governors to come and respond to those issuesif we get these oversight funds. While we are working on a mechanism of getting these funds - hoping that this time we will have some headway - we must also get ways of having those reports tabled on the Floor of the Senate. We must also find a way to hold governors accountable for the issues raised in the reports that will be generated by the Senators. I do not know how that will work out, but that is an area which we need to think about. Madam Temporary Speaker, I support the adoption of these reports, but urge the Committee to come up with a way of fast-tracking them so that we can be dealing with live issues instead of always being three or four years behind. By doing that, we will be providing effective oversight; otherwise, we will just be dealing with historical issues, which will not improve the performance of the counties. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 122,
+      "order": 123,
       "id": "entry-842544",
       "label": "speech",
       "level": "3",
@@ -1467,7 +1479,7 @@
       "text": "Hon. Senators, I see no further request. I, therefore, ask the Mover to reply."
     },
     {
-      "order": 123,
+      "order": 124,
       "id": "entry-842545",
       "label": "speech",
       "level": "3",
@@ -1479,7 +1491,7 @@
       "text": "Thank you, Madam Temporary Speaker. I wish to thank the Senators who have spoken to this Motion and tendered their unconditional support to it. We have taken note and received very useful feedback from all the Senators, especially from the Senator for Nakuru, whose county we are discussing today. Madam Speaker, this could be the fourth such debate since this House was re- established by our Constitution.When I spoke earlier, I indicated that in the first Senate - post 2010 - we were never able to discuss any Motion or adopt any of the reports from the counties. Despite the delays, we are all familiar with the saying,\"the wheels of justice turn slowly, but grind exceedingly fine.\" It is better late than never. In Nairobi, we have seen persons who used to work for the defunct authorities being convicted just this year or last year. Therefore, we will not be fair to the people in the counties if we leave a year without analysis. We acknowledge that the approach to analysis must change. Madam Temporary Speaker, for the record, it is important that we, as a Committee, point out a few things on the basis of the submissions from the hon. Members. First, oversight is a collective role of all Senators and all the Committees of the House. In fact, the CPAIC has been given that specific role to look at the Auditor- General's reports. However, the oversight function - like what the Committee on Health did today by going to Pumwani Maternity Hospital -is part of proactive oversight. In fact, the Committees of this House have a better chance and facilitation to carry out proactive oversight than the CPAIC, which relies on a report sent to this House by the Auditor-General one year after events have happened. Therefore, I want to urge all hon. Members, through their Committees, to collectively and individually ensure that we do not leave the oversight job to one Committee of the House. Secondly, Madam Temporary Speaker, some clarity has been sought on what county assemblies and the Senate ought to do. We believe that county assemblies should be looking at operational and transactional elements of oversight; whereas the Senate should be focused on the performance audits and looking at bigger issues. We believe that county assemblies should carry out primary oversight while the Senate carries out secondary oversight. In the case of the Report for Nakuru County, I want to encourage the County Assembly of Nakuru and its Public Accounts Committee - which is chaired by a gentleman called Peter Mwamba Kajwang' - to do their job and make sure that the recommendations of the Auditor-General for this particular year and subsequent years are dealt with. Madam Temporary Speaker, we have received some good suggestions on how to move ahead. However, the Committee has also been thinking about many suggestions. One of my Members, Senator Olekina, has been thinking about an Audit and Oversight Bill. Therefore, there are certain initiatives that we will bring to this House very soon. We need a Public Audit Procedures Bill or public audit regulations that will define the scope and draw the line between the role of the Senate and county assemblies as far as the audit of the county accounts are concerned. Madam Temporary Speaker, we also need to establish an office of legislative auditswithin Parliament. We established a Parliamentary Budget Office (PBO) because we realised that parliamentarians are not experts in budget matters. We set up the PBO to support Parliament in the budget role. Parliamentarians are not necessarily auditors; in fact we have only a handful of Certified Public Accountants (CPAs) or internal and external auditorsin this House. We need to build capacity internally. Madam Temporary Speaker, I was part of a delegation that went to several states in the United States of America (USA), and we could see the commonality across most of these States. At the state legislature level, there is an office of legislative audits. What would this office do? For instance, the Senator for Nairobi wanted a special audit on Nairobi County revenue. If you go to the Auditor-General he will tell you stories about budgets and remind you that parliamentarians are the ones who are not giving him an adequate budget. But if he had an in-house office of legislative audits, it could draw a program of audits that it could conduct at the behest of the Members of the House. Madam Temporary Speaker, my Committee has discussed with the Auditor- General on the need to carry out a performance audit on the health sector. We believe that the Government has good intentions of providing universal health to all citizens, but health is devolved. Therefore, before we allocate money in the name of universal healthcare, it would be important to conduct a special audit on the investments in the counties. We have said a lot of things about the Managed Equipment Services scheme and how expensive it is for counties. The Auditor-General has considered this proposal and it is something that we will be moving forward with, regarding definition of scope, timelines and financing, because it cost some money. We hope that the first performance audit done in this House will be tabled within this Session. Finally, Madam Temporary Speaker, we want to make sure that this House and Committee does not play the role of a mortician, but a more proactive role of physicians. That will only come true when we establish the Monitoring and Evaluation Fund or put up structures for proactive monitoring and evaluation that will involve all Members of this Senate in oversight, audit and scrutiny of expenditure in the counties. Madam Temporary Speaker, I thank everyone. Pursuant to Standing Order No.61(3), I request that you defer the putting of the question on the Motion to a later date. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 124,
+      "order": 125,
       "id": "entry-842550",
       "label": "speech",
       "level": "3",
@@ -1491,7 +1503,7 @@
       "text": "Hon. Senators, this being a matter that affects counties, we will definitely not proceed to vote because it requires voting by delegations. I, therefore, allow the application by the Senator that we defer the putting of the question to another date. I rule that this matter be placed on the Order Paper tomorrow."
     },
     {
-      "order": 125,
+      "order": 126,
       "id": "entry-842551",
       "label": "scene",
       "level": "3",
@@ -1503,7 +1515,7 @@
       "text": "(Putting of the question on Motion deferred)"
     },
     {
-      "order": 126,
+      "order": 127,
       "id": "entry-842552-split-before-95411ca9-f81c-4468-a34b-bb062d93ce90",
       "label": "speech",
       "level": "3",
@@ -1515,7 +1527,7 @@
       "text": "Next Order."
     },
     {
-      "order": 127,
+      "order": 128,
       "id": "entry-842552-split-selected-50c9af24-9f7e-40ad-819a-461504526afb",
       "label": "heading",
       "level": "3",
@@ -1527,7 +1539,7 @@
       "text": "ADOPTION OF CPAIC REPORT ON FINANCIAL OPERATIONS OF KILIFI COUNTY EXECUTIVE FOR FY 2013/2014"
     },
     {
-      "order": 128,
+      "order": 129,
       "id": "entry-842553",
       "label": "speech",
       "level": "3",
@@ -1539,7 +1551,7 @@
       "text": "Madam Temporary Speaker, I beg to move:- THAT, this House adopts the Report of the Sessional Committee on the County Public Accounts and Investments on the inquiry into the Financial Operations of Kilifi County Executive for the Financial Year 2013/2014 (1st July 2013 - 30th June, 2014) laid on the Table of the House on Tuesday, 19th June, 2018. Madam Temporary Speaker, a lot has been said in the earlier Motion on how timely these reports ought to be, and the approach we need to take to make sure that we are more of physicians than morticians. I will not repeat what has already gone on record. Kilifi County appeared before the CPAIC on 11th August, 2016, on 16th August, 2016, and on 17th August, 2016 to go through the Report of the Auditor-General on the financial operations of the Executive for FY 2013/2014. With the approach where a county appears before the Committee three times and we have 47 counties, it means it will take several years for this Senate to exhaust all the counties. These are just appearances before the Committee. You have to go to report writing, adoption of the report, table the Motion and then debate it. This means that one county could take collectively about 14 days for it to be processed. That is why the concerns of Members are extremely valid and we must find a better way of doing this. Nonetheless, the Committee looked at some of the issues that were raised by the Auditor-General. Madam Temporary Speaker, Kilifi County had significant issues of procurement that had been flagged by the Auditor-General. First, the Governor of Kilifi County used Kshs140 million to buy a residential house; I am told it is called the \"Kilifi State House.\"The Auditor-General indicated that the procurement plan did not have a provision for purchase of the house. Whether there was a procurement plan or not, what caught the attention of the country at that point was the lavishness, the luxury and the manner in which counties were conducting themselves. The Committee, having sat with the Governor and the Auditor-General, eventually cleared this audit query. This brings about the issue of compliance versus value for money. Are we going to clear issues because someone complied with the procurement regulations, or is this Senate going to focus on value for money on the kind of investments and decisions that governors are making? This is a live issue. Just the other day, there was an outcry over speakers who wanted to use millions of shillings to put up houses. This is a matter that is before the Committee on Finance and Budget, the Commission on Revenue Allocation (CRA) and the Salaries and Remuneration Commission (SRC). We need to come up with a model for houses of governors, their deputies and speakers to avoid a situation where each county is going to spend Kshs140 million for the governor and similar amounts for the deputy governor and speaker. Madam Temporary Speaker, another issue that was flagged out was that the Governor's Office was refurbished at a cost of Kshs43.615 million. You will remember that Kshs140 million was spent on the Governor'shouse and now Kshs43.6 million was being spent on refurbishing the Office. You would expect a house worth Kshs140 million to double as an office. I have seen the Deputy President operating from Karen, which is his residence, but still functions as an office at the same time. Nonetheless, Kilifi County spent an additional Kshs43.6 million to refurbish the Office. Thirdly, legal services were procured at a cost of Kshs29 million. Those were legal services relating to conveyancing for the purchase of Kshs140 million-shilling house. Documents were not provided to the Auditor-General, but at the time the Governor appeared before the Committee, the documents were somehow present. What is interesting is that the county had a legal officer but still went ahead to spend Kshs29 million on procurement of legal services. Furthermore, Madam Temporary Speaker, the county procured ambulances at a cost of Kshs29.96 million and the Auditor-General had raised issues about compliance with procurement procedures. We have seen this across the country. Many counties are spending millions of shillings to buy vehicles. They put red crosses on them, assuming that a vehicle with a red cross is an ambulance and they pay a lot of money. The Committee raised questions about value for money for some of the investment decisions. Furthermore, the county procured tractors at a cost of Kshs41.99 million and civil works at a cost of Kshs122.8 million. There were a lot of procurement queries coming out of Kilifi County but eventually the Committee was convinced by the Auditor-General to clear the queries because he was satisfied that documentation had been provided. Therefore, the focus seemed to have been on ticking of boxes rather than focusing on value for money for the public funds. When we are concluding the discussion on housing benefits for governors, deputy governors and speakers, we should revisit the issue of Kshs140 million-shilling house for the Governor of Kilifi County. Finally, Madam Temporary Speaker, the Committee also observed that revenue collection had underperformed by 45 per cent. The county had a Kshs735 million target, but only collected Kshs495 million. One interesting issue that comes from the coastal counties and several other counties is that part of the failure in revenue collection is as a result of underperformance of rates. The counties have talked about valuation rates that are outdated and cannot be applied presently to establish the right amounts payable to the counties as rates. The rest of the issues have been captured in the Report. Madam Temporary Speaker, I beg to move that this House adopts it with the recommendations that are therein. I wish to request, with your permission, that Sen. Olekina seconds this Motion. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 129,
+      "order": 130,
       "id": "entry-842558",
       "label": "speech",
       "level": "3",
@@ -1551,7 +1563,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to second this Motion. From the onset, I wish to state that although I am a Member of the CPAIC and I am seconding this Report, I am disappointed.I have looked at the Report and I have seen that the people of Kilifi County lost millions of shillings. In fact, oncethis Report isadopted, the Ethics and Anti-Corruption Commission (EACC) should be looking at possible loss of finances from Kilifi County. Madam Temporary Speaker, looking at this Report, it was done by very able and distinguished Senators. We now have only one of them - Sen. Wamatangi -in our Committee. This is the problem we have when, as a Committee, we have to own up to a Report which was done but not adopted by the last House. When you look at the men and women who sat in that Committee, they are people I consider are of integrity. However, when you look at the final recommendations they came up with, I wonder why they should not have just recommended that the Governor of Kilifi County be prosecuted for misuse of public funds. How do you spend Kshs180 million for building your residence? How do you spend Kshs50 million for fixing your office? How do you spend Kshs30 million for legal fees, yet you are supposed to have a County Attorney? Madam Temporary Speaker, when you look at the observations of the Committee that did this work, they found out that most of the transactions which were being carried out in Kilifi were on restricted tendering. Kilifi is a very small county, if I may say. When they are supposed to benefit from the money which we send from this House, a huge chunk of it goes towards making the life of a few people look like demagogues.This is sad; I hope that the Secretariat will follow up certain recommendations. Madam Temporary Speaker, one of the recommendations was the amendment of Section 154(2)b of The Public Finance Management Act. That Committee sat,deliberated, interviewed and interrogated the governor. The staff should have ensured that they brought those amendments to this House. It is only good on paper. Madam Temporary Speaker, I am an extremist for truth and justice. It is very sad and I hate the fact that when someone has been tasked with a fiduciary responsibility by the people of that county, they end up using that position to make their life better, leaving the people they are supposed to serve suffering. This is a total disregard of the rule of law and the Public Procurement and Disposal Act. This is why I insist that this Senate should now be moving towards ensuring that the Auditor-General looks at the Public Audit Act. Section 62 of the Act is very clear that we cannot be looking at Auditor-General's Report where he says that he was not provided with certain documents. Why do you not apply Section 62 of the Public Audit Act and ensure that if there are certain documents you are supposed to get on time, you receive them? In any case, if there are issues,Section 99 of the Public Finance Management Act is very clear on the penalties and surcharge. The Committee that we sit in now has fought hard to preserve its integrity. It has surcharged certain governors who appeared before uswhodid not provide the documents they were supposed to provide. To some point, Madam Temporary Speaker, I agree with my good friend, the Senator for Marsabit County. When he sat in our Committee, the auditor said, \"This issue was resolved.\" However, in Kilifi County, there were issues of imprest. The law is very clear, even for Senators, that when Senators travel, they only have 48 hours to surrender the imprest. What is the penalty if you do not surrender imprest? You are supposed to be charged with interest. We are not sure now, as we adopt this Report--- Madam Temporary Speaker, I wish that the Senator for Kilifi County was here to interrogate this Report. Even before we contribute to this Report, I wish that all Senators will take time and read the recommendations given by that Committee. There are some serious recommendations here and I hope that the EACC will pick up these issues. On imprest, interest should be charged based on market rates from 2014 until now. Do we know whether that money was recovered? Madam Temporary Speaker, when we were talking earlier on, Sen. Sakaja brought up an issue about this Senate having a way of performing the oversight role. I am actually disappointed by this Senate and also by the Secretariat because I started working on a Bill on County Oversight and Public Participation eight months ago. The Bill was going to ensure that the Senator and the people on the ground work with the Office of the Auditor-General and the Controller of Budget to monitor what is going on there. When you involve the community on issues that are affecting them--- I am not saying that the Auditor is compromised, but when you read this Report and you look at the observations or the queries, then later on you are told that they were cleared, you start questioning whether there were any elements of complicity.When you look at this Report and you are told that it was a restricted tender, what does the law say aboutrestricted tendering? Does everything have to be procured on a restricted tender? Why is it that in Kilifi County, 90 per cent of all the procurements for that year were on restricted tenders? Madam Temporary Speaker, it is imperative that we look at these reports and follow through, because one of the problems we have in this House is that we do not have an Implementation Committee. I request my chair that we now follow through and ensure that once this Report has been adopted, we follow up and ensure that whatever has been recommended has been implemented. How can a governor come in and the county government disregards the rule of law? One of the general recommendations which was given here is very clear. It says:- \"The County Government, on several occasions, did not follow the procurement rules and regulations in sourcing for goods and services.\" If you do not follow the rule of law then, of course, you could be running a kiosk in the name of running a county government. Madam Temporary Speaker, when you look at some of the other issues, they have baffled me. I hope that we will find a way out. Also, the people of Kilifi County can come back and demand value for money. On the matter of collecting and remitting revenue--- Madam Temporary Speaker, I am happy to see my dear friend, Sen. 001, has just walked in. He was a Member of this Committee. I hope that he will contribute and shed some more light to help us understand how and why they just let this issue pass without following it through. Madam Temporary Speaker, I know that they visited Kilifi County, but on the issue of revenue collection and remittance. One of the recommendations that they came up with is that they wanted a special audit - which had been requested by the County Assembly - on allegations of non-collection ofrevenue. This Committee should have at least ensured that they followed through to ensure that the audit is carried out, and that revenue is collected on the ground and deposited into the county revenue account to benefit the people of Kilifi County. Madam Temporary Speaker, although by default we take ownership, being part of the CPAIC now, I am disappointed with the work which was done by the previous Committee. I hope that the EACC and all other entities will follow through. There is no point of us having a law yet we cannot implement it fully. Right now, we are here lamenting that Kenyans are going to be taxed heavily, yet when we are collecting money to send to the Exchequer, we cannot follow through to ensure that every single penny collected is banked to better the lives of those citizens. Therefore, this audit should be done. If the auditor comes back and says that they do not have a budget--- Surely! I think we may have to stop certain projects to ensure that there is a budget and an audit has been done so that the people of Kilifi County do not lose their money. Madam Temporary Speaker, as I second this Report, I hope that when this House adopts this Report, we and the Senator for Kilifi County can follow through on the general observations. This is because when these issues are not resolved; when the Auditor-General leaves a matter from the previous year, it carries on and on and that query will never be closed. It is imperative for us to know whether in subsequent years--- For example, from the Financial Year 2013/2014 when that imprest was given to the staff, and since the recommendation of this Report which said that it must be surrendered, there is no way you will tell me that it was surrendered. Madam Temporary Speaker, there are also certain recommendations that my good friend, Sen. Wako and his colleagues, came up with in terms of guidelines of imprest. I think they are already in place. It, therefore, behooves the Senator for Kilifi County and all of us, that when we are carrying out oversight, we do not just spend time and put things on paper;just come here, debate and adopt the report. In most cases, we adopt the reports when there are only a few Members in the House who can take time to read though and see where Kenyans are losing money and where the problem is. There is no way we will defend devolution if we do not demand fiduciary responsibility in county governments. With those many remarks, Madam Temporary Speaker, I beg to second."
     },
     {
-      "order": 130,
+      "order": 131,
       "id": "entry-842564",
       "label": "scene",
       "level": "3",
@@ -1563,7 +1575,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 131,
+      "order": 132,
       "id": "entry-842565",
       "label": "speech",
       "level": "3",
@@ -1575,7 +1587,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me the opportunity to speak on this Report. I must confess that I have not refreshed my memory on this Report. I have just walked in and nobody wants to speak. Today, I am faced with dual representation---"
     },
     {
-      "order": 132,
+      "order": 133,
       "id": "entry-842566",
       "label": "speech",
       "level": "3",
@@ -1587,7 +1599,7 @@
       "text": "Did you say that nobody wanted to speak?"
     },
     {
-      "order": 133,
+      "order": 134,
       "id": "entry-842567",
       "label": "speech",
       "level": "3",
@@ -1599,7 +1611,7 @@
       "text": "No, Madam Temporary Speaker; I did not say that. I said that I have just walked in---"
     },
     {
-      "order": 134,
+      "order": 135,
       "id": "entry-842568",
       "label": "speech",
       "level": "3",
@@ -1611,7 +1623,7 @@
       "text": "I have a list of people who want to speak."
     },
     {
-      "order": 135,
+      "order": 136,
       "id": "entry-842569",
       "label": "speech",
       "level": "3",
@@ -1623,7 +1635,7 @@
       "text": "Madam Temporary Speaker, I know it is a very long list. I was being challenged by a dual team of people from Maasai land. There is a very serious one sitting in the Chair and another one challenged me as I walked in. I, therefore, felt a bit intimidated to speak on this. Madam Temporary Speaker, let me just touch on the general issue, which comes at the very end. When I was in this Committee, we noticed that the revenue collection targets that counties had set for themselves were not being met. The fact that they had an opportunity to set those targets meant that maybe with proper collection, they could have achieved those targets. However, there were basically two main reasons why they were not achieved; and one of them is lack of experience. Some counties were over ambitious on how much they could collect. They were not realistic and this being the first time, we sort of said \"Okay, be realistic next time.\" Madam Temporary Speaker, the second reason is that some counties were not collecting enough; not because they had been over-ambitious in their targets, but to me, it was because of the fact that not everything that was being collected was being accounted for. One cannot explain why a county government should collect less than what used to be collected by the totality of the local authorities when they were in existence. We know that those local authorities never accounted for most of the money. They had very poor collection because the systems were not working and there was a lot of corruption. The collection was manual,with double receipting and so on, and so forth. However, in spite of that, they collected something. Therefore, when a county government now comes with all the personnel - they have employed the right people to do this - and proper targets but then collect less than what those local authorities used to collect, then there is something serious and more fundamental in that issue. Most likely, it is corruption. Madam Temporary Speaker, I am aware of one or two counties closer home where rumour has it that whatever is collected at the border, only a third is put into the system and two-thirds goes into pockets of people. That is why I believe that the Committee made a recommendation to the very last paragraph that:- \"The Committee recommends the matter of revenue collection and remittance was a very important matter and it should be revisited by the Committee as it is part of its oversight mandate.\" They felt that the Senate should go into the depth of the systems of collecting money by the counties so that nothing is stolen, because everything will be accounted for and goes through the system. Madam Temporary Speaker, I know that some counties have not been very active with what we call the \"Automated System of Revenue Collection.\" When I was in the Government, we were not quite happy with the way the Customs Department was collecting funds at the Port of Mombasa or in other places. In fact, we bought the computers and everything. Those computers were never put to any use at all because of the system of the people who were there wishing to continue with the same way they used to put money in their pockets. Those computers became obsolete. We should be worried that there will be a repeat of that as far as the county government is concerned. Madam Temporary Speaker, I want to support this Report of the Committee, where I was a Member, and plead with the Senate that when all is discussed, you will find that one of the common denominators in all these counties is the lack of proper collection of funds. Madam Temporary Speaker, county governments are not just going to rely on the so-called equitable funds from the national Government. They are now relying completely on that. The county governments which are going to make progress in this country, move and develop are those ones which are going to make their own collection of funds and find ways they can attract investments so that they can increase their tax revenue.In that regard, the issue of money takes center stage.The front stage of making the counties more reliable, rather than just waiting for what comes from the national Government and rely on it, is taken to corruption and so on, and so forth. That is why you sometimes find that most in county governments, executives, chief Officers, et cetera are living larger than life. Where is that money coming from? It could be corruption, but you may find it is because of the fact that not all the money they raise locally is properly accounted for. Most of it is taken in cash form, which why they live larger than life; even better than Senators. These are mere executives of county governments but who are living better than some of us, who have worked for the Government for a long time and what we have is what we have earned properly. Madam Temporary Speaker, I beg to support and wish to commend the Committee, Chaired by none other than Sen. M. Kajwang' and the very active member from Maasailand. I urge them to continue with the good work they are doing to really put these people to task on the various issues."
     },
     {
-      "order": 136,
+      "order": 137,
       "id": "entry-842572",
       "label": "speech",
       "level": "3",
@@ -1635,7 +1647,7 @@
       "text": "Hon. Senators, I now reduce the time to 10 minutes for each Member so that we can deal with all the Motions today."
     },
     {
-      "order": 137,
+      "order": 138,
       "id": "entry-842573",
       "label": "speech",
       "level": "3",
@@ -1647,7 +1659,7 @@
       "text": "Thank you, Madam Temporary Speaker. I support the Motion that the Senate adopts the report of the Sessional Committee on County Public Accounts and Investments Committee on the Public Investment on the inquiry into financial operations of Kilifi County Executive for the Financial Year 2013/2014. Madam Temporary Speaker, this is the first financial year for the county governments. This is because in the first half of 2013, the Transition Authority (TA) funds were given to the counties; but this could be the proper financial year in which the counties budgeted and expended the monies. If you look at this report, as much as it was the first one, it looks as if this county did all the wrongs which would be done by anybody who was doing public procurement. This is because it starts with unlawful expenditure, and then there are instances where procurement rules were not followed but goods and services were supplied as per the details of requisition.Then it says that the procurement rules were not followed and the Committee could not ascertain whether the public funds were used prudently. Alternatively, there were instances where procurement rules were not followed and the goods and services delivered did not match the specifications of the goods requested through the Local Purchase Orders (LPOs). There are instances where irregularities occurred and the county government entity detected and took disciplinary action; or where procurement rules were not followed but the Committee ascertained that no public funds were lost. There are also instances where the county government entity failed to submit the required documents during the times of audit, but subsequently submitted the documents. There were other instances where the Committee could not make conclusive decisions due to lack of sufficient information and documentation. Madam Temporary Speaker, this shows that theCounty Executive in this county was by then on a learning curve because they made all the possible mistakes. I hope that they are now in a better position when it comes to procurement, because we still have the same Governor in Kilifi. Madam Temporary Speaker, going forward, I urge the Committee to strive to deal with live issues. Any outstanding audit report for each county should be lumped together so that when the governor or the executive appears, they do it up to date, such that we do not call them for financial years 2014, 2015 and 2016.We shouldlump them together so that we clear with one county and then move on to the next. That way, we will fast-track the oversight process. Madam Temporary Speaker, if you look at the kind of issues which were raised, they are very serious because they all involve huge amounts of public funds. For example, the purchase of the governor's residence for Kshs140 million. Our Committee will have to do a technical audit to establish whether the county got value for money. We should not just rely on the Auditor General; we can engage professionals like quantity surveyors to establish whether there was value for money, because that building is still there. That way, we will be sure that public funds have been expended prudently. We need to make sure that we do proper auditing and even go beyond the auditor's report and do our own technical audits. That is where maybe either the Parliamentary Audit Office or the legal office comes in. Madam Temporary Speaker, on revenue which the counties generate, we need to look at what has been happening, because I know that this issue has been recurring since the last Senate. We have all been complaining that county governments are now collecting less than what previous municipalities were collecting, despite the fact that they did not have the same resources that the governors now have to raise those revenues. Even with all the due procedures mentioned by Sen.Wako, still they would generate more. That shows that it is not that the current county governments are generating less, but they are accounting for less than what they are actually collecting. We have cases where the county governments have been expending those revenues without submitting them to the County Revenue Account at the Central Bank of Kenya (CBK) as the law requires so that they can now be given authority to spend that money. There is also the issue of money not being deposited to county accounts. I do not think this is the case of undercollection, because they now have more capacity. I think that most counties have now digitized their revenue collection processes and it is just a matter of how that is captured. We also need to look at that instead of just focusing on what is given to the counties in the County Allocation of Revenue Act (CARA). We also need to follow up on how they are generating their revenues, because they are actually part of the budgets, which the county assemblies approve. If they under-collect or do not collect, then they are affecting the services that are delivered to the residents of that particular county. That revenue is collected directly from the residents. Therefore, if it is collected and unaccounted for, then as a protector of counties, we have to take it up with the counties to make sure that they account for whatever they collect and spend it well. Madam Temporary Speaker, I support the adoption of this Report and urge the Committee to move with speed so that we get to clear this backlog of the Auditor- General's reports."
     },
     {
-      "order": 138,
+      "order": 139,
       "id": "entry-842578",
       "label": "speech",
       "level": "3",
@@ -1659,7 +1671,7 @@
       "text": "Proceed, Sen. Sakaja."
     },
     {
-      "order": 139,
+      "order": 140,
       "id": "entry-842579",
       "label": "speech",
       "level": "3",
@@ -1671,7 +1683,7 @@
       "text": "Madam Temporary Speaker, Standing Order 220 creates the County Public Accounts and Investments Committee (CPAIC). With regard to the functions of this Committee, Standing Order No. 220 says:- \"The functions of the County Public Accounts and Investments Committee shall be- (a) pursuant to Article 96(3) of the Constitution, to exercise oversight over national revenue allocated to the county Governments; (b) pursuant to Article 229(7) and (8) to examine the reports of the Auditor- General on the annual accounts of the county governments; (c) to examine special reports, if any of the Auditor-General on the county governments funds; (d) to examine special reports, if any, of the Auditor-General on county public investments; and, (e) to exercise oversight over county public accounts and investments.\" Madam Temporary Speaker, this Report on Kilifi County is a classic example of the problem that we have, as I said earlier when we were speaking about the Report on Nakuru County. It seems that we are caught up in a mechanical process of accounting. We get the report of the Auditor-General and see where the gaps were; the governor then comes and explains that there were some receipts or documents which were not seen. The Committee confirms it and the observation is:- \"The Committee noted that the auditors had seen and verified the documents and recommends that the audit query be cleared.\" The Committee then goes to the next issue and says \"A house was bought for Ksh140 million. We have seen the documents and recommend that it be cleared.\" Looking at the kind of sins in Kilifi County Auditor General's Report for the Financial Year 2013/2014, if they are cleared, I do not know what any other governor would have done, in any kind of negative report that we will ever bring here. I cannot imagine what then would warrant a serious report.This is exactly the same thing that the county assembly has done. They will see the same report, ask the same questions and the governor has the answers. By the time we call the governor to the Senate, there is nothing different. There is no one who will ever come here shaking in their boots fearing that our questions will be deeper. For example, how is it that we can clear a query and not even make comments about the fact the governor went out and bought a house for Kshs140 million, and yet we have not even looked at the value for money? We have also not looked at whether it was a priority in the county at that time and that is the much it should have cost. The Committee's recommendation is:- \"Having considered and deliberated on the audit query extensively, the Committee recommends that the Senate clears the query.\" The observation is that- (a) noted that the amount exceeded the mandated 10 per cent and it was sufficient that it was referred to the county assembly for approval of the reallocation; (b) found no fault and noted a lapse in the existing law noting that it was necessary to amend the Public Finance Management Act, specifically Section 154 2(b) Sen. M. Kajwang' and Sen. Olekina, the dynamic duo at the CPAIC, we need to take our oversight to the next phase. We cannot be okay with the fact that Ksh43 million was used to refurbish an office. It cannot be on the record of this House one day that someone will come and say: \"We recommended that this audit query be cleared and the governor should in future submit documents for audit verification.\" Is that what Kenyans would feel about Ksh50 million being used to refurbish an office? Does it mean it was right just because one has receipts to show that it was done according to the rules? Madam Temporary Speaker, misappropriation of funds is not just stealing and putting them in your pockets; it is also using funds for the wrong reasons and going against the principles of Chapter 12 of the Constitution on Public Finance. When will we start looking at prudence? Is money being used prudently for the sake of the people? Madam Temporary Speaker, I think I will just sit down and ask my Whip to re- assign my Committees, so that I join the CPAIC or I will be going there as a friend. Let us have a thinking session. This mechanical process will go on and next year we will have the next report saying: \"The documentation was later provided and the Committee advises that the Senate clears the audit query. In future usirudie makossa hayo .\" Let us add value in the kind of reports we are creating. I understand that maybe the workload is making the latent talents of the Members not to come out in what they can do. Madam Temporary Speaker, legal fees is a problem in many counties. In fact, it has been a conduit to siphon money by using friends to bring legal claims. Through these legal claims the governor gets money.Despite the fact that documentation has not been provided, lawyers have a standard of how much they should charge for what service; there are limits. Was that looked at by the Committee? If you just go step by step, they are the same issues. As you move ahead, it is just the amounts that become smaller. I can even see - and I do not want to impute improper motives on the staff in your Committee - that when the person who wrote this Report reached Committee recommendations just pressed \"Control V\" and pasted the words: \"The Committee recommends that the audit query remains unresolved until--- Madam Temporary Speaker, most of the recommendations are just the same. Let us find a way to go more into value for money audits. If the Auditor-General's Office needs more money or we need to build the capacity, let us have that discussion. The reason why many of these Auditor-General's reports will not come with the truth that people feel on the ground, is that many of the auditors in the counties are receiving hospitality from the governors. The Office of the Auditor-General does not have enough vehicles and some auditors do not even have office space. Therefore, you will find that the Governor for Siaya or Homa Bay counties, for example, are the ones taking care of everything for the auditors who go there. That is why reports come out very rosy. Madam Temporary Speaker, I hope that this County has improved in terms of the queries for the Financial Year 2013/2014. I am not aware, but I hope that we have set standards, since we had the same problem in Nairobi City County with regard to the Speaker's house. I do not understand why public officers realise that they need a house when they become Speakers and Governors. We are not staying on trees. I am a Senator who does not have an official residence, but I do not live on a tree. Why should I use taxpayers' money to get an official residence, yet this is a temporary job? Let us leave official residences to the President, Deputy President, maybe the Chief Justice and leaders of the arms of Government. Why does a speaker need to get an official residence such that you spend Ksh150 million in a county where young people are jobless and women cannot even get market to sell their produce? Similarly, we do not have social halls and our young people are getting into drugs in Nairobi. Why would we allocate money for a speaker to have a residence worth Ksh150 million? That is nonsense. It just shows that we have lost focus and credibility as a people. It just shows that we focus on ourselves as opposed to focusing on the real needs of wananchi . Madam Temporary Speaker, devolution was brought to ensure that people participate in making decisions and that is why we devolved power and money. Power is the ability to get things done and it is not showing people chase cars and a big house. We did not devolve the fact that there will be someone in the County who is a Speaker or a Governor with 30 cars. I keep repeating the principle of subsidiarity, because we do not get it most times. A service is best offered at the lowest level compatible with the benefit area of that service. People in Mukuru should be able to decide because a one size fits all budget does not work. They will decide their priority in South C or in Mwiki and through that process; the budget comes when it is done by their Members of County Assembly (MCA's). This House needs to pronounce itself. Madam Temporary Speaker, I would want to hear the comments of the CPAIC on this one. Is it value for money for this country, at this time where we are telling the mwananchi to dig deeper into their pocket, for us to be buying 47 houses for governors and 47 houses for county speakers? Are we really cutting our coat according to our cloth? Should that be the priority? Why can the Senate not pronounce itself on that matter so that instead of building a house in Makueni, we should give the mwananchi water? Let us focus on those things. Why is it that Sen. Olekina, who has been living somewhere, suddenly realises that he has become homeless and asks for an official house when he becomes a governor? Let us hold true fidelity to the cause of devolution, principles of leadership and public finance. I like the idea by Sen. Hargura; that the next time the governors come to CPAIC, the Governor of Nairobi County should be given six former reports, they should agree on all the six reports then they should give us one report on all the six. The other option is for them to work on all the counties then bring one consolidated report. We cannot again debate on Kilifi County 2014/2015 Report. That will be wasting time of the people. Madam Temporary Speaker, I beg to support."
     },
     {
-      "order": 140,
+      "order": 141,
       "id": "entry-842588",
       "label": "speech",
       "level": "3",
@@ -1683,7 +1695,7 @@
       "text": "Ho. Senators, I see no further requests. I will ask Sen. M. Kajwang' to reply. However, before I do that, I want him to look at Standing Order 79 and 61 as read together. Standing Order 79(1) and (2) reads that:- \"When the Senate is to vote on any matter other than a Bill, the Speaker shall rule on whether the matter affects or does not affect counties.The Speaker's ruling under paragraph (1) shall be made after the conclusion of the debate on the matter but before the question is put.\" As read with Standing Order No. 61(1)(2) and (3) under 'Manner of debating Motions- \"(1) When a Motion has been moved and, if necessary, seconded, the Speaker shall propose the question thereon in the same terms as the Motion and debate may then take place upon that question. (2) At the conclusion of the debate, the Speaker shall put the question. (3) Despite paragraph (2), the Speaker may, on the request of a Senator defer the putting g of the question to a later date in which case the Speaker shall thereupon nominate a date and time at which the question shall be put.\" Therefore, you will only be able to ask for deferment after the conclusion of the debate. You did ask for deferment on the other one before."
     },
     {
-      "order": 141,
+      "order": 142,
       "id": "entry-842589",
       "label": "speech",
       "level": "3",
@@ -1695,7 +1707,7 @@
       "text": "Thank you, Madam Temporary Speaker. I am well guided on the provision of the Standing Orders.I wish to make very brief comments as we close the debate on the Report of the CPAIC on the accounts of Kilifi County. The Committee that looked into the Auditor-General's Report on Kilifi County did a lot of hard work. As I mentioned when I was moving this Motion, this Committee had three meetings on 11th, 16th and 17th August, 2016, with the County Executive of Kilifi County to establish whether the issues that were raised by the Auditor General were, indeed, true or whether there were mitigating circumstances. Madam Temporary Speaker, if you listened to my tone even as I was moving this Motion and the tone of the Seconder of this Motion, we believe that we were probably a little tepid in the kind of recommendations and the kind of findings that this Committee established. However, I would not want to second guess the Committee, because this was a Committee of very eminent persons. At this point, the Committee was chaired by none other than Sen. (Prof.) Anyang'-Nyong'o and deputised by Sen. (Prof.) Lonyangapuo. It had the most eminent Senator and Senior Counsel, Sen. Wako. The men and women in this Committee were people who have served the country for a long time. I do believe that they had adequate grounds to make the kind of recommendations that they made. Madam Temporary Speaker, there are suggestions and comments from Members that are very valid. These suggestions must be taken into account. My conviction is that in adopting this Report, whoever will be following up on the implementation of this Report will be reading the Report of the Committee alongside the Hansard. The views that have been expressed by Members today form part of that Report. If a Member has a dissenting view on any finding on that Report, then that dissent must also be registered. In fact, the reason as to why the CPAIC does not conclude its work at the Committee stage but rather Tables its report, is to provide an opportunity for Members to look at this Report and even suggest amendments. I want to encourage Members that as we do this and as the Committee brings its reports before this House, it does not mean that we must adopt the Report as it is. Members have got the power and the right to move amendments. Madam Temporary Speaker, the issue of housing in Kilifi County is an issue that has raised a lot of media attention. I do remember that when this Committee was doing its work, there was a lot of media focus on how it was going to adjudicate on the matter. Indeed, it is true that the Salaries and Remuneration Commission (SRC) had given limits at that point. It had said that governors could put up houses up to a maximum of Kshs267 million. This Governor used Kshs140 million and they felt that it was justified, simply because the SRC had put a ceiling of Kshs267 million. We have seen Speakers putting Kshs150 million in their budgets because SRC told them that they can build up to Kshs174 million. The Committee on Finance and Budget is seized of this matter. The Committee on Finance and Budget, SRC and the Commission on Revenue Allocation (CRA) have been sitting down and I am informed that so far, they have come up with model houses for Speakers, governors and their deputies. I believe that the amount involved has gone down somewhere to Kshs30million, Kshs50million and Kshs35 million depending on the counties. Madam Temporary Speaker, I know that there are other Motions and, therefore, I would not want to spend too much time on this. I wish to conclude by reminding my fellow Senators that in the Standing Order, oversight has been explicitly assigned to the CPAIC. However, the Constitution, which is superior, has given this role to Senate and Senators collectively. I will repeat what I said earlier; if you want to be more proactive, we must use our other Committees. Just as the Committee on Health went to Pumwani Maternity Hospital today, we need to see the Committee on Labour and Social Welfare, ably chaired by Sen. Sakaja, go to Nyayo Stadium to find out why they removed the tarmac and are now putting cabro; a project that has been going on for almost two years. As a result of that, we cannot access the training grounds. That is the proactivity I am talking about. We do not have to wait for the Auditor-General to report to the CPAIC for us to deal with this. Internally, I believe that the staff that the Senate has invested in are very competent. We just need to expand their mandates, particularly when it comes to audits. We can have the office of legislative audits or a unit that deals with legislative audits. Let us put in there forensic analysts, investigators and analysts. We have invested in clerks, legal experts and researchers, but there is some specialisation that is still lacking that could add value to the work of the CPAIC. I was guided on what to do and what not to do. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 142,
+      "order": 143,
       "id": "entry-842594",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1719,7 @@
       "text": "Hon. Senators, I now proceed to rule that pursuant to Standing Order 79(1) and (2), this matter affects counties and, therefore, we will call for a vote by county delegations. Sen. M. Kajwang', you may move."
     },
     {
-      "order": 143,
+      "order": 144,
       "id": "entry-842595",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1731,7 @@
       "text": "Madam Temporary Speaker, pursuant to Standing Order 61(3), I rise to request that the Speaker defers the putting of the question on the Motion to a later date."
     },
     {
-      "order": 144,
+      "order": 145,
       "id": "entry-842596",
       "label": "speech",
       "level": "3",
@@ -1731,7 +1743,7 @@
       "text": "This matter is therefore, deferred to tomorrow for further action."
     },
     {
-      "order": 145,
+      "order": 146,
       "id": "entry-842597",
       "label": "scene",
       "level": "3",
@@ -1743,7 +1755,7 @@
       "text": "(Putting of the question on the Motion deferred)"
     },
     {
-      "order": 146,
+      "order": 147,
       "id": "entry-842598-split-before-a332d278-95e7-4f6a-a158-86c5e914d17a",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1767,7 @@
       "text": "Next Order."
     },
     {
-      "order": 147,
+      "order": 148,
       "id": "entry-842598-split-selected-fa4386ef-2624-4c13-a307-e5b374e05aa1",
       "label": "heading",
       "level": "3",
@@ -1767,7 +1779,7 @@
       "text": "ADOPTION OF CPAIC REPORT ON FINANCIAL OPERATIONS OF HOMA BAY COUNTY EXECUTIVE FOR FY 2013/2014"
     },
     {
-      "order": 148,
+      "order": 149,
       "id": "entry-842599",
       "label": "speech",
       "level": "3",
@@ -1779,7 +1791,7 @@
       "text": "Madam Temporary Speaker I beg to move- THAT, this House adopts the Report of the Sessional Committee on the County Public Accounts and Investments on the inquiry into the Financial operations of Homa Bay County Executive for the Financial Year 2013/2014 (1st July 2013 - 30th June, 2014) laid on the Table of the House on Tuesday, 19th June, 2018. Madam Temporary Speaker, quite interestingly, in the last Parliament, I seconded a Motion on a similar report; the Motion having been moved by Sen. (Prof.) Peter Anyang'-Nyong'o, who was then the chair of CPAIC. When I rose to second this Motion, there was a power blackout and the Business of the Senate was disrupted. I have never seen that before, and for the three or so years that I have been here, that has never recurred. I do not want to imagine that the doctors and the witches of Homa Bay could have intervened to prevent me from proceeding, but I am glad that I have this opportunity. I will move very quickly so that my seconder is not disrupted by a power blackout. Madam Temporary Speaker, Homa County appeared before the CPAIC on 15th and 29th July. The Committee undertook a county visit on 6th August. So, there were four contact meetings between the Committee and the county executive. As I said earlier, if one county would require four visits or contacts, it will take a very long time for this Committee to conclude its work. Some of the issues that were raised in the Auditor-General's report and which formed part of the county visit by the Committee to Homa Bay County were as follows. One, a solar lighting project that had been called \" Okonyowello,\" which in Luo means that visitors should now feel relieved because the markets were going to be lit with solar lamps. The objective of this project was to provide lighting to different markets across the county. That was meant to ensure that the women and men who trade in those markets could trade for longer hours. That was supposed to spur trade and encourage security. Restricted tendering was used and payments were made in advance whereas the execution was delayed. In total, Kshs143 million was spent for 800 lamps, which puts it at an average of Kshs178,000 per lamp. Madam Temporary Speaker, the Committee considered that this project did not constitute value for money. If you look at the detailed report, the Committee has recommended that the Auditor-General should conduct a value for money audit and report to the Senate within one year. The challenge has been that should it be one year within the date of the report or one year within the adoption? I believe it ought to be one year within the date of adoption;that is one year from today. Madam Temporary Speaker, another project that caught the attention of the Committee was a poultry hatcheries project where the county distributed 306 hatcheries worth Kshs123.663 million. That is an average of Kshs404,000 per hatchery. Many of us rear chicken in our backyards or do farming as a hobby. We know that the average cost of a hatchery is usually between Kshs100,000 and Kshs200,000. In fact, some of us have even bought hatcheries and distributed them. The Committee flagged the cost of this project and there was a feeling that this project was inflated. The hatcheries were distributed to 227 groups without a plan. In some areas, the electric hatcheries were given to groups in areas without electricity. The Committee was not provided with a feasibility plan and the distribution of the 306 hatcheries was undertaken by Members of County Assembly (MCAs). Consequently, the Committee recommended that the Auditor-General conducts a special audit and reports to the Senate within one year. Thirdly and maybe the last observation,Madam Temporary Speaker, is on the expenses incurred on the renovation of the office of the governor and the deputy governor. A sum of Kshs11.6 million and Kshs10.2 million were used on building walls around the governor's and deputy governor's offices. The Auditor-General noted that even though millions of shillings were spent on building and renovating the houses, the Governor and his deputy lived in those houses and there was a question about value for money. The Committee has made recommendations on value for money. Audits on the poultry and streets light project and administrative action to be taken on county officers who have been identified by the Auditor-General as \"having practiced poor book keeping practices.\" Madam Temporary Speaker, I wish to beg the House to adopt this Report. However, before I do that, with your permission,I wish to call upon the Senator for Narok to second this Motion. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 149,
+      "order": 150,
       "id": "entry-842604",
       "label": "speech",
       "level": "3",
@@ -1791,7 +1803,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me an opportunity to second this Motion. From the outset, I am still baffled. I want to be clear that even though I am a Member of the Committee and, by default, I should own this Report, I think some of the audit queries would have been dealt with in a different way. As I said earlier, I have always aspired to be an extremist when it comes to freedom, liberty and fighting for fiduciary responsibility. I have gone through the Report and I hope that this House will adopt recommendation of the committee that sat then - which I discussed in detail with Sen. Wako - and implement them to the fullest. I hope that the Senator for Homa Bay, who is the Chair of the Committee, but in his capacity as the Senator for Homa Bay, will ensure that these recommendations are implemented. Madam Temporary Speaker, the fact that we do not have an implementation committee should not limit our ability to follow through and ensure that recommendations of this House are implemented. Where there are instances of unlawful expenditures, the Committee recommended that those officers should be surcharged and the money recovered. That does not require an implementation committee. Even the EACC and the Director of Public Prosecutions (DPP) should follow through; they should get this Report and ensure that those funds are recovered. As an extremist for freedom and liberty, money is being misused without proper accountability. Madam Temporary Speaker, I have looked at this Report. One of the things that I hope it is now the right time to do is on the instances where procurement rules were not followed, but where goods and services were supplied as per the details of the requisition. This Report recommends that officers be reprimanded for not following the public procurement rules and regulations and a report be submitted to the Senate on administrative action and austerity measures taken to mitigate against committal of similar offences in the subsequent financial years. Given that this is an audit report for FY 2013/2014, this House should have been given a report on the actions takenin the FY 2014/2015. Madam Temporary Speaker, it is a shame that we are the ones to table this Report. I noticed that it was signed by none other than Dr. Boni Khalwale, who was then the Chair of the Committee way back in 2015. I think there was nothing that stopped that Committee - even though the report had not been Tabled - to ensure that they follow through and even work together with the CPAIC in the county assemblies. I am still at a loss of words. Now that we are looking at the Financial Year 2013/2014, what happens to the subsequent years where similar recommendations are made? It is clear. We know that in the County Assembly of Homa Bay, there are certain officers who were arrested by the EACC. Maybe the EACC should have extended their arm and also looked at the Executive arm of the County Government of Homa Bay, because if this was happening in one office, there is no reason why it was not happening with the others. Madam Temporary Speaker, I plead with the Senate to ensure that we put these reports out there in the public domain immediately after this. Let us upload them in the Senate website to give Kenyans from Homa Bay an opportunity to look at the Report. It does not matter whether the current Governor concludes his term in a few years to come in 2022, but the fact that money was lost, he should be responsible for it. There is something called fiduciary duty or responsibility. You cannot explain why people are still languishing in poverty. Madam Temporary Speaker, I am not a very happy man today because the Tabling of this Report has come in when Kenyans are crying. They are saying \"no, we do not want to be taxed.\" But then, where are we going to get money from? I gave a similar analogy in the issue of Kilifi, but on this report, I seriously hope that my good friend, Sen. M. Kajwang', who is my able Chair, will now move us to combine all the reports for Homa Bay. This will help the Committee to look at the reports for FY2015/2016 and compare them with reports of FY2013/2014, so that we see whether certain actions were put in place. If they were not, then nothing stops you or even our Committee from demanding that those offices be surcharged. That way, in the event that money was lost, that money is recovered. That is the only way we will achieve our objective and fulfill our duty as enshrined in Article 96(3) of the Constitution. Madam Temporary Speaker, we must defend the interest of counties and their governments. It does not mean that one person is the Government; it means that future governments will come in place. If tomorrow, my good friend Sen. M. Kajwang' becomes the Governor for Homa Bay, he will inherit a lot of debt that he will not know how to pay. Everything which was being done in FY2013/2014 and, I bet, even today, was through restricted tender. How do you then come out and tell the people of Homa Bay that even though we used restricted tender, they got value for money? Madam Temporary Speaker, I agree with Sen. Sakaja when he said that we need to change. I want to assure Sen. Sakaja and other Members of this House that this Committee now, when it is interrogating these matters---It is only that we could not reopen this file because it had already been adopted by the Committee Members and our work was just to table and debate it. However, just like Sen. M Kajwang' has said, nothing stopped this House from amending the reports. I want to reiterate that the Auditor-General must now look at the law. Section 62 of the Public Audit Act is very clear. Otherwise, this is going to be a never-ending cycle where we are talking about how the money is being misappropriated, when we are fighting the national Treasury because even in this Report, then national Treasury is blamed for releasing the money late. I would even support that the money be released late rather than releasing it early and then it cannot be accounted for. Madam Temporary Speaker, we operate under the rule of law. The Public Finance Management (PFM) Act is very clear in terms of reconciliation and accountability. Therefore, there is no excuse why this House should not look at these reports. Any member can say, \"Let us visit Homa Bay and look at what was said to have been done in 2013.\" Madam Temporary Speaker, with those many remarks, I beg to second."
     },
     {
-      "order": 150,
+      "order": 151,
       "id": "entry-842608",
       "label": "scene",
       "level": "3",
@@ -1803,7 +1815,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 151,
+      "order": 152,
       "id": "entry-842609",
       "label": "speech",
       "level": "3",
@@ -1815,7 +1827,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to speak on this Report. This Report covers the financial year 2013/2014; from 1st July, 2013, to 30th June, 2014. If my memory is correct, this is one of the first annual reports that this Senate is considering. When the elections were held in 2013, the other reports that we considered were for only six months. Therefore, this report is for a full year of 12 months. Whereas the reports for the six months were a bit lenient because county governments were just settling in and some of them did not know the procedures and so on, and so forth, no such excuse can now be given when considering the Report of 2013/2014. This is because it is assumed they have settled in, they know the regulations and they will now do what they are expected to do under the Constitution, our laws, and regulations. Madam Temporary Speaker, this Report underlines some of the problems that we have in most of the counties. It underlines the fact that the county governments, in most cases, used restricted tendering almost as a normal thing. There lies an avenue where corruption comes in. We are aware that restricted tendering goes to the politically correct individuals who have formed companies for that particular tender, hence the popular word 'tenderpreneurs,' which comes from the word tender. Those people are given leeway where there is free use of restricted tendering. Restricted tendering is only supposed to be used in specific circumstances, and not as a norm the way Homa Bay County Government did. Nevertheless, the Committee felt that in future, the Homa Bay County Government should not do so. Madam Temporary Speaker, apart from that one problem, the other one was the issue, not just of tendering, but of not following the correct procedures. For example, the Committee interrogated the issue of street lighting. The Committee bent over backwards. We just called for evidence on that matter rather than waiting for other things, and came up with various conclusions. I want to address these conclusions in a very general way. Most of the recommendations, as you can see, were calling upon the various public bodies to do a specified act by 31st December, 2015. In other words, the Committee was telling the county governments to rectify and come up with a report on a particular issue by 31st December, 2015. We did that on almost all audit queries. On some of the recommendations, particularly those that relate to the registration of assets and liabilities of counties, it is the Transition Authority (TA) which was instructed to have that done by 31st December 2015. Madam Temporary Speaker, an issue normally arises because in normal procedures, of course, there are also some recommendations of penalizing the public officers concerned and, in fact, requiring payment of some amount. If you look at page 22 of the Report, this is a matter which relates to the irregular hire of motor vehicles. The Committee recommends that the amount of Kshs2,080,000 should be recovered from the responsible accounting officer and a recovery report submitted to the Senate by 31st December 2015. Elsewhere you will find that they are recommending that the officers who were involved in that particular matter be reprimanded or be disciplined and a report be submitted on 31st December 2015. I am sure what ran in the mind of the Committee at that stage was that these were matters which the county governments would probably rectify and provide reports within a very short time in 2015. We are now in 2018 and the Chairperson of CPAIC cannot tell us whether or not these requirements of the Committee - that the various reports, recoveries and disciplinary measures - were undertaken and a report submitted by 31st December 2015. It may very well been this has not been done, because it is normally stated that until the report is adopted, that it is enforceable, and it is not binding. Therefore, if we adopt the Report today, then the time starts to run. However, we are adopting this Report three years after the 31st December, 2015, deadline has passed. This Senate needs to address this particular issue. Madam Temporary Speaker, in my mind, when this Report is being discussed by this Senate, we ought to have received an updated administrative report on what happened on the recommendations. If a report was to be produced, has that been done? If money was meant to be recovered, has that happened? Some administrative report ought to have been attached to this Report to tell us all that. This is so that in future, we should be saying that we should not wait for the report to be tabled and adopted by the House before some of the recommendations which require deadlines have been met. Those recommendations which require deadlines should be acted upon within the deadline. In other words, Madam Temporary Speaker, in this particular case, the County of Homa Bay should not have said okay. Although you have said we produce this report by the 31st December 2015, we must wait until it is adopted by the House before we can act on it. There must be a procedure and I am urging that the current CPAIC comes up with some sort of administrative procedures or recommendations which require time limits. This is because you know very well that those particular time limits are time limits within the year---"
     },
     {
-      "order": 152,
+      "order": 153,
       "id": "entry-842612",
       "label": "scene",
       "level": "3",
@@ -1827,7 +1839,7 @@
       "text": "(Sen. Wako's microphone went off)"
     },
     {
-      "order": 153,
+      "order": 154,
       "id": "entry-842613",
       "label": "speech",
       "level": "3",
@@ -1839,7 +1851,7 @@
       "text": "Definitely, that is good guidance. Chairman of CPAIC, you might probably consider giving a side report as to what has been achieved, looking back over the years, because we are dealing with past reports. It would be good for the Committee to consider whether some of these things have been achieved and, maybe, a side report or administrative note could guide us. Hon. Senators, seeing that there is no other request, I now call upon the mover to reply."
     },
     {
-      "order": 154,
+      "order": 155,
       "id": "entry-842614",
       "label": "speech",
       "level": "3",
@@ -1851,7 +1863,7 @@
       "text": "Thank you Madam Temporary Speaker. I also tender my appreciation to the seconder and Sen. Wako, who has given us some very good guidance owing to his background. Madam Temporary Speaker, we scrapped the Implementation Committee but when we recently sat with the Public Accounts Committees from all over the Commonwealth Countries with Sen. Olekina, we realised that it is possible to have an implementation sub-committee within the Committee. That is one direction we will follow as CPAIC so that we can have an implementation sub-committee that follows up and is able to furnish the House with a note on progress in fulfilment of the recommendations of the Committee. Madam Temporary Speaker, the Public Audit Act requires that upon adoption of a report by Parliament, accounting officers shall, within three months, submit a progress report to the Senate. Therefore, that is built in after adoption. However, in a case like this, where the report has sat in the Senate for three years, I believe the implementation sub- committee can deal with that. Finally, the Auditor-General is also required to report on outstanding issues from previous audits, but this happens at the next audit cycle. Madam Temporary Speaker, I would have said much, but looking at the time, I just want to finalise by saying that there will be a challenge where you have a situation like the one on hatcheries which are bought by the Executive and distributed by the Members of the County Assembly. Who is going to oversight who? So, even primary oversight dies in that kind of perspective. I want to laud the Public Accounts Committee of Homabay County, led by a very able female Certified Public Accountant (CPA) called Nereah Amondi. I believe that she is up to the task and that they will look at all these issues and bring a report to the Assembly. This is because they were not in the Assembly that was complicit in that particular transaction. Madam Temporary Speaker, I beg to move."
     },
     {
-      "order": 155,
+      "order": 156,
       "id": "entry-842617",
       "label": "speech",
       "level": "3",
@@ -1863,7 +1875,7 @@
       "text": "Hon. Senators, pursuant to Standing Order 79(1) and (2), I determine that this is a matter that affects counties and, therefore, requires a vote by delegations. This cannot, therefore, be done at the moment. Proceed, Sen. Kajwang'."
     },
     {
-      "order": 156,
+      "order": 157,
       "id": "entry-842618",
       "label": "speech",
       "level": "3",
@@ -1875,7 +1887,7 @@
       "text": "Madam Temporary Speaker, pursuant to Standing order 61(3), I rise to request that you defer the putting of the question on the Motion to a later date."
     },
     {
-      "order": 157,
+      "order": 158,
       "id": "entry-842619",
       "label": "speech",
       "level": "3",
@@ -1887,7 +1899,7 @@
       "text": "Hon. Senators I defer this matter to tomorrow's Order Paper."
     },
     {
-      "order": 158,
+      "order": 159,
       "id": "entry-842620",
       "label": "scene",
       "level": "3",
@@ -1899,7 +1911,7 @@
       "text": "(Putting of the question on the Motion deferred)"
     },
     {
-      "order": 159,
+      "order": 160,
       "id": "entry-842621",
       "label": "speech",
       "level": "3",
@@ -1911,7 +1923,7 @@
       "text": "Next Order."
     },
     {
-      "order": 160,
+      "order": 161,
       "id": "entry-842622",
       "label": "heading",
       "level": "1",
@@ -1923,7 +1935,7 @@
       "text": "MOTION"
     },
     {
-      "order": 161,
+      "order": 162,
       "id": "entry-842623",
       "label": "heading",
       "level": "3",
@@ -1935,7 +1947,7 @@
       "text": "ADOPTION OF CPAIC REPORT ON FINANCIAL OPERATIONS OF KISII COUNTY EXECUTIVE FOR FY 2013/2014"
     },
     {
-      "order": 162,
+      "order": 163,
       "id": "entry-842624",
       "label": "speech",
       "level": "3",
@@ -1947,7 +1959,7 @@
       "text": "Proceed, Sen. M. Kajwang'"
     },
     {
-      "order": 163,
+      "order": 164,
       "id": "entry-842625",
       "label": "speech",
       "level": "3",
@@ -1959,7 +1971,7 @@
       "text": "Madam Temporary Speaker, I beg to move:- THAT, this this house adopts the Report of the Sessional Committee on County Public Accounts and Investments on the inquiry into the Financial operations of Kisii County Executive For the Financial Year 2013/2014(1st July, 2013-30th June, 2014) laid on the Table of the House on Tuesday, 19th June 2018. Madam Temporary Speaker, Kisii County appeared before the Senate on 29th September and 2nd October 2016, and the report that has been tabled today was adopted by the Committee on 5th April, 2017.The Report details the findings and recommendations of the Committee. I will only want to mention one or two. First, the County operated 64 bank accounts. Later on, the national Treasury directed them to operate one single account. The Executive confirmed that, that had been rectified. Once again, there was a very interesting case where Kshs3.299 million was collected but unbanked. The Executive informed the Committee that this was forgery by a cashier in Kisii and when the cashier was pursued by the County Executive, the cashier committed suicide. Unfortunately, the fraudster having died, the matter was left to rest but it should never get to that. I do not think that public money should lead public officers to terminate their lives prematurely. Madam Temporary Speaker, the detailed report and recommendations are before the House. I, therefore, beg to move and request Senator for Narok, Sen. Olekina to second."
     },
     {
-      "order": 164,
+      "order": 165,
       "id": "entry-842628",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1983,7 @@
       "text": "Thank you, Madam Temporary Speaker, for the opportunity. to second this Motion.From the outset, one of the things that I would like to note and which I should have noted for the other reports that I have seconded, is that at this particular time, financial responsibility was all under the executive because the county assemblies were not semi-autonomous as they are now. That semi-autonomy was given to them on 1stJuly, 2015. Madam Temporary Speaker, the same issues that we observed on the reports of the other counties - which Senator Amos Wako has said were occasioned by lack of capacity - are the same issues that we are noticing in the observations and recommendations that the Committee came up with. One of the most disturbing issues is that of imprest. I am not so sure whether this imprest was ever recovered. The challenge we have is where we now recommend that this has to be recovered. One of the General Recommendations by the Committee then was that the imprest which had been given to the MCAs should be recovered. However, we are not aware of the status. It is only from 2014 by the time this Audit was done and by the time the Committee sat and interrogated the county assembly and also the Governor on whether there was any evidence to show that that Imprest had been surrendered. Madam Temporary Speaker, I agree with Sen. Kajwang' that now, a sub- committee will have to follow up and ensure that these recommendations are fully implemented. It is imperative for the people of Kisii to note that they will now be paid and those ones who never surrendered that imprest will now have to surrender it plus interest. It is important that we follow the rule of law to the latter. Madam Temporary Speaker, I do not agree completely with my colleagues that there was an issue of capacity in terms of the accounting officers. These accounting officers belong to professional bodies. They were working in different department of the national Government, including the Treasury before they were seconded to the county governments. We have institutions in this country, like the Kenya School of Government (KSG), which trains these people on different regulations. We had the Public Procurement and Disposal Act of 2005. Therefore, this is an act of ignorance or complicity. It is an issue where people do not care about the rule of law. You cannot come in and say that you did not surrender imprest because you had capacity challenges, when you aware that the law is there. Madam Temporary Speaker, instead of the county governments spending millions of shillings building residences for governors, which they will leave after five or ten years, they should spend some of that money on training and making sure that the officers who are tasked with the fiduciary duty are up to the task and up to speed with the subsequent regulations that come in or Acts of Parliament. This is because the Public Finance Management Act is there to guide them. When you read the Public Procurement and Disposal Act and the Public Audit Act, you realize that some of these people do not have time to do that. If they have time to go and procure services through restricted tender, they should have time to understand the consequences thereafter. Madam Temporary Speaker, in the interest of time - and I would wish that we can conclude on this matter - it is important that this House does not leave the work to this Committee, because these are issues of the financial year 2013/2014--- We all have to be very vigilant because there are serious consequences with the mismanagement of funds. Madam Temporary Speaker, with those few remarks, I beg to second."
     },
     {
-      "order": 165,
+      "order": 166,
       "id": "entry-842631",
       "label": "scene",
       "level": "3",
@@ -1983,7 +1995,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 166,
+      "order": 167,
       "id": "entry-842632",
       "label": "speech",
       "level": "3",
@@ -1995,7 +2007,7 @@
       "text": "Hon. Senators, since I see no requests, I will now call upon the Mover to reply."
     },
     {
-      "order": 167,
+      "order": 168,
       "id": "entry-842633",
       "label": "speech",
       "level": "3",
@@ -2007,7 +2019,7 @@
       "text": "Madam Temporary Speaker, how I wish that the other side that proclaims to be in Government had at least one person to help us on this debate. At least on this side I see some gallant men and women. I beg to reply."
     },
     {
-      "order": 168,
+      "order": 169,
       "id": "entry-842634",
       "label": "speech",
       "level": "3",
@@ -2019,7 +2031,7 @@
       "text": "Hon. Senators, pursuant to Standing Order 79(1) and (2), I determine that this matter concerns counties. Therefore, that calls for a vote by delegations, which cannot be done at this moment. Proceed, Sen. M. Kajwang'."
     },
     {
-      "order": 169,
+      "order": 170,
       "id": "entry-842635",
       "label": "speech",
       "level": "3",
@@ -2031,7 +2043,7 @@
       "text": "Madam Temporary Speaker, pursuant to Standing Order 61(3), I rise to request that we defer the putting on the question on the Motion to a later date. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 170,
+      "order": 171,
       "id": "entry-842636",
       "label": "speech",
       "level": "3",
@@ -2043,7 +2055,7 @@
       "text": "I, therefore, defer this matter, so that the Question may be put tomorrow."
     },
     {
-      "order": 171,
+      "order": 172,
       "id": "entry-842637",
       "label": "scene",
       "level": "3",
@@ -2055,7 +2067,7 @@
       "text": "(Putting of the Question on the Motion deferred)"
     },
     {
-      "order": 172,
+      "order": 173,
       "id": "entry-842639-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -2067,7 +2079,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 173,
+      "order": 174,
       "id": "entry-842639",
       "label": "speech",
       "level": "1",

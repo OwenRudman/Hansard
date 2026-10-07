@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2017-11-29-14-30-00",
-  "exported_at": "2026-10-05T07:59:36.715Z",
+  "exported_at": "2026-10-07T22:16:45.797Z",
   "entries": [
     {
       "order": 1,
@@ -868,7 +868,7 @@
     },
     {
       "order": 73,
-      "id": "entry-767111-split-after-21d00459-cb89-4962-8de2-99278b9acb30-split-after-3cd32c1d-e740-4725-8512-e2996c5a02b1-split-after-b5fcd531-f137-47dd-aeda-fc71c21fc61c-split-after-2c066cdc-0756-4eea-af1a-103ba5ff87b5-split-after-25a1565f-21c9-4d1d-9389-93b0c4c21014",
+      "id": "entry-767111-split-after-21d00459-cb89-4962-8de2-99278b9acb30-split-after-3cd32c1d-e740-4725-8512-e2996c5a02b1-split-after-b5fcd531-f137-47dd-aeda-fc71c21fc61c-split-after-2c066cdc-0756-4eea-af1a-103ba5ff87b5-split-after-25a1565f-21c9-4d1d-9389-93b0c4c21014-split-before-4eba1012-393e-4a81-83a2-6054eb78d252",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -876,11 +876,11 @@
       "speaker": "Sen. Dullo",
       "speaker_title": "",
       "reviewed": true,
-      "text": "The National Cohesion and Integration Commission Annual Report 2016. THE CAJ COMMISSIONERS' EXIT REPORT The Commission on Administrative Justice Commissioners' Exit Report, titled 'Laying the Foundation for Administrative Justice in Kenya: Six years later'."
+      "text": "The National Cohesion and Integration Commission Annual Report 2016."
     },
     {
       "order": 74,
-      "id": "entry-767111-split-after-21d00459-cb89-4962-8de2-99278b9acb30-split-after-3cd32c1d-e740-4725-8512-e2996c5a02b1-split-after-b5fcd531-f137-47dd-aeda-fc71c21fc61c-split-after-2c066cdc-0756-4eea-af1a-103ba5ff87b5-split-after-25a1565f-21c9-4d1d-9389-93b0c4c21014-inserted-588af95b-e7c9-49e9-b12a-4d4407f1df51",
+      "id": "entry-767111-split-after-21d00459-cb89-4962-8de2-99278b9acb30-split-after-3cd32c1d-e740-4725-8512-e2996c5a02b1-split-after-b5fcd531-f137-47dd-aeda-fc71c21fc61c-split-after-2c066cdc-0756-4eea-af1a-103ba5ff87b5-split-after-25a1565f-21c9-4d1d-9389-93b0c4c21014-split-selected-6d2df53e-d67f-4c40-b420-79f0d527b4a9",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -888,10 +888,22 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE CAJ COMMISSIONERS’ EXIT REPORT"
+      "text": "THE CAJ COMMISSIONERS' EXIT REPORT"
     },
     {
       "order": 75,
+      "id": "entry-767111-split-after-21d00459-cb89-4962-8de2-99278b9acb30-split-after-3cd32c1d-e740-4725-8512-e2996c5a02b1-split-after-b5fcd531-f137-47dd-aeda-fc71c21fc61c-split-after-2c066cdc-0756-4eea-af1a-103ba5ff87b5-split-after-25a1565f-21c9-4d1d-9389-93b0c4c21014-split-after-43c92a8c-9c21-40d5-8606-8453909d3b4b",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Sen. Dullo",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "The Commission on Administrative Justice Commissioners' Exit Report, titled 'Laying the Foundation for Administrative Justice in Kenya: Six years later'."
+    },
+    {
+      "order": 76,
       "id": "entry-767114",
       "label": "scene",
       "level": "2",
@@ -903,7 +915,7 @@
       "text": "(Sen. Dullo laid the documents on the Table)"
     },
     {
-      "order": 76,
+      "order": 77,
       "id": "entry-767115",
       "label": "heading",
       "level": "1",
@@ -915,7 +927,7 @@
       "text": "NOTICES OF MOTIONS"
     },
     {
-      "order": 77,
+      "order": 78,
       "id": "entry-767116",
       "label": "heading",
       "level": "2",
@@ -927,7 +939,7 @@
       "text": "AUDIT ON DISTRIBUTION OF TEACHERS IN ALL PUBLIC SCHOOLS IN THE COUNTRY"
     },
     {
-      "order": 78,
+      "order": 79,
       "id": "entry-767117",
       "label": "speech",
       "level": "2",
@@ -939,7 +951,7 @@
       "text": "Mr. Speaker, Sir, I beg to give notice of the following Motion directed to the Ministry of Education, Science and Technology:- THAT WHEREAS Article 43 (1) (f) of the Constitution of Kenya explicitly provides for the right to education for all; AND WHEREAS it is the responsibility of the State to ensure that the right to education is enjoyed by all; OBSERVING THAT that the Teachers Service Commission (TSC) is the constitutionally mandated body to handle matters of employment, deployment, remuneration and discipline of teachers in all public schools; APPRECIATING efforts made by the national government through the Teachers Service Commission (TSC) to improve the teacher pupil ratio to international standards in all public schools through yearly employment of teachers; CONCERNED THAT currently there exists great disparities in the distribution of teachers in schools across the country, with major teacher shortage being experienced in rural and marginalized areas; FURTHER CONCERNED that there is major inequality in the distribution and allocation of teachers among schools across the country leading to either oversupply or undersupply of teachers in some public schools; NOW THEREFORE, the Senate calls upon the Ministry of Education, Science and Technology through the Teachers Service Commission to conduct a countrywide audit on the distribution of teachers in all public schools across the Country and report to the Senate within three months."
     },
     {
-      "order": 79,
+      "order": 80,
       "id": "entry-767120",
       "label": "speech",
       "level": "2",
@@ -951,7 +963,7 @@
       "text": "Do you want to do both of them, Sen. Khaniri?"
     },
     {
-      "order": 80,
+      "order": 81,
       "id": "entry-767121",
       "label": "speech",
       "level": "2",
@@ -963,7 +975,7 @@
       "text": "Mr. Speaker, Sir, I have a second Notice of Motion directed to the Ministry of East African Community Labor and Social Protection"
     },
     {
-      "order": 81,
+      "order": 82,
       "id": "entry-767122",
       "label": "speech",
       "level": "2",
@@ -975,7 +987,7 @@
       "text": "Proceed."
     },
     {
-      "order": 82,
+      "order": 83,
       "id": "entry-767122-uppercase-text-heading",
       "label": "heading",
       "level": "2",
@@ -987,7 +999,7 @@
       "text": "NATIONWIDE REGISTRATION OF ALL PLWDS"
     },
     {
-      "order": 83,
+      "order": 84,
       "id": "entry-767123",
       "label": "speech",
       "level": "2",
@@ -999,7 +1011,7 @@
       "text": "Mr. Speaker, Sir, I beg to give notice of the following Motion: AWARE THAT the National Council for Persons with Disabilities was established through the Persons with Disabilities Act, 2003; FURTHER AWARE THAT registration of persons living with disabilities is a function of the National Council for Persons with Disabilities; ALSO, AWARE THAT persons living with disabilities are estimated to be about10% of any given population; COGNISANT THAT for purposes of registration of persons living with disability is a mandatory requirement for one to undergo medical examination by a registered medical officer in a registered and certified health facility; AWARE THAT medical services is now a devolved functions; CONCERNED THAT of the nearly 4 million Kenyans living with disabilities who reside in Kenya, there is a very small fraction of the number which is duly registered; FURTHER CONCERNED THAT without proper registration, many persons living with disabilities are denied services because they lack the necessary proof of disability; ALSO CONCERNED THAT owing to lack of accurate data on persons living with disabilities, the government at both levels cannot plan properly for this category of people; NOW THEREFORE, the Senate calls upon the National Council for Persons with Disabilities in collaboration with Ministry of East African Community, Labor and Social Protection and county governments, to carry out a nationwide registration of all persons living with disabilities in order to determine their exact population to facilitate effective service for this marginalized group of people in our society."
     },
     {
-      "order": 84,
+      "order": 85,
       "id": "entry-767126",
       "label": "speech",
       "level": "2",
@@ -1011,7 +1023,7 @@
       "text": "Thank you. The Senate Leader of Majority, it is your turn to give notices of Motion."
     },
     {
-      "order": 85,
+      "order": 86,
       "id": "entry-767127-split-before-34377f99-ac3f-4126-b7c1-da906731a9b2",
       "label": "speech",
       "level": "2",
@@ -1023,7 +1035,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I beg to give first notice of the following Motions:"
     },
     {
-      "order": 86,
+      "order": 87,
       "id": "entry-767127-split-selected-e0e63ae9-d0d4-421a-93a2-fff5829d49a4",
       "label": "heading",
       "level": "2",
@@ -1035,7 +1047,7 @@
       "text": "NOTING OF COB ANNUAL COUNTY GOVERNMENTS BUDGET IMPLEMENTATION REVIEW REPORT FOR FY 2016/2017"
     },
     {
-      "order": 87,
+      "order": 88,
       "id": "entry-767127-split-after-63bd8722-5cc6-4696-9267-43e4ac07d787-split-before-b6c495c0-91b5-42c4-a875-5e6337c0aadc",
       "label": "speech",
       "level": "2",
@@ -1047,7 +1059,7 @@
       "text": "THAT, the Senate notes the Controller of Budget Annual County Governments Budget Implementation Review Report for Financial Year 2016/2017, laid on the Table of the House on Wednesday, 8th November, 2017."
     },
     {
-      "order": 88,
+      "order": 89,
       "id": "entry-767127-split-after-63bd8722-5cc6-4696-9267-43e4ac07d787-split-selected-ee8c59c2-7b5d-4802-a90d-8c6ba8074cc9",
       "label": "heading",
       "level": "2",
@@ -1059,7 +1071,7 @@
       "text": "ADOPTION OF SESSIONAL PAPER NO.6 OF 2016 ON NATIONAL URBAN DEVELOPMENT POLICY"
     },
     {
-      "order": 89,
+      "order": 90,
       "id": "entry-767127-split-after-63bd8722-5cc6-4696-9267-43e4ac07d787-split-after-a6ccec4f-38df-4f56-9968-a48726daf1d5-split-before-055b8848-141a-4311-ba97-aae2ced32327",
       "label": "speech",
       "level": "2",
@@ -1071,7 +1083,7 @@
       "text": "THAT, this House adopts Sessional Paper No. 6 of 2016 on National Urban Development Policy, laid on the Table of the House on Tuesday, 10th October, 2017."
     },
     {
-      "order": 90,
+      "order": 91,
       "id": "entry-767127-split-after-63bd8722-5cc6-4696-9267-43e4ac07d787-split-after-a6ccec4f-38df-4f56-9968-a48726daf1d5-split-selected-c5685317-2d6d-4c65-bbcc-a712d70f646a",
       "label": "heading",
       "level": "2",
@@ -1083,7 +1095,7 @@
       "text": "ADOPTION OF THE NATIONAL IRRIGATION POLICY"
     },
     {
-      "order": 91,
+      "order": 92,
       "id": "entry-767127-split-after-63bd8722-5cc6-4696-9267-43e4ac07d787-split-after-a6ccec4f-38df-4f56-9968-a48726daf1d5-split-after-6935f873-f42c-4857-b680-ed91199a2236-split-before-1a3ba5bd-ec71-4ddb-aeff-64d57785968e",
       "label": "speech",
       "level": "2",
@@ -1095,7 +1107,7 @@
       "text": "THAT, this House adopts the National Irrigation Policy, laid on the Table of the House on Tuesday, 10th October, 2017"
     },
     {
-      "order": 92,
+      "order": 93,
       "id": "entry-767127-split-after-63bd8722-5cc6-4696-9267-43e4ac07d787-split-after-a6ccec4f-38df-4f56-9968-a48726daf1d5-split-after-6935f873-f42c-4857-b680-ed91199a2236-split-selected-bf745594-982d-43eb-8dd9-7613f775beb9",
       "label": "heading",
       "level": "2",
@@ -1107,7 +1119,7 @@
       "text": "ADOPTION OF SESSIONAL PAPER NO. 2 OF 2016 ON NATIONAL SLUM UPGRADING AND PREVENTION POLICY"
     },
     {
-      "order": 93,
+      "order": 94,
       "id": "entry-767127-split-after-63bd8722-5cc6-4696-9267-43e4ac07d787-split-after-a6ccec4f-38df-4f56-9968-a48726daf1d5-split-after-6935f873-f42c-4857-b680-ed91199a2236-split-after-cf075dac-d3bc-46b4-ba05-5acae686cf99",
       "label": "speech",
       "level": "2",
@@ -1119,7 +1131,7 @@
       "text": "THAT, this House adopts Sessional Paper No. 2 of 2016 on the National Slum Upgrading and Prevention Policy, laid on the Table of the House on Tuesday, 10th October, 2017."
     },
     {
-      "order": 94,
+      "order": 95,
       "id": "entry-767128-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "2",
@@ -1131,7 +1143,7 @@
       "text": "SENATOR'S GENERAL STATEMENT"
     },
     {
-      "order": 95,
+      "order": 96,
       "id": "entry-767128",
       "label": "speech",
       "level": "2",
@@ -1143,7 +1155,7 @@
       "text": "Next order. We have two statements under Standing Order 46 (2) (a) which we shall take first. I call upon Sen. Cheruiyot to give the Statements."
     },
     {
-      "order": 96,
+      "order": 97,
       "id": "entry-767128-uppercase-text-heading",
       "label": "heading",
       "level": "2",
@@ -1155,7 +1167,7 @@
       "text": "STATUS REPORT ON THE ELECTION OF MEMBERS TO EALA"
     },
     {
-      "order": 97,
+      "order": 98,
       "id": "entry-767129",
       "label": "speech",
       "level": "2",
@@ -1167,7 +1179,7 @@
       "text": "Mr. Speaker, Sir, I rise to issue a statement on the progress made in the process of election of Members to represent Kenya in the East African Legislative Assembly (EALA). This is on behalf of the Joint Parliamentary Select Committee on the Election of Members of the East African Legislative Assembly. As Members are aware, the Joint Parliamentary Committee comprises 10 Members drawn from the Jubilee and NASA coalitions in both Houses. As Members might recall, the elections could not be held as scheduled during the term of the Eleventh Parliament as Houses proceeded to the sine die recess in June 2017 to allow Members ample time to participate in campaigns ahead of the August General Election. In this regard, the Joint Parliamentary Committee had the privilege of building on the gains made by its predecessor Committee which reviewed the procedures and rules for election of Members of EALA to accord with the Constitution of Kenya 2010 and the bicameral nature of our Parliament. Mr. Speaker, Sir, the Joint Parliamentary Committee embarked on its task in earnest by convening its first meeting on Wednesday, 15th November, 2017, where we agreed to embark on an immediate road map that will expedite the election of Kenya's Members to the regional Assembly. As the first step, the Committee directed the presiding officers, who are the Clerks of the Houses of Parliament, to immediately place an advertisement regarding the vacancies as required under rule 4 of the EALA Elections Rules of 2017. Consequently, the presiding officers published advertisements in the\n\nKenya Gazette, The Daily Nation\n\nand The Standard Newspapers of 16th November, 2017, inviting interested and qualified candidates to submit their applications. At the close of business on Thursday, 23rd November, 2017, which was the final day for submission of applications, the presiding officer had received 208 applications as shown below-\n\nS/No. Party No. of applicants\n\n1 The Jubilee Party (JP) 111 2 The Orange Democratic Movement (ODM) 43 3 The Wiper Democratic Movement (WDM) 08 4 The Amani National Congress (ANC) 04 5 The Economic Freedom Party (EFP) 04 6 The Kenya African National Union (KANU) 04 7 The Forum for Restoration of Democracy (FORD) Kenya 03 8 The Kenya Patriots Party (KPP) 02 9 The Party of Development and Reforms 02 10 The Frontier Alliance Party (FAP) 01 11 The Democratic Party (DP) 01 12 The Party of National Unity (PNU) 01 13 Independent candidates 24\n\nTotal Applicants\n\n208 Mr. Speaker, Sir, parties intending to vie independent of a political party are required to present their nomination papers tomorrow, Thursday, 30th November, 2017 which is the nomination day.\n\nMr. Speaker, Sir, recognizing that Kenya is entitled to nine slots in the EALA Assembly, and in accordance with provisions of Rule 6 which provides for the number of candidates each political party should submit for election, the Joint Parliamentary Committee analyzed the representation in the Houses of Parliament to determine the proportionate entitlement for each of the 20 political parties in our Parliament. To do so, we summed up the total number of Members in each of the political parties in both Houses as a proportion of the total membership of Parliament, which is 416 Members and multiplied by the resultant figure by nine. The Committee was also conscious of the fact that 15 Independent Members in both Houses of Parliament are indeed independent of one another and therefore cannot be construed to be a \"political party\" for purposes of computing the proportional entitlements for parties. Mr. Speaker, Sir, before proceeding to determine the allocation, the Committee undertook due diligence with the Office of the Registrar of Political Parties to establish the existence of any pre-election or post-election coalition agreements amongst parties. In this regard, the Committee confirms that there were only two coalition agreements deposited with the said office. The first one is by five parties; which is the Orange Democratic Movement, the Wiper Democratic Movement (WDM), FORD-(K), Amani National Congress (ANC) and Chama Cha Mashinani (CCM) coalescing into the National Super Alliance (NASA). The second coalition of agreement is by two parties; the Democratic Movement and Muungano Party. Mr. Speaker, Sir, Pursuant to Rule 6 of the EALA Elections (Elections of the Assembly) Rules, 2017, political parties eligible to nominate candidates for election of Members of EALA are required to present to the Presiding Officers nominees equivalent to three times their entitlement. If your entitlement is three, you present nine names and if it is four, you present twelve names. As required under rule No. 7, today, Wednesday, 29th November, 2017 at 4.00 p.m., the presiding officers are scheduled to hold a pre-nomination briefing with leaders of the majority and minority parties in Committee Room No. 7, Main Parliament Buildings ahead of nomination day, which is tomorrow, Thursday, 30th November, 2017. Therefore, the timelines will run as follows:- Submission of nomination papers by candidates or leaders of majority and minority parties in Parliament shall be done by 30th November, 2017, which is tomorrow between 8.30 a.m. and 4.00 p.m. Public inspection of documents and nomination papers of duly nominated candidates will be open to members of the public from Friday, 1st to Monday, 4th December, 2017. Transmission of names of duly nominated candidates to the Joint Committee by the presiding officers will be done on Tuesday, 5th December, 2017. Between Wednesday, 6th up to Friday 8th December, 2017, the Joint Committee will sit to consider the nominees and present its report to the House of Parliament. The presiding officer is to Gazette the election date on the 11th December, 2017. Finally, on Wednesday, 13th December, 2017, under Rule No. 15, we shall vote in both Houses of Parliament.\n\nAs I conclude, I challenge the political parties to ensure that their candidates meet the statutory qualifications for election as Members of Parliament. It is also advisable for nominating parties to comply with the provisions of Rule No. 6(2), which provides, that, and I quote: \"In nominating its candidate, each party shall as much as it is feasible, take into account the need for fair representation of various shades of opinion, regional balance, gender and other special interest groups in Kenya and shall ensure that at least one third of its nominees are women.\" The Committee shall, upon being seized of the names of the nominees under Rule 13 ensure that the nominee fully meets the requirements of Article 50 of the East Africa Community (EAC) treaty and Rule No. 6 of EALA Rules, 2017. The reason as to why I am emphasizing on compliance with rules is to avoid the unlikely scenario that may compel the Joint Committee to have no option but to recommend to this House a fresh nomination in terms of Rule 13, thereby prolonging the process for a second time. The fact that Kenya's submission of members to EALA is long overdue has become a concern within EAC and cannot be overemphasized. Those of us who have met EALA parliamentarians from the other East African countries may have heard the concerns that they have. They feel bad regarding how our situation has dragged on for long. The House has not been able to sit for close to six months because of this delay. As a matter of fact, Kenya is the only party state of the EAC that is yet to present its members to the Assembly. Considering that the Assembly cannot be inaugurated without representation from any partner state, Kenya can no longer be the country holding the takeoff of the regional Assembly in abeyance; not at a time like this when we have so many issues that can be addressed at this Assembly. Finally, in view of the foregoing, I request that this House and political parties note the key timelines of this election process and support the Joint Committee in steering the election of Kenya's representative to the EALA to its logical conclusion. The Joint Committee will be convening next week on Tuesday, 5th December, 2017, to receive a Report from the presiding officers and the nomination papers of candidates who shall have been dully nominated on 30th November, 2017. I thank you."
     },
     {
-      "order": 98,
+      "order": 99,
       "id": "entry-767142",
       "label": "speech",
       "level": "2",
@@ -1179,7 +1191,7 @@
       "text": "Senators, the other Statement under Standing Order No. 46(2) (a) will be issued tomorrow. We were supposed to move to Statements to be requested and those who are to make the requests are not here, that is the Senator for Makueni and Sen. Kasanga. We therefore move to Statements to be issued. Could we hear from the Senate Majority Leader?"
     },
     {
-      "order": 99,
+      "order": 100,
       "id": "entry-767143",
       "label": "speech",
       "level": "2",
@@ -1191,7 +1203,7 @@
       "text": "Thank you Mr. Speaker, Sir. We have too many Statements listed for today. Unfortunately, I have two Statements that are ready. The rest are not ready. The Statement sought by Sen. Cherargei, on the status of Karebe Gold Mine Company in Nandi County is ready. He was not in the House last time. Going by tradition, we will have to wait for him. We will issue it when he is in the House."
     },
     {
-      "order": 100,
+      "order": 101,
       "id": "entry-767144",
       "label": "heading",
       "level": "1",
@@ -1203,7 +1215,7 @@
       "text": "STATEMENTS"
     },
     {
-      "order": 101,
+      "order": 102,
       "id": "entry-767145",
       "label": "heading",
       "level": "2",
@@ -1215,7 +1227,7 @@
       "text": "STATUS OF KAREBE GOLD MINE COMPANY LTD IN NANDI COUNTY"
     },
     {
-      "order": 102,
+      "order": 103,
       "id": "entry-767146",
       "label": "scene",
       "level": "2",
@@ -1227,7 +1239,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 103,
+      "order": 104,
       "id": "entry-767147-split-before-e2467ed6-738f-425d-ba72-adee14b77c9c",
       "label": "speech",
       "level": "2",
@@ -1239,7 +1251,7 @@
       "text": "The other Statement is also his. I do have the answer but he is not in the House. If you allow me, I can hold on it until he comes to the House."
     },
     {
-      "order": 104,
+      "order": 105,
       "id": "entry-767147-split-selected-2e9b87fb-77b2-49c3-b09e-29abefc19a03",
       "label": "heading",
       "level": "2",
@@ -1251,7 +1263,7 @@
       "text": "BRUTAL MURDERS OF MILCAH KIPLIMO AND STANLEY KIPCHIRCHIR IN NANDI"
     },
     {
-      "order": 105,
+      "order": 106,
       "id": "entry-767147-split-after-b5435a4d-bfae-4158-b6f7-127c8b2595d8-split-before-54e03459-5746-4612-b231-1df90bb69d10",
       "label": "speech",
       "level": "2",
@@ -1263,7 +1275,7 @@
       "text": "(S tatement deferred) Statement C was sought by Sen. Were. This Statement was ready last time but she was not in the House. We still have to wait."
     },
     {
-      "order": 106,
+      "order": 107,
       "id": "entry-767147-split-after-b5435a4d-bfae-4158-b6f7-127c8b2595d8-split-selected-1d3d279e-1d14-4be5-965a-ddd4009fc81a",
       "label": "heading",
       "level": "2",
@@ -1275,7 +1287,7 @@
       "text": "ONGOING STRIKE BY NURSES IN PUBLIC HEALTH INSTITUTIONS"
     },
     {
-      "order": 107,
+      "order": 108,
       "id": "entry-767148",
       "label": "scene",
       "level": "2",
@@ -1287,7 +1299,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 108,
+      "order": 109,
       "id": "entry-767149-split-before-a0f3723c-7dfc-429b-a145-b37c412b7ce9",
       "label": "speech",
       "level": "2",
@@ -1299,7 +1311,7 @@
       "text": "Sen. Mutula Kilonzo Jnr. is not in the House."
     },
     {
-      "order": 109,
+      "order": 110,
       "id": "entry-767149-split-selected-c1644c58-e422-464b-acc9-b8ad34d5ca70",
       "label": "heading",
       "level": "2",
@@ -1311,7 +1323,7 @@
       "text": "ALLEGED DUMPING OF ASBESTOS IN NGULU-KIKUMBULYU, MAKUENI COUNTY"
     },
     {
-      "order": 110,
+      "order": 111,
       "id": "entry-767150",
       "label": "scene",
       "level": "2",
@@ -1323,7 +1335,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 111,
+      "order": 112,
       "id": "entry-767151-split-before-5e86235f-b99e-4165-adbf-e0f7c4c02026",
       "label": "speech",
       "level": "2",
@@ -1335,7 +1347,7 @@
       "text": "The next Statement, E, is also his and so are Statement F and G. We do have the answers but he is also not in the House."
     },
     {
-      "order": 112,
+      "order": 113,
       "id": "entry-767151-split-selected-b0773387-73fa-4f8f-9183-fdfb7115e263",
       "label": "heading",
       "level": "2",
@@ -1347,7 +1359,7 @@
       "text": "STATUS OF THE OIL SPILLAGE AT THANGE, MAKUENI COUNTY"
     },
     {
-      "order": 113,
+      "order": 114,
       "id": "entry-767151-split-after-7e95f05c-11cb-48ec-b83e-a61f86165b30-split-selected-b3363ddd-9d59-484d-bffa-e8ec14485b15",
       "label": "heading",
       "level": "2",
@@ -1359,7 +1371,7 @@
       "text": "COMPENSATION FOR PERSONS AFFECTED BY THWAKE MULTI-PURPOSE DAM PROJECT"
     },
     {
-      "order": 114,
+      "order": 115,
       "id": "entry-767151-split-after-7e95f05c-11cb-48ec-b83e-a61f86165b30-split-after-5f15c573-bf64-4a3e-8c83-2857a5353e1d",
       "label": "heading",
       "level": "2",
@@ -1371,7 +1383,7 @@
       "text": "DELAYED COMPENSATION FOR PERSONS DISPLACED BY MULIMA DAM PROJECT"
     },
     {
-      "order": 115,
+      "order": 116,
       "id": "entry-767152",
       "label": "scene",
       "level": "2",
@@ -1383,7 +1395,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 116,
+      "order": 117,
       "id": "entry-767155-split-before-7e97d439-e440-4043-9e78-8160627654de",
       "label": "speech",
       "level": "2",
@@ -1395,7 +1407,7 @@
       "text": "Statement H was also sought by him but I do not have an answer. We will still follow up on it. The Ministry is requesting for more time."
     },
     {
-      "order": 117,
+      "order": 118,
       "id": "entry-767155-split-selected-f65d46cd-6791-4c9b-84b8-f8bba29a0c76",
       "label": "heading",
       "level": "2",
@@ -1407,7 +1419,7 @@
       "text": "KETRACO SULTAN HAMUD-MWINGI HIGH VOLTAGE POWER LINE PROJECT"
     },
     {
-      "order": 118,
+      "order": 119,
       "id": "entry-767156",
       "label": "scene",
       "level": "2",
@@ -1419,7 +1431,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 119,
+      "order": 120,
       "id": "entry-767157",
       "label": "speech",
       "level": "2",
@@ -1431,7 +1443,7 @@
       "text": "Statement (I) was sought by Sen. Musuruve. Unfortunately, we do not have an answer for the three Statements sought by her. I am requesting that she gives us more time. The Ministry is working on them. I hope that she is okay with that."
     },
     {
-      "order": 120,
+      "order": 121,
       "id": "entry-767158",
       "label": "speech",
       "level": "2",
@@ -1443,7 +1455,7 @@
       "text": "I can see Sen. Musuruve. Can you say something?"
     },
     {
-      "order": 121,
+      "order": 122,
       "id": "entry-767159",
       "label": "speech",
       "level": "2",
@@ -1455,7 +1467,7 @@
       "text": "Thank you Mr. Speaker, Sir and Sen. Dullo. I know that she is making an effort to present elaborate information. I appreciate that. However, on Statement (I), Madam Speaker, I would like to make a clarification that the Article that the question is anchored on is Article 54(2) and not Article 100."
     },
     {
-      "order": 122,
+      "order": 123,
       "id": "entry-767160",
       "label": "speech",
       "level": "2",
@@ -1467,7 +1479,7 @@
       "text": "It is Mr. Speaker and not Madam Speaker."
     },
     {
-      "order": 123,
+      "order": 124,
       "id": "entry-767161",
       "label": "speech",
       "level": "2",
@@ -1479,7 +1491,7 @@
       "text": "My apologies Mr. Speaker, Sir. Thank you."
     },
     {
-      "order": 124,
+      "order": 125,
       "id": "entry-767162",
       "label": "speech",
       "level": "2",
@@ -1491,7 +1503,7 @@
       "text": "Mr. Speaker, Sir, we will correct that. We will ensure that she has her Statements as soon as they are ready."
     },
     {
-      "order": 125,
+      "order": 126,
       "id": "entry-767162-uppercase-text-heading",
       "label": "heading",
       "level": "2",
@@ -1503,7 +1515,7 @@
       "text": "STATUS OF INCLUSION OF PWDS IN PUBLIC SERVICE ACCESS TO PROCUREMENT OPPORTUNITIES IN GOVERNMENT BY PWDS, WOMEN AND YOUTH ALLEGED ABUSE OF HUMAN RIGHTS OF PWDS MAINSTREAMING OF LEARNERS WITH DISABILITY IN THE EDUCATION CURRICULUM"
     },
     {
-      "order": 126,
+      "order": 127,
       "id": "entry-767163",
       "label": "scene",
       "level": "2",
@@ -1515,7 +1527,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 127,
+      "order": 128,
       "id": "entry-767164",
       "label": "heading",
       "level": "2",
@@ -1527,7 +1539,7 @@
       "text": "ALLEGED SHOOTING OF LIVESTOCK BY SECURITY OFFICERS IN LAIKIPIA COUNTY"
     },
     {
-      "order": 128,
+      "order": 129,
       "id": "entry-767165",
       "label": "speech",
       "level": "2",
@@ -1539,7 +1551,7 @@
       "text": "Mr. Speaker, Sir, Statement (M) is for Sen. Lelegwe. I do not have this answer, but I have spoken to the Office of the Principal Secretary (PS) of the Ministry of Interior and Coordination of National Government this morning to follow up on it."
     },
     {
-      "order": 129,
+      "order": 130,
       "id": "entry-767166",
       "label": "scene",
       "level": "2",
@@ -1551,7 +1563,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 130,
+      "order": 131,
       "id": "entry-767169-split-selected-381a3b1a-e0a9-4ee3-a01c-e4596f485ffe",
       "label": "heading",
       "level": "2",
@@ -1563,7 +1575,7 @@
       "text": "USE OF EXCESSIVE FORCE / POLICE BRUTALITY DURING PEACEFUL DEMONSTRATIONS BY UON STUDENTS"
     },
     {
-      "order": 131,
+      "order": 132,
       "id": "entry-767169-split-after-81f45aa8-33ec-4d3f-bb79-587903826cc9",
       "label": "speech",
       "level": "2",
@@ -1575,7 +1587,7 @@
       "text": "I have the answer to the one for Sen. Olekina. However, I have discussed with him since he is going for another meeting which I am also supposed to be chairing, that I issue it tomorrow."
     },
     {
-      "order": 132,
+      "order": 133,
       "id": "entry-767170",
       "label": "scene",
       "level": "2",
@@ -1587,7 +1599,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 133,
+      "order": 134,
       "id": "entry-767171-split-selected-91dd53d3-a832-46ed-ab1c-7a0fe16de692",
       "label": "heading",
       "level": "2",
@@ -1599,7 +1611,7 @@
       "text": "DISPLACEMENT OF SAMBURU PASTORALISTS IN LAIKIPIA COUNTY"
     },
     {
-      "order": 134,
+      "order": 135,
       "id": "entry-767171-split-after-593d14d4-34e7-4645-8023-0c882875419c",
       "label": "speech",
       "level": "2",
@@ -1611,7 +1623,7 @@
       "text": "This other one is also for Sen. Olekina. It is not ready, but I have discussed with the relevant Ministry."
     },
     {
-      "order": 135,
+      "order": 136,
       "id": "entry-767172",
       "label": "scene",
       "level": "2",
@@ -1623,7 +1635,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 136,
+      "order": 137,
       "id": "entry-767173-split-selected-233beed3-c1a3-4064-a55d-3ce625bb4458",
       "label": "heading",
       "level": "2",
@@ -1635,7 +1647,7 @@
       "text": "STATUS OF LAND OWNED BY ADC IN LAIKIPIA COUNTY"
     },
     {
-      "order": 137,
+      "order": 138,
       "id": "entry-767173-split-after-15be8436-71cc-421b-b576-50b955e279af",
       "label": "speech",
       "level": "2",
@@ -1647,7 +1659,7 @@
       "text": "Statement (P) is also his. I have spoken to the PS of the Ministry of Lands, Housing and Urban Development this afternoon and he is working on it."
     },
     {
-      "order": 138,
+      "order": 139,
       "id": "entry-767174",
       "label": "scene",
       "level": "2",
@@ -1659,7 +1671,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 139,
+      "order": 140,
       "id": "entry-767175-split-selected-b0a6b582-cb00-4a07-8ede-1710f3356195",
       "label": "heading",
       "level": "2",
@@ -1671,7 +1683,7 @@
       "text": "STATE OF INSECURITY IN NGOMENI WARD, MWINGI NORTH CONSTITUENCY, KITUI COUNTY"
     },
     {
-      "order": 140,
+      "order": 141,
       "id": "entry-767175-split-after-61cb5e03-b625-4d14-85a9-1d2c698b863c",
       "label": "speech",
       "level": "2",
@@ -1683,7 +1695,7 @@
       "text": "Statement (Q) is for Sen. Wambua. I have also followed up on it and they are working on it. Senator, we will make sure that as soon as we have it, we share a copy with you and also issue it on the Floor of the House if you are in agreement with us. I had followed it up in the morning."
     },
     {
-      "order": 141,
+      "order": 142,
       "id": "entry-767176",
       "label": "scene",
       "level": "2",
@@ -1695,7 +1707,7 @@
       "text": "(The Speaker (Hon. Lusaka) consulted with the Clerk-at-the-Table)"
     },
     {
-      "order": 142,
+      "order": 143,
       "id": "entry-767177",
       "label": "speech",
       "level": "2",
@@ -1707,7 +1719,7 @@
       "text": "Yes, Sen. Wambua."
     },
     {
-      "order": 143,
+      "order": 144,
       "id": "entry-767178",
       "label": "speech",
       "level": "2",
@@ -1719,7 +1731,7 @@
       "text": "Thank you, Mr. Speaker, Sir. It is okay. I will wait for that Statement, but I want to make a point if you allow me. For us, in this House, the response to the Statement that I sought is just a response, but for the affected community and the families, it is more than just a statement. It is a matter of life and death."
     },
     {
-      "order": 144,
+      "order": 145,
       "id": "entry-767179-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -1731,7 +1743,7 @@
       "text": "(The Speaker (Hon. Lusaka) left the Chair)"
     },
     {
-      "order": 145,
+      "order": 146,
       "id": "entry-767179-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -1743,7 +1755,7 @@
       "text": "(The Temporary Speaker (Sen. (Prof.) Kamar) in the Chair)"
     },
     {
-      "order": 146,
+      "order": 147,
       "id": "entry-767182",
       "label": "speech",
       "level": "2",
@@ -1755,7 +1767,7 @@
       "text": "Madam Temporary Speaker, on the day that I sought this statement, the following morning, three more people were killed. What followed after that is that the Government moved very fast and disarmed the entire police reservist unit in the region, leaving the people completely exposed. I had time to visit that region. The situation on the ground is really appalling. What is happening now is that at exactly 5.00 p.m., people leave their homes and the shopping centres to spend nights in the bushes. I request that we expedite this matter. As I said, for us, it is just a statement. However, for the people affected, it is a matter of life and death. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 147,
+      "order": 148,
       "id": "entry-767183",
       "label": "speech",
       "level": "2",
@@ -1767,7 +1779,7 @@
       "text": "Thank you, Madam Temporary Speaker. Sen. Wambua, I do agree with you. Of course, most of the time when we get these statements we always make sure that whatever they are committed to give us as a answer is normally a commitment that they should be able to effect on the ground. I do understand the challenge you are facing. Personally, I will take it up with the relevant Ministry tomorrow and make sure that I give you feedback in the afternoon as we wait for the written statement."
     },
     {
-      "order": 148,
+      "order": 149,
       "id": "entry-767184",
       "label": "scene",
       "level": "2",
@@ -1779,7 +1791,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 149,
+      "order": 150,
       "id": "entry-767185-split-selected-03e69b22-a949-40d5-898b-5bf10b9dc6d4",
       "label": "heading",
       "level": "2",
@@ -1791,7 +1803,7 @@
       "text": "STATUS OF KENYA REGARDING THE HAGUE CONVENTION ON THE CIVIL ASPECTS OF INTERNATIONAL CHILD ABDUCTION"
     },
     {
-      "order": 150,
+      "order": 151,
       "id": "entry-767185-split-after-0e0193be-a129-44ec-bb23-97f2a9c544e6",
       "label": "speech",
       "level": "2",
@@ -1803,7 +1815,7 @@
       "text": "The final statement is for Sen. Halake which is also not ready. We request that you give us more time."
     },
     {
-      "order": 151,
+      "order": 152,
       "id": "entry-767186",
       "label": "speech",
       "level": "2",
@@ -1815,7 +1827,7 @@
       "text": "Thank you, Madam Temporary Speaker and the Deputy Senate Majority Leader. While I acknowledge that sometimes we do not get answers to the statements as quickly as we would have liked to; again, just as Sen. Wambua has said, for families whose children have been abducted and who cannot have any access to jurisdictions that are beyond our borders, it is devastating to them. We may look at this convection as something akin to poetry, something that we can live without or something that is so far moved from our daily lives for those of us who perhaps have been lucky enough not to endure those kinds of things. For the many families that have had their children abducted from this country and who cannot afford to go to the foreign courts to get back their children, it is really devastating to them. I hope that Sen. Dullo will make a lot of effort to get these answers. The Ministry of Foreign Affairs needs to really expedite this and give us an answer. I do not understand why our country should forfeit something so simple and let our children be exposed to foreign jurisdictions. I really pray that this House will make sure that the Ministry gives us the answers we are seeking."
     },
     {
-      "order": 152,
+      "order": 153,
       "id": "entry-767187",
       "label": "scene",
       "level": "2",
@@ -1827,7 +1839,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 153,
+      "order": 154,
       "id": "entry-767188",
       "label": "speech",
       "level": "2",
@@ -1839,7 +1851,7 @@
       "text": "The Deputy Senate Majority Leader (Sen. Dullo), what we need is concurrence from you because you have a number of statements that were not issued today. It is important that we prioritise them for next week so that we do not have other statements overlapping these ones. Could we have your concurrence that you will issue these statements next week in the order that they appear?"
     },
     {
-      "order": 154,
+      "order": 155,
       "id": "entry-767191",
       "label": "speech",
       "level": "2",
@@ -1851,7 +1863,7 @@
       "text": "Madam Temporary Speaker, I am sure that there are other new ones that have come up, but we will try our best to make sure that we have answered all of them before we go on recess."
     },
     {
-      "order": 155,
+      "order": 156,
       "id": "entry-767192",
       "label": "speech",
       "level": "2",
@@ -1863,7 +1875,7 @@
       "text": "Okay. So be it. We have rescheduled them for next week in the order that they appear. Let us move to the next Order."
     },
     {
-      "order": 156,
+      "order": 157,
       "id": "entry-767193",
       "label": "heading",
       "level": "1",
@@ -1875,7 +1887,7 @@
       "text": "BILLS\nFirst Readings"
     },
     {
-      "order": 157,
+      "order": 158,
       "id": "entry-767195-split-before-ca4f2de3-3a52-4ff1-bba5-bdd798526589",
       "label": "heading",
       "level": "3",
@@ -1887,7 +1899,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) (NO.2) BILL (SENATE BILLS NO. 7 OF 2017)"
     },
     {
-      "order": 158,
+      "order": 159,
       "id": "entry-767195-split-selected-566ea080-ce36-4572-a6b3-befe19ec149b",
       "label": "heading",
       "level": "3",
@@ -1899,7 +1911,7 @@
       "text": "THE NATIONAL FLAG, EMBLEMS AND NAMES (AMENDMENT) BILL (SENATE BILLS NO. 8 OF 2017)"
     },
     {
-      "order": 159,
+      "order": 160,
       "id": "entry-767196",
       "label": "scene",
       "level": "3",
@@ -1911,7 +1923,7 @@
       "text": "(Order for First Readings read - Read the First Time and ordered to be referred to the relevant Senate Committees)"
     },
     {
-      "order": 160,
+      "order": 161,
       "id": "entry-767197",
       "label": "heading",
       "level": "1",
@@ -1923,7 +1935,7 @@
       "text": "MOTION"
     },
     {
-      "order": 161,
+      "order": 162,
       "id": "entry-767198",
       "label": "heading",
       "level": "3",
@@ -1935,7 +1947,7 @@
       "text": "IMPLEMENTATION OF THE NATIONAL DROUGHT MANAGEMENT AUTHORITY ACT, 2016"
     },
     {
-      "order": 162,
+      "order": 163,
       "id": "entry-767199",
       "label": "speech",
       "level": "3",
@@ -1947,7 +1959,7 @@
       "text": "Thank you, Madam Temporary Speaker. I beg to move the following Motion:- AWARE that the right to adequate food is affirmed under Article 25 of the 1948 Universal Declaration of Human Rights, and Article 11 of the 1966 International Covenant on Economic, Social and Cultural Rights as part of the right to an adequate standard of living; FURTHER AWARE THAT Article 43 (1) (c) and (d) of the Constitution of Kenya provides for economic and social rights for every person and in particular the right to be free from hunger, to have adequate food of acceptable quality, and to have clean and safe water in adequate quantities; CONCERNED that this fundamental right is under threat as various Counties battle severe drought occasioned by successive failure in rainfall; CONCERNED that over 3.4 million people including over 370,000 children are acutely malnourished and in urgent need of emergency assistance while millions of livestock have perished and the remaining are in extremely poor body condition as a result of the drought; FURTHER CONCERNED that the situation in drought ravaged parts of the country poses a serious threat to human dignity, peace, security and stability following loss of livelihoods leading to scramble for scarce resources by the affected communities; NOTING that Parliament enacted the National Drought Management Bill which was assented to on 1st April, 2016 and which seeks to comprehensively address the matter of persistent droughts in the country; NOW THEREFORE, the Senate calls upon the Ministry of Interior and Coordination of National Government and relevant state agencies responsible including the National Drought Management Authority to- 1. Expeditiously implement the National Drought Management Authority Act, 2016 and set up the necessary infrastructure to mitigate against persistent droughts; and 2. Come up with efficient drought response strategies aimed at saving lives of both people and livestock. Madam Temporary Speaker, the reason why I actually brought this particular Motion is because of the current situation which most of the parts of the country are facing, especially the ones in the northern part. As you are aware, the National Drought Management Authority (NDMA) is mandated to carry out this responsibility. The reason why it is mandated to carry out the responsibility and mechanism is to ensure that drought does not impact into famine and climate change as it should be sufficiently mitigated. You will find people running up and down whenever there is drought in the country to create a perception of an emergency or a disaster. This has happened over the years and if we do not mitigate drought, it could be a year in and year out problem. It is true that some areas have not received rains up to now. However, if you go to the NDMA office, you will find that they do not even have a strategy to make sure that people and animals survive until when rains come. Actually, many parts of the country have not received rains. Madam Temporary Speaker, the mandate of the NDMA is to firstly; reduce drought vulnerability, increase drought resilience and enhance adaptation of climate change. They are supposed to carry out most of these things on daily basis, but unfortunately, there are no proper strategies to make sure that this happens. It is important for us to make sure that the relevant institutions of this country take that responsibility and deliver on their mandates as required. Secondly, it is mandated to provide timely, quality drought and climate information to facilitate concerted action by relevant stakeholders. You will find very many institutions in the country coming up with drought mitigating activities because this is not harmonized and actually affects this country. So, it is really important for the country to make sure that only one institution is responsible for this. For example, donors and county governments do their own things and you will still find the national Government institutions such as the NDMA doing their own things. Can we have one institution that is responsible for that so that we have proper impact on the affected areas? Thirdly is to protect livelihoods of vulnerable households during droughts. This is not happening or taking place as required by law. If we sit down as a country and also as legislatures to pass legislation in order to make sure that this happens, then only few people will be dying. Very many people die because of drought. Very many people end up eating dogs or from meat, which is not allowed in some of communities. We have to be serious about the sanctity of life and also take care of people who are affected during droughts. Fourthly is to facilitate coordination action by the Government and other stakeholders towards ensuring enduring drought emergencies in the country. Could the Government ensure that NDMA is properly facilitated to deal with the emergencies? If you look across the board, you will find that the Government spends a lot of money to mitigate drought but if you go on the ground, it is like nothing happens and this has to be dealt with. It is true that people die and we have to do something as a country. There is also an aspect of knowledge management of ending drought emergencies in Kenya. Kenyans, especially those living in northern Kenya are harshly affected by the drought but do not even know. Such information should be provided by the relevant institutions of the Government, especially the NDMA. It is important to sensitise members of the public and officers serving Government institutions to make sure that people are prepared before drought falls. If you look at the budget of the NDMA, you will see that this financial year, they were allocated Kshs38.6 million only which is just recurrent expenditure and that cannot do anything. It is important for the Government to enhance and make sure that this institution is facilitated because they cover vast areas which are also far apart. Those areas are very dry and the roads are not even passable yet that is the money they utilize for that purpose. We need to do something about this. Again, early warning is very important because without early warning, we cannot deal with the issues of drought. It is important for us to make sure that the institution is facilitated. The issue of emergencies and especially drought should be harmonized in this country. Unless we do that, we will not be helping our people in this country. This has to be taken very seriously. Under the Act, they are supposed to have created a fund known as the Multi- donor National Emergency Fund. This is something that should have helped this process, but unfortunately since this legislation was passed in April, 2016, up to now, this fund is not operational simply because rules and regulations have not been developed. Rules and regulations cannot hold this country at ransom. I am aware that right now there is Kshs2 billion in the NDMA account that has not been utilised. The reason why it has not been utilised is because they do not have rules and regulations to allow them utilize the funds. Why do we create such funds if we cannot help our people? It is really important that we move with speed. I am addressing the Cabinet Secretary for the National Treasury and his counterpart in charge of Devolution and Planning to make sure that rules and regulations are developed as early as possible to make sure that Kenyans benefit from the money lying in the account. Who knows what is happening to the money? Madam Temporary Speaker, we have an institution that should take care of this. It is very important for us to make sure that we save the lives of our people. For example, in northern Kenya, most of the people who used to have over a thousand animals are poor today. They do not even have one chick. This is a right that is enshrined in the Constitution. They need to be protected and their properties as well. There are also funds under the governors' docket. Governors have budgets to take care of famine and drought but that money is not utilised properly. Nobody even knows how that money is used. Why can the monies not go to the NDMA account instead of going to the governors so that they are properly utilized with proper structures in place to make sure that we help our people? There are millions of shillings being used by the governors yet nobody knows how they are being spent. There is a lot of mismanagement and misappropriation of the budget under the governor's office. Again, governors who are chairs of such boards should make sure that they harmonize the drought management kitty so as to make sure that every institution does what it is required to do. However, I do not think governors have ever sat in meetings to make sure that the institutions within counties are utilizing the money as required by law. Madam Temporary Speaker, I do not want to take much time. However, this country faces challenges and especially those areas stricken by drought. In Isiolo where I come from, there are people who cannot take their kids to school today because their animals have died. Some of these animals are skeletons and cannot even be taken to the market. We need to have proper strategies in place to make sure that our people are taken care of. Unless we do that, then I do not see why we should be calling ourselves leaders. We have really failed in our responsibility to make sure that we protect the rights of our people in this country. With those many remarks, I will stop there and allow Sen. (Eng.) Hargura to second me on this particular Motion. I thank you."
     },
     {
-      "order": 163,
+      "order": 164,
       "id": "entry-767206",
       "label": "speech",
       "level": "3",
@@ -1959,7 +1971,7 @@
       "text": "Thank you, Madam Temporary Speaker. I would like to second this Motion where the Senate is calling upon the Ministry of Interior and Coordination of National Government - which I think should be the Ministry of Devolution and Planning, where the National Drought Management Authority (NDMA) falls - so that the Act is expeditiously implemented. The Motion also aims to come up with effective drought response strategies aimed at saving both lives of people and the animals. I would like to draw the attention of the House that this Motion covers a very big part of this country; the Arid and Semi-arid Lands (ASAL) areas. The ASAL areas cover about 89 per cent of the land mass in Kenya. By the census of 2009, about 14 million Kenyans live in that area. Currently ASAL areas cover about 23 counties; of which nine are arid counties and 14 are semi-arid counties. The nine arid counties are mainly Northern Kenya from Turkana all the way to Tana River. Then we have the semi-arid ones from Kajiado, Narok coming down to the lower eastern, all the way to Nyeri, Meru, Tharaka-Nithi, Laikipia and West Pokot counties. All these are semi-arid parts of this country. So, we are talking about a big chunk of this country. If we go back a bit in history, you realize that these areas have been marginalized systematically, especially in the northern Kenya. When the colonialists came in, they kind-of used those areas as a buffer zone between countries like Ethiopia and Somalia and what we call the white highlands, where they thought that is where the productive part of this country is. That is where they took land. Their policy has always been a policy of containment and not engagement, and that is how the areas were marginalized. Even when we got independence as a country, the same marginalization continued. I am just trying to bring to the attention of this House that what we are dealing with is something we have to tackle deliberately as Kenyans, because we know the history of that part of the country. In 1965, Sessional Paper No.10 stated very clearly that to let the economy of the country as a whole to grow as fast as possible, development money should be invested where it will yield the highest increase in net output. This approach will clearly favor development of areas having abundant natural resources, good land, rainfall, transport, power facilities and where people are receptive to development. So, this actually led to targeting of only those areas which are along the transport and the power facilities. That is why we say that development is only along the railway line from Mombasa to Malaba then to Nanyuki. Development is concentrated 50 kilometers around that railway line. Transport and electricity power were developments introduced by the colonialists. They did not introduce these developments in these other areas. However, the Kenyan government used these factors as a basis for development; and that is already double tragedy as we call it, because we were marginalized by the colonialists then our own government used that basis to marginalize us again. For many years, our way of life as pastoralists has been considered as an irrational and economically destructive way of life. Therefore, the government did not actually invest in it. So, we could not move out of that mobile pastoralism for the last 50 years because the government did not come up with any policy. If it came up with policies of how to improve the quality of the animals and how to create disease free zones, then that form of livelihood would have been enhanced and it would have contributed to the development of this country. Funds would have been allocated to that part of the country and now we would not be having this issue. However, I am not saying that the government did not do any targeting. There are cases where, like in 1980, an ASAL section was created in the Ministry of Economic Planning and Development which did not also concentrate much on the real problems. We also had a Ministry of Reclamation and Development of Arid Semi-Arid and Waste lands which was created in 1989, which also just implemented some donor projects. It did not go far because it was later was merged with the Ministry of Rural Development. But in 1996, the Arid Lands Resource Management Program or project was started which basically targeted those areas which were not favored by the donors. A case in point is Mandera and Wajir counties, which actually got the first serious project from the government through that project. When it was extended, at least it also assisted those arid areas which were not favored by the donors. In 2003, with the National Rainbow Coalition (NARC) Government, a Ministry of Livestock and Fisheries Development was created which also gave preference to the livestock sector and the ASAL areas, which were previously neglected. By then, the sentiments within the leadership had changed and it was very clear that there was no way 20 per cent of this country can develop and leave 80 per cent behind and still claim that we are having a vision like Vision 2030, where we wanted to become a middle level developed economy. That is when these deliberate efforts were made. But, I think the most targeted effort was in 2008 when President Kibaki announced the creation of the Ministry of State for Development of Northern Kenya and other Arid Lands. That Ministry, which was by then run by a Minister from Northern Kenya, Hon. Elmi, tried very much to focus on development in Northern Kenya and arid lands. It was a one-term ministry because by 2013, it was never taken up. I hope that now in 2017, President Uhuru Kenyatta, in his second term, will reprioritize Northern Kenya and give it a full-fledged ministry the way it was done by His Excellency Mwai Kibaki in 2008. This is because what we are dealing with now - I am coming to the subject matter of this Motion - is a creation of that ministry. Sessional Paper No.8 of 2012 which talked of the National Policy for Sustainable Development of Northern Kenya and other Arid Lands. It actually tried to correct the misconception of Sessional Paper No.10 of 1965. Among its recommendations which we are now dealing with now, because it had four objectives are as follows. The first objective was to strengthen national integration, cohesion and equity. This was part of Agenda 4 of the post-election violence process which directly targeted national cohesion, which was one of our problems. This Sessional Paper talks of that; but there is nothing much after that. The second objective was to improve the enabling environment for development in Northern Kenya and other arid lands. The third objective was to develop alternative approaches to service delivery, governance and public administration in Northern Kenya and pastoral areas. Now, the fourth one, which is actually the subject matter of this Motion, is to strengthen the climate resilience of communities in ASAL and ensure sustainable livelihoods. One of the deliverables is the establishment of the National Drought Management Authority (NDMA) and the National Drought Disaster Contingency Funds (NDDCF). That is what I believe is the subject of this Motion. It was a creation of this Sessional Paper, which itself was a creation of the Ministry of Northern Kenya. There are still three more objectives which need to be covered if that part of the country is targeted, so that it can catch up with the rest of the country. Based on that, there is need to ensure the National Drought Management Authority Act is fully implemented. The National Drought Management Authority (NDMA), which replaced the Arid Lands Resource Management Programme is in place, but the people from those areas are not feeling it on the ground. Madam Temporary Speaker, in line with the Motion, there is need to strengthen the Authority itself before we go to the fund. The term of the chairman and two members of the board of NDMA has expired. Therefore, that is an authority which is not being run properly because we do not have a fully constituted Board. One way of making sure that it is effective is making sure that the board is composed of people who are aware of what is going on in that part of the country. That board was created with the purpose of improving the condition of Kenyans living there. Therefore, there is need to make sure that the board is fully constituted. There is also need to ensure that the Secretariat is also fully constituted because the information we have is that the term of the Chief Executive Officer (CEO) will expire by February next year. There must be some mechanism of ensuring there is an effective chairperson, so that the board is fully functional. As the Mover said, the fund was created and there is already Kshs2 billion in the account. Since 2016 we have gone through several droughts, but that fund is not functional because the rules and regulations have not yet been passed. A draft has been submitted to Treasury, but it has not been brought for approval. One of the reasons this Motion is before this House is to impress upon the Cabinet Secretary, Treasury to make sure that those regulations are approved, so that the fund can be operationalised and those areas can get the necessary interventions. The fund also needs to have a dedicated fund manager, who is conversant with the situation on the ground, so that whatever monies that are put there are actually not for just routinely responding to emergencies. The objective of the fund is to build capacity and technical expertise to improve on drought management. Therefore, we should not rush to the fund every time there is drought. We should have measures to ensure that those droughts are mitigated, so that when the next drought comes, it will not have the same impact as the past drought, unlike what we are going through. Right now it is a vicious circle, where people's livestock is wiped out every time there is drought. They feel that the Government has no policies to improve and cushion their livelihoods. Madam Temporary Speaker, the fund also needs to be enhanced. As the Mover has rightfully said, there are many other funds in this country. For example, in my county there is a budget of over Kshs200 million for emergencies, but this is not coordinated. If this fund could take into account that and coordinate, all those other funds could be put into good use. At the moment, everybody is running around with emergency funds, but there is no coordination. Therefore, the effect is not felt. I beg to second the Motion."
     },
     {
-      "order": 164,
+      "order": 165,
       "id": "entry-767213",
       "label": "scene",
       "level": "3",
@@ -1971,7 +1983,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 165,
+      "order": 166,
       "id": "entry-767214",
       "label": "speech",
       "level": "3",
@@ -1983,7 +1995,7 @@
       "text": "Sen. Mwaruma:"
     },
     {
-      "order": 166,
+      "order": 167,
       "id": "entry-767215",
       "label": "speech",
       "level": "3",
@@ -1995,7 +2007,7 @@
       "text": "Thank you, Madam Temporary Speaker. I stand here to support the Motion as presented by Sen. Dullo and seconded by Sen. (Eng.) Hargura. Drought is a real issue of concern to Kenya in the regions that have historically been marginalized. It is not only experienced in the northern part of Kenya, but also in Taita- Taveta County which I represent. We have suffered a lot of harm due to drought. Therefore, I stand to support the operationalization of the National Drought Management Authority Act. When we have a section of our society going hungry and dying because of lack of food, 50 years after Independence, it borders on morality."
     },
     {
-      "order": 167,
+      "order": 168,
       "id": "entry-767217",
       "label": "speech",
       "level": "3",
@@ -2007,7 +2019,7 @@
       "text": "Mr. Speaker, Sir, lack of food also affects other areas like education. When you have malnourished people, we have a problem of schooling. Children do not go to school and even when they go, they do not do well. In the areas that have been traditionally marginalised, they will be marginalised further for lack of access to quality education. Where I come from, the issue of drought has caused a lot of problems because Taita-Taveta is considered to be a disease-free zone for animals and most people from different parts of Kenya take their animals there for fattening. Due to the scarce pastures, they end up grazing their animals in the parks. We have Tsavo East and West. When they do so, they end up displacing the animals who naturally are supposed to live in the parks and drive them to the homesteads of people thus increasing human-wildlife conflict. Human-wildlife conflict brings about issues of people who are harmed by animals in their homesteads. The animals go to the ranches and you may very well know that even the compensation is a problem for people who have been hurt by animals. To add insult to this wound, the people who are herding these animals have more often than not been in conflict with the residents of Taita-Taveta County. In 2012/2013, there was a conflict where herders who were grazing their animals brought them where the people were living. When the people removed the animals, the herders cut them with pangas in those homesteads. I therefore, dare say that drought and grazing the animals where they are not supposed to be grazed borders on being a security issue. This is because if the families retaliated, then it could have been a serious issue of concern. I am surprised that there is Kshs2 billion that was set aside to run the National Drought Management Authority and it has not been used for example to mitigate on the effect of drought and give the people food. That is again a moral issue. The Ministry of Interior and Coordination of National Government should facilitate the operationalization of this Bill so that the people can get assistance. Sometimes money is there but is not being used. During the electioneering period, a lot of relief food was distributed especially from the other side of the political divide trying to woo voters. I think it is good that we have consistent supply of relief food at all times whether it is electioneering period or not. For the case of Taita-Taveta, there are many things that can be done to mitigate on the effects of drought. There are water bodies such as Mzima Spring. I would like to urge the governments to facilitate the building of the Mzima II project so that the people who are suffering from hunger can irrigate their land and have more food so that the effect of drought and hunger can be reduced. We also have other areas such Lake Chala which can supply water to most of the regions of Taita-Taveta so that we can have people irrigating their farms and we reduce the effect of hunger. Most importantly, we need to have animals that are supposed to graze in ranches remain there. They should not be taken to the national parks because they then drive the wild animals to where people live, thus causing serious human-wildlife conflict. I support."
     },
     {
-      "order": 168,
+      "order": 169,
       "id": "entry-767218",
       "label": "speech",
       "level": "3",
@@ -2019,7 +2031,7 @@
       "text": "Madam Temporary Speaker, I congratulate and thank my sister, Sen. Dullo, for having thought of this Motion at this particular time. In the last ten years, we have seen in our country the great impact of climate change and mostly on our pastoralist communities or those counties with a majority of pastoralists. When I was listening to her, she was mostly talking of the North Eastern parts of Kenya and this problem is not only confined to that region but also to all other arid areas in this country. Climate change has really hit the pastoralists due to shortened or lack of rains. This has also resulted in the conflicts we see in Kenya today. We have seen the conflicts in Laikipia the other day, among the Maasai of Kenya and the government of Tanzania and also across other counties like what my other colleague was talking about Taita. Most of the time, we have conflicts between the Maasais and the Taitas and all other pastoralist yearning to graze their livestock in the national parks. When we talk of the implementation of the National Drought Management Authority (NDMA) Act, 2016, we should not only talk about the implementation of this Act of 2016, but we should also talk about even moving that Authority to the Ministry of Agriculture, Livestock and Fisheries. I think in the first place, it is misplaced because we factor or give a lot of money to the Ministry of Agriculture, Livestock and Fisheries and other small monies to these Authorities which seem not to have the capacity to come up with ways of mitigating drought. I was reading a newspaper last week and I read somewhere where the Ministry of Agriculture, Livestock &amp;Fisheries is factoring Kshs5 billion to add value to the food sector. I was really thinking how you add value to food that is not there in the first place. You need first to have food, then you think of adding value. If these monies were given to the Ministry of Agriculture, Livestock and Fisheries, the Department of Livestock and all other small authorities like NDMA and all other Government institutions that deal with the issue of livestock can be well planned to be able to come up with strategies and ways to mitigate drought, I think this will have helped our communities. Instead of us thinking about this Kshs2 billion which was only given once to this institution, it is high time we thought of creating a Ministry to deal with the issue of climate change because it is becoming a serious element to the livelihood of our people. The issues of pasture management, water and educating our people on climate patterns are things that we need to factor in the Budget. We need a budget to look into the issues of climate change and how people can be able to harvest grass at a time when it rains. Like now, it has rained for three weeks and maybe in another two months, we shall still experience the same. But if people are given skills on how to harvest hay and water, this will go a long way in helping the pastoralist communities. Another thing that needs to be done on the implementation of this Act is to give them a budget. The Kshs2 billion is still small compared to the situation we have in the country on climate change and many counties not receiving rainfall. So, we need to top up their budget. We also need to bring together Government agencies that we give budgets. All of them are looking into a smaller component of food. We need to bring all of them together. For example, within the Ministry of Agriculture we have the Meteorological Department that looks at the weather. We need to empower them to have equipment that can easily detect the weather patterns. We also need to look into research institutions like the Kenya Agricultural Research Institute (KARI) which is nowadays called Kenya Agricultural &amp; Livestock Research Organization (KALRO). They need to come up with types of crops or grass that can grow in those parts of the country so that we are able to build the capacity of our people to be able to come up with their own ways of feeding their livestock so that we can reduce these conflicts. This National Drought Management Authority (NDMA) needs to be empowered in terms of being given a budget. They also need to come up with regulations that can assist them so that they are able to assist our communities. Having said that, it should also be taken to the right Ministry. When I listened, I missed the issue of it being in the Ministry of Interior and Coordination of National Government because we are not only looking at this issue as conflict but we also look at it as a food security issue. Therefore, it should go to the Ministry of Livestock. As my other colleague has said, the county governments should also, at the same time, give a bigger budget to the livestock sector so that we see how we can build the capacity of our people. Another issue is with regard to markets for our livestock. This time round, our communities waited for too long until they could not sell the livestock any more. Therefore, all of them were wiped out. Right now when schools will be reopening in January, there is nothing that they can depend on in terms of school fees, health and food. Thank you."
     },
     {
-      "order": 169,
+      "order": 170,
       "id": "entry-767223",
       "label": "speech",
       "level": "3",
@@ -2031,7 +2043,7 @@
       "text": "Sen. Wario Golich Juma."
     },
     {
-      "order": 170,
+      "order": 171,
       "id": "entry-767224",
       "label": "speech",
       "level": "3",
@@ -2043,7 +2055,7 @@
       "text": "Thank you Madam Speaker. I rise to support this Motion. As we all know, we experienced a long drought for several years. That touched on the livelihood of our people mostly from where I come from; Tana River County, the neighbouring counties that I travel through like Kitui County and the northern Kenya counties which are prone to this drought. As I was travelling through Tana River County, I witnessed people die in shallow wells in search of water for their livelihood, domestic use and for their livestock. It is serious to go through this experience. On the other side, My county borders Tsavo East National Park. There are clear guidelines on national parks that you cannot go to a national park and graze. The lands in the parks have a lot of pasture and water reserves. When our people penetrate through there in search for pasture, they get into conflict with the game reservists and the wildlife. Madam Speaker, our people sat down and prayed and we got some rains. As we are speaking, in the lower Tana in Sala, Madogo and Garsen areas, floods came all through from the upper river and swept off all the remaining livestock. We were talking of drought just the other day, today the other calamity of floods has come in. Whatever remained, has been washed away by floods. All our livestock has perished, the remaining ones are in poor body condition that they cannot meet any market price anywhere. That means a lot. If a livestock keeper remains with nothing or few livestock that cannot meet the standards of the livestock market, it means they cannot pay school fees and have food security. This Motion comes at the most appropriate time. We need to have somebody who will be responsible for NDMA. This is one of few departments of the Government Ministries which I do see working there when calamities arise. I strongly support the Motion."
     },
     {
-      "order": 171,
+      "order": 172,
       "id": "entry-767225",
       "label": "speech",
       "level": "3",
@@ -2055,7 +2067,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to add a voice to this important Motion. I stand here because I understand what exactly is happening in that area. I am the Vice chairperson of the National Council for Nomadic Education in Kenya, (NACONEK). During the many meetings that we meet with the council we have been looking at how children in ASAL areas can be helped. One of the things that were coming out is that these children are not easy to reach because they are always moving from one point to another. What makes them move? They are moving because they are looking for water for themselves and their livestock. One of the main challenges that NCONEK faces is that in as much as they want to help these children get education, they had to look for them in the migration areas. When it comes to schools they have to be built in the migration areas. There is also a challenge because if the children migrate in an area \"A\" and then there is drought there, it means that they will have to migrate to another. Therefore, we will have to keep on following them to provide them with education. This migration really affects their education. Madam Temporary Speaker, children from the Arid and Semi-Arid Land (ASAL) areas are actually marginalised because of the drought. If they are marginalised from an early age then it means they will not get quality education because of lack of good secondary schools. When placement is a problem in secondary schools, they will be also marginalised further in job placement. If they go with their academic papers to different offices they might not merit and eventually not get jobs. Why? Because of the marginalisation that comes at early age. This marginalisation is linked to drought. I strongly support this Motion because it has come at a time when we are pursuing the Sustainable Development Goals (SDGs), especially SDG, No.1of elimination all forms of poverty. We can eliminate pockets of poverty in North Eastern if we can address all issues of marginalisation. When there is drought, our people and their livestock cannot get water. When they their cows dies and they become poor because cows are their only source of income. Our people cherish and equate them with properties that people from other parts of the country have. I strongly support this Motion that NDMA should be revived. We have funds, but I will call upon the Government to increase the funding and to monitor its usage properly. These funds are supposed to help in mitigating drought. They are also supposed to assist in putting strategies in place to ensure that there is parity in North Eastern region. In North Eastern, there is a lot of disparity, especially socially and economically. So when you are talking about Article 43 of the Constitution, our people are disadvantaged. They do not enjoy the rights as stipulated in this Article 43. My suggestion is that there is need for the funds to be used. There is also need to monitor and ensure that these funds are properly utilized. There is need to have indicators to show that these funds have been disbursed and rightly used to do one, two and three things. I strongly support the fact that more funds be disbursed to North Eastern. When more funds are availed, there is need to monitor to ensure that these funds have actually done what they were meant to do. I know from the NACONEK, that there is the cyclic poverty running from the parents who were marginalised and disadvantaged in North Eastern. Parents were not able to take their children to schools. As a result, their children do not enjoy the benefits of education. So, in future, you will find that their children's children will also be disadvantaged. This kind of vicious circle of poverty leads to \"at risk population\" because they cannot fend for themselves. We can mitigate against this situation, if right strategies are put in place to ensure that the consistent drought is dealt with, so that they can also benefit like the rest of the Kenyan citizens. Madam Temporary Speaker, I rest my case here. I support. ."
     },
     {
-      "order": 172,
+      "order": 173,
       "id": "entry-767228",
       "label": "speech",
       "level": "3",
@@ -2067,7 +2079,7 @@
       "text": "Thank you, Madam Temporary Speaker. I speak with a heavy heart on this matter having had the occasion to work in the North Eastern region in the 1960s as a medical doctor in Wajir, Guraro and other areas. I know the sights I witnessed there made a very difficult moment for me in my subsequent activities. All of us know it is basic knowledge that water is life. All of us know that our body mass contains 80 per cent of water. Therefore, any deficit in the supply of water for your body, you succumb very quickly. Certain communities are attached to certain things. For the people in the ASAL areas, livestock is the only wealth that they have for them to survive. If all these two are interfered with, then there is no life in those regions. Unfortunately, as I worked as Kenya's Permanent Representative to United Nations on Environment, one of the most excruciating events that I had to struggle with was the climate change problem. These are issues arising from climate change. As at that time, I was proposed, and I said that we talk about deserts; the Sahara and Kalahari deserts. However, our own states and countries are in fact the havens of those deserts. I remember sponsoring a Motion. We managed to create it into a form of convention on desertification with particularity to Africa. This is because we knew that the desert is cropping slowly into Africa. It is not only in North Eastern, in Taita Taveta, in the Massai lands, the Maa Community lands', but even in Kisii, water scarcity is real. We are talking about a resource which is becoming finite. The Mover of this Motion is talking of the operationalisation of the NDMA. It means this debate has been going on since 2016, issues had been raised, the need had been felt, the Bill had been passed and assented to as an Act of Parliament. This indicates a Government which is sleeping on its job; that creation of rules on how to operate this fund is the only impediment to operationalising it. I find it very sad that again we should be spending so much time debating this while we should be debating the effects of this fund that we have created. Is there need for further funds to be created in order to address the need which is so crucial and needful for these societies? I stand here with a very strong message to the Treasury, that if there is any priority to be accorded; this stands out very clearly. Year in and year out, what we are witnessing is all this ravages of drought. Livestock dead left, right, centre a sore sight and even the people themselves. Recently when you looked at Turkana and other places, it is a sad story and with so much resources being wasted elsewhere. There is so much rampant corruption in this country. If half of that money was put into this, this will be a story of the past. Now, there are mitigating factors; we have heard of dams being built. What happened in these areas? By now, we should be discussing about mega plans of major dams being built in order to conserve water. There is also the underground water in the aquifer. Like now we know that in Turkana County, there are resources of aquifer water that will still serve the whole country even if we used them for the next 20 or 50 years. What have we done about it? We have many rivers which supply 60 per cent of the water going to Lake Victoria. But when we wanted to harness the waters of Lake Victoria to bring it to Mau Hill for irrigation, the Egyptian Government said that it will go to war if we did that. But then we have ways of doing it at source without interfering with the lake. That is why you see many officers in the Ministry of Water and Irrigation here in Kenya always measuring the water levels in Lake Victoria. It is sad to note that 60 per cent of the water of the lake is generated from Kenya, yet we do not have access to that resource of water, which is a very critical resource for human survival. That is why we have these conflicts and wars. Madam Temporary Speaker, what is happening in Laikipia is an expression of the need for pasture and nothing else. Therefore, as a country and as a nation, we now need to accept the reality of the situation; that what is hurting us most is that we have not managed our water resources properly. It is high time that we put measures into place which will mitigate the effects of drought in the Arid and Semi-Arid Lands (ASAL) regions. The Intergovernmental Authority on Development (IGAD), where Amb. (Eng.) Mahboub Maalim, the Executive Secretary, is a Kenyan from Wajir---. There are resources that are being enveloped around IGAD from the so called partners in the developing nations and we have not tapped into this. So, even if we wanted to look for resources, they will be forthcoming for the bad and poor practices of the north. The carbon credits ought to be going to these regions so that we can resuscitate our environment and bring it back to normalcy. The Ministry of Environment and Natural Resources should also contribute towards the enrichment of our water resources in this country because the habit of not planting trees has dealt us a big blow. Therefore, I speak with full knowledge knowing what water scarcity can do; it can lead a country into war. We have already seen communities going to war because of water and pasture. If we sit pretty tight as we are seated, thinking that things are going to be okay, we will have a revolution on our hands. We will see people rising up against the government and everybody else, saying \"enough is enough; we cannot continue in this manner.\" When others are having selective development, others are being denied that critical element that will enable them to be equal to others in consonance to what the Constitution is. When we were in Nairobi Serena, Agenda Four was indeed important. That is why immediately after the Grand Coalition Government was formed, in which you and I served, Madam Temporary Speaker, we established Ministry of State for Development of Northern Kenya and other Arid Regions. This was because we realized that the conflicts that we were having, including even the election conflicts, were as a result of the unequal distribution of wealth and resources. That is why the Ministry of State for Development of Northern Kenya and other Arid Regions was established and put under the able leadership of Hon. Mohamed Elmi. It is amazing that immediately the Grand Coalition exited in 2013, this ministry was disbanded or it was rather mutilated and cannibalized to some other areas. The Ministry had begun putting measures into place and increasing a major fund. As one of my colleague here said, one of the biggest problems we had is tracing these nomadic children in order to administer examinations to them in a country where we are saying that education and life is a right. Yet here we are, telling them that we can only bring development to the economic corridors where there is hope for success and survival for a few individuals. I am not angry with anybody; I am angry with the situation that we are presented with here. It is within our right and our capacity to handle this situation and declare these regions free of this scourge of begging for help every time. They do not have to beg; they are Kenyans who are entitled to it and they should be able to get it at the right time and in a timely fashion. I thank you for the attention."
     },
     {
-      "order": 173,
+      "order": 174,
       "id": "entry-767233",
       "label": "speech",
       "level": "3",
@@ -2079,7 +2091,7 @@
       "text": "Thank you. Could we hear from Sen. (Rev.) Waqo?"
     },
     {
-      "order": 174,
+      "order": 175,
       "id": "entry-767234",
       "label": "speech",
       "level": "3",
@@ -2091,7 +2103,7 @@
       "text": "Thank you Madam Temporary Speaker. I stand to support the Motion that suggests that we operationalize the National Drought Management Authority Act. I support this Motion because I come from this area and I know the effect of drought on the people on the ground. As we speak today, we have lost so many lives in Marsabit County. We have lost children, expectant mothers and our animals. I talk of all our animals being lost because the remaining animals have also been washed away by the floods after the rains. It is an issue that is long overdue."
     },
     {
-      "order": 175,
+      "order": 176,
       "id": "entry-767235-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2103,7 +2115,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar) left the Chair]"
     },
     {
-      "order": 176,
+      "order": 177,
       "id": "entry-767235-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2115,7 +2127,7 @@
       "text": "[The Temporary Speaker (Sen. Kang'ata) in the Chair]"
     },
     {
-      "order": 177,
+      "order": 178,
       "id": "entry-767236",
       "label": "speech",
       "level": "3",
@@ -2127,7 +2139,7 @@
       "text": "As I congratulate the Mover, I also want to say that we, as leaders, should empathize with the people on the ground because of the suffering and the pain that they are going through. As we were going out for campaigns, I sympathized with our people. I know of an elderly couple that lost their lives in North Horr Constituency. I know of people in Sololo, Funakumbi and many other places who have lost all their animals. In fact, they are so poor today that they are depressed. It is only that the depression and the stress of the poor man or woman cannot be counted as stress. We have people who need a lot of counseling because they have no hope for the future. It is our duty to take care of our people and find better ways of helping them. It is unfortunate, as we have narrated, that we have already lost everything. It is shameful that we have Kshs 2 billion in the account since 2016 and some officers just earning salaries on a monthly basis, yet we have lost thousands of lives in the entire country. We urge the Treasury to ensure that this money is used to help the people who are almost dying or on their death beds. The poverty level in northern Kenya and many other parts has increased and we need to reduce it. I do not know how many years it will take us to bring back our people from the level that the drought has taken them. Drought has also promoted the tribal conflicts. Communities fight over greener pasture. In fact, the Government needs to intervene because at the moment we have hopeless people who feel they should die. As you know cows, goats and sheep mean a lot to the pastoralists. Some of us know what it means. Without the livestock, money in the bank and farms, they are hopeless. The next thing they can think about is to commit suicide. We cannot allow that to happen under our leadership. We are here to represent different parts of Kenya and many parts have been affected. It is, therefore, my request that we find ways of using the Kshs2 billion in the account as early as yesterday. At the county level, we have the county governments on the ground. During campaigns people were told that they would be given money, but today nobody remembers the poor men or women who have nothing to eat or feed their children. I urge the governors to speak on behalf of the affected people. If the counties do not have enough money, the national Government should know. At the moment many people do not even know what is happening. It is only those of us who come from those affected areas and maybe have lost some people, who know what that means. Therefore, I even urge the county governments to be alert and reach out to the people. We have people who are sick and need medical attention and others who need food. We need to reach out to Kenyans on the ground. In fact, many of them need counselling; they just need to be given hope. If people could volunteer and go on the ground to do that, it would really help. Passing this Motion is a different thing from putting it into action. Once the Act is implemented, we should ensure that we monitor every coin given towards every action to be carried out so that we ensure that the poor man on the ground benefits. We pass motions in this country, but the people who benefit are those who have never experienced drought. We need people with experience in those offices who can monitor. Since they have experienced that feeling and know what it means, they will serve their own people and reach out to them. The money should go to the people who are really suffering on the ground. As we talk of the human beings, we also need to talk of the livestock they have lost. These people have nothing else to do; they have no businesses and cannot farm. We should think of helping them to restock. Now that we have rains we can buy livestock and distribute to them, so that they can have hope for the future. If you visit Israel, which is a desert, you will be amazed. They even have what they call banana bending machines. They have improvised their own ways of feeding their people. Kenya can do even better; it is only that we are not committed as a people. We need to be committed, so that our people on the ground can also feel that they are part of this great nation. Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 178,
+      "order": 179,
       "id": "entry-767239",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2151,7 @@
       "text": "Thank you. Hon. Senators allow me to say the following. First, I can see that there are several requests. We still have time to discuss this Motion even tomorrow because the time allocated for it is three hours. Secondly, when it comes to the Speaker deciding who will speak, several factors are taken into account, including the need to consider both sides of the House and also regional balance. But more often than not, we tend to follow the list. Therefore, allow me to call out Sen. Wambua and thereafter, Sen. (Prof.) Kamar. Sen. (Prof.) Ekal will be the next followed by Sen. (Dr.) Ali, Sen. Olekina, Sen. Halake and Sen. Kinyua in that order. Sen. Wambua."
     },
     {
-      "order": 179,
+      "order": 180,
       "id": "entry-767242",
       "label": "speech",
       "level": "3",
@@ -2151,7 +2163,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for this opportunity to contribute to this Motion. I want to begin by saluting my colleague, Sen. Dullo, for bringing this Motion to the Floor of the House. I stand in support of the Motion to operationalise the National Drought Management Authority Act. I want to begin by saying that in this day and age drought should never be an emergency in this country. We have come of age as a nation to sufficiently invest in early warning systems and not just rely on foreign actors to tell us when disasters are approaching. I want to go on record that by operationalising this Act and giving the authority to the team to execute its mandate, we will effectively be checking the tendency by certain sections of the leadership in this country to declare drought a national disaster every year, which only serves to open avenues for expenditures that in most cases cannot even be accounted for. Mr. Temporary Speaker, Sir, in support of this Motion, as a country, we need to move beyond the legislative and institutional frameworks of tackling drought. We have examples to learn from elsewhere especially in the Mediterranean Basin in countries like Cyprus, Turkey, Greece, Italy, Morocco, Spain, and Tunisia. They have developed a uniform principle code which enables them to act in certain manners and behave in certain ways which are proactive in dealing with eminent drought. That is a leaf we can borrow to implement in our arid and semi-arid regions. In support of the Motion again, there is need to create synergies among relevant national and county government agencies, so that we are proactive in addressing ourselves to the issue of drought. As we speak here today, we have a lot of rains in most parts of this country including the semi-arid and arid regions. What is happening is that, in those regions that are drought-stricken, today, residents are dealing with the challenges of floods and waterborne diseases. Last month, they were dealing with the challenges of drought. Those who survived the challenges of drought and may survive the challenges of floods and waterborne diseases in this season will be lucky to escape the challenges of drought which are just about to set in again in the next two months. As a nation, we have to be deliberate and serious about our investment in dealing with drought situations in this country. As I conclude, it is really a shame that we are talking of an authority whose annual budget is Kshs38 million and they are supposed to cover almost a half of this country. That money will just be enough for them to do what they have been doing which is to purchase a few four-wheel drive vehicles and move around the country and they will not be able to do much. We have a fund that was set up into which money has been allocated but there are no regulations on access to those funds. As you remember, just a few weeks ago, we were unable to disburse funds to the counties because we had not received regulations on the management of conditional grants from the Treasury. Today we are dealing with an even more serious situation where suffering Kenyans are unable to benefit from a fund that has been set up because we have no regulations to access those funds. I urge that we expedite the process of making the NDMA a real authority that will stamp its authority and do that which it was set up to do for the benefit of the people of this country. Mr. Temporary Speaker, Sir, I beg to support."
     },
     {
-      "order": 180,
+      "order": 181,
       "id": "entry-767245",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2175,7 @@
       "text": "Mr. Temporary Speaker, Sir, thank you for giving me the opportunity to add my voice to this great Motion on the operationalization of the National Drought Management Authority Act. It is only in order for this Senate to remind the authorities that the Bill was passed and assented to in April last year. Now that the election mood is over, we need to embark on this agenda. The National Drought Management Authority Act must have looked at the drought management in its entirety and how we should manage drought and the resources that we have in the face of drought. I believe that this Act, when it is operationalized, will map out the very vulnerable areas as far as drought is concerned. This country has different climatic zones and some areas are more vulnerable than others. In fact, I dare say that because of climate change, new areas have been introduced into the arena of drought. The cycle of rainfall patterns that we have had has changed. Areas that never used to experience any drought are starting to feel the same. In Uasin Gishu, last year rains delayed and only came during harvesting time. Therefore, we received rain at the wrong time. So, there is need for mapping out of the areas. We have a lot of experts in this area and they should predict exactly how the pattern will be in order for us to use the different strategies. Mr. Temporary Speaker, Sir, I looked at the way the Motion is structured and I know that it will fall under the Ministry of Interior and Coordination of National Government. However, I would like to put forward that experts that we have in climate change and drought mitigation are in the Ministry of Environment and Natural Resources. We have a lot of good experts that have dealt with climate change issues, climate change mitigation issues and climate change adaptation and these are the kind of people we need. As the ministry looks at how to operationalize the National Drought Management Authority Act, it must look at how to borrow expertise that exists in the country. Kenya is known for its expertise as far as environment is concerned but we have a lot of documentation also in mitigation and adaptation. It is okay to fund drought issues or provide for the people and animals in the areas affected by drought but that is short lived. What those areas require are mitigation and adaptation strategies that will be used for long-term management of the areas and I believe that this authority will be able to do that. I will not take long. I want to finalize by saying that although we have a lot of documentation, sometimes we have been very slow in implementation. This is an area that this Motion has picked out very well; that we need to operationalize some of the Acts and laws that we have. More than that, we actually need to implement some of the strategies that have already come out. We know that during climate change conferences, Kenya has given a lot of strategies that have been adopted by other countries and we need to implement them ourselves so that we move. I beg to support."
     },
     {
-      "order": 181,
+      "order": 182,
       "id": "entry-767248",
       "label": "speech",
       "level": "3",
@@ -2175,7 +2187,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me the chance to also put my voice into supporting this Motion. Thank you, Sen. Dullo for bringing up this Motion because this is like you actually just wanted to put one in for me. It is good that we come from a region that suffers from the same problems and so our problems are common. When I look at the Motion of today, and allow me to read. Article 43, 1(c) and (d) of the Constitution of Kenya provide for economic and social rights for every person and in particular the right to be free from hunger. We, the Turkana people, are never free of hunger. So, are we considered human? If this is the right of every Kenyan to be free from hunger, we are always hungry. That seems, to me, that somebody is breaking the law to have adequate food and acceptable quality. There is never adequate food of that acceptable quality and to have clean and safe water in adequate quantities. What is this? This is in the law and you just do not understand why this is not in operation. If this is the law, somebody should be arrested for not putting it in operation. In Turkana County, the most famous word is the word akoro which means hunger. Whenever I call a relative, I say \" Nyai \"; that is, \"How are you?\" Ahoro, that is always the response. What is the reason for this? Why must our people be the ones suffering from this akoro issue when we have a law like this which guarantees every citizen of this country to have adequate food and water and to be taken care of? There are people in this country who are never taken care of. I would like to know the reason why. I think that one of the reasons is the fact that nobody ever thinks about problems. This is what somebody mentioned that in a place like Israel which is a worse desert than, for example, Turkana, Wajir or Marsabit counties. Those people try to solve their problems. They put research into their problems and look for solutions and go ahead and effect those solutions to solve those problems. In this country, we know that there are problems like this, but we never make the effort to solve them. More so, if you go into the offices that are supposed to put this in effect, these would probably be people that never knew hunger or thirst, not even for a single day. May be they are people that are kind of struggling with their weight because they are well fed. So, they do not know what it means to be hungry and thirsty. Why should offices where food distribution is the main job be manned by people who do not know what it means to be hungry or thirsty? Why should these offices not be manned by people like me who know what it means to be hungry and thirsty? When you look at the other side, and again allow me to read, the situation in drought far-flung parts of the country poses a serious threat to human dignity. Surely, we do not have that dignity because we have this problem. Human dignity, peace, security and stability fall on loss on livelihoods leading to scramble for scarce resources by the affected communities. If you listened to yesterday's speech during the inauguration, you would hear a lot of talk about peace in this country. There is no peace in this country because we have these problems of hunger and scarce resources. People are always fighting about this lack of resources. We have problems between us and our cousins in Uganda. Only a week ago, I was out there trying to tell them to coexist in peace because they are fighting over grass and water. They do not have enough. Then we have problems with our cousins in Sudan for the same problem, scarcity of water and grass. We have problems with our cousins in Ethiopia again because of scarcity of grass and water yet in Kenya, we have a law like this that says Kenyans should have enough so that we do not have these conflicts. We even have conflicts within Kenya itself between us and the Pokot. We are fighting over grass and water yet there is a law like this that says we should have ample food and water. I understand that the Government may not be able to feed people all the time. However, there is a saying that if you teach somebody to fish on their own, they will be able to manage their problems. Unfortunately, if you go to these zones like now Turkana County, there is nothing going on. Nobody is teaching people how to grow grass for their animals. Nobody is teaching people how to grow their own food. Nobody is teaching people any ways of survival. So, people are left on their own like it was 200 years ago. With climate change, people are really getting overwhelmed. We have lost these animals and we do not know how else to survive. So as a result, some people have resorted to violence so that they can survive. A shameless thing happened during the campaigns. Somebody was able to bring food that was meant for the purpose of enticing people to vote. The question becomes, why is food not there all the time if there is so much food that you can use it for elections? Why is there no enough food for people to eat? Now that the elections are over, why is it that this food is not flowing into these zones? I am calling upon those who are concerned that something must be done here. Some activity must be carried out in these zones that need that help on how people can help themselves. Not only bring food at a time when you think it is provident for you to be voted in. Teach people how to care for themselves and how to care for the animals. Otherwise, the whole thing is a charade. Why have laws that we do not follow? Why have laws that we do not operationalize? I am told that there is Kshs 2 billion somewhere. What is the point of having this Kshs 2 billion if it is not used? Why not use it to create projects that can actually help people? I think that sometimes we need to invite these people to the Senate so we can talk to them. May be they just do not understand what they are supposed to do so that the reason for having money and for having brains is to help people. Not just sit there and kind of rub your belly and wait for lunch time. We want these things to happen. We want people to get ample food and water. For that to happen, somebody must take that step to make it possible. If nobody gets out of Nairobi to make it possible, then those problems will continue forever. As Sen. Wambua has said, we had rains, but in the next two months, we are going to have another drought. What steps have been put in place to take care of that? We are just going to have the same problem occurring. That is because we are not looking ahead. We are not trying to put in place the measures that will take care of those problems when they happen. Yet as somebody said, in countries up here like Egypt, Morocco, Tunisia and other Arab countries, they have already put these measures in place. What is it about us that we cannot put the same measures in place? Must we reinvent the wheel? Is the wheel not already invented? So, why not just keep it rolling and solve our problems? I would like to ask these people these questions. \"Why can you not keep the wheel going? Why can you not put in place measures to mitigate the effects of drought?\" Drought is a reality. It is here every year and people lose lives and their livestock as a result yet we are just sitting there. Do we ever think? Can we ever be proactive and do what we are supposed to doing? Mr. Temporary Speaker, Sir, with those few words, I hope that we are going to draw attention to this matter by inviting the officers concerned and telling them to move on. They should solve the problems which are there. Sen. Olekina: Thank you, Mr. Temporary Speaker, Sir, for giving me this opportunity. I rise to support this Motion on the operationalization of the National Drought Management Authority (NDMA) Act. I thank my sister for moving fast on this. One of my pet peeves is when we come up with laws and do not implement them. Why bother? In this country the pastoralist communities suffer the most. We are the ones who know the pain of drought. As I stand here, I am saddened by the number of the Maasai community animals that perished. At some point, in the month of March when we expected the rains, if you had traversed the counties of Kajiado, Narok and Samburu, the counties were littered with carcasses of dead animals yet we have a law that we have passed. However, implementing it and giving the Authority enough money to mitigate this drought becomes a problem. I want to urge the Treasury to move fast and come up with regulations that can help the Authority to save lives. Drought is a national disaster. When you have been brought up knowing that your livelihood depends on cattle and then tomorrow you see it dying, it pains. That is why you see us running up and down on a daily basis defending that right. The component of drought preparedness and mitigation plans includes the prediction, monitoring, impact assessment and the response. The only body that has this capacity to do this is the Authority if they are given some money. I know their website has got data but there is really nothing tangible on how we are going to mitigate these issues. Every year we have seasonal rains that come with flooding the little town of Narok where I come from. Sadly, every single year the national Government allocates resources to solve that problem. Therefore, this year we need to look at it as one of the drought mitigation solutions. The amount of water that floods Narok Town is enough to irrigate over a thousand acres of land and grow grass that these cattle can actually access. Going forward, it is high time we realigned our existing resources in this country in order to come up with policies that can help pastoralist communities. It is sad that the Mau Forest has been heavily invaded and we are not even bothered to protect our water catchment areas. All we care about is how we can line our pockets. Mr. Temporary Speaker, Sir, I thank my sister for bringing this Motion. Therefore, I want to urge the National Treasury to move with lightning speed to come up with regulations that will allow the funds which have been set aside, presumably it is about Kshs2 billion, for the Authority to act. This year, the high number of cows that have died, including those which unfortunately were auctioned in Tanzania, could have been saved if that Authority would have been able to come up with a response mechanism or means of mitigating these droughts. If we harvest this rain water, we can plant a lot of grass. It shocks me that sometimes even in our own counties, we do not educate our people on how to mitigate drought. In Narok County, we have one Mr. Muthuri who I thank very much for having come in and has leased over five thousand acres of land where he is now planting grass. In fact, I had to rush to him the other day to be able to get some grass for my cows. It is imperative that we bring such Motions here and implement them to ensure that we do not only discuss them just for their sake. Just as Sen. (Prof.) Ongeri said, we are not discussing the merits of the Act because it was passed. How do we then implement it? We have to use our constitutional authority as the Senate and Article 96 - protecting the interests of our counties and our county governments - to ensure that the national Government moves fast to save our people. We have areas such as our water catchment areas, the Mau forest and others. We do not even need to discuss anymore. Right now, I am enjoined in a matter which is to protect that catchment area. The moment we ignore such things, then there is nowhere we can ever save our country. These problems we have are man-made If this Government really cares about its citizens, the pastoralist communities in North Eastern, Narok, Marsabit and Kajiado counties, this Act would have been operationalized immediately it was passed. If we can realign our existing resources and tap all this rain water which is now flowing on a daily basis, bringing more destruction in our urban areas and small towns, then we can save our people. I know the previous Senator spoke about the need for water. If you traverse all counties in Kenya, you will not even see water reserves. I agree with the Senator who spoke about big dams which are being built. However, they are only being built in certain areas. We have Itare Dam being built in Kuresoi Constituency. This dam; although it will provide water to Nakuru and Naivasha, it will destroy the ecosystem in Maasai Mara. This year over one million head of cattle were being grazed in the national parks because of lack of water. The whole place was dry. Of course, in the parks, there is plenty of grass because animals migrate inside the parks. However, when a million cows move into the park, they finish all the grass. For us to avoid that, there are serious issues on which we need to educate our people. If this Authority was in place, the Maasai people could be educated that at times it important for them to reduce the number of their animals. This is because I could have ten thousand head of cattle and I have sold all my land. You know nowadays there is no county that can be said to belong to the Maasai although we are trying to fight so hard so that we have one. This is because we, the Maasai, have sold all our land to buy more cows, yet the Government which is supposed to educate us is not doing so. Mr. Speaker, Sir, this Motion could not have come at a right time, especially right now when we are still recovering or rather when we are still going through this severe drought. I think it is important that all of us follow through. We can make all the noise we want to make here; we can comment about it here, but we should also reach out to this administration. If the money is there, why can you not set out the regulations? Why do you not empower these people? When you go to this Authorities' website, you will be surprised; you will get all the data you want. But they cannot respond, they cannot mitigate and they cannot educate people. In fact, sometimes when I want to know whether it is raining or how the drought was in Narok, I just go to their website. But for what; is it just for information purposes? So, Mr. Temporary Speaker, Sir, I support this Motion and I urge this administration, as you promise us heaven, please make sure you put your money where your mouth is. If you say you are going to do this, do it. If you say we are going to make sure that we come up with efficient drought response mechanisms, please do it. This is because this generation will judge you wrongly if you pass legislation but you do not follow it up with the money. It is like saying that we are going to give you free education, but you leave the money behind. It is like saying that in this country, we will no longer have a time when a Kenyan will die because of hunger yet you do not follow through by ensuring that you have educated that person. We do not want beggars; Kenyans are very industrious people. If you bring in proper mitigation steps or even different types of grass seed that can sustain dry conditions, it will help us save our people. With that, Mr. Temporary Speaker, Sir, I beg to support the motion. Thank you."
     },
     {
-      "order": 182,
+      "order": 183,
       "id": "entry-767259",
       "label": "speech",
       "level": "3",
@@ -2187,7 +2199,7 @@
       "text": "Sen. Nderitu John Kinyua."
     },
     {
-      "order": 183,
+      "order": 184,
       "id": "entry-767260",
       "label": "speech",
       "level": "3",
@@ -2199,7 +2211,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me this opportunity. From the outset, I rise to support this Motion. This is because it has come at the right time. Having come from Laikipia, which is a semi-arid area, I would urge that this Act is passed and implemented so that we stop being reactive and become proactive. That is so because if you go to many parts of Laikipia for example, you will realise that the conflicts that have come about are because of drought. You will find pastoralists and small scale farmers are fighting because of a resource, which is water. As we have been told, the money is there; it is only that we do not have regulations to control its use. Therefore, these regulations should be fast-tracked so that we can have dams done in the rivers. The people downstream and upstream are fighting every time because of the water resource and these dams will help our people not to have the problem of infighting. Another thing that I would want to say is that if we have that money and we have these pastoralists moving from one point to the other, we can as well construct schools which will be boarding school. This means that the students will be left in schools learning as the parents go looking for pastures and water; and in so doing, we will not have reduced the levels of our education. Due to this scenario of being reactive as opposed to being proactive, it has resulted in a situation whereby communities are fighting. We end up using so much money bringing police officers to those areas in terms of catering for their food and water, which would not have been necessary if we had provided dams and dug boreholes. If we had done so, we would have reduced the costs by being proactive. Mr. Temporary Speaker, Sir, I am so worried because if we allow this to continue, we will have more problems. For example, in one year in Laikipia, because of the drought and conflicts, we have already lost 11 police officers and 17 civilians; we also have 35 civilians who have been injured just because of the drought. If we manage the drought because our land is fertile, we are going to be productive and peaceful. Basically, we are going to reduce that amount of money that is used for purposes of bringing security in our area. If we are talking about the operationalisation of the National Drought Management Authority Act, we should ensure that the money is used for the intended purpose. There are times when programmes have been implemented without proper research. For example, some people end up doing a dam instead of a borehole. If research is not done properly we will end up in problems. I have never understood why we sit here and discuss issues which are not implemented. It appears like we come here to waste time. There is no need of passing motions that are not implemented. However, we will not relent. We will keep on reminding the people who are concerned to do their work, so that we do not keep on wasting time. With those few remarks, I support."
     },
     {
-      "order": 184,
+      "order": 185,
       "id": "entry-767263",
       "label": "speech",
       "level": "3",
@@ -2211,7 +2223,7 @@
       "text": "Sen. Halake."
     },
     {
-      "order": 185,
+      "order": 186,
       "id": "entry-767264",
       "label": "speech",
       "level": "3",
@@ -2223,7 +2235,7 @@
       "text": "Thank you Mr. Temporary Speaker, Sir, for giving me the opportunity. I will not belabour the devastating effects of drought. Anybody in this House or country who comes from the arid or semi-arid regions has lived it and knows it. I rise in support of this Motion and congratulate Sen. Dullo for moving it. I am very happy that she framed it in broad terms, in terms of what she is calling upon the Ministry and NDMA to do. There is a lot more that needs to be done in terms of operationalising this Motion. I know that the first part calls upon the Ministry to put the necessary infrastructure for mitigation. We have also looked at response strategies. However, one of the most important gaps that we may need to look at is the recovery. What is happening at the moment is that for as long as we do not help the pastoralists and people affected by drought to recover then it will be a devastating vicious circle. As we know, these droughts are cyclic. They happen often and it is a shame that we have not come up with mitigation strategies. Whenever there is a disaster or crisis we should look at the recovery aspect. Right now everybody has talked about the animals having been wiped out. I come from northern Kenya where I have worked in every part from Turkana to West Pokot and Baringo. I have been there and know how it looks like. There are a lot of recovery strategies that need to be put in place and I am happy that Sen. Dullo framed her Motion in broad terms. There is a lot more that this House will hear in terms of some of the specifics of mitigation, response and recovery measures. We will support the implementation of this Motion. We are talking as if the people affected by drought have no say in this. By involving the people of northern Kenya, who are affected by the drought, in the recovery, response and mitigation strategies we can actually overcome this vicious circle. County governments should also be part of this. Perhaps not all county governments have put in place policies for drought mitigation at the moment. One of the things the Ministry of Interior and Coordination of National Government and even the NDMA should be looking at is supporting the counties to legislate around this and then be supported to operationalize both in terms of resources and strategies. I know that issues around relief---"
     },
     {
-      "order": 186,
+      "order": 187,
       "id": "entry-767267",
       "label": "scene",
       "level": "3",
@@ -2235,7 +2247,7 @@
       "text": "(The Temporary Speaker stood in his place)"
     },
     {
-      "order": 187,
+      "order": 188,
       "id": "entry-767268",
       "label": "speech",
       "level": "3",
@@ -2247,7 +2259,7 @@
       "text": "Thank you. Sen. Halake, you have a balance of 10 minutes. The Motion has a balance of 58 minutes."
     },
     {
-      "order": 188,
+      "order": 189,
       "id": "entry-767269-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -2259,7 +2271,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 189,
+      "order": 190,
       "id": "entry-767269",
       "label": "speech",
       "level": "1",

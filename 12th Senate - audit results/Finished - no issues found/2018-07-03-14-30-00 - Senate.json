@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-07-03-14-30-00",
-  "exported_at": "2026-10-05T08:01:12.850Z",
+  "exported_at": "2026-10-07T22:17:33.373Z",
   "entries": [
     {
       "order": 1,
@@ -1060,21 +1060,33 @@
     },
     {
       "order": 89,
-      "id": "entry-812041",
+      "id": "entry-812041-split-selected-41a85e87-99c9-4366-bda8-849b9194b781",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "VISITING DELEGATION FROM THUITA PRIMARY SCHOOL, MURANG'A COUNTY"
+    },
+    {
+      "order": 90,
+      "id": "entry-812041-split-after-38bbf5d5-a2ad-423d-bb02-fc5451e02a93",
       "label": "speech",
-      "level": "1",
+      "level": "2",
       "cutout": false,
       "original_label": "",
       "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "VISITING DELEGATION FROM THUITA PRIMARY SCHOOL, MURANG'A COUNTY Order, Senators! I have another communication to make relating to the visiting students and teachers from Thuita Primary School, Murang'a County. Hon. Senators, I would like to acknowledge the presence in the Public Gallery this afternoon of visiting students and teachers from Thuita Primary School, Murang'a County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them. On behalf of the Senate and on my own behalf, I wish them a fruitful visit. Thank you."
+      "text": "Order, Senators! I have another communication to make relating to the visiting students and teachers from Thuita Primary School, Murang'a County. Hon. Senators, I would like to acknowledge the presence in the Public Gallery this afternoon of visiting students and teachers from Thuita Primary School, Murang'a County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them. On behalf of the Senate and on my own behalf, I wish them a fruitful visit. Thank you."
     },
     {
-      "order": 90,
+      "order": 91,
       "id": "entry-812042-parenthesis-split-1-of-2",
       "label": "scene",
-      "level": "1",
+      "level": "2",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1083,28 +1095,16 @@
       "text": "(Applause)"
     },
     {
-      "order": 91,
+      "order": 92,
       "id": "entry-812042-parenthesis-split-2-of-2",
       "label": "scene",
-      "level": "1",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(Resumption of debate on the Bill)"
-    },
-    {
-      "order": 92,
-      "id": "entry-812042-parenthesis-split-2-of-2-inserted-02fd1d34-ca72-471d-9560-a756966d72c6",
-      "label": "heading",
       "level": "2",
       "cutout": false,
       "original_label": "",
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "VISITING DELEGATION FROM THUITA PRIMARY SCHOOL, MURANG’A COUNTY"
+      "text": "(Resumption of debate on the Bill)"
     },
     {
       "order": 93,

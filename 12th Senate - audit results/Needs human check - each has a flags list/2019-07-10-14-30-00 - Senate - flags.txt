@@ -1,4 +1,4 @@
-2019-07-10-14-30-00 - Senate: 17 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+2019-07-10-14-30-00 - Senate: 18 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
 
 1. block 161, PDF p.22 [speech | Johnson Arthur Sakaja]
    Name check: PDF says 'Sen. (Dr.) Milgo', block says 'Johnson Arthur Sakaja '.
@@ -68,4 +68,7 @@ Hon. Senators, that Statement, therefore...". May need a split.
 17. block 362, PDF p.48 [speech | Rose Nyamunga Ogendo]
    Name check: PDF says 'The Temporary Speaker (Sen. (Prof.) Kamar)', block says 'Rose Nyamunga Ogendo (The Temporary Chairperson)'.
    Text: "Hon. Senators, I now put the question; that Clauses 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 15, New Clause"
+
+18. block 207 [speech]
+   The PDF heading 'ACTIVITIES OF THE COMMITTEE ON LAND, ENVIRONMENT AND NATURAL RESOURCES' is split across this block and the next one (this block has 'ACTIVITIES OF THE COMMITTEE ON LAND, ENVIRONMENT'). Split it out and combine the two halves into one heading.
 

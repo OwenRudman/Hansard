@@ -1,4 +1,4 @@
-2018-02-15-14-30-00 - Senate: 2 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+2018-02-15-14-30-00 - Senate: 4 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
 
 1. block 105, PDF p.15 [speech | Sen. Wambua]
    Name check: PDF says 'Sen. Gona', block says 'Sen. Wambua '.
@@ -7,4 +7,10 @@
 2. block 107, PDF p.22 [speech | Kipchumba Murkomen]
    Name check: PDF says 'Sen. Sakaja', block says 'Kipchumba Murkomen (The Senate Majority Leader)'.
    Text: "Mr. Speaker, Sir, I am not a member of that Committee. I can see many members of that Committee are in the Hou"
+
+3. block 55 [speech]
+   The PDF heading 'REPORT ON THE FINANCIAL STATEMENT OF MACHAKOS WATER AND SEWERAGE COMPANY LIMITED FOR FY 2016;' is split across this block and the next one (this block has 'REPORT ON THE FINANCIAL STATEMENT OF MACHAKOS WATER AND'). Split it out and combine the two halves into one heading.
+
+4. block 58 [speech]
+   The PDF heading 'REPORT ON THE FINANCIAL STATEMENT OF MAVOKO WATER AND SEWERAGE COMPANY LIMITED FOR FY  2016;' is split across this block and the next one (this block has 'REPORT ON THE FINANCIAL STATEMENT OF MAVOKO WATER AND'). Split it out and combine the two halves into one heading.
 

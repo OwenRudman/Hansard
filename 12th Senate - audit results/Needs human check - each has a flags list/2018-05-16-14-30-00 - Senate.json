@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-05-16-14-30-00",
-  "exported_at": "2026-10-05T08:00:46.145Z",
+  "exported_at": "2026-10-07T22:17:17.080Z",
   "entries": [
     {
       "order": 1,
@@ -1876,7 +1876,7 @@
     },
     {
       "order": 157,
-      "id": "entry-798952",
+      "id": "entry-798952-split-before-6d05ab94-60d7-4e9f-9437-6554ad5a00c3",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -1884,10 +1884,34 @@
       "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "Hon. Senators, I have a further communication to make. This relates to the visiting students and teachers from Tengecha Girls High School. VISITING STUDENTS AND TEACHERS FROM TENGECHA GIRLS HIGH SCHOOL, KERICHO COUNTY Hon. Senators, I would like to acknowledge the presence, in the Public Gallery this afternoon, of visiting students and teachers from Tengecha Girls High School in Kericho County. In our usual tradition of receiving and welcoming visitors to Parliament, I extent a warm welcome to them and on behalf of the Senate and on my own, wish them a fruitful visit. I thank you."
+      "text": "Hon. Senators, I have a further communication to make. This relates to the visiting students and teachers from Tengecha Girls High School."
     },
     {
       "order": 158,
+      "id": "entry-798952-split-selected-00099278-5a87-4a37-ac15-1d22f998e2ae",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "VISITING STUDENTS AND TEACHERS FROM TENGECHA GIRLS HIGH SCHOOL, KERICHO COUNTY"
+    },
+    {
+      "order": 159,
+      "id": "entry-798952-split-after-4435c7e0-5924-4bc6-ae72-a0c724fbd812",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
+      "speaker_title": "The Deputy Speaker",
+      "reviewed": true,
+      "text": "Hon. Senators, I would like to acknowledge the presence, in the Public Gallery this afternoon, of visiting students and teachers from Tengecha Girls High School in Kericho County. In our usual tradition of receiving and welcoming visitors to Parliament, I extent a warm welcome to them and on behalf of the Senate and on my own, wish them a fruitful visit. I thank you."
+    },
+    {
+      "order": 160,
       "id": "entry-798954",
       "label": "scene",
       "level": "2",
@@ -1899,19 +1923,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 159,
-      "id": "entry-798954-inserted-11c6d156-76b2-4b06-91b7-cf4e32f0ae57",
-      "label": "heading",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "VISITING DELEGATION FROM TENGECHA GIRLS HIGH SCHOOL, KERICHO COUNTY"
-    },
-    {
-      "order": 160,
+      "order": 161,
       "id": "entry-798955",
       "label": "speech",
       "level": "2",
@@ -1923,7 +1935,7 @@
       "text": "Order Senators, we will proceed as we did in the previous situation of a similar nature."
     },
     {
-      "order": 161,
+      "order": 162,
       "id": "entry-798956",
       "label": "scene",
       "level": "2",
@@ -1935,7 +1947,7 @@
       "text": "(An hon. Senator spoke off record)"
     },
     {
-      "order": 162,
+      "order": 163,
       "id": "entry-798957",
       "label": "speech",
       "level": "2",
@@ -1947,7 +1959,7 @@
       "text": "I did not know that the Senator for Bomet is also the Senator for Kericho. I have read the Constitution and the schedule of counties is very clear. Nevertheless, in the spirit of good neighbourliness, I will allow Sen. (Dr.) Langat two minutes."
     },
     {
-      "order": 163,
+      "order": 164,
       "id": "entry-798958",
       "label": "speech",
       "level": "2",
@@ -1959,7 +1971,7 @@
       "text": "Thank you very much Mr. Deputy Speaker, Sir, for according me a chance at least to welcome the students and teachers from Lake Naivasha Girls School and more particularly, as a neighbour to Kericho County, to welcome students and teachers from Tengecha Girls to this particular good House of legislation. Tengecha Girls High School in Kericho County is a well-performing school with a standard performance. It has been doing well and I encourage them to work hard in school. They should admire this particular House so as to be legislators in the Senate in future. May God bless them."
     },
     {
-      "order": 164,
+      "order": 165,
       "id": "entry-798959",
       "label": "speech",
       "level": "2",
@@ -1971,7 +1983,7 @@
       "text": "The Senator for Nakuru is not here but Sen. Prengei, who is also from that county, is here. I give you two minutes."
     },
     {
-      "order": 165,
+      "order": 166,
       "id": "entry-798960",
       "label": "speech",
       "level": "2",
@@ -1983,7 +1995,7 @@
       "text": "Thank you Mr. Deputy Mr. Speaker, Sir. I want to join you in welcoming the girls from Lake Naivasha. I want to encourage them that we have many women legislators in the House and if they work hard, they can also join them in future. I congratulate and welcome them."
     },
     {
-      "order": 166,
+      "order": 167,
       "id": "entry-798961",
       "label": "speech",
       "level": "2",
@@ -1995,7 +2007,7 @@
       "text": "Thank you, Sen. Prengei. Next Order!"
     },
     {
-      "order": 167,
+      "order": 168,
       "id": "entry-798962",
       "label": "heading",
       "level": "1",
@@ -2007,7 +2019,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 168,
+      "order": 169,
       "id": "entry-798963",
       "label": "heading",
       "level": "2",
@@ -2019,7 +2031,7 @@
       "text": "THE ASSUMPTION OF OFFICE OF THE COUNTY GOVERNOR BILL (SENATE BILLS NO.1 OF 2018)"
     },
     {
-      "order": 169,
+      "order": 170,
       "id": "entry-798964",
       "label": "speech",
       "level": "2",
@@ -2031,7 +2043,7 @@
       "text": "We will defer Order No. 12 from the Order Paper because Sen. Wamatangi is not here. The Order is deferred with consequences thereof."
     },
     {
-      "order": 170,
+      "order": 171,
       "id": "entry-798965",
       "label": "scene",
       "level": "2",
@@ -2043,7 +2055,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 171,
+      "order": 172,
       "id": "entry-798966",
       "label": "heading",
       "level": "1",
@@ -2055,7 +2067,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 172,
+      "order": 173,
       "id": "entry-798968",
       "label": "heading",
       "level": "3",
@@ -2067,7 +2079,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO.11 OF 2018)"
     },
     {
-      "order": 173,
+      "order": 174,
       "id": "entry-798969",
       "label": "scene",
       "level": "3",
@@ -2079,7 +2091,7 @@
       "text": "(Sen. (Eng.) Mahamud walked to the Dispatch Box)"
     },
     {
-      "order": 174,
+      "order": 175,
       "id": "entry-798970",
       "label": "speech",
       "level": "3",
@@ -2091,7 +2103,7 @@
       "text": "Order, Sen. (Eng.) Mahamud! You are a long standing legislator. You do not just stampede yourself to the Dispatch Box."
     },
     {
-      "order": 175,
+      "order": 176,
       "id": "entry-798971",
       "label": "scene",
       "level": "3",
@@ -2103,7 +2115,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 176,
+      "order": 177,
       "id": "entry-798972",
       "label": "speech",
       "level": "3",
@@ -2115,7 +2127,7 @@
       "text": "Sen. (Eng.) Mahamud, you have the Floor."
     },
     {
-      "order": 177,
+      "order": 178,
       "id": "entry-798973",
       "label": "speech",
       "level": "3",
@@ -2127,7 +2139,7 @@
       "text": "Mr. Deputy Mr. Speaker, Sir, I beg to move the County Allocation of Revenue Bill (Senate Bills No.11 of 2018).This is a very important Bill that deals with the finance---"
     },
     {
-      "order": 178,
+      "order": 179,
       "id": "entry-798974",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2151,7 @@
       "text": "Order, Senator! You should move that the Bill be read a Second Time."
     },
     {
-      "order": 179,
+      "order": 180,
       "id": "entry-798975",
       "label": "speech",
       "level": "3",
@@ -2151,7 +2163,7 @@
       "text": "Mr. Deputy Mr. Speaker, Sir, I beg to move that the County Allocation of Revenue Bill (Senate Bills No.11 of 2018) be now read a Second Time. This is a very important Bill which makes provisions for the division of revenue raised nationally among the county governments for the Financial Year 2018/2019. Clause 3 of the Bill deals with objectives or the purpose of the Bill, which is to provide for the allocation of revenue raised nationally and conditional allocations among county governments for the Financial Year 2018/2019 as well as the transfer of the county allocations from the Consolidated Fund to the respective County Revenue Fund. The Bill also deals with the allocation of equitable share of revenue raised nationally in each county government. It also deals with the allocation of the conditional grants from the national Government to various counties. The Bill also provides for the publishing of monthly reports by the national Government on actual transfers of all allocations to county governments. There are also conditional grants which are raised from loans and grants, which are provided through the National Treasury based on agreements with various development partners. The Bill also provides for the publishing of monthly reports, as I said, by the national Government on national transfers of all allocations to county governments. It also provides for the county treasury to reflect the total allocations from the national Government separately in the County Finance Bill and reflect all transfers in the books of accounts. As I mentioned, in terms of the objectives, the Bill provides for the allocation of an equitable share of revenue raised nationally among the county governments, in accordance with the resolutions approved by Parliament, under Article 217 of the Constitution, for the Financial Year 2018/2019. Pursuant to Article 187(2) and 202(2) of the Constitution, the Bill also provides for the conditional allocation for the Financial Year 2018/2019. The Bill also provides for the facilitation of transfer of allocations made to counties under this Act from the Consolidated Fund to the respective County Revenue Funds. In the Bill, we have four Schedules and the total transfers to the county governments this financial year, as provided for in the Bill, is Kshs372,741,930,770. Consequently, the County Allocation of Revenue Bill, 2018 through the Schedules proposes to allocate a total of Kshs372,741,930,770 whose breakdown is as follows:- (a) Kshs314 billion from equitable share of revenue; (b) Kshs25.5 billion conditional allocation from the share of national government revenues; and, (c) Kshs33,241,930,770 conditional allocations from loans and grants from development partners. The conditional allocations from national revenues include lease of medical equipment, Kshs9.4 billion and compensation for user fee forgone. This is money that counties used to charge patients going to hospital. They are not collecting that now and, having forgone that, they will be getting Kshs900 million. Level 5 hospitals will get Kshs4,326,000,000. These are the former provincial hospitals and a few others like Kiambu that have joined that league. The other part is supplement for construction of county headquarters. A few counties are being supported by the national Government through this Conditional Grant to build their headquarters. These are five counties, one of them being Nyandarua. There is also Isiolo and three others. These will build a model office block and whoever wants to build offices later will have to use the same because they are not very expensive as some people think. It is a grant to those counties. The next one is rehabilitation of youth polytechnics, Kshs2 billion, which will be divided among the 47 counties. The other one is road maintenance levy, Kshs8,269,000,000. It is 15 per cent of the total collection of road fuel levy. In fact, there was clamour to raise this figure to 20 per cent."
     },
     {
-      "order": 180,
+      "order": 181,
       "id": "entry-798978",
       "label": "scene",
       "level": "3",
@@ -2163,7 +2175,7 @@
       "text": "(Sen. (Eng.) Mahamud's microphone went off)"
     },
     {
-      "order": 181,
+      "order": 182,
       "id": "entry-798980",
       "label": "speech",
       "level": "3",
@@ -2175,7 +2187,7 @@
       "text": "Order, Senator! I was alerting you about not being on record. The microphone is on; you can proceed."
     },
     {
-      "order": 182,
+      "order": 183,
       "id": "entry-798981",
       "label": "speech",
       "level": "3",
@@ -2187,7 +2199,7 @@
       "text": "Thank you Mr. Deputy Mr. Speaker, Sir. As we await the Kenya Roads Bill that was read the First Time today, and depending on what we agree on how the road sector will be structured, we will see how the money that is going to the counties will be enhanced. The total conditional grants from the national Government Revenue amounts to Kshs25,500,000,000. The other funding that we are getting is the conditional allocations from loans and grants from development partners. This includes the transformation health centre systems for universal healthcare, which is Kshs3,363,589,847. Then the World Bank is financing agricultural and rural inclusive growth project, which is Kshs2.9 billion. Of course, there is a loan from World Bank to finance the Kenya Climate Smart Agriculture Project (KCSAP). There is a grant from the World Bank for Kenya Devolution Support Project (KDSP), which is supposed to help build capacity for the county governments. There is also a loan from the World Bank for the Kenya Urban Support Project (KUSP), which is about Kshs11.4 billion. The sixth is grants from Danish International Development Agency (DANIDA) to finance universal healthcare and devolved systems programme, which is about Kshs1billion. The seventh one is the European Union (EU) grant to finance Instruments of Devolution Advice and Support Ideas which is about Kshs1 billion. We heard today that the Ministry of Devolution and Planning will sign that agreement with DANIDA in terms of what goes to the counties. The other one is credit from the World Bank (WB) to finance water and sanitation development projects for about Kshs3.8 billion. The counties to benefit from this funding include Wajir, Garissa, Kisumu and three other counties. There is also a grant from the WB to finance the Kenya Devolution Support Programme amounting to Kshs4 billion. Mr. Deputy Speaker, Sir, those are three schedules; the first schedule is on the equitable allocation of the Kshs3.4 billion, the second schedule in the Bill deals with the allocation from the national Government revenue and the third is from loans and grants. The fourth schedule which has also been introduced this year is the budget celling or recurrent expenditures for county executives and assemblies. This schedule totals to Kshs26,779,286,759 for the county executive and Kshs31,031,309,710 for the county assemblies. With regard to this particular item of the recurrent expenditure ceilings for both the county executives and county assemblies, we had no problem with that of the county executive. However, a lot of issues were raised concerning the county assemblies. The Salaries and Remuneration Commission (SRC) has issued circulars on the salaries and allowances of the county assemblies. In January 2018, the High Court quashed some of the provisions of the circular which was released in July, 2017. Such developments were not considered in the computation of the recurrent expenditure for county executives and county assemblies. The ceiling for county assemblies will have to be amended to cater for such additional obligations. Mr. Deputy Speaker, Sir, pursuant to Article 118 of the Constitution and Standing Order 134(5), the Committee invited the public, state actors and other non-state actors to submit their contributions to the Bill. In this regard, the Committee held a public hearing on Tuesday, 3rd May, 2018, and received submissions from the International Budget Partnership, the Kenya Society of Clerks at the Table (SOCATT), the Commission on Revenue Allocation (CRA) and the Council of Governors (CoG), among others. The Committee also received submissions from the National Treasury dated 20th April, 2018. The Committee extensively considered the recommendations by the CRA on the county government's budget ceilings on the recurrent expenditure for the Financial Year 2018/2019, pursuant to the provision of Section 107(2) of the Public Finance Management (PFM) Act 2012. The Committee, in its deliberations, received submissions from county assemblies appealing for a review of the ceilings recommended by the CRA. The Committee made the following observations on the Bill in regard to this issue. In completing the recurrent expenditures ceilings for county assemblies, the CRA computed the sitting allowances for committees based on 10.5 months as opposed to 12 months. There is contention that people also go on recess and those two months would be for recess period. However, we know that Legislators, including us, also work during recess. The CRA did not factor in the budget on the stay order on the primary sitting allowances. Mr. Deputy Speaker, Sir, the Committee noted that by an order dated 16th January, 2018, in the High Court appeal Petition No.9 of 2018, the County Government of Kakamega vs the SRC, the high court issued an order staying the implementation of the enforcement of the SRC as contained in Gazette Notice no.6501 dated 7th July, 2018, purporting to review the remuneration of the benefits of the state officers in county governments. The net effect of this order was to reinstate the allowances provided for in 2013 through Circular No.001/11/2013. The salaries for county assembly staff were based on optimal staffing level as opposed to the actual set by the Kenya Revenue Authority (KRA). We noticed that in some counties like Turkana, they have over 300 members of staff in their assembly and in their payroll whereas the optimal is about 100. We cannot fail to pay those people for the time being. However, we have looked into that matter and said that we are going to ask them to achieve the optimal levels in the next three years. However, for now, we must pay the people who are there. In that regard, we have looked at the ceilings and in the Third Reading, we will bring relevant amendments. We have adjusted a bit here and there and, in fact, the earlier ceiling for the county assemblies at Kshs31billion has now risen to about Kshs32.1 billion. We have added about Kshs1.7 billion. The county assemblies, through SOCATT, asked for an additional Kshs2.7 billion, but we said that we cannot afford that increment. You will realize that the revenues to the counties rose by Kshs12 billion this year from last year's Kshs302 billion as opposed to this year's Kshs214 billion. We cannot afford that entire amount to be given to the county assemblies. Mr. Deputy Speaker, Sir, after the Bill was published, the national Treasury brought in a letter addressed to both Houses of Parliament informing us that they got a conditional allocation or grant of Kshs4 billion for the Financial Year 2018/2019 on the Agriculture Sector Development Programme from the State Department on Crops and Food Development of the Government of Sweden in an agreement signed in 2017. The 47 counties will benefit from this fund. Secondly, they also informed us that that they had received a conditional allocation of Kshs880 million for the Financial Year 2018/2019 on water tower protection and climate change mitigation and adoption programme for the Ministry of Environment and Forestry of the European Union (EU) from an agreement signed in 2014. A total of 11 county governments which host our water towers will benefit from this fund. Thirdly, the national Treasury informed us that there is a conditional allocation of Kshs1.854 billion for the Financial Year 2018/2019 for the Kenya Urban Support Program. The national Treasury had initially asked us to include Kshs927 million, but they have now doubled it to be included in this financial year. However, it is important to know that these figures were not in Division of Revenue Act (DORA). We enacted the Division of Revenue Bill, which became law. You will note that the DORA provides a financial framework within which the CRA should operate, within which the law we are making now applies. The County Allocation of Revenue Bill must reflect what is provided in the DORA; this will necessitate amendments to the DORA in 2018. Mr. Deputy Speaker, Sir, the Committee has initiated the process to amend the DORA - which was enacted and assented to a few weeks ago by His Excellency the President - to include these figures. The proposed figures will raise the figure from Kshs372 billion which goes to the counties to about Kshs376 billion, which is about Kshs 4 billion more. It will, therefore, be prudent for this House to fast track that amendment of the Division of Revenue Act 2018 to ensure that the conditional grants meant for county governments are incorporated. The only amendment that we are making is that of provision of more money to the counties. Because the mandate of the Senate is to work for the interest of the counties and their people, we should add them whatever extra money we can get. In fact, the Bill should have already been published. The ceilings for county assemblies and executives on Schedule Four that I discussed at length have to be amended to accommodate the following provisions:- (a) Committee sitting allowance based on 12 months as opposed to 10.5 months as provided by Kenya Revenue Authority (KRA). (b) The allowances of Members of County Assemblies (MCAs) that were enforced prior to Gazette Notice No.6518 of 2017. (c) The salaries of county assemblies staff since it was based on the optimal staffing levels instead of actual number of staff establishment. We want the actual numbers of staff establishment to be budget for and not on optimal level. Those that are in place must be paid. (d) Approve the County Assembly Service Board (CASB) to make arrangements within the next three years to ensure that staffing levels are rationalized, so that they only hire people that they can pay. In that regard, a county must be careful not to engage staff who are not necessary. As we move forward, it is important to maintain our ratio of development expenditure to recurrent expenditure. Counties are required to use 30 per cent development expenditure and 70 per cent recurrent expenditure. However, there is a lot of distortion today and nobody is meeting those requirements. Mr. Deputy Speaker, Sir, it is also important to fast-track and process the County Allocation of Revenue Bill, 2018. In fact, we will come with some amendments in the Third Reading. Going forward, a time will come when the Division of Revenue Act will be enacted in the other House and assented to by His Excellency, but we will be forced to amend it. We are fast-tracking this now because for us to deal with the disbursement to counties, this law must be in place. We would have waited to amend the Division of Revenue Act as assented to and we brought it back. However, we do not want to do so. This is our Bill and we can amend it anytime we want. However, we want that money to be put in the budget so that we resist any attempt by the national Treasury to bring some money mainstream and tell us to amend the County Allocation of Revenue Act without us amending the Division of Revenue Act. We got our expert legal advice that anything that is in this Bill must also be in the Division of Revenue Act. We expect the discussion on this Bill to be finalized by tomorrow, so that we get to Third Reading when we come back from the Legislative Summit. With those few remarks, Mr. Deputy Speaker, Sir, I beg to move this Bill and ask my vice Chairman, Sen. Mwaura, to second it."
     },
     {
-      "order": 183,
+      "order": 184,
       "id": "entry-798988",
       "label": "speech",
       "level": "3",
@@ -2199,7 +2211,7 @@
       "text": "Who is seconding?"
     },
     {
-      "order": 184,
+      "order": 185,
       "id": "entry-798989",
       "label": "speech",
       "level": "3",
@@ -2211,7 +2223,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I beg to second the Motion as moved by my able Chairperson concerning the County Allocation of Revenue Bill. From the outset, there are some issues that were raised. We had robust engagements with various stakeholders in order to ensure that we have a Bill that speaks to their concerns within the devolution spectrum. Mr. Deputy Speaker, Sir, it will be noted that we have enhanced allocations to the counties to the tune of Kshs372 billion. Out of this, Kshs25 billion is conditional grants from the national Government for various functions of the county governments. Mr. Deputy Speaker, Sir, allow me to highlight a few things because my Chairperson has canvassed most of them. One, there seems to be a challenge, especially in terms of disbursement of funds. That is why this Bill seeks to ensure that there is a monthly report to track how much money has gone to each county. Where there are delays and this is not happening in the right way, we have seen counties delaying paying their own members of staff. Some of the submissions that were made were to the effect that they should be allowed to borrow only for salaries. That has a cost effect. So, the disbursements for each and every month will ensure that we track these expenditures. There was also the issue of delayed payments to people who provided goods and services prior to the prolonged election period. Many businessmen and women who have supplied to the counties were not paid in time. Some of them, ended up seeing their property auctioned. The monthly report will be critical. It will also help us, as Senators, to monitor the allocation that has been given to county by county. We have also gone further in our deliberations with the office of the Controller of Budget to ensure that counties give them the interim reports of the monies that they have disbursed to them. There is a challenge because disbursements are also tied to expenditure. The discussions would be that counties are laying their own paper work so that by time the monies are released, they can easily go to whatever entities that they have contracted, or whatever expenditures they have accrued as part of their recurrent expenditure. Mr. Deputy Speaker, Sir, another key issue is the level 5 hospitals. We noted that Kiambu County was added as a level 5 hospital because it serves many people by virtue of its closeness to Nairobi. It has been allocated Kshs126 million which will ensure it meets its needs on the ground. However, it is the observation of the Committee that we need to have a proper criterion on how hospitals graduate to level 5 hospital status. Currently, we now have 12 level hospitals. Many governors are improving their medical facilities. For example, the Kakamega County Governor is putting up a hospital worth Kshs7 billion. That is an area that we want to look at, going forward. We got a presentation in terms of the formula that is being used to allocate the monies to level 5 hospitals, particularly from the international budget programme partnership which gives us an insight into the effects. Currently, the formula is that monies are distributed based on bed capacity. Even if that was to be the case, there are disparities as in the case of Nakuru and Meru counties. Despite the fact that Nakuru County has a higher bed capacity than Meru, they received the same amount of money. It has been noted that the formula that was being used prior to devolution under the local governments would possibly provide to us a good basis to review the current formula so that it is more equitable and speaks to the needs of the various hospitals. Mr. Deputy Speaker, Sir, another critical issue is the fact that we have increased allocations for leasing of equipment to various hospitals. This has been done significantly even more than what was initially contracted for within a period of seven years. This is welcome. We hope that with the government's effort to ensure that we have medics from places such as Cuba to support the Universal Health Care, that will go a long way in ensuring that the common mwananch i gets the services at the grassroots level. However, we note that we would also have allocated monies to cancer centres which are critical. Although they have not really obtained in the current County Allocation of Revenue Bill (CARB) yet, this is critical because there are so many cases of cancer amongst our populace. A good cancer facility would cost about Kshs2billion. I believe that if we were more innovative on how we allocate resources we could as well within a period of five years provide five centres of excellence in cancer treatment so that our people do not have to go to India and other places for treatment. I am sure that even here, we have very good champions on this issue such as the good Sen. Mugo. Another key issue that arises is the fact that we still have counties such as Nyandarua, which are continuing to construct their headquarters because initially they did not have them. However, we hope that this is now coming to a close so that we can then move such allocations to other priorities. Mr. Deputy Speaker, Sir, we have also allocated Kshs2billion through this Bill for youth polytechnics. It is very important as you look at our completion rates and performance. Even going by the last Kenya Certificate of Secondary Education(KCSE) results, it is quite telling that we need more youth polytechnics because more than 50 per cent of the KCSE candidates last year got grade D plus and below. The need for those youth polytechnics is very high. There is also the fact that in order for us to achieve the Kenya Vision 2030, we need to ensure that we emphasise on Technical, Industrial and Vocational Education (TIVET). However, we note that the Ksh2billion shared amongst all the 47 counties may not necessarily be enough in addressing the needs on the ground. It is therefore, an area that we need to look at. It is true that the national Government is providing for a technical training institute in all the 290 constituencies. There is also this other move towards ensuring that each of the 1450 wards gets a village youth polytechnic. Going forward, we may want to consider an increment of allocation towards this. Mr. Deputy Speaker, Sir, the other issue that arises here is the one of conditional grants where we have monies allocated from our development partners towards the enhancement of devolution services. This is especially because we realise that increasingly as a country, our counties and towns are becoming more urbanised. On a competitive basis, some of these allocations are going to go a long way in ensuring that we facilitate the urbanization of 59 towns. They will improve their service delivery to the country. This allocation is first, on an equal basis, about Kshs20million per county, and then the rest can be competed for. It is important because it encourages the idea of best practice. Mr. Deputy Speaker, Sir, a contentious issue that saw a lot exchange among us, the Council of Governors (CoG) and the Treasury is fuel levy. Counties have a very big burden of about 31000 kilometres of roads that they need to maintain including tarmacking. However, the monies allocated to them depend on the percentile provided by the Roads Act. It is an issue that also depends of the projection of the amount of money that will be collected from the very fuel levy that we are sharing. Initially we thought we would allocate about Kshs8.5billion to the counties for roads. That is a very bullish projection of revenue and so it has been revised realistically to about Kshs8.3billion so that we do not occasion a deficit that we cannot meet. However, there is a very big push by the CoG to ensure that we increase the fuel levy to 20 per cent. We will be discussing this based on the deliberations of the message that we got from the National Assembly, in order to determine that it is the case. While there were agreements to that effect under Intergovernmental Budget and Economic Council (IBEC), we, as a Committee, were guided by the law as currently obtaining that provides for 15 per cent. Until such a time that the law is changed to 20 per cent, allocations shall be guided by the existing law. Mr. Deputy Speaker, Sir, as a Committee we have also extensively discussed the fact that there is need to ensure that we have a county treasury so that we have a one stop port of call where one can track the various expenditures of the Treasury. This is not just necessarily for the ordinary equitable sharable revenue but also the Own Source Revenue (OSR). The OSR is a very grey area. I am sure, going forward as part of our legislative agenda, we will ensure that we legislate around that. The provision of the county treasury is critical so that counties can been enabled to track the expenses. They can develop the requisite expertise to ensure that they comply with the various financial obligations. Otherwise, it is a very good Bill. Of course, timelines are not on our side. We hope that with the increased allocations to counties, we are going to see \"Wanjiku\" and I can add \"Ouma\" benefit from the devolution dividend in the spirit of the \"handshake\". Everybody can then feel that it is happening. There are some things that are arising. For example, sometimes we devolve monies but there are also some forms of marginalisation or discrimination that arises from the fact that governors may concentrate allocations to the center. Increasingly going forward, we may want to see how these monies are going to be decentralised without losing the fact that we need to balance between big projects of economic value and the small ones that speak to the very miserable people at the grassroots level. Mr. Deputy Speaker, Sir, I beg to second."
     },
     {
-      "order": 185,
+      "order": 186,
       "id": "entry-798996",
       "label": "scene",
       "level": "3",
@@ -2223,7 +2235,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 186,
+      "order": 187,
       "id": "entry-798997",
       "label": "speech",
       "level": "3",
@@ -2235,7 +2247,7 @@
       "text": "Let us have Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 187,
+      "order": 188,
       "id": "entry-798998",
       "label": "speech",
       "level": "3",
@@ -2247,7 +2259,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I rise to support the Bill. Allow me to mention a few issues that were not captured by my vice- chairperson. On Clause 10, I want to disclose that the Bill follows the basis of division of revenue. This is the last time we are dividing revenue on this formula. We will have to devise another formula for purposes of the Division of Revenue Bill 2019/2020. There is tremendous improvement on Clause 6 on budgets of recurrent ceilings for purposes of county governments and county assemblies. There are six counties that would not benefit tremendously from the increase. Those counties, Kiambu included, have not complied with the two per cent in the formula in terms of raising revenue. So, they appear on the schedule as if they have not made any benefit from the increase in the recurrent expense. Mr. Deputy Speaker, Sir, we are happy that the ceilings on recurrent expenditure for both county assemblies and county governments has capped what appeared to be a spiraling effect on spending money on benchmarking. That in itself does not say that there is no waste. There is so much waste in counties that you wonder when we claim that we are allocating minimum resources whether indeed we are doing the same. For purposes of Level 5 Hospitals, I do not see the Chairperson of the Committee on Health but I would like to request the Committee on Health to analyse the allocation we are giving Level 5 Hospitals. It has remained the same. The increase is marginal. That does not mean in itself that the health facilities are not required. Senators, you are aware that counties have not paid up to Kshs2.8 billion to the Kenya Medical Supplies Agency (KEMSA) for acquisition of drugs. So, we need to understand from the Committee on Health whether the Kshs4.2 or Ksh4.3 billion we are allocating to Level 5 Hospitals is adequate. We ask you to do a very quick audit for us because if we cannot devolve funds for purposes of this resource, I do not think we are doing a good job. Thirdly, is the conditional grants. In the exit report done by the Commission for the Implementation of the Constitution (CIC), they pointed out to conditional grants. That was three years ago. I can already see it. They warned that conditional grants are slowly taking away the work of county governments because most of the conditional grants are on county functions. I have raised a concern, and I am glad that the Chair of the County Public Accounts and Investments Committee (CPAIC) is here. We are increasingly sending money on conditional grants to counties but I am not quite sure that in terms of the reporting by the Auditor General, we are doing service to the counties by finding out how this money is being utilised. Money on agriculture, one of the grants that have been left out, is a county function. The physical planning and urban support is part of functions of county governments. This money is not going directly to counties. It is going through ministries. Consequently, we are increasing the amounts. In another three years, we will be talking about Kshs100 million, billions or more yet all these Committees sitting here do not audit how this money is being utilised, where it is going and for what purposes. Mr. Deputy Speaker, Sir, had it not been for the previous Committee on Finance, which put its foot down on the Kenya Devolution Support Programme (KDSP), when it was brought to our attention, we were only supposed to support and say, governors have approved. In fact, we were to send him away because the language they brought to our Committee is that governors have signed and agreed, please endorse. We told them, forget it! Go back! Give us the documents. Had we not insisted on the Kenya Urban Support Programme (KUSP), we would not be having the documents in our possession. In the county of Tharaka Nithi and Isiolo, for example, what exactly will happen in your headquarters in terms of KUSP? Is that not our mandate? The medical scheme and we raised this concern, and I must say it, this Senate approved a grant for medical equipment under very cantankerous conditions, where we disagreed. Governors disagreed. It was Kshs4.5 billion for seven years. Something has happened this year. We must continue asking questions. They have increased the allocation for last year with that one amendment which is Kshs6.4 billion and then increased the one for this year from Kshs4.5 to Kshs9.4 billion. What they are saying is the agenda of Government and Jubilee to fulfil the Big Four agenda. I have no problem with that but about the question which Sen. Wetangula asked on this Floor. When we got the details it was about gloves and things that ideally, should not have been a grant. So, we must continue asking these questions. Our Committee on Health must help us, because we in the Committee of Finance and Budget ask about the financing and what the details are, but we have a Committee here that can ask the detailed questions so that we can help counties. We are not asking those questions and sooner rather than later, the national Government will be running our counties. What you are seeing in Nairobi in terms of the metropolitan authority, is just an example of a way you circumvent the county and start running the city without necessarily involving or informing the county government. The same will happen to our counties in terms of this. There is a very nice grant. It affects 11 counties that have water towers, a lot in the Rift Valley, part of Nyanza et cetera at Kshs80 million. This is a function we gave to counties on management of forests but you will not know what is happening unless we find a method. I have proposed, Madam Speaker, and I would like the Chair of CPAIC to help me on this, that the reports that come to CPAIC on the expenditure or ---"
     },
     {
-      "order": 188,
+      "order": 189,
       "id": "entry-799001",
       "label": "speech",
       "level": "3",
@@ -2259,7 +2271,7 @@
       "text": "Order, Sen. Mutula Kilonzo Jnr.! Did you say, Madam Speaker?"
     },
     {
-      "order": 189,
+      "order": 190,
       "id": "entry-799002",
       "label": "speech",
       "level": "3",
@@ -2271,7 +2283,7 @@
       "text": "Mr. Deputy Speaker, Sir, I am sorry. I think I was looking at Sen. Pareno. That, CPAIC assist us in finding out how we can interrogate the expenditure. We do not want to come at the tail end; I want to know about the Kshs80 million going to Wote on urban support. Is it going to do roads or street lights; so that we can find a method in the process of implementation to find out what exactly it will do. Regarding the allocations that are going to counties, we will bring an amendment here. That amendment should say, that in terms of the cash disbursement schedule, the idea that came through the Cabinet Secretary for the National Treasury in this budget, that he has some discretion that he can look at the County of Elgeyo-Marakwet in the balance sheet and see \"x\" amount of money in their bank account and decide, this month I will not disburse funds should not be in place. We will put a Clause here that restates the Constitution; that every month you must send the money without deduction. There is no discretion. We have done something that I propose to try and sort out the issue that was here last time. Hon. Senators, the equitable share of revenue is on its own schedule, Schedule 4 only; so that the question that was here just after the elections that the shareable revenue was affected by conditional grants, now is a thing of the past. The money would be sent irrespective of any problems that are in the conditional grants that are signed by the national Government. That is an achievement that the Committee on Finance and Budget should be commended for and I am part of it. You can clap for us."
     },
     {
-      "order": 190,
+      "order": 191,
       "id": "entry-799005",
       "label": "speech",
       "level": "3",
@@ -2283,7 +2295,7 @@
       "text": "Order! Proceed appropriately."
     },
     {
-      "order": 191,
+      "order": 192,
       "id": "entry-799006",
       "label": "speech",
       "level": "3",
@@ -2295,7 +2307,7 @@
       "text": "Mr. Deputy Speaker, Sir, we have proposed that the National Treasury must align the conditional grants to the budget cycle. The idea of amending the Division of Revenue Bill and the County Allocation of Revenue Bill as if there is a crisis must stop. When the President signed into law the Division of Revenue Bill, the National Treasury had left out three conditional grants. When they appeared before us, they asked us to amend the County Allocation of Revenue Act (CARA) quickly but we told them that the law must be followed. That is why the Chairman was clear that we will follow the process, which is to amend the Division of Revenue Bill, before the CARA is amended. On behalf of my committee, I urge that in the reports, the conditional allocations in Agricultural Sector Development Support Programme (ASDSP), Water Tower Protection and Kenya Urban Support Programme additional funds must await an amendment to the Division of Revenue Bill. Our legal team has confirmed that in fact the process of division of revenue can begin from the Senate without having a dispute. I cannot finish without saying this. We must pronounce ourselves on arguments about money Bills. The idea that everything we deal with must be scrutinized from the lens of a money Bill must stop. We cannot discuss the County Wards Development Equalization Fund Bill and the Retirement Benefits (Amendment) Bill because they are money Bills yet they have been tabled. These are some of the things that upset many of us. The County Wards Development Equalization Fund Bill would not have come here unless there was a discussion under Article 110(3) of the Constitution. That is something that this House must address because the Division of Revenue Bill and the County Allocation of Revenue Bill which can originate from here are money Bills. This is something we must pronounce ourselves on as a Senate because somebody out there is attempting to walk in jurisdiction by restricting our mandate. Unless we deal with that issue, by the time we amend the Division of Revenue Bill as proposed by the Chairman, they will tell us that we cannot touch it. That is something that must be resolved quickly. On the question of the allowances that have been given to our colleagues in the county assemblies, it surprised us that the Commission on Revenue Allocation (CRA) thought that they would put a budget for 10.5 months as opposed to 12 months. I want to wind up by saying that we spend a lot of time and particularly the Committee on Finance and Budget scrutinising and checking details from the CRA. I can see the Council of Governors (CoG) appearing both in the Division of Revenue Act and in the CARA. I want to repeat that public funds must be spent prudently. Governors must answer to the questions on expenditure. The County Public Accounts and Investments Committee (CPAIC) will do us well by finding counties that have not spend money well either to be surcharged or we stop allocating them funds. I am glad that the court jailed some people for corruption. We want to see county officials including governors and chief officers, especially those in finance departments going to jail for imprudent use of public funds. That is what I would like to see because there are many people who think that devolution must be given a bad name because governors are misusing funds. Like they say, we need to give a dog a bad name and hang him. I am glad and I pray that these funds will be disbursed in time and that this Senate will continue with its work. It is true we are not allocating enough funds to counties because we still use the 2013/2014 audits. As we do so, we need to know that we are not doing enough but we can do better. I thank you."
     },
     {
-      "order": 192,
+      "order": 193,
       "id": "entry-799009",
       "label": "speech",
       "level": "3",
@@ -2307,7 +2319,7 @@
       "text": "Thank you Sen. Mutula Kilonzo Jnr. I can see a lot of interest. We might have to look at time but for the time being, I will indulge you with your 15 minutes. Let us see how we make progress."
     },
     {
-      "order": 193,
+      "order": 194,
       "id": "entry-799010",
       "label": "speech",
       "level": "3",
@@ -2319,7 +2331,7 @@
       "text": "Mr. Deputy Speaker, Sir, thank you for the opportunity to contribute to this important Bill. As I was consulting my neighbour Sen. M. Kajwang', I felt that perhaps we should have had a bit more time to internalise."
     },
     {
-      "order": 194,
+      "order": 195,
       "id": "entry-799011",
       "label": "speech",
       "level": "3",
@@ -2331,7 +2343,7 @@
       "text": "Order, there is no that neighbour of yours there."
     },
     {
-      "order": 195,
+      "order": 196,
       "id": "entry-799012",
       "label": "speech",
       "level": "3",
@@ -2343,7 +2355,7 @@
       "text": "He must have moved away! I did not realise he is a pastoralist. I know this is one of the most important Bills for the Senate. As such, it is the core mandate and perhaps the most important Bill we will pass this year. The Division of Revenue Bill is one thing that we Senators can say that it is a job we do because when we go to out counties, sometimes they ask us what we have done. This is one of the things that we can highlight. I hope that in future we will have a little bit more time and perhaps be taken through some of the provisions so that Senators can internalise and debate them more robustly. That said, the concern regarding this Bill is the whole thing around additional and conditional allocations to facilitate the leasing of medical equipment at a cost of Kshs9.4 billion. I have said this in the past. I know we are looking at the Big Four Agenda and one of them is the universal healthcare. The universal healthcare is not just about equipment but also about the personnel. I do not know if further in the Bill - I am sorry I have not quite read everything - there is an allocation that is commensurate to the number of personnel to manage the equipment because we are now in the fourth year of devolution. I also do not know if money has been allocated for managing the equipment for counties and if we have done an audit to see whether Managed Equipment Services (MES) has changed the lot and objectives for the past four years. I know we got 100 doctors from--- Where did we get 100 doctors from?"
     },
     {
-      "order": 196,
+      "order": 197,
       "id": "entry-799015",
       "label": "scene",
       "level": "3",
@@ -2355,7 +2367,7 @@
       "text": "(An hon. Senator spoke off record)"
     },
     {
-      "order": 197,
+      "order": 198,
       "id": "entry-799016",
       "label": "speech",
       "level": "3",
@@ -2367,7 +2379,7 @@
       "text": "Order, Senator! Sen. M. Kajwang' and company, if you want to pass information, you know what to do. You should place an intervention seeking for a point of information, instead of shouting from wherever. This is a dignified House and the process is highly dignified. Proceed Sen. Halake."
     },
     {
-      "order": 198,
+      "order": 199,
       "id": "entry-799017",
       "label": "speech",
       "level": "3",
@@ -2379,7 +2391,7 @@
       "text": "Mr. Deputy Speaker, Sir, this House should ensure that as we look at the allocations, finances should follow functions. I concur with Sen. Mutula Kilonzo Jnr. that if we separate Bills as money Bills without putting the context of service provision at the lowest levels of the counties for which we are responsible, then we will be missing the point. The principle of the County Wards Development Equalization Fund is to push resources down to the frontlines of service provision at the local level. So, some of the money Bills should never be discussed out of the context of services they are supposed to provide. With additional equipment, I hope that we Senators will ensure that we audit how far we have come in terms of service provision in our facilities as a result of the equipment we have, given that we are now in the fourth year of the implementation of the equipment. I know that there are places where equipment is collecting dust for we do not have qualified personnel to use it for service provision. These are some of the things that we need to look at as we oversight these funds. For the additional conditional allocation to Level 5 hospitals, we have been bashing Kenyatta National Hospital, though I do not know if the other Level 5 hospitals are also not working. Kenyatta National Hospital is overwhelmed by the numbers that are being referred there, especially women who have to now give birth in undignified conditions. It is not that the referral system is not working but the facilities that we are calling Level 5 are not working to the level and quality of service that the women or citizens require. We need to find a way of decongesting Kenyatta National Hospital. I would like to commend Moi Referral Hospital because I have seen it handling a lot of referrals from its catchment area, which is the Rift Valley though I have not seen much from the rest of the Level 5 hospitals. I would like to ask the same question as Sen. Mwaura; what are the criteria for us to make Level 5 hospitals similar? This has been done in all sectors, education included, where we have decided on the schools that are to be national. That is the same thing that we have done with the Level 5 hospitals but we need to ask ourselves as we pump money into different places to call them Level 5, what is it that we are spending on and is it really decongesting the few referral hospitals that we have? We should commend the Committee for ensuring that the conditional funds do not hold the equitable revenue share. For me, the entire thing around resource allocation based on the equitable share, percentages of the equitable share of the most recent audited revenue and conditional allocations or percentage of most recent audited revenue does not seem to add up. It could be my mathematics that is not good and we also have a lapse of a few years, 2013/2014, but 68 per cent does not add up. This is one of the things that I was concerned about and I was trying to internalize. We have to make sure that the experts convince us that these percentages are factual. Right now from where I stand and from my own calculations at the back of my envelope, they seem not to add up but I do not wish to say that they are not factual. We probably need to ensure that the percentage of Kshs58.7 billion or 6.3 per cent of the most recent audited revenue are factual as we stand here and talk. The other thing that I found interesting in this is entire conditional funding from donors---. I know that we have the European Union (EU) instrument for devolution, International Development Association (IDA) water and sanitation development projects, the World Bank projects, Danish International Development Agency (DANIDA) universal healthcare for developed systems projects but there is a lot of fragmented amounts of money being managed by different entities. I wonder if this House understands how all these amounts add up in their counties or do we just list them down without knowing where all these different donor funds are going. Is our oversight just restricted to the revenue collected by the country or do we have jurisdiction and mandate over all the other conditional funding that is going on? If so, what is the framework for this House to ensure that we oversight it well and ensure that it really contributes to the bigger picture and objective of devolution as stipulated by the objectives for all these funds. Turkana County invited me and a few others and they told us that they would want to have all these funds executed from one pot and I think that it is a fantastic idea. I do not know if we have legislation or frameworks that would help our donors and partners to coordinate their funding and their effort so as to ensure that these funding and efforts are actually serving the priorities that have been set out by the counties and not priorities of the donors. While we appreciate the donor funding and the support we receive from them, they must be owned by the counties and they must contribute the priorities that have been set by the counties for them to bring the impact that we seek. As this House, we probably need certain pieces of legislation that streamline these additional and conditional funds that we are reflecting in our expenditure and Division of Revenue Bill. I know that there is an annex that sort of lays out a framework for managing additional conditional allocations and I know the responsibilities that have been given to certain areas of the counties and National Government but I do not see a specific role that has been given to the Senate. I am not sure if I am the one who has not seen it, hence the reason why I was a bit nervous about some of the contributions that I was going to make. That said, this House should not only look at the revenues that the country is collecting but also the donor funding, with a view to ensuring that they align the funds with the objectives of the identified priorities in the counties. In servicing of the contracts, I would like to go back to the managed equipment. Servicing of contracts is an issue that we probably need to look at so as to make sure that we are not holding ourselves at ransom without putting systems in place for that. The other thing that has been of concern to me and I do not know if the House is aware of, is the downgrading of our country's credit. I do not know if it is as a result of our sovereign debt or as a result of other conditions but our country's credit rating was downgraded a few months ago. I had a question for this House which has now been affected by the moratorium that we have on Statements but in line with this, what does our debt look like? We have been downgraded by Bretton woods; the credit rating agency. Is it for our sovereign debt and are these managed equipment part of that or what else should we be looking out for to ensure that our sovereign debts and our country's credit rating does not suffer? We have already been downgraded as a country, which has had a ripple effect on our banks. The Co-operative Bank, Equity Bank and Kenya Commercial Bank have also been downgraded because of their linkage and the fact that they are seen as our national banks. My worry is, how are these things linking to our sovereign credit profile, our banks credit profile and our country and what is the role of the Senate in ensuring that we oversight these types of downgrades? As soon as the moratorium and issues around Statements are lifted, I will seek a Statement on that from the Ministry concerned and from the Central Bank but we need to cast our nets wider to ensure that the activities that we do, link to a bigger picture. Our mitigation as the Senate is also important, so that we do not confine our oversight to the small activities that counties do, but the bigger picture that is influenced under the ripple effect that some of these things are having on our counties and the entire country as a whole. Mr. Deputy Speaker, Sir, I do not wish to speak too much on the nitty-gritties, because the Committee has done a good job. I would like to commend the Committee for its diligence and the public and stakeholder participation that it has sought. That said, I would urge us to have a global perspective also as concerns revenue, expenditure and risks, so that we can oversight along the continuum of both international and the lowest levels of service provision. As we pass legislations and vote for the County Allocation of Revenue Bill and other bills that come to this House, we should ensure that all aspects and risks have been managed accordingly. However, the constitutional provisions and other aspects have all been taken care of with the caveat that the percentages need to be made more factual and current, as opposed to them going backwards many years. Therefore, even if we were to interrogate the factuality of it, we should not hide under the lapsed timeframes that we look at. Mr. Deputy Speaker, Sir, thank you for the opportunity to give my contributions."
     },
     {
-      "order": 199,
+      "order": 200,
       "id": "entry-799022",
       "label": "speech",
       "level": "3",
@@ -2391,7 +2403,7 @@
       "text": "(Sen. (Prof.) Kindiki: Order, Senator! For your information, the Constitution says that the accounts to be used are the most recent audited accounts by the Auditor-General and approved by Parliament. That is where the issue lies. As much as we are politicians, it is also good to look at the law and the constitutional provisions. Please, proceed Sen. Wetangula."
     },
     {
-      "order": 200,
+      "order": 201,
       "id": "entry-799025",
       "label": "speech",
       "level": "3",
@@ -2403,7 +2415,7 @@
       "text": "Mr. Deputy Speaker, Sir, thank you for this opportunity to support this Bill. I would like to start by congratulating my Chairman, Sen. (Eng.) Mahamud. This is a Committee that I belong to and he has been steering this Committee efficiently and pretty well. As a general observation, now that the country is talking about the possibility of relooking at the Constitution, 2010, it will be desirable for the country to look at sharing of revenue on the basis of budget and not audited accounts. This is a budget cycle and what we are giving out to the counties and retaining at the centre is about the current budget. It is not about a historical figure. Therefore, it will be good if in future, we relook at the Constitution and say that what is sharable is what is in the budget. The current budget that is being worked on is likely to be in excess of Kshs2.4 trillion. What we are dealing with is still under a trillion. Mr. Deputy Speaker, Sir, secondly, if we revisit the Constitution, it will be absolutely important and necessary that the Senate be at the centre of the budgeting process. The Senate is reduced to dealing with a small percentage of money that is going to the counties, while the bulk of the money is being handled in the National Assembly. You know the ping-pong that we have been having about even a small item like oversight fund that the Senate is looking for to ensure that money is used more efficiently in the counties. The current division that we are seeing is as a result of the historical background of devolution. It is quite clear that devolution is a dream-come-true for many Kenyans. It has its problems and hiccups but, today, if we asked Kenyans to vote for the most innovative political idea since Independence, they will tell you that it is devolution. We must make it work because from the last election and previous elections after the new Constitution came into place, we have progressively seen that what is supposed to be equitable is in fact far from it. Next year, this country will have a national census. You and I know that there are certain regions of the country and some counties where population census figures were falsified and inflated to the extent where some counties were---"
     },
     {
-      "order": 201,
+      "order": 202,
       "id": "entry-799026",
       "label": "speech",
       "level": "3",
@@ -2415,7 +2427,7 @@
       "text": "(Sen. (Prof.) Kindiki: What is it, Sen. (Eng.) Mahamud)?"
     },
     {
-      "order": 202,
+      "order": 203,
       "id": "entry-799027",
       "label": "speech",
       "level": "3",
@@ -2427,7 +2439,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir. Is the Senator in order to suggest that some population figures were falsified, yet the purported falsification was overruled by the courts of law, up to the Supreme Court level? Is he in order to bring that up?"
     },
     {
-      "order": 203,
+      "order": 204,
       "id": "entry-799028",
       "label": "speech",
       "level": "3",
@@ -2439,7 +2451,7 @@
       "text": "Mr. Deputy Speaker, Sir, in fact, as a distinguished colleague in the learned profession, you know that the then Minister responsible for the population census, the current Governor of Kakamega County, went to court and won the case. There was an order for repeat census in certain areas. However, some Kenyans in those areas arrogantly said that if the repeat census were to happen, they would have to count people from the air, and the matter ended there. This is common knowledge and the cases were in court. The Minister is also still living and is the current Governor of Kakamega County. He can give you the facts if you need them. If the country wants to move forward, we must embrace probity and honesty. We should not degenerate into the level of our sister country, Nigeria, where each state struggles day and night to inflate their populations, so that they get more money. We want to have Kenyans getting a fair share of the national cake through the innovation of devolution. This is the only way that things will work. I do not want to personalize and point out some counties, but there are some counties that get money that is way beyond their absorption capacities while others that do not get enough money. This is not equitable. We would like to see equity working. Mr. Deputy Speaker, Sir, the other issue is on locally collected revenue. The other day, I met the Governor of Kiambu County, Baba Yao, who told me that from his performance now, his revenue collection will move from Kshs800 million, recorded by the previous regime in Kiambu, to Kshs2.5billion. This means that he is either more efficient or honest than the previous Governor, or both. This is because the economy of Kiambu has not changed overnight. It is the same economy that has been there. If he can efficiently triple the collection, then we know that counties can actually collect revenue and develop without relying 100 per cent on the revenue from the centre. Mr. Deputy Speaker, Sir, I want to emphasise one point that I belaboured very hard in the last Parliament; the issue of leased equipment. As lawyers, Sen. (Dr.) Kabaka, Sen. Fatuma and I know that we had a fixed contract which was tabled here. It had fixed figures annually, fixed equipment deliverables and the amount of money was Kshs4.5 billion. I have asked my Chairman to use his vantage position as the Chairperson of the Committee to not only lament with us, but even go to the National Treasury and interrogate those who are designing the budget on how Kshs4.5 billion has mutated to Kshs9.4 billion. Has the contract been amended to bring repayment period forward so that we are now paying double of what the fixed contractor had? We know that there has not been anything in the news about governors, as county executives, being called upon to meet. You remember the hullabaloo that was there about some governors refusing to sign those contracts; our friend, hon. Isaack Ruto being the last to sign and so on and so forth. Eventually, they signed that fixed contract, which was a prototype running across 47 counties. Why has the figure more than doubled from Kshs4.5 billion to Kshs9.4 billion? We are not getting any answers. Has the equipment supplied been expanded? Are we now getting more superior equipment, because it had already been delivered? Do you remember the scandal we saw here where even hypothermic needles, gloves, biceps and all manner of things were part of the contract?The fact that we are leasing biceps, hand gloves and all manner of things that are produced here in Industrial Area--- Never mind the fact that the figure was Kshs4.5 billion. Mr. Deputy Speaker, Sir, we want the Committee, chaired ably by Sen. (Eng.) Mahamud, even if we pass this Bill, to continue interrogating this matter to find out where the extra money is going. Is it going to accelerate the repayment of the loan so that we eventually use the money on something else or is the money being diverted elsewhere? Mr. Deputy Speaker, Sir, I also want to laud the provision of money by donors to protect water towers. Water towers have been allocated in your region of Mt. Elgon, Mt. Kenya, the Aberdares Region, Nyanza Region of Kisii Highlands, Kericho and Mau - to avoid any unnecessary acrimony, there is a flat figure of Kshs80 million per area with the water towers. However, the mechanisms of ensuring that this money is properly spent must also follow. What may happen is that we will end up having this money; we will then be told that trees were planted and they all died. We might also be told that people grazed their animals on them or that something else happened. This is happening over and over. I want our good country to borrow a leaf from South Korea. I was reading about South Korea and in 1960, they had a seven per cent forest cover. Today, it has a 78 per cent forest cover. It is not a miracle; we can do it. We have been talking to colleagues who have been to a desert country like Israel which has planted trees and has forests. What about a country where rain is now everywhere and people are submerged in water but after the rains disappear, we start crying again about droughts and lack of trees? Mr. Deputy Speaker, Sir, I want to encourage the Committee of this House responsible for matters environment to follow up the execution of this grant. This is because theKshs80 million being given to every water tower area is money from taxpayer's of other countries. It is money denied from citizens of other countries to come and help the people of Kenya. When it gets here and it goes astray, it will not be a good idea. Mr. Deputy Speaker, Sir, I also want to laud the allocation of money to counties, including your own, for building of headquarters. I remember we had a lot of protracted issues here until Sen. (Eng.) Karue brought a Motion and a Bill that obligated the national Government to allocate some money to Nyandarua, Tharaka Nithi and one or two other counties that did not have headquarters so that they could also have a capital for their county where work can be done decently. Equally important, Mr. Deputy Speaker, Sir, is the liberation this House gave to county assemblies. Remember that at the beginning of devolution, county assemblies were appendages to the executive in the county. It is the governor who decided how much money to give to the county assemblies and at what intervals. You cannot possibly have them oversighting the pay master general. Now that they are getting their money directly, I encourage this House, particularly the County Public Accounts and Investment Committee (CPAIC), the Committee on Finance and Budget and committees that have something to do with use of public resources, to ensure that counties continue to develop their capacity as primary institutions of oversight and to ensure that they embrace what we call budget-tracking. We will not carry out post mortems after monstrous thefts have been committed. We should pass a budget and constantly evaluate, follow and track how the money is being implemented in the counties. Equally important is this Senate, I would want a situation where the distinguished Senators for Mandera, Bomet or Isiolo are capacitated by the House to run efficient offices in their counties to monitor how this money is being put to good use. What has been happening is that some counties have become net exporters of capital to Nairobi. You send money to your county and the next day, senior officials of your county are building villas in Karen, Runda and in downtown Nairobi. They are stealing the little money going to the county and exporting it back to Nairobi, which does not need their money. This can only be stopped and arrested by having serious working institutions of governance. We live in a country where the thieves of yesterday are the ones who are now preaching to everybody about accountability because yesterday is sealed and covered in concrete blocks and nobody will open it. You stole yesterday and everybody knew; but now you are pontificating about accountability and telling people that it is your duty to hold everybody to account! Mr. Deputy Speaker, Sir, the Lord Jesus said, \"Remove the log in your own eye before you see the spec in somebody else's eye.\" That is the big question. The Judiciary appears to be working on cases of corruption. I hope that people are not being sent to jail as an example and a sacrifice, but on the basis of evidence. Anybody who pilfers, steals or misappropriates public funds has no business holding or seeking public office. Above all, they should be ashamed of pontificating about accountability as we have been seeing here and there. Mr. Deputy Speaker, Sir, I do not want to say what I intended to say; let me talk about public debt. This country is being weighed down heavily by public debt. Even the Big Four Agenda rolled out by President Uhuru Kenyatta will be pulled down because our revenue is going towards payment of public debt. The first charge to the National Treasury is public debt. Once we pay public debt, we now have the hyenas and the thieves waiting in the corner with sharp knives to slice off what is left in the usual manner. We want to see this country transform. This is the bane of Africa. Mr. Deputy Speaker, Sir, you have travelled a lot in Africa, social transformation is completely lacking. We talk of a very handsome Gross Domestic Product (GDP) growth, all manner of things and roll out statistics and so forth. Mr. Deputy Speaker, Sir, during campaigns, I visited your home areas of Marimanti, Kiajahi and others. Your village is not different from where I come from. The people of 1960s are the same ones of today, if not worse. They are poorer, helpless and unable to move. Whenever one goes home, the constituents will raid you every morning looking for very simple things. You can see here that we are saying we have allocated money in lieu of payment of hospital fees by wananchi . However, how many of them come to you looking for money to pay for hospital bills? This happens every day. Whatever we want to do, if healthcare is free, we must make sure it is so. This includes making public health facilities so efficient and available that wananch i who want to go to expensive hospitals think twice because they will get better services in public hospitals. Mr. Deputy Speaker, Sir, I cannot end without mentioning something about the Cuban doctors. The people who are crying against the doctors do not know what they are saying. Cuba has the best healthcare system in the world. In Cuba, health facilities are better than in the United States of America (US), the United Kingdom (UK) and Germany. They have trained their doctors well. Brazil, which is mega economy amongst the Brazil, Russia, India, China and South Africa (BRICS) countries, enjoys 15,000 Cuban doctors in its health institutions. Therefore, these doctors coming here are going to work like Spartans. I want to encourage our doctors. We are not saying they are any lesser good, they are good. However, a good thing can always give way to a better thing. A better thing can always give way to the best thing. Work with those Cubans and see their work ethic. You will realise that they will not steal any public medicine to run and make money in their private clinics. Thank you so much, Mr. Deputy Speaker, Sir. I support."
     },
     {
-      "order": 204,
+      "order": 205,
       "id": "entry-799036",
       "label": "scene",
       "level": "3",
@@ -2451,7 +2463,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 205,
+      "order": 206,
       "id": "entry-799037",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2475,7 @@
       "text": "Thank you, Sen. Wetangula. Let us have Sen. Dullo."
     },
     {
-      "order": 206,
+      "order": 207,
       "id": "entry-799038",
       "label": "speech",
       "level": "3",
@@ -2475,7 +2487,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I stand to support this Bill. I join my colleague in congratulating my colleagues in the Committee on Finance and Budget who have done a very good job in ensuring that everything is in order. I thank the Government and this House, especially the Eleventh Parliament where I was a member of a Committee that went the whole country to make sure that five counties, including yours, benefited from the national Government allocation to enable them construct headquarters. I wish to confirm to the House that the construction of Isiolo County Headquarters is on course although it has taken a bit of time. From the onset, this House will always make sure that our counties have enough budget allocations to enable them deliver on their mandates. However, this is not our fifth year; we are going to the sixth. Despite the Government increasing budgetary allocations, especially this financial year, it is not in some areas replicating on the ground. Mr. Deputy Speaker, Sir, if you look at the health sector, there is a huge budgetary allocation to many counties. When you go to the ground, our people are still dying due to lack of medical services. Some hospitals do not even have panadol tablets. It is very sad. This House should come up with the mechanisms to ensure funds disbursed to counties are well spent. The County Public Accounts and Investments Committee (CPAIC) has sat with the Auditor-General and the Controller of Budget (COB). He said that the Senate should always be informed on how the budget is implemented. It is not a matter of just sitting here and dishing out money when we do not know how it is being utilised. We, as a House, only rely on the Auditor-General's Report way after years have passed. For example, the CPAIC is now looking at the reports of 2013/2014 Financial Year audit queries. Honestly, is that why we are here? This is a question we need to ask ourselves. Can we be on top of things? When money is released from the Government, Senators should track that the money goes from here to the county governments is utilised in the right manner and report to this House. This is completely lacking. Looking at the report that was tabled this afternoon, for example, for Isiolo County one of the comments on budget implementation from the COB is failure to establish an internal audit Committee, contrary to Section 155 of the Public Finance Management (PFM) Act, 2012. This is a song we have been singing for the last five years. How can the Senate or the national Government penalise the county that does not have such structures in place? This is a question we need to ask ourselves as the Senate. I remember the other day we went with Sen. M. Kajwang' and Sen. Mutula Kilonzo Jnr. to the United States (US) to see their Monitoring and Evaluation (M&amp;E) structures. One the things the US is doing is that if one is found responsible for any misappropriation or any act that shows that one has mismanaged finances, one is penalised and will not get a budget allocation until the offence is corrected. This House should look out and see how we can punish the counties that are not complying with financial management and regulations in this country. Mr. Deputy Speaker, Sir, delay by fund administrators to submit expenditure reports of the MCAs Car Loan Fund and the County Bursary Fund contrary to Section 168 of the PFM Act is a very serious offence. What is the use of the county assembly if they cannot provide that report? We keep on giving them money when they have not satisfied the initial position. Finally, on this report for Isiolo County, there is the issue of failure to constitute the County Economic Forum in line with Section 137 of the PFM Act for consultation in the budget making process. We are saying here we are implementing the Constitution and public participation is very important. If the county does not have such a body in place and we are sitting here approving the budget for them, are we not agreeing with their wrongs? It is a question we, as a Senate, need to ask ourselves. Mr. Deputy Speaker, Sir, the Bill provides for rehabilitation of youth polytechnics. They are in a pathetic condition. We always buy equipment. There is budgetary allocation for that. We do not even evaluate what is already there. We just pump in money. Our youth are just into drugs and alcohol. If those polytechnics operate properly, there will be self-employment. Unfortunately, we just keep allocating money to those counties. As the Senate, let us put our act together to ensure that counties are held accountable. Mr. Deputy Speaker, Sir, another issue is allocation for road maintenance. Before the rains came, we were praying for the rains so that we do not have drought but now that the rains have come, we have another disaster. The roads now have pot holes and bridges have been swept away. There is a lot of insecurity in some other areas where if you slow down you will be attacked by bandits yet we are sitting here as the Senate allocating money but we do not have mechanisms to make sure that the money allocated for road maintenance is well utilised. There is also confusion where the national Government is sending money for road maintenance and the county Government is doing the same. We really need to do something about it because we do not know which roads are done by whom. So, the situation on the ground is really wanting. We need to be very serious as a Senate, follow up the proper utilisation of the money allocated to the counties and hold those who do not comply with the Government and legal requirements for financial management responsible. Some counties will actually budget for revenue collection at a certain percentage but at the end of that financial year, whatever they have proposed in their budget is not there. They just wait for the national Government allocation. How can the Senate make sure that counties are pushed to make sure that they have collected enough revenue to complement the national Government allocation? Also, we have been told in most of the Auditor-General's reports that the money collected at the county level is utilised at source. Who will make sure that does not happen? I believe that if the audit report for the Financial Year 2017/2018 will come out, it will automatically show that some counties are still doing it. There are some counties that get zero per cent. They do not even get anything. What do we do to those counties? Those are the questions we need to ask ourselves. Supplementary budgets in most of the counties are misused under emergency response. We have the report from the Auditor-General where he points out that when we have supplementary budget, the money that was planned for that particular project will not be available. Clearly, that means the counties will incur pending bills. This is where there is a headache; despite Government saying you should not implement projects without a budget, most of the counties are carrying out projects without budgetary allocations or provisions of budget for particular projects. What do we do about this? Finally are the cancer centres that were proposed which are not in the budget today. Cancer is a killer disease in this country. You will find that people in the far-flung areas, especially Northern Kenya, do not have facilities in those counties to get treatment yet health is a fundamental right. People travel for several kilometres to the Kenyatta National Hospital (KNH) to get radiology services. We have equipment that was purchased or leased to the counties by the national Government. In some counties, that equipment is just lying. We do not have human resource to manage the equipment. In some cases the human resource is there but the equipment is not there. Hospitals keep on buying equipment without looking at the needs of that county or hospital. We have a big problem as a country. Money is being spent yet Kenyans are not getting service delivery. As a Senate, what was an anomaly in the Eleventh Parliament in terms of our mandate should be corrected in the Twelfth Parliament because we cannot sing the same song year in year out. Human resource is being abused. In Isiolo, for example, the budget for human resource does not tally with what is in the Integrated Payroll and Personnel Database (IPPD). It is an area that counties abuse. A lot of money goes into human resource and recurrent expenditure when development is lacking. Mr. Deputy Speaker, Sir, I will stop at this point but as the Senate, we should audit ourselves at the end of this year or whatever time we will agree on, to ensure that we have corrected anomalies, establish where we are, where we are going and the way forward."
     },
     {
-      "order": 207,
+      "order": 208,
       "id": "entry-799043",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2499,7 @@
       "text": "Mr. Deputy Speaker, Sir, I thank you for giving me the Floor to contribute to debate on the County Allocation of Revenue Bill (Senate Bills No.11 of 2018). I begin by thanking the Chairperson of the Committee on Finance and Budget, Sen. (Eng.) Mahamud for a job well done. He has done a good job in articulating the issues contained in this Bill. Having said that, there are two things I will mention before I go to the Bill. One, the Senate spends a lot of time and human resource to deal with legislation on the allocation of revenue to counties. It should follow that scrutiny on the use of this revenue should be a natural thing for the Senate to do. County governments must not have issues with Senators when they raise questions on how money they have been allocated is being spent for the benefit of the residents of this country. Secondly, there are three sources of revenue to the counties. There is the equitable share, conditional grants from development partners and a source that for some reason a lot of people are shy about discussing, the county's own revenue. There are counties in this country that over the years report less and less revenue collected from their sources yet there is Kshs6 billion sharable revenue which counties that progressively report increase in collection of revenue could get two per cent to spur growth. On this Bill, I will begin with the conditional allocations from national revenue. Most of the functions that are listed in the conditional allocations are devolved functions. As Sen. Wetangula and Sen. Mutula Kilonzo Jnr. said, there is a very subtle way of the national Government getting involved in functions that have been devolved through the conditional grants and the Equalisation Fund. We can see that Kshs9.4 billion has been budgeted for the leasing of medical equipment. This money, as noted by previous speakers, has more than doubled from previous allocations yet there is testimony and evidence from almost every county in this country that most of the equipment that were leased for use in county hospitals lie idle in those hospitals simply because there is lack of capacity to make use of that equipment. It would make a lot of sense if a substantial amount of money is allocated to build capacity in the health sector, so that as we continue to lease the equipment, then we will be leasing the equipment to be used and not just to be stored in our health facilities. On the issue of Level 5 Hospitals, I would like to urge the Committee on Health to look at it and insist on a review of the criteria used in rating hospitals and especially Level 4 and Level 5 hospitals. I am told that in my county there are several Level 4 hospitals but a visit to those hospitals clearly indicates no difference between those facilities and the dispensaries that are spread across the counties. So, it will be necessary to find out what criteria is used to rate hospitals at Level 4 and Level 5, but more importantly the criteria that has been used to identify the eleven Level 5 Hospitals in this country at the exclusion of other hospitals. A total of Kshs2 billion has been allocated for youth polytechnics. I dare say that that is too little money to make any impact. As a country, if we are serious in investing in the future of our youth, this is one area in vocational training where we need to allocate serious funds to have an impact across the country and in every county. Most of the youth polytechnics in almost all the counties have gone down. Some of them closed while others do not have basic equipment such as furniture. It will be good to allocate more funds to develop skills in the youth polytechnics. My last point on conditional allocations is on the Road Maintenance Levy Fund. The Senator for Isiolo County, Fatuma Dullo, has mentioned that three months ago the cry of this country was for God to bless us with rains. The prayer today is very different; that God should stop these rains because the destruction of the road network in this country is immense. It will be interesting to see what impact Kshs8 billion will have in the repair and maintenance of roads in the counties. Classification of roads as county or national Government roads is still a thorny issue. It is not clear today whether Class D roads should be under the counties or they have moved to the national Government. Yesterday this House received a request for help from the County Government of Makueni in which the cumulative costs of doing roads and other relief facilities was adding up to more than Kshs1 billion. If that is the requirement for one county, one wonders what would be the requirements for the 47 counties in this country. I want to make a point on the grants and allocations that come from development partners. Looking at the list of the projects and monies allocated from development partners, I will be right to say that we are going back to the over-reliance on Bretton Woods Institutions which are the World Bank and the International Monetary Fund (IMF) because on that list we have grants from the World Bank, the European Union (EU) and some Kshs1 billion from the Danish International Development Agency (DANIDA). The risk we face is that if we rely on a single or two development partners, with time they metamorphose from being just development partners to making demands even on governance and there is evidence of this. We all remember what happened in the 1990s with the Structural Adjustment Programmes (SAPs) when the World Bank and the IMF gave serious conditions to this country especially on the wage bill as a condition to lend development funds to this nation. The cut on the wage bill meant that we reduce our workforce. Once our workforce reduced, the argument changed; that the rate of unemployment is too high and that we are a poor country and so we do not qualify for development funds. It will be wise to widen the bracket and bring on board more development partners to allay those fears. There has been an ongoing discussion in our forum as Senators on a circular that is said to have emanated from the Salaries and Remuneration Commission (SRC) on allocation of Kshs150 million for the construction of the speakers' houses or residences across this country. Once that matter comes to the Floor of this House, it is a matter that this Senate needs to take a voice and position on because I wonder what kind of a speaker's house would be constructed with Kshs150 million in Kitui County. That money would rather be allocated to other uses that would have a direct impact on the residents of our respective counties. Thank you Mr. Deputy Speaker, Sir. I support."
     },
     {
-      "order": 208,
+      "order": 209,
       "id": "entry-799048",
       "label": "speech",
       "level": "3",
@@ -2499,7 +2511,7 @@
       "text": "Thank you, so far so good. We have two more speakers then we will possibly ask the Mover to reply. As you are aware, this is a time bound Bill. The Senate will not be sitting the whole of next week because of the Annual Legislative Summit. We want to attempt that. Therefore, by consensus, Sen. M. Kajwang' and Sen. (Prof.) Sen. (Prof.) Ongeri, you will each have 10 minutes because those are the requests that I have here."
     },
     {
-      "order": 209,
+      "order": 210,
       "id": "entry-799049",
       "label": "speech",
       "level": "3",
@@ -2511,7 +2523,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I rise to support and to congratulate the Committee on Finance and Budget for bringing this particular Bill before the House. If I had time, I would have indulged you in a poem written by Henry Barlow, the Ugandan. I will truncate what he said: \"Today, I did my share in building the nation. I drove a Permanent Secretary to an important, urgent function. In fact, to a luncheon at the Vic.\" I will stop there because of time but I feel proud today for I am doing my duty as a Senator because this is one of those Bills that can only originate from the Senate. This is one of those tasks that can only be done by the Senate with the concurrence of other institutions. How I wish that this great job that the Committee on Finance and Budget has done we would have had adequate time so that more Senators could be here to do their duty in building the nation and building devolution. The Bill allocates a total of KShs372.7 billion to counties and we covered that when we looked at the Division of Revenue Bill. My argument is that this money is not enough for counties. In as much as we say that it is a greater percentage than the constitutional requirement and, in as much as we are touting a huge percentage increase from when we started devolution, it is not enough because roads have not been transferred fully to counties. The Roads Bill is still floating around Parliament. Libraries have not been fully transferred to counties and so have ferries, ports and harbors. Hopefully, the county should be getting at least Kshs500 billion every year by the time we transfer roads, libraries, ferries, harbors and everything that should be going to the counties. Mr. Deputy Speaker, Sir, you will notice that in the prior years, only two counties managed to get Kshs10billion and above; Turkana and Nairobi. In this Bill, at least five counties are going to get Kshs10 billion. They are: Kakamega, Nairobi, Turkana, Kilifi and Mandera. Cumulatively, Kshs1.015 trillion has gone to counties out of that, if you add today's Kshs372 billion and what counties collect, we can safely say that since the advent of devolution, counties have received or will receive by the end of the next financial year, Kshs1.5 trillion. There was a lot of debate when the newspapers revealed how this money was to be allocated to counties. There are certain cities like Mombasa and Kisumu that are still getting below Kshs10 billion.What rationale do you use to allocate Kilifi Kshs10,833,000,000 and Mombasa Kshs8,226,800,000 yet Mombasa is a city and Kilifi is a level below a city! The answer lies in the revenue formula that has been approved by this House and there are problems with that formula. Previous speakers have talked about it and Sen. Wetangula talked about the population measure. There are those people who have a problem with the land area measure. If you are going to assign eight percent on land area and you have a county like Turkana with vastness of everything and vastness of nothingness and you are going to allocate money on the basis of the nothingness that lies on that land mass, then you end up giving certain counties more than counties like Kisii which are smaller, much densely populated but with land that is utilized effectively. Thankfully, it is within our powers as the Senate to have a look at that formula. I will pick on one particular aspect of that revenue generation formula. This Report does not tell us how the fiscal effort or responsibility parameter was awarded but my own calculations indicate that the two per cent that was set aside for fiscal responsibility, the bulk of it was taken by counties like Mombasa and Lamu. I think that Mombasa got Kshs1 billion and so did Lamu. Homa Bay County and Tharaka-Nithi County got close to zero because the only basis for determination of fiscal effort or fiscal responsibility has been on collection of own source revenue. That must change and as we go into the third generation, we must not only look at the issues of collection of own source revenue but we must also bring into consideration audit opinions. Sen. Dullo talked about audit opinion from Isiolo which was very adverse and had interesting findings yet there is no disincentive for that. That must be looked into. I want to focus more on how these monies will be used in the counties. I hope that when we send this money to the counties, because it is our job as the Senate to do that, it will not be used on the kind of adventures that I have seen coming out of my county of Homa Bay. In Homa Bay, they want to construct a house for the Speaker at a cost of Kshs150 million. If you have Kshs150 million in your pocket and you wanted to buy something, come to Homa Bay. I will sell to you an entire island not just a house for the Speaker of the County Assembly. It is insane, irrational and unbelievable that the SRC could advise counties to spend upwards of Kshs150 million on speakers' residences. In fact, the SRC, through its recommendations, opened the gates for Kshs174 million for houses of speakers and governors. The effect of that recommendation was that they could spend up to Kshs225 million for the houses of governors. We must move a Motion to quash that recommendation by the SRC. Let us hope that this money will not be squandered on houses, luxuries and payment of salaries. How do we oversight? I chair the Committee on County Public Accounts and Investments. A week ago, we sat with the chairpersons of the Public Accounts and Investment Committees from all over Kenya. Primary oversight is the responsibility of county assemblies and we must help them to develop that capacity. I have seen a conditional allocation for the Kenya Devolution Support Program. Unfortunately, that money goes to the county executive that already has money. We must find a way of pushing that money to the county assemblies to build their capacity. When we go to Mombasa next week, we must tell Members of County Assemblies (MCA's) that they must stop suffering from inferiority complex. In the context of devolution, MCAs can be more powerful than Senators. They can appoint, impeach, budget, plan and do all sorts of things that the Senate cannot do. We must tell them that this inferiority complex will bar them from achieving what they are supposed to do. The Senate comes in as secondary oversight. We have had a discussion with the Auditor-General that we must redesign the report that comes to the Senate. We cannot pick all the audit reports that come out of the counties. Each county produces an average of 10 audit reports that are dumped in the Senate. The Senate receives 470 reports for 67 Members of the Senate. We will never be able to clear the backlog if we continue doing things the way we have been doing. Finally, on conditional grants, I still fault the Committee for not accepting the recommendation of the Commission on Revenue Allocation (CRA) to set up two regional cancer centers in this country. We know how great a threat cancer is to this country. I fault the Committee for not accepting the recommendations that had been put by the CRA in the past that education infrastructure for primary and secondary could be sent to counties as a conditional grant instead of going in as a Constituencies Development Fund (CDF). In future, I will be putting a strong case before the Committee to request that counties like Homa Bay, Siaya, Migori, Busia and Kisumu that have more than average HIV prevalence be given an extra allocation to bear the burden of that disease. I had a lot to say within 10 minutes though I have truncated just the way I truncated the poem by Henry Barlow. I support."
     },
     {
-      "order": 210,
+      "order": 211,
       "id": "entry-799054",
       "label": "speech",
       "level": "3",
@@ -2523,7 +2535,7 @@
       "text": "(Sen.) Prof. Kindiki): Thank you, Sen. M. Kajwang. Some of the best debates are truncated. You can have an hour and just wonder around yet say very little. Sen. (Prof.) Ongeri, you will have 10 minutes. Two new requests have suddenly emerged out of the blues, yet I thought I had closed that chapter. However, Sen. Pareno, since you have to celebrate your elevation today to the Speaker's Panel, I will grant you five minutes and then Sen. Omogeni will also have five minutes in that order. Thereafter, the Mover will reply briefly so that we are within time. Please proceed, Sen. (Prof.) Ongeri."
     },
     {
-      "order": 211,
+      "order": 212,
       "id": "entry-799055",
       "label": "speech",
       "level": "3",
@@ -2535,7 +2547,7 @@
       "text": "Mr. Deputy Speaker, Sir, I rise to contribute to this important Bill on revenue allocation to counties. The numbers and the figures have already been established. The ceilings have already been set. One fundamental area that I would like to flag out is that despite the fact that the Bill talks of a payment schedule and the publication on a monthly basis, these resources have been shifted to the County Revenue Fund. What we know in practice is that there are overly long delays in releasing these resources to the counties. Consequently, particularly towards the end of the financial year, there are unprecedented delays to an extent that counties are unable to absorb what it is that has been allocated to them. What happens is that counties suffer in their own programmes and MCAs are unable to talk to the constituents who elected them to office. Secondly, on the conditional grants, it is very painful that whereas the hospital equipment was leased at a Kshs4.5 billion what we are being presented with here is Kshs9.4 billion. I am a professional in that area but I would like to ask a very simple question: Are these the type of equipment that are appreciating or depreciating? Are there any additional costs that have been sneaked into this programme so that it inflates the figures that are going to the county governments? The conclusion is that this issue has been raised but I would like to bring it up again. We do not know what our public debt is. I believe that this forms part of our public debt. The first charge on any resources is towards the public debt. We are being told that there is so much money going to the counties but at another level, we are taking this money back through the public debt redemption. It is important that we are very clear on this. Mr. Deputy Speaker, Sir, on the question of Level 5 hospitals, I have visited some of them and there is a lot to be desired because the money is supposed to be reaching there but there are very few medical staff being employed in these hospitals to give quality care and that is the basis upon which the Level 5 hospitals were set up. The equipment notwithstanding, even the specialised groups to handle this equipment have not been put in place. Therefore, the equipment is lying idle. Nothing is happening as far as I am concerned. On the issue of polytechnics, if you notice, one of the major policy shifts with the Ministry of Education was 100 per cent transition. From when I was the Minster for Education, I left it at about 80 per cent. The sudden transitional rate is not commensurate because the agreement being used at this stage is that these polytechnics are the ones that are going to absorb those who obtained Grade D and below. However, we are not pumping the conditional grants to bolster and bring up the levels of polytechnics so that they are in a position to offer this service. I can tell you for free that as a minister for technical training and applied technology, one of the monument progresses we made was to upgrade the scales and that is why most of our people were able to send some of the investors to industrial area away from the Tom Mboya, Kirinyaga and Biashara Streets. Mr. Deputy Speaker, Sir, therefore, I suggest that in future, when we are doing this budget allocation, this is an area which has got potential growth of absorbing our young people, the huge bunch that we have here. We need to be able to use this level if it is going to be used as criteria for absorbing those who have not been able to make it to higher institutions of learning. The resources at the county level must be availed to cater for these services. There is also the question of the user fee and I need not say much about it. However, the weather has done havoc on our roads. I do not know at what stage the national and the county governments are going to sit together and rationalize the resource flow to the county level. The Fuel Levy was meant to be able to relieve these elements of hardship at the county level to make passable roads. A county like Kisii is small but densely populated. Therefore, we need to get the agricultural produce from the hinterlands to the main centres of trade. If we are unable to do that, the rate of wastage is very high. We have a responsibility at the levels of the national and county governments to attend to this matter. Mr. Deputy Speaker, Sir, I would like to sound caution to the resources flowing to the county governments. We expect transparency, accountability and a programme that clearly spells out how these resources have been allocated in various departments. Let the respective heads to departments or the County Executive Committee (CEC) members and their departments take full control and responsibility of these resources in accordance with the revenue allocation by the county governments through the county assemblies. The county assemblies should be in a position to monitor these resources so that when they finally come to us, it should be something that is refined. Finally, at the moment we are under conditional resource allocation based on the 2013/2014 audited accounts which is less than Kshs1 trillion. However, the budget is currently more than Kshs2.4trillion. I think that we must change during the second and third cycle so that the counties enjoy the necessary resources that are important to jumpstart their growth. I wish I had 20 minutes. I have had to cut short my contribution for the simple reason that this is a time-bound Bill. Thank you."
     },
     {
-      "order": 212,
+      "order": 213,
       "id": "entry-799060",
       "label": "speech",
       "level": "3",
@@ -2547,7 +2559,7 @@
       "text": "(Sen.) Prof. Kindiki): Thank you Sen. (Prof.) Ongeri. The best things are short. Sen. Pareno, proceed as agreed."
     },
     {
-      "order": 213,
+      "order": 214,
       "id": "entry-799061",
       "label": "speech",
       "level": "3",
@@ -2559,7 +2571,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity to celebrate my nomination to the Speaker's Panel in style by talking about the pertinent issue of resource allocation to our counties. First, I thank the Speaker and leaders from both the Majority and Minority sides for resoundingly approving that I sit in the Speaker's Panel. I am humbled by the submissions that were made as they were approving. I promise that I will live up to the expectations of total commitment to duty at all times. I thank you and the House for the approval. Coming to the Bill, the elephant in the room is no longer about disbursement. We are slowly increasing the amount that we are disbursing. What we should now be looking at is the oversight of these funds. Mr. Deputy Speaker, Sir, before we started this session, this House asked for a disbursement Schedule. When we looked at it, we had allocated the revenue and indicated how much will go to each county, but three months to the end of the financial year, we had disbursed 33 per cent. We should then look at how we are transferring these funds, so that counties can function. The other key words that I am really excited about are \"equitable share\". For the last period of devolution, we now have equitable share to our counties. I cannot imagine what was happening before devolution. This equitable share is a move in the right direction. Some of us are living that dream of getting an equal share of the national cake. At the end of the day, we are improving, having now reached the Kshs373 billion that is being allocated to counties. Mr. Deputy Speaker, Sir, I am also happy that this Bill, as submitted by the Chairperson, is a product of consultation with the counties and the National Treasury. This is a good sign. We have had issues where the county assemblies have gone to court, indicating that this is not what they want or what it should be. Consultation is a good move by the Committee to ensure that there is smooth implementation of what is provided for in this Bill. I thank the Chairperson of the Committee and the Committee for reaching out to the stakeholders. This will reduce the court cases that have been coming up. With regard to the allocation to the youth polytechnics, it is important that we tap into the potential of the youth in this country. A bulk of the youth in most of our counties can be nurtured through polytechnics. This is a good move and we wish that better allocation will be done. In future, this is a pointer to the right direction in as far as empowering our youth is concerned. If the youth get trained in polytechnics, they will either be employed or employ themselves. Mr. Deputy Speaker, Sir, as I conclude, I wish to speak about misuse of funds. I wish we could do more oversight on public funds. The other day we had a report showing that money allocated to these hospitals was use to buy gloves, tissue papers and cutlery, instead of putting it in the required places. So, more oversight is required. We have the County Public Accounts and Investment Committee (CPAIC) oversight, but the monitoring and evaluation oversight fund will be ---"
     },
     {
-      "order": 214,
+      "order": 215,
       "id": "entry-799064",
       "label": "speech",
       "level": "3",
@@ -2571,7 +2583,7 @@
       "text": "Very well. Your time is up. Last but not least is Sen. Omogeni."
     },
     {
-      "order": 215,
+      "order": 216,
       "id": "entry-799065",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2595,7 @@
       "text": "Mr. Deputy Speaker, Sir, I was not in the House when you unanimously elected my classmate, Sen. Judith Pareno, to the Speaker's Panel. So, I will begin by giving her my hearty congratulations on the successive elevation to the Speaker's Panel. I wish her success in her tenure."
     },
     {
-      "order": 216,
+      "order": 217,
       "id": "entry-799066",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2607,7 @@
       "text": "Please, clarify. In which school were you classmates; school of carpentry or which one?"
     },
     {
-      "order": 217,
+      "order": 218,
       "id": "entry-799067",
       "label": "speech",
       "level": "3",
@@ -2607,7 +2619,7 @@
       "text": "Mr. Deputy Speaker, Sir, I am privileged to have been in school with Sen. Judith Pareno. She was in my neighbouring school, Kipsigis Girls in Kericho and we both ended up in the Faculty of Law at the University of Nairobi. So, she was my classmate in the University of Nairobi, Faculty of Law."
     },
     {
-      "order": 218,
+      "order": 219,
       "id": "entry-799068",
       "label": "speech",
       "level": "3",
@@ -2619,7 +2631,7 @@
       "text": "Well answered. I will add you an extra minute because I distracted you."
     },
     {
-      "order": 219,
+      "order": 220,
       "id": "entry-799069",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2643,7 @@
       "text": "Mr. Deputy Speaker, Sir, I rise to congratulate the Committee which has done a tremendous job in preparing the County Allocation of Revenue Bill (Senate Bills 2018 No.11 of 2018). Looking at the money that we are sending to our counties, you get the impression that it is meant to touch lives and impact on our people at the county level. However, it is a bit fortunate that four years down the line, ever since we started implementing some of the monies we are sending to specific projects in the counties, we are yet to see impact. If I begin from the health sector which has been on for four years, it is sad and regrettable that some of the counties have not effectively utilised the equipment that we are spending a lot of money on. Last time it was Kshs4.5 billion and now it has gone up to KShs9.4 billion. There are some counties that have never made use of that equipment; they are just gathering dust. Mr. Deputy Speaker, Sir, I hope that our county governments will make use of the resources that are allocated to them to impact on the lives of our people. I am happy and glad to report that after the successful visit by the Committee on Health to Cuba, finally, the county governments have put ink to paper and by the end of this month we will receive specialised doctors from Cuba. My county of Nyamira is privileged to be among those that will receive a cardiologist. However, this will not make sense unless our county governments understand their role, be proactive and focused. They need to understand that health is one of the key services that were devolved. Mr. Deputy Speaker, Sir, the money that is allocated to roads in the counties is Kshs8.5 billion. This money should make a difference. During this rainy season, there are so many areas where people are not able to move. Our county governments have not properly utilised the money that we send to them. It is a big challenge to the various Committees in the Senate to ensure that they put the county governments to task, so that they can deliver on their mandate and ensure that services to our people are delivered and impact is felt from the money that we send to them. Mr. Deputy Speaker, Sir, I am happy to note that from this allocation, Ksh2billion that has been set aside for Technical, Industrial and Vocational Education Training (TIVET) centres. As we have always said in this House, it makes no sense that this country has people who still import furniture all the way from China. All we need to do is to ensure that our TIVET centres are supported by the county governments. We need to ensure that these centres buy equipment that can produce furniture almost to the same standards and quality as what we get from China. By doing this, we will create a new market for these TIVET centres. We do not need to look to the East because we can get these products locally. Mr. Deputy Speaker, Sir, because of time and the fact that you have been gracious enough to give me five minutes, I beg to support this Bill in the hope and spirit that it will impact on our people. Thank you, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 220,
+      "order": 221,
       "id": "entry-799072",
       "label": "speech",
       "level": "3",
@@ -2643,7 +2655,7 @@
       "text": "Thank you, Sen. Omogeni. I now call upon the Mover to, please, reply in about one or two minutes."
     },
     {
-      "order": 221,
+      "order": 222,
       "id": "entry-799073",
       "label": "speech",
       "level": "3",
@@ -2655,7 +2667,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I thank my colleagues for the good contributions. I assure them that this Committee will do its best to represent you in that Committee. Mr. Deputy Speaker, Sir, I would like to address a few of the issues which have been raised. One is the issue of borrowing and conditional grants. Currently, there is no borrowing framework for counties, which is why the national Government is borrowing and at least sending conditional grants to the counties. The issue of audited reports is very serious. We are now using the 2013/2014 approved audits, which is very bad. I think our colleagues across the lower house must do their job properly because that mandate is theirs. In terms of implementation of budget, this Senate must wake up and see how best we can implement whatever we have been sending to the counties. We need to follow up to see how the money has been utilised. Thank you very much, Mr. Deputy Speaker, Sir. I beg to move. Mr. Deputy Speaker, Sir, pursuant to Standing Order No. 55(3), I request that you defer the putting of the question to a later date because we have no quorum."
     },
     {
-      "order": 222,
+      "order": 223,
       "id": "entry-799074",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2679,7 @@
       "text": "All right. I direct that this Bill be put on tomorrow's Order Paper for purposes of Division and, therefore, I direct that division takes place then."
     },
     {
-      "order": 223,
+      "order": 224,
       "id": "entry-799075",
       "label": "scene",
       "level": "3",
@@ -2679,7 +2691,7 @@
       "text": "(Putting of the question on the Bill deferred)"
     },
     {
-      "order": 224,
+      "order": 225,
       "id": "entry-799076",
       "label": "speech",
       "level": "3",
@@ -2691,7 +2703,7 @@
       "text": "Hon. Senators, with regard to the other items on the Order Paper, I cannot see the Chairperson of the Committee on Justice, Legal Affairs and Human Rights for Order No.14. Similarly, I cannot see the Chairperson of the Standing Committee on Labour and Social Welfare in relation to Order No.15. However, I can see Sen. (Dr.) Milgo, who has a Motion to move. Then, of course, there is Order No.17 for the Senate Majority Leader, which we approved. There is also Order No. 18, which is a resumption of debate and I can see Sen. Were here. Unfortunately our time does not allow us to continue with any of those Orders. Of course there is also Order No. 19, which is for Sen.(Dr.) Musuruve, who is not here. Therefore, Sen. Were, we will have to defer those items because of time. Out time is almost up."
     },
     {
-      "order": 225,
+      "order": 226,
       "id": "entry-799077",
       "label": "heading",
       "level": "1",
@@ -2703,7 +2715,7 @@
       "text": "BILLS\nSecond Readings"
     },
     {
-      "order": 226,
+      "order": 227,
       "id": "entry-799079-split-before-95a907b2-717b-461a-b280-dbf4bd701c62",
       "label": "heading",
       "level": "3",
@@ -2715,7 +2727,7 @@
       "text": "THE OFFICE OF THE COUNTY ATTORNEY BILL (SENATE BILLS NO.3 OF 2018)"
     },
     {
-      "order": 227,
+      "order": 228,
       "id": "entry-799079-split-selected-7b0d3e5a-de90-4f0b-822c-9489b3d3eb43",
       "label": "heading",
       "level": "3",
@@ -2727,7 +2739,7 @@
       "text": "THE COUNTY GOVERNMENTS RETIREMENT SCHEME BILL (SENATE BILLS NO.6 OF 2018)"
     },
     {
-      "order": 228,
+      "order": 229,
       "id": "entry-799080",
       "label": "scene",
       "level": "3",
@@ -2739,7 +2751,7 @@
       "text": "(Bills deferred)"
     },
     {
-      "order": 229,
+      "order": 230,
       "id": "entry-799081",
       "label": "speech",
       "level": "3",
@@ -2751,7 +2763,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 230,
+      "order": 231,
       "id": "entry-799082",
       "label": "speech",
       "level": "3",
@@ -2763,7 +2775,7 @@
       "text": "What is it Sen. Were?"
     },
     {
-      "order": 231,
+      "order": 232,
       "id": "entry-799083",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2787,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. We had already moved and seconded these Motions, so it is just further debate."
     },
     {
-      "order": 232,
+      "order": 233,
       "id": "entry-799084",
       "label": "speech",
       "level": "3",
@@ -2787,7 +2799,7 @@
       "text": "Unfortunately, still, I do not think there will be time for even one Member to debate on any of the two Motions. Therefore, they remain deferred to tomorrow."
     },
     {
-      "order": 233,
+      "order": 234,
       "id": "entry-799085",
       "label": "heading",
       "level": "1",
@@ -2799,20 +2811,8 @@
       "text": "MOTIONS"
     },
     {
-      "order": 234,
-      "id": "entry-799086",
-      "label": "speech",
-      "level": "1",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "ADOPTION OF REPORT OF THE SENATE DELEGATION TO THE WOMEN POLITICAL LEADERS ANNUAL GLOBAL SUMMIT THAT, this House adopts the Report of the Senate Delegation to the Women Political Leaders Annual Global Summit held in Reyjavik,"
-    },
-    {
       "order": 235,
-      "id": "entry-799086-inserted-1b69cf20-0831-4cd3-89b7-15c8e70bc207",
+      "id": "entry-799086-split-selected-14e17513-9b63-4c74-b126-38a17447373c",
       "label": "heading",
       "level": "3",
       "cutout": false,
@@ -2820,10 +2820,22 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "ADOPTION OF REPORT OF THE WOMEN POLITICAL LEADERS ANNUAL GLOBAL SUMMIT"
+      "text": "ADOPTION OF REPORT OF THE SENATE DELEGATION TO THE WOMEN POLITICAL LEADERS ANNUAL GLOBAL SUMMIT"
     },
     {
       "order": 236,
+      "id": "entry-799086-split-after-333f864f-795e-4f12-9326-767ccbad7fc3",
+      "label": "speech",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
+      "speaker_title": "The Deputy Speaker",
+      "reviewed": true,
+      "text": "THAT, this House adopts the Report of the Senate Delegation to the Women Political Leaders Annual Global Summit held in Reyjavik,"
+    },
+    {
+      "order": 237,
       "id": "entry-799088-split-before-c69c7cdd-b8b0-49b8-a081-f48ce2874d6d",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2847,7 @@
       "text": "Iceland from 28th - 30th November, 2017, laid on the Table of the House on Wednesday, 14th February, 2018."
     },
     {
-      "order": 237,
+      "order": 238,
       "id": "entry-799088-split-selected-f7a18843-0858-424d-8c89-781825d74964",
       "label": "heading",
       "level": "3",
@@ -2847,7 +2859,7 @@
       "text": "ESTABLISHMENT OF OFFICES OF THE CAJ AT THE COUNTY LEVEL"
     },
     {
-      "order": 238,
+      "order": 239,
       "id": "entry-799088-split-after-b10d3f76-75d4-4195-a441-8f5321ebdde9",
       "label": "speech",
       "level": "3",
@@ -2859,7 +2871,7 @@
       "text": "THAT WHEREAS Article 59 of the Constitution establishes the Kenya National Human Rights and Equality Commission to among other functions investigate complaints of abuse of power, unfair treatment, manifest injustice or unlawful, oppressive, unfair or unresponsive official conduct; AND WHEREAS Parliament enacted the Commission on Administrative Justice Act (No.23 of 2011) to restructure the Kenya National Human Rights and Equality Commission and to establish the Commission on Administrative Justice pursuant to Article 59(4) of the Constitution to provide for the membership, powers and functions of the Commission on Administrative Justice and for connected purposes; AWARE that the function of the Commission on Administrative Justice among others is to investigate any conduct in state affairs, or any act or omission in public administration by any State organ, State or public officer in National and County Governments that is alleged or suspected to be prejudicial or improper or is likely to result in any impropriety or prejudice; including investigating complaints of abuse of power, unfair treatment, manifest injustice or unlawful, oppressive, unfair or unresponsive official conduct within the public sector; FURTHER AWARE that the Commission is expected to carry out its mandate in accordance with the values and principles set out in the Constitution and other laws of Kenya; COGNIZANT that the right to access public service and fair administrative actions is critical to delivery of services to the people both at the National and the county levels of government and in other related public institutions; CONCERNED that the Commission has its headquarters in Nairobi with satellite offices in the counties of Mombasa, Kisumu, Isiolo and Uasin Gishu; FURTHER CONCERNED that the absence of the Commission offices in the rest of the Counties has made it difficult for members of the public to report allegations of maladministration, delay, administrative injustice, discourtesy, incompetence, misbehaviour, inefficiency or ineptitude within the public service; NOW THEREFORE, the Senate calls upon the Commission on Administrative Justice to urgently establish satellite offices in all other remaining counties to decentralize its services to facilitate members of the"
     },
     {
-      "order": 239,
+      "order": 240,
       "id": "entry-799090-split-before-c2c7ab5e-cf4e-47e6-8b01-3ed04bc01a16",
       "label": "speech",
       "level": "3",
@@ -2871,7 +2883,7 @@
       "text": "public to interact with the Commission and report allegations of maladministration in the public service with ease."
     },
     {
-      "order": 240,
+      "order": 241,
       "id": "entry-799090-split-selected-d671de5f-f7f3-4537-b614-a5eea60022fb",
       "label": "heading",
       "level": "3",
@@ -2883,7 +2895,7 @@
       "text": "TEACHING OF KISWAHILI LANGUAGE TO LEARNERS WITH HEARING DISABILITY"
     },
     {
-      "order": 241,
+      "order": 242,
       "id": "entry-799090-split-after-ffc507f1-c387-4e6a-b8ee-40691a8d8f5f",
       "label": "speech",
       "level": "3",
@@ -2895,7 +2907,7 @@
       "text": "THAT AWARE that Article 27 of the Constitution of Kenya guarantees equality of every person in enjoyment of all rights and fundamental freedoms and prohibits discrimination against any person on any ground including disability and language; FURTHER AWARE that Article 24(2)(a) of the United Nations Convention on the Rights of Persons With Disabilities prohibits persons with disabilities from exclusion from the general education system on the basis of disability, and that children with disabilities are not excluded from free and compulsory primary education, or from secondary education, on the basis of disability; ACKNOWLEDGING that Article 7 of the Constitution of Kenya provides for the national language of the Republic as Kiswahili and the official languages of the republic as Kiswahili and English; APPRECIATING that the Report of the Commission of Enquiry into Education in Kenya (the Ominde Commission of 1965) proposed that Kiswahili language be taught as a compulsory subject both in primary and secondary schools in Kenya with the aim of making the language a vehicle for literacy works relevant to community work of various kinds; COGNIZANT that Kiswahili language has been recognized as a unifying language in the East African Community, hence making it a"
     },
     {
-      "order": 242,
+      "order": 243,
       "id": "entry-799091",
       "label": "scene",
       "level": "3",
@@ -2907,7 +2919,7 @@
       "text": "lingua franca"
     },
     {
-      "order": 243,
+      "order": 244,
       "id": "entry-799092",
       "label": "speech",
       "level": "3",
@@ -2919,7 +2931,7 @@
       "text": "in the region; CONCERNED that under the new curriculum of education in Kenya that is being piloted, learners with hearing disability are not offered Kiswahili language in primary schools, secondary schools and primary teachers training colleges; NOW THEREFORE, the Senate calls upon the Ministry of Education, Science and Technology and other relevant state agencies to: (1) Offer Kiswahili language as a core subject to learners with hearing disability in primary schools, secondary schools and primary teacher colleges; (2) Come up with an elaborate syllabus for teaching Kiswahili as a core subject to deaf learners in primary, secondary and teacher training colleges; and (3) Come up with an elaborate syllabus for teaching Kenya Sign Language (KSL) as an optional subject for learners who have no hearing disability and for deaf learners."
     },
     {
-      "order": 244,
+      "order": 245,
       "id": "entry-799093",
       "label": "scene",
       "level": "3",
@@ -2931,7 +2943,7 @@
       "text": "(Motions deferred)"
     },
     {
-      "order": 245,
+      "order": 246,
       "id": "entry-799095-speaker-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -2943,7 +2955,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 246,
+      "order": 247,
       "id": "entry-799095",
       "label": "speech",
       "level": "1",

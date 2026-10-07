@@ -1,4 +1,4 @@
-2020-09-24-14-30-00 - Senate: 4 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+2020-09-24-14-30-00 - Senate: 5 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
 
 1. block 21, PDF p.4 [speech | Aaron Kipkirui Cheruiyot]
    Name check: PDF says 'Sen. Kasanga', block says 'Aaron Kipkirui Cheruiyot '.
@@ -15,4 +15,7 @@
 4. block 32, PDF p.4 [speech | Sylvia Mueni Kasanga]
    Name check: PDF says 'Sen. (Dr.) Mbito', block says 'Sylvia Mueni Kasanga '.
    Text: "Mr. Speaker, Sir, I beg to give Notice of the following Motion - THAT, the Senate adopts the report of the Sta"
+
+5. block 18 [speech]
+   The PDF heading 'PARLIAMENTARY CAR LOAN AND MORTGAGE SCHEME FUNDS (AMENDMENT) REGULATIONS, 2020' is split across this block and the next one (this block has 'PARLIAMENTARY CAR LOAN AND MORTGAGE SCHEME'). Split it out and combine the two halves into one heading.
 

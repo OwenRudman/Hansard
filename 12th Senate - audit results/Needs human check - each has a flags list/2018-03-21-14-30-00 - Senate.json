@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-03-21-14-30-00",
-  "exported_at": "2026-10-05T08:00:20.346Z",
+  "exported_at": "2026-10-07T22:17:05.041Z",
   "entries": [
     {
       "order": 1,
@@ -3364,7 +3364,7 @@
     },
     {
       "order": 281,
-      "id": "entry-782811",
+      "id": "entry-782811-split-before-6bec3d50-d2de-47e8-999e-b12d16569f24",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -3372,10 +3372,22 @@
       "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "Finally, the Statement by the Standing Committee Chairperson on Roads and Transport which is also dropped for the reason that Sen. Anuar Loitiptip is away with permission from the Chair. DELAY IN UPGRADING THE LAMU-GARSEN ROAD"
+      "text": "Finally, the Statement by the Standing Committee Chairperson on Roads and Transport which is also dropped for the reason that Sen. Anuar Loitiptip is away with permission from the Chair."
     },
     {
       "order": 282,
+      "id": "entry-782811-split-selected-f9dc5db5-363d-43c1-8a4f-cfcc37e6b686",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "DELAY IN UPGRADING THE LAMU-GARSEN ROAD"
+    },
+    {
+      "order": 283,
       "id": "entry-782812",
       "label": "scene",
       "level": "2",
@@ -3385,18 +3397,6 @@
       "speaker_title": "",
       "reviewed": true,
       "text": "(Statement deferred)"
-    },
-    {
-      "order": 283,
-      "id": "entry-782812-inserted-c26c75f0-2618-43da-bbef-0163338304fd",
-      "label": "heading",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "DELAY IN UPGRADING THE LAMU–GARSEN ROAD"
     },
     {
       "order": 284,
@@ -3784,7 +3784,7 @@
     },
     {
       "order": 316,
-      "id": "entry-782844",
+      "id": "entry-782844-split-before-8c64e8c2-b7d3-4682-9c9d-d275c68ad6b7",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -3792,11 +3792,11 @@
       "speaker": "",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "Hon. Senators, I have another communication regarding a message from the National Assembly relating to the passage of the Division of Revenue Bill (National Assembly Bill No.7 of 2018).\n\nMESSAGE FROM THE NATIONAL ASSEMBLY"
+      "text": "Hon. Senators, I have another communication regarding a message from the National Assembly relating to the passage of the Division of Revenue Bill (National Assembly Bill No.7 of 2018)."
     },
     {
       "order": 317,
-      "id": "entry-782844-inserted-8d3f3a06-2f05-49ea-9f54-8f5b521d1545",
+      "id": "entry-782844-split-selected-252d7731-94c6-4426-a7ed-8bd70cd8b883",
       "label": "heading",
       "level": "1",
       "cutout": false,
@@ -3804,7 +3804,7 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "MESSAGE FROM THE NATIOAL ASSEMBLY"
+      "text": "MESSAGE FROM THE NATIONAL ASSEMBLY"
     },
     {
       "order": 318,

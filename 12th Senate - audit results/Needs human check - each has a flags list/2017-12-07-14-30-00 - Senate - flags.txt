@@ -1,218 +1,218 @@
 2017-12-07-14-30-00 - Senate: 54 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
 
-1. block 34, PDF p.3 [speech | George Khaniri]
+1. block 37, PDF p.3 [speech | George Khaniri]
    Name check: PDF says 'Sen. (Dr.) Kabaka', block says 'George Khaniri '.
    Text: "Mr. Deputy Speaker, Sir, the Supplementary Order Paper has now been supplied. Thank you, Mr. Deputy Speaker, S"
 
-2. block 38, PDF p.4 [speech | Dullo Fatuma Adan]
+2. block 41, PDF p.4 [speech | Dullo Fatuma Adan]
    Name check: PDF says 'Sen. (Dr.) Kabaka', block says 'Dullo Fatuma Adan '.
    Text: "Mr. Deputy Speaker, Sir, I do not have the Statement. I request the Senator for Machakos County to give us up "
 
-3. block 38, PDF p.4 [speech | Dullo Fatuma Adan]
+3. block 41, PDF p.4 [speech | Dullo Fatuma Adan]
    PDF shows a new speaker ('Sen. (Dr.) Kabaka') starting inside this block: "Yes, Mr. Deputy Speaker, Sir, I will be satisfied....". May need a split.
    Text: "Mr. Deputy Speaker, Sir, I do not have the Statement. I request the Senator for Machakos County to give us up "
 
-4. block 48, PDF p.10 [speech | Boniface Mutinda Kabaka]
+4. block 52, PDF p.10 [speech | Boniface Mutinda Kabaka]
    Name check: PDF says 'Sen. Dullo', block says 'Boniface Mutinda Kabaka '.
    Text: "Mr. Deputy Speaker, Sir, I will help the Senator to get the information. She needs to meet with me so that can"
 
-5. block 51, PDF p.10 [speech | Dullo Fatuma Adan]
+5. block 55, PDF p.10 [speech | Dullo Fatuma Adan]
    Name check: PDF says 'The Senate Majority Leader (Sen. Murkomen)', block says 'Dullo Fatuma Adan '.
    Text: "Thank you, Mr. Deputy Speaker, Sir. Hon. Senators, pursuant to Standing Order No. 46, I hereby present the bus"
 
-6. block 59, PDF p.13 [speech | Dullo Fatuma Adan]
+6. block 65, PDF p.13 [speech | Dullo Fatuma Adan]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Then you should have pressed the right button, which you hav...". May need a split.
    Text: "Mr. Deputy Speaker, Sir, I wish to move the following Motion:- THAT, pursuant to the provisions of Article 50 "
 
-7. block 63, PDF p.14 [speech | Dullo Fatuma Adan]
+7. block 77, PDF p.14 [speech | Dullo Fatuma Adan]
    Name check: PDF says 'Sen. Wako', block says 'Dullo Fatuma Adan '.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I was trying to highlight this report for the purpose of members of the pu"
 
-8. block 68, PDF p.16 [speech | Kipchumba Murkomen]
+8. block 86, PDF p.16 [speech | Kipchumba Murkomen]
    Name check: PDF says 'Sen. Kihika', block says 'Kipchumba Murkomen (The Senate Majority Leader)'.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I beg to second this Motion. I start by congratulating the Deputy Majority"
 
-9. block 68, PDF p.16 [speech | Kipchumba Murkomen]
+9. block 86, PDF p.16 [speech | Kipchumba Murkomen]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "It is the Senator “for” Nandi and not the Senator “of” Nandi...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I beg to second this Motion. I start by congratulating the Deputy Majority"
 
-10. block 71, PDF p.17 [speech | Mohammed Maalim Mahamud]
+10. block 93, PDF p.17 [speech | Mohammed Maalim Mahamud]
    Name check: PDF says 'Sen. Cherargei', block says 'Mohammed Maalim Mahamud '.
    Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me the opportunity to contribute to this Motion. I thank the Jo"
 
-11. block 71, PDF p.17 [speech | Mohammed Maalim Mahamud]
+11. block 93, PDF p.17 [speech | Mohammed Maalim Mahamud]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Order, Senator! Restrict yourself to the amendment of the da...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me the opportunity to contribute to this Motion. I thank the Jo"
 
-12. block 77, PDF p.17 [speech | Sam Ongeri]
+12. block 99, PDF p.17 [speech | Sam Ongeri]
    Name check: PDF says 'Sen. Cherargei', block says 'Sam Ongeri '.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-13. block 77, PDF p.17 [speech | Sam Ongeri]
+13. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('Sen. Wako') starting inside this block: "Yes, Mr. Deputy Speaker, Sir....". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-14. block 77, PDF p.17 [speech | Sam Ongeri]
+14. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Proceed, Sen. Wako....". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-15. block 77, PDF p.17 [speech | Sam Ongeri]
+15. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('Sen. Wako') starting inside this block: "Mr. Deputy Speaker, Sir, I beg to support the amendment, of ...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-16. block 77, PDF p.17 [speech | Sam Ongeri]
+16. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "So, who would you want to respond; is it the Mover of the am...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-17. block 77, PDF p.17 [speech | Sam Ongeri]
+17. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('Sen. Wako') starting inside this block: "Mr. Deputy Speaker, Sir, it is the Mover of the amendment, w...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-18. block 77, PDF p.17 [speech | Sam Ongeri]
+18. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "You must be very specific; she is the Senator for Nakuru Cou...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-19. block 77, PDF p.17 [speech | Sam Ongeri]
+19. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('Sen. Wako') starting inside this block: "Mr. Deputy Speaker, Sir, it is the Senator for Nakuru County...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-20. block 77, PDF p.17 [speech | Sam Ongeri]
+20. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('Sen. Kihika') starting inside this block: "Thank you, Mr. Deputy Speaker, Sir.  The reason that we are ...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-21. block 77, PDF p.17 [speech | Sam Ongeri]
+21. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('Sen. Wako') starting inside this block: "Mr. Deputy Speaker, Sir, I accept the reasons. But all I wan...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-22. block 77, PDF p.17 [speech | Sam Ongeri]
+22. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Not quite! I think she gave two reasons. She did not talk ab...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-23. block 77, PDF p.17 [speech | Sam Ongeri]
+23. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('Sen. Wako') starting inside this block: "Mr. Deputy Speaker, Sir, I understood that....". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-24. block 77, PDF p.17 [speech | Sam Ongeri]
+24. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "So, those were the reasons but the issue of following is you...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-25. block 77, PDF p.17 [speech | Sam Ongeri]
+25. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('Sen. Wako') starting inside this block: "Mr. Deputy Speaker, Sir, it is the process of restructuring ...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-26. block 77, PDF p.17 [speech | Sam Ongeri]
+26. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "You point has been noted, Sen. Wako....". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-27. block 77, PDF p.17 [speech | Sam Ongeri]
+27. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('Sen. Wako') starting inside this block: "It was on a light touch, Mr. Deputy Speaker, Sir....". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-28. block 77, PDF p.17 [speech | Sam Ongeri]
+28. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Thank you....". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-29. block 77, PDF p.17 [speech | Sam Ongeri]
+29. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Sen. Murkomen, it was on a light touch and there is no need ...". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-30. block 77, PDF p.17 [speech | Sam Ongeri]
+30. block 99, PDF p.17 [speech | Sam Ongeri]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "You have the Floor....". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I support this list on the understanding that our foreign relation with ou"
 
-31. block 79, PDF p.24 [speech | Amos Wako]
+31. block 103, PDF p.24 [speech | Amos Wako]
    Name check: PDF says 'Sen. Okello', block says 'Amos Wako '.
    Text: "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity to speak on this very important subject. I "
 
-32. block 82, PDF p.24 [speech | Amos Wako]
+32. block 108, PDF p.24 [speech | Amos Wako]
    Name check: PDF says 'Sen. Sakaja', block says 'Amos Wako '.
    Text: "Mr. Deputy Speaker, Sir, at least I can say without any fear of contradiction that I saw the mother expecting "
 
-33. block 82, PDF p.24 [speech | Amos Wako]
+33. block 108, PDF p.24 [speech | Amos Wako]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "First of all, what is out of order?...". May need a split.
    Text: "Mr. Deputy Speaker, Sir, at least I can say without any fear of contradiction that I saw the mother expecting "
 
-34. block 82, PDF p.24 [speech | Amos Wako]
+34. block 108, PDF p.24 [speech | Amos Wako]
    PDF shows a new speaker ('Sen. Sakaja') starting inside this block: "Mr. Deputy Speaker, Sir, it is out of order for the Senator ...". May need a split.
    Text: "Mr. Deputy Speaker, Sir, at least I can say without any fear of contradiction that I saw the mother expecting "
 
-35. block 82, PDF p.24 [speech | Amos Wako]
+35. block 108, PDF p.24 [speech | Amos Wako]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Which Senator?...". May need a split.
    Text: "Mr. Deputy Speaker, Sir, at least I can say without any fear of contradiction that I saw the mother expecting "
 
-36. block 82, PDF p.24 [speech | Amos Wako]
+36. block 108, PDF p.24 [speech | Amos Wako]
    PDF shows a new speaker ('Sen. Sakaja') starting inside this block: "Mr. Deputy Speaker, Sir, Sen. Okello, who is the Senator for...". May need a split.
    Text: "Mr. Deputy Speaker, Sir, at least I can say without any fear of contradiction that I saw the mother expecting "
 
-37. block 82, PDF p.24 [speech | Amos Wako]
+37. block 108, PDF p.24 [speech | Amos Wako]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "For purposes of process, Sen. Okello has already finalized h...". May need a split.
    Text: "Mr. Deputy Speaker, Sir, at least I can say without any fear of contradiction that I saw the mother expecting "
 
-38. block 82, PDF p.24 [speech | Amos Wako]
+38. block 108, PDF p.24 [speech | Amos Wako]
    PDF shows a new speaker ('Sen. Sakaja') starting inside this block: "Mr. Deputy Speaker, Sir, I pressed my intervention before he...". May need a split.
    Text: "Mr. Deputy Speaker, Sir, at least I can say without any fear of contradiction that I saw the mother expecting "
 
-39. block 82, PDF p.24 [speech | Amos Wako]
+39. block 108, PDF p.24 [speech | Amos Wako]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "That is how you should have started....". May need a split.
    Text: "Mr. Deputy Speaker, Sir, at least I can say without any fear of contradiction that I saw the mother expecting "
 
-40. block 84, PDF p.24 [speech | Susan Wakarura Kihika]
+40. block 114, PDF p.24 [speech | Susan Wakarura Kihika]
    Name check: PDF says 'Sen. Sakaja', block says 'Susan Wakarura Kihika '.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I beg to move an amendment that:- The Motion be amended by deleting the ph"
 
-41. block 84, PDF p.24 [speech | Susan Wakarura Kihika]
+41. block 114, PDF p.24 [speech | Susan Wakarura Kihika]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "For that reason, you will be indulged....". May need a split.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I beg to move an amendment that:- The Motion be amended by deleting the ph"
 
-42. block 88, PDF p.24 [speech | Cherarkey K Samson]
+42. block 118, PDF p.24 [speech | Cherarkey K Samson]
    Name check: PDF says 'Sen. Sakaja', block says 'Cherarkey K Samson '.
    Text: "Thank you, Mr. Deputy Speaker, Sir. I rise to second. In the same vein, I want to take this opportunity to tha"
 
-43. block 92, PDF p.31 [speech | Amos Wako]
+43. block 124, PDF p.31 [speech | Amos Wako]
    Name check: PDF says 'Sen. Kihika', block says 'Amos Wako '.
    Text: "Yes, Mr. Deputy Speaker, Sir."
 
-44. block 96, PDF p.31 [speech | Amos Wako]
+44. block 128, PDF p.31 [speech | Amos Wako]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Very well. Thank you, Sen. (Prof.) Ongeri....". May need a split.
    Text: "Mr. Deputy Speaker, Sir, it is the Mover of the amendment, who is the former Speaker of Nakuru County."
 
-45. block 99, PDF p.37 [speech | Susan Wakarura Kihika]
+45. block 131, PDF p.37 [speech | Susan Wakarura Kihika]
    Name check: PDF says 'Sen. Okello', block says 'Susan Wakarura Kihika '.
    Text: "Thank you, Mr. Deputy Speaker, Sir. The reason that we are requesting to amend the date for the elections from"
 
-46. block 100, PDF p.37 [speech | Amos Wako]
+46. block 134, PDF p.37 [speech | Amos Wako]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Thank you. Could we hear from Sen. Wario, the Senator for Ta...". May need a split.
    Text: "Mr. Deputy Speaker, Sir, I accept the reasons. But all I want to say is that it appears that we are just follo"
 
-47. block 100, PDF p.37 [speech | Amos Wako]
+47. block 134, PDF p.37 [speech | Amos Wako]
    PDF shows a new speaker ('Sen. Wario') starting inside this block: "Asante sana, Bw. Naibu Spika. Ningependa pia kujumuika na we...". May need a split.
    Text: "Mr. Deputy Speaker, Sir, I accept the reasons. But all I want to say is that it appears that we are just follo"
 
-48. block 125 [speech | (Sen. (Prof.) Kindiki)]
+48. block 161 [speech | (Sen. (Prof.) Kindiki)]
    Couldn't find this text in the PDF. Check it against the PDF.
    Text: "Yes, Sen. Omogeni. The electronic version of the Senate Hansard Report is for information purposes only. A cer"
 
-49. block 133, PDF p.42 [speech | Johnson Arthur Sakaja]
+49. block 176, PDF p.42 [speech | Johnson Arthur Sakaja]
    Name check: PDF says 'Sen. Kihika', block says 'Johnson Arthur Sakaja '.
    Text: "Mr. Deputy Speaker, Sir, it is out of order for the Senator to insinuate---"
 
-50. block 133, PDF p.42 [speech | Johnson Arthur Sakaja]
+50. block 176, PDF p.42 [speech | Johnson Arthur Sakaja]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "That is correct. Even when you are replying, you beg to move...". May need a split.
    Text: "Mr. Deputy Speaker, Sir, it is out of order for the Senator to insinuate---"
 
-51. block 137, PDF p.43 [speech | Johnson Arthur Sakaja]
+51. block 180, PDF p.43 [speech | Johnson Arthur Sakaja]
    Name check: PDF says 'Sen. Kihika', block says 'Johnson Arthur Sakaja '.
    Text: "Mr. Deputy Speaker, Sir, I pressed my intervention before he sat down. With your kind indulgence and for the r"
 
-52. block 162 [scene]
+52. block 224 [scene]
    Couldn't find this text in the PDF. Check it against the PDF.
    Text: "only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
 
-53. block 164 [scene]
+53. block 227 [scene]
    Couldn't find this text in the PDF. Check it against the PDF.
    Text: "only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
 
-54. block 183, PDF p.43 [speech]
+54. block 259, PDF p.43 [speech]
    Name check: PDF says 'The Deputy Speaker (Sen. (Prof.) Kindiki)', block says ' The Deputy Speaker'.
    Text: "Let us move on to the next Order. The electronic version of the Senate Hansard Report is for information purpo"
 

@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-06-13-14-30-00",
-  "exported_at": "2026-10-05T08:01:01.066Z",
+  "exported_at": "2026-10-07T22:17:24.851Z",
   "entries": [
     {
       "order": 1,
@@ -328,19 +328,7 @@
     },
     {
       "order": 28,
-      "id": "entry-803156",
-      "label": "speech",
-      "level": "1",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "VISITING DELEGATION FROM ST. MARY'S SOSIO GIRLS' SECONDARY SCHOOL, BUNGOMA COUNTY Hon. Senators, I would like to acknowledge the presence in the Speaker's Gallery this afternoon, of students and teachers from St. Mary's Sosio Girls' Secondary School in Bungoma County."
-    },
-    {
-      "order": 29,
-      "id": "entry-803156-inserted-7067b3c8-082c-4e28-acfd-2e25faf4ba4d",
+      "id": "entry-803156-split-selected-3b72b4ab-6f32-4e50-a90d-e735185dbeb5",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -348,7 +336,19 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "VISITING DELEGATION FROM ST. MARY’S SOSIO GIRLS’ SECONDARY SCHOOL, BUNGOMA COUNTY"
+      "text": "VISITING DELEGATION FROM ST. MARY'S SOSIO GIRLS' SECONDARY SCHOOL, BUNGOMA COUNTY"
+    },
+    {
+      "order": 29,
+      "id": "entry-803156-split-after-21c7aac4-7993-4420-a301-e7a118cf8c6f",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Hon. Lusaka",
+      "speaker_title": "(The Speaker)",
+      "reviewed": true,
+      "text": "Hon. Senators, I would like to acknowledge the presence in the Speaker's Gallery this afternoon, of students and teachers from St. Mary's Sosio Girls' Secondary School in Bungoma County."
     },
     {
       "order": 30,

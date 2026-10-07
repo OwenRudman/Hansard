@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-07-05-14-30-00",
-  "exported_at": "2026-10-05T08:01:16.047Z",
+  "exported_at": "2026-10-07T22:17:35.579Z",
   "entries": [
     {
       "order": 1,
@@ -1540,31 +1540,7 @@
     },
     {
       "order": 129,
-      "id": "entry-812287",
-      "label": "speech",
-      "level": "1",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kamar)",
-      "speaker_title": "The Temporary Speaker",
-      "reviewed": true,
-      "text": "VISITING DELEGATION FROM ST. ANNE GITUBA GIRLS' SECONDARY SCHOOL, KIRINYAGA COUNTY I would like to acknowledge the presence in the Public Gallery this afternoon of visiting students and teachers from St. Anne Gituba Girls' Secondary School in Kirinyaga County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them and on behalf of the Senate and on my own behalf, wish them a fruitful visit. I thank you."
-    },
-    {
-      "order": 130,
-      "id": "entry-812288-parenthesis-split-1-of-2",
-      "label": "scene",
-      "level": "1",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(Applause)"
-    },
-    {
-      "order": 131,
-      "id": "entry-812288-parenthesis-split-1-of-2-inserted-cbda0818-6665-4239-b602-26993dfd57b1",
+      "id": "entry-812287-split-selected-cf195697-aa9f-4094-94f4-2a9b47e87e5f",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -1572,7 +1548,31 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "VISITING DELEGATION FROM ST. ANNE GITUBA GIRLS’ SECONDARY SCHOOL, KIRINYAGA COUNTY"
+      "text": "VISITING DELEGATION FROM ST. ANNE GITUBA GIRLS' SECONDARY SCHOOL, KIRINYAGA COUNTY"
+    },
+    {
+      "order": 130,
+      "id": "entry-812287-split-after-c0e70a8a-e28d-4f0f-ba12-4aa615f41d39",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "(Sen. (Prof.) Kamar)",
+      "speaker_title": "The Temporary Speaker",
+      "reviewed": true,
+      "text": "I would like to acknowledge the presence in the Public Gallery this afternoon of visiting students and teachers from St. Anne Gituba Girls' Secondary School in Kirinyaga County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them and on behalf of the Senate and on my own behalf, wish them a fruitful visit. I thank you."
+    },
+    {
+      "order": 131,
+      "id": "entry-812288-parenthesis-split-1-of-2",
+      "label": "scene",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "(Applause)"
     },
     {
       "order": 132,
