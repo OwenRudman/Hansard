@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2022-03-02-10-00-00",
-  "exported_at": "2026-10-05T08:11:22.258Z",
+  "exported_at": "2026-10-08T21:36:38.347Z",
   "entries": [
     {
       "order": 1,
@@ -3892,7 +3892,7 @@
     },
     {
       "order": 325,
-      "id": "entry-1163436",
+      "id": "entry-1163436-split-before-ceed6d3b-183c-4f59-a70d-d2640f70bd1d",
       "label": "speech",
       "level": "3",
       "cutout": false,
@@ -3900,10 +3900,34 @@
       "speaker": "Rose Nyamunga Ogendo",
       "speaker_title": "(The Temporary Speaker)",
       "reviewed": true,
-      "text": "The Bill is deferred because Sen. Olekina is not here. ( Bill deferred) Let us go to the next Order."
+      "text": "The Bill is deferred because Sen. Olekina is not here."
     },
     {
       "order": 326,
+      "id": "entry-1163436-split-selected-1ebfe262-d176-43f0-a15e-7488a2070694",
+      "label": "scene",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Bill deferred)"
+    },
+    {
+      "order": 327,
+      "id": "entry-1163436-split-after-16297f7e-2a14-4c8a-bf46-8a50564cbf2b",
+      "label": "speech",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Rose Nyamunga Ogendo",
+      "speaker_title": "(The Temporary Speaker)",
+      "reviewed": true,
+      "text": "Let us go to the next Order."
+    },
+    {
+      "order": 328,
       "id": "entry-1163438",
       "label": "heading",
       "level": "1",
@@ -3915,7 +3939,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 327,
+      "order": 329,
       "id": "entry-1163440",
       "label": "heading",
       "level": "3",
@@ -3927,7 +3951,7 @@
       "text": "THE ELECTION CAMPAIGN FINANCING (AMENDMENT) BILL (SENATE BILLS NO.51 OF 2021)"
     },
     {
-      "order": 328,
+      "order": 330,
       "id": "entry-1163441",
       "label": "scene",
       "level": "3",
@@ -3939,7 +3963,7 @@
       "text": "( Bill deferred)"
     },
     {
-      "order": 329,
+      "order": 331,
       "id": "entry-1163442",
       "label": "scene",
       "level": "3",
@@ -3951,7 +3975,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) left the Chair]"
     },
     {
-      "order": 330,
+      "order": 332,
       "id": "entry-1163443",
       "label": "scene",
       "level": "3",
@@ -3963,7 +3987,7 @@
       "text": "[The Temporary Speaker (Sen. Kinyua) in the Chair]"
     },
     {
-      "order": 331,
+      "order": 333,
       "id": "entry-1163444",
       "label": "heading",
       "level": "1",
@@ -3975,7 +3999,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 332,
+      "order": 334,
       "id": "entry-1163445",
       "label": "heading",
       "level": "3",
@@ -3987,7 +4011,7 @@
       "text": "ADOPTION OF THE SPECIAL AUDIT REPORT ON UTILIZATION OF COVID-19 FUNDS BY 28 COUNTY GOVERNMENTS"
     },
     {
-      "order": 333,
+      "order": 335,
       "id": "entry-1163446",
       "label": "speech",
       "level": "3",
@@ -3999,7 +4023,7 @@
       "text": "THAT the Senate adopts the Report of the Standing Committee on Health on the special audit report on utilization of COVID-19 funds by twenty eight (28) county governments laid on the Table of the Senate on Wednesday, 9th February, 2022."
     },
     {
-      "order": 334,
+      "order": 336,
       "id": "entry-1163447",
       "label": "scene",
       "level": "3",
@@ -4011,7 +4035,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 335,
+      "order": 337,
       "id": "entry-1163448",
       "label": "heading",
       "level": "3",
@@ -4023,7 +4047,7 @@
       "text": "RECOGNIZING AND APPRECIATING THE ELDERLY BY COUNTY GOVERNMENTS"
     },
     {
-      "order": 336,
+      "order": 338,
       "id": "entry-1163449",
       "label": "speech",
       "level": "3",
@@ -4035,7 +4059,7 @@
       "text": "Mr. Temporary Speaker. I beg to move: THAT, AWARE that in 2006, the National Government initiated the Older Persons Cash Transfer (OPCT) Programme, popularly known as Pesa ya Wazee, which is an unconditional cash transfer programme to destitute elderly persons above the age of 65 years to cater for their subsistence needs; NOTING THAT the beneficiaries receive a monthly stipend of Kshs2,000 delivered every two months through appointed payment agents, and also entitled to medical insurance through the National Health Insurance Fund (NHIF); CONCERNED HOWEVER THAT the programme's credibility is marred by issues of delayed payments to beneficiaries, difficulties in processing of payments through the stipulated agents and payments to unregistered persons; NOW THEREFORE, the Senate recommends that the County Governments complement the efforts of the National Government and assist in resolving these challenges by- (i) Developing legislation and policies to protect the elderly including ensuring all elderly persons in their counties are registered in the OPCT programme; and (ii) Organise value addition mechanisms such as financial training to help the beneficiaries of the programme to efficiently utilize this allowance. Mr. Temporary Speaker, Sir, this Motion has been off for quite some time and mostly because of matter of technicalities. However, I want to appreciate what the national Government has done so far in making sure that the elderly are taken care of. When we looked at the statistics, it was very clear that people who are 70 years and above in Kenya are more than 900,000. The statistics shows they are below one million. This means that the Government can easily take care of its elderly. Our population is between 45 and 50 million as per the report we got. I am not very sure of the actual population of Kenya even after the census of 2019. It is still not clear. Going by that census, the numbers of the elderly or people who are 70 years and above, it is less than a million. That means it is a figure that the Government can easily deal with. I believe that more than half of the 900,000 elderly people are those who can take care of themselves. Some of them are living on pension, others may be people who invested and are now enjoying their lives at the age of 70 years and above. That means that the number of elderly people who can be classified as destitute is not so much. It could stand at half a million people or less. Mr. Temporary Speaker, Sir, most of our elderly are going through a very difficult time. Most of them are elderly people are living with their grandchildren whom their children may be dead or alive. You know the type of grandchildren that most of the elderly people have are children from their children whose parents are dead or did not go to school. Some of their children that the elderly people are taking care of are youth who may not be empowered or cannot live on their own. Such children also benefit from the money that their elderly parents or grandparents receive. Apart from that, most of the elderly live in very pathetic conditions. If they are not living with relatives who are may not be too caring, they are living with their grandchildren who are also eyeing this Kshs2000. I appreciate what the Government has done so far. However, that money is not enough and it comes very late. The funds should be disbursed after every two months. However, they sometimes go for three, four, five or six months without receiving it. When they receive that money after more than the stipulated two months, they still receive Kshs2,000 only. Every time this money is in arrears for three, four, five or six months, it does not achieve the purpose for which the Government intended. I appreciate what the national Government is doing so far. However, the county governments should now take up that responsibility. First, they should identify the elderly who are not netted by the national Government. What programme can they put in place to supplement or totally take care of those who have not been netted by the national Government? Mr. Temporary Speaker, Sir, first, it is so clear to me that the health conditions of some of the elderly persons is not very good. I know most of them are struggling with their health. They need a proper medical cover to take care of them. However, some of them even as they struggle with medical conditions, if they have medical cover which is sure that every time they are not well they can go to the hospitals and get the medical attention that they need. Secondly, some of the elderly are still in good health condition, even as they ail and suffer from some diseases. There are some elderly people who are healthy enough to some extend and they can be supported. I need those people to be identified. The money which is meant for their upkeep should be given to them. Apart from just giving them the money, they should go through some training. I know of some areas where such people have been assisted to the extent that they are now able to continue with their lives in a normal way because they have utilized that money over a period of time properly and they can now generate income. They will tell you that you have assisted them long enough and are then able to run their small business, and that you could support the next person. In some areas, we have had such reports. This is an area that I have taken very seriously. I have been working on it and know the figures. There are areas where people have told us to move on to the next people. Some of them may know how to spend that money and some of them may not. One of the issues that are raised here is that as the elderly receive the monies, they should also be trained on how to spend it. That money can be spent in a more productive way. I am a believer in food security. This money can help them to concentrate on food security and get involved in some trading. We need to train and support them. It should not be assumed that once you get your Kshs2000, you spend it for the month and wait for the next month. Does mean that when if it delays, you become destitute? If you are trained to utilize it and multiply it, be it in farming, vegetable farming, poultry, horticulture and any activity that can be carried out, it will go a long way. The elderly will also choose their areas of interest. Capacity building and training can be done for them as needed. The idea is to help those who are able to support themselves. They cannot be supported forever or until their lives end. However, this should not be for everybody. This is the gist of this Motion. I would like the county governments to put proper structures and policies in place. If possible, they should put in place laws. That is so automatic. The national Government has done enough; let the county governments also do something because we are working for the common good of the people of Kenya. It does not matter whether the assistance is coming from the national Government, or the county governments. Whatever the national Government is doing is good, but let us also bring on board the county governments and let them put everything in place to assist our people. With those many remarks, I support this Motion and ask Sen. (Dr.) Musuruve to second it."
     },
     {
-      "order": 337,
+      "order": 339,
       "id": "entry-1163463",
       "label": "speech",
       "level": "3",
@@ -4047,7 +4071,7 @@
       "text": "Sen. (Dr.) Musuruve, you may have the Floor."
     },
     {
-      "order": 338,
+      "order": 340,
       "id": "entry-1163464",
       "label": "speech",
       "level": "3",
@@ -4059,7 +4083,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me the chance to second this Motion by Sen. Nyamunga. Before I continue, allow me to thank Sen. Nyamunga for raising awareness and bringing this issue on the Floor of this House. It must be very clear that the neglect of the elderly is something that has happened since time immemorial, even during the olden days. We even see, for those of us who read the Bible in Psalms 71, an old person is clearly communicating with God. He is telling God that- \"I have relied on you from the days of my youth, I have done this and that, but now that I am old, my hair has turned grey, do not reject and abandon me as I pass your laws to the next generation.\" This is something that has always been there since time immemorial. I thank Sen. Nyamunga for bringing this Motion to this House. These people have perpetually been ignored and forgotten despite the fact that they contributed a lot to development our country during their active lives. It is possible for a parent to take care of 10 children, but it becomes very difficult for the 10 children to take of their parent who really struggled with them. When you look at our Constitution, it is very clear that the elderly have rights as provided under Article 57. It is stipulated clearly that the elderly have full rights to participate in affairs of the society to pursue personal developments, live in dignity, respect and be free from any form of abuse. This Motion by Sen. Nyamunga comes in handy to implement the provisions of Article 57 of the Constitution. It must be very clear that every person in this world as long as he has breath, he can develop himself. There is no optimal development. Even when you are elderly, it does not mean that you have reached optimal development. You reach optimal development when you have no breath. The issue that Sen. Nyamunga is bringing on the Floor of this House is a genuine concern and we must treat it with the seriousness it deserves. Two clear things that Sen. Nyamunga would like the Senate to do is to ensure that legislation is in place to protect the elderly. The other thing that she is asking the Senate to do on behalf of the elderly is to ensure there is capacity building on how this money is to be utilised. Honestly, we must endeavour to support the Government initiatives. When it comes to funds for the elderly, it is a trial that was done in 2008. The Government of Kenya did this when we had districts in place. They did it in Nyando, Thika and Busia districts before it was rolled to the rest of the country. This was an initiative to ensure that issues of poverty are brought to a stop. It has now gone to very many other counties. In every county the elderly people are supposed to be identified, protected and money sent to them. The Government initiative on this programme was well meaning. This programme is among the many cash transfer programmes that the Government has initiated. The Government has also initiated cash transfers for the orphans, persons with disabilities who are severely vulnerable and continued to intensify and encourage this one that has been brought by Sen. Nyamunga on the elderly. Madam Temporary Speaker, it must be very clear to our mind that the the elderly face a lot of challenges despite the fact that they have educated their children. Some of these children may be working locally or abroad and they have also started family life so they concentrate on their own issues. Some of these parents end up being neglected. Some have lost their children and spouses and are living alone. They lack basic needs stipulated in Article 43 of the Constitution. The elderly might not be able to go to hospital. They have no one to take them to hospital. They lack social security and so on. It is, therefore, well-meaning that these funds for the elderly be given at the right time. As Sen. Nyamunga has expressed, they are delayed. It is just in good faith that this money is given at the right time to the appropriate and deserving elderly. At the moment, there are some elderly people who do no receive this cash. Sometimes it even goes to the wrong pockets. As a nation, we have a duty to ensure that we are protecting them because they did a lot to us during their heydays. When their bones are weak and strengths have failed them, we should not abandon them. At the moment, they are getting Kshs2,000. I thank Sen.Nyamunga for bringing up the issue of capacity building. I would also like to argue that Kshs2,000 is not enough for medication and other things that have to be put in place. I congratulate the former Prime Minister, Hon. Raila Odinga, who has pledged that when he takes over this money will be increased to Kshs6,000. My prayer is that we look after the elderly. I am sure that the former Prime Minister will deliver this commitment that he has made and the elderly will remember and pray for him. Madam Temporary Speaker, we must think about the elderly. We would not have been here without our parents and grandparents. They produced a generation that eventually brought us on board and we are alive. Our children and our children's children will be there because of our elderly people. We are living in a society that forgets about the elderly. When children get employed, some of them completely forget about home and abandon their parents. Some also feel ashamed of their parents. It is a constitutional demand that everyone should live with dignity. Dignity means being respected and living in respect. This can only happen if we are able to defend our Constitution. The Constitution is very clear that in the Articles that I have talked about when it comes to the elderly people. However, when it comes to executing, defending and oversighting on this, we are not doing very well. As Sen. Nyamunga has said, we need to pass legislation to ensure that the elderly taken care of in a dignified manner. Every county government must ensure that they have mechanisms of identifying them. After identification, there must be programmes to build their capacity. We must respect and uphold their rights as stipulated in some Articles of the Constitution. County governments must allocate money to protect their elderly. This money can be incorporated in the county budget. If 35 per cent of the national revenue goes to county governments as proposed in the Senate, why then should county governments not set aside some funds to assist the elderly people? Some countries have programmes for the elderly. Medication and recreation are free to the elderly because they are paid by the Government. That is why the elderly live long in those countries. The elderly live long when they have recreational facilities, go through physiotherapy and so on. Mr. Temporary Speaker, Sir, the elderly also need capacity building for them to know their rights. Some of them might not even know that they are covered by the National Hospital Insurance Fund (NHIF). There is need to inter-twine the Older Persons Cash Transfer (OPCT) programme and NHIF, so that the elderly age with grace. As the Senate, we have a mandate to protect all the citizens of this country, especially the vulnerable ones like the elderly. I encourage Sen. Nyamunga to come up with a Bill to speak to this before Senate goes on recess, so that it is enshrined in law. Even for this to be executed, there is need to have a law. When it becomes the law of the land, it will be followed to the letter. We also need to sanction counties that flout the law on the elderly. As the Senate, we should not abdicate our mandate of coming up with a framework. The framework will ensure that the elderly are taken care of so that they age gracefully. We need blessings from them and we must appreciate them for the work they did to this country. Mr. Temporary Speaker, Sir, this Motion should be upgraded into a Bill. If we do so, Sen. Nyamunga's dream will comes to fruition. I believe and hope that my fellow Senators will support this Motion for it to see the light of day. I beg to second."
     },
     {
-      "order": 339,
+      "order": 341,
       "id": "entry-1163469",
       "label": "speech",
       "level": "3",
@@ -4071,7 +4095,7 @@
       "text": "Thank you."
     },
     {
-      "order": 340,
+      "order": 342,
       "id": "entry-1163470",
       "label": "scene",
       "level": "3",
@@ -4083,7 +4107,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 341,
+      "order": 343,
       "id": "entry-1163471",
       "label": "speech",
       "level": "3",
@@ -4095,7 +4119,7 @@
       "text": "Yes, Sen. Halake"
     },
     {
-      "order": 342,
+      "order": 344,
       "id": "entry-1163472-split-before-96ac38a0-a567-4098-9a61-c8fc60c54d10",
       "label": "speech",
       "level": "3",
@@ -4107,7 +4131,7 @@
       "text": "Mr. Temporary Speaker, Sir, I thank you for giving me the opportunity to support Sen. Nyamunga's Motion on the cash transfer programme for our elderly. I would like to draw the attention of the country to older members of the society. Article 57 of the Constitution states that- \"The State shall take measures to ensure the rights of older persons--"
     },
     {
-      "order": 343,
+      "order": 345,
       "id": "entry-1163472-split-selected-bacac83b-89c3-4996-ac9c-c7ff5e176bf4",
       "label": "scene",
       "level": "3",
@@ -4119,7 +4143,7 @@
       "text": "(a) to fully participate in the affairs of society;"
     },
     {
-      "order": 344,
+      "order": 346,
       "id": "entry-1163472-split-after-002c7cc7-9b3e-445e-ba5d-f9fc5291b904-split-before-bc33cd21-292e-470f-ab69-f2c47664c688",
       "label": "speech",
       "level": "3",
@@ -4131,7 +4155,7 @@
       "text": "(b) to pursue their personal development;"
     },
     {
-      "order": 345,
+      "order": 347,
       "id": "entry-1163472-split-after-002c7cc7-9b3e-445e-ba5d-f9fc5291b904-split-selected-77ed41f7-f25f-40be-b934-271695579437",
       "label": "scene",
       "level": "3",
@@ -4143,7 +4167,7 @@
       "text": "(c) to live in dignity and respect and be free from abuse; and"
     },
     {
-      "order": 346,
+      "order": 348,
       "id": "entry-1163472-split-after-002c7cc7-9b3e-445e-ba5d-f9fc5291b904-split-after-aa485b23-2e33-4ce5-89b8-b4a9d68cbe4b",
       "label": "speech",
       "level": "3",
@@ -4155,7 +4179,7 @@
       "text": "(d) to receive reasonable care and assistance from their family and the State. Sen. Nyamunga's Motion seeks to implement Article 57 to ensure that what is in our broad laws is broken down to what we do on a daily basis. Additionally, it also seeks to implement Article 43, where our Constitution guarantees every citizen, including the elderly, the right to good standards of health. Madam Temporary Speaker, while Kshs2,000 is very little, her proposal to have the counties complement this effort is commendable and is something that this Senate---"
     },
     {
-      "order": 347,
+      "order": 349,
       "id": "entry-1163475",
       "label": "speech",
       "level": "3",
@@ -4167,7 +4191,7 @@
       "text": "Sen. Halake, I am---"
     },
     {
-      "order": 348,
+      "order": 350,
       "id": "entry-1163476",
       "label": "speech",
       "level": "3",
@@ -4179,7 +4203,7 @@
       "text": "Sorry, Mr. Temporary Speaker, Sir. We have had Madam Temporary Speaker on the Chair this morning. I am a bit confused. Mr. Temporary Speaker, Sir, it also seeks to implement Article 43 of the Constitution, which guarantees our citizens, especially older members of the society, the right to healthcare of good standards. One of the things that are important, which I urge Sen. Nyamunga to add to her request to this House is to first map out the needs of the elderly. Looking at this, there is a blanket of Kshs2,000 that will be given to all members that qualify. One of the things that the counties can do, which Sen. Nyamunga can add as part of her plea is to have the unmet needs for care and support of the elderly mapped out and identified at the county level and have solutions aligned to this. The needs of all elderly people in all counties or the entire country are not the same, but there is a blanket proposal for them to be given Kshs2,000. Of course that is also full of challenges. The most important thing is to get the solution because we know and are aware that the unmet needs are enormous, especially because of the changes in our societal arrangements that every unmet need in each county is not the same. There are counties where the social fabric is more tightened and there are societies where the children have needs. In addition to the proposed policies and legislative framework, the unmet needs of each county should be identified. Every county should have the numbers and the unmet needs of the elderly people. That would help because sometimes legislation takes too long. If every county identified the unmet needs, it will ensure that---"
     },
     {
-      "order": 349,
+      "order": 351,
       "id": "entry-1163477",
       "label": "speech",
       "level": "3",
@@ -4191,7 +4215,7 @@
       "text": "Sen. Halake, are you saying that we should not have a blanket of Kshs2,000 to every elderly person, but it should vary depending on a person?"
     },
     {
-      "order": 350,
+      "order": 352,
       "id": "entry-1163478",
       "label": "speech",
       "level": "3",
@@ -4203,7 +4227,7 @@
       "text": "Well, it should be varied but there are also other issues. If you have Kshs2000, looking after somebody that does not have a family, but just needs healthcare needs through NHIF, then that meets that need. So, we need to differentiate. We cannot treat everybody or every county as equal. Therefore, what we need to do in addition to the legislative is to come up with frameworks that have been proposed very quickly because, sometimes legislation takes too long, we look at the unmet needs in each county. Counties can do that very quickly because again, it is the front line of service provision and that is the whole idea of devolution to make sure that the counties are at the frontline of service delivery. Therefore, they should have this kind of information of how many elderly people live in their counties; what are their unmet needs of these people and, therefore, what are the solutions that are then aligned to these unmet needs? Having said that, I congratulate my sister Sen. Nyamunga for highlighting and amplifying the voice on behalf of the elderly who most of the time have been neglected. One of the big things that we do as legislators is to look after the elderly, but also to follow up even for their dues. Even the ones who have been working for Government or different organizations, when it comes to their payment again they are having problems. Even, the Kshs2000 for the Social Safety Net is becoming an issue as well. In terms of the health needs, nutrition needs, the dignity of the entire think as guaranteed in Articles 53 and 57 of the Constitution for elderly people, this Motion breaks it down, implements and translates the big laws into what we can do immediately. So, I congratulate her and I support."
     },
     {
-      "order": 351,
+      "order": 353,
       "id": "entry-1163481",
       "label": "speech",
       "level": "3",
@@ -4215,7 +4239,7 @@
       "text": "Asante, Bw. Spika wa Muda kwa kunipa hii fursa, ili kuchangia Hoja hii ya Sen. Nyamunga kuhusu suala la kusaidia wazee ambao wamefikisha miaka 70 na wanahitaji misaada. Kwanza ningependa kushukuru Serikali yetu ya Kitaifa kwa kuanza mpango mzuri wa Inua Jamii. Huu mpango umesaidia hawa wazee wetu ambao ni baba, mama na ndugu zetu lakini kwa vile wameishi maisha mazuri ya kumcha Mungu wameishi miaka mingi na wamefika mahali ambapo tunapaswa kuwasaidia. Mpango wa Inua Jamii ni mpango ambao umesaidia wazee wetu kuishi maisha mazuri. Lakini huu mpango umekumbwa na changamoto nyingi kwa mfano ile pesa inayopeanwa ya Kshs2,000 haitoshi. Nikiwa mwenye kiti mdogo wa Kamati ya Labour na Social Welfare, tumejaribu kusukuma na kushinikiza Serikali iongeze hii pesa kwa sababu hao wazee wanaopewa Kshs2,000 kwa Bajeti, kulingana na mfumko wa bei za vitu haitoshi. Pia pesa hizi haziji kwa muda unaofaa, zinachelewa sana. Zinakuja baada ya miezi mitatu ama minne. Zikichelewa kwa muda wa miezi minne, hao wazee wanatumia nini? Wanapata shida nyingi sana. Ni vizuri pesa hizi zije kwa wakati unaofaa. Changamoto nyingine ambayo imekumba huu mradi wa serikali wa Inua Jamii ni kwamba Serikali haiandikishi watu wapya. Wale ambao wako wamefikia miaka 70 tayari wanapata pesa. Hao wengine ambao wanafikiwa wapya hawaandikishwi. Tumejaribu kuuliza Serikali kwa nini hawaandikishi hawa wazee wetu, na inasema ni shida ya kibajeti. Lakini ingekuwa ni vyema kuwasajili hawa wazee wote ambao wamefikisha umri wa 70 na tuwe na Bajeti ya kutosha ili wafaidike na mpango huu wa Inua Jamii. Kuna wazee wengine ambao walikuwa wanapata hizi pesa lakini kwa sasa hivi wameaga dunia na Serikali hajawasajili wapya ili waweze wakipata hizo pesa. Kwa hivyo, ningeomba pia Serikali---"
     },
     {
-      "order": 352,
+      "order": 354,
       "id": "entry-1163482",
       "label": "speech",
       "level": "3",
@@ -4227,7 +4251,7 @@
       "text": "Sen. Mwaruma, tutakapo rejelea Mswaada huu, utakuwa na masalio ya dakika 11."
     },
     {
-      "order": 353,
+      "order": 355,
       "id": "entry-1163483",
       "label": "speech",
       "level": "3",
@@ -4239,7 +4263,7 @@
       "text": "Asante Mhe. Spika wa Muda."
     },
     {
-      "order": 354,
+      "order": 356,
       "id": "entry-1163484",
       "label": "heading",
       "level": "1",
@@ -4251,7 +4275,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 355,
+      "order": 357,
       "id": "entry-1163485",
       "label": "speech",
       "level": "1",

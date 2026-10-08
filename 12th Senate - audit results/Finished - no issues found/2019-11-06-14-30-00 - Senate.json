@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2019-11-06-14-30-00",
-  "exported_at": "2026-10-05T08:05:27.781Z",
+  "exported_at": "2026-10-08T21:35:38.079Z",
   "entries": [
     {
       "order": 1,
@@ -1048,7 +1048,7 @@
     },
     {
       "order": 88,
-      "id": "entry-940473",
+      "id": "entry-940473-split-before-43c9a719-99c2-45ee-9b8e-c6b67eec760c",
       "label": "speech",
       "level": "3",
       "cutout": false,
@@ -1056,10 +1056,22 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Order, Members. Could the assisted voters move forward? ( Several Senators approached the Clerks-at-the Table and registered their vote\n\n)"
+      "text": "Order, Members. Could the assisted voters move forward?"
     },
     {
       "order": 89,
+      "id": "entry-940473-split-selected-dfd7b658-abff-4383-89a8-ffaeb25ef212",
+      "label": "scene",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Several Senators approached the Clerks-at-the Table and registered their vote\n\n)"
+    },
+    {
+      "order": 90,
       "id": "entry-940476",
       "label": "heading",
       "level": "3",
@@ -1071,7 +1083,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 90,
+      "order": 91,
       "id": "entry-940478",
       "label": "scene",
       "level": "3",
@@ -1083,7 +1095,7 @@
       "text": "(Question, that this House adopts the Joint Report of the Sessional Committee on Delegated Legislation and the Standing Committee on Finance and Budget on the consideration of the Public Finance Management (National Government)(Amendment) Regulations, 2019, laid on the Table of the Senate on Wednesday,16th October, 2019, and pursuant to the provisions of Article 211(1)(a) of the Constitution of Kenya, Section 205(4) of the Public Finance Management Act and Section 18 of the Statutory Instruments Act, approves the amendments to the Public Finance Management (National Government) Regulations, 2015 (Principal Regulations) as effected through Legal Notice No. 155 of 26th September, 2019.)"
     },
     {
-      "order": 91,
+      "order": 92,
       "id": "entry-940480",
       "label": "other",
       "level": "3",
@@ -1095,7 +1107,7 @@
       "text": "AYES:"
     },
     {
-      "order": 92,
+      "order": 93,
       "id": "entry-940481",
       "label": "other",
       "level": "3",
@@ -1107,7 +1119,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Iman, (Garissa County); Sen. M. Kajwang', Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. Moi, Baringo County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita-Taveta County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wamatangi, Kiambu County; Sen. (Rev.) Waqo, Marsabit County and Sen. Wario, Tana River County;"
     },
     {
-      "order": 93,
+      "order": 94,
       "id": "entry-940482",
       "label": "other",
       "level": "3",
@@ -1119,7 +1131,7 @@
       "text": "NOES"
     },
     {
-      "order": 94,
+      "order": 95,
       "id": "entry-940483",
       "label": "other",
       "level": "3",
@@ -1131,7 +1143,7 @@
       "text": ": Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. (Dr.) Kabaka, Machakos County; Sen. Linturi, Meru County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Wambua, Kitui County and Sen. Wetangula, Bungoma County"
     },
     {
-      "order": 95,
+      "order": 96,
       "id": "entry-940484",
       "label": "speech",
       "level": "3",
@@ -1143,7 +1155,7 @@
       "text": "Order, Members."
     },
     {
-      "order": 96,
+      "order": 97,
       "id": "entry-940485",
       "label": "scene",
       "level": "3",
@@ -1155,7 +1167,7 @@
       "text": "(Several Members stood up on their feet)"
     },
     {
-      "order": 97,
+      "order": 98,
       "id": "entry-940486",
       "label": "speech",
       "level": "3",
@@ -1167,7 +1179,7 @@
       "text": "I thought I was very clear, and I have a very powerful voice. However, seemingly there is a lot of excitement today. These are the results of the Vote:-\n\nAYES:\n\n30\n\nNOES:\n\n7\n\nABSTENTIONS:"
     },
     {
-      "order": 98,
+      "order": 99,
       "id": "entry-940492",
       "label": "speech",
       "level": "3",
@@ -1179,7 +1191,7 @@
       "text": "Nil. The \"Ayes\" have it."
     },
     {
-      "order": 99,
+      "order": 100,
       "id": "entry-940493",
       "label": "scene",
       "level": "3",
@@ -1191,7 +1203,7 @@
       "text": "(Question carried by 30 votes to 7)"
     },
     {
-      "order": 100,
+      "order": 101,
       "id": "entry-940494",
       "label": "speech",
       "level": "3",
@@ -1203,7 +1215,7 @@
       "text": "I direct that the doors be opened and Bars drawn."
     },
     {
-      "order": 101,
+      "order": 102,
       "id": "entry-940495",
       "label": "scene",
       "level": "3",
@@ -1215,7 +1227,7 @@
       "text": "(The Doors were opened and the Bars drawn)"
     },
     {
-      "order": 102,
+      "order": 103,
       "id": "entry-940496",
       "label": "speech",
       "level": "3",
@@ -1227,7 +1239,7 @@
       "text": "We will go back to comments on the Statement by Sen. Wetangula."
     },
     {
-      "order": 103,
+      "order": 104,
       "id": "entry-940497",
       "label": "scene",
       "level": "3",
@@ -1239,7 +1251,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 104,
+      "order": 105,
       "id": "entry-940498",
       "label": "scene",
       "level": "3",
@@ -1251,7 +1263,7 @@
       "text": "(Resumption of Debate on Statement)"
     },
     {
-      "order": 105,
+      "order": 106,
       "id": "entry-940500",
       "label": "heading",
       "level": "1",
@@ -1263,7 +1275,7 @@
       "text": "STATEMENT"
     },
     {
-      "order": 106,
+      "order": 107,
       "id": "entry-940501",
       "label": "heading",
       "level": "2",
@@ -1275,7 +1287,7 @@
       "text": "HEAVY DEPLOYMENT OF POLICE OFFICERS AT EXAMINATION CENTRES"
     },
     {
-      "order": 107,
+      "order": 108,
       "id": "entry-940502",
       "label": "speech",
       "level": "2",
@@ -1287,7 +1299,7 @@
       "text": "Order, Members! Order! Leader of Majority, let us have some order. You know we are live on television; we are live. Proceed, Sen. Mutula Kilonzo Jr."
     },
     {
-      "order": 108,
+      "order": 109,
       "id": "entry-940503",
       "label": "speech",
       "level": "2",
@@ -1299,7 +1311,7 @@
       "text": "Thank you, Mr. Speaker, Sir. The question of heavy deployment of police officers is a matter of concern---"
     },
     {
-      "order": 109,
+      "order": 110,
       "id": "entry-940504",
       "label": "speech",
       "level": "2",
@@ -1311,7 +1323,7 @@
       "text": "What is your point of order, Sen. Murkomen?"
     },
     {
-      "order": 110,
+      "order": 111,
       "id": "entry-940505",
       "label": "speech",
       "level": "2",
@@ -1323,7 +1335,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. I had made a request to you that on behalf of the House and all the Senators, that I would like to appreciate everybody who came to vote, because the exercise is a democratic, right. I believe that we did the right thing; whether you voted yes or no. In the spirit of the conversation that is going on in the country on the matters of debt, interest rates and so on, and so forth, I would request the Committee of Finance and Budget, so that we keep true to the conversations we had here through the debate on this Motion, that they move quickly to now institute the processes of dealing with proper debt management in the country. This is because as we acceded yesterday, even though increasing the cap was important to the country, it is also important for that Committee to implement those issues that were raised by Members in this Committee. On behalf of the House, I want to say thank you."
     },
     {
-      "order": 111,
+      "order": 112,
       "id": "entry-940506",
       "label": "speech",
       "level": "2",
@@ -1335,7 +1347,7 @@
       "text": "Sen. Murkomen, do you want to be informed?"
     },
     {
-      "order": 112,
+      "order": 113,
       "id": "entry-940507",
       "label": "speech",
       "level": "2",
@@ -1347,7 +1359,7 @@
       "text": "No, Mr. Speaker, Sir."
     },
     {
-      "order": 113,
+      "order": 114,
       "id": "entry-940508",
       "label": "speech",
       "level": "2",
@@ -1359,7 +1371,7 @@
       "text": "Proceed, Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 114,
+      "order": 115,
       "id": "entry-940509",
       "label": "speech",
       "level": "2",
@@ -1371,7 +1383,7 @@
       "text": "Mr. Speaker, Sir, the heavy deployment of police officers in examination centres is a matter of concern to all of us. Our children are doing their exams as if they are in military barracks. Some of us who travelled with Sen. Dullo to places of high security, such as Sweden, know that even prisoners who are serving life sentences do not get the sort of treatment that our candidates are getting. This is a matter that the Committee on Education must handle, so that our candidates are not intimidated during the exams. They must be free to do their exams in an environment where they do not feel as if they are in a police State."
     },
     {
-      "order": 115,
+      "order": 116,
       "id": "entry-940510",
       "label": "speech",
       "level": "2",
@@ -1383,7 +1395,7 @@
       "text": "Thank you, Mr. Speaker, Sir. This is a very serious concern raised by Sen. Wetangula, on the issues of wastage in Government and how public resources are being spent. As we raise concerns about how police are being deployed and how the national Government is conducting this very important exercise, one is the issue of children being intimidated. Secondly, it is the issue of resources that we are being told are scarce, but the same is not being matched in how Government is conducting its exercises. Having said that, I hope our colleagues who sit in the Committee on Education will do a great job because this is a matter of great concern to the country. Mr. Speaker, Sir, having got this opportunity, allow me to celebrate the seven heroes in this House, who this afternoon stood with poor Kenyans. I thank you."
     },
     {
-      "order": 116,
+      "order": 117,
       "id": "entry-940513",
       "label": "speech",
       "level": "2",
@@ -1395,7 +1407,7 @@
       "text": "Everybody voted according to their democratic right; so, all are heroes or heroines in their own right. Proceed, Sen. Nyamunga."
     },
     {
-      "order": 117,
+      "order": 118,
       "id": "entry-940514",
       "label": "speech",
       "level": "2",
@@ -1407,7 +1419,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity to support the Statement by the Senator for Bungoma, Sen. Wetangula, on the heavy deployment of police officers to take care of the exams in the country. Police officers have been deployed everywhere; you can imagine the kind of resources that are being spent. We are talking about the economic situation in this country, but the amount of money this nation will spent for the two weeks during exams will be enormous. We need to go back to our basics and ask ourselves why we are at this point. The first and most important thing is because we have lost it, as nation. If, for the sake of exams, parents are ready and willing to spend so much money to buy the stolen exams for their children, what are we inculcating in our children? What are we telling them? Are we telling them that they cannot pass exams unless they cheat? We have many professors and other educated people in this country, including myself, who passed their exams without cheating. It is the rottenness that we have in the country and the level of corruption. This is all about corruption. As we fight corruption, we must fight it everywhere. We have spent a lot of money deploying all the CSs and the human resource; this includes the money that has been spent on the helicopters, fuel and everything that has been spent during this short period. Even the Deputy President was in the field invigilating exams. Since when did officers at the level of Deputy President invigilate examinations? Mr. Speaker, Sir, let us not show our children how to steal exams. It is our own weakness that is bringing us to this point, where we have to police the children and spend a lot of money on examinations, which should not cost anything. I support this, but it is not only about the police presence. It is about presence of everybody. We are wasting a lot of resources. It is because of our rottenness as a nation."
     },
     {
-      "order": 118,
+      "order": 119,
       "id": "entry-940515",
       "label": "speech",
       "level": "2",
@@ -1419,7 +1431,7 @@
       "text": "Proceed, Sen. (Dr.) Lang'at)."
     },
     {
-      "order": 119,
+      "order": 120,
       "id": "entry-940516",
       "label": "scene",
       "level": "2",
@@ -1431,7 +1443,7 @@
       "text": "(Sen. Kinyua stood up in his place)"
     },
     {
-      "order": 120,
+      "order": 121,
       "id": "entry-940517",
       "label": "speech",
       "level": "2",
@@ -1443,7 +1455,7 @@
       "text": "Do you want to speak and then I finish? Is it possible? I can respond and then you--- Ongea basi ."
     },
     {
-      "order": 121,
+      "order": 122,
       "id": "entry-940518",
       "label": "scene",
       "level": "2",
@@ -1455,7 +1467,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 122,
+      "order": 123,
       "id": "entry-940519",
       "label": "speech",
       "level": "2",
@@ -1467,7 +1479,7 @@
       "text": "Proceed, Sen. Kinyua. Let us have order, Members."
     },
     {
-      "order": 123,
+      "order": 124,
       "id": "entry-940520",
       "label": "speech",
       "level": "2",
@@ -1479,7 +1491,7 @@
       "text": "Asante sana Bw, Spika, kwa kunipa fursa hii. Nasimama kuunga mkono Taarifa hii ambayo imeitishwa na Sen. Wetangula, wa Kaunti ya Bungoma. Ni jambo la kuvunja moyo kuona walinda usalama wengi zaidi wamewekwa katika shule zetu. Wengi wao wamejihami vilivyo. Wakiwa wengi vile, wanaogofya wanafunzi, ilhali ukitembea sehemu zingine za nchi hii, wale wanafunzi hawajawahi kuwaona askari wetu wakiwa wamejihami jinsi walivyojihami sasa. Bw. Spika, hatusemi kwamba ni vibaya kwa askaris wetu kuwa katika shule zetu, kwa sababu kuna hili janga la watu kuvamiwa na majambazi na majangili katika sehemu nyingi za nchi. Tunachosema ni kwamba idadi iliyopelekwa katika shule zetu ni ya juu sana, na ni ya kuogofya wanafunzi wetu. Ningeisihi Kamati yetu husika ipendekeze kuwa askari pale shuleni watengewe sehemu maalum ili wasiwashtue wanafunzi wanapofanya mitihani yao. Itakuwa kheri ikiwa wengine wao watavaa mavazi ya kiraia, ili waweze kulinda wanafunzi wetu na kuimarisha usalama shuleni."
     },
     {
-      "order": 124,
+      "order": 125,
       "id": "entry-940522",
       "label": "speech",
       "level": "2",
@@ -1491,7 +1503,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for the opportunity to contribute to this Statement by Sen. Wetangula on the heavy deployment of police officers in examination centres. It has come at the right time. An examination, on its own, is a very intimidating and fearful process, especially to Class Eight pupils who are doing them for the first time. Therefore, the presence of heavily armed police officers might even make whatever they had been reading to evaporate from their mind, and that could affect the results. I wish that these police officers were deployed to where the teachers are; at the staffrooms, because that is where the cheating happens. The children do not cheat on their own. Mr. Speaker, Sir, I hope that the Ministry of Education will take this into consideration, and go back to the measures that have been used in the past. Before the rampant cheating, there used to have only two police officers per examination centre. Their work was to guard where the examinations were stored. If these police officers were to guard the exam, it would be much better. We should not allow them to be near our children when doing the exam. At this time, the whole country is undertaking these national examinations. Therefore, having a heavy deployment of police officers to the examination centres deprives other sectors of security in this country. The rest of us are exposed to levels of insecurity. The Ministry of Education needs to understand the perception of the candidates who are doing these exams. What is their perception about the presence of police officers in their centres? Where the children seem to be fearful, it should be reconsidered. With those few remarks, I beg to support."
     },
     {
-      "order": 125,
+      "order": 126,
       "id": "entry-940523",
       "label": "speech",
       "level": "2",
@@ -1503,7 +1515,7 @@
       "text": "Proceed, Sen. Farhiya."
     },
     {
-      "order": 126,
+      "order": 127,
       "id": "entry-940524",
       "label": "speech",
       "level": "2",
@@ -1515,7 +1527,7 @@
       "text": "Thank you, Mr. Speaker, Sir. First of all, I would like to thank Sen. Wetangula for bringing this Statement to the House. I really respect Sen. Wetangula, but I want to honorably differ with him. Mr. Speaker, Sir, we reached a level where between 40 and 60 per cent of students who are admitted to universities to pursue engineering and medicine courses were dropping out in first year, as a result of cheating. The Government has better use of resources. This is an issue that speaks to the core of our livelihoods. If we allow cheating in schools, there are too many things that are at stake. The economy and everything in this country depends on the level of education. If you remember, in 2015, there was a Form Four student in one of the Churches who confessed of getting grade A in the exams, and he wanted to be prayed for his sins, for him to re-sit the exam. You can imagine the emotional torture that that child had gone through, before admitting to that in a Church full of people. The economy of examination cheating was at Kshs5 billion, before Prof. Magoha stopped the cheating. Examination cheating is the worst that can happen to any country. I am sure that the Government is not willing to spend that money, but if there is a solution to stop this cheating without having to deploy all that security--- I am speaking from a point of knowledge, because I used to sit in the Board of the Kenya National Examination Council (KNEC). Mr. Speaker, Sir, if Prof. Magoha had not taken over the examination docket; this country would have gone to the dogs. This is an issue of integrity of the whole society. I believe that teachers are also parents to students. Instead of all of us colluding to strengthen the morality of our children, we are doing so to destroy our nation through cheating of exams. It is no wonder when our buildings are collapsing and our engineers are coming from China, instead of our own. This is something that has a far reaching impact. This boils to my position on corruption and morality of this nation. I am very happy that Prof. Magoha was able to at least stop cheating in exams. I do not see any other person who could have done that. Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 127,
+      "order": 128,
       "id": "entry-940526",
       "label": "speech",
       "level": "2",
@@ -1527,7 +1539,7 @@
       "text": "Thank you Mr. Speaker, Sir, for this opportunity to also add my voice on this Statement by Sen. Wetangula. From the onset, I fully support it for good reasons. There is no argument that there have been cases of cheating in examinations. There is also no argument that there has been collusion between parents, teachers and students to aid in this cheating. But, you do not cure examination cheating by deploying police officers. This will only be cured by investing in systems. When students, teachers and parents collude to cheat in exams, it does not constitute an armed robbery that requires the presence of a police officer. This country needs to invest more in systems, including internet connectivity to all the schools, so that information sharing becomes easier. It is scary for children from far flung areas who have never had an encounter with armed uniformed police officers, and who then come into contact with these officers for the first time when they are sitting for the exams. As Sen. Were has said, they are already scared by the exams, only to meet fully armed officers, which scares them even more. As a country, we need to invest in systems that ensure the credibility of the examination process, and release officers to do the duties they were recruited for. Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 128,
+      "order": 129,
       "id": "entry-940527",
       "label": "speech",
       "level": "2",
@@ -1539,7 +1551,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity. I support the Statement by Sen. Wetangula. The places which normally suffer from cattle rustling and insecurity have the best security, as we speak. But, the intention is not good, because it continues to intimidate most of our young children and students, who are sitting for their exams. This is not good, because we should device other more innovative ways to ensure that children do exams in a better environment, where they are comfortable. According to research, most students fail exams because of that intimidation and tension. We have turned our schools into military zones. You have seen pictures on social media, where police officers are giving their armed rifles to pose with. It is sad that during the exam period--- As Kenyans, we should be protecting our resources the way we are protecting children during exams. We are doing very well in protecting exams, but not in protecting the real resources. This is a challenge with the Ministry of Education, that they should consult and find better ways of solving this problem. They should consult the education stakeholders on this matter. As I conclude, Mr. Speaker, Sir, since I have this opportunity, I want to thank the seven colleagues who have stood with Kenyans and the future of this country. I know that history will be fair to us. Bravo! Kudos! This is the way to go. As we speak and try to gloss that the economy is good, vitu ni different kwa ground . Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 129,
+      "order": 130,
       "id": "entry-940529",
       "label": "speech",
       "level": "2",
@@ -1551,7 +1563,7 @@
       "text": "Asante Bw. Spika kwa kunipa fursa hii kuunga mkono Arifa iliyoletwa Bungeni na Sen. Wetangula. Kusema ukweli, mazingira ambayo watoto wanafanyia mitihani yamebadilika sana, kwa sababu wengi wao wanatishiwa na uwepo wa polisi waliojihami, mahali ambapo hapahitajiki silaha kama hizo. Bw. Spika, mitihani imefanywa nchini hata kabla ya Uhuru, na mitihani bado itaendelea kufanyika katika siku za usoni. Lakini ufisadi ndio umesababisha mambo haya yote, na sasa watu wanaiba mitihani. Utapata kuwa watu wengine wanenda katika vyumba vya mtihani kuwafanyia wanafunzi mitihani. Matatizo yalioko hayapaswi kuwafanya wanafunzi wawe na hofu wanpoingia katika vyumba vya mitihani. Hapo awali, kabla ya shule kufanya mitihani, kulikuwa na mihadhara mingi ya kufanya maombi. Wakati mwingine, hii ilikuwa inatumika kupitisha karatasi ghushi za mitihani, na wazazi walikuwa wanalipa ili kuhakisha kuwa watoto wao wanafanya vizuri. Kupita mtihani si mwisho wa maisha, bali ni mwanzo tu wa hatua nyingine katika maisha ya binadamu. Kwa hivyo, isichukuliwe kama ni jambo la kufa na kupona. Ndio, mtihani unasidia kumsogeza mtu kwenye kiwango kingine cha masomo, lakini sio jambo la kufa na kupona. Serikali inapasa kuekeza mikakati itakayohakikisha kwamba mitihani ni salama kwa wanafunzi. Mikakati pia inafaa kuwekwa kuhakikisha kwamba wale walio na nia ya kuiba mitihani wanachukuliwa hatua za kisheria. Lakini haitakubalika kwa vituo vya mitihani kuwa viwanja vya kuwatisha wanafunzi. Asante, Bw. Spika."
     },
     {
-      "order": 130,
+      "order": 131,
       "id": "entry-940530",
       "label": "speech",
       "level": "2",
@@ -1563,7 +1575,7 @@
       "text": "Proceed, Sen. (Dr.) Ali."
     },
     {
-      "order": 131,
+      "order": 132,
       "id": "entry-940531",
       "label": "speech",
       "level": "2",
@@ -1575,7 +1587,7 @@
       "text": "Mr. Speaker, Sir, I thank Sen. Wetangula for bringing this Statement. In some areas like North Eastern Kenya, where police are everywhere with their military fatigues, students are already afraid of policemen and askaris . When they are doing exams, they see a policeman on this side and another one on the other side with a G3 Rifle pointing at the children, which is serious. These kids cannot do anything. I am surprised at whoever wants to support such issues. We know corruption is a problem, and that cheating is bad; but this is not the way to stop cheating. During the\n\nMashujaa\n\nDay celebrations in Wajir, I said that the CS for Education, Prof. Magoha, and his team should stop militarizing examination centers. That is exactly what is happening, and we cannot accept that. That should not be condoned in this country. If we have problems of solving corruption, stealing, and cheating in exams, there are ways to solve it. We do not need guns to enforce that; you just need supervisors to move around even without canes. What is the use of going there with a big gun to terrify children? That is not the right way to go. Mr. Speaker, Sir, if this country wants to continue that way, and whoever supports this, we are then going to put our children in a lot of trouble. We oppose that, and that should stop immediately. Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 132,
+      "order": 133,
       "id": "entry-940534",
       "label": "speech",
       "level": "2",
@@ -1587,7 +1599,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me an opportunity to add my voice. I begin by congratulating the Senator for Bungoma County for coming up with this Statement. A long time ago, even when I was in school, I knew that exams were very good. During exam time, that is when it was possible for both teachers and leaners to see whether they have been able to interact. Assessment is not supposed to criminalize a student; it is supposed to make them and the teacher know whether the student has understood or interacted with the teaching or learning situations, so that if there is any weakness, a student can improve. Mr. Speaker, Sir, when I was growing up, I remember a student by the name of Shikanda, who was my neighbor. He deliberately decided to repeat from Form Four back to Form Three because he was determined to succeed. He used to say that he must ensure that he gets to the university. During that time, we would go to the libraries to study. It is not right to say that students are always cheating in exams. Mr. Speaker, Sir, teachers have been teaching students all the way from primary to secondary schools. To just decide that these young minds are going to cheat in exams, it is not the right thing. It is a wrong move for the Government to spend a lot of money on helicopters and paying gunmen to go to supervise exams. It is not right at all. This is supposed to be a good exercise, because students are going to the battle field, and some of them know very well that they are going to get good grades. It is, therefore, an unfortunate situation for us to just imagine that when students are going to exams, they are going to cheat. That is not always the case. Mr. Speaker, Sir, if we are threatening these young minds with guns, how about the universities? Are we going to have gunmen in all universities, trying to watch out if the university students are going to cheat or not? If the guns are going to be used in primary schools and secondary schools, it should follow all the way to the Technical and Vocational Education and Training (TVET) institutions and universities, because it does not make any economic sense. The money being used to pay these armed police officers and helicopters during exams should be diverted to better use by the Government. The CS himself going to supervise exams and to confirm that students are not cheating is not proper. The CS and the Ministry of Education should stop acting. Invigilators should be paid to go into the classrooms to invigilate exams so that students know very well that even when they are going to the exams, we all have confidence in them. Mr. Speaker, Sir, I remember sometimes during exam time, students would be prayed for, before they started their exams, so that God helps them in their exams. However, now we are threatening students that we have guns. We want to see whether they are going to cheat or not. Kenyans should stop acting. The Committee on Education, where I sit, should act with speed and ensure that this practice stops. When it comes to cheating in exams, it is not a one day affair. The gunmen are supposed to be offering protection, just in case the lorries that are ferrying the exam papers are involved in an accident, are carjacked and all that. However, they should not be deployed to guard those young minds in the classrooms from cheating. I, therefore, support Sen. Wetangula that we need to look into this issue. Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 133,
+      "order": 134,
       "id": "entry-940536",
       "label": "speech",
       "level": "2",
@@ -1599,7 +1611,7 @@
       "text": "Thank you, Mr. Speaker, Sir. This is a very interesting Statement, because it raises a number of issues that are deeper than just the deployment of officers. While the Committee is looking into the questions asked, the first thing that we need to hear from the Committee is that the Ministry should tell us what has been the effect, over the years, that they have been implementing these changes when exams are being done. Mr. Speaker, Sir, a few years ago, we would always hear about cancellation of entire results from a school because of cheating, and it happened to many schools. We must ask ourselves what happens to those children who were there, in all honesty, trying to do their exams, yet there were certain unscrupulous teachers trying to help them cheat in those exams. This not a normal situation. Sometimes, desperate times call for desperate measures. The fact that we are sending police officers to schools and possibly that has reduced the cheating, is something that we should be ashamed of; but we must realize that sometimes tough action must be taken. Those police officers are not in the school because of the children. They are there because of the teachers and other members of the public who have actually been helping them cheat. We have seen so many of them being arrested over the past few weeks. Are we saying that just because we do not want children to be afraid of police officers, we should allow some of them to cheat and spoil their entire future, as opposed to making sure that as a stop-gap measure, we employ officers to guard them from cheating? Part of the question must be, \"Is this a temporary or a permanent thing? What else is the Ministry doing to look at the systems?\" For now, I support it. The deeper question I ask, as a Member of the Committee on Security, Defence and Foreign Relations, is that as we are dealing with police reforms, children are not afraid of police in civilized societies. It cannot be that the presence of police should cause intimidation. In fact, when you get lost in many of these countries, the first person you want to go and ask for directions, even as a child, is a police officer. Those are the bigger questions you must ask. The only person who should be afraid and intimidated by the presence of the police officers should be a criminal. Mr. Speaker, Sir, let us not just lambast a move by the Government because of how it looks. Let us understand the root cause. Were we causing much more damage to these children with a laissez faire attitude, where cheating was going on? Why are we shocked today at the level of moral degradation and decay that has been happening in society over the years? For now, tough situations call for tough measures. Let the police, as they are there, be amicable. Let them know where their focus is, and not intimidate the children. In fact, I have seen the photos of the police officers with the children. As much security protocols may not allow it, I think it is a good thing. Let us demystify these police officers to our children. Let them know that those police officers are there for them, and not against them. Mr. Speaker, Sir, Part (c) of this Statement states that, \"Explain why despite the heavy deployment of officers, there are still cases of malpractices.\" That is the answer to this problem. Cheating in exams is actually a bigger problem and it is a criminal syndicate. There are people who have been arrested and are in court. Therefore, let us not always oppose moves by the Government which are meant to help in the long term. The Committee must go deeper than just these questions, and tell us what systematic interventions have been done. They should also tell us how else we can make sure that, moving forward, it is not just about the period during the exam that we are scrutinizing, but throughout the education system. Mr. Speaker, Sir, finally, during this period, there are parts of my county and many other counties that are peaceful because, for the first time, there is the presence of the police officers because of the exams in the schools. Let us know where these officers normally are on other days, because they need to take the safety of Kenyans seriously, whether there are exams or not. They should not just be deployed to curb cheating. When a Statement comes, we do not debate it; we just ask additional questions. I hope that the Committee will go beyond the physical deployment to the root issues of the system; whether or not they are temporary. We need to ask ourselves why an ordinary Kenyan is petrified and shaking in their boots at the sight of a police officer, who should be their friend. We changed from the police force to a police service; where have those reforms reached?"
     },
     {
-      "order": 134,
+      "order": 135,
       "id": "entry-940538",
       "label": "speech",
       "level": "2",
@@ -1611,7 +1623,7 @@
       "text": "Proceed, Sen. (Dr.) Kabaka."
     },
     {
-      "order": 135,
+      "order": 136,
       "id": "entry-940539",
       "label": "speech",
       "level": "2",
@@ -1623,7 +1635,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity to also support the Statement by the distinguished Senator of Bungoma County, Senior Counsel, Sen. Wetangula. I will be very brief. This is a very timely Statement, especially at this time when the examination season is going on. It is very interesting that we need to do a thorough investigation into our education system. For example, if you compare the private school systems and public school systems, you realize that we do not have such deployments in most of the private schools; and we have never had cheating of this magnitude that we find in public schools. What is it that is so peculiar with the public school management system, more so on the management of the examinations part of it? Mr. Speaker Sir, we have been told that we are lacking investment in systems. That is fair enough, but I would first say that we need to start from investing in our morals. That is where we get it wrong in this country, and by extension, this goes even to the Government system. The deployment of very heavy security has a far reaching impact to the psychology of a child, especially when we know that in this country, the police service has not been accepted by the society even after this transformation has been achieved. There is a lot that needs to be done so that the members of the public will be in a position to appreciate the police service. Mr. Speaker Sir, deployment of heavy security does not cure examination cheating at all. That is the reason you will find that even during this time when security is deployed, we still have cases where the CS for Education keeps on reporting very huge numbers of cheating. The corrupt cartels who were found destroying the economy of this state are the same people who, by extension, wreck the education system. We also need to tell our children that even when they fail in the examinations, it does not mean that one has failed in life. Most of the leading entrepreneurs in the world and rich billionaires are people who did not even go beyond the university. Some of them are Richard Branson of Virgin Airlines, Bill Gates, and so on, and so forth. Therefore, it does not mean that failing examinations is the end of life; they can try it and revisit. Some are even professors, like Prof. Mazrui. They are known to not have done very well in their \"O\" levels, but look what later came out of such a doyen. He became an intellectual, and there are many of that caliber. It is high time that our students are taught that failure in examinations is not the end of the world. What matters is moral decadence. As I finalize, it is better to have your child with a C plus, but they have good morals rather than have a child with an A plus, but is a person who takes drugs day-in, day-out, giving their parents problems. Mr. Speaker Sir, I beg to support this Statement."
     },
     {
-      "order": 136,
+      "order": 137,
       "id": "entry-940541",
       "label": "speech",
       "level": "2",
@@ -1635,7 +1647,7 @@
       "text": "Finally, proceed, Sen. Shiyonga."
     },
     {
-      "order": 137,
+      "order": 138,
       "id": "entry-940542",
       "label": "speech",
       "level": "2",
@@ -1647,7 +1659,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for allowing me to support this Statement. I want to congratulate Sen. Wetangula for this Statement. It is timely, as examinations are taking place in this country. It is disheartening to see heavily deployed police officers manning examination centres. The deployment of these police officers does not amount to making our children any cleverer than what they have learnt for the four or eight years they have been in school. Who said that when police officers man these examinations, there will be decrease in cheating? In fact, we see cheating continuing to take place. The children that are being guarded are still underage. Those who were doing primary school examinations are aged between 12 and 13 years old. You look at this child and there is a police officer passing by with a gun, what do you expect this child to remember when they see a gun? Do they remember the gun or what they read? Mr. Speaker, Sir, it is so absurd and intimidating for the Ministry of Education to think that when they deploy police officers to rotate in classrooms, the children are going to pass, or that anything fishy is not going to happen. Law enforcement in this country has turned to be another scam. Why do I say this? Despite the heavy deployment of these police officers, who are supposed to take care of the robberies that are happening all over in town, they have turned to our children to make sure that children are intimidated. Mr. Speaker Sir, I want to conclude by saying that it remains outside the status of the system that is supposed to guard our children. If you look at the incident that happened in Tharaka-Nithi, it scares the children and even gives the parents an attitude that the schools have turned into other institutions, where if a child is not stealing the examinations, they are supposed to be manned to pass. It is so bad and unworthy. Law enforcement officers should deal with what they are supposed to do. The police officers have been turned into a sweeping broom. They are just doing any work that any other officer or person thinks that if they can misuse the police officer, then it is the best work they can do. Let the police officers do the work that they have been trained to do, instead of being misused by the Executive to do what they are not meant for. Mr. Speaker Sir, I support this Statement. If possible, let the police officers be removed with immediate effect, even before the Statement goes to the Committee. Let them be deployed to where they are supposed to be deployed. These police officers are supposed to be somewhere in a forest. They are supposed to be somewhere in---"
     },
     {
-      "order": 138,
+      "order": 139,
       "id": "entry-940544",
       "label": "speech",
       "level": "2",
@@ -1659,7 +1671,7 @@
       "text": "What would they be doing in a forest?"
     },
     {
-      "order": 139,
+      "order": 140,
       "id": "entry-940545",
       "label": "speech",
       "level": "2",
@@ -1671,7 +1683,7 @@
       "text": "They need to man the forests. These police officers are supposed to be somewhere on the border guarding our country, and not guarding the children we gave birth to. I am speaking this with a lot of bitterness, and it is better for you to allow me to talk because I am a mother. I see my child being guarded like he is a thief, yet I have taken all the time to make sure that my child sits comfortable in the classroom; reading, revising and is ready for the examination. Then somebody armed with an AK 47 rifle is deployed there to guard them as they do their exams. Could the CS in charge of the police address this matter urgently? I am so annoyed, because I saw it on television. If I was allowed, I would have chased these people away like yesterday. Mr. Speaker Sir, I beg to support."
     },
     {
-      "order": 140,
+      "order": 141,
       "id": "entry-940546",
       "label": "speech",
       "level": "2",
@@ -1683,7 +1695,7 @@
       "text": "I know you have a lot of passion."
     },
     {
-      "order": 141,
+      "order": 142,
       "id": "entry-940547",
       "label": "speech",
       "level": "2",
@@ -1695,7 +1707,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity to make my comment on this. First, I would like to thank Sen. Wetangula for the great concern displayed in this Statement. I still believe, like Sen. Sakaja said, that we are in a country where our children are not friendly to the police. In most of the villages, they only saw the police for the first-time during the examinations. This creates a lot of terror and fear in our children during examination period. Instead, the Government should invest in creating a culture of honesty among our children, so as to avoid the heavy presence of armed policemen during examinations. From the pictures that were shared in the social media, we saw the policemen doing terrible things. They gave firearms to young children, who would then pose for photos while carrying them. That indiscipline level should not be taken lightly. It is interesting to note that we have shortage of police officers in areas where we have criminal activities, yet a number of them are found in places where their services are not heavily or seriously needed. If their main responsibility is to secure the exams, then they should stay at the dispatch points, around the gate or go round the school compound. They should not be allowed to enter the classrooms where the students are doing the exams. I was also not happy with the hypocrisy portrayed in the last minutes by the high ranking Cabinet Secretaries who went into the examination rooms."
     },
     {
-      "order": 142,
+      "order": 143,
       "id": "entry-940548",
       "label": "speech",
       "level": "2",
@@ -1707,7 +1719,7 @@
       "text": "On a point of order, Mr, Speaker, Sir."
     },
     {
-      "order": 143,
+      "order": 144,
       "id": "entry-940549",
       "label": "speech",
       "level": "2",
@@ -1719,7 +1731,7 @@
       "text": "What is your point of order, Sen. Sakaja?"
     },
     {
-      "order": 144,
+      "order": 145,
       "id": "entry-940550",
       "label": "speech",
       "level": "2",
@@ -1731,7 +1743,7 @@
       "text": "Mr. Speaker, Sir, this Statement is under Standing Order No. 48(1). It is being sought from the Committee on Education, and this is the Chairperson of that Committee. Is the Chairperson giving us a response or telling us the areas that he will be looking into? He is being prejudicial and we thought that all sides need to be listened to in the Committee. It is only after doing so that he can come back with an answer. As Chairpersons, we do restrain ourselves from giving our opinion when a Statement is sought from our Committees. Please guide us."
     },
     {
-      "order": 145,
+      "order": 146,
       "id": "entry-940551",
       "label": "speech",
       "level": "2",
@@ -1743,7 +1755,7 @@
       "text": "I actually thought that the Chairperson would tell us when he will give this House a report."
     },
     {
-      "order": 146,
+      "order": 147,
       "id": "entry-940552",
       "label": "speech",
       "level": "2",
@@ -1755,7 +1767,7 @@
       "text": "On a point of order, Mr, Speaker, Sir."
     },
     {
-      "order": 147,
+      "order": 148,
       "id": "entry-940553",
       "label": "speech",
       "level": "2",
@@ -1767,7 +1779,7 @@
       "text": "What is your point of order, Sen. Wetangula?"
     },
     {
-      "order": 148,
+      "order": 149,
       "id": "entry-940554",
       "label": "speech",
       "level": "2",
@@ -1779,7 +1791,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I want to thank my distinguished nephew, the Senator for Nairobi City County, for that point of order. My good friend, the Senator for Bomet County, is always very studious and thorough. He has listened to almost half the House express disgust, concern, fear and outrage at the militarisation of examinations in this country. I would have expected him to note these serious concerns and give the House a date when he will summon the mandarins of Jogoo House for us to appear and interrogate them."
     },
     {
-      "order": 149,
+      "order": 150,
       "id": "entry-940555",
       "label": "speech",
       "level": "2",
@@ -1791,7 +1803,7 @@
       "text": "On a point of order, Mr, Speaker, Sir."
     },
     {
-      "order": 150,
+      "order": 151,
       "id": "entry-940556",
       "label": "speech",
       "level": "2",
@@ -1803,7 +1815,7 @@
       "text": "What is your point of intervention, Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 151,
+      "order": 152,
       "id": "entry-940557",
       "label": "speech",
       "level": "2",
@@ -1815,7 +1827,7 @@
       "text": "Thank you, Mr. Speaker, Sir. The distinguished nephew of Sen. Wetangula has shared my concern. I was wondering why the Chairperson was so concerned like all of us. He is lamenting like all of us, yet he occupies a different position from us. The exams are ongoing and the concern that caused Sen. Shiyonga not to name the gun properly, the AK-47, is something that you must handle before the exams are completed. It is my hope that you will issue some directions. I do not know if it will be a Statement directed to the Cabinet Secretary, but we need to understand if our children are terrorists. We need to understand what is going on for our children to go to school comfortably and sit for the exams without the fear of guns."
     },
     {
-      "order": 152,
+      "order": 153,
       "id": "entry-940558",
       "label": "speech",
       "level": "2",
@@ -1827,7 +1839,7 @@
       "text": "On a point of order, Mr, Speaker, Sir."
     },
     {
-      "order": 153,
+      "order": 154,
       "id": "entry-940559",
       "label": "speech",
       "level": "2",
@@ -1839,7 +1851,7 @@
       "text": "What is your point of intervention, Sen. Cherargei?"
     },
     {
-      "order": 154,
+      "order": 155,
       "id": "entry-940560",
       "label": "speech",
       "level": "2",
@@ -1851,7 +1863,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I agree with my colleagues. The Kenya Certificate of Secondary Examination (KCSE) started the other day and it is important that this matter be handled with the urgency that it deserves. You can direct the Cabinet Secretary in charge of Education, Prof. George Magoha, and the Inspector General of Police to appear before the Committee of the Whole that will be guided by the Committee on Education led by Sen. (Dr.) Langat, for this issue to cease. The police intimidate and scare children, and some of them might not perform to their level best as we expect them to."
     },
     {
-      "order": 155,
+      "order": 156,
       "id": "entry-940561",
       "label": "speech",
       "level": "2",
@@ -1863,7 +1875,7 @@
       "text": "Can the Chairperson of the Committee on Education provide an answer in the next one minute?"
     },
     {
-      "order": 156,
+      "order": 157,
       "id": "entry-940562",
       "label": "speech",
       "level": "2",
@@ -1875,7 +1887,7 @@
       "text": "Mr. Speaker, Sir, I think that the matter is very serious. The Members have expressed their concern and I would like to request that we be given two weeks to handle this."
     },
     {
-      "order": 157,
+      "order": 158,
       "id": "entry-940563",
       "label": "speech",
       "level": "2",
@@ -1887,7 +1899,7 @@
       "text": "I have directed that you bring a report on Wednesday next week, which is one week. I am sure that you can get these people. They are all in Nairobi. It is so directed."
     },
     {
-      "order": 158,
+      "order": 159,
       "id": "entry-940564",
       "label": "speech",
       "level": "2",
@@ -1899,7 +1911,7 @@
       "text": "Mr. Speaker, Sir, we will act accordingly."
     },
     {
-      "order": 159,
+      "order": 160,
       "id": "entry-940565",
       "label": "heading",
       "level": "1",
@@ -1911,7 +1923,7 @@
       "text": "COMMUNICATION FROM THE CHAIR"
     },
     {
-      "order": 160,
+      "order": 161,
       "id": "entry-940566",
       "label": "heading",
       "level": "2",
@@ -1923,7 +1935,7 @@
       "text": "VISITING DELEGATION OF THE PUBLIC ACCOUNTS AND INVESTMENTS COMMITTEE, VIHIGA COUNTY ASSEMBLY"
     },
     {
-      "order": 161,
+      "order": 162,
       "id": "entry-940567",
       "label": "speech",
       "level": "2",
@@ -1935,7 +1947,7 @@
       "text": "Hon. Members, I have a Communication. I would like to acknowledge the presence in the Public Gallery this afternoon of a visiting delegation from Vihiga County Assembly, Public Accounts and Investments Committee. I request each member of the delegation to stand when called out, for them to be acknowledged in the Senate tradition. They are - (1) Hon. Vincent Atsiaya - Chairperson (2) Hon. Wycliffe Masini - Vice Chairperson (3) Hon. Clementine Osodo - Member (4) Hon. Manoah Mboku - Member (5) Hon. Patrick Akhwale - Member (6) Hon. Paul Tirra - Member (7) Hon. Jackie Mwenesi - Member (8) Ms. Raychelle Syamba - PAIC CEO (9) Ms. Emile Aston - Researcher (10) Mr. Myke Oloo - Payroll Manager (11) Ms. Brenda Ajema - Internal Auditor On behalf of the Senate and my own behalf, I welcome them to the Senate and wish them well for the remainder of their stay. I thank you."
     },
     {
-      "order": 162,
+      "order": 163,
       "id": "entry-940577",
       "label": "scene",
       "level": "2",
@@ -1947,7 +1959,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 163,
+      "order": 164,
       "id": "entry-940578",
       "label": "speech",
       "level": "2",
@@ -1959,7 +1971,7 @@
       "text": "Mr. Speaker, Sir, allow me to join you and the House at large in welcoming the great delegation from the County Assembly of Vihiga. The members of the Public Accounts and Investments Committee of Vihiga County Assembly are in town because the Governor for Vihiga County was appearing before our County Public Accounts and Investment Committee (CPAIC). They came as friends of the Committee to witness what was happening today. We spent the whole day with them and I want to remind them that they are our first line of defence when it comes to oversight matters. We are partners in this and have to ensure that devolution works. We have to ensure that monies that we send from here benefit the people in the counties as it is supposed to be. I want to hail them for the good job that they are doing because the Chairperson of CPAIC, Sen. M. Kajwang', told us that it is only Vihiga County Assembly that has interrogated, debated and adopted the Auditor General's Report for the Financial Year 2013/2014. They have also looked at the Auditor General's Report for the financial years 2014/2015 and 2015/2016. I want to thank them for the good job they are doing for the people of Vihiga County, but they still have a long way to go. They all witnessed what happened today and heard the answers that were given by the executive. It tells them that we have a long way to go. Devolution is not benefitting our people as it was envisaged in the Constitution, and it is our duty to ensure that it does and works. Thank you and welcome to Nairobi."
     },
     {
-      "order": 164,
+      "order": 165,
       "id": "entry-940580",
       "label": "speech",
       "level": "2",
@@ -1971,7 +1983,7 @@
       "text": "We will listen to Sen. Omanga, on behalf of the Chairperson of CPAIC."
     },
     {
-      "order": 165,
+      "order": 166,
       "id": "entry-940581",
       "label": "speech",
       "level": "2",
@@ -1983,7 +1995,7 @@
       "text": "Mr. Speaker, Sir, on behalf of the Chairman of the County Public Accounts and Investment Committee (CPAIC), I take this opportunity to welcome the Public Accounts and Investments Committee from Vihiga County. We took a deliberate move as a Committee to be inviting the Public Accounts and Investments Committee members when we call the executive, so that we have that peer benchmarking. This is because most of our county assemblies are not well equipped to do oversight. It was a deliberate move and I want to tell this House that it is actually working. The Members of County Assemblies (MCAs) appreciate that they are able to do their work much better. Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 166,
+      "order": 167,
       "id": "entry-940582",
       "label": "speech",
       "level": "2",
@@ -1995,7 +2007,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I want to join you, the Senator for Vihiga County and Sen. Omanga in welcoming members of Public Accounts and Investments Committee from Vihiga County Assembly. Those of us who have had an opportunity to visit Vihiga have seen they are working to be a model on how to run their committees. I want to thank them for coming to benchmark with us. They are always welcome and need to do this more, so that they do their oversight role effectively. I urge them to ensure resources in their county are prudently managed for the benefit of their people."
     },
     {
-      "order": 167,
+      "order": 168,
       "id": "entry-940583",
       "label": "speech",
       "level": "2",
@@ -2007,7 +2019,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I would also like to join my colleagues in welcome members of the Public Accounts and Investments Committee from Vihiga County to the Senate. I see my great friends there and party members. It is worth noting that Amani National Congress (ANC) Party is the majority party in Vihiga County Assembly. I am glad to hear that they are doing a great job in checking the County Government of Vihiga. I welcome them to this House and also join my colleagues to remind them that they are our first line of defence. We are living in interesting political times and they have seen it in the Senate today. Therefore, do not let us down. Do your job properly, so that we can do ours better. Thank you very much and be blessed."
     },
     {
-      "order": 168,
+      "order": 169,
       "id": "entry-940584",
       "label": "speech",
       "level": "2",
@@ -2019,7 +2031,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I want to join you in welcoming officially the delegation from Vihiga County to Nairobi City County. I am the one who welcomes people to Nairobi City County. I am sure they are proud to see one of their own representing Nairobi as well. Vihiga County is like home. I am glad that they have come to this county and that CPAIC has started the practice of inviting their counterpart committees when they are interrogating their counties. Vihiga County is very close to my heart. As they go in full tradition I will send them with greetings. As you go to Vihiga, please, pass by Shalom and greet my mother there. Vihiga County is a county with challenges, just like Nairobi City County. The recently released census show that it is the third highest population density in this country after Nairobi. This urban challenges require not just to see Vihiga as a rural county, but as an urban county. Many times we talk about Nairobi, Kisumu and Mombasa counties and ignore counties like Vihiga, yet they face similar challenges of urban poverty in many areas. We were there recently addressing security issues that happened at Kilingili, where we lost a number of watchmen. Kilingili borders both counties. I hope that the security situation has improved. I hope Sen. Khaniri will be able to tell us whether the commitments made when we went there with the Committee on National Security, Defence and Foreign Relations by the county commander, et cetera, have been implemented. I want to thank and wish them a lovely stay in Nairobi City County."
     },
     {
-      "order": 169,
+      "order": 170,
       "id": "entry-940585",
       "label": "speech",
       "level": "2",
@@ -2031,7 +2043,7 @@
       "text": ".: Thank you, Mr. Speaker, Sir. I only want to say two things. The Senator of Vihiga County is possibly the only one who has a record of addressing the Assembly of Vihiga every year and more times than anybody else. As I welcome the Members from Vihiga County Assembly, I would like to tell them that their Senator is Senator Number One out of the longevity of service and hierarchy. You have a good Senator. However, what I am worried about is that in the last Senate, Vihiga was number one in terms of petitions on mismanagement of public resources. I hope that now that we do not receive those petitions - I am not sure how to interpret it - it means you are doing well in Vihiga. Lastly, Sen. Khaniri has been on the forefront of ensuring the border disputes with your neighbours are resolved amicably. I have tried my level best as the Senator for Makueni to have a County Boundaries Bill. When you go to Vihiga, go on your knees pray for the Members of the National Assembly to see it fit to have a framework for determining disputes on boundaries."
     },
     {
-      "order": 170,
+      "order": 171,
       "id": "entry-940586",
       "label": "speech",
       "level": "2",
@@ -2043,7 +2055,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I want to join my colleagues in welcoming the Members from Vihiga County Assembly. As the Senate Deputy Minority Leader, I want to take this opportunity to welcome you to the Senate and also tell you that county assemblies are platforms that nurture leadership. I am a product of the county assembly, not only as a Senator, but also in the leadership of Senate. This is my INEOS 1:59. Secondly, I want also to take this opportunity tell the MCAs from Vihiga County that they have a wonderful Senator. He has been my mentor when I came to this House. He has a lot of prowess in Standing Orders. In fact, I refer to him as 'walking Standing Orders' because he guides me always when I go astray. You have a very able Senator. Lastly, I would like to urge the MCAs together with the Senators to remain focused on the issue of protecting the interest of devolution. Devolution is now at risk because many people are fighting it. It is our sole responsibility as leaders to ensure that we remain at the forefront to cushion its interest. Recently, we saw the National Assembly try to arm-twist us to accept a lesser amount of money to go to the counties. I believe that the objective of the Building Bridges Initiative (BBI) is to strengthen devolution. I would like to urge the MCAs to support it when it is made public."
     },
     {
-      "order": 171,
+      "order": 172,
       "id": "entry-940588",
       "label": "speech",
       "level": "2",
@@ -2055,7 +2067,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 172,
+      "order": 173,
       "id": "entry-940589",
       "label": "speech",
       "level": "2",
@@ -2067,7 +2079,7 @@
       "text": "What is your point of intervention, Sen. Cherargei? Sen. Malalah, you are wading in dangerous waters now."
     },
     {
-      "order": 173,
+      "order": 174,
       "id": "entry-940590",
       "label": "speech",
       "level": "2",
@@ -2079,7 +2091,7 @@
       "text": "Mr. Speaker, Sir, is it in order for the Senate Deputy Minority Leader, to divulge the contents of BBI document, yet we have not seen it? Is it in order for him to tells us what is in the contents, yet the President has not received the report?"
     },
     {
-      "order": 174,
+      "order": 175,
       "id": "entry-940591",
       "label": "speech",
       "level": "2",
@@ -2091,7 +2103,7 @@
       "text": "Yes, he is out of order because it is just a rumour that there is something like that."
     },
     {
-      "order": 175,
+      "order": 176,
       "id": "entry-940592",
       "label": "speech",
       "level": "2",
@@ -2103,7 +2115,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 176,
+      "order": 177,
       "id": "entry-940593",
       "label": "speech",
       "level": "2",
@@ -2115,7 +2127,7 @@
       "text": "What is your point of Order, Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 177,
+      "order": 178,
       "id": "entry-940594",
       "label": "speech",
       "level": "2",
@@ -2127,7 +2139,7 @@
       "text": "Sen. Cherargei, my Chairman of the Committee on Legal Affairs and Human Rights, is very famous for preaching water and drinking wine. Every time I see him on television, he talks about BBI. Which BBI is he always referring to? Is it the same one you are referring to and issued threats about, the one that Sen. Malalah alluded to? I think Sen. Malalah is allowed to issue an opinion, since there is no document about what will be issued. There are press conferences issued from both sides of the divide about it. I think to that extent he is only expressing his wish. The Chairman of the Committee on Legal Affairs and Human Rights went and presented on behalf of the Committee and the Senate a report to the BBI. Who is that you presented the report to?"
     },
     {
-      "order": 178,
+      "order": 179,
       "id": "entry-940595",
       "label": "speech",
       "level": "2",
@@ -2139,7 +2151,7 @@
       "text": "Sen. Mutula Kilonzo Jnr., what is spoken in funerals and other places is different from what is spoken on the Floor of the House. We have not received any report like BBI."
     },
     {
-      "order": 179,
+      "order": 180,
       "id": "entry-940596",
       "label": "speech",
       "level": "2",
@@ -2151,7 +2163,7 @@
       "text": "Mr. Speaker, Sir, the matter of the BBI, in legal terms, is referred to as a matter of public notoriety. So, even when it is spoken at funerals, you take judicial notice of a matter of public notoriety under the Evidence Act. What I was simply saying is that reference to BBI in funerals, churches and this platform is the same. This is because, while the Speaker truly knows it is not a report, when the able Senate Deputy Minority Leader and Senator of Kakamega County talks about BBI, I think that he is referring to the same thing; not that he has seen the report because he would not have seen it. Thank you."
     },
     {
-      "order": 180,
+      "order": 181,
       "id": "entry-940597",
       "label": "speech",
       "level": "2",
@@ -2163,7 +2175,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. The excitement by Sen. Cherargei is really quite telling. An event cannot become suddenly unofficial, yet he presented officially on behalf of the Senate to that forum. I have been standing in for the Chairperson of the Committee on National Security, Defence and Foreign Relations, because my Chairperson sought official leave and letters from your office to go and chair the BBI meetings. Now that he is done, he is coming back. Let us allow all shades of political opinion; those who support BBI, whether or not you know what is in, but being the spirit behind it because you know the nine issues. Those who supported Punguza Mizigo Initiative, which was also punguzwadna ikaisha--- This is a country of freedom of expression so long as the Members do not talk about anything that is against the Standing Orders, a rumour or table newspaper evidence in front of the House; anything goes. Mr. Speaker, Sir, we are very lucky in the Senate that we have a Speaker like you. This is because you saw in the other House people being gagged. The word 'Parliament' comes from the route Latin of ' Parle'; parlance, to speak and talk. We should never allow the curtailment of that freedom in this House. So, let the 'deputy super Senator'--- He calls himself 'super Senator' in Kakamega, but here he is 'deputy super;' I can also continue."
     },
     {
-      "order": 181,
+      "order": 182,
       "id": "entry-940598",
       "label": "speech",
       "level": "2",
@@ -2175,7 +2187,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. You cannot allow these people to get away with rumours in the House."
     },
     {
-      "order": 182,
+      "order": 183,
       "id": "entry-940599",
       "label": "scene",
       "level": "2",
@@ -2187,7 +2199,7 @@
       "text": "(Loud Consultations)"
     },
     {
-      "order": 183,
+      "order": 184,
       "id": "entry-940600",
       "label": "speech",
       "level": "2",
@@ -2199,7 +2211,7 @@
       "text": "Order, Hon. Senators."
     },
     {
-      "order": 184,
+      "order": 185,
       "id": "entry-940601",
       "label": "speech",
       "level": "2",
@@ -2211,7 +2223,7 @@
       "text": "Mr. Speaker, Sir, my apologies. What I wanted to say is that Sen. Mutula Kilonzo Jnr. has made a very serious statement in the House. What Sen. Cleophas Malalah said is that in the BBI Report, there are issues in support of devolution. What I have been saying in whichever forum I have been addressing is that I hope the contents of issues of the BBI--- Sen. Cleophas Malala is insisting that in the Report there are issues, yet the President and even his party leader, whom we have chased from his bedroom in Kibra---"
     },
     {
-      "order": 185,
+      "order": 186,
       "id": "entry-940602",
       "label": "speech",
       "level": "2",
@@ -2223,7 +2235,7 @@
       "text": "Order, Sen. Cherargei! You are even wading into more dangerous areas, as much as you are trying to--- Hon. Members, let us try to be relevant, so that we do not lose track of what we are saying. Sen. Malalah."
     },
     {
-      "order": 186,
+      "order": 187,
       "id": "entry-940603",
       "label": "speech",
       "level": "2",
@@ -2235,7 +2247,7 @@
       "text": "Thank you, Mr. Speaker, Sir. In my valedictory remarks, because I do not want to delve deep into this matter, I want to remind my good neighbour from Nandi that the membership of BBI was gazetted and the terms of reference are very clear. They include and not limited to inclusivity, equal distribution of resources, corruption, which you are a friend to and---"
     },
     {
-      "order": 187,
+      "order": 188,
       "id": "entry-940604",
       "label": "scene",
       "level": "2",
@@ -2247,7 +2259,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 188,
+      "order": 189,
       "id": "entry-940606",
       "label": "speech",
       "level": "2",
@@ -2259,7 +2271,7 @@
       "text": "Order, Sen. Malalah! Let us be serious. Let us not make such references to colleagues. That is out of order."
     },
     {
-      "order": 189,
+      "order": 190,
       "id": "entry-940607",
       "label": "speech",
       "level": "2",
@@ -2271,7 +2283,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. Is it in order for Sen. Cleophas Malala, through innuendos, to point fingers towards me as if I am in any way associated with issues of corruption? I am leading in terms of the fight against corruption as the Chairperson of the Committee on Justice, Legal Affairs and Human Rights? Could he withdraw?"
     },
     {
-      "order": 190,
+      "order": 191,
       "id": "entry-940608",
       "label": "speech",
       "level": "2",
@@ -2283,7 +2295,7 @@
       "text": "Actually, Sen. Malalah, you are completely out of order. Can you withdraw and apologise?"
     },
     {
-      "order": 191,
+      "order": 192,
       "id": "entry-940609",
       "label": "speech",
       "level": "2",
@@ -2295,7 +2307,7 @@
       "text": "I am not used to withdrawing, but I will withdraw today."
     },
     {
-      "order": 192,
+      "order": 193,
       "id": "entry-940610",
       "label": "scene",
       "level": "2",
@@ -2307,7 +2319,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 193,
+      "order": 194,
       "id": "entry-940611",
       "label": "speech",
       "level": "2",
@@ -2319,7 +2331,7 @@
       "text": "Mr. Speaker, Sir, I withdraw and apologize to my good friend. In my Literature class, we were taught about similes, metaphors and other expressions. So, when I stand here and apply those techniques, let him appreciate my prowess in Literature. Otherwise, I want to welcome the good Members of Vihiga County Assembly to this good House. May the good Lord bless you. Thank you."
     },
     {
-      "order": 194,
+      "order": 195,
       "id": "entry-940612",
       "label": "speech",
       "level": "2",
@@ -2331,7 +2343,7 @@
       "text": "I think we have done enough welcoming to Vihiga County, and we need to make progress. Before we proceed, I will ask Sen. Sakaja to lay his Papers. We go back to Order No.5."
     },
     {
-      "order": 195,
+      "order": 196,
       "id": "entry-940613",
       "label": "heading",
       "level": "1",
@@ -2343,7 +2355,7 @@
       "text": "PAPERS LAID"
     },
     {
-      "order": 196,
+      "order": 197,
       "id": "entry-940614",
       "label": "speech",
       "level": "1",
@@ -2355,7 +2367,7 @@
       "text": "Thank you, Mr. Speaker, Sir for your very kind indulgence. I beg to lay the following Papers on the Table of the Senate today, Wednesday, 6th November, 2019."
     },
     {
-      "order": 197,
+      "order": 198,
       "id": "entry-940615",
       "label": "heading",
       "level": "2",
@@ -2367,7 +2379,7 @@
       "text": "REPORT ON CONSIDERATION OF THE ESTABLISHMENT OF CHILDREN'S HOMES BILL (SENATE BILLS NO. 12 OF 2019)"
     },
     {
-      "order": 198,
+      "order": 199,
       "id": "entry-940616",
       "label": "speech",
       "level": "2",
@@ -2379,7 +2391,7 @@
       "text": "Report of the Standing Committee on Labour and Social Welfare on the consideration of the establishment of The Children's Home Bill (Senate Bills No.12 of 2019)."
     },
     {
-      "order": 199,
+      "order": 200,
       "id": "entry-940617",
       "label": "heading",
       "level": "2",
@@ -2391,7 +2403,7 @@
       "text": "REPORT ON THE 2TH SESSION OF THE CONFERENCE OF PARTIES TO THE CONVENTION ON THE RIGHTS OF PWDS"
     },
     {
-      "order": 200,
+      "order": 201,
       "id": "entry-940618",
       "label": "speech",
       "level": "2",
@@ -2403,7 +2415,7 @@
       "text": "Report of the Standing Committee on Labour and Social Welfare on the 12th Session of the Conference of Parties to the Convention of the Rights of Persons with disabilities, held at the United Nations Headquarters in New York, USA, from 11th to 13th June, 2019. Thank you very much."
     },
     {
-      "order": 201,
+      "order": 202,
       "id": "entry-940619",
       "label": "scene",
       "level": "2",
@@ -2415,7 +2427,7 @@
       "text": "(Sen. Sakaja laid the documents on the Table)"
     },
     {
-      "order": 202,
+      "order": 203,
       "id": "entry-940620",
       "label": "speech",
       "level": "2",
@@ -2427,7 +2439,7 @@
       "text": "So, Hon. Senators, I will defer Order Nos. 9, 10, 11 and 12. We will then go to Order No.13, which is resumption debate on the adoption of report of Sessional Committee on County Public Accounts and Investments on accounts of county governments for the Financial Year 2014/2015."
     },
     {
-      "order": 203,
+      "order": 204,
       "id": "entry-940621",
       "label": "heading",
       "level": "1",
@@ -2439,7 +2451,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 204,
+      "order": 205,
       "id": "entry-940622",
       "label": "heading",
       "level": "2",
@@ -2451,7 +2463,7 @@
       "text": "THE RETIREMENT BENEFITS (DEPUTY PRESIDENT AND DESIGNATED STATE OFFICERS) (AMENDMENT) BILL (SENATE BILLS NO.2 OF 2018)"
     },
     {
-      "order": 205,
+      "order": 206,
       "id": "entry-940623",
       "label": "scene",
       "level": "2",
@@ -2463,7 +2475,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 206,
+      "order": 207,
       "id": "entry-940624",
       "label": "heading",
       "level": "1",
@@ -2475,7 +2487,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 207,
+      "order": 208,
       "id": "entry-940625",
       "label": "heading",
       "level": "2",
@@ -2487,7 +2499,7 @@
       "text": "THE KENYA MEDICAL SUPPLIES AUTHORITY (AMENDMENT) BILL (SENATE BILLS NO.38 OF 2018)"
     },
     {
-      "order": 208,
+      "order": 209,
       "id": "entry-940626",
       "label": "scene",
       "level": "2",
@@ -2499,7 +2511,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 209,
+      "order": 210,
       "id": "entry-940627",
       "label": "heading",
       "level": "1",
@@ -2511,7 +2523,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 210,
+      "order": 211,
       "id": "entry-940628",
       "label": "heading",
       "level": "2",
@@ -2523,7 +2535,7 @@
       "text": "THE CANCER PREVENTION AND CONTROL (AMENDMENT) BILL (SENATE BILLS NO.9 OF 2019)"
     },
     {
-      "order": 211,
+      "order": 212,
       "id": "entry-940629",
       "label": "scene",
       "level": "2",
@@ -2535,7 +2547,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 212,
+      "order": 213,
       "id": "entry-940630",
       "label": "heading",
       "level": "1",
@@ -2547,7 +2559,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 213,
+      "order": 214,
       "id": "entry-940631",
       "label": "heading",
       "level": "2",
@@ -2559,7 +2571,7 @@
       "text": "THE COUNTY HALL OF FAME BILL (SENATE BILLS NO.39 OF 2018)"
     },
     {
-      "order": 214,
+      "order": 215,
       "id": "entry-940632",
       "label": "scene",
       "level": "2",
@@ -2571,7 +2583,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 215,
+      "order": 216,
       "id": "entry-940633",
       "label": "heading",
       "level": "1",
@@ -2583,7 +2595,7 @@
       "text": "MOTION"
     },
     {
-      "order": 216,
+      "order": 217,
       "id": "entry-940634",
       "label": "heading",
       "level": "3",
@@ -2595,7 +2607,7 @@
       "text": "ADOPTION OF CPAIC REPORT ON INQUIRY INTO FINANCIAL OPERATIONS OF VARIOUS COUNTIES FOR FY2014/2015"
     },
     {
-      "order": 217,
+      "order": 218,
       "id": "entry-940635",
       "label": "speech",
       "level": "3",
@@ -2607,7 +2619,7 @@
       "text": "THAT, the Senate adopts the Report of the Sessional Committee on County Public Accounts and Investments on the Inquiry into the"
     },
     {
-      "order": 218,
+      "order": 219,
       "id": "entry-940636",
       "label": "speech",
       "level": "3",
@@ -2619,7 +2631,7 @@
       "text": "Financial Operations of Baringo, Busia, Elgeyo-Marakwet, Embu, Kajiado, Kericho, Kilifi, Kirinyaga, Kisii, Kwale, Lamu, Makueni, Marsabit, Meru, Nakuru, Narok, Nyamira, Uasin Gishu, Vihiga and West Pokot Counties for Financial year 2014/2015 (1st July, 2014 to 30th June, 2015), laid on the Table of the Senate on Wednesday, 9th October, 2019."
     },
     {
-      "order": 219,
+      "order": 220,
       "id": "entry-940637",
       "label": "scene",
       "level": "3",
@@ -2631,7 +2643,7 @@
       "text": "(Sen. M. Kajwang' on 22.10.2019)"
     },
     {
-      "order": 220,
+      "order": 221,
       "id": "entry-940638",
       "label": "scene",
       "level": "3",
@@ -2643,7 +2655,7 @@
       "text": "(Resumption of debate interrupted on 23.10.2019)"
     },
     {
-      "order": 221,
+      "order": 222,
       "id": "entry-940639",
       "label": "speech",
       "level": "3",
@@ -2655,7 +2667,7 @@
       "text": "Sen. Aaron Cheruiyot was on the Floor, and he concluded. Is there any Member who wants to make a contribution to that? That concludes debate on that matter. I shall defer putting the question."
     },
     {
-      "order": 222,
+      "order": 223,
       "id": "entry-940640",
       "label": "scene",
       "level": "3",
@@ -2667,7 +2679,7 @@
       "text": "(Putting of the question on the Motion deferred)"
     },
     {
-      "order": 223,
+      "order": 224,
       "id": "entry-940641",
       "label": "scene",
       "level": "3",
@@ -2679,7 +2691,7 @@
       "text": "[The Speaker (Hon. Lusaka) left the Chair]"
     },
     {
-      "order": 224,
+      "order": 225,
       "id": "entry-940642",
       "label": "scene",
       "level": "3",
@@ -2691,7 +2703,7 @@
       "text": "[Temporary Speaker (Sen. (Dr.) Lelegwe) in the Chair]"
     },
     {
-      "order": 225,
+      "order": 226,
       "id": "entry-940643",
       "label": "heading",
       "level": "1",
@@ -2703,7 +2715,7 @@
       "text": "POINT OF ORDER"
     },
     {
-      "order": 226,
+      "order": 227,
       "id": "entry-940644",
       "label": "heading",
       "level": "2",
@@ -2715,7 +2727,7 @@
       "text": "FAILURE BY SENATORS TO EXECUTE BUSINESS LISTED ON THE ORDER PAPER"
     },
     {
-      "order": 227,
+      "order": 228,
       "id": "entry-940645",
       "label": "speech",
       "level": "2",
@@ -2727,7 +2739,7 @@
       "text": "On a point of order, Mr. Temporary Speaker, Sir, earlier on in this Session, we raised the matter of Members being absent when their business is on the Floor. This matter was to be dealt with by the Senate Business Committee, which the good Speaker chairs. If you look at Order Nos.10, 11, 12; the Committee of the Whole, some of us as Chairpersons have been waiting for months to move our amendments on these Bills. However, when the business appears in the Order Paper, we find that the Member or mover, et cetera is not here. The Standing Orders provide that when an item comes up and the Member who is moving it is not here, it is dropped from the Order Paper. Kindly give us a ruling because we cannot keep coming as Chairpersons, when we have matters to deal with on behalf of the Committee--- We also have county matters to deal with and have other ad hoc Committees. These Bills have stayed here for a year. For instance, with regard to the one on Retirement, the Mover, Sen. Ledama, was here. I do not know where he has gone to. Likewise, Sen. (Dr). Ali and Sen. Mary Seneta were here. What business are we doing? Kindly give definitive direction; if a Member is not here, as per the Standing Orders, then the matter is dropped from the Order Paper, so that we cannot just be coming--- Other Members have matters that are never reached because these ones are parking on the Order Paper. Mr. Temporary Speaker, Sir, kindly, for the sake of the convenience of the House, we need direction on this matter."
     },
     {
-      "order": 228,
+      "order": 229,
       "id": "entry-940649",
       "label": "speech",
       "level": "2",
@@ -2739,7 +2751,7 @@
       "text": "Sen. Mutula Kilonzo Jnr., proceed."
     },
     {
-      "order": 229,
+      "order": 230,
       "id": "entry-940650",
       "label": "speech",
       "level": "2",
@@ -2751,7 +2763,7 @@
       "text": "Mr. Temporary Speaker, Sir, I agree with Sen. Sakaja. In fact, there should be a Communication on Orders No.9, 10, 11 and 12 as to the reasons they have not been transacted, because the Members were here and left after voting. Other than the Committees of Whole, even Members who have Private Members Bills end up thinking that their business will not be reached and, therefore, leave. Someone might think that we do not have work to do because we sometimes adjourn early, yet matters of this nature are on the Order Paper. This is giving the Whips nightmares when doing their work because in most cases, we whip Members to come and present their matters, yet they are not here and there is no good reason. In fact, on this account, invoke the Standing Orders - I am not sure which one - to drop Orders No.9, 10, 11 and 12 out of the Order Paper, so that a lesson can be learnt. Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 230,
+      "order": 231,
       "id": "entry-940653",
       "label": "speech",
       "level": "2",
@@ -2763,7 +2775,7 @@
       "text": "Hon. Senators, the Chair has taken note of the concerns as raised by Sen. Sakaja and Sen. Mutula Kilonzo Jnr. The Chair will take appropriate action on the businesses that are in the Order Paper, where the Members who are responsible are absent. So, necessary action will be taken. Proceed, Sen. Kwamboka."
     },
     {
-      "order": 231,
+      "order": 232,
       "id": "entry-940655",
       "label": "heading",
       "level": "1",
@@ -2775,7 +2787,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 232,
+      "order": 233,
       "id": "entry-940657",
       "label": "heading",
       "level": "3",
@@ -2787,7 +2799,7 @@
       "text": "THE CARE AND PROTECTION OF CHILD PARENTS BILL (SENATE BILLS NO.11 OF 2019)"
     },
     {
-      "order": 233,
+      "order": 234,
       "id": "entry-940658",
       "label": "speech",
       "level": "3",
@@ -2799,7 +2811,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I beg to move that the Care and Protection of Child Parents Bill (Senate Bills No.11 of 2019) be now read a Second Time. Mr. Temporary Speaker, Sir, the principal objective of the Bill is to provide a legal framework for the care and protection of child parents within the counties. The framework is intended to ensure that an expectant child or a child parent may actualise their rights to basic education, and at the same time, ensure proper care of their children as enshrined in Article 53 of the Constitution. Currently, the existing legal framework on institutional care under the Children Act, 2001, the Charitable Children Institutions Regulations of 2005 and the Basic Education Act, 2013 lacks a proper mechanism and framework for its full implementation. Further, the promotion of family-based alternative care as outlined in the National Guidelines for the Alternative Family Care of Children is still in the piloting stage, hence the need for this framework on the care and protection of child parents. Mr. Temporary Speaker Sir, although the Ministry of Labour and Social Welfare has reiterated the Government's intention to enforce the prohibition of registration of---"
     },
     {
-      "order": 234,
+      "order": 235,
       "id": "entry-940660",
       "label": "speech",
       "level": "3",
@@ -2811,7 +2823,7 @@
       "text": "Order, Sen. Kwamboka! You need to move the Bill properly."
     },
     {
-      "order": 235,
+      "order": 236,
       "id": "entry-940661",
       "label": "scene",
       "level": "3",
@@ -2823,7 +2835,7 @@
       "text": "(Sen. Kwamboka consulted with Sen. Mutula Kilonzo Jnr.)"
     },
     {
-      "order": 236,
+      "order": 237,
       "id": "entry-940662",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2847,7 @@
       "text": "Now, proceed and move the Bill properly."
     },
     {
-      "order": 237,
+      "order": 238,
       "id": "entry-940663",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2859,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I beg to move that the Care and Protection of Child Parents Bill (Senate Bills No.11 of 2019) be now read a Second Time. Mr. Temporary Speaker, Sir, let me continue. Although the Ministry of Labour and Social Welfare has reiterated the Government's intention to enforce the prohibition of registration of new charitable children's institutions, the Bill seeks to provide a framework on taking care of pregnant child parents who may face rejection from the society and their own parents. Currently, the school re-entry policy that was passed in 1994 for pregnant girls and the National School Health Policy, 2009 have failed to address the care, protection and reintegration of child parents back to school and society. This Bill, therefore, seeks to provide a legal framework - (a) for the protection of the rights set out under Article 53(1)(c) and (d) of the Constitution in relation to child parents; (b) through which the expectant child or a child parent can realise their right to education and at the same time, ensure the care and protection of his or her child. (c) Of standards for the establishment and regulation of care centres for child parents by county governments. Mr. Temporary Speaker, Sir, let me now delve into the contents of the Bill. Clause 4 of the Bill provides for the obligations of the national Government with respect to child parents that include through the National Council for Children's Services (NCCS) established under Section 30 of the Children Act to - (a) put in place mechanisms to establish a comprehensive capacity building programme for child parents to ensure they practice responsible family life; and, (b) establish, in consultation with the Cabinet Secretary (CS) responsible for matters relating to education, non-discriminatory enrolment, back to school or other training programmes. Clause 5 of the Bill provides for the obligations of a county government with respect to the care of neglected children, which includes collaboration with the County Education Board (CEB) and the County Executive Committee (CEC) member responsible for education in - (a) establishing programmes to ensure that expectant children and child parents have access to education services; (b) formulating and implementing county specific programmes for the integration of expectant children and child parents into society and institutions of basic education within the respective county; and, (c) establishing child care centres for child parents who intend to enrol back to school and who do not have access to support services for the care of their child. Mr. Temporary Speaker Sir, Part III of the Bill provides for the roles of national Government and county governments in the prevention of school dropouts by formulating policies and developing programmes and interventions for the re-admission and integration of children who have dropped out of school by reason of pregnancy. Clause 8 of the Bill provides for the rights of pregnant and parenting students be readmitted or enrolled into an institution of basic education including the right to - (a) remain in school and to receive the necessary support to continue with their education and participate fully during their pregnancy or as a parent student; (b) fully participate in educational programs and activities of the institutions of basic education; and, (c) guidance and support to enable the child to return to her regular education programme after delivery and after the baby is weaned. Mr. Temporary Speaker Sir, in particular, Clause 9 of the Bill provides that the national Government and county governments shall - (a) develop and implement a plan for identifying and re-engaging - (i) children who have dropped out of institutions of basic education owing to teenage pregnancies; and, (ii) vulnerable children who have dropped out of, or who are likely to drop out of institutions of basic education owing to factors beyond their control, in order to ensure that they are readmitted and integrated into the education system; (b) establish partnerships with community based organisations, education providers and other relevant stakeholders in order to - (i) provide a broad range of educational options and services for children who drop out of school under this Part; and (ii) counsel children in schools on adolescent sexuality, responsible behaviour and the consequence of child pregnancies; and (c) ensure that the education system in place takes into account the best interests of children who fall pregnant while in school. Clause 10 of the Bill on management of teenage pregnancies in school provides that the relevant school shall provide the necessary counselling services to the pregnant child and to her parents or guardians regarding the management of the pregnancy, the provision of support services to the child and the parents to ensure the child's emotional stability and wellbeing of the child during and after pregnancy and the importance of continuing with education after delivery. Clause 12 of the Bill provides that every child who drops out of the school by reason of pregnancy shall be admitted back into an institution of basic education unconditionally and be allowed to join at the level at which she is left prior to dropping out. Clause 13 of the Bill on readmission of a pregnant child into an institution and basic education provides that an institution of basic education shall not discriminate against a child who falls pregnant while in school or who is readmitted in school and shall put in place measures to ensure the reintegration of the child back into the school. Mr. Temporary Speaker, Sir, Clause 15 of the Bill on the obligation of the institutions of the basic education provides that an institution of the basic education shall- (a) allow a child who falls pregnant while in school to continue with classes for as long as possible prior to delivery; (b) counsel the child and her parents or guardians on the importance of ensuring good outcome of the pregnancy by attending antenatal clinic and ensuring safe delivery and the possibilities of continuing with education after delivery; (c) provide academic support, parenting and life skills classes and strategies to prevent unplanned pregnancy; and, (d) assist pregnant and parenting students to gain access to affordable child care facilities. Mr. Temporary Speaker, Sir, Part IV of the Bill provides a detailed framework of the establishment of childcare centres within the counties. In particular, Clause 21 of the Bill provides that each county government shall, by a legislation, set out the criteria for the registration of a care centre within the respective county. Nowadays, the care centres are just opened the way people feel like. Most of them are opened because they want to get money very fast. Meanwhile, they mistreat the children who are at the care centres. Information required to be submitted by an applicant for registration is not well provided. With regard to the process of determination of an application for registration of a care centre, it sets out the conditions for the issuance of a license under this Act, the grounds and the process of rejecting an application or cancelling a license issued under this Act or the process of issuance of a license to an applicant for the management of the care centre. The Bill also talks about the process for the application of the renewal of licenses; deregistration and revocation of the license issued to an applicant under this Act. Mr. Temporary Speaker, Sir, Part V of the Bill further sets out the criteria for the care of child parent within a care centre. The Bill provides for the establishment of a system for sharing with parents' information on matters that may affect the child care in the care centre. Part VI of the Bill provides for regular inspection and evaluation of safety in a care centre to ensure that a care centre maintains promises that meets the requirements of the occupational health, safety regulations and building standards and safeguards the welfare and safety of the children within the care centre. The Bill further provides for transition of existing care centres that are currently registered under the Children Act, 2001 to be considered as registered under the Bill. Mr. Temporary Speaker, Sir, the Bill provides a framework for the implementation of the rights to education for all children, including child parents. It imposes an obligation on the national Government and county governments to put mechanisms in place and establish programmes to ensure that not only is this right realized in relation to child parents, but also ensure that the rising cases of child pregnancies and the dropping out of school by the child parents is curbed. In addition, Clause 23 of the Bill imposes an obligation on the county governments to establish care centres for child parents and sets out standards that a county government or any other person who intends to establish a care centre is required to meet. The Bill empowers the county government to provide a county specific framework for the registration, licensing, monitoring and inspection of the care centres. The Bill shall be amended to harmonize in the provisions of the Basic Education Act 2013, The Children Act 2001 and the National Guidelines for the Alternative Family Care of children as suggested by the various stakeholders who appeared before the Standing Committee on Labor and Social Welfare during public participation. Mr. Temporary Speaker, Sir, according to the analysis of 2018, the following is an illustration from a selected number of counties to show a picture of teenage or child pregnancy between 15 to 19 years in the country. Homa Bay County had 33.3 per cent, Nyamira County, 27 per cent; West Pokot, 29 per cent; Tana River, 28 per cent; Nairobi City County, 18 per cent; and, Murang'a County, 6 per cent. Kilifi County had 13,624 girls aged between 15 to 19 years and additional 290 girls aged between 10 to 14 years pregnant. Kitui County had 110 girls who sat for the Kenya Certificate of Secondary Education (KCSE) Examination while pregnant. In Narok County, 60 girls dropped out of school, while 31 girls failed to sit for their examinations. According to a report by the United Nations Population Fund, a total of 378,400 girls aged 10-19 years got pregnant between June, 2016 and July, 2017. A total of 28,932 girls aged between 10 to 14 years got pregnant, while 349,465 girls were 15 to 19 years. That is very alarming. Mr. Temporary Speaker, Sir, if you look at the causes of these teenage pregnancies, it is not the wish of these children to become pregnant. One of the reasons may be lack of proper sex education. If you go to the syllabus of the primary schools on the reproduction health, that topic should be widened enough for these children to understand the causes of early teenage pregnancies. Other causes include telephones and internet. Nowadays, every child including my child who is three years old, is in the internet. Mr. Temporary Speaker, Sir, some of these girls are being raped and they become pregnant. That does not mean that they cannot continue with their education. Nonetheless, some of these causes come along with broken families. Those challenges will make that child become unstable to stay in that family and start going out. Once they get pregnant, they have nowhere to run to. The Government has to do something about these children. Abuse of alcohol and drugs is affecting our children all over the country. This child pregnancy affects all the counties in this country. Mr. Temporary Speaker, Sir, there are many consequences of teenage pregnancy. They turn to prostitution because they want something to feed their babies and for them to eat. Another consequence is illiteracy due to school dropouts. When they become pregnant, some principals of schools do not allow them to go back to the school. As a result, they drop out of schools. Poverty is as a result of lack of employment and skills. Suicide is rampant among youths. We have seen children committing suicide at the age of 11 to 18 years. They do so because of these challenges. There is no one to take good care of them. It is a high time the Ministry took charge and see what they can do to these children. These girls face social stigma; they are discriminated when they mingle around with the other children. Kenya's population is largely young. Persons aged 19 years accounts for more than half of the population, while those aged 15 years and below fall at 45 per cent of the country's population according to the 2009 census. The consequence of pregnancy at such a young age in Kenya is not good. The girls usually dropout of the school to have a child or sometime attempt to procure unsafe abortion. Mr. Temporary Speaker, Sir, these children belong to us; she can be your daughter, niece or even cousins. They should not be neglected. We need to take good care of them. We need a legal framework and put it into law, so that these children can access their rights. With those few remarks, I beg to move that The Care and Protection of Child Parents Bill (Senate Bills No.11 of 2019) now be read a Second Time. I call upon Sen. Mutula Kilonzo Jr. to second this Bill. Thank you Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 238,
+      "order": 239,
       "id": "entry-940671",
       "label": "speech",
       "level": "3",
@@ -2859,7 +2871,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I rise to second The Care and Protection of Child Parents Bill (Senate Bills No.11 of 2019). I must say that when Sen. Kwamboka requested me to second this Bill, I had very anxious moments about it. This is because I have to recognise that this vice of children who are parents exists. By coincidence, last Monday, on a private matter, I was in Makindu Law Courts and a lady who had a child on her back approached me. Standing next to her was a girl, possibly in primary school in school uniform. This lady proceeded to introduce her daughter in primary and her child who was on her back. They wanted legal representation. This young girl in primary school had been defiled by a person who was coming for his ruling or judgement in the Makindu Law Courts. The reality of this vice has dawned on us. As we speak, Makueni has 3,500 teenage pregnancies. During the course of this year, I was invited to Kilifi. They have doubled our number. The vice is so bad that the 100 per cent transition is affecting these parents. This is because these children in primary school must transit to secondary school whether or not they have delivered, or some are delivering in the process of being in secondary school. What do they do with these children? Those who are bold deliver. When they deliver, they leave their children with their mothers or grandmothers. Those who cannot cope dispose these children. Mr. Temporary Speaker, Sir, three weeks ago, we had a case of a father in Makueni who had defiled his daughters. It is sad that one of them gave birth and threw the child in a pit latrine. That is how it became an issue. Why are they doing this? They are doing this because of the stigma associated with it and lack of framework. While the Sexual Offences Act, sponsored by Supreme Court Judge Njoki Ndung'u, was attempting to address the vice, unfortunately, the only part of the vice that we have addressed is the jailing of the persons who have committed the crime. The country has completely forgotten about two important people; that is, the pregnant mother and the child. Since we do not seem to care, it has been left to the devices of these young girls, where it is left to their conscience to determine what to do with these children. You have unwanted pregnancies and pregnancies. In as much as I stand here and feel my moral conscience, and everything in my body just creates shivers around this issue, the part of protection of these children and their care is something that we cannot ignore. I am just wondering, from Schedule 4 of the Constitution, whether the drafters of Constitution had this in mind. This is because there is a small portion in functions of county board childcare protection. Is this what they had in mind or they had something else? However, since it is mentioned and this is the essence of the Bill by Sen. Kwamboka, it is a matter that is important. I would like Sen. Kwamboka to contemplate as we go into Third Reading that once the child is taken care of, there is something that is left behind. That is the reason I pursue these matters relentlessly. What happens to the 13-year old or eight-year old mother? Mr. Temporary Speaker, Sir, I had a sad instance where I got a young girl in primary school in my ward to come to Kenyatta National Hospital. This is because when this young girl was taken to Kikina, which is in my constituency, there was a problem in the delivery and the child ended up with one side of her or his body, I do not remember his sex, being interfered with. There was a problem. The only hospital that could take care of that child was Kenyatta National Hospital. These Class Eight girl came to Nairobi and after four days, the child passed on. When they called me the question was: Do you want us to assist you to bury the child? This young girl wanted nothing to do with that child. The part of the trauma is the portion that I would like to add to this Bill for purposes of contribution. Although this girl possibly lost her child after several days and went back to class to do her exam, there is a psychological problem that has not been addressed. Therefore, while we take care of the child and the young mother goes to class to continue with her education, there is a problem about the psychology and trauma that should be handled. I think we need child protection because we are taking care of two children. I have addressed this issue. What sort of country allows children to have children? These children who have children are the same children we are protecting under Article 53 of the Constitution. We must introduce psychological treatment in school for these young mothers. Last year, and I do not know about this year because I have not seen those instances, they were allowed to go with their children to the exam room. What example are we setting when in an exam room children are breastfeeding from their parents who are children? That is one. Secondly, we had an instance in Parliament recently when one of our colleagues brought her child, and there was hue and cry about the presence of that child in Parliament. I ask the question and Sen. Kwamboka please contemplate it: While we are insisting that we should have a crèche in Parliament, what happens when we insist that a child who has a child must go with that child to school? What happens when the lessons are going on? Is the child supposed to remain in class, sleep in class and change diapers in class? Should we not have a facility that would take care of these children when they are in school? This is because whereas we insist that we want to separate them because the concept of your Bill is accepting the principle that you are going to separate the teenage mother with her child --- That is what the Bill seeks to do and, therefore, the child is separated from the mother. I want to deduce the concept by Sen. Kwamboka that we have found in our prisons, which has bothered me for so long. A prisoner - we saw this in Kitui - is allowed to have their child until the child is four years old. After that, the child is separated from the mother. What happens to that child? Who is supposed to take care of that child? Could you, please, introduce this concept to those children from prison facilities? We found so many in Kitui. If you go to Lang'ata Womens' Prison, the last time I was there, there were 60 of them who upon attaining the age of four years would be separated from their mothers. I am not sure what sort of country this is, but here we are. In reality, somebody would say: \"The ground is different.\" Indeed, it is. Mr. Temporary Speaker, Sir, the psychology of these children must be taken care of. The same applies - and maybe Sen. Kwamboka will think about it - because a child who is in child care is a child until they attain the age of 18 years. I was in Shikusa Prison, an institution in the county of the good gentleman, the Senate Deputy Minority Leader. There were 400 underage boys in Kakamega serving prison terms. One boy told us that he was violated and sodomised in police cells while awaiting the determination of his case because he could not be taken to a prison facility until his case was determined. That is the boy. When we are contemplating the parents, there are still some other cases of people who do not then become parents. These also include the ones who throw away their children or, like the ones I mentioned; that their child dies and they do not become parents, and that person has been victimised. I would like a general clause about the protection of children in these facilities because it is a concern for me. This is so that we do not categorise, discriminate and segment these to only those parents who have given birth as teenagers because in the Constitution it does not distinguish. It talks about child care and so, they are many. We must insist as a principle that the children of Kenya, even those that we have found to have in a way or the other gone astray in terms of our law and our morals, are treated well. Mr. Temporary Speaker, Sir, Sen. Cherargei will confirm that the number of boys we found in the Government of Kenya (GK) remand prisons in Nairobi is appalling. In fact, if we were to set up a school in GK remand, the school would possibly have the highest population of more than 300 to 400 boys who are underage. My contribution to this Bill - and I support the psychology of students - is that the psychology of these mothers is something that we must address. I have said this on the Floor of this House. I know of a 40-year old lady who was defiled in her youth and because she was not taken care of in terms of her psychology, she cannot sit in a room with men alone because she is traumatised. Can we put these together? I would insist that there must be care and psychological care in as many hospitals as possible. Create a budget in the county government for hiring these psychologists. I have one and the lady is overwhelmed. Sen. Dullo through a Swedish foundation offered to assist, but she is only one person. In between running from one court to the other where there is collusion between the police and medical officers removing evidence of defilement of children, she is still taking care of the children of the children. Please, add those. Lastly, we must find a way in your Bill, as we take care of a parent of children, in which their issues; psychological and legal can be handled expeditiously. The child that I met in Makindu last Monday is a product of defilement. That child was possibly three years old, and she has been attending court for three years with a product of an illegal act. There must be a way of expediting these processes. I was so embarrassed that the girl was in uniform and the court does not seem to realise that the manner of handling these children must be done in such a way that their dignity is protected. So, I hail you, Sen. Kwamboka. I do not know about the statistics in Nairobi, but I have this impression that if Makueni is at 3,000 and Kilifi at 3,000 teenage pregnancies, it is possible that Nairobi has more. I would insist that the after-care of these child parents, assuming you are reporting, should be done better. I do not think it is inconsistent to insist in this Bill that we should have a desk where our children who have been defiled - even if it is at the risk of repeating the Sexual Offences Act - can be treated with dignity when they go to report. I know an instance where a police officer insisted that a child who had been defiled speaks loudly in a police station. He told her: \"We cannot hear you, speak loudly.\" What have you done to this child? Please, put it down so that everything is taken care of. However, in terms of the Bill, it is late. We should have put these child care centers in line with the Fourth Schedule. This is not to say that it is near normal; it is accepting that in one or two cases, there will be a child who will be defiled, and that child will keep the baby. When the child is born it will become a Kenyan. Both the child and her child need the care and attention of this country. When we say it, they think we are attacking the defilers. However, I am now least interested in the imprisonment of pedophiles as a primary issue. For me, it has become a secondary issue because I have realized that while we jail the pedophiles and defilers for life, we are in the process losing other people who, for one reason or the other, found themselves at the wrong place and met a wrong person. Thank you, Mr. Temporary Speaker, Sir. I beg to support."
     },
     {
-      "order": 239,
+      "order": 240,
       "id": "entry-940680",
       "label": "scene",
       "level": "3",
@@ -2871,7 +2883,7 @@
       "text": "( Question proposed)"
     },
     {
-      "order": 240,
+      "order": 241,
       "id": "entry-940681",
       "label": "speech",
       "level": "3",
@@ -2883,7 +2895,7 @@
       "text": "Proceed Sen. (Dr.) Musuruve)"
     },
     {
-      "order": 241,
+      "order": 242,
       "id": "entry-940682",
       "label": "speech",
       "level": "3",
@@ -2895,7 +2907,7 @@
       "text": "Thank you, Mr. Temporary Speaker Sir, for giving me this opportunity to support this Bill. This Bill is critical and has come at the right time; a time when parents are concerned that their girl child is not completing school. I stand here to speak passionately as a mother of daughters and support this Bill. I am happy that this Bill has addressed pertinent issues. This Bill is addressing issues of expectant girls, right to education and care of a child. These are three critical issues because when a girl is expectant, she goes through a lot of stigma, pain, ridicule and is misunderstood by the society, family and her significant other. As I stand here, I wear the shoe of that girl and understand what she is going through. There is need to come up with policies that will ensure that we help the girl child. This is because, when a girl child is helped, gets an education and is successful in the society, it is a bonus to the family, the society, the nation and the entire world. Mr. Temporary Speaker, Sir, this Bill comes in handy to ensure that we relieve the girl child of the distress that she goes through. It is a win-win Bill for the girl child. In a family where a girl and a boy are born, it is possible for the boy child to self-actualize and become what he really wants to be because there are no hindrances at all. On the side of the girl child, there are so many hurdles that hinder the development of the girl child. At the end of the day, the girl ends up lagging behind, not because she is not bright, but because of circumstances like early pregnancies. Mr. Temporary Speaker, Sir, according to the Constitution, everyone has a right to an education. The girl child has a right to an education. When we educate the girl and she is able to actualize in education, then it is possible for the entire nation, society and world to break the cyclic nature of poverty. A lot of research has shown that the world's poorest are children and women. It is possible for us to arrest a situation where the girl child is eventually lumped in the category of the poor. If the girl child is accorded an education at the right time and is able to self-actualize, it is a plus economically for us, as a nation. This Bill is a bonus. It will do good for this nation in ensuring that we are making the girl child productive and reducing early child marriages. If a girl child is educated, she will not get into these early marriages. In a situation where a girl gets pregnant, if she is given another chance to go back to school, eventually her mind brightens. She realizes her mistakes and becomes a plus to this country. When we educate a girl, we increase literacy levels in the family. In a situation where mothers have gone to school and are well educated, even the literacy levels of their families go high. This Bill comes in handy to ensure that we are doing it right as a nation. Mr. Temporary Speaker, Sir, I now want to look at the issue of care of the child. Article 26 of the Constitution states that everyone has a right to life. Sometimes girls go through the dark side where nobody understands what they are going through. Some girls find themselves in a situation where they are expectant, nobody knows what they are going through and the boy responsible for the pregnancy is not even there. Out of distress, they even end up aborting. This contravenes Article 26 of the Constitution which states that everyone has a right to life. Even though everyone has a right to life, we have to really wear the shoe of that girl child who is very innocent, who got into a problem that she did not know, has been misadvised and eventually is pregnant. Many at times, the child is asked to terminate the pregnancy. Mr. Temporary Speaker, Sir, this Bill comes in to avert such situations so that the girl child has a hearing in school, is not intimidated or discriminated or she is given another chance to make it in life and self-actualize in education. Mr. Temporary Speaker, Sir, as a nation, it is possible for us to ensure that the girl child does not go through terrible moments of being alone and eventually deciding that she will abort. There is need to create a mechanism of ensuring that we reassure the girl child so that she feels that even though she fell pregnant, she can still make it. Mr. Temporary Speaker, Sir, I want to say on the Floor of this House that when I did my Form Six, I was impregnated. I was very bright. I thought the world had come to an end, but one of my aunties wrote a letter to me and told me, \"Getrude, I have confidence in you, you can make it, just press on, keep applying for colleges and your parents will take care of the child.\" My parents took care of my first born. I was psychologically stable. I went back to read. My child was very comfortable in a very good environment and home. Eventually, I had to self-actualize, I got my first, second and third degree. I am here serving the nation. Mr. Temporary Speaker, Sir, that child I gave birth to after Form Six turned out to be very productive in this nation. As we are speaking right now, she is doing her Doctor of Philosophy (PhD). When we give a girl child a chance, they can go very far, they can be a plus in this nation. That is the direction we should take. In as much as the girl child has many hurdles, we should say as a nation, yes, the hurdles are there, how can we help her so that eventually she comes out clean, so that she reaches level five of the Maslow's Hierarchy of needs. It is possible, for once let us do something for the girl child. I am happy about Clause 5 that obligates the county government to have programmes to ensure that the girl child is able to go back to school. Parents must continue playing their parental role according to the Constitution. Every parent has a role in the life of a child. If a child becomes pregnant, the parents should continue with their parental role until the child reaches a situation when she is of age, she is able to be autonomous and manage her own life. When a child is young, the child is not autonomous. There is need to help this girl child so that she stabilizes. Mr. Temporary Speaker, Sir, in Clause 6 talks about policies for re-admission and integration of the girl child. This policy is very good. There is need for the girl child to be re-integrated into school and given a chance to go back to school. Clause 8 is very important because it speaks clearly on the rights of the girl child who has fallen pregnant. It states that she has a right to remain in school. Also, she has a right to fully participate in education programmes without any discrimination. Apart from that, the girl child who has dropped out of school and has been re- admitted has a right to be guided. She should not be blacklisted. We have to be pragmatic in the way in which we handle her because when a girl child makes it in life, the whole nation makes it. I support this Bill, but I am asking for amendments to Clause 11. Sorry, Mr. Temporary Speaker, Sir, let me wear spectacles."
     },
     {
-      "order": 242,
+      "order": 243,
       "id": "entry-940685",
       "label": "scene",
       "level": "3",
@@ -2907,7 +2919,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 243,
+      "order": 244,
       "id": "entry-940687",
       "label": "speech",
       "level": "3",
@@ -2919,7 +2931,7 @@
       "text": "Mr. Temporary Speaker, Sir, although the Bill is good, I want to ask Sen. Kwamboka to revisit Clause 10 (3), (4) and (5). In fact, this part should be deleted. I am saying so because one of the items says that a child shall not be compelled to undergo medical examination where she refuses to undergo the examination. A child is not autonomous. A child is a child. You cannot say that the child has refused to go through medical examination. In the same Bill, it states clearly that where a teacher suspects that a child is pregnant, the teacher should report to the headteacher and where the head teacher suspects the child is pregnant, the headteacher should report to the institution. It is ironical when all these are aware that the child is pregnant and the parent is not aware. It is the irony of ironies. I am asking Sen. Kwamboka to delete these three sub-clauses. There is no way we can mould a child if the parent is not in the know and everything is a secret. Clause 12(2), says that parents should not be informed. That child does not belong to the school or health centre. At the end of the day, this child has somewhere to go to. The child will have to go back to the parents. For a child to make it in life, the tripartite relationship of the child, teachers and parents is very important. We cannot divorce parents from this issue. When we are talking about parental obligations in the Constitution, there is no way the county government will take parental obligations for that child. That child belongs to a family and the parents have to be brought on board. They have to be involved from day one so that the three institutions; county government, institution and the parents of the child will see how they can help the child. Unless we are talking about street children, who have no family and they cannot be traced where they come from. For a child whose origin can be traced, it is important that this child is brought to the right book. By the time this girl becomes pregnant, sometimes it could be a mistake; that maybe someone cheated the girl by luring her to test the waters. Mr. Temporary Speaker, Sir, there is need to rethink to ensure that the girl child is guided. When children are guided and they get the right path, we are able to get the best out of them. We have to look for mechanisms of ensuring that we are not leaving out our children. I also want to talk about care centres. It is important for care centres to be there for purposes of ensuring that the unborn child is taken care of. Mr. Temporary Speaker, Sir, as we talk about health centres, we must ensure that we do not take away the pregnant girl from her family and significant other. Care centres should be carefully constituted so that we do not have some people taking advantage to do business with our girls. Some people might be waiting for our girls to be pregnant so that they take them to those centres so that they make money. Mr. Temporary Speaker, Sir, recently I was in South Africa. When a school girl gets pregnant there, she is given 300 Rands every month. So, many girls are now trying their best to get pregnant so that they get the 300 Rands every month. After getting the 300 Rands, they do not know what to do. This is because they cannot maintain themselves and their families. It is a problem. We have to think carefully before we come up with the centres to ensure that they do not become a burden to this society. We must make sure we do not separate these girls from their families so that they do not become social misfits later on in the society. Mr. Temporary Speaker, Sir, I support this Bill, but with those amendments I have proposed. This is because we cannot separate those girls from their families. Parents have to know everything about their children. Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 244,
+      "order": 245,
       "id": "entry-940690",
       "label": "speech",
       "level": "3",
@@ -2931,7 +2943,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir for this opportunity. From the onset, I want to congratulate Sen. Kwamboka for coming up with the Care and Protection of Child Parents Bill (Senate Bills No. 11 of 2019). Article 53 53(1) (a) to (d) of the Constitution tries to espouse on the rights of a child. It says- Every child has the right- (a) to a name and nationality from birth; (b) to free and compulsory basic education; (c) to basic nutrition, shelter and health care; (d) to be protected from abuse, neglect, harmful cultural practices, all forms of violence, inhuman treatment and punishment, and hazardous or exploitative labour\" Mr. Temporary Speaker, Sir, one of the causes of early childhood and teenage pregnancies is cultural practices. There is no Female Genital Mutilation (FGM) in Nandi, but in the ancient times, some areas like Elgeyo-Marakwet practiced FGM. I am told that FGM is still practiced in Kisii, Samburu and among other counties. They imagine that after the girl has been circumcised and being designated - not designated like the series 'Designated Survivor' - but designated to a husband at that age. The United Nations (UN) definition of a youth is 15-24 years. In Kenya, a youth is between 18-35 years. Many teenagers in this country have been subjected to such cultural practices because the multi-ethnic Kenyan society has subjected young girls to this view. Nowadays, most of the culprits are the boda boda riders. Seeing that they have fluidity of money, they sweet talk these young girls who are still in primary school or high school and end up having children with them. We also have sugar daddies and sponsors taking advantage of our young girls. I want to agree with my colleagues on the fact that, that person has been taken to court, the judicial process has been finished and that person has been taken to prison, it should not end there. The mark that you leave on that girl is not just because somebody has been convicted and is in prison. We must look at some of the issues. For example, according to the United Nations Population Fund of 2017, 378,4000 adolescents of 10-19 years had teenage pregnancies in Kenya. According to a report released by the United Nations and the Ministry of Devolution, Nandi County has 102 births per 1,000 girls who are in the child bearing age of 15-19 years. This comes to come to around 16 per cent of the teenage population. Nandi County ranks the highest nationally because is it at 16 per cent. Coincidentally, we did not do very well in the census, yet we are told that we are very fertile. This issue of early teenage pregnancies is rampant in the country. This is as a result of economic and cultural issues. We have commercialized everything in this country. People will fear to say this, but the fact is that we have over glorified sex and made it a commercial. We have made it transactional. With this social media craze, the rise of slay queens and slay kings has also led to young girls wanting to live flashy lives. That is where there the older men or sugar daddies and sponsors - as they are known in slang - want to take advantage. These girls want to make easy money. I think that Nairobi could be worst hit because they want to look nice. These people want to dress in the latest trendy clothes. They want to put it on\n\nInstagram\n\nand participate on social media pages, but they do not realize that they are being taken advantage of. We should try to avoid glorifying some of these issues on social media. I have seen social policing by Ezekiel Mutua. He has been complaining about the watershed period in the media. This is when we need the media to assist us. I am happy that the Cabinet Secretary for Education noted that the issue of early teenage pregnancies has come down this year when we were concluding the Kenya Certificate of Primary Education (KCPE) exams. However, that is not the real issue. We want to see how we can assist young mothers. For some of us who grew up in a home where some of our siblings were early mothers, we know the pain of these children. They never recover because of the community stigma. Where I come from, at least now we have improved. In the neigbouring Kakamega County, when a child who is in Class 7 or 8 or Form 1 or 2 gets pregnant, you realize that the parents no longer want to take that child to school. They say that for her to learn the lesson the hard way, she should stay at home and not go to school. However, with this establishment of care centres, readmission to school should be taken with the seriousness it deserves. Where I come from, many girls were very bright. Unfortunately, when they got pregnant and gave birth, their parents insisted that they be married off because of the stigma. That is the sad reality that we have in our communities. I hope this law will be able to assist. I urge parents that if their girl gets pregnant and they give birth, they still have a right to go back to school. There is a way the parents can support. They can get maids to ensure that that child goes back to school. This brings me to my second point which is re-admission of the school dropouts. We need confidentiality. When it comes to amendments, Sen. Kwamboka and I will try and look at how to make it punishable if confidentiality is betrayed. If the school, teachers or even the school management expose that child 'A' or 'B' has a child, you can imagine the effect it will have on that young girl. We should tighten on the issue of confidentiality. The custodian of that information and protection of confidentiality should be the teachers, the school management or the school board. The third point is on the issue of reproductive health. I was reading an article in the Sunday Standard . They were saying how the children are on a two month holiday. Some of you parents who have teenagers already know what the problem is. It is a pity that some parents in this country have given up. They have decided to put their young girls on contraceptives to prevent early pregnancies. That shows that we should have a conversation as a country. This is the right time for us to discuss reproductive health and that includes abortion. The Constitution is very clear on it, but one can be pregnant after rape. What do they do? How do we assist them? There are many people who have been subjected to emotional trauma. I hope that Sen. Kwamboka will take the lead in the conversation on how to come up with a legal regime on reproductive health in this country. Women are usually the most affected people when it comes to reproductive health. The women suffering in the villages are the most affected. We need to have a conversation on the issue of contraceptives. Women can do anything that they want. The census results have shown that they are more than men by more than a million. They need to take the lead in this conversation for us to have a legal and practical framework on issues of reproductive health. We also have the issue of care centres. I have looked at the management of the child centres. There was an expose by one media house on how children are being mistreated and the Committee on Labour and Social Welfare, which I am a Member, is looking into some of these issues. How do we ensure that these standards are met? How do we monitor public health, what is being taught in those centres, the managers and their qualifications and the process of establishing those childcare centres? In Kenya, people have commercialised everything and one can get an approval as long as they part with something. We will look at ways of putting stringent measures on the licencing procedures for us not to give the licence to every Tom, Dick and Harry who wants to establish a childcare centre. We should not just allow anybody to manage these centres. Developed countries have a register of people who have been accused of being paedophiles or people who have a history of abusing and misusing children and we should also have such a register. How sure are we that the person who wants to manage a childcare centre has not abused or misused children in the past? Those are some of the issues that we need to factor before giving out the licences. We should even involve the National Intelligence Service (NIS). We should have a report about those people because those children are the future of this country. Yesterday, the Governor for Nairobi City County said that he had been asked if he had been convicted by the Ethics and Anti-Corruption Commission (EACC) officers. This process should not just be about filling a form and taking it to the EACC. We should have a stringent measure on how we licence, regulate and manage the childcare centres. If we do not do that, we will be exposing those children to abuse and misuse. I hope that Sen. Kwamboka will do a comparative analysis on how childcare centres are protected in Western countries. I have looked at the enforcement and the punishment that is to be given to the offenders. I want to underscore the importance of hiring counselling experts. In high school, we had a female teacher who was raped when she was young and she would actually stand next to the door when teaching because she was teaching in a boys' school. You can imagine the trauma, heartache and mark that these people leave in the lives of our women. Therefore, these matters should not be taken lightly. Nowadays, we have focused on empowering the girl child and have forgotten the boy child. That is why we have many boda boda boys in the village who have not gone past basic education. The boys must also be involved in the discussion on reproductive issues because it takes two to tango. Therefore, we must have this conversation as a country. We cannot empower the girls and leave the boys. We must have a united conversation for us to move forward. On miscellaneous provisions, I think that Sen. Kwamboka was very lenient. When one defiles someone, they can be sentenced to life imprisonment and the bond application cost is very high. The same should apply for this case. In my opinion, Kshs3 million or two years imprisonment is a bit low. We should enhance it to around Kshs10 million and 15 to 20 years. One should be punished if they fail in their responsibility of managing a childcare centre by allowing misuse of girls or by failing to perform as expected by law. People who have been given the responsibility of taking care of our girls should take their work with the seriousness that it deserves. Therefore, the punishment should be harsh and punitive. One should not be allowed to get away with Kshs3 million. That is because one can easily pay Kshs3 million and walk away. You saw the organisations that have been registered by the Ministry of Labour and Social Welfare. Those people can get away with anything. We are fighting against child or human trafficking. Those people are not small fish. They are people who have money, power and connections. The question is: How do you punish them? I have seen my neighbour, Sen. Malalah, and I know that Kakamega County has similar problems. Sen. Malalah and I need to support this Bill. I expected him, as the Senate Deputy Minority Leader, to be on the ground in readiness for tomorrow. I know that the bedroom is on fire. However, he should know that one should always walk alone in the bedroom. A bedroom is not a place where you call everybody. Mr. Temporary Speaker, Sir. I support and we will bring amendments, as the Committee on Justice, Legal Affairs and Human Rights in order for us to have one of the best Bills."
     },
     {
-      "order": 245,
+      "order": 246,
       "id": "entry-940697",
       "label": "speech",
       "level": "3",
@@ -2943,7 +2955,7 @@
       "text": "Thank you, Mr. Temporary Speaker. I stand to support the Bill, the Care and Protection of Child Parents Bill (Senate Bills No. 11 of 2019) that has been moved by my colleague, Sen. Kwamboka. I have gone through this Bill and it is a very comprehensive Bill. I hope that my colleague will take in the proposals that we shall give. I applaud her for coming up with this Bill. This Bill has come at a time when teenage pregnancy is alarming. In Kakamega County, where I come from, about one in five girls aged 15 to 19 years have begun childbearing. This shows us that our society is becoming irresponsible. This Bill gives a lot of emphasis on how the children and the parents need to be taken care of. It also looks at the equipment and how the institutions are supposed to be established. It is important to note that the responsibility of a family remains the same. The teenage girls, who are getting these children, need to be taken care of just like any other child in the society. The women leaders are discussing ways of re-admitting these girls back in school and we are supportive of it. We do not only need to re-admit them back to school, but we need to take care of them because some of those pregnancies happen by accident. Most of the children who get themselves in these situations do so through accidents or not knowing what they are involved in, hence re-admission is very important. We look at the issue of pregnancy which is just a matter of a period in time, especially in terms of months. When we say that this programme or this particular framework that takes care of these teenagers who wish to go back to school should be uplifted, then we are taking care of a generation that we do not need to lose hence taking care of everyone in the community by taking on board what a responsible society should do. We need to curb the unnecessary population of drop outs in our society. When you look at the girls - especially in my county where we recently had a workshop on teenage pregnancy together with my able Sen. Malalah, the statistics were very high. At the beginning of this year after the long holiday we had 672 in primary and 924 teenage pregnancies in secondary. It is alarming. We need to curb this population because it is the one that then if not taken care of, there will be unrest in society. We are likely to witness unwanted activities and behavior coming up in the society. At Part 3 of this Bill, when we look at this particular framework, there is also counseling of children, parents and guardians. We should concentrate on counseling the mothers on how to protect and prevent any unwanted pregnancies and the guardians on how to take care of these girls. There are measures that have been put in place when it comes to penalties. I have always advocated harsh penalties for those people who cause this. A pregnancy is not only caused by a girl or woman, rather it is an act that is done after two people have met. The two need to be guided or counselled so that they can stop this behavior. The girl child and the boy child should be both counselled so that they can stop this behavior. If the boy child is left out, he will continue messing more girls, hence more unwanted pregnancies. Additionally, I looked at another clause with regard to the management of these institutions. We are saying that most of them will be coming up or will be built in counties. We are giving this mandate to the county governments because this is where teenage pregnancies are happening. As I support that, the stakeholders need to be cautioned. l like the issue of the penalty although I would like it to be higher. Those who will be taking care of these girls or this particular institutions, if any of them is found misbehaving, they need to be punished. The penalty should be very high unlike what my colleague has mentioned here. This will serve as an example. This is because most of them go as far as doing child trafficking. Teenage girls are being mishandled because they do not have any other option. You find people misusing and making business out of them. When I look at the punishment, it should be high in case one gets involved in such an act. When this Bill is passed, I hope it will be a lesson to those who want to mismanage and turn these institutions into business ventures. Otherwise, I support my colleague for coming up with this Bill. I hope she will take on board the amendments that are being proposed on the Floor because we want to adopt this, so that we can regulate and support our children. Thank you."
     },
     {
-      "order": 246,
+      "order": 247,
       "id": "entry-940704",
       "label": "speech",
       "level": "3",
@@ -2955,7 +2967,7 @@
       "text": "Thank you. Mr. Temporary Speaker, Sir. I rise to support this brilliant idea and this Bill; The Care and Protection of Child Parent Bill 2019 by my good Deputy Minority Whip, Sen. Kwamboka. I support this Bill and I think it is timely. Two weeks ago, I came across statistics that affect my county Kakamega and I was very shocked. I realized that last year, Kakamega County had 20,000 teenage pregnancies that translate to around 56 girls getting pregnant every day. As a leader in Kakamega County, I was prompted to quickly look into ways we can partner with Non-Governmental Organizations (NGOs) to ensure that we have a dialogue about teenage pregnancy. Through my office, I was able to engage with the African Medical and Research Foundation (AMREF) Health Africa who funded a two day convention in Kakamega Golf Hotel to talk about teenage pregnancy. We invited all stakeholders that is, the County Commissioner, Police departments, the county governments, the boda boda riders and everybody who plays a role when it comes to teenage pregnancies. That dialogue was an interesting one; we dissected issues ranging from the causality and consequences of teenage pregnancy. We wanted to hear from the horse's mouth; we had presentations from school going girls and boys, we were shocked. Some of these girls even confided in us that sometimes they are not being defiled to get pregnant rather it is them who want the pregnancy. We were in a meeting with Sen. Shiyonga and the 20 school girls and they raised issues that are deeper than what we see on paper, for example, one of the girls said that one of the causes of teenage pregnancy is lack of proper housing. We wondered how housing can cause teenage pregnancy and she elaborated that they live in a two-roomed house. When they go to sleep, they sleep adjacent to their parent's room. It is hard for them to restrain themselves from the activities happening and they know it is happening from the neighboring room. Therefore, it prompted them to have the urge of going to look for say, a boyfriend, and that is one of the causes of teenage pregnancies. They even alluded to us that poverty is very key when it comes to causes of teenage pregnancies. They said that sometimes they go to indulge in sexual activities just to get money to buy sanitary towels; it is very sad. It is the obligation of the national Government together with the county governments to ensure that our girls are provided with sanitary towels in good time. I have seen most of the County Women Representatives trying to mitigate that problem and provide sanitary towels, but not in a sustainable way. How I wish it becomes a policy that all girls in this Republic of Kenya should have the right to access sanitary towels as and when they need them. Mr. Temporary Speaker, Sir, we interrogated the people who are close to these girls in schools, that is the teachers who do counseling and guidance and they confessed to us that the counseling and guidance department in most of the schools is not well funded. Therefore, it is very hard for them to execute their mandate when it comes to counselling and guidance. It is very important for us to open up that conversation as to whether schools should prioritize this. We can even give them ceilings that they must provide 10 per cent of their income as a school to guiding and counseling so that we have a sustainable way of engaging these girls and taking them through life skills. Mr. Temporary Speaker, Sir, we realized that the existing and emerging laws in this country are really cushioning these students and giving a lot of rights. It is very hard for a teacher to discipline a student. Nowadays, in fact, it is a criminal offense for a teacher to discipline a student. I have even seen in this Bill that a girl has got a right to accept whether she should have a medical test or not. We are not addressing this issue from a serious angle. We need to revert to the previous cultures. I was brought up in a society whereby a child belonged to the community and when a child committed an offense in public, then any person who is above 18 year of age had got a right to discipline that child. However, nowadays, our society has been corrupted in the sense that you can see a child committing a mistake and you do not have a right to correct that child instantly just because that child does child does not belong to your family. It is, therefore, important for us to start relooking at these emerging laws that protect the right of a child. Mr. Temporary Speaker, Sir, this Bill is very good, but we need to look into ways in which it does not eventually come out as a Bill to encourage teenage pregnancy. As it stands right now, we are giving a lot of rights to that child and we are glorifying that child who gets pregnant. We are giving her a lot of comfort. In the past generations, a child who got pregnant was, in fact, considered an outcast. We had stringent measures to ensure that children to do not indulge in such an activity. In our tradition, when a child got an unwanted pregnancy before marriage, we used to put a black pot on top of the house so that everybody can notice that there is somebody who committed an offense in that village. It is, therefore, very important that we try and not glorify teenage pregnancy. It should be even punishable for someone to get pregnant under the age of 18. Mr. Temporary Speaker, Sir, we have a lacuna in law. We have only envisaged a situation whereby a person over 18 years impregnating a teenager. We have not envisaged a situation whereby a teenager impregnates a teenager. What happens in such a situation? Do you jail or punish the boy yet he is a teenager? Do you punish the girl or both of them? We need to look into the way this law is applied. The law should be applied not to protect the offenders. It should be applied to discourage teenage pregnancies. I propose that any person who gets pregnant below the age of 18 should be jailed for a term not exceeding three years. That way, we will discourage teenage pregnancy. If at all we are again making laws to encourage and say that she has a right to go back to school and be given care, we are not advancing this narrative well. Mr. Temporary Speaker, Sir, we realise that we have challenges in fighting teenage pregnancy. One of them was the alternative dispute resolution performed by the administrators in the villages like the chiefs, assistant chiefs and likurus . These people would form some kangaroo courts in their villages to try and negotiate with the perpetrators of teenage pregnancy. Some of the people are told to bring two goats and chicken, and they are forgiven. We need to emphasize on the issue of not allowing the chiefs and assistant chiefs to engage in alternative dispute resolutions when it comes to matters teenage pregnancy. As a county, we have committed ourselves. Even the County Commissioner committed himself to ensure that any person or chief who will be found engaging in alternative dispute resolution on matters teenage pregnancy will be fired on the spot. Secondly, we have a problem in the judicial process. Our judicial process is in a way disadvantaging justice. You will find a situation whereby somebody has been reported to have defiled a girl, the matter is brought to court and the prosecution is not ready to proceed. We have many challenges when it comes to the movement of cases in the corridors of the Judiciary. Mr. Temporary Speaker, Sir, sometimes if you give that child too much time before she comes to confess in court, she will be influenced by the community, people will approach her to step down or to withdraw the case. Technically, the case will not receive the justice it deserves. Therefore, it is important for us to look and priorities especially those girls who have been defiled so that they confess in court as witnesses when the matter is still fresh. Another issue that we noticed in the convention is that we really need to debate and come up with a resolution constitutionally as to whether the Children's Department is devolved or not. The Members of the County Assembly of Kakamega who attended that convention found it very hard to have budgetary allocations on the Children's Department because that function has not been devolved. We need to know whether the Children's Department has been devolved or whether it is still a function of the national Government. That will provide county governments with the authority to budget and even implement some of these provisions. This Bill is encouraging county governments to establish care centres. However, if that function has not been devolved, I am sure the Controller of Budget will not allocate them money. This might be an exercise in futility if we do not define that function. Mr. Temporary Speaker, Sir, as noted by the Senator for Nandi County and Sen. Shiyonga, we also need to shift our focus to the boy child. It is my view that instead of calling this Bill the Care and Protection of Child Parents Bill, we substitute the word 'child' with girl. This is because there is nothing to do with boy child in this Bill. We are only addressing issues of the girl child. We have boys who are still in school and have parental obligations. What are we doing in this Bill to protect those boys? We need to offer them guiding and counseling. This is because some of them cannot cope up with parenting pressure from the girls. They need provision of basic needs and yet that boy is a parent. What happens to him? Does that boy qualify to access the services of the care centres? In the Bill, we are providing for the function of the care centres, but nothing has been said about the boy child. It is very important for Sen. Kwamboka to consider providing space for the boy child and also cushioning him in this Bill because he suffers consequences of impregnating girls at an early age. We also have boys who contract HIV/AIDS and Sexually Transmitted Infections (STIs) out of molestation by elderly women. It is very important for us to also provide for such services that will cushion and take care of such incidences. I have approached different non-governmental organizations. Many of them are advocating the fight against teenage pregnancies. These organizations are African Medical and Research Foundation (AMREF), Academic Model Providing Access to Healthcare (AMPATH), Afya Halisi, and the Pharmaceutical Society of Kenya ( PSK ), among others. It is a high time we came up with a policy to be implemented by all these organizations. As it stands right now, county governments have got no policies to implement. Everybody is just trying to do advocacy on their own. We do not have measurable indicators to see whether the things they are trying to do to curb teenage pregnancies are fruitful or not. Mr. Temporary Speaker, Sir, in conclusion, I thank Sen. Kwamboka for this noble idea. I would like to encourage her when this Bill goes to the Third Reading to ensure that she defines the role of the county governments as to whether they can put aside a budget to this course or not. I would also like to encourage my sister Sen. Kwamboka to look at some of these clauses and amend them accordingly. Mr. Temporary Speaker, Sir, we also have sections where I would encourage my sister, Sen. Kwamboka, to look into. Section 37(1)(2), states that- \"The Cabinet Secretary may, in consultation with the Council, make regulations generally for the better carrying out of the provisions of this Act.\" \"Notwithstanding the generalities of sub-section (1), the Cabinet Secretary may make regulations- (a) setting out the standards required to be adhered to by County Governments in the establishment of the care centres\". The Constitution that we promulgated in 2010 is very clear as to the different roles of the national Government and the county governments. I think it is not right for the Cabinet Secretary to start making regulations that affect counties. The spirit of the new Constitution and devolution at large was that county governments would govern themselves. Therefore, I think that Clause does not do justice to the objectives of devolution. How I wish you replaced the word Cabinet Secretary with the Executive Committee Member, so that every county has got unique cases. I think the causes of pregnancy in Maasai land might emanate from cultural practices while the causes of teenage pregnancies in Kakamega might emanate from poverty. Therefore, it is very essential for us to allow county governments to look into this issue in a unique way autonomously so that we do not have a blanket policy trying to address this issue. Otherwise, I would like to thank Sen. Kwamboka for this novelty; you have done a good job. As a leadership, we have committed ourselves to protect our girls and boys in this country, so that they can have a good future and the generations to come will be happy that we played a role to cushion them. Thank you and I support."
     },
     {
-      "order": 247,
+      "order": 248,
       "id": "entry-940711",
       "label": "scene",
       "level": "3",
@@ -2967,7 +2979,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 248,
+      "order": 249,
       "id": "entry-940712",
       "label": "speech",
       "level": "3",
@@ -2979,7 +2991,7 @@
       "text": "Sen. (Dr.) Milgo."
     },
     {
-      "order": 249,
+      "order": 250,
       "id": "entry-940713",
       "label": "speech",
       "level": "3",
@@ -2991,7 +3003,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me this chance to support this Bill by Sen. Kwamboka who is also the Deputy Minority Whip. This is a very important Bill, particularly because it involves a population in Kenya that is more than half. I think with the just concluded census results, we realised that the number of females is very high and, in any case, I am sure in that population, there are very many girls. In this case, we are likely to encounter challenges in terms of pregnancies. I want to support this Bill more importantly because of the fact that it affects girls when it comes to issues of access to education and health, while they are pregnant and how the baby is supposed to be cared for. Mr. Temporary Speaker, Sir, our major challenge came last year when candidates were sitting for examinations and we realised that there were many girls who got pregnant in many counties. When the results were out, most of those girls had failed. I am not sure whether they were given another chance to go back to school to ensure that they excel because nobody has made a follow up. The years 1994 and 2009, were very important years when the Ministry of Education was able recognise this problem and put in place a policy to ensure that girls are taken back to school after pregnancy. The Ministry of Education in collaboration with the Ministry of Public Health and Sanitation was supposed to ensure that these girls who got pregnant are cared for. The Ministry of Public Health and Sanitation was supposed to ascertain when such girls were ready to go back to school. Mr. Temporary Speaker, Sir, there has been a challenge regarding the implementation of this policy. I have been in schools for a long time and I have realised that this policy has not worked to the expectation, more importantly, because of the fact that nobody has followed it to the letter. In any case, many of these girls who get pregnant maybe are in the villages from poor households and nobody will even be able to identify them and inform the authorities so that they are brought back on board. There was a time when all school principals were asked to be identifying and notifying the Ministry of Education about girls who get pregnant so that the chiefs and assistant chiefs are able to follow up. The major challenge is the issue of stigma, ridicule and cultural practices. In many cultures once a girl getspregnant, I think they would feel like even killing that child in the first place. In some cases they even want to go and hide that child. They would also want that girl to be married off even when they are still young. However, the major cause of unwantedpregnanciesparticularly for girls is the current social-economic levels of the society. The poverty index particularly from poor households is now very much below the poverty world index such that when these girls are at the secondary school level of education or maybe in Standard Eight, they begin to desire very many things such as sanitary pads. They would even want better clothing, soaps and perfumes. In any case when they go out they find that they can find a lot of men who can offer them money to be able to buy these items. Other issues that may subject these girls to early pregnancies in some cultures are issues of Female Genital Mutilation (FGM). In most communities, FGM will involve training these girls on how to handle their husbands once they get married in future. This is taught during this FGM seclusion period. Immediately these girls come out of this seclusion period, they want to go and practice and find out how this is done. In the course of doing so, because of ignorance and being still young, they find themselves pregnant. Mr. Temporary Speaker, Sir, in my county for example, after those many girls got pregnant last year, we decided that all churches in our county will be holding youth camps where we bring on board professionals to come and talk on sex education. We also bring on board counsellors. That has assisted the boys and girls to inform us on what is happening. That is how we were able to establish the fact that many parents, because of being poor, are not able to provide for the girls. The boys informed us that they can stay with very few clothes. Sometimes they do not even wash their trousers for over three days in a week while girls would want to constantly wash their clothes. Therefore, the girls would find themselves in such problems. This Bill will go a long way to cure this problem. Part II, for example, is talking about care of expectant children and child parents.Part B is talking aboutestablishing, in consultation with the Cabinet Secretary who is responsible or relating to education, non- discriminatory enrolment back to school training programs. I think thatshould be looked into. As I said whenthis policy was put in place, the Ministry of Education still needs to look into this and the reason whymanygirls are still not being brought on board after getting pregnant. It is a challenge because normally we reprimandthe girls while we continue crediting the boys. I heard my colleagues say that while this Bill talks about rights to a pregnant child, that they should also be jailed. In any case, he was only talking about jailing the girl. If there should be jailing, we should begin with jailing the boys first because pregnancy involves two people. While we deal with the girls, we do not even want to talk about who impregnates them. This Bill should have also included the people responsible for the pregnancy, so that it becomes a complete Bill. We know how to treat the expectant girl, but how will we treat the boys and the sugar daddies that are responsible for the pregnancies? This Bill, with amendments, will go a long way. My colleague, Sen. Kwamboka, is listening to what we are saying so that we see what happens to the people who impregnate the girls. While we have this policy, even as we give them a right to get pregnant, we realise that these girls who get pregnant do so even at the age of 12. At 12 years, these girls are still undergoing developmental stages, both physically and biologically. They are, therefore, very fragile. Being fragile, this Bill will help them to ensure that issues of health are taken care of. If we were to stress these girls by chasing them from home instead of counseling them, many of them will be subjected to stress. Some of them have ended up with the Fistula problem. Most of the Fistula cases we are treating are of young girls especially those who have given birth at a tender age. Therefore, the public health sector should be able to look into this to ensure that these girls are cared for so that they deliver normally. Mr. Temporary Speaker, Sir, part (d) of Section 2 talks about collaboration with the county government. Given the right cover for the child under Article 53 is important to involve the counties, because, these children are found in the counties. The county government can put in place mechanisms of identifying these girls right in the villages with the help of chiefs, assistant chiefs or even the nyumba kumi initiatives. Once we have identified the girls, we are able to ensure that they go back to school or they are cared for until they deliver, then they are taken back to school. While we want punitive measures and being cared for, we want these girls to come to school again. That is one way of empowering them. In our country, every child has a right to education. Once you educate a woman, you have educated the whole nation. An educated woman is able to bring up better and healthy families. Hence, health families lead to healthy and wealthy nations. This empowered woman, through education, will take care of the husband, children and make good homes. They will even ensure that their children go to school. If you were to conduct a research in the entire country, you will find out that educated women are more likely to have educated children as well. Therefore, we are advocating that these girls go back to school, so that in future they may not only lead better lives, but also get gainful employment. On Part III, Clause 11 talks about issues of treating the pregnant child in the institutions; this is a very contentious issue. I have been in school, and I know very many girls who have lost their lives after issues of confidentiality were not taken care of. They commit suicide because of being checked in school. There was this method where the matron would come and press the girl's stomachs and sometimes asking them to produce urine for testing. This discouraged very many of the girls. Some of the matrons once they found out the girls are pregnant; they do not keep those findings confidential. This has led to sometimes these girls committing suicide. It has also led to some girls procuring unsafe abortions. These abortions lead to fatalitiesbecause they are done by quacks or unqualified medical personnel using very crude methods. Mr. Temporary Speaker, Sir, the issue of checking on girls whether they are pregnant or not poses a challenge to school administration. The checking should be done with caution and by the Ministry of Education. During our time, girls were always checked whether they were pregnant or not. This kept on going until many of them completed school. We were afraid of not going to school and staying at home because of pregnancy. Therefore, the checking should be allowed, but with a lot of caution. Right now, it is an offense to find out whether girls are expectant. The Ministry should, therefore, come up with clear legal guidelines on how this should be done. I know the issue of keeping confidentiality and checking girls is a very contentious. However, it is the best method of protecting our girls from early pregnancy. Part Four of this Bill talks about establishing care centres. This one has been a challenge. Article 26 says every child has a right to life. However, we should involve the parents of these young mothers and guardians because some of these centres might mistreat children and their mothers. I am in the Committee on Labour and Social Welfare. We have been told of many of these centres mistreat children. We have heard of cases where children are sleeping on floors and not having sufficient food. Others are treated like adults. We should think of taking them back to their families rather them continue suffering in those centres. On the issue of registration of these centres, we must come up with stringent measures. There must be proper standards in terms of feeding, care for these children and ensuring that they go to school at the right time. Clauses 22, 23 and 24 talk about issues of registration and licensing. Clause 24 is stipulating how a centre can be closed. I urge that we stipulate punitive measures in this Bill for those centres that will mistreat our children. Recently, we saw a centre where children were sleeping on the floor. We have read in newspapers how children are being trafficked quietly from those centres. We think they are in those being taken care of, but they have already been sold quietly to other countries or to those people who want to use human parts to carry out their spiritual rituals.That is why I am saying we need stringent measures be taken against these particular centres. This Bill is very important.We, in the Committee on Labour and Social Welfare, will come with some amendments, particularly on those clauses that talk about checking on girls and their welfare so that we punish those people who will not care for the children. I want to thank Sen. Kwamboka for this wonderful Bill that she has brought to the House.With those many remarks, I support."
     },
     {
-      "order": 250,
+      "order": 251,
       "id": "entry-940736",
       "label": "speech",
       "level": "3",
@@ -3003,7 +3015,7 @@
       "text": "Sen. (Dr.) Mwaura."
     },
     {
-      "order": 251,
+      "order": 252,
       "id": "entry-940737",
       "label": "speech",
       "level": "3",
@@ -3015,7 +3027,7 @@
       "text": "Thank you, Mr. Temporary Speaker Sir. From the onset, I rise to support this Bill. It is very interesting to note that the people who make these children pregnant are allowed to continue with their life, but the children are left to suffer. We come from a culture where even certain communities encourage children who are underage to be married. I think that it is very important to ensure that a child who finds themselves in this predicament is not condemned. I am deliberately saying 'she' if it is a question of a boy impregnating a girl, the boy will continue with school, but the girl will not be able to continue with school. At the same time, there is also the stigma and trauma. This needs to be done to both. If, for example, there are two children who are involved, then it is also important to ensure that it is also done to the boy child. This is because of the shock of the fact that they have actually made their little girlfriend pregnant. Therefore, this is very important. John Pombe Magufuli, the President of Tanzania is on record as having said that such girls should not be allowed to go to school. That is not what should happen, because sometimes people make mistakes. There is no age that people make mistakes as much as when they are children. I want to congratulate the Mover, Sen. Kwamboka, for such a brilliant Bill. I hope that it is going to pass and become law, because I can already see that there are some people who are benefiting from this situation based on the currently existing legislation. We will then be able to properly ensure that the Convention on the Rights of the Child is properly attained to ensure that there is education for all. Every child, no matter how they are, should be able to go to school. Mr. Temporary Speaker, Sir, I would also suggest to the Mover of the Bill that we also need to look at the vulnerability of children in educational institutions, so that we also protect them from those who are taking care of them, particularly, teachers. There have been many cases of teachers impregnating girls in schools. When you are in a class situation and there is this gentleman who looks muscular and is the centre of authority and then there are teenage girls who trying to find their own identity, they define themselves on the grownups around them. This is something that also needs to be put here so that the protection does not just happen after a child is pregnant. There needs to be a Clause there so that these teachers are also taken care of. We have had this conversation before. You find that a teacher - Dr. Milgo is an educationist - impregnates a child and they are left to go scot free. The Kenya National Union of Teachers (KNUT) and the Teachers Service Commission (TSC) is like a ping pong game, and eventually, that child is really affected. That also needs to be looked into. More so, the nexus between counseling and teaching is very important because we have teachers who do guidance and counseling, but most of the time they actually do not have the skills. They are actually Christian Union (CU) patrons. Teachers who look very holy are the ones who are told to be counselors. In the Bill, Sen. Kwamboka may want to anchor guidance and counseling properly within the education framework. This is so that it is not left for conjecture, especially around communities, churches, philanthropy and voluntary organizations. It should be properly anchored within their education, so that it then becomes also part of financing. It becomes part of what schools would expend their money on. That will now be the net effect of this Bill with regards to enhancing the education system. The other issue that we also need to look at is how to deal with bullying. This Bill should also provide some penalties. If you do not do that, this will continue. Members of the August House will agree with me that bullying has become a serious problem in this country. Even for us leaders, the way we are bullied in social media is absolutely unacceptable. We are becoming a society where --- Initially, when you were bullied, you would want to block people or throw them off the face of the earth. However, you are eventually encouraged to be tolerant. That tolerance leads to an 'I do not care' attitude. Next, people learn how to become immune. They become numb, so nothing matters. It is really important. I am actually surprised that my time is very short---"
     },
     {
-      "order": 252,
+      "order": 253,
       "id": "entry-940739",
       "label": "speech",
       "level": "3",
@@ -3027,7 +3039,7 @@
       "text": "Order, Sen. Mwaura. You will have a balance of 15 minutes when the debate on the Bill resumes"
     },
     {
-      "order": 253,
+      "order": 254,
       "id": "entry-940740",
       "label": "heading",
       "level": "1",
@@ -3039,7 +3051,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 254,
+      "order": 255,
       "id": "entry-940741",
       "label": "speech",
       "level": "1",

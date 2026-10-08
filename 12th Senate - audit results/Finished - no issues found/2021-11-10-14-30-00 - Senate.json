@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-11-10-14-30-00",
-  "exported_at": "2026-10-08T20:57:33.755Z",
+  "exported_at": "2026-10-08T21:36:26.877Z",
   "entries": [
     {
       "order": 1,
@@ -112,7 +112,7 @@
     },
     {
       "order": 10,
-      "id": "entry-1121877",
+      "id": "entry-1121877-split-before-dff617cd-25be-4c12-b6ed-d523e3f60268",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -120,10 +120,22 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "The Chairperson of the Standing Committee on Devolution and Intergovernmental Relations is not in the Chamber, the report on Petition is, therefore, deferred. ( Report on Petition deferred )"
+      "text": "The Chairperson of the Standing Committee on Devolution and Intergovernmental Relations is not in the Chamber, the report on Petition is, therefore, deferred."
     },
     {
       "order": 11,
+      "id": "entry-1121877-split-selected-962c4ae7-e6dd-41a3-aba2-0ef1daca8484",
+      "label": "scene",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Report on Petition deferred )"
+    },
+    {
+      "order": 12,
       "id": "entry-1121878",
       "label": "heading",
       "level": "2",
@@ -135,8 +147,8 @@
       "text": "REPORT ON PETITION: GOVERNANCE MALPRACTICES IN WAJIR COUNTY GOVERNMENT"
     },
     {
-      "order": 12,
-      "id": "entry-1121879",
+      "order": 13,
+      "id": "entry-1121879-split-before-7ea76421-6fd4-4203-b9b0-cffcc766f162",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -144,10 +156,34 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "The Chairperson of the Standing Committee on Devolution and Intergovernmental Relations is not in the Chamber, the report on Petition is, therefore, deferred. ( Report on Petition deferred ) Next Order! The Senate Majority leader, Sen. Poghisio, you can present the papers."
+      "text": "The Chairperson of the Standing Committee on Devolution and Intergovernmental Relations is not in the Chamber, the report on Petition is, therefore, deferred."
     },
     {
-      "order": 13,
+      "order": 14,
+      "id": "entry-1121879-split-selected-69cbafdb-706e-4d8d-94eb-57bd971e5aa9",
+      "label": "scene",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Report on Petition deferred )"
+    },
+    {
+      "order": 15,
+      "id": "entry-1121879-split-after-323affd2-d7ae-4a14-aa2f-f8a1422188fa",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Hon. Lusaka",
+      "speaker_title": "(The Speaker)",
+      "reviewed": true,
+      "text": "Next Order! The Senate Majority leader, Sen. Poghisio, you can present the papers."
+    },
+    {
+      "order": 16,
       "id": "entry-1121881",
       "label": "heading",
       "level": "1",
@@ -159,7 +195,7 @@
       "text": "PAPERS LAID"
     },
     {
-      "order": 14,
+      "order": 17,
       "id": "entry-1121882",
       "label": "speech",
       "level": "1",
@@ -171,7 +207,7 @@
       "text": "Mr. Speaker, Sir, I beg to lay the following Papers on the Table of the Senate today, 10th November, 2021 -"
     },
     {
-      "order": 15,
+      "order": 18,
       "id": "entry-1121884",
       "label": "heading",
       "level": "2",
@@ -183,7 +219,7 @@
       "text": "REPORTS ON THE FINANCIAL STATEMENTS OF VARIOUS COUNTY FUNDS"
     },
     {
-      "order": 16,
+      "order": 19,
       "id": "entry-1121885",
       "label": "speech",
       "level": "2",
@@ -195,7 +231,7 @@
       "text": "Report of the Auditor General on Bungoma County Assembly Employee Car Loan and Mortgage Fund for the year ended 30th June 2019. Report of the Auditor General on Laikipia County Assembly Members Car Loan and Mortgage Fund for the year ended 30th June 2019. Report of the Auditor General on Gatamathi Water and Sanitation Company Limited for the year ended 30th June 2019."
     },
     {
-      "order": 17,
+      "order": 20,
       "id": "entry-1121886",
       "label": "scene",
       "level": "2",
@@ -207,7 +243,7 @@
       "text": "(Sen. Poghisio laid the documents on the Table)"
     },
     {
-      "order": 18,
+      "order": 21,
       "id": "entry-1121887",
       "label": "speech",
       "level": "2",
@@ -219,7 +255,7 @@
       "text": "The other Paper is by the Chairperson of Standing Committee on Tourism, Trade and Industrialization."
     },
     {
-      "order": 19,
+      "order": 22,
       "id": "entry-1121888",
       "label": "heading",
       "level": "2",
@@ -231,7 +267,7 @@
       "text": "REPORT ON THE START-UP BILL (SENATE BILLS NO. 1 OF 2021)"
     },
     {
-      "order": 20,
+      "order": 23,
       "id": "entry-1121889",
       "label": "speech",
       "level": "2",
@@ -243,7 +279,7 @@
       "text": "Seemingly, the Chairperson and the Members of that Committee are not in the Chamber. The laying of that Paper is, therefore, deferred."
     },
     {
-      "order": 21,
+      "order": 24,
       "id": "entry-1121890",
       "label": "scene",
       "level": "2",
@@ -255,7 +291,7 @@
       "text": "(Laying of Paper deferred)"
     },
     {
-      "order": 22,
+      "order": 25,
       "id": "entry-1121891",
       "label": "speech",
       "level": "2",
@@ -267,7 +303,7 @@
       "text": "Next order!"
     },
     {
-      "order": 23,
+      "order": 26,
       "id": "entry-1121892",
       "label": "heading",
       "level": "1",
@@ -279,7 +315,7 @@
       "text": "NOTICE OF MOTION"
     },
     {
-      "order": 24,
+      "order": 27,
       "id": "entry-1121893",
       "label": "heading",
       "level": "2",
@@ -291,7 +327,7 @@
       "text": "ALTERATION OF THE SENATE CALENDAR FOR THE FIFTH SESSION"
     },
     {
-      "order": 25,
+      "order": 28,
       "id": "entry-1121894",
       "label": "speech",
       "level": "2",
@@ -303,7 +339,7 @@
       "text": "Mr. Speaker, Sir, I beg to give notice of the following Motion- THAT, notwithstanding the Resolutions of the Senate made on 16th February, 2021 (approval of the Senate Calendar), 24th March, 2021, 30th March, 2021 and 25th May, 2021, (alteration of the Senate Calendar); and pursuant to Standing Order 29(4), the Senate resolves to further alter its Calendar (Regular Sessions) for the Fifth Session, 2021, in respect of Part VI, to adjourn the Senate on 18th November, 2021 and resume its regular sittings on Tuesday, 30th November, 2021, and that the Senate Calendar (Regular Sessions) for the Fifth Session be altered accordingly"
     },
     {
-      "order": 26,
+      "order": 29,
       "id": "entry-1121895",
       "label": "speech",
       "level": "2",
@@ -315,7 +351,7 @@
       "text": "Next order."
     },
     {
-      "order": 27,
+      "order": 30,
       "id": "entry-1121897",
       "label": "heading",
       "level": "1",
@@ -327,7 +363,7 @@
       "text": "STATEMENTS"
     },
     {
-      "order": 28,
+      "order": 31,
       "id": "entry-1121898",
       "label": "heading",
       "level": "2",
@@ -339,7 +375,7 @@
       "text": "IMPLEMENTATION OF THE PROVISIONS OF THE KENYA DEPOSIT INSURANCE ACT, 2012."
     },
     {
-      "order": 29,
+      "order": 32,
       "id": "entry-1121899",
       "label": "speech",
       "level": "2",
@@ -351,7 +387,7 @@
       "text": "Mr. Speaker, Sir, I rise pursuant to Standing Order No. 48(1) to seek a Statement from the Standing Committee on Finance and Budget regarding the implementation of the provisions of the Kenya Deposit Insurance Act, 2012. In the Statement, the Committee should- (1) State the measures, if any, that the National Treasury has taken to ensure compliance with Section 55(1), 59(4) and 60(1) of the Kenya Deposits Insurance Act of 2012; and (2) Outline the steps taken by the Committee, if any, to amend the law by introducing crucial safeguards such as putting a clear capping on the time to be taken by liquidation of deposits-taking institutions; in order to protect creditors and depositors given the huge numbers of the said institutions that have gone under in the recent past. Mr. Speaker, Sir, I thank you."
     },
     {
-      "order": 30,
+      "order": 33,
       "id": "entry-1121900",
       "label": "speech",
       "level": "2",
@@ -363,7 +399,7 @@
       "text": "Okay. I do not see any interest on the Statement. Sen. Kwamboka? I do not see her. Sen. Omanga, Sen. (Dr.) Musuruve, Sen. Shiyonga? Proceed, Sen. (Dr.) Langat."
     },
     {
-      "order": 31,
+      "order": 34,
       "id": "entry-1121901",
       "label": "heading",
       "level": "2",
@@ -375,7 +411,7 @@
       "text": "SALE OF UNCERTIFIED MAIZE SEEDS TO FARMERS"
     },
     {
-      "order": 32,
+      "order": 35,
       "id": "entry-1121902",
       "label": "speech",
       "level": "2",
@@ -387,7 +423,7 @@
       "text": "Mr. Speaker Sir, I rise pursuant to Standing Order 48(1) to seek a Statement from the Standing Committee on Agriculture Livestock and Fisheries on the sale of uncertified maize seeds to famers in Bomet, parts of Kericho and Narok Counties. In the Statement, the Committee should - (1) Indicate the type of maize seeds distributed and being sold to famers by County, stating the yield per type and table a quality assessment report of the seeds. (2) Investigate claims of influx of fake seeds in the market which are being sold by unscrupulous individuals to famers in Bomet, parts of Kericho and Narok Counties resulting in poor harvest affecting the income and livelihoods for many families. (3) State measures being taken to bring to book the unscrupulous individuals selling counterfeit seeds to famers and prevent recurrence of the same in future. (4) The Committee should recommend overseeable measures to compensate the affected famers in Bomet, parts of Kericho and Narok counties. (5) Calls the Agricultural Research Institute to publish and provide agricultural extension officers to educate famers on the appropriate seeds according to soil pH and climate condition to be planted in these counties. Thank you, Mr. Speaker Sir."
     },
     {
-      "order": 33,
+      "order": 36,
       "id": "entry-1121903",
       "label": "speech",
       "level": "2",
@@ -399,7 +435,7 @@
       "text": "Okay. I do not see any interest. Sen. Madzayo? So, I will defer all those statements to when we come back."
     },
     {
-      "order": 34,
+      "order": 37,
       "id": "entry-1121905",
       "label": "heading",
       "level": "2",
@@ -411,7 +447,7 @@
       "text": "STATE OF POLICE STATIONS IN THE COUNTRY"
     },
     {
-      "order": 35,
+      "order": 38,
       "id": "entry-1121906",
       "label": "heading",
       "level": "2",
@@ -423,7 +459,7 @@
       "text": "STATUS OF AN INQUEST INTO THE MURDER OF MS. AGNES WANJIRU"
     },
     {
-      "order": 36,
+      "order": 39,
       "id": "entry-1121907-split-selected-7fbd7733-9bf2-4b48-8d79-980c53bf6d13",
       "label": "heading",
       "level": "2",
@@ -435,7 +471,7 @@
       "text": "IRREGULAR OWNERSHIP AND USE OF LAND NO. LR 336/64, ORIGINALLY LAND NO. LR 336/12 IN BABADOGO."
     },
     {
-      "order": 37,
+      "order": 40,
       "id": "entry-1121907-split-after-bb649e49-27cb-4683-95a8-3494d64e0bfb",
       "label": "heading",
       "level": "2",
@@ -447,7 +483,7 @@
       "text": "STATUS OF PROVISION OF ELECTRICITY CONNECTION IN THE COUNTIES"
     },
     {
-      "order": 38,
+      "order": 41,
       "id": "entry-1121908",
       "label": "heading",
       "level": "2",
@@ -459,7 +495,7 @@
       "text": "FAILURE BY THE NATIONAL GOVERNMENT TO OPERATIONALIZE VARIOUS ACTS"
     },
     {
-      "order": 39,
+      "order": 42,
       "id": "entry-1121909",
       "label": "heading",
       "level": "2",
@@ -471,7 +507,7 @@
       "text": "STATUS OF TITLING OF GOVERNMENT LEARNING INSTITUTIONS"
     },
     {
-      "order": 40,
+      "order": 43,
       "id": "entry-1121910",
       "label": "heading",
       "level": "2",
@@ -483,7 +519,7 @@
       "text": "PUBLIC APOLOGY BY THE UK TO THE TALAI COMMUNITY"
     },
     {
-      "order": 41,
+      "order": 44,
       "id": "entry-1121911",
       "label": "heading",
       "level": "2",
@@ -495,7 +531,7 @@
       "text": "KENYA'S STATUS OF COMPLIANCE TO AU LEGAL INSTRUMENTS AND POLICY FRAMEWORKS"
     },
     {
-      "order": 42,
+      "order": 45,
       "id": "entry-1121912",
       "label": "scene",
       "level": "2",
@@ -507,7 +543,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 43,
+      "order": 46,
       "id": "entry-1121913",
       "label": "speech",
       "level": "2",
@@ -519,7 +555,7 @@
       "text": "Let us go to the next order."
     },
     {
-      "order": 44,
+      "order": 47,
       "id": "entry-1121914",
       "label": "heading",
       "level": "1",
@@ -531,7 +567,7 @@
       "text": "MOTION"
     },
     {
-      "order": 45,
+      "order": 48,
       "id": "entry-1121915",
       "label": "heading",
       "level": "3",
@@ -543,7 +579,7 @@
       "text": "ALTERATION OF THE SENATE CALENDAR FOR THE FIFTH SESSION"
     },
     {
-      "order": 46,
+      "order": 49,
       "id": "entry-1121916",
       "label": "speech",
       "level": "3",
@@ -555,7 +591,7 @@
       "text": "Mr. Speaker Sir, I beg to move - THAT, notwithstanding the Resolutions of the Senate made on 16th February 2021 (approval of Senate calendar), 24th March 2021, 30th March 2021 and 25th May 2021, (alteration of Senate Calendar); and pursuant to Standing Order 29(4), the Senate resolves to further alter its Calendar (Regular Sessions) for the Fifth Session, 2021 in respect of Part VI, to adjourn the Senate on 18th November, 2021, and resume its regular sittings on Tuesday 30th November 2021, and that the Senate Calendar (Regular Sessions) for the Fifth Session be altered accordingly. Mr. Speaker Sir, this is a very straightforward Motion. It is the alteration of our calendar. As I have seen from the Motion itself, we have done that many times for various reasons. The purpose this time is so that Members can participate in the devolution conference which is appropriately scheduled to be held in Makueni County. This will give an opportunity to Members who have been scheduled or invited to participate ample time to prepare. This is a very extensive conference. It requires people to prepare, especially those who will be speaking to participants and those who be participating in leading sessions. I appreciate that Members have recently come from recess, but this is a very important one. That devolution conference is part and parcel of our regular work. It is the very purpose for which the Senate exists and so it is so important. The conference also will address very critical issues. The topical subject is that one of climate change which requires a multilevel governance strategy of climate action, that calls upon all levels of governments; central Government and even the county governments and other stakeholders to participate, to help in this particular important matter. I ask Members to support that we go on this short recess, we resume on the 30th of November and then we continue with our calendar as planned. Mr. Speaker Sir, I move and ask my friend from Kitui, Sen. Wambua, to second this Motion."
     },
     {
-      "order": 47,
+      "order": 50,
       "id": "entry-1121919",
       "label": "speech",
       "level": "3",
@@ -567,7 +603,7 @@
       "text": "Mr. Speaker, Sir, I rise to second the Motion by the Senate Majority Leader on the short recess and the adjustment of the Senate Calendar. As he said while moving the Motion, it is a straightforward issue. The Senate and individual Senators will have responsibilities to undertake at the Devolution Conference in Makueni. I take this opportunity because I come from that region, to welcome all Senators to the Lower Eastern region and continue to thank them. You may remember the last time we held Senate mashinani, we were in Kitui and great things happened. I am hoping that when we go to Makueni, greater things will also happen. Mr. Speaker Sir, the theme of the conference is really very appropriate. Climate change is real and the impact of climate change is real in every corner of this country. In our region, the Lower Eastern region, what we call the December rains should have started in mid-October. It is now going to mid-November without rains. The change is real. As Senators prepare to participate in the devolution conference, then we should also be looking at ways to mitigate the adverse effects of climate change. Mr. Speaker Sir, with those remarks, I second."
     },
     {
-      "order": 48,
+      "order": 51,
       "id": "entry-1121920",
       "label": "speech",
       "level": "3",
@@ -579,7 +615,7 @@
       "text": "Okay Senator, take your seat."
     },
     {
-      "order": 49,
+      "order": 52,
       "id": "entry-1121921",
       "label": "scene",
       "level": "3",
@@ -591,7 +627,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 50,
+      "order": 53,
       "id": "entry-1121922",
       "label": "speech",
       "level": "3",
@@ -603,7 +639,7 @@
       "text": "Sen. Farhiya Ali."
     },
     {
-      "order": 51,
+      "order": 54,
       "id": "entry-1121923",
       "label": "speech",
       "level": "3",
@@ -615,7 +651,7 @@
       "text": "Mr. Speaker, Sir, I also support the adjournment of the House. As you are aware, last year was a very hard year for all of us as a result of the COVID-19 crisis, we never had the devolution conference. This conference is very important because we need to link up with the community to see how devolution is impacting people in mashinani. Mr Speaker, Sir, I agree that it is very important for this Senate to adjourn because we cannot purport to represent people and yet we do not know the impact of whatever we are taking forward will have. We are going bench marking with the counties and also collection of ideas on what works in one place and what does not work in another place. That comparison is important because people can get ideas from each other so that devolution can go to a greater height for the benefit of our people. I beg to support."
     },
     {
-      "order": 52,
+      "order": 55,
       "id": "entry-1121927",
       "label": "speech",
       "level": "3",
@@ -627,7 +663,7 @@
       "text": "Thank you so much. Proceed, Sen. (Eng.) Harugura"
     },
     {
-      "order": 53,
+      "order": 56,
       "id": "entry-1121928",
       "label": "speech",
       "level": "3",
@@ -639,7 +675,7 @@
       "text": "Mr. Speaker, Sir, I support the Motion by the Senate Majority Leader on the alteration of the calendar. The devolution conference is an important event for us in the Senate because it all about taking stock on devolution, positive achievements, where there are shortcomings and if there are any legislative action that we may need to take. We need to attend and get all that. Mr. Speaker, Sir, in the past conferences, the governors have been running the show. This time we need to get involved as much as possible so that we contribute to this conference. We need to add value to the assessments, which are being done and see how devolution is impacting the life of Kenyans Devolution is the main gain we got from the Constitution of Kenya 2010. It is supposed to go as low as possible to even the village level. I know of counties which have not even reached that level because they do not have village units and they have challenges. We need to know what their problems are because we are supposed to devolve both resources and decision making as low as possible to the people on the ground. That is what we need to evaluate and see what the problems are. I support this Motion and hope that we will make use of that time. I thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 54,
+      "order": 57,
       "id": "entry-1121929",
       "label": "speech",
       "level": "3",
@@ -651,7 +687,7 @@
       "text": "Proceed, Sen. (Dr.) Langat."
     },
     {
-      "order": 55,
+      "order": 58,
       "id": "entry-1121930",
       "label": "speech",
       "level": "3",
@@ -663,7 +699,7 @@
       "text": "Mr. Speaker, Sir, I also take this chance to welcome you back. It has been long and we have missed you. I support this Motion of alteration of the Senate calendar because the Devolution Conference is very important to all of us. This is the time where the main stakeholders of devolution; the governors, Members of County Assemblies (MCAs) and ourselves come together to compare notes on what we have done, the challenges that we face and many other things. It is also a very good time for us to get close to the people who elected us. Whenever we get out, like when we were in Kitui, as Senator Wambua has said, we took some few minutes out of our conference to visit projects that are in various parts of the county. So, this is a very important time for us to get closer to the people who elected us. We shall interact with people of Makueni, benchmark on the things that they have done and see the achievements of devolution. I support this Motion that proposes alteration of the Senate calendar because it is by extension the work of the Senate that we get closer to people in those places. I wish the same would go to various parts of the country. I am looking forward to such a time when such an important meeting will come to South Rift, especially to Bomet County so that my people feel the Senate closer to them. I support this Motion. I thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 56,
+      "order": 59,
       "id": "entry-1121931",
       "label": "speech",
       "level": "3",
@@ -675,7 +711,7 @@
       "text": "Proceed, Sen. (Dr.) Musuruve."
     },
     {
-      "order": 57,
+      "order": 60,
       "id": "entry-1121932",
       "label": "speech",
       "level": "3",
@@ -687,7 +723,7 @@
       "text": "Mr. Speaker, Sir, I thank you for giving me this chance to support this Motion. It is important that the Senate alters its calendar so that we have the devolution conference. The devolution conference is very important and a key conference for the Senate because we represent the counties and their interests. I remember too well that at one point when we went for a devolution conference, you were involved in a key issue with regard to disability. I remember when we went to Uasin Gishu, you visited a school for the hearing impaired where you encouraged them and donated some books. It is also in this Senate that I launched books on disability. I thank my colleagues who were handy. Sen. (Prof.) Margaret Kamar, the Hon. Speaker and other Senators made it possible. Mr. Speaker, Sir, during the devolution conferences, we also look at what is happening to our constituents. The many devolution conferences we have gone as a House, I have seen the Committee on Education coming out strongly to see what exactly happens with regards to children with disabilities. That is when we bring county executives to account. To tell us what they are doing with regards to mainstreaming transformative leadership and issues of persons with disabilities. It is in one of these conferences that farmers had an outcry concerning issues of farming maize. The devolution conference is a very important conference for us as the Senate because it touches on our mandate."
     },
     {
-      "order": 58,
+      "order": 61,
       "id": "entry-1121935",
       "label": "speech",
       "level": "3",
@@ -699,7 +735,7 @@
       "text": "You are confusing Senate Mashinani and devolution conference. I hope you are not talking about the same thing."
     },
     {
-      "order": 59,
+      "order": 62,
       "id": "entry-1121936",
       "label": "speech",
       "level": "3",
@@ -711,7 +747,7 @@
       "text": "Mr. Speaker, Sir, it is not confusion. It is intertwined in regards to the legislative mandate that we have as a Senate."
     },
     {
-      "order": 60,
+      "order": 63,
       "id": "entry-1121937",
       "label": "speech",
       "level": "3",
@@ -723,7 +759,7 @@
       "text": "It cannot be intertwined Senator."
     },
     {
-      "order": 61,
+      "order": 64,
       "id": "entry-1121938",
       "label": "scene",
       "level": "3",
@@ -735,7 +771,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 62,
+      "order": 65,
       "id": "entry-1121939",
       "label": "speech",
       "level": "3",
@@ -747,7 +783,7 @@
       "text": "Proceed, Sen. Cherargei."
     },
     {
-      "order": 63,
+      "order": 66,
       "id": "entry-1121940",
       "label": "speech",
       "level": "3",
@@ -759,7 +795,7 @@
       "text": "Mr. Speaker, Sir, I raise too support the Motion on the alteration of the Senate calendar. I agree that last year, the country had a lot of a problem because of COVID-19. We are living a new normal. The Government has done away with containment measures and the organizers of the devolution conference have insisted that people who will attend the session are people who are fully vaccinated. As we plan to attend the Devolution Conference 2021, we need to use the forum to encourage Kenyans to get vaccinated so that we can resume our normal lives. Secondly, I know governors have taken a forefront in the planning of the devolution conference. I urge our colleagues, especially who want to become governors to be there so that we can stock take. We are lucky, Mr. Speaker, you have wealth of experience serving as the Speaker of the Senate and also being a governor of Bungoma County. Hon. Senators, we must be at the forefront of the devolution conference. The only way we can do oversight is by also sitting and listening to the devolution success. It is almost nine years since devolution started. This is the right time to go to that devolution conference and demand to see what lives have been changed, what are the successes and challenges of devolution. It is very important that we also exchange ideas. This aspect of governors and senators having bad blood should end; we should understand their challenges. Oversight does not mean that we unnecessarily attack each other. Sometimes, it is important to sit and agree. May be when we exchange those ideas we will do an oversight better. I want to challenge that, when that time comes I hope three quarters of our colleagues will be there led by Sen. Wambua so that he can learn from the best practices as he embarks on a very serious journey ahead before the general elections. Mr. Speaker, Sir, we hope with the guidance of your office, we shall be facilitated---"
     },
     {
-      "order": 64,
+      "order": 67,
       "id": "entry-1121945",
       "label": "speech",
       "level": "3",
@@ -771,7 +807,7 @@
       "text": "There is an intervention from Sen. Wambua."
     },
     {
-      "order": 65,
+      "order": 68,
       "id": "entry-1121946",
       "label": "speech",
       "level": "3",
@@ -783,7 +819,7 @@
       "text": "Mr. Speaker Sir, you know the Senator for Nandi has a way of putting himself in trouble with colleagues, especially with me. I am not sure what journey it is that I am embarking on before the next elections. The only journey that we are all working together is to ensure that we widen and deepen devolution. That is what we are doing. I would ask him to substantiate what other journey is this that I am embarking on before the elections. I thank you, Mr. Speaker Sir,"
     },
     {
-      "order": 66,
+      "order": 69,
       "id": "entry-1121947",
       "label": "speech",
       "level": "3",
@@ -795,7 +831,7 @@
       "text": "Yes. Sen. Cherargei, I was also wondering which is this journey. Is it the Great Trek or which one?"
     },
     {
-      "order": 67,
+      "order": 70,
       "id": "entry-1121948",
       "label": "speech",
       "level": "3",
@@ -807,7 +843,7 @@
       "text": "Mr. Speaker, Sir, both can be journeys widening and deepening devolution. In the context of learning from the challenges and successes of devolution, I know Sen. Wambua, God willing, might be having an interest of becoming the future Governor of Kitui County. I am not saying that he will run for governor in 2022, but in the future. We should take stock of both the successes and challenges that we are facing with devolution. Mr. Speaker, Sir, you know very well that every politician must have an ambition. You never know about the future. The same applies even to yours truly. We are aware also because we are living in the same country. So, we wish everybody well."
     },
     {
-      "order": 68,
+      "order": 71,
       "id": "entry-1121949",
       "label": "speech",
       "level": "3",
@@ -819,7 +855,7 @@
       "text": "Order! You are out of order, Sen. Cherargei! I want to agree with Sen. Wambua that in the process of explaining yourself you are even entangling yourself more into unnecessary prophecies. Let those who want to run, speak for themselves. Do not mourn more than the bereaved."
     },
     {
-      "order": 69,
+      "order": 72,
       "id": "entry-1121950",
       "label": "speech",
       "level": "3",
@@ -831,7 +867,7 @@
       "text": "Okay."
     },
     {
-      "order": 70,
+      "order": 73,
       "id": "entry-1121951",
       "label": "speech",
       "level": "3",
@@ -843,7 +879,7 @@
       "text": "On a point of information, Mr. Speaker, Sir. I would like to request the House to understand Sen. Cherargei. He was like that even when he was my student in Moi University. He used to ask questions which were funny and so I really beg the House to understand him and allow him to continue."
     },
     {
-      "order": 71,
+      "order": 74,
       "id": "entry-1121952",
       "label": "speech",
       "level": "3",
@@ -855,7 +891,7 @@
       "text": "Mr. Speaker, Sir, as I conclude you know Sen. (Dr.) Langat is abusing student-teacher privilege if there exists such a thing because in legal practice there is client-advocate privilege. So, I want to request him that he does not need to go to that direction. All said and done, I support this Adjournment Motion. I want to thank the Senate Majority Leader for bringing it. All of us should be there. Let us do stock taking. I hope we can find a way of ensuring the people become part of the process and understand devolution so that they do not just imagine devolution consists of fancy titles. Mr. Speaker Sir, I thank you and hope all our colleagues will be there to celebrate the final devolution conference."
     },
     {
-      "order": 72,
+      "order": 75,
       "id": "entry-1121955",
       "label": "scene",
       "level": "3",
@@ -867,7 +903,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 73,
+      "order": 76,
       "id": "entry-1121956",
       "label": "speech",
       "level": "3",
@@ -879,7 +915,7 @@
       "text": "Next Order. There are Senators who came in late. Using my discretion, I will go back to the Petitions. There is a Petition by Sen. Nyamunga, then I will go to Statements."
     },
     {
-      "order": 74,
+      "order": 77,
       "id": "entry-1121957",
       "label": "heading",
       "level": "1",
@@ -891,7 +927,7 @@
       "text": "PETITIONS"
     },
     {
-      "order": 75,
+      "order": 78,
       "id": "entry-1121958",
       "label": "speech",
       "level": "1",
@@ -903,7 +939,7 @@
       "text": "Thank you, Mr. Speaker Sir. There are two reports which would have been laid today, but I would wish to defer the laying of the first Report by the Standing Committee of Devolution and Intergovernmental Relations on the issue of the boundary."
     },
     {
-      "order": 76,
+      "order": 79,
       "id": "entry-1121958-uppercase-text-heading",
       "label": "heading",
       "level": "2",
@@ -915,7 +951,7 @@
       "text": "REPORT ON PETITION: BOUNDARY DISPUTE BETWEEN KISUMU, SIAYA AND VIHIGA COUNTIES AROUND MASENO AREA"
     },
     {
-      "order": 77,
+      "order": 80,
       "id": "entry-1121959",
       "label": "scene",
       "level": "2",
@@ -927,7 +963,7 @@
       "text": "(Laying of Petition Report deferred)"
     },
     {
-      "order": 78,
+      "order": 81,
       "id": "entry-1121960",
       "label": "speech",
       "level": "2",
@@ -939,7 +975,7 @@
       "text": "However, today I am laying the second report concerning Governance Malpractices in Wajir County Government."
     },
     {
-      "order": 79,
+      "order": 82,
       "id": "entry-1121960-uppercase-text-heading",
       "label": "heading",
       "level": "2",
@@ -951,7 +987,7 @@
       "text": "REPORT ON PETITION: GOVERNANCE MALPRACTICES IN WAJIR COUNTY GOVERNMENT"
     },
     {
-      "order": 80,
+      "order": 83,
       "id": "entry-1121961",
       "label": "speech",
       "level": "2",
@@ -963,7 +999,7 @@
       "text": "Mr. Speaker, Sir, I wish to state that the Committee on Devolution and Intergovernmental Relations is established pursuant to Standing Order No.218 and mandated to consider all matters relating to devolution, intergovernmental and intercounty relations, governance and management of county governments, cities, towns and urban areas. The members are as stated as below. Mr. Speaker, Sir, this Petition was originated by Mr. Osman Idris Mohammed a resident of Wajir County concerning the malpractices of the Governor of Wajir County. It was tabled in the Senate on 30th March, 2021 by the Senator for Wajir County, Sen. (Dr.) Abdullahi Ali and committed to the Committee of Devolution and Intergovernmental Relations on the same day. Mr. Speaker, Sir, in summary the Petition raised the following allegations against the Governor of Wajir County- 1. Breach of the Constitution with impunity. 2. Disregard of the County Governments Act, 2012. 3. Breach of the County Procurement and Asset Disposal Act, 2015. 4. Breach of Public Finance Management Act, 2012 and regulations. 5. Violation of Human Resource Policies and Procedure in line with the values and principles of the Public Service as spelt out in Article 10(2) and Article 232 of the Constitution. 6. Incompetence and poor service delivery. Mr. Speaker, Sir, the Committee commenced consideration of the Petition pursuant to its mandate as provided in the Standing Orders of the Senate. The Committee met virtually with the Senator of Wajir County, Sen. (Dr.) Abdullahi Ali Ibrahim, CBS, MP and Sen. Farhiya Ali Haji, CPA, MP to gain their views on the happenings within the county. At this meeting, the Committee resolved to engage the petitioner the then Governor of Wajir County and any relevant parties to consider the allegations raised in the Petition. Mr. Speaker, Sir, at the sitting of the Senate held on Thursday 6th May, 2021, the Hon. Speaker of the Senate by way of Communication from the Chair informed the Senate that he had received a correspondence from the Speaker of the County Assembly of Wajir communicating the approval of a Motion by the County Assembly of Wajir to remove from office by impeachment the Governor of the County of Wajir. Following deliberations on the Motion, the Senate resolved to establish a Special Committee and the Senate Majority Leader subsequently gave notice of the Motion to form the Special Committee on the same day. Mr. Speaker Sir, the Special Committee which was chaired by Sen. Omogeni constituted of 11 Senators. Furthermore, its mandate was to investigate the proposed removal from office of the Governor of Wajir County and to report to the Senate within 10 days of its appointment on whether to find the particulars of the allegations to have been substantiated. Mr. Speaker, Sir, in light of the turn of events, the Committee on Devolution and Intergovernmental Relations resolved to down its tools with regards to consideration of this Petition and allow the Special Committee to fulfill its duty. The Committee further resolved to resume consideration of the Petition pending the outcome of the proposed impeachment. Consideration of the proposed impeachment of the Governor of Wajir County by the Special Committee resulted in the impeachment of the Governor of Wajir County who is the main perpetrator of the allegations leveled in the Petition therein. Consequently, the matter is now moot and should be marked concluded. There is, therefore, no need to consider the Petition herein any further. The Committee wishes to thank the office of the Speaker and the Clerk of the Senate for the continued and steadfast support extended to it during the consideration of the Petition, however, brief this consideration was. It is now my pleasant duty pursuant to Standing Order No. 232(2) to present the Report of the Standing Committee on Devolution and Intergovernmental Relations on the Petition concerning the malpractices of the Governor of the County of Wajir. I thank you."
     },
     {
-      "order": 81,
+      "order": 84,
       "id": "entry-1121965",
       "label": "scene",
       "level": "2",
@@ -975,7 +1011,7 @@
       "text": "(Sen. Nyamunga laid the document on the Table)"
     },
     {
-      "order": 82,
+      "order": 85,
       "id": "entry-1121967",
       "label": "speech",
       "level": "2",
@@ -987,7 +1023,7 @@
       "text": "Thank you. Sen. (Dr.) Ochillo-Ayacko, I see you logged in. You wanted to comment on the Petition? I suspect it could be a mistake."
     },
     {
-      "order": 83,
+      "order": 86,
       "id": "entry-1121968",
       "label": "speech",
       "level": "2",
@@ -999,7 +1035,7 @@
       "text": "It was because of alacrity."
     },
     {
-      "order": 84,
+      "order": 87,
       "id": "entry-1121969",
       "label": "speech",
       "level": "2",
@@ -1011,7 +1047,7 @@
       "text": "Thank you, Mr. Speaker, for giving me this opportunity to comment on the Report for the Committee of Devolution and Intergovernmental Relation. I agree with them that the current governor and the governor mentioned in the Petition are totally different and that since the former governor is no longer in office, there was no point in pursuing the matter. Mr. Speaker, Sir, I wish to thank the Committee on Devolution and Intergovernmental Relations for hearing us out as people of Wajir. I also wish to thank you for allowing the Petition to proceed. I just want to confirm that most of the allegations that were in that Petition were also part of the main submission for the impeachment. So, I just want to thank this House, the Committee and, of course, our diligent secretariat who always work so hard to support this Senate in terms of giving the correct guidance and moving the agenda of this House forward. I thank you."
     },
     {
-      "order": 85,
+      "order": 88,
       "id": "entry-1121970",
       "label": "speech",
       "level": "2",
@@ -1023,7 +1059,7 @@
       "text": "As I had indicated, now I will go back to the Statements. Let me invite Sen. Shiyonga."
     },
     {
-      "order": 86,
+      "order": 89,
       "id": "entry-1121971",
       "label": "heading",
       "level": "1",
@@ -1035,7 +1071,7 @@
       "text": "STATEMENTS"
     },
     {
-      "order": 87,
+      "order": 90,
       "id": "entry-1121972",
       "label": "heading",
       "level": "2",
@@ -1047,7 +1083,7 @@
       "text": "SHARING OF MINING ENERGY AND PETROLEUM RESOURCES BETWEEN COUNTY AND NATIONAL GOVERNMENT"
     },
     {
-      "order": 88,
+      "order": 91,
       "id": "entry-1121973",
       "label": "speech",
       "level": "2",
@@ -1059,7 +1095,7 @@
       "text": "Mr. Speaker, Sir, I rise to request a Statement on the Sharing of Mining Energy and Petroleum Resources between County and National Government. Pursuant to Standing Order No. 48(1), I rise to seek a Statement from the Standing Committee on Devolution and Intergovernmental Relations on the failure of National Government to operationalize various Acts to ensure that counties and host communities benefit from the proceeds emanating from mining energy and petroleum resources. In the Statement, the Committee should- 1) Explain whether Section 58(2) of the Petroleum Act, 2019 has ever been factored when allocating revenue to the relevant host counties. 2) Table regulations regarding the operationalization of Section 58 of the Petroleum Act, 2019. 3) State and table evidence, if any, showing payment schedules of royalties paid out to counties and host communities as stipulated under Section 85(3) of the Energy Act, 2019. 4) List counties that have so far received royalties as stipulated under Section 183(5) of the Mining Act, 2016. 5) Elaborate on the ways the National Treasury has displayed to formulate procedures for receiving royalties into the Exchequer and disbursement of the same to the beneficiary counties. I thank you."
     },
     {
-      "order": 89,
+      "order": 92,
       "id": "entry-1121976",
       "label": "speech",
       "level": "2",
@@ -1071,7 +1107,7 @@
       "text": "Mr. Speaker, Sir, I rise to support the Statement and add that we have had similar issues even in Nandi, Turkana and Coastal counties. In Nandi County, for example, we have gold. However, the people of Chemelil and Chemase are yet to benefit and we neighbour Kisumu County. I have seen the Ministry of Petroleum and Mining is constructing a gold mining company within Kakamega County. It is high time we relooked at the local content on how we share because the sharing should be 70 per cent to National Government, 20 per cent to the county government and 10 per cent to the local community. As I speak, according to Mining Rules of 2015, there should be a community based organized committee that should be in charge of the 10 per cent that is generated either through issues of oil or issues of mining. Up to now, I can confirm that most of those committees that are prescribed under Mining Rules of 2015, are yet to be operationalized. So, I do not know why the Ministry of Petroleum and Mining is yet to ensure that the people from Coast, Ukambani, Western Kenya and Nandi benefit from the natural resources. I hope in future we can go into a village and ensure that the 10 per cent that is rightfully theirs is given to them. For example, in Nandi, we are yet to benefit. The people of Chemelil, Chemase and Tinderet are yet to fully benefit from that gold mine that we have in Nandi. The Minister in charge should be called upon to ensure that he operationalizes and gazettes those community based committee membership so that they can ensure natural resources and mining resources benefit our people in terms of development. I thank you."
     },
     {
-      "order": 90,
+      "order": 93,
       "id": "entry-1121976-uppercase-text-heading",
       "label": "heading",
       "level": "2",
@@ -1083,7 +1119,7 @@
       "text": "KENYA'S STATUS OF COMPLIANCE TO AU LEGAL INSTRUMENTS AND POLICY FRAMEWORKS"
     },
     {
-      "order": 91,
+      "order": 94,
       "id": "entry-1121977",
       "label": "speech",
       "level": "2",
@@ -1095,7 +1131,7 @@
       "text": "Mr. Speaker, Sir, I rise pursuant to Standing Order 48(1) to seek a Statement from the Standing Committee on National Security, Defence and Foreign Relations on the Status of compliance to the African Union (AU) legal instruments and policy frameworks. In the Statement, the Committee should- (1) Give Kenya's status of compliance to AU legal instruments, protocols and policy frameworks since 2010 in accordance with Article 2(6) of the Constitution, listing the ones that have been domesticated and those pending. (2) Spell out reasons for the delay in ratifying some AU legal instruments and protocols, including the Malabo Protocol to adopt the protocols to the Constitutive Act of the African Union relating to the Pan-African Parliament adopted by the AU on 27th June, 2014, yet Kenya is a member of the Pan African Parliament. (3) Outline the barriers and challenges faced by the Government of Kenya to fully adopt AU protocols, stating the measures put in place to ensure these barriers and challenges are removed. (4) The Committee should outline the awareness and sensitization measures that the Government has put in place, including educating the public on the impact of the treaties stating how and when these measures are deployed in the last 10 years for East African Union (EAU) instruments that is ratified."
     },
     {
-      "order": 92,
+      "order": 95,
       "id": "entry-1121982",
       "label": "speech",
       "level": "2",
@@ -1107,7 +1143,7 @@
       "text": "I am exercising my discretion because we had passed the Statement time. So, I am not encouraging Senators who will come late to go back to Statements. I may not exercise that discretion. Proceed, Sen. Cherargei."
     },
     {
-      "order": 93,
+      "order": 96,
       "id": "entry-1121983",
       "label": "heading",
       "level": "2",
@@ -1119,7 +1155,7 @@
       "text": "PUBLIC APOLOGY BY THE UK TO THE TALAI COMMUNITY"
     },
     {
-      "order": 94,
+      "order": 97,
       "id": "entry-1121984",
       "label": "speech",
       "level": "2",
@@ -1131,7 +1167,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for the opportunity. I rise pursuant to Standing Order No. 48 (1) to seek a Statement from the Standing Committee on Justice, Legal Affairs and Human Rights regarding a public apology by the United Kingdom to the Talai Community of Kenya and compensation for horrendous violations of the rights of the community as ordered by the United Nations Human Rights Council (UNHRC). In the Statement, the Committee should- (1) State whether the Government of Kenya has engaged the United Kingdom (UK) regarding a letter from the UNHRC dated 31st July, 2021, ordering the UK to apologize publicly and compensate the Talai Community of Kenya for abuse and violations of the community's rights; majority of them are in Nandi County, in a place called Kapsisywa, Sironoi Area. (2) Explain why it has taken too long for the UK to compensate the Talai Communities despite several reports, including one that was adopted by the Senate in 2018, showing there were atrocities committed and human rights violations on the Talai people, thus failing to restore the dignity of the community and their wellbeing. (3) Outline reasons for failure by the UK to establish facts on the victims and the nature of harm and lack of reparations in accordance with international laws. (4) State the status of implementation by the UK, the Kenyan Government and the County Government of Nandi on the recommendations of the report of the Standing Committee on Justice, Legal Affairs and Human Rights resulting from a Petition to the Senate on injustices against the Talai clan that was passed and adopted by the Senate in 2018."
     },
     {
-      "order": 95,
+      "order": 98,
       "id": "entry-1121985",
       "label": "speech",
       "level": "2",
@@ -1143,7 +1179,7 @@
       "text": "Proceed, Sen. Cheruiyot."
     },
     {
-      "order": 96,
+      "order": 99,
       "id": "entry-1121986",
       "label": "heading",
       "level": "2",
@@ -1155,7 +1191,7 @@
       "text": "STATUS OF TITLING OF GOVERNMENT LEARNING INSTITUTIONS"
     },
     {
-      "order": 97,
+      "order": 100,
       "id": "entry-1121988",
       "label": "speech",
       "level": "2",
@@ -1167,7 +1203,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I rise pursuant to Standing Order No.48 (1) to seek a Statement from the Standing Committee on Lands, Environment and Natural Resources on the status of titling of Government learning institutions (Early Childhood Development Education (ECDE) Centres, public primary and secondary schools). In the Statement, the Committee should- (1) State the status of titling of Government learning institutions ECDE Centers, public primary and secondary schools in Kenya as per the Presidential directive of 2015 to have all public schools in Kenya titled. (2) State the number of public schools, (both primary and secondary) that have been titled in Kenya so far. (3) Enumerate the number of schools (both primary and secondary) that have not been titled, giving reasons why they have not been titled. (4) Provide timelines when all schools will be issued with title deeds for the land they sit on. (5) Explain whether the multiagency working group that was formed v ide gazette Notice No. 12311 receives any funding from the Government to fast-track titling of schools; and, (6) Explain the measures, if any, the National Lands Commission (NLC), Ministries of Education, Lands and Physical Planning and county governments are taking to ensure all Government learning institutions have title deeds and certificate of lease/grants or a letters of allotment."
     },
     {
-      "order": 98,
+      "order": 101,
       "id": "entry-1121989",
       "label": "speech",
       "level": "2",
@@ -1179,7 +1215,7 @@
       "text": "Proceed, Sen. Musuruve."
     },
     {
-      "order": 99,
+      "order": 102,
       "id": "entry-1121990",
       "label": "heading",
       "level": "2",
@@ -1191,7 +1227,7 @@
       "text": "STATUS OF PROVISION OF ELECTRICITY CONNECTION IN THE COUNTIES"
     },
     {
-      "order": 100,
+      "order": 103,
       "id": "entry-1121991",
       "label": "speech",
       "level": "2",
@@ -1203,7 +1239,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity to seek a Statement. I rise pursuant to Standing Order No.48 (1) to request for a Statement from the Standing Committee on Energy on the status of provision of electricity connection in the counties. In the Statement, the committee should- (1) Give the status of rural electrification projects being implemented in the counties, stating the exact locations covered in ensuring that the country achieves 100 per cent connectivity. (2) State the amount of public funds and the number of counties in the Shilling for a Shilling programme (Matching Fund) in electrification projects across the country. (3) State reasons for the delay in connecting residents of CPU, Murram area, households and the police post in Sosiani area in Mwamba village in Lumakanda ward in Lugari sub-county to the national electricity grid, giving specific timelines within which, this connection will be completed. (4) State the targeted interventions to ensure 100 per cent connectivity in the country."
     },
     {
-      "order": 101,
+      "order": 104,
       "id": "entry-1121993",
       "label": "speech",
       "level": "2",
@@ -1215,7 +1251,7 @@
       "text": "Okay. Those who had not asked their Statements have now done so. Let us go back to our Order Paper. Hon. Senators, for the convenience of the House, I direct that we go to Order No. 21. Sen. Faki you had a balance of seven minutes."
     },
     {
-      "order": 102,
+      "order": 105,
       "id": "entry-1121994",
       "label": "heading",
       "level": "1",
@@ -1227,7 +1263,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 103,
+      "order": 106,
       "id": "entry-1121995",
       "label": "heading",
       "level": "3",
@@ -1239,7 +1275,7 @@
       "text": "ADOPTION OF REPORT ON INQUIRY INTO EXTRAJUDICIAL KILLINGS AND ENFORCED DISAPPEARANCES IN KENYA"
     },
     {
-      "order": 104,
+      "order": 107,
       "id": "entry-1121996",
       "label": "speech",
       "level": "3",
@@ -1251,7 +1287,7 @@
       "text": "THAT, the Senate adopts the Report of the Standing Committee on Justice, Legal Affairs and Human Rights on the inquiry into extrajudicial killings and enforced disappearances in Kenya laid on the Table of the Senate on Tuesday, 19th October, 2021."
     },
     {
-      "order": 105,
+      "order": 108,
       "id": "entry-1121997",
       "label": "scene",
       "level": "3",
@@ -1263,7 +1299,7 @@
       "text": "( Sen. Omogeni on 9.11.2021)"
     },
     {
-      "order": 106,
+      "order": 109,
       "id": "entry-1121998",
       "label": "scene",
       "level": "3",
@@ -1275,7 +1311,7 @@
       "text": "(Resumption of debate interrupted on 9.11. 2021)"
     },
     {
-      "order": 107,
+      "order": 110,
       "id": "entry-1121999",
       "label": "speech",
       "level": "3",
@@ -1287,7 +1323,7 @@
       "text": "Asante, Bw. Spika, kwa kunipa fursa hii kumaliza mchango wangu kwa ripoti hii. Niliposimama jana, nilikuwa nimeeleza kuwa baadhi ya wale ambao walichukuliwa na hadi leo hawajapatikana ni kijana anayejulikana kwa jina la Mubarak Husni. Alichukuliwa tarehe 25/3/2018. Niliweza kuleta Taarifa hapa katika Bunge la Senati na hadi leo, habari za kijana huyu, pahali alipo, ama kama yuko hai au ashafariki hazijulikani. Haki Afrika ambayo ni kundi la haki za kibinaadamu ambayo inafanya kazi Mombasa kimeweza kutoa ripoti yake. Mpaka sasa, mwaka huu wa 2021 peke yake, kufikia tarehe 30/10/2021, watu 42 wameweza kuchukuliwa bila ya sababu yeyote. Kati ya hawa, 17 peke yake ndio wameeza kurudi nyumbani kujiunga na familia zao na kuendelea na shughuli zao za kawaida. Bwana Spika, swala hili la watu kupotezwa na kuuliwa kiholela liko hai katika nchi yetu. Ni inchi ambayo tulisema inaheshimu sheria. Tuna Katiba abmbayo ni nzuri sana katika Afrika Mashariki nzima. Lakini Katiba hii, haitekelezwi kulingana na vile sheria inavyosema. Haki ya kuishi, ni muhimu sana. Katiba yetu katika Kipengele 26 inasema kwamba, kila mtu ana haki ya kuishi katika jamuhuri yetu ya Kenya\". Vilevile, Kipengele cha sita cha Civil and Political Rights ya Umoja wa Mataifa inasema kwamba haki ya kuishi ni haki muhimu sana katika ulimwengu. Kwa hivyo, inchi zote zinaheshimu haki ya kuishi. Bw. Spika, hatuwezi kuwa na nchi ambayo inafungia macho maswala kama haya ya watu kupotezwa na u kuuliwa kiholela. Bw. Spika, wakati wa nyuma, haki zilipokuwa zimedhulumiwa wakati wa Serikali ya awamu ya pili ya hayati Daniel Arap Moi, mambo haya yalipo angaliwa wakati wa Serikali ya Mheshimiwa Kibaki, watu wengi ambao walifanya mambo kama haya walipelekwa Mahakamani. Rais msataafu hayati Moi pia alipelekwa mahakamani kuhusiana na haki kama hizi. Kwa hivyo, ninawaonya wale ambao hivi sasa wanaendelea kudhulumu na kuhujumu haki za binadamu. Sheria itashikana na wao wakati mmoja. Hakuna swala ambalo linaweza kupita bila kuwa na sheria itakayofuatilia kuhakikisha kwamba wale ambao wameweza kupotezwa, na kuuliwa kiholela wamelipwa ridhaa ili familia ziamini kwamba haki imeweza kutendeka. Bw. Spika, tumeona Serikali ililipa pesa nyingi kwa wale ambao walifungwa, na kuwekwa kizuizini bila kushtakiwa na wengine wengi ambao waliteswa mikononi mwa polisi. Na hii inayo endelea sasa ni ile ile iliyo kuwa inaendelea wakati wa Serikali ya mustaafu hayati Daniel Arap Moi. Kwa hivyo, wale ambao wanahusika hata kama ni Director wa Anti-Terrorism\n\nPolice Unit\n\n(ATPU), Director wa I ntelligence, hakuna kitu kitakulinda wewe wakati utakapostaafu ama utakapotoka katika kazi hiyo. Sheria itapambana na wewe na siku moja itakushika na kukupeleka jela kama vile ambavyo unawatesa na kudhulumu haki za Wakenya ambao washikwa bila sheria yoyote. Bw. Spika, kwa kumaliia ninasema kwamba mapendekezo yote ambayo yametolewa, ni kweli yanaweza kufanya kazi. Lakini, pia tungependa kuwe na mwongozo kuwa wale wote ambao familia au wapendwa wao wamechukuliwa kiholela, wapate fursa ya kuelezea maswala kama haya. Hii ni kwa sababu, hivi sasa, wengi wanaogopa. Mtu anaambiwa mtoto wake amechukuliwa kwa sababu ni Alshaabab . Kwa hivyo, hawezi kuzungumza na jirani yake. Wanafaa kupewe fursa ya kuzungumza maswala haya kupitia kwa Kamati za uuiyano katika maeneo yao ama kwa vikundi vya haki za binadamu ambazo zinafanya kazi kama vile Haki Afrika, Muhuri, Uraia, KenyaNational Human Rights Commission (KNHRC) na mashirika mengi ambayo yanaweza kutoa msaada kama huu wakati wa majanga kama haya. Bw. Spika, kuna shirika la Independent Medical Legal Unit (IMLU) ambalo linafanya kazi kubwa sana kuhusiana na swala hili la watu kupotezwa kiholela. Kwa hivyo, kupatikane nafasi au kutolewe fursa ya mashirika haya yaweze kuwa na nafasi ya kuwanasihi wale ambao wameadhirika ili waziweze kuona kwamba dunia imewaacha mkono na kukata tamaa. Kwa hayo mengi, ninashukuru kwa kunipa fursa hii."
     },
     {
-      "order": 108,
+      "order": 111,
       "id": "entry-1122004",
       "label": "speech",
       "level": "3",
@@ -1299,7 +1335,7 @@
       "text": "Proceed, Sen. Cheruiyot."
     },
     {
-      "order": 109,
+      "order": 112,
       "id": "entry-1122005",
       "label": "speech",
       "level": "3",
@@ -1311,7 +1347,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for this chance to make my contributions to this very important report by the Committee on Justice and Legal Affair and Human Rights. Mr. Speaker Sir, I had an opportunity to follow the trail of the work of Committee as they began this particular exercise and as they pitched tent in Mombasa. I watched a number of their sittings because many of their public hearings were televised. On many occasions, it was sad listening to the families of many of these young people. Most of them are actually teenage sons or just slightly out of teenage. They are forced to go through this harrowing experience which presents to us a very dicey situation. Mr. Speaker Sir, I say dicey because we are actually debating this report at a time when this matter is very alive in our country. You are aware that currently, there are five terror suspects that are out at large. People are being informed that if they spot them anywhere, they should report. In fact, people are questioning how they escaped out of lawful custody and we are now in this situation. On many occasions, when you speak to our law enforcement officers especially those that serve in the ATPU, they share with you the other side of the coin. What I consider to be the side which human rights societies and us, the watch-dog institutions do not like to tell, that it presents the country with a difficult situation. Mr. Speaker Sir, it is important to note that no country, not even those that pride themselves in being amongst the finest of democracy and have donned the space and depth of human rights, have successfully navigated this particular situation. For example, you understand the struggle of United States of America (USA) with their detention facilities, these are matters that have been litigated in their courts. People have had arguments and counter arguments on the need to balance human rights visa vis the rights of the millions that are at stake in trying to protect the rights of a single individual. There have been all manner of thoughts about this particular topic. Therefore, it is not as easy as we may want to reduce it. It is not one of those things that you can either just go left or right about. Mr. Speaker Sir, I see that many of the proposals that are made in the resolutions of this particular Committee are fairly progressive. This is because they points out to institutions or bodies that we need to set up. This includes recommendation number one which proposes to establish a strong multiagency task force to ensure better synergy, collaboration and cooperation between various agencies that seek to hold law enforcement officers accountable. Mr. Speaker Sir, of course, the challenge that they speak about is what our law enforcement officers have been able to do. However, it would have been more important, while we are setting up this particular institution, to continue listening and work more closely. I have not had an opportunity to read through but I have seen the five recommendations that this Committee has given us. I appreciate that this is not a small matter. It is not something that you would wish any particular family to battle with. From the onset, we need to be clear about one thing. There is no silver bullet solution to this issue of enforced disappearance and counter-terrorism protocol. When these challenges continue to bedevil our society, we think of setting up a multi-agency to monitor and evaluate. I have seen a proposal to amend the National Coroners Service Act No. 18 to ensure the various oversight institutions that oversight the NPS are given better synergy in terms of this particular work. Mr. Speaker Sir, unfortunately, that answers only one side of the challenge. Somebody needs to speak for our men and women in uniform. Somebody needs to narrate these from their perspective. I have said that the unfortunate thing about this particular debate is that when you speak as I am, you are actually challenged to pick a side. It is either you are with us who are complaining about this enforced disappearance or you are with the police officers. I do not believe in that narrow perspective. There should be a better way of handling this matter. We can ensure that those who have been involved in activities that threaten the very existence of our society are brought to book if there is credible evidence that confirms that they are terror suspects. We probably need to build a proper judicial system that does not allow those leaks. Like When you speak to the Anti-Terror Police Unit (ATPU) officers, they will tell you that many at times have they arrested suspects with all the evidence pointing to their involvement in terrorism activities. Unfortunately, when those suspects appear before a Magistrates' Court, they end up walking scot free in the afternoon. They are then left wondering of what they are supposed to do yet they took a vow to ensure that citizens are well taken care of. Those are the challenges that our officers continue to face and that is why we continue reading about these stories. Non-Governmental Organizations (NGO) such as Muslims for Human Rights (MUHURI) appeared before that Committee. If you read their presentations, you will learn that a good number of those suspects are usually recaptured immediately after leaving the court room never to be seen again. We will be missing the point by a huge mile if we are to only address the issue of their disappearance. We should also address the reasons as to why civilized police officers, who vowed to protect and defend our Constitution, resort to that kind of means. It will be unfortunate, of this House, if we do not address that particular issue. That tells you that there is a challenge. What makes an officer to give up on our judicial system? Most of them say that the whole thing ceases to be about the security of Kenyans but their individual security. They will tell you that they arrested suspect XYZ, presented him before a court of law and they know how dangerous that particular suspect is. They will also tell you that the magistrate will set that suspect free because of the nature of our laws. Therefore, in an attempt to protect themselves, they end up doing the kind of things that they do. Therefore, we must strike a particular balance. Sen. Faki ought to have listened to me. I do not want us to get to a point where we have to either choose the people who are enforcing disappearance or the police. I do not know if he has followed the argument. Out of the five recommendations, and I will come to them---"
     },
     {
-      "order": 110,
+      "order": 113,
       "id": "entry-1122013",
       "label": "speech",
       "level": "3",
@@ -1323,7 +1359,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 111,
+      "order": 114,
       "id": "entry-1122014",
       "label": "speech",
       "level": "3",
@@ -1335,7 +1371,7 @@
       "text": "There is an intervention by Sen. Faki."
     },
     {
-      "order": 112,
+      "order": 115,
       "id": "entry-1122015",
       "label": "speech",
       "level": "3",
@@ -1347,7 +1383,7 @@
       "text": "Ahsante sana, Mheshimiwa Spika. Nimemskiza ndugu yangu, Sen. Cheruiyot, na ninashangaa ya kwamba anajaribu kutetea uvunjaji wa sheria. Anasema ya kwamba mtu anaweza akauawa ama kupelekwa mahali pasipo julikana na familia wala wakili wake baada ya kushikwa, kupelekwa mahakamani na mahakama kuamuru ya kwamba hana hatia na hakuna ushahidi wa kutosha kumuhukumu. Hao watu hupotea kiasi ya kwamba hakuna mtu yeyote katika jamhuri ya Kenya ambaye anaweza sema ya kwamba yuko mahala fulani. Tuko katika Bunge, na ni hapa ambapo tunatunga sheria. Hatuwezi tukasema ya kwamba ni haki kwa askari kuchukua mtu. Taasisi ambayo imeundwa na katiba kuangalia kama kuna ushahidi ama la ni mahakama. Mahakama ikisema ya kwamba polisi hawana ushahidi wa kutosha basi hao watu wachunguzwe. Hao watu wataendelea kuchunguza mpaka polisi waone ya kwamba hao sio tishio kwa usalama wa taifa. Sio sawa kusema ya kwamba polisi wako na haki."
     },
     {
-      "order": 113,
+      "order": 116,
       "id": "entry-1122018",
       "label": "speech",
       "level": "3",
@@ -1359,7 +1395,7 @@
       "text": "Mr. Speaker Sir, this is the danger that I was speaking about and I think that it emanated from the 2005 referendum where we had orange and banana side. In many occasions, Kenyans will want to either pick left or right on any particular issue. I wish Sen. Faki listened to me because I did a good job at explaining my point. I said that there is no easy solution to this particular issue. He has referred to the explanation that I gave. I was explaining the reason as to why many officers resort to those kind of heinous acts. I did not say that what they are doing is right. I challenged the Committee because they only addressed one side of the problem. They named and pointed out the evil things that the police officers do but they failed to address the issues that make them resort to extra-judicial killings. If we do not address those issues, we will not have sorted the problem conclusively. That is my simple point. I have not said that it is right to kill any particular person. I was very clear about that."
     },
     {
-      "order": 114,
+      "order": 117,
       "id": "entry-1122019",
       "label": "speech",
       "level": "3",
@@ -1371,7 +1407,7 @@
       "text": "On a point of information, Mr. Speaker, Sir."
     },
     {
-      "order": 115,
+      "order": 118,
       "id": "entry-1122020",
       "label": "speech",
       "level": "3",
@@ -1383,7 +1419,7 @@
       "text": "There is an intervention from Sen. Cherargei."
     },
     {
-      "order": 116,
+      "order": 119,
       "id": "entry-1122021",
       "label": "speech",
       "level": "3",
@@ -1395,7 +1431,7 @@
       "text": "Mr. Speaker, Sir, I want to inform Sen. Cheruiyot that---"
     },
     {
-      "order": 117,
+      "order": 120,
       "id": "entry-1122022",
       "label": "scene",
       "level": "3",
@@ -1407,7 +1443,7 @@
       "text": "(A Member spoke off record)"
     },
     {
-      "order": 118,
+      "order": 121,
       "id": "entry-1122023",
       "label": "speech",
       "level": "3",
@@ -1419,7 +1455,7 @@
       "text": "Mr. Speaker, Sir, I thought that we have only one Speaker. I do not want to expose any accused person or suspect to the principle of double jeopardy but we have had cases where people have been released and rearrested on different charges. We do not agree with the modus operandi of the police where they abduct people without following the legal process. However, we have scenarios where people have been rearrested after their release when the police believe that they have sufficient evidence for a different charge and many Kenyans are aware of this. It is important to note that it is illegal for them to re- arrest somebody on the same charges. That is my point of information to Sen. Cheruiyot."
     },
     {
-      "order": 119,
+      "order": 122,
       "id": "entry-1122024",
       "label": "speech",
       "level": "3",
@@ -1431,7 +1467,7 @@
       "text": "Thank you, Mr. Speaker Sir. That is very useful information. I want to engage Sen. Faki and everyone else who is listening. I said that my presentation is based on a conversation that I had with an officer who works at ATPU. I followed through the presentations by the NGOs when the Committee was in Mombasa. Nation Television Network (NTV) aired those proceedings live. I know an officer who served in that institution. I asked him why they did the kind of things that the families were narrating and he explained to me the challenges that they face. That is why am saying. As a House, we must equally rise up to that particular challenge for us to solve the issue conclusively. This is what he told me: 'This is my job but I also have a family that I have to take care of.' He explained to me the reason as to why his colleagues do those kind of things. He told me that those people bribe their way out. He said that the problem could either be how the Kenyan judicial system works, our laws or gaps that exist therein. He said that they at times present suspects who are dangerous to the society with very strong just to find out that those people are out on bail. A good example is the case of the five men that our country is looking for right now. This matter is alive in our Country. I believe that we are all aware that there are five terror suspects who are out at large. Imagine the agony of the police officers who were handling that particular case. They have families and they have to fear. The Director of Public Prosecutions (DPP) recently said that he fears for his life because of the cases that he has approved against terror suspects. He said that he does not get sufficient protection. I agree with the measures that have been proposed by this Committee a hundred per cent. However, it solves half of our problems. The measures are good because they remind our officers that they took a vow to protect life. It also reminds them that they must ensure that all suspects; terror or fraud suspects, have their rights as well. As a country, we must strive to be governed by the rule of law. Their recommendation number three proposes amendment of various protocols. One of the things that they want amended under the National Coroners Service Act is that the mandate of the National Coroners Service be independently investigated. They also stated that it should determine the cost of reported unnatural deaths in the country. They also stated that it needs to provide for independent forensic and medical services. I understand what they are saying at that point. We know the issues. There was one incident I think two or three years ago, about a suspect in Kilimani, where somebody died and some doctor gave a report that it was a natural cause of death. You wonder because this was somebody who by the time of arrest was fully okay and were not battling any reported illness. Since people are able to quickly find their way out and short circuit the system, they are able to give these particular results. Mr. Speaker, Sir, I agree with each of the three propositions. The fourth one of course, is our call to the international institutions offering training. This is one of the solutions now that is moving on to part of what I was proposing as the second half of the solution. Part of the things we need to engage in, is not only solve it on the terror suspect side, but sort it also in terms of what we do with the police officers. I have seen a very good recommendation on training for many of these officers of ours. Recommendation four proposes an enhanced training of these law enforcement officers on how to respect human rights. It will also enable them to have a fair, just and human treatment of persons, particularly regarding their duties regarding arrest and many of these things. Even an arrested person has rights which include the manner in which you arrest them. They have the right to be informed why they are being arrested and to be transported into safe custody in a humane way. It should not be in all those old tactics that we used to read about of people being bundled into boots and squeezed. These are some of the quick wins that we can enjoy. We appreciate that these officers may have all the evidence against this person but it is not their duty as officers, to determine guilt or otherwise. You cannot have it both ways. You can only accuse, but it is upon a competent jury to make a determination and say that the person is either guilty or innocent in that particular situation. Mr. Speaker, Sir, this is not complete though, especially in their proposal for a multi-agency, if you do not involve the Judiciary. The Judiciary is a key player and a key stakeholder in this journey if you want to win this war. We must also have judges come and sit on a particular platform. I do not know what the pragmatics of it will be. In the dispensation of justice, a judge is not supposed to be influenced by any other force outside the matters that are playing out in their courtroom. Perhaps it might be prejudicial to have them sit in this Committee. We need just to even have their perspective. What is it that goes on in the mind of a judge by the time evidence has been presented to them? For example, they have been told, \"these are the money transactions between this particular person, and known terror suspects. These are the weapon that they were caught with.\" However, we still find, them saying that \"the evidence that has been presented before me is not sufficient. I cannot guarantee detention of this person and therefore I let them free\". On many occasions, it would be good for this multi-agency team to sit, so that the evidence can be presented to them, that on many occasions, many of these suspects actually jump bail. Before the time of their second or their next appearance in court, they are either out of the country, have disappeared never to be seen, or even commit certain heinous crimes against these officers. That is what I was pointing out earlier; that these are the things that lead these officers to hunt them. It is actually like a movie scene, where you know, \"there is somebody after my neck, therefore the quicker I can get to them---.\" Therefore, I understand the importance of having this this multi-agency team that is being proposed, apart the National Commission on Administration of Justice (NCAJ) which, in my understanding, is an oversight institution. It would be good to have the perspective of the judiciary as well and have them form part and parcel of this taskforce. This is so that they can even perhaps challenge the arresting officers and the Directorate of Public Prosecution (DPP), on the evidence before a court of law that would be able to persuade a judge on the need to detain some of these suspects."
     },
     {
-      "order": 120,
+      "order": 123,
       "id": "entry-1122029",
       "label": "scene",
       "level": "3",
@@ -1443,7 +1479,7 @@
       "text": "(Sen. Madzayo spoke off record)"
     },
     {
-      "order": 121,
+      "order": 124,
       "id": "entry-1122030",
       "label": "speech",
       "level": "3",
@@ -1455,7 +1491,7 @@
       "text": "By and large ---. I think our good colleague from Kilifi is following the presentation and helping me along, but he is making me lose my trail of thought at it. I know largely he agrees with what I am saying. I was concluding Mr. Speaker Sir, because I know colleagues want to speak to this issue. This is a very well-done report by the Justice, Legal Affairs and Human Rights Committee. This Committee continues to distinguish itself when given such an important assignment. I hope in the little presentation, I have been able to convince colleagues like Senator Faki and the rest, who probably earlier in their presentation thought that I was picking a particular side. My point remains there are no quick wins to this problem and it must be multi- pronged. This is to ensure you protect the rights of the suspect but also equally protect the rights of the men and women in uniform who go out of their way to ensure that you and I and safe. They are human beings like us; they have families. They would wish to live long and happy so at to get to see better days. How are we able to pass recommendations that ensure we successfully slay this challenge? It is a menace that, basically, every developing society continues to face. We must lead the way and strive in ensuring that we solve this problem. Good job to the Justice, Legal Affairs and Human Rights Committee, and I hope this can actually be attended to. I agree with recent proposal on the need to restore the Senate's Implementation Committee. The only thing that I do not know is how quickly that can be brought to life Many good Reports of the Senate continue to gather dust in our shelves. This is because there is no specific committee whose mandate is to ensure that once we passed a report such as this and we give it a vote, the various government agencies and different players in the sector, follow through with the what the people of Kenya have said through there representatives. Good work on the Justice, Legal Affairs and Human Rights Committee. I support."
     },
     {
-      "order": 122,
+      "order": 125,
       "id": "entry-1122033",
       "label": "speech",
       "level": "3",
@@ -1467,7 +1503,7 @@
       "text": "Senator Wetangula."
     },
     {
-      "order": 123,
+      "order": 126,
       "id": "entry-1122034",
       "label": "speech",
       "level": "3",
@@ -1479,7 +1515,7 @@
       "text": "Thank you, Mr. Speaker Sir, for giving an opportunity to join colleagues who have contributed to this Report. First and foremost, I salute the Committee led by a distinguished colleague Senator Omogeni, and a Committee that has the highest concentration of lawyers in this House. These include Sen. Omogeni, former Attorney General Sen. Wako Sen. James Orengo, Sen. Dullo, Sen. Mutula Kilonzo Jnr., and Sen. (Dr.) Irungu Kang'ata. The only non-lawyers in the Committee are the Bishop and hon. Sakaja."
     },
     {
-      "order": 124,
+      "order": 127,
       "id": "entry-1122035",
       "label": "speech",
       "level": "3",
@@ -1491,7 +1527,7 @@
       "text": "May be the Bishop was praying for the Committee."
     },
     {
-      "order": 125,
+      "order": 128,
       "id": "entry-1122036",
       "label": "speech",
       "level": "3",
@@ -1503,7 +1539,7 @@
       "text": "I am sure by osmosis the Bishop is now as a consummate a lawyer as Okiya Omtata is."
     },
     {
-      "order": 126,
+      "order": 129,
       "id": "entry-1122037",
       "label": "speech",
       "level": "3",
@@ -1515,7 +1551,7 @@
       "text": "There is a point of information from Sen. Omogeni."
     },
     {
-      "order": 127,
+      "order": 130,
       "id": "entry-1122038",
       "label": "speech",
       "level": "3",
@@ -1527,7 +1563,7 @@
       "text": "Yes, I just want to correct my good friend, Senator of Bungoma that Sen. Poghisio is not a member of our Committee."
     },
     {
-      "order": 128,
+      "order": 131,
       "id": "entry-1122039",
       "label": "speech",
       "level": "3",
@@ -1539,7 +1575,7 @@
       "text": "Mr. Speaker, Sir, I did not mention Poghisio. I called out the names of Sen. Omogeni himself, Bishop, Sen. Wako, Sen. Orengo, Sen. Dullo, Sen. Mutula Kilonzo Jnr., and Sen. (Dr.) Irungu Kang'ata and Sen. Sakaja, my distinguished nephew. Mr. Speaker, Sir, the issue of extra judicial killings in this country is mind boggling. This is because we have lost many people who in Mexico they called it 'disappeared without a trace'. There is even a famous movie, called 'Without a Trace', where people just vanish, and nobody gives answers when questions are asked. In this country, we have no shortage of laws and institutions to protect human rights, individuals, their lives and property. In fact, some of the institutions are actually overlapping in mandate in trying to protect the lives of Kenyans. Mr. Speaker, Sir, this notwithstanding, looking at this Report and the catalogue that runs through, it tells you that the more we talk about this situation, the worse it becomes. It does not seem to be improving. Extrajudicial killings have been part and parcel of our public lives in this country, right from independence. We have to get to a place where we have to stop it. When you go to the coast where Sen. Faki represents Mombasa and my brother, the retired Judge, represents Kwale, you meet families that have long stories to tell. How their children are arrested and then they never appear again."
     },
     {
-      "order": 129,
+      "order": 132,
       "id": "entry-1122042",
       "label": "scene",
       "level": "3",
@@ -1551,7 +1587,7 @@
       "text": "(Sen. Farhiya spoke off record)"
     },
     {
-      "order": 130,
+      "order": 133,
       "id": "entry-1122043",
       "label": "speech",
       "level": "3",
@@ -1563,7 +1599,7 @@
       "text": "My distinguished Colleague, Sen. Farhiya, is telling me that even in North Eastern. In fact, it is across the country but the worst of these disappearances have been recorded from the coast region. In the context of fighting crime, it cannot be condoned that you commit more crimes along the way. That does not help society. I agree with recommendation no.4; enhance training of law enforcement officers in respect of human rights. It does appear that when you compare with other jurisdictions, --- Somebody keeps on joking that if you are in London or more developed countries, when you have a problem and you see a policeman, your problems gets solved. In Kenya when you are in problems and you see a policeman, your problems multiply."
     },
     {
-      "order": 131,
+      "order": 134,
       "id": "entry-1122044",
       "label": "scene",
       "level": "3",
@@ -1575,7 +1611,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 132,
+      "order": 135,
       "id": "entry-1122045",
       "label": "speech",
       "level": "3",
@@ -1587,7 +1623,7 @@
       "text": "It is because things do not work the way they should. When you we were at the university, you would encounter the police and the first question they ask you is how much money you have. If you have no money, they frame you as rogue and vagabond. Just because you do not have no money. Luckily that crime was edited out of our criminal law justice system and now they use other methods. Mr. Speaker, Sir, people have been shot. You then get an explanation that an accused person, who was in custody, was running away escaping from lawful custody and that is why the police shot him. When you go to postmortem, you find that the bullet that hit this person who was running away, came from the front. So, you cannot be shot in the chest if the person shooting you, is shooting you because you are running away. These are all bizarre explanations that we need to check. In the right run up to the new Constitution, we kept on asking ourselves the cardinal legal questions. Who will watch the watchers? Who will police the police? These were big questions that informed the creation of the National Police Oversight Authority (IPOA), the Police Commission that was started off by Mr. Kavuludi and turning the police from a force to a service. In the past, prior to 2010, we had a Police Force. It appears our police used to misinterpret the meaning of force and felt that they have to use actual force on citizens. Today, we have a Police Service. When our Committee interviewed the current Inspector-General, he told us he was going to be a reformist Inspector-General of Police. We would encourage the Committee on Justice, Legal Affairs and Human Rights, to have periodic meetings with the Inspector-General, to get appraised on what reforms are being carried out. The more we talk about extrajudicial killings, the more people get shot and killed in custody. The more people get arrested and kidnapped and you never get to know where they go. This can be explained by the inordinate number of dead bodies that are dumped in rivers in Murang'a and Kiambu County. Mr. Speaker, Sir, people disappear. Eventually, you are told that the body was found in Ol Donyo Sabuk in a river, tied in a suck and dismembered. Very few individual citizens would have the capacity to do those kind of things. I cannot imagine a situation where an individual can kidnap two or three people, alone, and go and dismember their bodies and throw them into a body of water. All these, the buck ends on the desk of Inspector-General. Going forward, I urge that these recommendations be furnished on the Ministry of Interior and Co-ordination of National Government, Police Commission, IPOA and the Inspector-General of Police and his team. I say so because we have continuously had a situation where brute force seems to be the modus of operation as against persuasion. Ordinarily, when the police want to arrest somebody - of course, there are extraneous cases where somebody is described as armed and dangerous - but ordinary people do not bear arms. You find a platoon of 30 policemen going to arrest a harmless Member of Parliament (MP) like we saw in the case of Sen. Lelegwe, Sen. Malalah and Sen. Lang'at, when actually it is improper deployment of our police officers. One or two policemen can go and arrest a helpless Senator like Sen. Cherargei here. Why should you deploy 20?"
     },
     {
-      "order": 133,
+      "order": 136,
       "id": "entry-1122048",
       "label": "scene",
       "level": "3",
@@ -1599,7 +1635,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 134,
+      "order": 137,
       "id": "entry-1122049",
       "label": "speech",
       "level": "3",
@@ -1611,7 +1647,7 @@
       "text": "It does not help. They go there with armed with AK47s, as if they are going to arrest a robber, yet it is a legislator. We need to make it abundantly clear that any public officer who is involved extrajudicial killings, takes personal responsibility. We should not have any vicarious responsibility in this case. Any policeman who shoots anybody without justification, must be arrested and charged with a homicide. Whether it is murder or manslaughter, that will be the decision of the Director of Public Prosecutions (DPP). We must make it difficult and painful for people who engage in extrajudicial killings of our people. Mr. Speaker, Sir, you heard of the case the other day of a lawyer, Mr. Nandwa and his client, who just disappeared. A week later, we were told he was dropped by some vehicle in Mwingi. I am told he has refused to talk. We do not know what they did to him. I would encourage Mr, Nandwa, as a learned friend and as a custodian of peoples' right, to come forward and tell us so that we can stop this kind of behavior. His client is gone; we do not know where he is. In one of my visits in Mombasa County, I met a lady. She came to see me and cried for one hour, sitting with me, telling me how her first son disappeared and the body has never been found. Her second son disappeared and the body has never been found. The third son disappeared too. She had four sons but is now left with one. The other three are gone and there is no hope that they will be found because they were arrested by a Unit of the police called Anti-Terrorism Police Unit (ATPU). Mr. Speaker, Sir, we want to support our police in fighting crime. We want to support the State and the Government in protecting innocent Kenyans. We want to Support the State in pursuing criminals through due process. Everybody is presumed innocent until declared guilty by a court of law. Anybody who engages in unlawful killing, commits a crime. Anybody who arrests people and keeps them in custody for inordinate long times, commits a crime. May I encourage Sen. Omogeni that when you engage IPOA, they have been doing a good job here and there but they are cry-babies. They are constantly complaining. If IPOA, a constitutional body - a Commission - that is supposed to protect innocent Kenyans, is crying louder than the innocent Kenyans, who will then protect innocent Kenyans."
     },
     {
-      "order": 135,
+      "order": 138,
       "id": "entry-1122052",
       "label": "scene",
       "level": "3",
@@ -1623,7 +1659,7 @@
       "text": "[The Speaker (Hon. Lusaka) left the Chair]"
     },
     {
-      "order": 136,
+      "order": 139,
       "id": "entry-1122053",
       "label": "scene",
       "level": "3",
@@ -1635,7 +1671,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kamar in the Chair]"
     },
     {
-      "order": 137,
+      "order": 140,
       "id": "entry-1122054",
       "label": "speech",
       "level": "3",
@@ -1647,7 +1683,7 @@
       "text": "Madam Deputy Speaker, we want to see that the training of our police officers in Kiganjo, has a fundamental lining of respect for human rights and that the innocence of every individual sacrosanct until pronounced otherwise by a court of law. I say this because today is not like those old days, where we had very limited availability of courts. Today, there is not a single area in this country where you cannot find a court of law, manned by professionally trained magistrates and judges. So, the issue of holding people for inordinately long time, eventually killing them, --- We used to have a man in this town called Patrick Shaw. He was a white policeman who was connected with Starehe Boys Centre. The number of people that white man killed in this country, will come round to haunt us. He used to arrest people, drive them to Karura Forest and then releases you and tells you; \"You can now run back home.\" As you run, a bullet in your back. This happened to one famous footballer called Nicodemus Arudhi. He was a player for Gor Mahia or Luo Union, one of the two teams. Rumor has it that he used to keep bad company. This mzungu arrested him and the next day, they found his body in the mortuary with bullet wounds. Madam Deputy Speaker, when such a thing happens, you do not need to ask yourself serious questions. Lawyers say res ipsa loquitur; things speak for themselves. If you are the last person seen holding the bishop walking her away and she is later found dead, things will speak for themselves. That, it must be you until it is proved otherwise that you are the one who has caused the loss of life. Now, we are no longer a hippy country. We are classified as middle-level developed country. We are not in the same league as Burundi and many of our East African partners like South Sudan. Our growth in economy must also measure with our growth in the sophistication of how we manage our affairs as a country. The new Chief Justice (CJ) has been talking of making it easy for people to go through the mill of justice. The DPP has been quite good at this because he has not been rushing people to court. In comparable jurisdictions like the United States of America (USA), when the DPP takes you to court, he has a file ready and hearing can start as soon as is practically possible depending on the availability of court time. Madam Deputy Speaker, here, you are taken to court and the police tell you that investigations are still going on and that they want to hold the suspect. If investigations are still going on, how do you arrive at preferring a charge against an individual? You are still investigating. You may be preferring a charge of pick-pocketing when, in fact, the eventual charge will be robbery with violence. We want to see people being taken to court when investigations have been done and concluded; and the DPP has approved that this, in fact, is correct and sustainable charge. You then take people to court. Looking back, these killings have not been limited to the low end of society. We have the cases of Pio Pinto, Tom Mboya, J.M. Kariuki, Kung'u Karumba and many other people. Of late, Anthony Ndilinge, former MP for Kilome and others, who have fallen from the hand of a gun wielding person. We have a group among the police, that this Committee needed to have talked to. They are called Kenya Police Reservist (KPR). They are a vigilante group set up in various places and armed to help the police in combating crime. Many of them are not properly trained in handling weapons and sometimes they abuse these weapons. When we went to Laikipia County on a facts finding mission with our distinguished Senator here, we heard the people of Laikipia County crying that they want reservists back because they help. By the time you take them back, we want them to be trained. The training of the police in England, USA and everywhere is, if a person is aggressive and is difficult to arrest, you maim him to arrest but not kill. Shoot him in the leg if you have to before you arrest him if he is menacing you with a weapon. Madam Deputy Speaker, here in Kenya the aim is at the head or chest where the heart is and people just die in a manner that is regrettable. This Report is so well written and thorough in research, that I would want to urge the whole House to support it. We also have what they have called Victim Protection Board (VPB). Again, sometimes when there are excesses of the police, people fear going forward because when they tell the truth, they become even bigger targets. When they are protected under the law like witness protection, it helps in finding facts and getting things done. Today, I dare say, we have no shortage of young educated Kenyans who can be police officers. If the police has bad apples--- I remember when I visited the Inspector- General (IG) recently and talked to him about what we saw in Laikipia County, he said they know they have some rotten apples among the police who needed to be weeded out. They should be weeded out as quickly as yesterday, so that we have a Police Service that is responsive; responsible; respects human rights and private property; and, that respects the doctrine of innocence until proved guilty. Madam Deputy Speaker, if we do not have this, we will continue crying every year about extra judicial killings and it goes on unabated. I also encourage that there should be continuous refresher courses."
     },
     {
-      "order": 138,
+      "order": 141,
       "id": "entry-1122060",
       "label": "speech",
       "level": "3",
@@ -1659,7 +1695,7 @@
       "text": "Senator there is a point of order from Sen. Kinyua."
     },
     {
-      "order": 139,
+      "order": 142,
       "id": "entry-1122061",
       "label": "speech",
       "level": "3",
@@ -1671,7 +1707,7 @@
       "text": "Senator Kinyua?"
     },
     {
-      "order": 140,
+      "order": 143,
       "id": "entry-1122062",
       "label": "speech",
       "level": "3",
@@ -1683,7 +1719,7 @@
       "text": "Senator Kinyua of Laikipia"
     },
     {
-      "order": 141,
+      "order": 144,
       "id": "entry-1122063",
       "label": "speech",
       "level": "3",
@@ -1695,7 +1731,7 @@
       "text": "Thank you, Madam Deputy Speaker. It is a point of information. I want to concur with what my Colleague is saying about Laikipia County. In fact, he mentioned the National Police Reservist (NPR). We had about 832 but when they were withdrawn---"
     },
     {
-      "order": 142,
+      "order": 145,
       "id": "entry-1122064",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1743,7 @@
       "text": "Is it a point of information?"
     },
     {
-      "order": 143,
+      "order": 146,
       "id": "entry-1122065",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1755,7 @@
       "text": "Madam Deputy Speaker, I want to inform him so that there can be clarity. In Laikipia County, we did not have the rogue NPRs. My Colleague has mentioned we went to Laikipia County. In fact, the people of Laikipia County were very excited to see Sen. Wetangula. They were very clear and told him that if they got back their NPRs, they would be more than contented. When we had those NPRs, insecurity was a thing of the past. When they were withdrawn in the pretense that they wanted to do ballistic test for the guns that they had and check their certificates of good conduct, that is when the rain started beating us. Madam Deputy Speaker, I want to tell my Colleague that if the NPRs are brought back in Laikipia County - many of them were trained - we are not going to have this insecurity problem. I know he is a Member of the Committee on National Security and Foreign Relations and I want to assure him that that if we get back our NPRs, we might not even need more police officers. Our people know the terrain of Laikipia County very well, especially the Laikipia Nature Conservancy. They can handle the security better. Thank you."
     },
     {
-      "order": 144,
+      "order": 147,
       "id": "entry-1122066",
       "label": "speech",
       "level": "3",
@@ -1731,7 +1767,7 @@
       "text": "Thank you."
     },
     {
-      "order": 145,
+      "order": 148,
       "id": "entry-1122067",
       "label": "speech",
       "level": "3",
@@ -1743,7 +1779,7 @@
       "text": "Madam Deputy Speaker, my time has been saved. Thank you, for that information. In fact, I had already said that in Laikipia County, the population was crying for NPRs. What I am recommending to the Committee, as we go along in pursuing these reforms, is that NPRs should be competitively recruited. Two, they should be trained on how to handle weapons. Three, they should be trained on how to respect human rights. In Laikipia, we found overwhelming support for police reservists but in other areas, we found complete disdain and fright about the presence of police reservists. So, how do we harmonize this? One, we have to train them. Secondly, we have to put them on some stipend for them to stop thinking that the gun that they have been given is the source of their livelihood. When they cannot make ends meet, they should not abuse those guns so as to put food on their families' tables. They should be given stipend from the national coffers because they are part of community policing that we have in this country. We must also acknowledge them when they do a good job. When they do not do a good job, we must say so and ask them to improve. In the last Parliament, Sen. (Prof.) Lonyangapuo brought a Bill in this House and he wanted the police reservists to be recognized, adopted and paid some form of salary in order for them to do a good job. In fact, there are some places in this country where ordinary police do not exist. If you go to Kapedo, Suguta Valley, some parts of West Pokot and some parts of Turkana, you will find that the police supplement the primary duty of the people over there. If you land in Lodwar and drive to Nakodok or Nadapal, you will be surprised. When you get there, you will see a mama carrying water on her head, a baby on her back and a Kalashnikov on her shoulder to protect her livestock, family and society. I salute those women. The police officers, who we recruit, should be deployed in the areas that have serious security challenges such as Marsabit, Turkana, Isiolo, Samburu, Laikipia, Tana River, Lamu and other places. People in those places should enjoy the freedom that our forefathers fought for. This report is good because it makes far reaching recommendations. However, this Report will be among the statistics of reports brought to this House unless the Senate Business Committee brings back the Implementation Committee to this House. Once this Report is done, it will be kept away. It will gather dust and nobody will be held to account. Nobody will call the Inspector General (IG) to ask him if they have set up a training system on human rights. If we had an Implementation Committee, it would catalogue appearances from various Government agencies. It would also ensure that the resolutions of this House are implemented, actualized and that those resolutions find their ways into legislation and policy formulation for the Government. The Speaker announced here, sometimes back, that we were going to have the Implementation Committee. We need it as early as yesterday. You and I remember the far-reaching recommendations that we gave on the maize inquiry. It included reforming the National Cereals and Produce Board, giving subsidies to the farmers and the interventions that were to be undertaken by the State so as to help the farmers. Nobody talks about that Report any more because there is no Committee on Implementation. That Committee would have asked the Cabinet Secretary in charge of the Ministry of Agriculture, Livestock, Fisheries and Co-operatives the reason as to why he has not implemented the resolutions that were passed by the Senate. Without that, our debates end up being academic discourses that do not improve the lot of our country. Be that as it may, I want to thank the distinguished colleagues who are Members of this Committee for working hard and bringing a Report of this nature. This Report, if properly implemented, will help in doing away with extra-judicial killings, maiming, kidnapping and incarceration of people for long periods. Allow me to say this for one minute. There was a boy who was called Masten Wanjala. He confessed that he killed 14 children and sucked their blood. He was arrested. I want Sen. Omogeni to look at this case even if it means doing it on his own motion. That boy was arrested and he confessed to all those killings. One would have expected him to be taken to court and put in high security remand like Kamiti or somewhere else. What did we learn? That the boy was in Jogoo Road Police Station and he freely walked away. He went home. He happens to come from my village. The first victim of his heinous crimes was a child in my village. He slaughtered that child, sucked his blood and disappeared. When he appeared at home, the villagers came out and administered justice on him. Unfortunately, we will never get to know whether that boy had acted alone in the killing of 14 children or he had acted with others whom we will never know. If he was taken through the due process, we would probably have known potential pedophiles like him. I want Sen. Omogeni and his team to find out how that boy found himself in a police cell after two months of his arrest. How did he escape and how did he get away the way he did? I beg to support the Report. T"
     },
     {
-      "order": 146,
+      "order": 149,
       "id": "entry-1122072",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1791,7 @@
       "text": "Thank you, Senator. Can we hear from Sen. (Eng.) Hargura? Is he online? He seems not to be online. Let us hear from Sen. (Rev.) Waqo."
     },
     {
-      "order": 147,
+      "order": 150,
       "id": "entry-1122073",
       "label": "speech",
       "level": "3",
@@ -1767,7 +1803,7 @@
       "text": "Thank you, Madam Deputy Speaker, for allowing me to add my voice to this. I am a Member of this Committee. Sen. Wetangula said that I am the only Member of the Committee who is not a lawyer but with the experience that I have gained, I can now look for a certificate."
     },
     {
-      "order": 148,
+      "order": 151,
       "id": "entry-1122074",
       "label": "scene",
       "level": "3",
@@ -1779,7 +1815,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 149,
+      "order": 152,
       "id": "entry-1122075",
       "label": "speech",
       "level": "3",
@@ -1791,7 +1827,7 @@
       "text": "I am glad to be in that Committee not only as a member but as a Vice- Chairperson. I am proud of what the Committee has done under the guidance of our able Chairperson. This Committee has given this issue a lot of attention. The matter attracted the attention of the opinion leaders and the local people who participated in our deliberations. Extra-judicial killings and enforced disappearances in Kenya have been of great concern for quite a while. We have lost a lot of young people as a result of extra-judicial killings in places like Marsabit, Isiolo, Eastleigh in Nairobi and other parts of this country. The Coastal region has suffered a lot as a result of this. When you interact with people who have lost their loved ones in these extra- judicial killings, you will realise that they live in a lot of pain. Mothers cannot explain where their sons are and the sad part of it is that they still expect their sons to go back to them one day. It is sad that people try to find justice for their loved ones but they have no one to turn to. If you look at chapter one, which is the introduction, we have number five. In it, we have cited Article 26(3) of the Constitution of Kenya, 2010 which guarantees every Kenyan the right to life. It states that - 'A person shall not be deprived of life intentionally, except to the extent authorised by this Constitution or other written law.' Article 29 of the Constitution provides for the freedom and security of the person. This includes the right not to be subjected to torture, ill treatment or punishment, to ensure access to justice for all persons. Madam Deputy Speaker, Article 49 sets out the rights of an arrested person and grants to every person the right to a fair hearing, including the right to be presumed innocent until the contrary is proved. Many times, Kenyans who are victims are not even given this opportunity. That is why as I support this report, I also support the proposal by Sen. Wetangula that a Committee on Implementation should be put in place so that all our recommendations can be considered. A Committee can do a follow up, so that one day Kenyans can know for sure that what we have done as a Committee can be given proper attention. Madam Deputy Speaker when we looked at the challenges faced in reducing impunity in the fight against extrajudicial killings and enforced disappearance, that is where the real issues have been brought out. Number one is while there are many actors handling matters relating to complaints against law enforcement officers there is lack of proper coordination and cooperation among agencies. This is one of the main hindrances that has been there. There is no proper coordination between the agencies or the corporations, and that has been one major hindrance. That is why we have all the challenges that we have faced as a country. Madam Deputy Speaker, I want to be brief. Under the recommendations, we have said that different things should be put in place. If we do so, then we will be able to reduce on this. In this country, many people have lost and keep losing their lives. These days, you cannot even know whether it is the citizens who are killing each other or the police killing them. From what you see, it is like no one is in control of this country and no one is taking care of people's lives. Under our recommendations, we have said that we should establish a strong multiagency task force to ensure better synergy, collaboration and cooperation between the various agencies that seek to hold law enforcement officers accountable. Madam Deputy Speaker, many times, the officers who do this are left free and they continued doing it. Sometimes, they are even transferred from one place to another. All the criminals who do this are taken to places like Marsabit and other remote areas in the Northern part of Kenya for disciplinary action. They then continue to do the same things and punish citizens. That means that we will never get out of the problems that we are facing today. However, once the recommendations that we have made here will be put in place, those who have lost their loved ones will have peace in their hearts. Madam Deputy Speaker, our second, third, and fifth recommendations are areas that I will just mention. As we speak about this, we know that the Committee has given a lot of attention to it. Number two is the development of a monitoring and evaluation plan for the envisaged multiagency task force. The plan should set out clear indicators to track complaints, investigations, prosecution and the final outcomes of the cases on extrajudicial killings and enforced disappearances. Madam Deputy Speaker, in today's world, without monitoring and evaluation, we know that nothing much happens. When this is put in place, we will know that any complaint that has been there will be given proper attention. This is because there will be timings and people will give a lot of attention such that before that time lapses, a proper report will be given. Fourthly, there should be enhanced training of law enforcement officers. Many Senators have referred to this. We have seen that the officers in place are mishandling and mistreating Kenyans. Enhancing training and capacity building for them will help them to handle these Kenyans like any other human being who is a respected person. Even if they apply the law, they will know that they are human beings like them. Madam Deputy Speaker, the fifth recommendation is that the victim protection board can only compensate families of victims of extrajudicial killings and enforced disappearance based on the actual conviction of an accused person in a criminal case. It is important to enhance the capacity of both the Independent Policing Oversight Authority (IPOA) and the Office of the Director of Public Prosecutions (DPP) to successfully investigate. Unless we empower IPOA and the office of the DPP, we know that there is no investigation that can be done and concluded. Currently, they are facing some financial constraints and some of them need capacity building. If we do so, then we know that these institutions will improve in what they are doing and Kenyans will benefit a lot from this. Madam Deputy Speaker, I fully support the report and also commend the work done by our Committee. I pray that we continue with that good spirit because we have been doing some great work for this House. Thank you, Madam Deputy Speaker."
     },
     {
-      "order": 150,
+      "order": 153,
       "id": "entry-1122081",
       "label": "speech",
       "level": "3",
@@ -1803,7 +1839,7 @@
       "text": "Sen. (Dr.) Musuruve."
     },
     {
-      "order": 151,
+      "order": 154,
       "id": "entry-1122082",
       "label": "speech",
       "level": "3",
@@ -1815,7 +1851,7 @@
       "text": "Thank you, Madam Deputy Speaker, for giving me this opportunity to support the report that has been brought on the Floor of this House. It was brought yesterday by Sen. Omogeni and concerns extrajudicial killings in this country. I strongly support it because it is in line with the Constitution. Article 26 of the Constitution is very clear that everyone has a right to life. No Kenyan life should be taken away intentionally. We have had a number of complaints. Most of them are highlighted by the media and I commend them for doing so. In their role as the watchdog, the media bring out exactly what is happening in our society and we speak about it on the Floor. If there is any action to be taken, we, as Senators, can act in order to protect Kenyans. Madam Deputy Speaker, it is unacceptable for the police to take away people's lives. The police officers have a role is protecting Kenyans and ensuring that everyone is safe. As I talk about extrajudicial killings and enforced disappearances, in my back yard, Murram which is in Mwamba Lugari Constituency, about three weeks ago, some police officers went to Mr. Sachi's house around 6.00 a.m. They took away his son called Wamalwa. It was said that he was seen in the forest stealing timber, but he did not steal. As I speak, he was taken by the police and we do not know his whereabouts. He was not taken to Turbo Police Station, he was taken to Eldoret and imprisoned because he gave in to the accusations, but he did not do steal timber as alleged by the police. The family is really in plain. They are thinking of how they can raise money to get him out. They are even thinking of selling their piece of land. This is just one of the incidences that very many Kenyans are going through. As a House, we must protect Kenyans from these trigger happy officers who are killing and harassing them for no apparent reason. Madam Deputy Speaker, it is also constitutional. When you look at Article 43(3), it is clear that the State has to provide social protection. Even for Kenyans who are not able to protect themselves and their families, it is the mandate of the State to ensure that they protect Kenyan. As Senators, we are here to defend the Constitution. We represent Kenyans; that is our business. Kenyans have employed us. They brought us to this House so that we can speak out their issues without any fear or any doubt, so that the law is followed to the latter. Madam Deputy Speaker, the issue of disappearances has been very frequent. Recently on television, I saw the issue of the lecturer, Dr. Nandwa. He disappeared and was found after some time. He is not the only who has disappeared. In Kitengela, there are many reports that have come up where children are just disappearing from their homesteads and are eventually found murdered. This is something that must come to an end. As Kenyans and legislators, we need to investigate and establish the causes of extrajudicial disappearances and killings. Unless we know the cause, it is not possible to bring the curve of extrajudicial killings down in this country. I commend the report by Sen. Omogeni and his group. They came up with a very elaborate report. They were able to interact with a number of agencies that are keen on issues of extrajudicial killings and how to bring that to a stop. They met the Human Rights Agenda (HURIA), Amnesty International, Haki Africa, Muslims for Human Rights (MUHURI) and Maendeleo ya Wanawake Organization. There is empirical evidence that extrajudicial killings have been taking place. Madam Deputy Speaker, the Committee was able to talk to the affected families. There is an example of Mohamed Khalifa whose son was going to buy watermelon and never returned back home. He disappeared and there was evidence he was picked by about five police officers who had walkie-talkies. That was the end of him. Even though there are witnesses, up to now the police have not been brought to book. Another example is that of Meja who is also a resident of Bamburi. His son was dropping visitors and never returned back home. That was the end of him. He just went like that. There is a case of Farah Abdi, who just disappeared like that. You can imagine what these families are going through. The Committee was able to meet the families of those who are affected, it came out clearly that these families are going through difficult economic times. If the breadwinner is jailed or disappears without returning home, there is school fees to be paid. Such a family has lost a breadwinner, there is no one to pay school fees meaning the children will not go to school and also there is no one to provide food on the table. The children end up being economically affected. They will suffer from hunger yet we are gearing towards Sustainable Development Goals (SDGs), which state that everyone should be free from hunger. We must ensure that we are also adhering to the Constitution, Article 43 on Social Economic Rights states that everyone has a right. Every child has a right to go to school. It is unfortunate and painful when a child does not go to school simply because the parents have been shot by the police or are in police cells. Madam Deputy Speaker, as I talk about the issue of Wamalwa in Lugari, his children are not going to school because he is in prison. The family does not know what to do. They want to sell their land. At this particular time, who has the money to buy land? It is unfortunate that a family can decide to sell its land in order to get their son out of prison. Land is a factor of production and is a collateral that can be used anytime. If this family loses this land, it means they cannot get loans from banks in order to do development. They will also not have food like maize for consumption by the family. As a Senate, we have to ensure that we follow this report by Sen. Omogeni to the latter. I am happy because the Committee has come up with a raft of recommendations and they have a time frame. Some of the recommendations are immediate, others are continuous and others are between 2021 to 2022. Those 22 recommendations should be followed. There is need to compensate the families of those people who were killed. If your father or mother is killed unlawfully and you are not going to school, that family should be compensated. We are talking of a lifetime compensation, not two or three million. Madam Deputy Speaker, I give an example of what happened during the American Embassy terrorist attack. When the Americans were compensating the families of those who lost their lives during that bomb blast, the compensation was for a lifetime. This is so that even if people lost their fathers or mothers, the children continued to go to school. The American Government also ensured that they built shelters for the families. I am talking about a serious issue where the key breadwinner is not there and has been killed unfairly. What kind of compensation can we give such a family where the children may not be going to school? The family may have to sell their land. These children may not be receiving healthcare because they were under the cover of the father who is now dead. Madam Deputy Speaker, life is sacred. Nobody should think of taking away somebody's life. Imagine your child escorting a visitor and that child not coming back; and you are supposed to contain that. It is not easy to get children, it is a blessing from God. Giving birth is a blessing, but death should not be intentional. People should go to their Maker when the Maker has decided and not because the police are trigger-happy or because of extrajudicial killings; that somebody has been abducted and disappeared. There is need for the Senate to ensure that it is intervening with speed and that the raft of recommendations by Sen. Omogeni's Committee are followed to the dot. I feel the pain of those who have lost their parents because of extrajudicial killings. I feel the pain of that mother who gave birth to that child in prison unlawfully. Madam Deputy Speaker, on the case of my neighbour Wamalwa whose family has been told to pay Kshs60,000, this is a lot of money for a family struggling to eke a living. There is need for fairness even for people in prison. This boy was taken from his backyard. The police came for him very early in the morning, before people started working. The mother was just there helpless. There was nothing she could do. The police told the boy to accept the charges because he did not know what would happen to him. That is intimidation. There is need for the Senate to ensure that Wamalwa, Sachi's son is released, with no strings attached. The villagers have confirmed that he did not go to the forest to steal timber. He did nothing. He was taken from his father's house and taken to prison. I feel the pain of that family and many others whose parents are in prison not because they did anything wrong, but things were planted on them. For instance, on the issue of Sachi's son, police officers came with timber and alleged that he stole it. There is need for justice for Kenyans. Justice should not be delayed, it must be immediate. I support the report and recommend that all Senators support it, so that Kenyans can get justice."
     },
     {
-      "order": 152,
+      "order": 155,
       "id": "entry-1122093",
       "label": "speech",
       "level": "3",
@@ -1827,7 +1863,7 @@
       "text": "Thank you Senator. Sen. (Eng.) Hargura."
     },
     {
-      "order": 153,
+      "order": 156,
       "id": "entry-1122094",
       "label": "speech",
       "level": "3",
@@ -1839,7 +1875,7 @@
       "text": "Thank you Madam Deputy Speaker. I would like to support this Motion on the adoption of the report of the Standing Committee on Justice, Legal Affairs and Human Rights on the inquiry into extrajudicial killings and enforced disappearances in Kenya. I would like to thank the Committee for the work it has done. They have considered the existing situation we are in on extra judicial killings and enforced disappearances, which is affecting many Kenyans. The Committee has come up with an elaborate report, which gives a background of what they did, how they did it, the many organisations they met and their input. They have also highlighted the gaps in law. Their recommendations are in a clear matrix which assigns. Matrices wherever developed must assign responsibilities to institutions or individuals and give a timeframe within which they should submit to the Senate. It is clear that they have recommendations on legislative proposals and timelines, which will be oversighted by the Committee. The issue of extrajudicial killings is live in this country. It is clearly defined as arbitrary deprivation of life by Government authorities or individuals without the sanction of any judicial proceedings or legal process, where Kenyans are picked and the next day you hear they have been killed. Up to now families have not traced the whereabouts of their loved ones who were picked by individuals who are believed to be Government officials. On the issue of enforced disappearances, they have provided a clear definition which is arrest, detention, abduction or any other form of deprivation of liberty by agencies of the State or by persons or groups of persons acting with authorisation, support or acquaintance of the State, followed by a refusal to acknowledge the deprivation of liberty or by concealment of fate or whereabouts of the disappeared person, which places such a person outside the protection of law. This is what is happening in this country. The various institutions which the Committee interacted with have given detailed data. I was looking at the Kenya National Commission on Human Rights (KNCHR) who since 2013 have documented 1,040 cases of extrajudicial killings and enforced disappearances attributed to security agencies. This is a big number of Kenyans who have lost their rights to legal representation. Even if they are suspected to have committed any crime, I believe the Government is powerful enough to restrain any individual from committing crime. It also has all the tools and the law on its side, so that it does not result to this act. These are acts of an individual who has no other powers to restrain somebody. It is only that kind of an individual who can result to extra judicial killings. Unfortunately, the Government with all its machinery and state power cannot restrain an individual within the confines of law, but goes ahead and commits this kind of crime against its own people. Currently, in this country the people who are facing the brunt of extra judicial killings and enforced disappearances are Muslims. If you look at the figures and ask these organisations to break down the numbers, you will find that over 80 per cent will be Muslims. If you check the history of this country, it has not been Muslims always. In the 1980s it was Kenyans from different backgrounds who were agitating for democratic space. The mwakenya issues of the 1980s where the dreaded special branch were practising these kinds of crimes against Kenyans. This is not lost on us. After that it was the Mungiki, a particular group of youth who were dissatisfied with the social situation they were in and the state had to use force against them also. This kind of terror perpetrated by the State against its own citizens is not acceptable. That is why we enacted Article 26(3) of our Constitution which states- \"A person shall not be deprived of life intentionally, except to the extent authorised by this Constitution or other written law.\" We were alive to this and that is why we enacted this Article. However, the way things are going, you will find that the Government is still using shortcuts. In the war against terror, you will find that lately, it has been the youth who it has claimed are radicalised to join Al-Shabab. We are now hearing it is the Islamic State of Iraq and Syria (ISIS). Scholars have also borne the brunt of this kind of abuse where they have been killed especially in the coast. In the last two months, it is moving to secular scholars who are caught. One of the scholars was picked from the streets of Nairobi in broad day light and he disappeared for 12 days. This is Abdiwahab Sheikh Abdisamad, who is the Executive Director of HORN International Institute of Strategic studies. This is a secular institution. Somebody who is a director of that kind of institution is picked, undergoes enforced disappearance and when he appears, from their body language and how they act, you see they have undergone a lot of terror and do not want to speak. It is perpetuated by the state agencies. Recently, the other one was of Prof. Hassan Nandwa, a lawyer whose crime was representing a criminal. I believe that is what lawyers do. Is it now a crime to practice your profession as lawyer? I do not know how we will live in this country. Next time it will be a crime where you are picked because you are a Senator and spoke in the Senate. The direction we are taking now, even the assumed cases of terrorism, we are now moving to silencing individuals who are practicing their own legal profession like lawyers. Lawyers are supposed to represent all kinds of individuals whatever crime someone has committed because the law gives you the right to defend yourself and the accuser needs to prove the case they have against you. What these Government officials are practicing is outside the law and they need to stop. This is why the Committee has come up with this report, which is detailed. I hope the various state actors in this matrix will take up the responsibilities. I hope the Committee, when it engages these state actors, and once this report is adopted by the House, then they have to do a follow up. They have to write to these state actors and inform them on what the Senate has adopted and what they are supposed to do according to their mandate. One of the recommendations is that in this country we have an international law, the International Convention for Protection of all Persons from Enforced Disappearance. Kenya signed this law in 2007 and it is yet to be ratified so that it becomes part of our laws. When we avoid this, we are intentionally exposing ourselves or citizens to lack of that benefit of an international instrument which protects us. Madam Deputy Speaker, after the 9/11 incident, Kenyans have been renditioned to foreign countries. They have been subjected to torture, while the foreign authorities try to get information from them. This happens while we believe we have enough systems in our country. If any Kenyan is suspected to have committed a crime, he or she should be subjected to the rule of law and any aspect of justice needs to be meted within the framework of the enough laws that we have. Where there are loopholes, the Committee has identified and the various organizations have been tasked to come together and address those issues. The figures in this report are very material. Haki Africa says that it has recorded 81 cases of killings and 32 cases of disappearances. Of the killings, 56 were by police, 16 by criminal gangs and nine by private or public citizens. So, it is very clear that the State is very much implicated in these cases. Muslims for Human Rights (MUHURI) also has its own data. It says 158 cases of extrajudicial killings and enforced disappearances were documented in the Coastal region. In the coastal regions, it is mainly the Muslims who are bearing the brunt of these acts of unlawfulness by the State. I would like to urge the Committee that once the report is adopted by the House, they should follow up with the necessary State agents and provide the necessary instruments for organisations like IPOA. Kenyans are supposed to report infringement on their rights by the police to IPOA. However, from the report, we are told IPOA does not even have its independent laboratory where they can carry out forensic research. They still have to rely on the same police, which clearly hampers their work."
     },
     {
-      "order": 154,
+      "order": 157,
       "id": "entry-1122099",
       "label": "scene",
       "level": "3",
@@ -1851,7 +1887,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kamar) left the Chair]"
     },
     {
-      "order": 155,
+      "order": 158,
       "id": "entry-1122100",
       "label": "scene",
       "level": "3",
@@ -1863,7 +1899,7 @@
       "text": "[The Temporary Speaker (Sen. Kinyua) in the Chair]"
     },
     {
-      "order": 156,
+      "order": 159,
       "id": "entry-1122101",
       "label": "speech",
       "level": "3",
@@ -1875,7 +1911,7 @@
       "text": "Mr. Temporary Speaker, Sir, these are all acts of commission by State officers. However, there are cases in this country where even the acts of omission become crime. For the past three or so years in my County of Marsabit, we have had cases where State organs decide to look the other side, leaving citizens to commit crimes against each other. That is still an act of omission on the side of the State actors. They are the ones committing the crime, while on the other side, they look the other way and leave members of the public to arm themselves illegally and fight, kill and terrorize each other. They even raid each other and take away livelihoods and lives of individuals. As leaders, when we ask them to act, they do not and avoid it completely. Still, that is a criminal act by State actors. By refusing to perform their duty, this is a crime of omission. We have had many cases of illegal firearms in the hands of members of the public within the community. It is the responsibility of the Government to disarm illegal firearm holders, but it has not done that. In the early 1990s, it was felt that the way to counter the presence of illegal firearms and improving security, especially within pastoralist communities, was to arm civilians under the Kenya Police Reservists (KPR) arrangement. The pastoralist communities could not be covered by the current system of policing, where a police station somewhere covers a particular area. The police saw it fit to have the KPR arrangement. To a great extent, it has been useful because those firearms are important when it comes to deterring and countering illegal firearm holders. When the recent issues started in Marsabit County in 2018, we proposed disarmament of the illegal firearm holders and enhancement of the National Police Reservists (NPR), as it is now known in the new Constitution and the National Police Act. However, what happened is contrary to what we said. The illegal firearm holders were left with their arms and the NPRs were disarmed, giving the illegal firearm holders a free hand to commit crimes wherever they wanted. It went on so much such that even the county headquarters was almost burnt down. It reached a time when that fight came into town and the Government is not doing anything. Last Thursday, within one kilometer or so of the county police headquarters, a matatu carrying traders to town was sprayed with bullets in broad daylight at around 5.00 p.m. Six people were killed and eight were injured. After that, there was no operation. The illegal firearm holders commit crimes and go scot-free and the Government systems do not respond. As I speak, two raids took place in my county in the area between North Horr and Laisamis. This happened between last evening and today. People mobilized themselves and came in vehicles in broad daylight to attack others, carry their livestock and kill and injure people. In the nearest police post, nobody was even bothered that something had happened. There is a very serious crime of omission and refusal to provide security to Kenyans by the State agencies. In this case, it is the National Police Service (NPS) and its different formations like the Anti-Stock Theft Unit (ASTU), which is supposed to be very active in those areas. They are not even moved where they are. Mr. Temporary Speaker, there is a very serious issue which we need to look at. Even where we talk of acts of commission, there are also serious acts of omission, which are being perpetrated by the same State actors. We need to take this seriously. I support the report and urge the Committee that once it is adopted, they should follow up the matrix and ensure that the relevant Government entities identified there perform the activities outlined within the given time. If we do that, we can seal the loopholes which lead the commission of these crimes of extrajudicial killings and enforced disappearances. Kenyans will then live without fear, especially from their own security organs, which are supposed to protect them. Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 157,
+      "order": 160,
       "id": "entry-1122106",
       "label": "speech",
       "level": "3",
@@ -1887,7 +1923,7 @@
       "text": "Thank you, Sen. (Eng.) Hargura. Sen. Muthama Kavindu, you have the Floor."
     },
     {
-      "order": 158,
+      "order": 161,
       "id": "entry-1122108",
       "label": "speech",
       "level": "3",
@@ -1899,7 +1935,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for this opportunity to air my views and also support this Report by Sen. \"Mongeri\" together with the Committee. Mr. Temporary Speaker, Sir, I concur with the rest of the Senators that there has been a---"
     },
     {
-      "order": 159,
+      "order": 162,
       "id": "entry-1122109",
       "label": "speech",
       "level": "3",
@@ -1911,7 +1947,7 @@
       "text": "Sen. Muthama Kavindu!"
     },
     {
-      "order": 160,
+      "order": 163,
       "id": "entry-1122110",
       "label": "speech",
       "level": "3",
@@ -1923,7 +1959,7 @@
       "text": "Yes, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 161,
+      "order": 164,
       "id": "entry-1122111",
       "label": "speech",
       "level": "3",
@@ -1935,7 +1971,7 @@
       "text": "The Chairperson of the Committee is Sen. Okong'o Omogeni."
     },
     {
-      "order": 162,
+      "order": 165,
       "id": "entry-1122112",
       "label": "speech",
       "level": "3",
@@ -1947,7 +1983,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for that correction. I concur with the rest of the Senators, that there have been a lot of extrajudicial killings and enforced disappearances of our people in our country. We have spoken so much about adults, but there is a lot of enforced disappearance of children. Therefore, I would request the Committee to also put that into consideration even as they write about the people. Mr. Temporary Speaker, Sir, the Constitution states that every Kenyan has a right to life. God gives life and no one has a right to take anyone's life. In September of this year, Mr. Abubakar Muli Nduva was arrested at Tala in Machakos County. Mr. Nduva was arrested and disappeared. The next time he was seen as an unidentified marked body in a mortuary. Extrajudicial killings are very wrong. Any one should be taken to court when they are arrested so that they can be charged in a court of law. Everyone has a right to be heard in a court of law and a right to defend themselves. For those that are poor and cannot afford a lawyer, the Government has a responsibility to give them lawyers to represent them in courts of law. Police officers have a right to defend even the wrong doers. They have no right to kill. Whether a person is right or wrong, they have a right to live. Further, every suspect is innocent unless proved otherwise. Capital punishment is not allowed by law in Kenya. Families which lose their loved ones under such circumstances are so traumatized and require counseling. I therefore request that the Committee on Justice, Legal Affairs and Human Rights puts that into consideration. Victims of extrajudicial killings should go through counseling to come to terms with the loss. The victims should also be compensated financially because most of the people who are killed through extrajudicial killings are the bread winners of those families. Most of the families affected have very young children who are school going, young wives, mothers and other family members who depend on them. Such affected families need support from the State when they lose their bread winners through extrajudicial killings. Mr. Temporary Speaker, Sir, I support this report by the Standing Committee on Justice, Legal Affairs and Human Rights on the Inquiry into Extrajudicial Killings and Enforced Disappearances in Kenya. This report should be given the weight that it deserves to see the light of day."
     },
     {
-      "order": 163,
+      "order": 166,
       "id": "entry-1122113",
       "label": "speech",
       "level": "3",
@@ -1959,7 +1995,7 @@
       "text": "Thank you, Sen. Kavindu Muthama. Proceed, Sen. (Dr.) Langat."
     },
     {
-      "order": 164,
+      "order": 167,
       "id": "entry-1122115",
       "label": "speech",
       "level": "3",
@@ -1971,7 +2007,7 @@
       "text": "Mr. Temporary Speaker, Sir, I thank you for giving me the opportunity to add my voice to this Motion. First, I congratulate Senior Counsel, Sen. Omogeni, and his team for doing a robust job that if implemented in our country at this point in time will be a game changer. I have read through this report and noted that the Committee has done a lot of work. I pray that this report will see the light of day to save our country at this point in time. Police brutality and extrajudicial killings in this country is alarming. The issue is so bad that even the international community is wondering what is happening in our country. Two days ago, I read a report on the Human Rights Watch about the issue of extrajudicial killings in our country. If you go through that report, you will discover that it is a reflection of a story that I read when I was in high school about a man who was called Tekayo in one of the short stories by Grace Ogot. Tekayo was a man who, when herding cattle, saw an eagle that was flying carrying a live liver of a mysterious animal. Tekayo was supposed to take care of the children and provide security to the family whenever the parents went to various places to search for food. However, later on, the greedy young man became a security risk and it was so difficult to discover his security risk tendencies because everybody was looking upon him to provide security. Ironically, the young man became the security risk. Mr. Temporary Speaker, Speaker, it is a challenge for any other group to investigate the challenges that we are facing currently because the people who are supposed to provide security to our people in the country are the greatest security risk. The issues of extrajudicial killings in our country; abduction and illegal arrests of people in the society are a challenge. It is also a challenge to investigate the issues because the people who are supposed to do the investigations are implicated. I remember when the Committee on National Security, Defence and Foreign Relations invited the security agencies to answer questions relating to the arrest of three Members of this House; Sen. Malalah, Sen. (Dr.) Lelegwe and myself, the Directorate of Criminal Investigations (DCI) denied arresting us. Sen. Malalah even mentioned a hotel that he was taken to by the officers along Thika Road, but they denied that the hotel exists yet everyone knows that the hotel is in existence. Those are the people who are supposed to participate fully in providing security to the citizens of Kenya and you can see how naïve and pretentious they are on matters that are happening in our country. Mr. Temporary Speaker, Sir, when I read about the same on the Human Rights Watch, it pointed to a broader problematic situation in our country. It raises questions about the current training of police officers. In fact, the police officers in this day and age should not be trained; they should be educated on research, education, investigation, ethics, discipline, professionalism and so many other things. The recommendations that have been made by this particular report are so important. All the 21 recommendations that have been made are so important. One of the recommendations was that the Cabinet Secretary for Interior and Coordination of National Government and the Inspector General of Police should make regulations on the use of force and firearms to guide police officers. This recommendation is so important because the use of force and firearms by police officers raises a lot of questions on the current policies that guide the National Police Service (NPS). The CS for Interior and Coordination of National Government should stop politicizing the police service and concentrate on coming up with effective policies that will help this particular service to work ethically and protect human beings. I have also read another recommendation that the National Security Council should develop a national security policy. That tells me that there are many legislations and policy gaps that the Ministry should streamline so that our police service works in the right way. I have also seen another recommendation that the Independent Policing Oversight Authority (IPOA), in coordination with Attorney-General, should develop a national policy and policing oversight. This is an important recommendation because any workforce without an oversight will end up doing harmful things on their own. So, this should have been done like yesterday so that we get a body to oversight the NPS, so that our country is safe. I have also seen other recommendations including number eight which states- \"The Attorney-General to initiate the establishment of multi-agency task force comprising of representatives from NPS, Office of the Directorate of Public Prosecution (ODPP), IPOA and the rest.\" If these particular organizations work together, respect one another and come up with effective policies to support one another, the police will work in a better way to protect the citizens. Mr. Temporary Speaker, Sir, there is a recommendation on disciplinary action. Sometimes, once the police commit these crimes, it takes years for them to be disciplined. There are cases in court which have stayed for a long time. Such issues should be prioritized as urgent, so that the particular officers are punished or disciplined on time. This is because when cases take a long time, they tend to lose meaning. More often than not, there are a lot of interferences. That is why most of them are set free out of malice. Another recommendation is that the Attorney-General, in consultation with the Cabinet Secretary for National Treasury and Planning, to operationalize the National Coroners Service Act and the Prevention of Torture Act. In fact, when I was going through most of the new legislations last week, I discovered that this country has come up with many important legislative Acts. However, the greatest challenge is that they have not been implemented. Mr. Temporary Speaker, Sir, this includes the one for the Early Childhood Development Education (ECDE) where you and I were Members of the Committee on Education. We worked on it seriously. However, it is interesting to see that up to this time, some counties have not implemented it and some are not aware that there is an Act of Parliament that guides ECDE programmes. So, these Acts should be followed keenly, so that they are implemented effectively. I have also read that the CS for Interior and Coordination of National Government and the Inspector General (IG) of Police should liaise closely with the CS for National Treasury and Planning so that their budget is adjusted effectively to enable them to work effectively in this section. Mr. Temporary Speaker, Sir, it is so difficult to work when a particular department is least financed. It will be difficult to implement most of the things, for example, investigations which take many years to see the light of the day. So, I appreciate that one of the recommendation is budgetary adjustments, so that this department gets money to speed up their work. You have currently seen that most of the police have turned against themselves. They are killing one another through love triangles, corruption issues and suspicion. I recommend that they update their in-service trainings to international standards. The in- service trainings that are taking place in this country among the police are outdated. They are still operating under the police force curriculum. I recommend setting of a body to investigate the in-service training programmes that police officers go through. Otherwise, there is a challenge in their behavior and professional practices that calls upon investigations on their training and in-service programmes. It should be enriched and improved. Mr. Temporary Speaker, Sir, most of the countries have moved away from training to education. Police officers are given a wider educational programme that will enable them to get more skills and knowledge on human rights, law and other things that will support them to work effectively. I have read most of these recommendations. It is important to implement the ones on policy, legislation and day to day work of police. This is an important report. I pray that we will take it seriously. We should come up with the Committee on Implementation that we have been asking for. Most of the important recommendations that we come up with can be used to improve policies in various departments in our country. However, they are still gathering dust in shelves. Therefore, it is my prayer that we speed up and come up with the Committee on Implementation so that it will act and follow up on the recommendations that we make and see to it that they are implemented to the letter. I call upon the House to come up with that Committee as soon as possible so that these important recommendations that we have been making are implemented to assist Kenyans. I continue to condemn police brutality, extrajudicial killings and the many heinous things that they are doing. I call upon them to act and protect human lives instead of becoming a risk to our society. I support this report. It is my prayer that it is implemented to the letter because it will be a game changer in the country."
     },
     {
-      "order": 165,
+      "order": 168,
       "id": "entry-1122128",
       "label": "speech",
       "level": "3",
@@ -1983,7 +2019,7 @@
       "text": "Thank you, Sen. (Dr.) Lang'at. Proceed, Sen. Orengo."
     },
     {
-      "order": 166,
+      "order": 169,
       "id": "entry-1122129",
       "label": "speech",
       "level": "3",
@@ -1995,7 +2031,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I begin by commending my Chairperson of the Committee on Justice, Legal Affairs and Human Rights. The work that has been done by this Committee on many issues is exemplary. It is not just that he is a senior counsel; it is because he has a world view and he is strong on fundamental issues that we should be keeping at the back of our minds all the time. Therefore, without a doubt, the Committee which I belong, is in able hands of Senior Counsel, Sen. Okong'o Omogeni. I state that one of the most controversial discussions that we had during the Constitution-making process was on Article 26 on the right to life. At the centre of debate was the argument involved with the religious community on the question of when life begins. The religious community, particularly the Catholics, insisted that life begins at conception. That right to life is not something that is written for purposes of cosmetics or to make our Constitution high sounding. It is based on very old principles that have their genesis from the very existence of humanity. Even by looking at the animal kingdom, when one animal, for example, a lion attacks a buffalo or its offspring, the buffaloes will mobilize and defend the right of that offspring. This is a very fundamental principle. Without fear of contradiction, extrajudicial killing is a trait and character of a weak State. In South America, where there were a lot of disappearances and extrajudicial killings, it happened when there were absolute dictatorships. We know what happened in the recent history to the extent that many of those states are now democratic, where we have less and less of those disappearances. Some may be out of drug wars in countries where there are issues with drugs. Some of the institutions such as the Kenya National Commission for Human Rights (KNCHR) and IPOA were created to look into the conduct of state institutions, particularly those that are given coercive powers. They should ensure that citizens of this country fully enjoy the Bill of Rights. Their silence these days is bewildering. There was a time when we had people such as Khelef Khalifa and Maina Kiai in the KNCHR. They would take the state to account on any loss of life or conduct that undermined the Bill of Rights. As we discuss this very important report, we should have a relook at these institutions we have created. Probably, we do not need to talk about these matters here because these institutions are under special jurisdiction under the Constitution to ensure some of these things did not happen. The tenure of Mr. Macharia Njeru, who is now in the Judicial Service Commission (JSC) at IPOA, I think was exemplary because the police were all the time being taken to account. Mr. Speaker, Sir, I was just reading the scriptures both from the Holy Quran and the Holy Bible. From the biblical perspective God's wrath on humanity begun with the eating of the forbidden fruit in the garden of Eden. The second wrath was when Cain killed Abel. One was said to be a farmer while the other was a herdsman. When I was looking at that same story in the Quran I am truly delighted by what the Quran says about this right to life. It says- \"Prophet, tell them the true story of Adam's two sons: each of them offered a sacrifice and it was accepted from one and not the other. One said, \"I will kill you,\" but the other said, \"God only accepts the sacrifice of those who are mindful of them.\" God was saying that a sacrifice by itself does not matter. It only makes meaning when one is mindful of the creator. It proceeds to say - \"If you raise your hand to kill me, I will not raise mine to kill you.\" This is something that comes from providence; from the Almighty. Even in a situation where there is justification as is provided in Article 26 of the Constitution, that the State can intervene, the Holy Quran says, \"If you raise your hand to kill me I will not raise mine to kill you.\" This is the holy word that even where the state has justification, it can do anything, but not kill. That is the word of the Lord. All the time we try to say we are Christian or religious. In our organization as a state every Madaraka or Jamhuri day we start by having those prayers. From the beginning, this country has not done well. I think it comes from our history when the colonial state was using the hand of the state to abduct and kill people who stood firm in the fight against colonialism and imperialism. Some were killed in the battlefield while some such as Dedan Kimathi were arrested and not even given a proper trial. Even when he was hanged, we had no proper witnesses and his grave is unknown to date. That was the hand of the colonial Government. One was killed and buried and nobody could trace day of that execution and where that great Kenyan was buried. Every Mashujaa and Jamhuri days, we seek Dedan Kimathi's family, but we do not think about that \"original sin\". It is not an excuse for the state to abduct anybody or take his life just on account of suspicion that he or she has committed an offence. Even on the face of evidence as Sen. Kavindu Muthama was saying that person has a right to be taken before a court of law, which will then make a determination on innocence of that person. Mr. Speaker, Sir, as we continue to laud ourselves as being a democratic country, which believes in the Constitution and the Bill of Rights, the question of extrajudicial killings has continued to be a challenge to our commitment to democratic and human rights ideals. This is particularly in the Coast, North Eastern and even Nairobi Regions. They have suffered a lot of extra judicial killings. Mr. Temporary Speaker, Sir, the number of extrajudicial killings in Nairobi is something that we will never know because there are incidences that never come to public lime light. There are families who never come up to complain. I remember one time I dealt with a case that I will never forget. There was a young man who came to me to act for him. He was originally part of the Mungiki, but then he decided to work with the state. There was a crime incident that took place somewhere around Jerusalem in Eastlands. The state thought that this young man had a hand in it. He came to me and said that those people were looking for him. If he went to the police stations without me, he was not going to survive. He knew what they were going to do to him. The young man came to my office and I convinced him to go to the police on my word, as I thought he should. Mr. Temporary Speaker Sir, that is the last that I saw and heard of him. The family, who continued to talk to me on that issue, in the end said that they were in danger pursing that matter. The thing went cold. Up to now, that is one of the things that I have done in my profession that I have forever regretted. The state should know that with this new written Constitution that we have, they have no excuse in trying to deal with incidences of insecurity or crime and take people's lives without justification. If there is justification, it should be within the legal parameters. This means that if it happens, we can go to the court of law and demonstrate that the State was justified in carrying out a killing either in self -defense or the person was a danger to the community, the people around him or the state institutions, including the police. Mr. Temporary Speaker, Sir, I hope that with this report, we can have a paradigm shift. I think that this report speaks for itself on what should be done, what should be put in place and how the police should behave. When we say these things, it is not that we do not realize that we have a very good police force. We appreciate that all the time. Our criticism should not be seen as having doubt with what the police are doing. If you go to the states where the police force does not exist or the military tries to act as the police, you will be amazed about how inept other non-police forces of institutions can deal with civilians or the people in general. Mr. Temporary Speaker, Sir, we have a professional police service, but they should live by the ethics of the Constitution. The Constitution itself says that they should abide by the bill of rights. Therefore, I hope that in approving this report, we should not delay in proceeding with making those legislative proposals and coming up with a Bill that tries to firmly deal with the question of abductions, disappearances and extrajudicial killings. In my life, I have always said that perfect murders can only be committed by state institutions, for example, those of J.M. Kariuki, Robert Ouko, Tom Mboya and Mr. Juma. Those were extrajudicial killings. Recently, there is a question about Ronald Ngala. Unless an ordinary person, a cartel of criminals or a cabal of evil forces is in charge of the state, it is very difficult for them to commit a perfect crime. Mr. Temporary Speaker, Sir, to have an offence that is committed and the state cannot unravel is extremely difficult. Up to now, I believe that we never came to know the killers of J.M. Kariuki, Tom Mboya, Pio Gama Pinto, and Mr. Juma, as Sen. Madzayo has just told me. We never came to know of those that were responsible for perpetrating those heinous crimes because the state was involved. Sometimes, state institutions can pretend to take you through judicial processes. The case of the young man, Mr. Adungosi, was an extrajudicial killing. An extrajudicial killing is not about the police. Even the courts can be used, like the court system was used Jomo Kenyatta. His trial was shame. The Judiciary was not independent and was used by the colonial powers to condemn the Kapeguria Six to long terms. Thank God that those six at least came out alive. Knowing the conditions of detentions at that time, some of them could not have come out alive. Mr. Temporary Speaker, Sir, this matter has come out many times with the focus on the Coast Region. Sen Faki has been very concerned about every time, raising questions. I have heard even the Senate Deputy Minority Leader talking of this with a lot of vehemence an emotion. To that extent, I hope that in passing this Report, we should come out with appropriate legislation. Also, there should be right training for our law institutions. All the Constitution says is how we should deal with crime. Commission of crime is not a basis for violating the Constitution or the Bill of rights. Mr. Temporary Speaker, Sir, I support the report and commend the Chairman of the Committee to which I belong. Thank you."
     },
     {
-      "order": 167,
+      "order": 170,
       "id": "entry-1122149",
       "label": "speech",
       "level": "3",
@@ -2007,7 +2043,7 @@
       "text": "Sen. Madzayo."
     },
     {
-      "order": 168,
+      "order": 171,
       "id": "entry-1122150",
       "label": "speech",
       "level": "3",
@@ -2019,7 +2055,7 @@
       "text": "Asante, Bw. Spika wa Muda. Yangu ni maoni tu. Tokea niingie na kuketi hapa, nimeskiza kiongozi wa Walio Wacahe, Sen. Orengo. Ukiketi hapa na kuskiza, utajifuza mengi kutoka kwa ile tajriba ako nayo."
     },
     {
-      "order": 169,
+      "order": 172,
       "id": "entry-1122151",
       "label": "speech",
       "level": "3",
@@ -2031,7 +2067,7 @@
       "text": "Samahani, uliongea kuhusu Mswada huu jana."
     },
     {
-      "order": 170,
+      "order": 173,
       "id": "entry-1122152",
       "label": "speech",
       "level": "3",
@@ -2043,7 +2079,7 @@
       "text": "Ndio, Bw. Spika wa Muda, lakini sasa siongei kuhusu Mswada, niko na maoni. Nilikuwa nataka kusema yanayo husika na vile ndugu yangu, Sen. Orengo alivyoeleza au kufafanua."
     },
     {
-      "order": 171,
+      "order": 174,
       "id": "entry-1122153",
       "label": "speech",
       "level": "3",
@@ -2055,7 +2091,7 @@
       "text": "Ingekua katika Hoja ya nidhamu ili uweze kuendelea."
     },
     {
-      "order": 172,
+      "order": 175,
       "id": "entry-1122154",
       "label": "speech",
       "level": "3",
@@ -2067,7 +2103,7 @@
       "text": "Bw. Spika wa Muda, basi niruhusu niongee kwa Hoja ya nidhamu."
     },
     {
-      "order": 173,
+      "order": 176,
       "id": "entry-1122155",
       "label": "speech",
       "level": "3",
@@ -2079,7 +2115,7 @@
       "text": "La hasha, kwa sababu si Hoja ya nidhamu na tayari alikua amemaliza kuongea."
     },
     {
-      "order": 174,
+      "order": 177,
       "id": "entry-1122156",
       "label": "speech",
       "level": "3",
@@ -2091,7 +2127,7 @@
       "text": "Sawa sawa. Nashukuru Bw. Spika wa Muda."
     },
     {
-      "order": 175,
+      "order": 178,
       "id": "entry-1122157",
       "label": "speech",
       "level": "3",
@@ -2103,7 +2139,7 @@
       "text": "Hon. Senators, I now call upon the Mover to reply."
     },
     {
-      "order": 176,
+      "order": 179,
       "id": "entry-1122158",
       "label": "speech",
       "level": "3",
@@ -2115,7 +2151,7 @@
       "text": "Mr. Temporary Speaker, Sir, first, I thank all the speakers who have spoken in contributing to this important Report on extrajudicial killings. I thank our former Attorney-General Emeritus, Sen. Amos Wako, who informed us yesterday that he was the man behind the idea of forming the Independent Policing Oversight Authority (IPOA). I also thank my predecessor, the former Chairperson of the Committee, Sen. Samson Cherargei, who did the bulk of the work in collation of the materials used in preparation of this Report. I thank the Senator for Migori County, my good and learned friend, Sen. (Dr.) Ochillo-Ayacko. I also thank the Senator for Kilifi County, Justice Steward Madzayo and the Senator for Mombasa, Sen. Mwinyi Haji Faki. I take note of the fact that, indeed, Sen. Faki hosted the Committee when they went on a fact-finding mission in Mombasa. The bulk of the names of the victims of extrajudicial killings are residents of Mombasa County. We thank Sen. Faki for being a good host and tracing the many families that were victims of extrajudicial killings. It was through Sen. Faki that we were able to get linkage to these families. I thank the Senator for Kericho, Sen. Aaron Cheruiyot. I also thank with distinction, my Vice-Chair, though not a lawyer, but a very active member of my Committee, Sen. Naomi Waqo. Then there is Sen. (Dr.) Musuruve, who is as always very passionate on issues brought to the House. We heard her this afternoon. I thank also Sen. (Eng.) Hargura Godana and Sen. (Dr.) Lang'at. Finally, our most distinguished and long serving Members of Parliament; Sen. Moses Wetangula and Sen. James Aggrey Orengo. Mr. Temporary Speaker, Sir, you will agree with me that having listened to Sen. Orengo quote the Quran this afternoon, he is a man who has a lot of passion on issues touching on constitutionalism, human rights and the rule of law. I think we should induct him in this House as one of the most profound believers in constitutionalism, the rule of law and the protection of human rights. I say the same of Sen. Wetangula. These Senators, whenever they rise to make a contribution, never disappoint. We listened to him this afternoon and he was also very passionate in his contribution. Mr. Temporary Speaker, Sir, there are a number of issues that have been brought to the fore by contributions from many Senators that this Committee takes note of. I hope the members of the Judiciary who are watching the Senate proceedings will remember the contribution of Sen. Faki in terms of the timelines that our Judiciary takes to hear and determine cases that involve police officers involved in extrajudicial killings. Mr. Temporary Speaker, Sir, you heard Sen. Faki give an example of what happened in the United States of America (USA), the case that involved the African American George Floyd, who was killed by a police officer. That death happened last year and the conviction took place. Within a period of nine months, the case had been heard, concluded, a conviction passed and the police officer involved sentenced for 23 years. What has come from the contributions is that the Judiciary stands indicted because of the long period that it takes to hear and conclude cases generally. However, what is more worrying is the fact that we do not have many convictions from our courts of law. My Committee takes note of that concern and we will see whether there will be any legislative intervention that can be made to address this issue. Mr. Temporary Speaker, Sir, some of us who are practitioners know that a few years back, we had very few magistrates in the country, but now the Judicial Service Commission (JSC) has employed many judicial officers, especially magistrates. Earlier this year, if I can remember well, I saw an advert where the Judiciary was recruiting close to 100 magistrates. With this increased number of judicial officers, cases of this nature should be heard and determined within the shortest time possible. This is a matter that the Judiciary needs to address. The other issue that has come up in the course of debate on this matter is the need for this House to consider bringing back the Committee on Implementation. If you look at the report that we have presented before the Senate, we have given timelines within which certain actions should be taken. Some of these actions are legislative, but there are other administrative and policy interventions that we want the Government to effect. Mr. Temporary Speaker, Sir, unless we have a committee that is in place that can monitor and also take into account that the life of this Senate will come to an end by August, 2022, this report may end up gathering dust somewhere on a shelf. This issue has been brought before us in the course of this debate, on the need to reconsider having an implementation report. It is important and it is something we should explore avenues of implementing. Another concern is the lacklustre performance of the statutory bodies that are supposed to keep an eye on the conduct of these rogue police officers who commit some of these human rights transgressions. Two bodies have come on the spot in the course of debate on this matter. Mr. Temporary Speaker, Sir, the first one is the Independent Policing Oversight Authority (IPOA). I was privileged to have been in the panel that interviewed the first commissioners for IPOA. At that time, same as now, the law provided that various bodies were to nominate representatives. I was nominated by the Ethics and Anti-Corruption Commission (EACC) to sit in the interview panel. I am one of those people who recommended Macharia Njeru to the position of chairperson. He did well and did not disappoint. My good friend who took over, Ms. Makori, a lady I know and respect needs to put some punch in ensuring that she exercises proper oversight over our police officers. We are talking about people who are carrying a weapon that can kill you in the spark of a minute. When you have officers who are trigger happy, they are a danger to society and all of us. You are not safe and neither are your constituents and children. After the passage of the Constitution in 2010, the police force was being transformed from a police force to a police service. This is why we have the National Police Service and not the national police force. Therefore, the IPOA should up their game. We want to see them passionate on this matter, so that they can provide proper oversight on the police officers. Another body that has come on focus is the Kenya National Commission on Human Rights (KNCHR); the national statutory body created by the Constitution to provide oversight on human rights abuses and report to Parliament on the status of human rights in this country. When we had Maina Kiai, the body was feared and we would hear about the Commission on a day-to-day basis. However, in the last five years or so, the spark has gone down and the fire is not there. We do not hear about the Commission. We want to appeal to those who are serving as commissioners to take that as a calling. I hope it is not a matter of people applying for positions and once they get them, that is it. This is a huge responsibility that the people of Kenya have placed on the Commission, and we need to see more. You remember the days of our former colleague, Sen. Omar Hassan. If I ask Senators in the House who are the Commissioners currently at the KNCHR, they may not know, yet you can see those 10 years down the line, we remember that Maina Kiai served as a Chair of that Commission. We still remember that Sen. Omar Hassan was a vice chairperson of the commission. What happened? What went wrong? It means that the occupants of the position are ticking boxes and it is business as usual for them, yet you can see from our report the number of deaths we are talking about. There are more than 1,000 deaths in the hands of uniformed police officers. This is a big indictment on us, as a country. Another issue that came up, which my Committee will take up, is what was proposed by Sen. Wetangula - the need for refresher courses for our police officers. As Senators, we continue learning. Every now and then, Committees go outside for benchmarking experiences, retreats and trainings. Our staff go for retreats and training. Even the police need periodic refresher courses. In my profession as a lawyer, you cannot get your license renewed each year unless you have done continuous legal education training. If you have not gone for continuous legal education and get five units, your license will not be renewed, yet we do not deal with human life as such. Nevertheless, we are talking about armed police officers carrying live ammunition. This is something that the Inspector General of Police should implement as soon as possible. Even doctors and accountants all do refresher courses every year. This is the only way we can create a responsive police force; one that appreciates that it is their role to be a service to the people of Kenya, but not there to display its might and force on innocent Kenyans. As was stated by the Senator for Kilifi, Sen. Madzayo, we should not allow this situation to reach a state of total absurdity. You have a case like what I highlighted before the House, where a harmless child, who is four years old, is shot dead by an armed police man. What threat can a four-year-old pose to an armed policeman? It is an absurdity and something we should not allow. In conclusion, I thank all the speakers who made their contribution. My Committee is determined to ensure that we promote the rule of law in this country and the adage that 'no man should ever be allowed to be a judge over his own cause', should be protected and respected. Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 177,
+      "order": 180,
       "id": "entry-1122165",
       "label": "speech",
       "level": "3",
@@ -2127,7 +2163,7 @@
       "text": "Thank you, Sen. Omogeni. Pursuant to Standing Order 79 (1), I determine that the Motion in question does not affect counties."
     },
     {
-      "order": 178,
+      "order": 181,
       "id": "entry-1122166",
       "label": "scene",
       "level": "3",
@@ -2139,7 +2175,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 179,
+      "order": 182,
       "id": "entry-1122167",
       "label": "speech",
       "level": "3",
@@ -2151,7 +2187,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 180,
+      "order": 183,
       "id": "entry-1122168",
       "label": "heading",
       "level": "3",
@@ -2163,7 +2199,7 @@
       "text": "ADOPTION OF REPORT ON DELAY IN APPOINTMENT OF 41 JUDGES FOR THE HIGH COURT AND THE COURT OF APPEAL"
     },
     {
-      "order": 181,
+      "order": 184,
       "id": "entry-1122169",
       "label": "speech",
       "level": "3",
@@ -2175,7 +2211,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to move the following Motion- THAT, the Senate adopts the Report of the Standing Committee on Justice, Legal Affairs and Human Rights on a Statement sought by Sen. Mutula Kilonzo Jnr. MP, regarding delays in the appointment of Judges of the High Court and the Court of Appeal laid on the Table of the Senate on Tuesday, 19th October, 2021. Mr. Temporary Speaker, Sir, this Report arises from a Statement that was sought by Sen. Mutula Kilonzo Jnr., Member of Parliament (MP) for Makueni County, on the 5th May, 2020. The history surrounding this Statement is that the Judicial Service Commission (JSC), which is the body constitutionally mandated to recruit and recommend names of persons to be appointed judges commenced a process of nominating judges of the Court of Appeal and the High Court on 15th February, 2019. Arising from that process, the JSC in compliance of all the constitutional provisions and statutory provisions undertook a comprehensive exercise on recruitment of judges. As a way of background, on 15th April, 2019, the JSC gave notice of vacancies and invited applicants to apply for vacant positions of judges which were given as follows. On the Court of Appeal, they had 11 vacancies. In the environment and land division of the High Court, they had 20 vacancies. In the employment and labour relations, they declared 20 vacancies. Mr. Temporary Speaker, Sir, the Committee was able to ascertain that in order to make the exercise very transparent, the JSC did proceed. On 22nd February, 2019, they actually carried an advert in the daily newspapers inviting qualified Kenyans to offer themselves as candidates to be interviewed for the aforesaid position. The adverts attracted a number of qualified candidates who applied for those positions. In the case of the Court of Appeal, we had a total of 113 qualified Kenyans who applied and the JSC as is required by law shortlisted a total of 35 candidates from that number. After interviews, they were able to select 11 persons. Out of these 11 persons, some development has taken place during the pendency of this Statement. Mr. Temporary Speaker, Sir, I want to report to the House that His Excellency the President has since gazetted and sworn in seven judges of the Court of Appeal. The number of judges remaining to be appointed has since now changed to four instead of the initial 11. In the position of judge on the environment and land court, a total of 229 Kenyans expressed interest. In the employment and labour relations, we had a total of 160 applicants. In the land and environment, we only had 20 vacancies. In the employment and labour court, we had ten. Mr. Temporary Speaker, Sir, a number of developments have taken place since then. Out of the list of ten names that were forwarded to the President for the labour and employment, the President has since appointed all the judges. The matter is mute on that particular division. However, on the land and environment, the President has declined as of today to appoint two judges, Evans Kiago Makori and Judy Cheruiyot Elizabeth Omange. Those are the two candidates who have since not been appointed to their respective positions. In total, as of today, the names that have concern to the Senate are six, four judges of the Court of Appeal and two judges of the High Court. Sadly, out of the 41 candidates whose names were forwarded to the President during this long wait, one of them unfortunately died. Mr. Temporary Speaker, Sir, on behalf of this Senate, we want to send our condolences to the widow and children of that family. We were able to get reports that the family faced very agonising moments because they waited for a period of more than one year three months for the husband of the home to be sworn in as a Judge, but he died before realising his dreams. It is a very sad happening and we want to register our condolences to the family. He died before realising his dream of becoming a judge. In the course of preparation of this report, we have looked at various jurisdictions. What runs through is that most progressive countries have tried to take away this power of appointment of judges from the Executive. If I give the history of Kenya, during the precolonial days, the appointment of judges was a preserve of Executive. The President had a free hand on picking who was to occupy the position of Chief Justice, a judge of Court of Appeal and judge of the High Court. That position continued in the early days of our Independence. Mr. Temporary Speaker, Sir, even after we created a body called the Judicial Service Commission (JSC), the precursor to the current JSC, still it was full of presidential appointees because the Attorney-General used to be a member. Judges of the Court of Appeal used to be members, judges of the High Court and then the Chief Justice. The Chief Justice under the former Constitution used to be an appointee of the Executive. The process was never transparent. It was opaque and based on political patronage and nobody really understood how judges were picked. I will give an interesting story on what happened when I was serving as the Chairperson of the Law Society of Kenya (LSK). I once got a call from the late Chief Justice Evans Gicheru that the President was requesting for names of candidates to be appointed judges. Therefore, the LSK should also send in proposals. There was no legal framework on how these people are picked. It was a fairly opaque system based on I think who knows who. Mr. Temporary Speaker, Sir, excitedly I called my council and we came up with a number of names on candidates to be picked as judges. Indeed, one of the lawyers from Eldoret received a call and he was told to come to Nairobi because he was needed in State House tomorrow to be appointed as a judge. He received a ticket from the Government from the Judiciary. He was told to come with one person and he said he was to come with his wife. A ticket was sent for him and his wife. He was told when you come to Nairobi, you will find we have booked a hotel for you. He came to Nairobi, had a hotel booked for him and he was told come at 9.30 a.m. to the Chambers of honourable Chief Justice then he went to State House and be sworn in as a judge. Mr. Temporary Speaker, Sir, that lawyer took the flight from Eldoret to Nairobi. He slept with his wife having told his friends I will be sworn in as a judge tomorrow. When he woke up at 9.30 a.m., he went to the Chief Justice Chambers, but he was told the President had removed his name and replaced it with somebody else. You can imagine. That is the kind of system that we had. He was traumatised. He tried to go to court and say that he had already been picked, but there was no legal framework to govern a transparent professional way of picking judges. In fact, it is that case that informed the campaign by the Law Society of Kenya (LSK). I was a member of the LSK when we did this chapter on judiciary. That is why we pushed for an open and transparent process of picking judges. Mr. Temporary Speaker, Sir, we had a big debate with my colleague Sen. Wako when we were debating this chapter on judiciary. I remembered at one time Sen. Wako told us as LSK that how can you think in your normal heads that a person who wants to be a Chief Justice can sit down to write an application to JSC to be appointed a Chief Justice? He said this is something that should be done by the President. The President knows all the lawyers. He can decide who is befitting to occupy that position. However, we reminded him that even our colonial master United Kingdom (UK) and I had just come from UK that time. I remember I was in the UK in October of 2008. I told him even our colonial masters were moving away from that opaque system where the Queen had the last say. Mr. Temporary Speaker, Sir, if you look at the chapter on judiciary, it was meant to limit the involvement of the executive on the appointment of judges. That is why the representative of the JSC has two members representing the LSK, two members representing the public on the representation from the judiciary. Again, I remember Sen. Wako objecting saying our proposal was going to introduce politics in judiciary. We insisted that if it is the Supreme Court, they should elect their representatives. If it is the Court of Appeal they should elect their representatives. Mr. Temporary Speaker, Sir, if it is the High Court, they should elect their representatives. If it is the magistrate's court they should elect their representatives. This is so that there is a form of independence on that body called JSC. This is so that when they are picking candidates, it is not based on any political affiliation or patronage but purely on professional qualifications. In fact, if you read the Bomas Draft, Parliament was supposed to vet after the JSC had recommended. However, we fought very hard as the LSK to remove Parliament because we did not want politics to be introduced on the Judiciary. We wanted this to be very professional. Mr. Temporary Speaker, Sir, therefore, as I speak this afternoon, I want to remind the country where we came from. As we were discussing this debate, we had on the table the Koffi Annan Report and the discussions that emanated from Serena. You were told that Kenyans butchered each other after the 2007 disputed elections because they did not have trust in the judiciary. We had on the table the Kriegler Report. It made a very strong recommendation that going forward, the process of picking judges should be independent and insulated from the executive. It is on record and all those reports are there. Therefore, the chapter on judiciary having listened to the people of Kenya, Koffi Annan and Kriegler Report recommended that the executive should not play a role on the appointment of judges. Mr. Temporary Speaker, Sir, we had on the table the provisions of Section 174 of the South African Constitution. It has a provision to the effect that when the JSC carries out interviews and proposes names to the President, they should give three names for each position. However, again, because of our history and where we had come from, we rejected that proposal. We said only one name for each declared vacant position should be forwarded to the President. Kenyans knew that the idea of politicisation of the judiciary is what had made Kenyans lose confidence in that institution. We had another sub clause of the South African Constitution, which says that before you appoint the Chief Justice and the Deputy Chief Justice in South Africa you must consult other political parties in Parliament. However, we said in Kenya because of our history and where we were coming from, we do not want politics to play any role. The only compromise that we came up with is to say for the heads of the institution, the Chief Justice and the Deputy Chief Justice, we would allow the National Assembly to vet the nominees. Mr. Temporary Speaker, Sir, that is the only window that was given to the political class. So, what was the intention of the people of Kenya? If you read the Bomas Draft Constitution, it was that we should draw a demarcation line on the institution of the judiciary and executive and make judiciary an independent institution. If you read the Committee of Experts Report, it is the same thinking. That we should draw a line on what the executive should be able to do and what the judiciary should do. That is not just in Kenya. If you go to other progressive jurisdictions, the same reforms have taken place. Mr. Temporary Speaker, Sir, if you go to England, they have even become more radical than us and those were our colonial masters. The chairperson of a body that recommends appointment of judges is a layperson. The executive plays no role; it is liberal and has become very progressive. They advertise the vacancies, people apply and you are interviewed. For the position of a judge, you are going to serve the public. Look at history. Presidents will come and go but the judges will remain. When the founding father of this great country called United States of America (USA) George Washington appointed the first Chief Justice, he did not appoint him to serve him. He appointed him to serve the country. The first Supreme Court Judge, who was taken to the Senate for impeachment Samuel Chase, was appointed by George Washington. The President who wanted to have him removed was Thomas Jefferson long after George Washington had left office. Mr. Temporary Speaker, Sir, what point am I making? That let us look at the institution called judiciary as an institution that is there for posterity. It serves generations. It is not there to serve one President. It is not there to serve a political party that is in power at that given time. The Judiciary is there to serve for posterity. In the USA, the Supreme Court judges serve for life. You would find that the Judge, like Chief Justice William Waller, was appointed by Ronald Reagan in 1980 and served for 24 years. That was so long after Reagan had left office and he has continued being the Chief Justice. The judges who were picked by the federalist President John Adams like Marshall, the 4th Chief Justice of the USA served long after Adams had left office. In fact, Adams appointed him towards the tail-end of his tenure in office because he only served one term. Mr. Temporary Speaker, Sir, therefore, what we are saying, as a Committee, is that an institution of this importance called the Judiciary should not be allowed to serve at the mercy of the Executive."
     },
     {
-      "order": 182,
+      "order": 185,
       "id": "entry-1122178",
       "label": "speech",
       "level": "3",
@@ -2187,7 +2223,7 @@
       "text": "Sen. Omogeni, you will have a balance of 39 minutes when this Motion comes on the Floor again for debate."
     },
     {
-      "order": 183,
+      "order": 186,
       "id": "entry-1122180",
       "label": "heading",
       "level": "1",
@@ -2199,7 +2235,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 184,
+      "order": 187,
       "id": "entry-1122181",
       "label": "speech",
       "level": "1",

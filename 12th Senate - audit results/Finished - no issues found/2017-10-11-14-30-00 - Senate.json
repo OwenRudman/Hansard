@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2017-10-11-14-30-00",
-  "exported_at": "2026-10-05T07:59:28.074Z",
+  "exported_at": "2026-10-08T21:34:12.424Z",
   "entries": [
     {
       "order": 1,
@@ -1444,7 +1444,7 @@
     },
     {
       "order": 121,
-      "id": "entry-760161",
+      "id": "entry-760161-split-before-65f5effe-de0e-435b-a69e-56c62352f162",
       "label": "speech",
       "level": "3",
       "cutout": false,
@@ -1452,10 +1452,22 @@
       "speaker": "Njeru Ndwiga",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Mr. Speaker, Sir, this amendment has been sufficiently debated. Will I be in order to request that the Mover be called upon to reply? ( Hon. Senators spoke off record.)"
+      "text": "Mr. Speaker, Sir, this amendment has been sufficiently debated. Will I be in order to request that the Mover be called upon to reply?"
     },
     {
       "order": 122,
+      "id": "entry-760161-split-selected-4003877c-787c-4c0b-bb0a-09471bc3c648",
+      "label": "scene",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Hon. Senators spoke off record.)"
+    },
+    {
+      "order": 123,
       "id": "entry-760162",
       "label": "speech",
       "level": "3",
@@ -1467,7 +1479,7 @@
       "text": "Order, Hon. Senators! Order! I do not see on the console a request from any other Senator desiring to contribute. I therefore call upon the mover to reply."
     },
     {
-      "order": 123,
+      "order": 124,
       "id": "entry-760163",
       "label": "speech",
       "level": "3",
@@ -1479,7 +1491,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I have listened to the contributions of hon. Senators; and I must say that these are distinguished contributions. I have also noted the passion and the commitment of the Senators from the Majority side. We have almost 40 Senators and 35 are seated in this House today; and we have more than 25 delegations that are ready to pass this Bill."
     },
     {
-      "order": 124,
+      "order": 125,
       "id": "entry-760164",
       "label": "scene",
       "level": "3",
@@ -1491,7 +1503,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 125,
+      "order": 126,
       "id": "entry-760165",
       "label": "speech",
       "level": "3",
@@ -1503,7 +1515,7 @@
       "text": "The Deputy Speaker, Sen. Kindiki, will bear me witness that it was not easy in the last Parliament for such number of delegations to be seated in the House continuously from 2.30 p.m. to this moment, and this is commendable."
     },
     {
-      "order": 126,
+      "order": 127,
       "id": "entry-760166",
       "label": "scene",
       "level": "3",
@@ -1515,7 +1527,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 127,
+      "order": 128,
       "id": "entry-760167",
       "label": "speech",
       "level": "3",
@@ -1527,7 +1539,7 @@
       "text": "As I had said earlier, history will record and appreciate the Senators who have made these tremendous contributions on behalf of the great Republic of Kenya. History will record us right that at such a time as this, we took our responsibility seriously by filling the gap to provide legislative solutions to the problems we faced. With those many remarks, Mr. Speaker, Sir, I beg to reply. Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 128,
+      "order": 129,
       "id": "entry-760168",
       "label": "speech",
       "level": "3",
@@ -1539,7 +1551,7 @@
       "text": "Hon. Senators, I wish to confirm that this Bill affects counties and, therefore, voting will be by delegation. I now direct that we proceed to an electronic division. I, therefore, direct that the Division Bell be rung for two minutes."
     },
     {
-      "order": 129,
+      "order": 130,
       "id": "entry-760169",
       "label": "scene",
       "level": "3",
@@ -1551,7 +1563,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 130,
+      "order": 131,
       "id": "entry-760170",
       "label": "speech",
       "level": "3",
@@ -1563,7 +1575,7 @@
       "text": "Hon. Senators, the division bell has stopped. I, therefore, direct that the bars be drawn and the doors be closed."
     },
     {
-      "order": 131,
+      "order": 132,
       "id": "entry-760171",
       "label": "scene",
       "level": "3",
@@ -1575,7 +1587,7 @@
       "text": "(The doors were closed and the bar drawn)"
     },
     {
-      "order": 132,
+      "order": 133,
       "id": "entry-760173",
       "label": "speech",
       "level": "3",
@@ -1587,7 +1599,7 @@
       "text": "Hon. Senators, I request that you log in for electronic voting and relax. Those who have challenges with technology, we will have to do a roll call and you will have to vote manually. Mutatembea mpaka huku."
     },
     {
-      "order": 133,
+      "order": 134,
       "id": "entry-760174-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1599,7 +1611,7 @@
       "text": "(Some Hon. Senators, walked to the Clerks-at-the table)"
     },
     {
-      "order": 134,
+      "order": 135,
       "id": "entry-760174-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1611,7 +1623,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 135,
+      "order": 136,
       "id": "entry-760175",
       "label": "speech",
       "level": "3",
@@ -1623,7 +1635,7 @@
       "text": "Those who have challenges in using the electronic system can approach the Clerks-at-the-Table to be assisted to vote manually."
     },
     {
-      "order": 136,
+      "order": 137,
       "id": "entry-760176",
       "label": "scene",
       "level": "3",
@@ -1635,7 +1647,7 @@
       "text": "(Several Senators approached the Clerks-at-the-Table)"
     },
     {
-      "order": 137,
+      "order": 138,
       "id": "entry-760177",
       "label": "heading",
       "level": "3",
@@ -1647,7 +1659,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 138,
+      "order": 139,
       "id": "entry-760179",
       "label": "scene",
       "level": "3",
@@ -1659,7 +1671,7 @@
       "text": "(Question, that the Election Laws (Amendment) Bill (National Assembly Bill No.39 of 2017) be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 139,
+      "order": 140,
       "id": "entry-760180",
       "label": "other",
       "level": "3",
@@ -1671,7 +1683,7 @@
       "text": "AYES:"
     },
     {
-      "order": 140,
+      "order": 141,
       "id": "entry-760181",
       "label": "other",
       "level": "3",
@@ -1683,7 +1695,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. Iman, Garissa County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwangi, Nyandarua County; Sen. Ndwiga, Embu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wamatangi, Kiambu County; and, Sen. Wario, Tana River County."
     },
     {
-      "order": 141,
+      "order": 142,
       "id": "entry-760182",
       "label": "other",
       "level": "3",
@@ -1695,7 +1707,7 @@
       "text": "NOES:"
     },
     {
-      "order": 142,
+      "order": 143,
       "id": "entry-760183",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1719,7 @@
       "text": "Nil"
     },
     {
-      "order": 143,
+      "order": 144,
       "id": "entry-760184",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1731,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n24\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n0 The \"Ayes\" have it."
     },
     {
-      "order": 144,
+      "order": 145,
       "id": "entry-760191-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1731,7 +1743,7 @@
       "text": "(Question carried by 24 votes to 0)"
     },
     {
-      "order": 145,
+      "order": 146,
       "id": "entry-760191-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1743,7 +1755,7 @@
       "text": "(The Bill was accordingly read a Second Time and referred to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 146,
+      "order": 147,
       "id": "entry-760192",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1767,7 @@
       "text": "I now direct that the doors be opened and the Bars drawn."
     },
     {
-      "order": 147,
+      "order": 148,
       "id": "entry-760193",
       "label": "scene",
       "level": "3",
@@ -1767,7 +1779,7 @@
       "text": "(The doors were opened and the Bars drawn)"
     },
     {
-      "order": 148,
+      "order": 149,
       "id": "entry-760194",
       "label": "speech",
       "level": "3",
@@ -1779,7 +1791,7 @@
       "text": "Looking at the time, we will postpone Motion No.11 to tomorrow."
     },
     {
-      "order": 149,
+      "order": 150,
       "id": "entry-760195",
       "label": "heading",
       "level": "1",
@@ -1791,7 +1803,7 @@
       "text": "MOTION"
     },
     {
-      "order": 150,
+      "order": 151,
       "id": "entry-760196-split-selected-7fa13a1b-2828-49be-825e-237be06d09f5",
       "label": "heading",
       "level": "3",
@@ -1803,7 +1815,7 @@
       "text": "DEVELOPMENT OF EFFECTIVE WASTE MANAGEMENT AND DISPOSAL REGULATIONS"
     },
     {
-      "order": 151,
+      "order": 152,
       "id": "entry-760196-split-after-fee47a8b-b09f-4996-8d40-41a1b508d979",
       "label": "speech",
       "level": "3",
@@ -1815,7 +1827,7 @@
       "text": "THAT, aware that cities, towns and urban areas in Kenya are increasingly getting overpopulated leading to overstretching of services and amenities; CONCERNED that improper management of waste has become a major cause of pollution of neighborhoods, water sources and other natural resources leading to rise of environment-related diseases which cause many deaths; FURTHER CONCERNED that in most urban areas, waste is dumped in an uncontrolled manner posing a great challenge to the wellbeing of urban dwellers, particularly those living near dumpsites; ACKNOWLEDGING that the problem continues to rise despite the efforts made to mitigate the problem through various statutory bodies, private entities and communities; the Senate calls upon the National Government to take immediate steps to develop effective waste management regulations and put in place proper disposal facilities, including for harmful waste and that this be done in consultation with all key stakeholders."
     },
     {
-      "order": 152,
+      "order": 153,
       "id": "entry-760197",
       "label": "scene",
       "level": "3",
@@ -1827,7 +1839,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 153,
+      "order": 154,
       "id": "entry-760198-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -1839,7 +1851,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 154,
+      "order": 155,
       "id": "entry-760198",
       "label": "speech",
       "level": "1",

@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-02-26-14-30-00",
-  "exported_at": "2026-10-05T08:06:11.923Z",
+  "exported_at": "2026-10-08T21:35:44.758Z",
   "entries": [
     {
       "order": 1,
@@ -4744,7 +4744,7 @@
     },
     {
       "order": 396,
-      "id": "entry-978763",
+      "id": "entry-978763-split-before-2197668f-3f11-4145-a409-2e93acb6793b",
       "label": "speech",
       "level": "3",
       "cutout": false,
@@ -4752,10 +4752,22 @@
       "speaker": "Milgo Alice Chepkorir",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Thank you, Mr. Deputy Speaker, Sir. ( Sen. (Dr.) Milgo took her seat)"
+      "text": "Thank you, Mr. Deputy Speaker, Sir."
     },
     {
       "order": 397,
+      "id": "entry-978763-split-selected-b6e4b2cb-a945-40e3-b23d-ef850432611d",
+      "label": "scene",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Sen. (Dr.) Milgo took her seat)"
+    },
+    {
+      "order": 398,
       "id": "entry-978765",
       "label": "speech",
       "level": "3",
@@ -4767,7 +4779,7 @@
       "text": "No, you still have time. Can you refer to people using their right titles?"
     },
     {
-      "order": 398,
+      "order": 399,
       "id": "entry-978766",
       "label": "speech",
       "level": "3",
@@ -4779,7 +4791,7 @@
       "text": "Thank you, Mr. Deputy Speaker Sir. I am guided. The Senator for Nairobi City County said that he was consulted---"
     },
     {
-      "order": 399,
+      "order": 400,
       "id": "entry-978767",
       "label": "speech",
       "level": "3",
@@ -4791,7 +4803,7 @@
       "text": "Sen. Sakaja, I have realized that you relish and cherish when Standing Orders are being violated in your favour. You must demonstrate disdain."
     },
     {
-      "order": 400,
+      "order": 401,
       "id": "entry-978768",
       "label": "speech",
       "level": "3",
@@ -4803,7 +4815,7 @@
       "text": "Mr. Deputy Speaker Sir, there was a violation under Article 10 that provides for public participation. I think that there should have been better consultation and more participation by the county government and the people of Nairobi. Maybe they would have provided a better way forward. In addition to that, we must make provision to ensure that people receive self- governance and, in this case, make decisions about what affects them. I hope that the other counties will not also transfer functions to the national Government thus killing devolution. Devolution has been cherished all over the world as one of the most progressive activities that Kenya has undertaken. Mr. Deputy Speaker, Sir, we do not cherish issues of mismanagement, corruption or laziness that was witnessed in this county---"
     },
     {
-      "order": 401,
+      "order": 402,
       "id": "entry-978770",
       "label": "speech",
       "level": "3",
@@ -4815,7 +4827,7 @@
       "text": "Your time is up, Sen. (Dr.) Milgo but since you are the last speaker, I can give you a minute to summarize."
     },
     {
-      "order": 402,
+      "order": 403,
       "id": "entry-978771",
       "label": "speech",
       "level": "3",
@@ -4827,7 +4839,7 @@
       "text": "Mr. Deputy Speaker, Sir, I would like to point out the violation of the law. More consultations should have been done before surrendering functions of the Nairobi City County to the national Government. I hope that other counties will not be rolled up in the same way. The national Government should assist county governments that are experiencing challenges by provision of technocrats. This is also a wakeup call that in future, we should identify and stipulate the requirements for holders of the position of county governor Mr. Deputy Speaker, Sir, I thank you."
     },
     {
-      "order": 403,
+      "order": 404,
       "id": "entry-978774",
       "label": "speech",
       "level": "3",
@@ -4839,7 +4851,7 @@
       "text": "Hon. Senators, I have tried to honour my commitment to give every Senator an opportunity to contribute to this important matter except for the four colleagues who must have had other commitments and left early. As you know, all of us cannot speak at the same time. Senators can only speak one at a time so constrain of time is a challenge but we have tried. Apart from the four colleagues that left earlier, everybody else has had their say on this matter."
     },
     {
-      "order": 404,
+      "order": 405,
       "id": "entry-978775",
       "label": "speech",
       "level": "3",
@@ -4851,7 +4863,7 @@
       "text": "Secondly, before we adjourn, the Speaker gave direction that the Senator for Nairobi City County, Sen. Sakaja, is entitled to prosecute his request for statement which he attempted to prosecute earlier today. I therefore direct that Sen. Sakaja's request for statement be put in tomorrow's Order Paper. I believe that Sen. Sakaja's request for the Statement is important, and if time allows, I will give a few Senators who did not get an opportunity to speak on the matter today to make their observations at that time. Finally, the Standing Orders provide that an Adjournment Motion does not lead to a resolution. We are supposed to discuss the issue at hand and when the time is up, that is the end of the matter. However, as I have directed before, I have encouraged this House to apply Standing Order 1, which I am about to invoke right now in making certain directives so that we just do not discus and go. This discussion including Sen. Sakaja's statement and observations made tomorrow should lead us somewhere. We cannot just discuss and say that the Standing Orders say that you discuss and go. There is Standing Order 1, which we can apply, and I have given a ruling before on Standing Order 1. I hope that an opportunity will arise again in the near future. This is because I have reflected since my last ruling, and I believe that I have a few more thoughts or views to add on the interpretation of this Standing Order. I will, therefore, invoke Standing Order 1 and give the following directives."
     },
     {
-      "order": 405,
+      "order": 406,
       "id": "entry-978777",
       "label": "heading",
       "level": "1",
@@ -4863,7 +4875,7 @@
       "text": "CONSIDERED RULING"
     },
     {
-      "order": 406,
+      "order": 407,
       "id": "entry-978778",
       "label": "heading",
       "level": "2",
@@ -4875,7 +4887,7 @@
       "text": "TRANSFER OF FUNCTIONS FROM ONE LEVEL OF GOVERNMENT TO ANOTHER"
     },
     {
-      "order": 407,
+      "order": 408,
       "id": "entry-978779",
       "label": "speech",
       "level": "2",
@@ -4887,7 +4899,7 @@
       "text": "Following the Adjournment Motion this afternoon, a number of important issues have been raised pertaining to the matter of the Adjournment Motion; and that is the issue of the transfer of functions from the county government to the national Government. As it was stated yesterday in the news dispatch, this is not a light matter. The news dispatch itself from the national Government said that this is an unprecedented matter and, indeed, it is. I, therefore, want to agree with the Senators who said that this is an important matter, and that it is unprecedented. For that reason, the Senate must take cue from what has happened, and perhaps move the country forward. This is so that going forward, the country is prepared when an"
     },
     {
-      "order": 408,
+      "order": 409,
       "id": "entry-978780",
       "label": "speech",
       "level": "2",
@@ -4899,7 +4911,7 @@
       "text": "issue like this arises again, and we do not, for example, have the kind of legal gaps that some of the legal minds in the Senate have identified. Those can be cured. We cannot just say that because of an Adjournment Motion, we have finished discussing; let us go and wait until there will be another transfer, then we talk about it. In that connection, I believe that the Mover, Seconder, and many of those who contributed to the Motion raised very important legal and constitutional issues in terms of substance and procedure. These are questions on constitutionality, legality as well as issues about procedure. Issues to do with public participation, as provided for in section 29 of the Inter-Governmental Relations Act, on whether the public participation should be prior or ipso facto - after the fact - which, again, is not clear from the law. There are issues to do with the role of the Senate in the whole question of the transfer of functions under the existing laws. But also, we would also like to investigate whether there are other proposals on amending the law for the future, to ensure that, for example, there is a role for the Senate and the county assembly before and after. These are questions that have been brought to the Floor. That is why I advised that we should forget about the politics, which we can do out there. This House must help the country so that in the future, we tidy up the process; and that is why we are here. That being the case or so, because I believe there are quite a number of issues; for the avoidance of doubt, including the constitutionality, legality and procedure followed yesterday. The fact that it happened does not mean that the Senate cannot look at it and perhaps advise and make recommendations for the future. That is why we are here. We will look very bad if we just keep quiet, just do the politics and say that it was good, wonderful or congratulate without scrutinising and saying, \"This ought to have been done, and it was done; this ought to have been done, but it was not done; and it has to be done in the future.\" That way, even the national Government, county governments, the Attorney-General and the country in general will be guided in the future. Having said so, Hon. Senators, I want to give the following directive. This directive will also apply to the extra Statement that will come and the observations thereunder; as I have said, this is work in progress. I now direct the Senate Committee on Devolution and Intergovernmental Relations jointly with the Senate Committee on Justice, Legal Affairs and Human Rights to immediately convene and take hearings from the following public officers: (1) The CS for Devolution and ASALs. (2) The Chairperson of the Council of Governors (CoG) or his representative. (3) The Attorney-General of the Republic of Kenya. (4) Any other person or authority that may assist the Committee in making proposals as I am going to direct. In doing so, the two committees shall work closely with Sen. Sakaja, Senator for Nairobi City County and any other senator who has an interest in this matter. After doing the hearings and receiving recommendations and submissions, the two committees shall file a joint report in this House. That shall be an interim report 21 days from today, whereby the committees shall look at what happened yesterday regarding the legal, constitutional and procedural issues and advise on whether there are legal, statutory or constitutional gaps and so on and so forth."
     },
     {
-      "order": 409,
+      "order": 410,
       "id": "entry-978781",
       "label": "speech",
       "level": "2",
@@ -4911,7 +4923,7 @@
       "text": "After the interim report is tabled within 21 days from today, I direct the two committees to hold further public participation on this issue because it an important one. They should avoid too much expenditure because Nairobi has provided the case study and specimen for this process. It is the same for every other county because it is about transfer of functions from one level of government to another. The public participation shall be conducted within Nairobi City County for purposes of this directive. Thereafter, the two committees shall provide a detailed report to this House within 60 days. That report must include proposed legislative amendments to clarify further and improve the existing legal framework on the transfer of functions from the national Government to a county government. It is so ordered."
     },
     {
-      "order": 410,
+      "order": 411,
       "id": "entry-978782",
       "label": "scene",
       "level": "2",
@@ -4923,7 +4935,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 411,
+      "order": 412,
       "id": "entry-978783",
       "label": "speech",
       "level": "2",
@@ -4935,7 +4947,7 @@
       "text": "Senate Majority Leader, are you on a point of order? You and the Senator for Nairobi City County have one minute each."
     },
     {
-      "order": 412,
+      "order": 413,
       "id": "entry-978784",
       "label": "speech",
       "level": "2",
@@ -4947,7 +4959,7 @@
       "text": "Mr. Deputy Speaker, Sir, I thank you for granting the latitude to debate in the manner in which we did. I also appreciate the issues that have been raised by everybody. I urge everyone to accept the fact that we are here to make things work better. Even for the things that have already been done, it is our responsibility to make them better. It is understood that there were options. One of them is what the Constitution provides. Our main concern was how it can be done in a manner that will not undermine Article 6(2) of the Constitution about the respect of the two levels of government but at the same time without perpetuating an interest that will undermine devolution in future. That is the concern. As we continue scrutinizing these issues, let us keep in mind that nobody is opposed to application of a constitutional procedure. It is the protection of the Constitution itself."
     },
     {
-      "order": 413,
+      "order": 414,
       "id": "entry-978785",
       "label": "speech",
       "level": "2",
@@ -4959,7 +4971,7 @@
       "text": "We are running out or time. Proceed, Sen. Sakaja in less than a minute."
     },
     {
-      "order": 414,
+      "order": 415,
       "id": "entry-978786",
       "label": "speech",
       "level": "2",
@@ -4971,7 +4983,7 @@
       "text": "Mr. Deputy Speaker, Sir, similarly, I thank you for having conducted this session in that manner. Every Senator who wanted to speak has spoken to it. We have noted the concerns and the sentiments of Senators. Mr. Deputy Speaker, Sir, I also congratulate you for the continuous and developing--- I do not want to call it jurisprudence or precedence."
     },
     {
-      "order": 415,
+      "order": 416,
       "id": "entry-978787",
       "label": "speech",
       "level": "2",
@@ -4983,7 +4995,7 @@
       "text": "It is parliamentary jurisprudence."
     },
     {
-      "order": 416,
+      "order": 417,
       "id": "entry-978788",
       "label": "speech",
       "level": "2",
@@ -4995,7 +5007,7 @@
       "text": "Mr. Deputy Speaker, Sir, I congratulate you for parliamentary jurisprudence on the use of Standing Order No.1. This could be the first time that an Adjournment Motion has led to such a resolution. I think it will be better for us as a House and as a country moving forward. I will fully participate in the interventions that you have ordered to be done. I thank you."
     },
     {
-      "order": 417,
+      "order": 418,
       "id": "entry-978789",
       "label": "speech",
       "level": "2",
@@ -5007,7 +5019,7 @@
       "text": "Thank you, Sen. Sakaja."
     },
     {
-      "order": 418,
+      "order": 419,
       "id": "entry-978791",
       "label": "heading",
       "level": "1",
@@ -5019,7 +5031,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 419,
+      "order": 420,
       "id": "entry-978792",
       "label": "speech",
       "level": "1",

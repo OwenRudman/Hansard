@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-03-08-14-30-00",
-  "exported_at": "2026-10-05T08:00:08.567Z",
+  "exported_at": "2026-10-08T21:34:33.015Z",
   "entries": [
     {
       "order": 1,
@@ -3160,7 +3160,7 @@
     },
     {
       "order": 264,
-      "id": "entry-779873",
+      "id": "entry-779873-split-before-bde4c6be-f584-44a3-bde7-b07d63da3309",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -3168,10 +3168,34 @@
       "speaker": "Mohammed Maalim Mahamud",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Mr. Temporary Speaker, Sir, a question was raised on the Floor of this House and we tried to respond to it. In fact, the answers we have here are the only ones. It is not fair to digress into things which are not there, but let me answer what the questioner asked. Our role is clearly stated in Article 96 of the Constitution and there is no doubt about that. Sen. Khaniri said that there is no money for development. There is no discretion when it comes to disbursing money to the counties for recurrent expenditure and development. Looking at what went to Vihiga County, there is no column for money for development and recurrent expenditure. It is difficult at this stage for us to separate money for development and recurrent expenditure. The disparity has been talked about in the points of order. If you look at the Schedule, you will see that it cuts across the board. Low disbursements to counties cuts across the board in the whole nation. That is a fact and it is what we should be concerned about as the Senate. It is unfortunate to talk about favour. Those are just sideshows. This cuts across all counties including those perceived to be the NASA or Jubilee strongholds. The CS also said that because of low collections, there is discretion where people have got more than Kshs300 million in the account. We are not debating the mandate of the Treasury here. That part of the question was not there. We should leave the question that was raised by my colleague Sen. Mutula Kilonzo Jnr. for another day. They have quoted Article 201 of the Constitution and I agree with Sen. M. Kajwang' that Article 219 is clear. ( An hon. Senator spoke off record) Yes; it says that. On the issue of revenue shortfalls, they said that there are shortfalls which they know more than I do. In fact, the CS said that they cannot disburse what they do not have. He did not say he was broke but he said that he has no money. My friend Sen. Khaniri also said something but he should not make political statements here. We do not know who supported the Constitution and who did not. Majority of us were not in Parliament at that time. Mr. Temporary Speaker, Sir, we have done our best to bring the answer. We are concerned and we will engage the Treasury further to see how we can have money for our counties because it is our job to support our counties and we will do that. We will not support anything that will strangle our parties. We should not ask about issues that I cannot answer at this time as the Chairman. I thank you."
+      "text": "Mr. Temporary Speaker, Sir, a question was raised on the Floor of this House and we tried to respond to it. In fact, the answers we have here are the only ones. It is not fair to digress into things which are not there, but let me answer what the questioner asked. Our role is clearly stated in Article 96 of the Constitution and there is no doubt about that. Sen. Khaniri said that there is no money for development. There is no discretion when it comes to disbursing money to the counties for recurrent expenditure and development. Looking at what went to Vihiga County, there is no column for money for development and recurrent expenditure. It is difficult at this stage for us to separate money for development and recurrent expenditure. The disparity has been talked about in the points of order. If you look at the Schedule, you will see that it cuts across the board. Low disbursements to counties cuts across the board in the whole nation. That is a fact and it is what we should be concerned about as the Senate. It is unfortunate to talk about favour. Those are just sideshows. This cuts across all counties including those perceived to be the NASA or Jubilee strongholds. The CS also said that because of low collections, there is discretion where people have got more than Kshs300 million in the account. We are not debating the mandate of the Treasury here. That part of the question was not there. We should leave the question that was raised by my colleague Sen. Mutula Kilonzo Jnr. for another day. They have quoted Article 201 of the Constitution and I agree with Sen. M. Kajwang' that Article 219 is clear."
     },
     {
       "order": 265,
+      "id": "entry-779873-split-selected-4c0d930d-f2c4-49f4-86aa-95a22d018117",
+      "label": "scene",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( An hon. Senator spoke off record)"
+    },
+    {
+      "order": 266,
+      "id": "entry-779873-split-after-32e28bc1-3985-40e5-ad76-8990774eeeca",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Mohammed Maalim Mahamud",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "Yes; it says that. On the issue of revenue shortfalls, they said that there are shortfalls which they know more than I do. In fact, the CS said that they cannot disburse what they do not have. He did not say he was broke but he said that he has no money. My friend Sen. Khaniri also said something but he should not make political statements here. We do not know who supported the Constitution and who did not. Majority of us were not in Parliament at that time. Mr. Temporary Speaker, Sir, we have done our best to bring the answer. We are concerned and we will engage the Treasury further to see how we can have money for our counties because it is our job to support our counties and we will do that. We will not support anything that will strangle our parties. We should not ask about issues that I cannot answer at this time as the Chairman. I thank you."
+    },
+    {
+      "order": 267,
       "id": "entry-779874-split-before-4ac41c1f-2abd-4ec1-8e76-41864587645e",
       "label": "speech",
       "level": "2",
@@ -3183,7 +3207,7 @@
       "text": "Thank you honourable Chair. Hon. Senators, we need to make progress. Therefore, I will defer statements (e) to (i)."
     },
     {
-      "order": 266,
+      "order": 268,
       "id": "entry-779874-split-selected-a1ddf358-afc8-4224-95c9-095142cfe4fe",
       "label": "heading",
       "level": "2",
@@ -3195,7 +3219,7 @@
       "text": "ONGOING RECRUITMENT EXERCISE BY KDF"
     },
     {
-      "order": 267,
+      "order": 269,
       "id": "entry-779874-split-after-63c79573-406d-4aff-b123-f5dc6a753c15-split-selected-d70ca0b7-9205-4d70-92d4-ea79cf5ef128",
       "label": "heading",
       "level": "2",
@@ -3207,7 +3231,7 @@
       "text": "RELOCATION OF ELEPHANTS FROM LAIKIPIA TO TSAVO NATIONAL PARK"
     },
     {
-      "order": 268,
+      "order": 270,
       "id": "entry-779874-split-after-63c79573-406d-4aff-b123-f5dc6a753c15-split-after-347a9d3e-1f2c-4d28-b91c-b584ac2ae50d-split-selected-d2ff2184-4e9a-456a-9ed7-4a5a2e19f711",
       "label": "heading",
       "level": "2",
@@ -3219,7 +3243,7 @@
       "text": "THE STATE OF TOURISM IN MALINDI, KILIFI COUNTY"
     },
     {
-      "order": 269,
+      "order": 271,
       "id": "entry-779874-split-after-63c79573-406d-4aff-b123-f5dc6a753c15-split-after-347a9d3e-1f2c-4d28-b91c-b584ac2ae50d-split-after-6f863bd3-a04f-4e8c-a214-b3d612ee6d06-split-selected-2a24f853-22af-4911-8a65-8efc249a6040",
       "label": "heading",
       "level": "2",
@@ -3231,7 +3255,7 @@
       "text": "RAID BY ARMED BANDITS IN SUYIAN AREA IN SAMBURU NORTH CONSTITUENCY"
     },
     {
-      "order": 270,
+      "order": 272,
       "id": "entry-779874-split-after-63c79573-406d-4aff-b123-f5dc6a753c15-split-after-347a9d3e-1f2c-4d28-b91c-b584ac2ae50d-split-after-6f863bd3-a04f-4e8c-a214-b3d612ee6d06-split-after-e46536fc-2acb-44bb-bdcd-790266f25662",
       "label": "speech",
       "level": "2",
@@ -3243,7 +3267,7 @@
       "text": "DEROGATORY SONG AGAINST THE KAMBA COMMUNITY"
     },
     {
-      "order": 271,
+      "order": 273,
       "id": "entry-779874-split-after-63c79573-406d-4aff-b123-f5dc6a753c15-split-after-347a9d3e-1f2c-4d28-b91c-b584ac2ae50d-split-after-6f863bd3-a04f-4e8c-a214-b3d612ee6d06-split-after-e46536fc-2acb-44bb-bdcd-790266f25662-inserted-9ed7c1b7-1641-4028-8b71-8cc84cc6aa26",
       "label": "heading",
       "level": "2",
@@ -3255,7 +3279,7 @@
       "text": "DEROGATORY SONG AGAINST THE KAMBA COMMUNITY"
     },
     {
-      "order": 272,
+      "order": 274,
       "id": "entry-779877",
       "label": "scene",
       "level": "2",
@@ -3267,7 +3291,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 273,
+      "order": 275,
       "id": "entry-779878-split-before-8721aa80-21ed-4c0f-b676-e1388c62efdb",
       "label": "speech",
       "level": "2",
@@ -3279,7 +3303,7 @@
       "text": "I now call upon the Senate Majority Leader to issue a statement on the business of Senate for the coming week."
     },
     {
-      "order": 274,
+      "order": 276,
       "id": "entry-779878-split-selected-03b76201-26c0-4b1d-9a87-5dabf312c81d",
       "label": "heading",
       "level": "2",
@@ -3291,7 +3315,7 @@
       "text": "BUSINESS FOR THE WEEK COMMENCING TUESDAY, 13TH MARCH, 2018"
     },
     {
-      "order": 275,
+      "order": 277,
       "id": "entry-779879",
       "label": "speech",
       "level": "2",
@@ -3303,7 +3327,7 @@
       "text": "Mr. Temporary Speaker, Sir, pursuant to Standing Order No.46(2)(c), I hereby present to the Senate the Business for the Coming Week. The Senate Business Committee (SBC) will meet on Tuesday, 13th March, 2018, to schedule the business of the Senate. Subject to further directions of the SBC, the Senate will continue with consideration of business that will not have been concluded in today's Order Paper and other business scheduled by the SBC. On 14th and 15th March, 2018, the Senate will proceed to consider business that will not be concluded on Tuesday and any other business scheduled by the SBC. Mr. Temporary Speaker, Sir, as you will note, on today's Order Paper, debate on the Second Reading of The County Boundaries Bill (Senate Bills No.6 of 2017) will resume. Other Bills due for Second Reading are The Assumption of Office the County Governor Bill (Senate Bill No.1 of 2018), The County Government (Amendment) (No.2) Bill (Senate Bills No.7 of 2017), The County Government (Amendment) Bill (Senate Bills No.11 of 2017), The National Flag, Emblems and Names (Amendment) Bill (Senate Bills No.8 of 2017) and The Food Security Bill (Senate Bills No.12 of 2017). I take this opportunity to commend committees for conducting public participation on the various Bills committed to them and I urge them to table their reports as soon as possible. I also urge committees to whom the various positions have been committed to endeavour to report within the stipulated timelines. Additionally, there are a number of Motions before the Senate for consideration. I therefore once again urge all the honourable Senators to be available whenever the Senate is sitting, so that the scheduled business is executed expeditiously. Mr. Temporary Speaker, Sir, I thank you and hereby lay the statement on the Table of the House."
     },
     {
-      "order": 276,
+      "order": 278,
       "id": "entry-779882",
       "label": "scene",
       "level": "2",
@@ -3315,7 +3339,7 @@
       "text": "(Sen. Murkomen laid the document on the Table)"
     },
     {
-      "order": 277,
+      "order": 279,
       "id": "entry-779883",
       "label": "speech",
       "level": "2",
@@ -3327,7 +3351,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 278,
+      "order": 280,
       "id": "entry-779884",
       "label": "heading",
       "level": "1",
@@ -3339,7 +3363,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 279,
+      "order": 281,
       "id": "entry-779886",
       "label": "heading",
       "level": "3",
@@ -3351,7 +3375,7 @@
       "text": "THE COUNTY BOUNDARIES BILL (SENATE BILLS NO.6 OF 2017)"
     },
     {
-      "order": 280,
+      "order": 282,
       "id": "entry-779887-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3363,7 +3387,7 @@
       "text": "(Sen. Mutula Kilonzo Jnr. on 1.3.2018)"
     },
     {
-      "order": 281,
+      "order": 283,
       "id": "entry-779887-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3375,7 +3399,7 @@
       "text": "(Resumption of debate interrupted on 7.3.2018)"
     },
     {
-      "order": 282,
+      "order": 284,
       "id": "entry-779888",
       "label": "speech",
       "level": "3",
@@ -3387,7 +3411,7 @@
       "text": "If there are no requests, we will proceed to the next Order."
     },
     {
-      "order": 283,
+      "order": 285,
       "id": "entry-779889",
       "label": "scene",
       "level": "3",
@@ -3399,7 +3423,7 @@
       "text": "(The Temporary Speaker (Sen. Lelegwe) consulted with the Clerk-at-the-Table)"
     },
     {
-      "order": 284,
+      "order": 286,
       "id": "entry-779890",
       "label": "speech",
       "level": "3",
@@ -3411,7 +3435,7 @@
       "text": "Sen. Mutula Kilonzo Jnr., you can request for deferment."
     },
     {
-      "order": 285,
+      "order": 287,
       "id": "entry-779891",
       "label": "speech",
       "level": "3",
@@ -3423,7 +3447,7 @@
       "text": "Mr. Temporary Speaker, Sir, we had agreed prior to the commencement of the Second Reading that you defer the Division and my reply to await the public hearing that is ongoing. This is particularly because we are expecting the contribution by the Council of Governors (CoG). I was in a meeting this morning. Therefore, it will be important for me to respond to both the contributions by my colleagues on both sides and those by the public. So, I kindly request that you defer my replying until that time when I receive the committee report."
     },
     {
-      "order": 286,
+      "order": 288,
       "id": "entry-779892",
       "label": "speech",
       "level": "3",
@@ -3435,7 +3459,7 @@
       "text": "I can see Sen. Cherargei wants to say something."
     },
     {
-      "order": 287,
+      "order": 289,
       "id": "entry-779893",
       "label": "speech",
       "level": "3",
@@ -3447,7 +3471,7 @@
       "text": "Mr. Temporary Speaker, Sir, I was supposed to contribute yesterday but unfortunately I was not in. I thought that the procedure of the House is that if you do not get a chance to contribute, you can do it the next day. I stand guided."
     },
     {
-      "order": 288,
+      "order": 290,
       "id": "entry-779894",
       "label": "speech",
       "level": "3",
@@ -3459,7 +3483,7 @@
       "text": "Proceed, Senator."
     },
     {
-      "order": 289,
+      "order": 291,
       "id": "entry-779895",
       "label": "speech",
       "level": "3",
@@ -3471,7 +3495,7 @@
       "text": "Mr. Temporary Speaker, Sir, I want to congratulate Sen. Mutula Kilonzo Jnr. for this well thought out Bill with a lot of guidance. He is one of my Members in the Standing Committee on Justice, Legal Affairs and Human Rights. I must say that there are so many challenges that affect us especially regarding county boundaries. One of the issues has to do with resources and sharing of assets and liabilities. I told Sen. Mutula Kilonzo Jnr. who is the Mover in person that we do not have to use the map of 1992. There is a problem between Kisumu and Nandi counties over where Chemelil Sugar Company, which is undergoing privatisation, belongs. When you meet people there, the argument normally is that the map of 1963 shows that that facility was in Nandi County. Even Nyando Escarpment is in Tinderet Sub-County but the problem is that there is that tussle. I agree that there are many issues and I hope that this law will cure that. I hope that Sen. Mutula Kilonzo Jnr. will ensure that we go back and look at the Map of 1963. I know that most of the boundaries were created out of colonial convenience. Mr. Temporary Speaker, Sir, the second aspect is about the marginalized communities. Out of colonial convenience, you will find communities in three, four or even up to five counties. This has caused a lot of agony and disunity amongst communities like the Tirki. We have the Tiriki in Vihiga County and in my county. Some of these disputes are in courts because marginalized communities have sued their county governments to be recognised. I am aware the Constitution has a provision for the marginalized communities and there are affirmative programmes on how to address such short comings. The County Boundaries Bill (Senate Bill No.6 of 2017) should clearly state how best to accommodate these communities so that their interests are well protected. These challenges are being experienced in counties like Isiolo and Meru. At the moment, we do not have many boundary disputes between county governments. Another challenge is how the toll centres will be managed. I am hopeful that Sen. Mutula Kilonzo Jnr. will look into this. For example, when you are travelling to Baringo County, you could get a toll centre at Elgeyo Marakwet County. Barely five or 10 metres you get another one by Baringo County. We can avoid double taxation by having a no man's land like in some countries. Alternatively, we can agree on how to harmonize taxation such that if you are getting into a boundary from one county to another, you do not have to be subjected to taxation based on the same commodity. I believe those are some of the issues that will solve issues of boundaries and revenue collection between counties. Mr. Temporary Speaker, Sir, another issue is on the boundaries with our neighbouring countries. I know the threshold is 15 percent where somebody can petition the county assembly be it at the ward level or at the sub-county level. However, I request that we relook at that threshold as it is very low and will cause vexatious or unnecessary petitions to our county assemblies. A small community may not have been considered to county appointments and as we know elections in this country are very competitive. You might find in a particular section of a society, some people have not accepted and moved on. They may decide to petition and we will be wasting a lot of time. Therefore, the threshold of 15 per cent should be made a bit higher and measures be made more stringent, so that by the time that petition is done, it would have eradicated any unnecessary petitions or fictitious claims that might come to the county assembly. It is important to review this. The other two aspects are the Mediation Committee and the Authority. The country is still grappling with the issue of the wage bill. Therefore, my proposal is that if we can find a way of having one Authority so that we do not have to create a Mediation Committee or a Commission. We can co-opt the Independent Electoral and Boundaries Commission (IEBC). I propose that we have members in that commission who are not renumerated. This will be like in some of the commissions where they only sit and discuss matters. This way, we will allow synchronisation of some of the boundaries issues that have been raised. I know the importance of the Mediation Committee and the Commission that will be set up which is critical. However, we should look at how we can strike a balance between the Mediation Committee and the Commission. I agree with Sen. Mutula Kilonzo Jnr. that the African set up is meant to promote cohesiveness, integration, togetherness and to sing songs of unity and not disunity. In addition, the process of mediation has always been the spirit and in tandem with our African culture when solving our issues without involving the rigorous litigation process. Therefore, the Mediation Committee is important in solving boundary disputes between communities. I am aware that the IEBC will be reviewing boundaries in counties and sub-counties. Therefore, this Bill is critical. We must pass it so that the IEBC can use it as a primary source of information for us to promote cohesion and integration. Mr. Temporary Speaker, Sir, finally, the County Boundaries Bill (Senate Bills No.6 of 2017) is crucial in the sense that it will not divide Kenyans. It promotes a civilized, sober, legal and acceptable process in addressing issues of county boundaries without involving politicians. I agree with Sen. Mutula Kilonzo Jnr. that the timing is right as it will ensure a peaceful and civilized way of handling resources. I am aware that the issues of numbers will come in later especially when there is demarcation of elective areas, wards, sub-counties and counties. Going forward, this Bill is important and with the many amendments that my colleagues have raised, it will go a long way in ensuring cohesiveness and peace along our borders. In addition, it will resolve disputes of natural resources. For example, the Mau Forest, which Sen. Olekina is so passionate about, that stretches between three, four or five counties or disputes between Kenya and another country. Since Sen. Mutula Kilonzo Jnr. is a man of high legal standing, he will deal with the grey areas to avoid unnecessary litigations in future. I support this Bill. We will give it the necessary support to ensure that it comes to fruition. I thank you."
     },
     {
-      "order": 290,
+      "order": 292,
       "id": "entry-779898",
       "label": "speech",
       "level": "3",
@@ -3483,7 +3507,7 @@
       "text": "Mr. Speaker, Sir, the County Boundaries Bill (Senate Bills No.6 of 2017) could not have come at a better time than now. About 90 per cent of the current demarcations were done before independence. For example, Kiambu and Meru counties have more than one million residents. Nyeri and Kericho Counties also have big populations. Therefore, the time to review county boundaries is now and not yesterday. The boundaries should be looked at positively. We should have smaller units of counties because the population is just too big. Smaller units are manageable unlike when you have a county like Kiambu, which has over one million residents. Actually the voters are just about one million and you are talking of about 1.7 million residents. So, this is a very important Bill. Mr. Temporary Speaker, Sir, a county like Nyandarua, where I come from, needs to be split into two. We have Nyahururu Town, which is within the vicinity of Nyandarua and it borders Laikipia, but it used to be in Nyandarua. More than 95 per cent of the investors in Nyahururu Town are from Nyandarua. So, it is important that Nyahururu Town is alienated and joined with Nyandarua because it used to be in Nyandarua. I cannot understand the logic used by whoever decided that Nyahururu Town should be in Laikipia. When the people of Nyahururu pay taxes, these taxes go to develop Laikipia. This is unfair because the investors in this town are from Nyandarua. So, the taxes collected from Nyahururu town should go into developing Nyandarua, rather than Laikipia. There are large investments in Nyahururu which would help in developing Nyandarua. The taxes which have been collected over five, ten or twenty years are huge amounts of money that can develop Nyandarua. The boundary of Nyahururu should be reviewed, alienated and amalgamated to Nyandarua rather than remaining as it is now. Mr. Temporary Speaker, Sir, a county like Mombasa, with a huge population, should be split into about two for it to be manageable. It is big---"
     },
     {
-      "order": 291,
+      "order": 293,
       "id": "entry-779901",
       "label": "scene",
       "level": "3",
@@ -3495,7 +3519,7 @@
       "text": "(Sen. Omogeni spoke off record)"
     },
     {
-      "order": 292,
+      "order": 294,
       "id": "entry-779902",
       "label": "speech",
       "level": "3",
@@ -3507,7 +3531,7 @@
       "text": "You will say what you have to say when it is your time to contribute. Chair, it is now my time. Please tell the Member to wait for me to finish making my contribution---"
     },
     {
-      "order": 293,
+      "order": 295,
       "id": "entry-779903",
       "label": "speech",
       "level": "3",
@@ -3519,7 +3543,7 @@
       "text": "Order, hon. Senators! Proceed Sen. Mwangi."
     },
     {
-      "order": 294,
+      "order": 296,
       "id": "entry-779904",
       "label": "speech",
       "level": "3",
@@ -3531,7 +3555,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 295,
+      "order": 297,
       "id": "entry-779905",
       "label": "speech",
       "level": "3",
@@ -3543,7 +3567,7 @@
       "text": "On a point of order, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 296,
+      "order": 298,
       "id": "entry-779906",
       "label": "speech",
       "level": "3",
@@ -3555,7 +3579,7 @@
       "text": "What is it Sen. Omogeni?"
     },
     {
-      "order": 297,
+      "order": 299,
       "id": "entry-779907",
       "label": "speech",
       "level": "3",
@@ -3567,7 +3591,7 @@
       "text": "Mr. Temporary Speaker, Sir, is my good friend, Sen. Mwangi, in order to make reference to the fact that this Bill is about dividing counties so as to have additional counties from the 47 that we have to maybe 48 or 49? Is he in order to make reference to the fact that this Bill will enable Mombasa County to be split into two, whereas this Bill is about the boundaries of the counties as they are now? Is he in order?"
     },
     {
-      "order": 298,
+      "order": 300,
       "id": "entry-779908",
       "label": "speech",
       "level": "3",
@@ -3579,7 +3603,7 @@
       "text": "Mr. Temporary Speaker, Sir, I am in order to also suggest that this Bill be amended to include what I am saying. It gives a wider scope to know that this Bill can be amended in this House so as to include what I am suggesting. I hope the Member will be contented with that. If, in any case, he has an issue with what I am saying, he should seek for time to contribute and, perhaps, say something different from what I am saying."
     },
     {
-      "order": 299,
+      "order": 301,
       "id": "entry-779909",
       "label": "speech",
       "level": "3",
@@ -3591,7 +3615,7 @@
       "text": "Proceed, Sen. Mwangi."
     },
     {
-      "order": 300,
+      "order": 302,
       "id": "entry-779910",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3627,7 @@
       "text": "Mr. Temporary Speaker, Sir, even the County where Sen. Omogeni comes from should be split into two because it has a huge population. For heavens' sake, we need smaller units to manage because they will be easier and cheaper than managing a county with more than one million people. Some of the cities, like Nairobi, are too big. So, when it comes to alienation of these boundaries, we should have Nairobi West and Nairobi East. This will enable these counties to be managed in a manner that is going to be profitable to Kenyans. That is the way to do it. When considering these boundaries, we should not do so just for the sake of doing it; we should consider the boundaries in terms of what they can offer to the populace. The bigger they are, the more difficult they will become to manage. Mr. Temporary Speaker, Sir, that notwithstanding, we may want to consider county units which can be joined. For example, Nyandarua, Laikipia and Nakuru can be one administrative area that we can now call a county. Administrative boundaries should be a little bit bigger because the Government is spending a lot of money running 47 counties, yet Kenya is not that big. Kenya does not need more than 15 administrative units, whatever name we call them. We can even call them 'states.' We can have Bomet, Kericho and Nakuru joined together to make one state. That will help us to save a lot of money, particularly when it comes to employment. This is because the people who will be employed in what I am suggesting to be a 'state' will be fewer as compared to having three or four units employing people to do the same work that would be done by fewer people in a large area. I beg to support this Bill."
     },
     {
-      "order": 301,
+      "order": 303,
       "id": "entry-779911",
       "label": "speech",
       "level": "3",
@@ -3615,7 +3639,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I want to be very brief. This Bill sets out to anchor the boundaries of the counties with the main document, which is the Constitution of Kenya. When you look at the boundaries of Kenya, we have beacons that mark all the boundaries of the country. In the event there is a dispute between Kenya and its neighbouring states, we can then call to action the beacons that have been marked as relates to the boundaries between Kenya and other states. Equally so, when we had the defunct local authorities and I had the occasion to be the Minister for Local Government, one of the most thorny issues that came about is the question of boundaries between one county government vis-a-vis another, more so when it is related to services. We now have 47 distinctive counties created by the Constitution of Kenya and there is nowhere in those 47 counties where boundaries have been delineated by an Act of Parliament. I want to congratulate Sen. Mutula Kilonzo Jnr. for being able to bring us to speed with this Bill, which eventually when passed with the amendments, will bring about sanity in the recognition of boundaries within the Republic of Kenya. Therefore, these counties stand as county governments and they are recognised by the Constitution of Kenya. Just as Kenya, as a country, is recognised by its boundaries, we should now recognise the county governments with their boundaries. That is my first point. Therefore, we are taking the right step in creating structures that will be necessary for the administration of one county government from another. Secondly, we should be cognisant of the fact that there will be cross-cutting interests among counties. For example, Kisii and Nyamira counties have cross-interests. Sen. Okong'o Omogeni comes from Nyamira County and I come from Kisii County, but we share a market called Keroka. During the day Keroka Market has a very high population, but at night it dissipates. People come there to do business; it is a point of convergence. We need to be very clear on how the services are being cleared between Nyamira and Kisii counties, so that we do not leave people in conflict. People should not start fighting one another just because we have not sat down and agreed where the boundaries are. The last time when the Independent Electoral and Boundaries Commission (IEBC) wanted to delineate boundaries, with Nyaribari Masaba being alienated to Nyamira County Council at that time, we made an objection. This was because we were being detached from another part of Nyaribari Chache. I now believe that with this Bill in place, it should help us to get the right beacons and demarcations, which will resolve a lot of disputes that arise out of these markets. The other thing that has come out quite clearly is that there is now room for mediation. Before, these things were left at the mercies of the two governors, and if they failed to talk, then the issues were at limbo. Therefore, no progress was being made and the inhabitants of these counties were suffering, until the two governors agreed to meet. Now that there is a legal process that will lead to mediation and the manner in which that mediation committee is appointed, it will be very critical towards the administration of justice to the disputes arising between the two counties. It could be two, three, four or five counties, whatever the case may be. It is an important factor that we now have an avenue upon which we can redress the boundaries. It may not look apparent, but it is possible that, in future, the cross-county towns may become so huge in population that the IEBC may want to award constituencies to those particular towns. How do we treat this matter when it comes to that level, unless we are very clear right from the beginning whether or not the boundaries exist? Therefore, this is a forward looking Bill that will help to forestall any arguments or disputes that are likely to come up when the IEBC will be demarcating constituencies, particularly, in the growing towns and cities. I heard the contribution by the Senator for Nyandarua, who is a good friend of mine, and understood him. Probably, what he had in mind is, for example, a city like Nairobi which is so huge that the county government does not know the tail-end of their services. The most logical thing that people normally do, like in London, is to create administrative boroughs for the convenience of that city and its inhabitants; both permanent and temporary residents who come in and go out during the day and night respectively. It is important that we foresee a situation where such populations expand across counties. This Bill should then provide us with a way forward on how to deal with those issues. We are complaining that we are creating so many commissions, but this is one area that deserves a commission, and I will tell you why. We were prosecuting an issue earlier on during the debate on National Employment Authority. We were questioning its value and existence because they have not been able to generate enough business. But, at any given time when a dispute of this nature erupts, this standing commission will be able to cool down tempers and bring about cohesion in the manner in which we deal with the inter-county disputes. Already, there is a dispute not in a closer county, but a distant county about the business movements. We have seen in the Press and are all witnesses to what is going on. I do not want to refer to that because it will take me to another debate, which I am not interested to enter into at this stage. We must find mechanisms of sorting out disputes among ourselves. We must find out mechanisms on how to relate in this Senate. It is important that when we are dealing with county matters, which are our primary responsibility, we should ensure the smooth governance structures of the counties. We should safeguard them from anything that is likely to disrupt their movements, revenue source and format of employing people. Therefore, I am in full support of this Bill. We will be quite happy to participate in whatever amendments that may come up during the Committee stage. But at the moment, the way I see it, at least it has given us a starting point. We should not continue the way we are with regard to boundaries. It is a big shame that we had not thought of this Bill earlier on; it has now come during the Twelfth Parliament. This should have been one of those enabling Bills, which should have become an Act of Parliament before we even started talking about the county governments. Therefore, by bringing this Bill to this House, Sen. Mutula Kilonzo Jnr. has rescued us, so that we can put our House in order to manage the affairs of the counties. There are bound to be disputes arising between the counties; make no mistake about it. We are not cast in stone; there will be disputes. Therefore, we need to create a mechanism and channel through which these disputes can be resolved. I remember, for instance, even at the constituency level, there have been disputes arising out of constituencies that cut across borders. We had disputes between Nyaribari Masaba Constituency and Kilgoris Constituency, which is in Trans Mara. We had to appoint some wazees because at that time, we realised that we did not have a mechanism of dealing with this matter. So, we appointed a committee of five from my side and another committee of five from the other side. Together they sat down, agreed and, thereafter, called a huge baraza to address this matter. However, that agreement was not recorded anywhere as having been mutually agreed and accepted by both sides. But I can assure you that it brought us peace for the rest of the period. I walked from one end of the border to the other and it created awareness. Since that time, we have never had any dispute along that border. But this was a dispute that was resolved by elders from both sides of the divide of the constituency. We now have a bigger unit of county governments and we must now lay down the legal framework upon which we can resolve this matter and come clean so that we are not in any doubt on what we are dealing with. Regarding the population dynamics, I think it is a matter of the future. We should look at the new urban agenda that it is envisaged; that in order to stem rural-urban migration, we must create favourable urban centres within the various counties which will cut across the common boundaries of the counties. If they do so, how will we handle arbitration for the centres that come up? Once this Bill becomes an Act of Parliament, it will help us to delineate and settle disputes arising out of these comments. With those few remarks, Mr. Temporary Speaker, Sir, I fully support this Bill and hope that it will move forward to the next level."
     },
     {
-      "order": 302,
+      "order": 304,
       "id": "entry-779918",
       "label": "speech",
       "level": "3",
@@ -3627,7 +3651,7 @@
       "text": "Thank you, Sen. (Prof.) Ongeri Proceed, Sen. (Rev.) Waqo Naomi."
     },
     {
-      "order": 303,
+      "order": 305,
       "id": "entry-779919",
       "label": "speech",
       "level": "3",
@@ -3639,7 +3663,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I stand to congratulate Sen. Mutula Kilonzo Jnr. for coming up with the County Boundaries Bill (Senate Bills No.6 of 2017), that will support us. I would also like to thank and appreciate him for being a visionary leader. As many hon. Members have said, this is something that needed to have happened a long time ago, but it is okay to do it even now and in a good way. Mr. Temporary Speaker, Sir, I stand to support this Bill because of the challenges that we have gone through as Kenyans. Many hon. Members have expressed the challenges they have in their inter-county boundaries and also the boundaries with our neighbouring countries. I come from the border of Kenya and Ethiopia and we have always had challenges and conflicts. The lack of a proper demarcation has caused some of the challenges that we have gone through. When I went through the proposed Bill, I found that it provides a mechanism for resolution which will help us to overcome some of the conflicts that we have had on the ground. Part two of the Bill talks of the county boundaries while part three talks of management of disputes, which will promote cohesion. Mr. Temporary Speaker, Sir, The Bill also provides the procedure for alteration of county boundaries. We currently have a case with Turkana County because of Lake Turkana. We are wondering whether the lake is in Marsabit or Turkana county. Just last week, we were advised on how the case is going on. It is my prayer that this Bill will solve some of these problems. Mr. Temporary Speaker, Sir, this Bill also proposes the establishment of an Independent County Boundaries Commission at the ground level, where they will sit, listen and resolve all their problems. Having looked at the Bill under Part II, I was especially excited by Clause 4(1), which states that:- \"The Cabinet Secretary shall keep and shall, upon request by any person, make available an up-to-date electronic record of the boundaries of the counties\" This is what we are currently lacking and having a lot of challenges with. People have fought over boundaries. Some of our political leaders have been given names and have fought in the past because some people suspected that they had 'eaten' money and compromised our boundaries. So, this Clause will help to resolve some of our problems. Clause 4(3), under the same Part II says that:- \"Any person who unlawfully interferes with the records kept under this section commits an offence and is liable, upon conviction, to a fine of two million shillings or to five years imprisonment or to both. This is also very protective to our people on the ground and, for those reasons, I support this Bill and thank the Senator who has brought it. I beg to support."
     },
     {
-      "order": 304,
+      "order": 306,
       "id": "entry-779920",
       "label": "speech",
       "level": "3",
@@ -3651,7 +3675,7 @@
       "text": "Thank you, Senator. Proceed, Sen. (Dr.) Christopher Langat."
     },
     {
-      "order": 305,
+      "order": 307,
       "id": "entry-779921",
       "label": "speech",
       "level": "3",
@@ -3663,7 +3687,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. Most of the things that I would have wished to say have already been mentioned. But I would like to say that I support this---"
     },
     {
-      "order": 306,
+      "order": 308,
       "id": "entry-779922",
       "label": "scene",
       "level": "3",
@@ -3675,7 +3699,7 @@
       "text": "(Sen. Olekina consulted loudly)"
     },
     {
-      "order": 307,
+      "order": 309,
       "id": "entry-779923",
       "label": "speech",
       "level": "3",
@@ -3687,7 +3711,7 @@
       "text": "Sen. Ledama, unasema nini ? Mr. Temporary Speaker, Sir, my neighbour from Narok County, Sen. Ledama, interfered a bit. I think he suspects that I want to say that part of Narok should be in Bomet County. I would like to tell him to relax."
     },
     {
-      "order": 308,
+      "order": 310,
       "id": "entry-779924",
       "label": "scene",
       "level": "3",
@@ -3699,7 +3723,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 309,
+      "order": 311,
       "id": "entry-779925",
       "label": "speech",
       "level": "3",
@@ -3711,7 +3735,7 @@
       "text": "Mr. Temporary Speaker, Sir, I strongly support this Bill, which has come at the right time. It will bring a solution to the problem that was created by our earlier friends who fell into the trap of the colonial boundaries, which divided us into particular communities and promoted our disunity instead of unity. We should be careful to stick to the principles guiding this Bill so that we may not fall into the trap that was there before the colonial era. If we go into some historical boundaries as one of my friend said, for example, reclaiming areas like Chemilil and some of the areas which are already in other counties, it might bring us trouble. Mr. Temporary Speaker, Sir, I support this Bill based on the objectives that are already there. I have read the Bill and if we restrict ourselves to the guiding objectives, we will achieve the greater objective of this particular Bill. For example, as Sen. Githiomi Mwangi has said, everybody wonders why Nyahururu is in Laikipia instead of being in Nyandarua County. Sometimes the current boundaries inconvenience our people, as evidenced by some of the boundaries that are in some counties. This is because they force some county members to go through long processes for their problems or issues to be solved instead of getting solutions within the nearby counties. For example, the issues of the people of Trans Mara can be served well within Kisii or Bomet counties instead of them travelling all the way up to Narok County."
     },
     {
-      "order": 310,
+      "order": 312,
       "id": "entry-779926",
       "label": "scene",
       "level": "3",
@@ -3723,7 +3747,7 @@
       "text": "(Sen. Olekina consulted loudly)"
     },
     {
-      "order": 311,
+      "order": 313,
       "id": "entry-779927",
       "label": "speech",
       "level": "3",
@@ -3735,7 +3759,7 @@
       "text": "Sen. Olekina is already saying; no, no. Mr. Temporary Speaker, Sir, we should support this Bill with amendments, but within its objectives. I beg to support. Thank you."
     },
     {
-      "order": 312,
+      "order": 314,
       "id": "entry-779928",
       "label": "speech",
       "level": "3",
@@ -3747,7 +3771,7 @@
       "text": "Thank you, Sen. (Dr.) Langat. Proceed, Sen. Wario."
     },
     {
-      "order": 313,
+      "order": 315,
       "id": "entry-779929",
       "label": "speech",
       "level": "3",
@@ -3759,7 +3783,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me this chance. Bills Nos.8 and 9 are before the Committee on Devolution and Intergovernmental Relations for public participation. Today, we heard from the Council of Governors (CoG) and the forum of Deputy Governors. Tomorrow, we will write up the inputs that we got today and a comprehensive report on the same. The same will be presented to this House next week. I seek your direction because whatever we are doing today is what we will do next week. In that case, the Senators who would like to give their input are welcome tomorrow in Committee Room No.9. We are still writing the report. Mr. Temporary Speaker, Sir, I seek direction on the same. Thank you."
     },
     {
-      "order": 314,
+      "order": 316,
       "id": "entry-779932",
       "label": "speech",
       "level": "3",
@@ -3771,7 +3795,7 @@
       "text": "Thank you, Sen. Wario. The Bill is already before the House and we will commit it later to the Committee. We are even yet to call upon the Mover to reply. So, we will proceed with comments and contributions from the hon. Senators. I see only one request from Sen. Halake."
     },
     {
-      "order": 315,
+      "order": 317,
       "id": "entry-779933",
       "label": "speech",
       "level": "3",
@@ -3783,7 +3807,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me the opportunity. Any pastoralist who does not contribute to this Bill will be in big trouble. So, I have sat here very patiently to make sure that I add my words to it. I stand to support and also congratulate Sen. Mutula Kilonzo Jnr. for this timely Bill. As you know, the previous Act under the old Constitution entrenched historical and colonial injustice for most parts of the country with regards to boundaries. Therefore, this Bill gives us a second chance to ensure that we rectify those historical injustices, especially for pastoralist communities, who for a long time did not really pay attention to boundaries and freely roam the plains of northern Kenya and other parts of Kenya. Therefore, they were very disproportionately disadvantaged by especially the old Constitution, where district boundaries were deemed to now become county boundaries. I support this Bill because it gives effect to Article 188 of the Constitution on the alteration of county boundaries. Again, given the fact that there was no mechanism in place for resolution of conflict between different counties with regard to boundaries, this is really timely especially now that we are all very cognizant of the fact that counties are our unit of service delivery, resource allocation and other advantages. Mr. Temporary Speaker, Sir, for me, more than even the contents of the Bill itself, I am very impressed with the possibilities that this Bill provides us as a country. This is in regards to boundary disputes where the Bill proposes to have an ad hoc county boundaries mechanism. It also puts timelines on the work of the Committee and, therefore, the land issues that went on for 99 years until everything lapsed and we went back to square one are going to be resolved. I like the time-bound nature of the work of these ad hoc committees. This is, therefore, very timely. The other area where I think the consequences of this Bill will help the country move forward is the scenario of the boundaries of the districts in the Districts and Provinces Act. These boundaries are deemed to be the boundaries of the corresponding counties at the moment. For us, that is an injustice that will be corrected by this Bill. For pastoralists, for instance, we keep moving from county to county with our animals and sometimes we are blind to county boundaries. That said, traditional boundaries should also be taken into consideration as we look at this Bill. The issue around resolution of boundary disputes between counties through the mediation process is such a welcome part of this Bill. Of course, the Constitution is a broad guideline or law. As the Senate, this is the opportunity for us to then break down this broad law under Article 188 into a very useful Bill that will enable everybody to resolve boundary issues. Land issues have driven insecurity in this country and have been politicized for a long time. Having these mechanisms in place will ensure that we move forward as a country and correct some of the past injustices that many people have suffered. I support this Bill and look forward to see it work for our people."
     },
     {
-      "order": 316,
+      "order": 318,
       "id": "entry-779936",
       "label": "speech",
       "level": "3",
@@ -3795,7 +3819,7 @@
       "text": "Thank you, hon. Senators. There being no other requests, Sen. Mutula Kilonzo Jnr. will reply at a later date. This is in line with the directions given earlier by the Chair."
     },
     {
-      "order": 317,
+      "order": 319,
       "id": "entry-779937",
       "label": "scene",
       "level": "3",
@@ -3807,7 +3831,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 318,
+      "order": 320,
       "id": "entry-779938",
       "label": "speech",
       "level": "3",
@@ -3819,7 +3843,7 @@
       "text": "Next Order."
     },
     {
-      "order": 319,
+      "order": 321,
       "id": "entry-779939",
       "label": "heading",
       "level": "1",
@@ -3831,7 +3855,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 320,
+      "order": 322,
       "id": "entry-779940",
       "label": "heading",
       "level": "3",
@@ -3843,7 +3867,7 @@
       "text": "THE ASSUMPTION OF OFFICE OF THE COUNTY GOVERNOR BILL (SENATE BILLS NO.1 OF 2018)"
     },
     {
-      "order": 321,
+      "order": 323,
       "id": "entry-779941",
       "label": "speech",
       "level": "3",
@@ -3855,7 +3879,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to move that the Assumption of Office of the County Governor Bill (Senate Bills No.1 of 2018) be now read a Second Time. The Assumption of Office of the County Governor Bill (Senate Bills No.1 of 2018) was published on 12th January and read for the First Time on 15th February, 2018. The object of the Bill is to provide for the procedure and the ceremony of the assumption of office of the County Governor elect. This is one of the Bills that we had introduced in the previous House, and in the processes of Parliament, it never saw the light of day. Just as a recap, when the elections of 2017 were held, the guidelines that were picked to assist in the assumption of office for all county governors by the Ministry of Devolution and Planning, indeed, were drawn from the proposals that we had done in this Bill. Thus, the importance of the Bill cannot be overstated. Presently, there is no legal framework governing the assumption of office of the county governor and the legal framework is important because it ensures a successful and smooth transition into the office of the county governor by the county governor elect. Clause 3 of the Bill limits the application of the Bill to the assumption of office of the county governor by the governor elect, with the necessary modifications of the assumption of office by the deputy governor elect and the county assembly speaker, in a case as contemplated under Article 182(2) and (4) of the Constitution. Article 182(2) states that:- \"If a vacancy occurs in the office of the county Governor, the deputy county Governor shall assume office as county Governor for the remainder of the term of office of the county Governor.\" Mr. Temporary Speaker, Sir, this scenario is remembered in the situation that prevailed following the demise of the late Governor for Nyeri County, the brilliant Gov. (Dr.) Gakuru - May God rest his soul in peace. Following his demise, pursuant to the provisions of the Constitution, the deputy governor assumed office. However, even now, the same scenario prevails. The office of the governor is occupied by the deputy governor with a lacuna in law. That does not provide for onward movement. Article 182(4) states: \"If a vacancy occurs in the office of county governor and that of deputy county governor, or if the deputy county governor is unable to act, the speaker of the county assembly shall act as county governor.\" As provided for in the Assumption of Office of the President, there is a clear line up in assumption of office which envisages all scenarios in the event that any of the emergent or perceived situations occur. However, this has been lacking and was silent in the Assumption of Office of the County Governor. Those are some of the areas that this Bill seeks to address. Clause five of this Bill provides for the establishment of the Assumption of Office of County Governor Committee which shall be an ad hoc committee consisting of various personnel and people within the county. We envisage an ad hoc committee because the period of time and the mandate of this committee is time bound. The purpose of the committee is to only facilitate work around the requirements, provisions and facilitation for the county governor-elect to smoothly assume office. That is why this committee can only be provided for under the terms of an ad hoc committee. Mr. Temporary Speaker, Sir, for the record, the various individuals who have been envisaged to be members of this ad hoc Committee on the Assumption of Office of the County Governor are:- (a) The County Secretary who shall be the chairperson; (b) The Principal Legal Advisor in the respective county; (c) The Chief Officer in the department responsible for matters relating to the county public service; (d) The Chief Officer in the department responsible for matters relating to information and communication; (e) The Chief Officer in the department responsible for matters relating to finance; (f) The Chief Officer in the department responsible for matters relating to public works, roads and transport; (g) The County Commissioner; (h) The head of National Police Service in the county; (i) The Policing Authority representative in the county; (j) The Clerk of the county assembly; and (k) Two persons nominated by the governor-elect. The persons enlisted in this Bill are key people within the county. They are all persons who in one way or the other, either in the previous county government have held important positions within that county and are thus custodians of important knowledge, tools, facilities. They would play an important role in ensuring that the governor-elect is not only properly facilitated but is informed, catered for, has got all the necessary tools, information and access to ensure that there is a smooth assumption of office of the governor who is elected in a county. Mr. Temporary Speaker, Sir, amongst those individuals in this committee is the clerk of the county assembly. I included the clerk of the assembly because in the life of the county government, it is envisaged that the county governor's office works hand in hand with the county assembly in passing laws. It is also important to notice that the clerk of the county assembly is an important custodian of a lot of information and data. He or she is one of the key people who are always in the office whether or not the life of a previous government has expired by virtue of an election. The continuity that will be offered by the presence of the clerk of the county assembly and other officials like the county commissioners is important. Mr. Temporary Speaker, Sir, Clause Six of the Bill provides for the functions of the Committee as follows: (a) To facilitate the handing over process by the outgoing governor to the governor-elect. Without belaboring the point, it is important that after the elections, there be a handing over process that is well facilitated. The key word here is \"facilitate.\" We are presuming that there are no parameters set that the governor-elect must first be informed or given access before. Therefore, the facilitation is important. Let me speak on the question of facilitation. As I will outline in the few other points that I will make, the chaos that ensued after the elections in 2013 when we had what I would call our 'virgin' governors\" were not only sometimes hilarious, but also expensive. There was mix-up and pandemonium. People did not know what to do. In the process, the country ended up losing a lot of money. Mr. Temporary Speaker, Sir, the other functions of this Committee include:- (b) Ensure the provision of security services for the governor-elect. It is also important for this House to note that we are all here by virtue of an electioneering process. We know what happens. When a candidate, especially, one of the status of a governor-elect has been given the mandate by the people of that county, it is important to ensure that he has adequate security services. I do not want to go into a lot of details about this particular issue. However, we have had interesting history as a country after elections where candidates have either been abducted and a lot of other things have happened. The next function of the Committee is to:- (c) Put in place the necessary facilities and deploy the necessary personnel to be at the service of the governor-elect upon assumption of office. We are assuming that a governor-elect comes into office when he or she has not been a county employee before. There are thousands of workers in different departments. There needs to be a provision where all these personnel are put at a vantage position for the governor-elect, for him or her to access either the information they have or any information he or she may require. This function is important to be dealt with by this committee. Mr. Temporary Speaker, Sir, the next one is:- (d) Co-ordinate the briefings of the governor-elect by relevant county public officers. Once more, we remember, for example, when governors assumed office the first time, since these were 'virgin' offices, as I said, the trend was to hire mostly their friends, loyalists, campaigners and henchmen. Sometimes you find in the core team that is at the centre of the county is a group of people who are loyal to that particular person only. The requirement of the law that one needs to understand is that at the expiry of the term of a governor, the officers employed by that government owe and pledge allegiance to the government of the day. That may be taken for granted but in most cases it does not happen. That is why it is important for this to be included in part of the functions that will be addressed by this Committee. The next function is:- \"(e) Facilitate communication between the outgoing governor and the governor- elect.\" These are pertinent issues. As elected Members, we all know what happens in an electoral process. Sometimes it gets so grueling and competitive that at the end of the process, candidates cannot even look at each other, let alone speak. Therefore, facilitation of communication between the two, especially where there is exchange of important information that will help the governor-elect continue with the work that was being done by the governor who was in office is important and is part of the functions. Mr. Temporary Speaker, Sir, the other function of this Committee is:- \"(f) prepare the programme and organise for the swearing-in ceremony.\" In the absence of an organised programme, we can probably imagine what would happen and happens in the processes of swearing-in. I again bring my mind to the events of 2013. I was there in my county and others where I paid a visit to help my friends as one of their guests. It was chaotic. One would find that some people did not know where to start or what to do. Some events were being held all the way up to after 6.00 p.m. where you would find people still dancing. There was no date or programme and people did not know who was going to speak where. Generally, this is what we are trying to address by ensuring that there is a programme that can be followed on this day. Lastly, the other function is to:- \"(g) Carry out any other activity necessary for the performance of its functions under this Act and perform any other function assigned to it under any written law. \" Clause Nine of the Bill tasks the Assumption of The Office of County Governor Committee with the duty to provide adequate security for the county governor-elect and deputy governor-elect upon the declaration of the final results of the election of the office of the governor by the Independent Electoral and Boundaries Commission (IEBC) following their election. The key words here are \"upon declaration of the final results\". When we are going through the election process, most of the times these results are announced in open halls where multitudes of people have come. Some come expecting to win, others disputing the results and others with other intentions. Upon the declaration of a governor-elect and deputy - it is on record and we all have seen it - that in some places it ends up breaking into a fight. In other places you find somebody grabbing the results from the IEBC officer before they declare the results and running away with them. Others will literally jump onto the candidate about to be declared winner and strangle them. Since the results are already there ready to be declared, the implication of any harm occurring to this governor-elect would mean another very expensive and lengthy process for that county to get back to the same point. Therefore, Clause Nine addresses the necessity of providing security to the governor-elect and deputy governor-elect upon declaration of the results at the point of declaration. Under Clause11 the Bill also proposes that:- \"If a county governor-elect dies after being declared elected as governor, but before assuming office, or is unable to assume office for whatever reason---\" Mr. Temporary Speaker, Sir, we will need to address this a little bit in detail. This is because it is unlike the other scenario whereby I gave an example of what happened in Nyeri County. What happened at that time was that a governor, who had already assumed office, passed on. In this case, the Bill premises - because it is a possibility - that a county governor maybe elected and, for any one reason, he is not able to assume office upon being declared a governor elect. What the Bill proposes here is that if the county governor-elect dies after being declared as the county governor but before assuming office; or is unable to assume office, then it is the deputy governor-elect who shall be sworn in, in an acting capacity, as the acting county governor. Fresh elections shall then ensue within 60 days after the death of the governor-elect. I hope I have stated that clearly. Mr. Temporary Speaker, Sir, the idea here is that you have a person who has gone into a competition, he has been elected and declared as the county governor-elect; he is ready to assume office but he dies before he does that. So, what would happen in this kind of a scenario? That is why we are saying that the deputy county governor-elect would be sworn in as the acting governor. Thereafter, elections would ensue within 60 day to ensure that the wish of the people of that county to have a governor of their own choice, notwithstanding the calamity, is still addressed by virtue of the election to be held within 60 days. In addition, Mr. Temporary Speaker, Sir, if the deputy county governor-elect dies before assuming office or is unable to assume office, the office of the deputy county governor shall be declared vacant on the assumption of office by the person declared elected as the county governor. Once more, let me take a second to clarify that point. Here, the thought reverts to this scenario. You have two individuals who have been running together as running mates for office as governor and deputy governor. The deputy county governor has been declared as the deputy governor-elect, but before assuming office, he dies. Then what happens? In sealing that loophole, we are saying that the county governor himself shall take the mandate and declare the office of the deputy county governor vacant. Thus, the governor will take the responsibility of transiting with the process. Mr. Temporary Speaker, Sir, the Bill further sets out timelines and procedures for swearing in a person who assumes the office of the county governor under Article 182(2) of the Constitution as follows. If you allow me, I will read it out. \"If a vacancy occurs in the office of county governor, the deputy county governor shall assume office as the county governor for the remainder of the term of the county governor.\" This is the case with Nyeri County. The Bill gives power to the person who assumes the office of the county governor, under Article 182(2) of the Constitution, to nominate, with the approval of the County Assembly, a deputy governor within 14 days. The Motion for the approval of the appointment of a deputy governor shall be supported by a majority of the Members of that County Assembly. Mr. Temporary Speaker, Sir, the scenario we are trying to address here is the one that has prevailed in Nairobi County, whereby you have a governor but no deputy governor. The governor is unable to move in the absence of an enabling law. So, the process is set out here that a deputy governor can be nominated. The nomination will require the approval by a majority of the Members of the County Assembly within a set timeline of 14 days. That will address the lacuna and the limbo that exists right now, for example, in Nairobi County. The Bill also sets out instances when the office of the Deputy County Governor may become vacant, such as when he dies, resigns by notice, and we saw such an instance when it was done by the good former Nairobi County Deputy Governor, Mr. Polycarp Igathe. It also envisages a scenario where the Deputy Governor ceases to be eligible for nomination as the Deputy County Governor under Article 185 of the Constitution. Also, if he assumes office of the Governor under Article 182(2) of the Constitution and if he is convicted of an offence punishable by imprisonment by at least six months or he is removed from office under the procedure provided in the Bill. Mr. Temporary Speaker, Sir, the Bill provides for the swearing in of the governor- elect to be conducted in a public ceremony before a resident High Court Judge or in the absence of such a Judge, before a resident chief Magistrate. The swearing in ceremony shall take place on the first Tuesday following the 21st Day after the declaration of the results of the election of a county governor. It is important that this procedure is clearly set out in law. In the 2013, there were all manner of happenings, other than recently in the year 2017 case, where the Ministry of Devolution and Planning borrowed from the Bill that we had moved at that time. Making sure that there is legality and legitimacy to this process, by ensuring that we have a High Court Judge present to swear in the Governor, within a specific date and time, as has been clearly set out in the Assumption of the Office of President Act, is very important. This time a lot of confusion and precedents, some of which may not be good, about swearing in have happened. It is good to have a swearing in that is legal and witnessed by a High Court Judge or resident Magistrate within the set time line. Clause 17 of the Bill provides for the handing over of the following symbols as a sign of transfer of executive power and authority in the county. The symbols of power and authority are: The county flag, the Constitution of Kenya, 2010 and the county public seal. It is also important to note that, even as we speak, some counties do not have a flag of their own. Actually, during the handing over in 2017 all manner of items were exchanged as symbols of change of power and authority. I remember going to one ceremony where one of the governors was handing over something that looked like a small model of a small Elephant. I was asking myself what was being exchanged, but that was their symbol. If you ask most of the counties where their county flags are, they will tell you that they do not have them. If you were to challenge them to show where their public seals are, you will find out that they do not have them. It is important for the symbols of authority and power to be well spelt out. Clause17 (2) of the Bill sets out the circumstances where the handing over of the instruments of power and authority shall not apply. One of them is when the outgoing governor is not present during the inauguration. Most of the county governors who were defeated in the 2017 general elections refused to go for the swearing in ceremonies of the governors-elect. We have to address a case where one refuses to attend, because we cannot delegate that responsibility to another person. Also, when the incumbent is re- elected into office, there is no point of handing over these symbols and instruments of power. Clause17 (4) of the Bill provides that the failure by an outgoing county governor to hand over those instruments of power to the governor-elect shall not invalidate the assumption to the office of county governor by the county governor-elect. It is important that it becomes clear that one cannot scheme that because they are the ones who are keeping the symbols of power and authority in their office; if they do not come to hand them over to the governor-elect, it will be presumed that governor-elect has not been validly elected or cannot assume office properly. So, in this kind of cases, even if the outgoing governor does not show up---"
     },
     {
-      "order": 322,
+      "order": 324,
       "id": "entry-779954",
       "label": "speech",
       "level": "3",
@@ -3867,7 +3891,7 @@
       "text": "Order, Sen. Wamatangi. You still have 31 minutes left for your contribution to the Bill."
     },
     {
-      "order": 323,
+      "order": 325,
       "id": "entry-779955-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -3879,7 +3903,7 @@
       "text": "ADJOURMENT"
     },
     {
-      "order": 324,
+      "order": 326,
       "id": "entry-779955",
       "label": "speech",
       "level": "1",

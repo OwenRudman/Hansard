@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-12-22-10-00-00",
-  "exported_at": "2026-10-05T08:10:55.173Z",
+  "exported_at": "2026-10-08T21:36:33.237Z",
   "entries": [
     {
       "order": 1,
@@ -916,7 +916,7 @@
     },
     {
       "order": 77,
-      "id": "entry-1135349",
+      "id": "entry-1135349-split-before-b71ccf64-817b-48b6-a9fe-14ff22036942",
       "label": "speech",
       "level": "5",
       "cutout": false,
@@ -924,10 +924,22 @@
       "speaker": "Moses Otieno Kajwang'",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Division will be at the end.\n\nThe Title and Clause 1 (Question, that the Title and Clause 1 be part of the Bill, proposed\n\n)"
+      "text": "Division will be at the end.\n\nThe Title and Clause 1"
     },
     {
       "order": 78,
+      "id": "entry-1135349-split-selected-7885ab9a-90f1-4bcf-ae81-ee663043d49d",
+      "label": "scene",
+      "level": "5",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "(Question, that the Title and Clause 1 be part of the Bill, proposed\n\n)"
+    },
+    {
+      "order": 79,
       "id": "entry-1135352",
       "label": "speech",
       "level": "5",
@@ -939,7 +951,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 79,
+      "order": 80,
       "id": "entry-1135353",
       "label": "speech",
       "level": "5",
@@ -951,7 +963,7 @@
       "text": "Hon. Senators, I now call the Mover to report."
     },
     {
-      "order": 80,
+      "order": 81,
       "id": "entry-1135354",
       "label": "speech",
       "level": "5",
@@ -963,7 +975,7 @@
       "text": "Madam Chairperson, pursuant to Standing Order No.148, I beg to move that the Committee of the Whole do report to the House its consideration of The County Governments (Amendment) Bill (Senate Bills No. 38 of 2021) and seek leave to sit again tomorrow."
     },
     {
-      "order": 81,
+      "order": 82,
       "id": "entry-1135357",
       "label": "scene",
       "level": "5",
@@ -975,7 +987,7 @@
       "text": "( Question proposed)"
     },
     {
-      "order": 82,
+      "order": 83,
       "id": "entry-1135358",
       "label": "scene",
       "level": "5",
@@ -987,7 +999,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 83,
+      "order": 84,
       "id": "entry-1135359",
       "label": "speech",
       "level": "5",
@@ -999,7 +1011,7 @@
       "text": "Hon. Members, for the sake of convenience, we will go to the next Bill being prosecuted by the same Chairperson. The Bill is listed under Order No.18."
     },
     {
-      "order": 84,
+      "order": 85,
       "id": "entry-1135360",
       "label": "heading",
       "level": "3",
@@ -1011,7 +1023,7 @@
       "text": "THE INTERGOVERNMENTAL RELATIONS (AMENDMENT BILL SENATE BILLS NO.37 OF 2021)"
     },
     {
-      "order": 85,
+      "order": 86,
       "id": "entry-1135361",
       "label": "heading",
       "level": "5",
@@ -1023,7 +1035,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 86,
+      "order": 87,
       "id": "entry-1135362",
       "label": "speech",
       "level": "5",
@@ -1035,7 +1047,7 @@
       "text": "Madam Chairperson, I beg to move- THAT Clause 2 of the Bill be amended by inserting the following new paragraph immediately after the proposed paragraph (n) - (na) conditions for the termination of the agreement. Madam Chairperson, the reason for this amendment is to provide detailed procedures for transfer of functions between the national Government and county governments. This particular Clause 2 talks about the details that should go into the deed of transfer so that it is not left at the discretion of the Executive, but it goes through the county assemblies and Parliament before execution. Madam Chairperson, I beg to move."
     },
     {
-      "order": 87,
+      "order": 88,
       "id": "entry-1135363",
       "label": "scene",
       "level": "5",
@@ -1047,7 +1059,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 88,
+      "order": 89,
       "id": "entry-1135364",
       "label": "speech",
       "level": "5",
@@ -1059,7 +1071,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 89,
+      "order": 90,
       "id": "entry-1135365",
       "label": "heading",
       "level": "5",
@@ -1071,7 +1083,7 @@
       "text": "Clause 3"
     },
     {
-      "order": 90,
+      "order": 91,
       "id": "entry-1135366",
       "label": "speech",
       "level": "5",
@@ -1083,7 +1095,7 @@
       "text": "Madam Chairperson, I beg to move- THAT Clause 3 of the Bill be amended by inserting the following new section immediately after the proposed section 26F - Role of Technical 26G. The Technical Committee shall, in undertaking Committee in transfer or duties under this Part - delegation of powers, (a) witness the execution of a transfer or delegation of a functions and power, function or competency; competencies. (b) provide administrative support to the parties to the transfer agreement during the transfer process; and (c) prepare and maintain an inventory of assets and liabilities of the transferred functions. The rationale for this amendment is to provide a role for the Intergovernmental Relations Technical Committee (IRTC) in any transfer of functions arrangement. We are proposing that the custodian of the deed of transfer shall be the IRTC. The custodian of inventory of assets and liabilities shall be the same committee and at the expiry of a transfer like in the example of the Nairobi Metropolitan Services (NMS) and the Nairobi City County Government, the IRTC shall be involved in auditing and handing over the inventory of assets to the party to which constitutional responsibility belongs. Madam Chairperson, I beg to move."
     },
     {
-      "order": 91,
+      "order": 92,
       "id": "entry-1135371",
       "label": "scene",
       "level": "5",
@@ -1095,7 +1107,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 92,
+      "order": 93,
       "id": "entry-1135372",
       "label": "speech",
       "level": "5",
@@ -1107,7 +1119,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 93,
+      "order": 94,
       "id": "entry-1135373-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -1119,7 +1131,7 @@
       "text": "The Title and Clause 1"
     },
     {
-      "order": 94,
+      "order": 95,
       "id": "entry-1135373-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1131,7 +1143,7 @@
       "text": "(Question that the Title and Clause 1 be part of the Bill proposed)"
     },
     {
-      "order": 95,
+      "order": 96,
       "id": "entry-1135374",
       "label": "speech",
       "level": "3",
@@ -1143,7 +1155,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 96,
+      "order": 97,
       "id": "entry-1135375",
       "label": "speech",
       "level": "3",
@@ -1155,7 +1167,7 @@
       "text": "Madam Chairperson, pursuant to Standing Order No.148, I beg to move that the Committee of the Whole do report progress on its consideration of the Intergovernmental Relations (Amendment Bill, Senate Bills No. 37 of 2021) and seek leave to sit again tomorrow."
     },
     {
-      "order": 97,
+      "order": 98,
       "id": "entry-1135376",
       "label": "speech",
       "level": "3",
@@ -1167,7 +1179,7 @@
       "text": "seconded."
     },
     {
-      "order": 98,
+      "order": 99,
       "id": "entry-1135377",
       "label": "scene",
       "level": "3",
@@ -1179,7 +1191,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 99,
+      "order": 100,
       "id": "entry-1135378",
       "label": "scene",
       "level": "3",
@@ -1191,7 +1203,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 100,
+      "order": 101,
       "id": "entry-1135379",
       "label": "heading",
       "level": "3",
@@ -1203,7 +1215,7 @@
       "text": "THE COUNTY OVERSIGHT AND ACCOUNTABILITY BILL (SENATE BILLS NO.17 OF 2021)"
     },
     {
-      "order": 101,
+      "order": 102,
       "id": "entry-1135380-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1215,7 +1227,7 @@
       "text": "Clauses 3 and 4"
     },
     {
-      "order": 102,
+      "order": 103,
       "id": "entry-1135380-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1227,7 +1239,7 @@
       "text": "(Question that Clauses 3 and 4 be part of the Bill, proposed)"
     },
     {
-      "order": 103,
+      "order": 104,
       "id": "entry-1135381",
       "label": "speech",
       "level": "5",
@@ -1239,7 +1251,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 104,
+      "order": 105,
       "id": "entry-1135382",
       "label": "heading",
       "level": "5",
@@ -1251,7 +1263,7 @@
       "text": "Clauses 5"
     },
     {
-      "order": 105,
+      "order": 106,
       "id": "entry-1135383",
       "label": "speech",
       "level": "5",
@@ -1263,7 +1275,7 @@
       "text": "Madam Chairperson, I beg to move- THAT clause 5 of the Bill be amended - (a) in subclause (1) by deleting the word \"shall\" appearing immediately after the words \"each county government\" and substituting therefor the word \"may\"; (b) in subclause (2) by deleting the word \"shall\" appearing immediately after the words \"A county government\" and substituting therefor the word \"may\"; Madam Chairperson, as you can see it appears to be a trivial amendment, but \"may\" and \"shall\" mean a lot of things. This was in relation to the proposal by the Mover that each county government shall establish infrastructure for public participation. In our public hearings, it was felt that different counties might have different approaches to public participation. There are those who go to churches, others under trees, but there are those in urban areas like Nairobi that require infrastructure to be established. This is just to take care of uniqueness and peculiarities across the 47 counties. Madam Deputy Speaker, I beg to move."
     },
     {
-      "order": 106,
+      "order": 107,
       "id": "entry-1135386",
       "label": "scene",
       "level": "5",
@@ -1275,7 +1287,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 107,
+      "order": 108,
       "id": "entry-1135387",
       "label": "speech",
       "level": "5",
@@ -1287,7 +1299,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 108,
+      "order": 109,
       "id": "entry-1135388-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1299,7 +1311,7 @@
       "text": "Clauses 6 - 16"
     },
     {
-      "order": 109,
+      "order": 110,
       "id": "entry-1135388-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1311,7 +1323,7 @@
       "text": "(Question, that Clauses 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 and 16 be part of the Bill, proposed)"
     },
     {
-      "order": 110,
+      "order": 111,
       "id": "entry-1135389",
       "label": "speech",
       "level": "5",
@@ -1323,7 +1335,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 111,
+      "order": 112,
       "id": "entry-1135390",
       "label": "heading",
       "level": "5",
@@ -1335,7 +1347,7 @@
       "text": "Clause 17"
     },
     {
-      "order": 112,
+      "order": 113,
       "id": "entry-1135391",
       "label": "speech",
       "level": "5",
@@ -1347,7 +1359,7 @@
       "text": "I beg to move - THAT clause 17 of the Bill be amended by deleting subclause (1) and substituting therefor the following new subclause - (1) A Senator may facilitate public participation through public awareness campaigns in the respective county. I think the initial proposal was that the Senator shall carry out or conduct public participation in all the wards and we felt that that was restrictive. The Senator should then come up with a plan for public participation and public awareness in the county without necessarily saying that it shall be done in each ward. The Members of County Assembly felt that that was usurping their role. I think when we frame it that way, it gives the Senator the opportunity to come up with a program that is more uniquely tailored to the role of the Senator."
     },
     {
-      "order": 113,
+      "order": 114,
       "id": "entry-1135393",
       "label": "scene",
       "level": "5",
@@ -1359,7 +1371,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 114,
+      "order": 115,
       "id": "entry-1135394",
       "label": "speech",
       "level": "5",
@@ -1371,7 +1383,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 115,
+      "order": 116,
       "id": "entry-1135395-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1383,7 +1395,7 @@
       "text": "Clause 18"
     },
     {
-      "order": 116,
+      "order": 117,
       "id": "entry-1135395-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1395,7 +1407,7 @@
       "text": "(Question, that Clause 18 be part of the Bill, proposed)"
     },
     {
-      "order": 117,
+      "order": 118,
       "id": "entry-1135397",
       "label": "speech",
       "level": "5",
@@ -1407,7 +1419,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 118,
+      "order": 119,
       "id": "entry-1135398",
       "label": "heading",
       "level": "5",
@@ -1419,7 +1431,7 @@
       "text": "Clause 19"
     },
     {
-      "order": 119,
+      "order": 120,
       "id": "entry-1135399",
       "label": "speech",
       "level": "5",
@@ -1431,7 +1443,7 @@
       "text": "There is an amendment from the Chairperson Standing Committee on Devolution and Intergovernmental Relations."
     },
     {
-      "order": 120,
+      "order": 121,
       "id": "entry-1135400",
       "label": "speech",
       "level": "5",
@@ -1443,7 +1455,7 @@
       "text": "Hon. Chairperson, I beg to move - THAT clause 19 of the Bill be amended in subclause (2) by deleting the words \"County Assembly\" appearing immediately after the words \"The Clerk of the\" and substituting therefor the word \"Senate\". The rational for this amendment is that the Mover had proposed that, \"the Clerk of the County Assembly shall facilitate the public participation and public awareness initiatives of the Senator.\" The County Assembly forum felt that that was a function that needed to be facilitated by the Clerk of the Senate. Also, to bring to the notice of the House that incidentally, this Bill had been processed by the House and it came back because of the concurrence process, but it has now given us an opportunity to tidy up certain things that the National Assembly could have picked or certain things that could have ended up in the courts of law as mitigation."
     },
     {
-      "order": 121,
+      "order": 122,
       "id": "entry-1135402",
       "label": "scene",
       "level": "5",
@@ -1455,7 +1467,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 122,
+      "order": 123,
       "id": "entry-1135403",
       "label": "speech",
       "level": "5",
@@ -1467,7 +1479,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 123,
+      "order": 124,
       "id": "entry-1135404-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1479,7 +1491,7 @@
       "text": "Clause 20"
     },
     {
-      "order": 124,
+      "order": 125,
       "id": "entry-1135404-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1491,7 +1503,7 @@
       "text": "(Question, that Clause 20 be part of the Bill, proposed)"
     },
     {
-      "order": 125,
+      "order": 126,
       "id": "entry-1135405",
       "label": "speech",
       "level": "5",
@@ -1503,7 +1515,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 126,
+      "order": 127,
       "id": "entry-1135406-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1515,7 +1527,7 @@
       "text": "Clause 2, the title and Clause 1"
     },
     {
-      "order": 127,
+      "order": 128,
       "id": "entry-1135406-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1527,7 +1539,7 @@
       "text": "(Question, that Clause 2, the Title and Clause 1 be part of the Bill, proposed)"
     },
     {
-      "order": 128,
+      "order": 129,
       "id": "entry-1135407",
       "label": "speech",
       "level": "5",
@@ -1539,7 +1551,7 @@
       "text": "Division will be at the end. May I now call on the Mover to report progress."
     },
     {
-      "order": 129,
+      "order": 130,
       "id": "entry-1135408",
       "label": "speech",
       "level": "5",
@@ -1551,7 +1563,7 @@
       "text": "Hon. Chairperson, pursuant to Standing Order 148 I beg to move - THAT the Committee on the Whole do report on the consideration of the County Oversight and Accountability Bill (Senate Bill No.17 of 2021) and seek leave to sit again tomorrow."
     },
     {
-      "order": 130,
+      "order": 131,
       "id": "entry-1135409-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "5",
@@ -1563,7 +1575,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 131,
+      "order": 132,
       "id": "entry-1135409-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1575,7 +1587,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 132,
+      "order": 133,
       "id": "entry-1135410",
       "label": "speech",
       "level": "5",
@@ -1587,7 +1599,7 @@
       "text": "Sen. (Dr.) Milgo, as the mover, please report progress on the Heritage and Museums Bill (Senate Bills No.22 of 2021)."
     },
     {
-      "order": 133,
+      "order": 134,
       "id": "entry-1135412",
       "label": "speech",
       "level": "5",
@@ -1599,7 +1611,7 @@
       "text": "Pursuant to Standing Order 148, I beg to move - THAT the Committee of the Whole do report progress on its consideration of the Heritage and Museums Bill (Senate Bills No.22 of 2021) and seek leave to sit again tomorrow."
     },
     {
-      "order": 134,
+      "order": 135,
       "id": "entry-1135413-parenthesis-split-1-of-4",
       "label": "scene",
       "level": "5",
@@ -1611,7 +1623,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 135,
+      "order": 136,
       "id": "entry-1135413-parenthesis-split-2-of-4",
       "label": "scene",
       "level": "5",
@@ -1623,7 +1635,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 136,
+      "order": 137,
       "id": "entry-1135413-parenthesis-split-3-of-4",
       "label": "scene",
       "level": "5",
@@ -1635,7 +1647,7 @@
       "text": "(The House Resumed)"
     },
     {
-      "order": 137,
+      "order": 138,
       "id": "entry-1135413-parenthesis-split-4-of-4",
       "label": "scene",
       "level": "5",
@@ -1647,7 +1659,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kamar) in the Chair]"
     },
     {
-      "order": 138,
+      "order": 139,
       "id": "entry-1135414",
       "label": "speech",
       "level": "5",
@@ -1659,7 +1671,7 @@
       "text": "Hon. Senators, we shall now move to report to the House. Sen. Olekina is standing in for the Chairperson. Please start with the the Heritage and Museum Bill (Senate Bills No. 22 of 2021)."
     },
     {
-      "order": 139,
+      "order": 140,
       "id": "entry-1135415",
       "label": "heading",
       "level": "2",
@@ -1671,7 +1683,7 @@
       "text": "PROGRESS REPORTED"
     },
     {
-      "order": 140,
+      "order": 141,
       "id": "entry-1135416",
       "label": "heading",
       "level": "3",
@@ -1683,7 +1695,7 @@
       "text": "THE HERITAGE AND MUSEUMS BILL (SENATE BILLS NO. 22 OF 2021)"
     },
     {
-      "order": 141,
+      "order": 142,
       "id": "entry-1135417",
       "label": "speech",
       "level": "3",
@@ -1695,7 +1707,7 @@
       "text": "Madam Deputy Speaker, I beg to report that the Committee of the Whole has considered the Heritage and Museum Bill (Senate Bills No. 22 of 2021) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 142,
+      "order": 143,
       "id": "entry-1135418",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1719,7 @@
       "text": "Can we hear from the Mover?"
     },
     {
-      "order": 143,
+      "order": 144,
       "id": "entry-1135419",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1731,7 @@
       "text": "Madam Deputy Speaker, I beg to move that the House do agree with the Committee on the said report."
     },
     {
-      "order": 144,
+      "order": 145,
       "id": "entry-1135420",
       "label": "speech",
       "level": "3",
@@ -1731,7 +1743,7 @@
       "text": "I second."
     },
     {
-      "order": 145,
+      "order": 146,
       "id": "entry-1135421",
       "label": "scene",
       "level": "3",
@@ -1743,7 +1755,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 146,
+      "order": 147,
       "id": "entry-1135422",
       "label": "scene",
       "level": "3",
@@ -1755,7 +1767,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 147,
+      "order": 148,
       "id": "entry-1135423",
       "label": "speech",
       "level": "3",
@@ -1767,7 +1779,7 @@
       "text": "The next Bill is the County Oversight and Accountability Bill (Senate Bills No.17 of 2021)."
     },
     {
-      "order": 148,
+      "order": 149,
       "id": "entry-1135424",
       "label": "heading",
       "level": "3",
@@ -1779,7 +1791,7 @@
       "text": "THE COUNTY OVERSIGHT AND ACCOUNTABILITY BILL (SENATE BILLS NO. 17 OF 2021)"
     },
     {
-      "order": 149,
+      "order": 150,
       "id": "entry-1135425",
       "label": "speech",
       "level": "3",
@@ -1791,7 +1803,7 @@
       "text": "Madam Deputy Speaker, I beg to report that the Committee of the whole has considered the County Oversight and Accountability Bill (Senate Bill No.17 of 2021) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 150,
+      "order": 151,
       "id": "entry-1135426",
       "label": "speech",
       "level": "3",
@@ -1803,7 +1815,7 @@
       "text": "Can we hear from the Mover?"
     },
     {
-      "order": 151,
+      "order": 152,
       "id": "entry-1135427",
       "label": "speech",
       "level": "3",
@@ -1815,7 +1827,7 @@
       "text": "Madam Deputy Speaker, I beg to move that the House do agree with the Committee on the said report. I request Sen. M. Kajwang' to second."
     },
     {
-      "order": 152,
+      "order": 153,
       "id": "entry-1135429",
       "label": "speech",
       "level": "3",
@@ -1827,7 +1839,7 @@
       "text": "Madam Deputy Speaker, I second."
     },
     {
-      "order": 153,
+      "order": 154,
       "id": "entry-1135430",
       "label": "scene",
       "level": "3",
@@ -1839,7 +1851,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 154,
+      "order": 155,
       "id": "entry-1135431",
       "label": "scene",
       "level": "3",
@@ -1851,7 +1863,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 155,
+      "order": 156,
       "id": "entry-1135432",
       "label": "speech",
       "level": "3",
@@ -1863,7 +1875,7 @@
       "text": "The next Bill is the County Governments (Amendment) Bill, (Senate Bills No. 38 of 2021)"
     },
     {
-      "order": 156,
+      "order": 157,
       "id": "entry-1135433",
       "label": "heading",
       "level": "3",
@@ -1875,7 +1887,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL, (SENATE BILLS NO. 38 OF 2021)"
     },
     {
-      "order": 157,
+      "order": 158,
       "id": "entry-1135434",
       "label": "speech",
       "level": "3",
@@ -1887,7 +1899,7 @@
       "text": "Madam Deputy Speaker, I beg to report that the Committee of the Whole has considered the County Government (Amendment) Bill, (Senate Bill No.38 of 2021) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 158,
+      "order": 159,
       "id": "entry-1135435",
       "label": "speech",
       "level": "3",
@@ -1899,7 +1911,7 @@
       "text": "Can we hear from the Mover?"
     },
     {
-      "order": 159,
+      "order": 160,
       "id": "entry-1135436",
       "label": "speech",
       "level": "3",
@@ -1911,7 +1923,7 @@
       "text": "Madam Deputy Speaker, I beg to move that the House do agree with the Committee on the said report and request Sen. Farhiya to second."
     },
     {
-      "order": 160,
+      "order": 161,
       "id": "entry-1135437",
       "label": "speech",
       "level": "3",
@@ -1923,7 +1935,7 @@
       "text": "Madam Deputy Speaker, I beg to second."
     },
     {
-      "order": 161,
+      "order": 162,
       "id": "entry-1135438",
       "label": "scene",
       "level": "3",
@@ -1935,7 +1947,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 162,
+      "order": 163,
       "id": "entry-1135439",
       "label": "scene",
       "level": "3",
@@ -1947,7 +1959,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 163,
+      "order": 164,
       "id": "entry-1135440",
       "label": "speech",
       "level": "3",
@@ -1959,7 +1971,7 @@
       "text": "The last Bill is the Intergovernmental Relations (Amendment) Bill, (Senate Bills No.37 of 2021)."
     },
     {
-      "order": 164,
+      "order": 165,
       "id": "entry-1135441",
       "label": "heading",
       "level": "3",
@@ -1971,7 +1983,7 @@
       "text": "THE INTERGOVERNMENTAL RELATIONS (AMENDMENT) BILL, (SENATE BILLS NO.37 OF 2021)"
     },
     {
-      "order": 165,
+      "order": 166,
       "id": "entry-1135442",
       "label": "speech",
       "level": "3",
@@ -1983,7 +1995,7 @@
       "text": "Madam Deputy Speaker, I beg to report that the Committee of the Whole has considered the Intergovernmental Relations (amendment) Bill, (Senate Bill No. 37 of 2021) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 166,
+      "order": 167,
       "id": "entry-1135443",
       "label": "speech",
       "level": "3",
@@ -1995,7 +2007,7 @@
       "text": "Can we hear from the Mover?"
     },
     {
-      "order": 167,
+      "order": 168,
       "id": "entry-1135444",
       "label": "speech",
       "level": "3",
@@ -2007,7 +2019,7 @@
       "text": "Madam Deputy Speaker, I beg to move that the House do agree with the Committee on the said report and graciously request Sen. (Prof.) Ongeri to second."
     },
     {
-      "order": 168,
+      "order": 169,
       "id": "entry-1135445",
       "label": "speech",
       "level": "3",
@@ -2019,7 +2031,7 @@
       "text": "I second, Madam Deputy Speaker."
     },
     {
-      "order": 169,
+      "order": 170,
       "id": "entry-1135446",
       "label": "scene",
       "level": "3",
@@ -2031,7 +2043,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 170,
+      "order": 171,
       "id": "entry-1135448",
       "label": "scene",
       "level": "3",
@@ -2043,7 +2055,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 171,
+      "order": 172,
       "id": "entry-1135449",
       "label": "scene",
       "level": "3",
@@ -2055,7 +2067,7 @@
       "text": "(The Clerk at the Table consulted the Deputy Speaker)"
     },
     {
-      "order": 172,
+      "order": 173,
       "id": "entry-1135450",
       "label": "speech",
       "level": "3",
@@ -2067,7 +2079,7 @@
       "text": "Hon. Senators, I had rearranged the Order of the business of the House. For the convenience of the House, we will come back to Order No.8. Now, I want to further inform the House that for the convenience of the House, Order No.8 and Order No. 9 will be concluded this afternoon. I can see that the Member has arrived. We will start at 2.30 p.m."
     },
     {
-      "order": 173,
+      "order": 174,
       "id": "entry-1135451",
       "label": "heading",
       "level": "1",
@@ -2079,7 +2091,7 @@
       "text": "MOTION"
     },
     {
-      "order": 174,
+      "order": 175,
       "id": "entry-1135452",
       "label": "heading",
       "level": "3",
@@ -2091,7 +2103,7 @@
       "text": "ADOPTION OF REPORT ON THE 2022 BPS AND THE MEDIUM TERM DEBT MANAGEMENT STRATEGY"
     },
     {
-      "order": 175,
+      "order": 176,
       "id": "entry-1135453",
       "label": "speech",
       "level": "3",
@@ -2103,7 +2115,7 @@
       "text": "THAT, the Senate adopts the Report of the Standing Committee on Finance and Budget on the 2022 Budget Policy Statement and the Medium Term Debt Management Strategy, laid on the Table of the Senate on Tuesday, 21st December, 2021, and pursuant to Section 25 (7) of the Public Finance Management Act and Standing Order 180 (7) of the Senate approves the 2022 Budget Policy Statement."
     },
     {
-      "order": 176,
+      "order": 177,
       "id": "entry-1135454",
       "label": "scene",
       "level": "3",
@@ -2115,7 +2127,7 @@
       "text": "(Motion Deferred)"
     },
     {
-      "order": 177,
+      "order": 178,
       "id": "entry-1135455",
       "label": "heading",
       "level": "1",
@@ -2127,7 +2139,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 178,
+      "order": 179,
       "id": "entry-1135456",
       "label": "heading",
       "level": "2",
@@ -2139,7 +2151,7 @@
       "text": "THE KENYA SIGN LANGUAGE BILL (SENATE BILLS NO. 9 0F 2021)"
     },
     {
-      "order": 179,
+      "order": 180,
       "id": "entry-1135457",
       "label": "scene",
       "level": "2",
@@ -2151,7 +2163,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 180,
+      "order": 181,
       "id": "entry-1135458",
       "label": "heading",
       "level": "1",
@@ -2163,7 +2175,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 181,
+      "order": 182,
       "id": "entry-1135459",
       "label": "speech",
       "level": "1",

@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2017-11-08-14-30-00",
-  "exported_at": "2026-10-05T07:59:32.788Z",
+  "exported_at": "2026-10-08T21:34:16.030Z",
   "entries": [
     {
       "order": 1,
@@ -2164,7 +2164,7 @@
     },
     {
       "order": 181,
-      "id": "entry-764224",
+      "id": "entry-764224-split-before-855fadf7-1e72-4606-8653-7cc2e6c2eb5a",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -2172,10 +2172,22 @@
       "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "The Senate Minority Leader, anything to add? Shall we say 20 minutes or 30 minutes? Can we have consensus? The spirit this afternoon is a spirit of consensus. Is it 4.30 p.m? That is too far. Can we make it 4.20 p.m? That is half an hour from now. We will resume at 4:20 p.m. Therefore, today's sitting stands suspended until 4:20 p.m. ( The Senate adjourned temporarily at 3.50 p.m. )"
+      "text": "The Senate Minority Leader, anything to add? Shall we say 20 minutes or 30 minutes? Can we have consensus? The spirit this afternoon is a spirit of consensus. Is it 4.30 p.m? That is too far. Can we make it 4.20 p.m? That is half an hour from now. We will resume at 4:20 p.m. Therefore, today's sitting stands suspended until 4:20 p.m."
     },
     {
       "order": 182,
+      "id": "entry-764224-split-selected-afe22452-bacc-4ed0-a40a-d54cd27a3db5",
+      "label": "scene",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( The Senate adjourned temporarily at 3.50 p.m. )"
+    },
+    {
+      "order": 183,
       "id": "entry-764227",
       "label": "scene",
       "level": "2",
@@ -2187,7 +2199,7 @@
       "text": "(The Senate resumed at 4.20 p.m.)"
     },
     {
-      "order": 183,
+      "order": 184,
       "id": "entry-764228",
       "label": "speech",
       "level": "2",
@@ -2199,7 +2211,7 @@
       "text": "The Leader of Majority, the floor is yours."
     },
     {
-      "order": 184,
+      "order": 185,
       "id": "entry-764229",
       "label": "speech",
       "level": "2",
@@ -2211,7 +2223,7 @@
       "text": "Mr. Deputy Speaker, Sir, there is white smoke in figurative terms. The consultations of the Leader of Minority and his team have borne fruits. If you may allow me, the leader of Minority can report to the House the details of what they have agreed upon, which he has notified me. Considering seniority, he should report as it is, verbatim, without my reporting."
     },
     {
-      "order": 185,
+      "order": 186,
       "id": "entry-764230",
       "label": "speech",
       "level": "2",
@@ -2223,7 +2235,7 @@
       "text": "The Leader of Minority, please, take the floor."
     },
     {
-      "order": 186,
+      "order": 187,
       "id": "entry-764231",
       "label": "speech",
       "level": "2",
@@ -2235,7 +2247,7 @@
       "text": "Mr. Deputy Speaker, Sir, there is always a risk of Sen. Murkomen convoluting everything. So, let me put this on the floor of the House - that is on a light touch. My side has consulted and I am happy to report to the House that we will allow our Members to serve on the Ad Hoc Committee, The Members that I propose to serve in that Committee - which should help the Leader of Majority move the motion in an amended form by substituting the names that he had unilaterally put there - are as follows: Sen. Mohamed Faki of Mombasa County, Nominated Sen. (Dr.) Gertrude Musuruve, Sen. (Prof) Malaki Ekal of Turkana County and Nominated Sen. Naomi Shionga. Those four Senators will represent our side in the Committee. I will now pass on the list to the Clerks-at-the Table to pass on to the distinguished Senator for Elgeyo Marakwet, who was lucky to escape the wrath of the former Inspector-General of police,\n\n\"Sieke\"\n\nso that he can move the Motion in an amended form. Thank you, Mr. Speaker, Sir for your magnanimity in giving us time to consult. In any case, I did not expect anything less from you because of your positive exhibition of wisdom from time to time."
     },
     {
-      "order": 187,
+      "order": 188,
       "id": "entry-764234",
       "label": "scene",
       "level": "2",
@@ -2247,7 +2259,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 188,
+      "order": 189,
       "id": "entry-764235",
       "label": "speech",
       "level": "2",
@@ -2259,7 +2271,7 @@
       "text": "Leader of Minority, be careful, times have changed. Now that you are talking about time, times have changed. Thank you. Hon. Senators, I am gratified and happy that we are able to proceed. Once more, I commend the Leaders of Majority and Minority; that is what leadership entails. Good job. So, we will now have the Leader of Majority move the Motion in an amended form. Do you want to do it right away? We are not on that order yet; okay ---Just a minute."
     },
     {
-      "order": 189,
+      "order": 190,
       "id": "entry-764236",
       "label": "scene",
       "level": "2",
@@ -2271,7 +2283,7 @@
       "text": "(The clerk-at-the Table consulted with the Deputy Speaker.)"
     },
     {
-      "order": 190,
+      "order": 191,
       "id": "entry-764237",
       "label": "speech",
       "level": "2",
@@ -2283,7 +2295,7 @@
       "text": "Instead of repeating the Notice of the Motion, the order can be called out then he moves the Motion, but he has to state that it is in amended form. Next Order."
     },
     {
-      "order": 191,
+      "order": 192,
       "id": "entry-764239",
       "label": "heading",
       "level": "1",
@@ -2295,7 +2307,7 @@
       "text": "MOTION"
     },
     {
-      "order": 192,
+      "order": 193,
       "id": "entry-764240",
       "label": "heading",
       "level": "3",
@@ -2307,7 +2319,7 @@
       "text": "ESTABLISHMENT OF AD-HOC COMMITTEE ON THE COUNTY ALLOCATION OF REVENUE (AMENDMENT) BILL, 2017"
     },
     {
-      "order": 193,
+      "order": 194,
       "id": "entry-764240-inserted-2ecfa44e-bea7-48c4-aa24-6cf8acb1e86a",
       "label": "heading",
       "level": "1",
@@ -2319,7 +2331,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 194,
+      "order": 195,
       "id": "entry-764241",
       "label": "speech",
       "level": "1",
@@ -2331,7 +2343,7 @@
       "text": "Mr. Deputy Speaker, Sir, you allowed the Leader of Minority get away with a lot of things that would have otherwise attracted points of order. Since I escaped the wrath of \"Sieke\", does he know that I beat \" Sieke?\" I had 85 per cent of the votes while he had only 13 per cent. I came to this House as one of the Senators with the highest approval rating including yourself, but Mr. Speaker ---"
     },
     {
-      "order": 195,
+      "order": 196,
       "id": "entry-764242",
       "label": "scene",
       "level": "1",
@@ -2343,7 +2355,7 @@
       "text": "(Sen. Khaniri spoke off record as he withdrew from the chamber)"
     },
     {
-      "order": 196,
+      "order": 197,
       "id": "entry-764243",
       "label": "speech",
       "level": "1",
@@ -2355,7 +2367,7 @@
       "text": "No, for Orengo there was no election!"
     },
     {
-      "order": 197,
+      "order": 198,
       "id": "entry-764244",
       "label": "speech",
       "level": "1",
@@ -2367,7 +2379,7 @@
       "text": "The Leader of Minority, address the Chair. Sen. Khaniri, exit in peace."
     },
     {
-      "order": 198,
+      "order": 199,
       "id": "entry-764245",
       "label": "speech",
       "level": "1",
@@ -2379,7 +2391,7 @@
       "text": "Mr. Deputy Speaker, Sir, I also want to request, before I move the Motion, that both sides make it brief because the substance of this Motion is the Bill itself, which we must dispose of by tomorrow. I will be brief. Instead of the 60 minutes that I have been allocated, I will use three minutes so that all of us can speak on this and allow the Committee to prepare for the Bill. I am requesting this so that all of us can move forward a little bit faster. Therefore, I beg to move the Motion in an amended form. I sympathise with those who would have served and now they have no opportunity to serve in this Committee ---"
     },
     {
-      "order": 199,
+      "order": 200,
       "id": "entry-764246",
       "label": "speech",
       "level": "1",
@@ -2391,7 +2403,7 @@
       "text": "The Leader of Majority, can you move the Motion?"
     },
     {
-      "order": 200,
+      "order": 201,
       "id": "entry-764248",
       "label": "speech",
       "level": "1",
@@ -2403,7 +2415,7 @@
       "text": "Mr. Deputy Speaker, I, therefore, beg to move the Motion in an amended version:- THAT, Aware that the primary role of the Senate is to protect the interest of counties and their governments; as provided for in Article 96 of the Constitution of Kenya; APPRECIATING that the Division of Revenue Act, 2017 (No. 16 of 2017) and the County Allocation of Revenue Act, 2017 (No. 23 of 2017) respectively provide for the sharing of revenue raised nationally between the National Government and County Governments and revenue raised nationally among County Governments, for financial year 2017/2018; NOTING the need for an amendment to the County Allocation of Revenue Act, 2017 (No. 23 of 2017), to provide for a seamless disbursement of funds to County Governments to enable them effectively implement County Governments projects and programmes; NOW THEREFORE, the Senate resolves-\n\na) to establish an Ad-hoc Committee to be known as the Ad-hoc Committee on the County Allocation of Revenue (Amendment) Bill 2017, comprising not more than nine Senators, to undertake the functions of the Standing Committee on Finance and Budget, as contemplated under Standing Order 212(3); b) that, the following Senators be appointed to the Committee; 1. Sen. Njeru Ndwiga; 2. Sen. Charles Reubenson Kibiru; 3. Sen. Farhiya Ali Haji; 4. Sen. (Dr.) Abdullahi Ibrahim Ali; 5. Sen. Christine Zawadi Gona; 6. Sen. Mohammed Faki; 7. Sen. (Dr.) Gertrude Musuruve; 8. Sen. (Prof) Malachy Ekal; and 9. Sen. Naomi Shionga. c) that, the County Allocation of Revenue (Amendment) Bill (Senate Bills No. 9 of 2017) be committed to the Ad-hoc Committee; and d) that, the Ad-hoc Committee considers the County Allocation of Revenue (Amendment) Bill (Senate Bills No. 9 of 2017) and reports to the Senate on or before Thursday, November 16, 2017."
     },
     {
-      "order": 201,
+      "order": 202,
       "id": "entry-764252",
       "label": "speech",
       "level": "1",
@@ -2415,7 +2427,7 @@
       "text": "What is your intervention, Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 202,
+      "order": 203,
       "id": "entry-764253",
       "label": "speech",
       "level": "1",
@@ -2427,7 +2439,7 @@
       "text": "Mr. Deputy Speaker, Sir, even in our consultation, the Leader of Minority did not mention this. But we are of the view that, in view of the urgency of this matter, that under paragraph d), there should be a further amendment so that this Committee reports to this House latest either tomorrow or the earliest sitting possible. Thursday, November16, 2017 is too far."
     },
     {
-      "order": 203,
+      "order": 204,
       "id": "entry-764254",
       "label": "speech",
       "level": "1",
@@ -2439,7 +2451,7 @@
       "text": "The Leader of Majority, is that part covered?"
     },
     {
-      "order": 204,
+      "order": 205,
       "id": "entry-764255",
       "label": "speech",
       "level": "1",
@@ -2451,7 +2463,7 @@
       "text": "Yes, it is covered, Mr. Deputy Speaker, Sir. It states on or before Thursday of next week. On or before means---"
     },
     {
-      "order": 205,
+      "order": 206,
       "id": "entry-764256",
       "label": "scene",
       "level": "1",
@@ -2463,7 +2475,7 @@
       "text": "(Hon. Members spoke of record)"
     },
     {
-      "order": 206,
+      "order": 207,
       "id": "entry-764257",
       "label": "speech",
       "level": "1",
@@ -2475,7 +2487,7 @@
       "text": "Mr. Deputy Speaker, Sir, behind the scenes consultations are ongoing for us to complete the process tomorrow. We do not have to write it again. But in terms of the Motion it covers that; it can even be this afternoon. I am certain that when the Committee goes to consult, we should be able to complete this tomorrow. That is why the terms of the motion say: \"and reports to the Senate on or before Thursday, November 16, 2017.\" It does not say that it should be on Thursday, November 16, 2017. It can be even this evening."
     },
     {
-      "order": 207,
+      "order": 208,
       "id": "entry-764258",
       "label": "speech",
       "level": "1",
@@ -2487,7 +2499,7 @@
       "text": "Sen. Mutula Kilonzo Jnr., are you satisfied with that explanation?"
     },
     {
-      "order": 208,
+      "order": 209,
       "id": "entry-764259",
       "label": "speech",
       "level": "1",
@@ -2499,7 +2511,7 @@
       "text": "No! There is no reason to be ambiguous about this issue. If all of us agree that we can do this within 24 hours, it should be stated clearly so\n\nthat we know that a report will be tabled tomorrow afternoon at 2.30 p.m. That is a better way."
     },
     {
-      "order": 209,
+      "order": 210,
       "id": "entry-764263",
       "label": "speech",
       "level": "1",
@@ -2511,7 +2523,7 @@
       "text": "Mr. Deputy Speaker, Sir, I still insist that if you talk about \"on or before\" a particular day, that includes an hour from the time we have decided. Let us not---"
     },
     {
-      "order": 210,
+      "order": 211,
       "id": "entry-764264",
       "label": "speech",
       "level": "1",
@@ -2523,7 +2535,7 @@
       "text": "Order, Senate Majority Leader. I see no difficulty in this and I do not see any big issue from both sides. I can also see that there is no difficulty for Sen. Mutula Kilonzo Jnr. because \"on or before\" could mean even now. Generally, this House is committed to finishing this process tomorrow. Unless there is another reason, I do not see a big challenge there. Equally, unless the Senate Majority Leader has a different reason, if talking of tomorrow could help us move forward, I do not see any big problem unless it is something else we do not know."
     },
     {
-      "order": 211,
+      "order": 212,
       "id": "entry-764265",
       "label": "scene",
       "level": "1",
@@ -2535,7 +2547,7 @@
       "text": "(Sen. Murkomen) spoke off record)"
     },
     {
-      "order": 212,
+      "order": 213,
       "id": "entry-764266",
       "label": "speech",
       "level": "1",
@@ -2547,7 +2559,7 @@
       "text": "Let us first hear the Senate Minority Leader so that you respond in totality."
     },
     {
-      "order": 213,
+      "order": 214,
       "id": "entry-764267",
       "label": "speech",
       "level": "1",
@@ -2559,7 +2571,7 @@
       "text": "Mr. Deputy Speaker, Sir, in the bi-partisan spirit and the nature of the urgency of this matter, I encourage the Senate Majority Leader to take--- If you have been here as long as myself, Sen. Haji, Sen. Orengo and Sen. Wako, then you know that there used to be a catch phrase in the old days. You could hear Poghisio telling people that the roads would be tarmacked or this and that would be done \"when money was available\". There is a saying in English that you should say what you mean and mean what you say. It does no harm if Sen. Murkomen is in a frame of urgency, like he has said, to take a cue from Sen. Mutula Kilonzo Jnr. and fix the time frame to tomorrow because we will be here and we all want to debate and pass this. When you talk of \"on or before\" you know how fluid that means. It is an escape route for anybody who does not want to move."
     },
     {
-      "order": 214,
+      "order": 215,
       "id": "entry-764268",
       "label": "speech",
       "level": "1",
@@ -2571,7 +2583,7 @@
       "text": "Mr. Deputy Speaker, Sir, I still emphasize that we cannot. We should have flexibilities and if the committee finds that there are certain errors that must be addressed, they will not be under constraint to come back tomorrow. If they find that the amendments are correct, they must come back tomorrow. So, the urgency in terms of concluding it is upon ourselves to act expeditiously but we cannot close it. This drafting by the legal team of this Senate was well done to accommodate 24 hours and also accommodate a situation if it cannot be done in 24 hours. We cannot close ourselves to 24 hours when we cannot imagine what the committee will come up with."
     },
     {
-      "order": 215,
+      "order": 216,
       "id": "entry-764269",
       "label": "speech",
       "level": "1",
@@ -2583,7 +2595,7 @@
       "text": "Senate Majority Leader, you have made your point. Sen. Mutula Kilonzo Jnr., you may also want to consider the following. Although the House, through the committee, will be looking at correcting some errors, it is technically a new Bill which might require some form of public participation even if for a few hours and that is my understanding. That being the case and, considering that if we put it to tomorrow and then it spills over to the next day because of public participation,\n\ngiven the urgency of this matter, nothing prevents this House from resolving to extend time either tomorrow night or to sit on Friday and finish with this because it will not look good to take any further recess without this Bill being passed. So, you may have to consider that bit of public participation also because we might take a day or half a day. If you asked me, talking of \"on or before\" means that date is the extreme but the earliest is now. We will listen to just one intervention from Sen. Mutula Kilonzo Jnr. I will then give a minute to Sen. Wetangula and then the Senate Majority Leader will respond."
     },
     {
-      "order": 216,
+      "order": 217,
       "id": "entry-764273",
       "label": "speech",
       "level": "1",
@@ -2595,7 +2607,7 @@
       "text": "I do not need the Floor."
     },
     {
-      "order": 217,
+      "order": 218,
       "id": "entry-764274",
       "label": "speech",
       "level": "1",
@@ -2607,7 +2619,7 @@
       "text": "If you do not need the Floor, then we will listen to Sen. Mutula Kilonzo Jnr. and then Sen. Murkomen who is the sponsor of this Motion will respond. That is what we will consider but we want everybody to be on board."
     },
     {
-      "order": 218,
+      "order": 219,
       "id": "entry-764275",
       "label": "speech",
       "level": "1",
@@ -2619,7 +2631,7 @@
       "text": "Mr. Deputy Speaker, Sir, from my experience in the Committee on Finance, Commerce and Budget, we never had public participation on the Cash Disbursement Schedule or even the County Allocation of Revenue Bill. Mr. Deputy Speaker, Sir, from the understanding of the communication from the Cabinet Secretary, there appears to be a discrepancy between the County Revenue Allocation Bill and the Cash Disbursement Schedule, which is simply getting the schedule and amending it. So, we do not need to consult the public because it could be a matter of a two or four being at the wrong place. The secretariat should have made those corrections by now. What the committee needs to do tomorrow is to sit and look at the amendments."
     },
     {
-      "order": 219,
+      "order": 220,
       "id": "entry-764276",
       "label": "speech",
       "level": "1",
@@ -2631,7 +2643,7 @@
       "text": "Senate Majority Leader, before you respond, as I have said, this is your Motion. Secondly, I said that we want to carry on board as many Members as possible so that we pass the Bill. Having said that, technically - this is for Sen. Mutula Kilonzo Jnr. - we cannot even talk about a further amendment without the Motion being moved and seconded and the question proposed."
     },
     {
-      "order": 220,
+      "order": 221,
       "id": "entry-764277",
       "label": "speech",
       "level": "1",
@@ -2643,7 +2655,7 @@
       "text": "Mr. Deputy Speaker, Sir, if Sen. Mutula Kilonzo Jnr. was here yesterday to listen to the answer to the question by Sen. Khaniri, he would not be taking us back. Issues of whether it was a new Bill or not were addressed yesterday. Secondly, there is absolutely nothing else we are talking about except splitting hairs. The technical staff of this Senate advised accordingly about how the procedure will be moved. I can only urge the A d hoc committee to move expeditiously but I cannot anticipate the challenges they will face in accommodating this Bill. This is a new Bill and it will have to go to the National Assembly. We want to amend the County Allocation of Revenue Act (CARA) and that is why we have this Bill here. Since the National Assembly will go on recess, they might be forced to have a special sitting to pass this Bill. If they make any amendments, it will come back to this House. Let us proceed with what we need to do."
     },
     {
-      "order": 221,
+      "order": 222,
       "id": "entry-764278",
       "label": "speech",
       "level": "1",
@@ -2655,7 +2667,7 @@
       "text": "Very well, I think that has been canvassed exhaustively."
     },
     {
-      "order": 222,
+      "order": 223,
       "id": "entry-764279",
       "label": "speech",
       "level": "1",
@@ -2667,7 +2679,7 @@
       "text": "Mr. Deputy Speaker, Sir, I am aware of the importance of this Bill that we are supposed to amend. The errors that\n\nensued in this Bill were occasioned by the movement of the Bill from the Treasury to the Attorney-General's Office and then to this Senate. Last time when we were looking at this Bill, most people were already focused on elections. So, there was no meticulous looking at the various schedules to ensure that they are in conformity. If you look at the Bill that is being amended, you will realise that we are deleting some parts of Section 5 and inserting new sections, thereafter, to correct the schedule. This is so critical. If you saw the letter that came from the Treasury yesterday, they would be constrained to release any money because the quarterly release will be following the particular schedule that is provided for here. In fact, it is even worse, as the Principal Secretary (PS) answered yesterday, when it comes to donor funds because there is already a particular timeline that was agreed to in the negotiation and agreements with the national Government. The reason the resources are not being allocated seamlessly to the counties at the moment is these errors. It also goes to remind us that there is nothing too small in law. Mr. Deputy Speaker, Sir, a number of Senators, that is, Sen. Wako, Sen. Mutula Kilonzo Jnr, Sen. Cheruiyot, who came slightly later, and Sen. Dullo were here when we fought to have a right to look at the County Allocation Revenue Bill and the Division of Revenue Bill. Therefore, we cannot take it casually. It is important for every Senator to have even this Schedule, so that every time they can find out whether their counties have received their money and monitor how they spend it. I also want to request the Ad-Hoc Committee not to take this work casually. Do not just look at it as a rubberstamp. Go and sit down with the staff in Budget Office and let them take you through what was wrong and what has been corrected, so that we do not go through this process again and when it reaches the National Assembly, it is changed and returned here. It will become the normal excuse that Makueni County cannot get money because the Schedule of Makueni--- Sen. Wako is a good example. Because of errors, money meant for Busia County was posted to Bungoma County. It took a lot of negotiations - similar to the negotiations we had here - that involved the Senator for Bungoma and the Senator for Busia. Sen. Wako had to move between the Treasury and the office of the Senate Minority Leader until that issue was resolved. Therefore, these errors can be as fatal as you can see and actually embarrass Senators. If tomorrow it appears that some money for Elgeyo-Marakwet County has been posted to Tharaka-Nithi County it can make me lose my seat. People will say that Sen. Murkomen has cut a deal with the Senator for Tharaka-Nithi County and given out the money---"
     },
     {
-      "order": 223,
+      "order": 224,
       "id": "entry-764283",
       "label": "speech",
       "level": "1",
@@ -2679,7 +2691,7 @@
       "text": "Leave out the Senator for Tharaka- Nithi County for now."
     },
     {
-      "order": 224,
+      "order": 225,
       "id": "entry-764284",
       "label": "speech",
       "level": "1",
@@ -2691,7 +2703,7 @@
       "text": "Mr. Deputy Speaker, Sir, that is why I am saying that it is not as simple as people think. It is such a critical schedule that determines how money goes to our counties. We do not want people to say tomorrow that we were sleeping on the job. That is why, initially, when we were forming this Committee, I really wanted---\n\nBy the way, since that is now water under the bridge, one of the reasons I wanted Sen. Mutula Kilonzo Jnr. to sit in this Committee is because he was in the previous Budget Committee. He appreciates how the Committee was working. He is one of the few Senators who served in that Committee that were re-elected. My consideration was also on the ability of a person who has that history to assist us to ensure that that process moves forward. I am very sure that in a bipartisan manner we will do other things in future, but expertise might still be necessary on consultation basis with the Ad-Hoc Committee on those issues. I beg to move and request Sen. Mutula Kilonzo Jnr. to second this Motion. I still insist on my initial request. As you realise, I have cut my time and not taken ten minutes, so that everybody can have two or three minutes. We need to dispose of this matter and allow the Committee to start working to enable us finish the work tomorrow. Thank you, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 225,
+      "order": 226,
       "id": "entry-764288",
       "label": "speech",
       "level": "1",
@@ -2703,7 +2715,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I rise to support the Motion to set up this Ad-Hoc Committee. I need not to say much about the Members because we have agreed. I want to remind the Senate Majority Leader, Sen. Murkomen, that there is a reason the Senate Minority Leader is in this House. I have two comments. First, given my experience in the Committee on Finance, Commerce and Budget, and having read the Bill, that this Committee should interrogate this issue. This is because even from the reading of this Bill, the Schedule that is being amended is the Schedule on conditional grants. The money that has not been disbursed is shareable revenue. The conditional grants are from the national Government, given to counties on conditions of their donor partners. The Senate Majority Leader should have interrogated this issue, so that we understand whether in future our counties will be starved of funds because there is a discrepancy on an agreement made between the national Government and the donor. That would be violation of the constitution. I do not believe that Article 219, which requires the Cabinet Secretary (CS), Treasury, to release funds once we have passed, should also be tied to conditional grants. This was on something that I believe will be raised here on the case of KSP grants in which we did not include the Division of Revenue for the last two financial years. With that in mind, the speed under which this Committee should act is not gainsaid, but that should be interrogated. The Committee and our technical team, that is, Mr. Masinde and others, should be able to advise us, because we do not want the CS, Treasury, to impose another condition that is not in law and the Constitution on conditional grants. The schedule that is attached to this Bill has got no discrepancy on shareable revenue. Therefore, the money that we have agreed and passed here, in our mandate under Article 96, is not affected. The statement made by my colleagues that we have procrastinated and stopped the disbursement of shareable revenue is not correct. With all that in mind and that said, I second."
     },
     {
-      "order": 226,
+      "order": 227,
       "id": "entry-764289",
       "label": "scene",
       "level": "1",
@@ -2715,7 +2727,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 227,
+      "order": 228,
       "id": "entry-764290",
       "label": "speech",
       "level": "1",
@@ -2727,7 +2739,7 @@
       "text": "Is there any interest? Senators, this is not a Motion concerning counties, it is about formation of the Committee. The Bill that will come will be voted in the normal way."
     },
     {
-      "order": 228,
+      "order": 229,
       "id": "entry-764291",
       "label": "scene",
       "level": "1",
@@ -2739,7 +2751,7 @@
       "text": "(The Clerk at-the-Table consulted the Speaker)"
     },
     {
-      "order": 229,
+      "order": 230,
       "id": "entry-764292",
       "label": "speech",
       "level": "1",
@@ -2751,7 +2763,7 @@
       "text": "I have not put the question."
     },
     {
-      "order": 230,
+      "order": 231,
       "id": "entry-764293",
       "label": "scene",
       "level": "1",
@@ -2763,7 +2775,7 @@
       "text": "(Sen. Murkomen spoke off record)"
     },
     {
-      "order": 231,
+      "order": 232,
       "id": "entry-764294",
       "label": "speech",
       "level": "1",
@@ -2775,7 +2787,7 @@
       "text": "Do you wish to reply? I think that it is a straight forward thing."
     },
     {
-      "order": 232,
+      "order": 233,
       "id": "entry-764295",
       "label": "scene",
       "level": "1",
@@ -2787,7 +2799,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 233,
+      "order": 234,
       "id": "entry-764296",
       "label": "speech",
       "level": "1",
@@ -2799,7 +2811,7 @@
       "text": "Next order. Those who are exiting must exit in dignity and those who are remaining must also remain in dignity."
     },
     {
-      "order": 234,
+      "order": 235,
       "id": "entry-764297",
       "label": "scene",
       "level": "1",
@@ -2811,7 +2823,7 @@
       "text": "(Several Senators withdrew from the Chamber)"
     },
     {
-      "order": 235,
+      "order": 236,
       "id": "entry-764298-split-before-6ee45737-dba6-4f2a-838c-747c6613b0b1",
       "label": "speech",
       "level": "1",
@@ -2823,7 +2835,7 @@
       "text": "The Mover of Order No. 11 has requested that we defer that Order to tomorrow."
     },
     {
-      "order": 236,
+      "order": 237,
       "id": "entry-764298-split-selected-cadd074a-093c-4655-ba25-fc34dc302c9a",
       "label": "heading",
       "level": "3",
@@ -2835,7 +2847,7 @@
       "text": "IMPLEMENTATION OF THE NATIONAL DROUGHT MANAGEMENT AUTHORITY ACT, 2016"
     },
     {
-      "order": 237,
+      "order": 238,
       "id": "entry-764298-split-after-b2492ac6-c4f7-42d2-90c1-3bdbf3e80805",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2859,7 @@
       "text": "AWARE that the right to adequate food is affirmed under Article 25 of the 1948 Universal Declaration of Human Rights, and Article 11 of the 1966 International Covenant on Economic, Social and Cultural Rights as part of the right to an adequate standard of living; FURTHER AWARE THAT Article 43 (1) (c) and (d) of the Constitution of Kenya provides for economic and social rights for every person and in particular the right to be free from hunger, to have adequate food of acceptable quality, and to have clean and safe water in adequate quantities; CONCERNED that this fundamental right is under threat as various Counties battle severe drought occasioned by successive failure in rainfall; CONCERNED that over 3.4 million people including over 370,000 children are acutely malnourished and in urgent need of emergency assistance while millions of livestock have perished and the remaining are in extremely poor body condition as a result of the drought; FURTHER CONCERNED that the situation in drought ravaged parts of the country poses a serious threat to Human dignity, peace, security and stability following loss of livelihoods leading to scramble for scarce resources by the affected communities;\n\nNOTING that Parliament enacted the National Drought Management Bill which was assented to on 1st April, 2016 and which seeks to comprehensively address the matter of persistent droughts in the country; NOW THEREFORE, the Senate calls upon the Ministry of Interior and Coordination of National Government and relevant state agencies responsible including the National Drought Management Authority to- 1. Expeditiously implement the National Drought Management Authority Act, 2016 and set up the necessary infrastructure to mitigate against persistent droughts; and 2. Come up with efficient drought response strategies aimed at saving lives of both people and livestock."
     },
     {
-      "order": 238,
+      "order": 239,
       "id": "entry-764302",
       "label": "scene",
       "level": "3",
@@ -2859,7 +2871,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 239,
+      "order": 240,
       "id": "entry-764303-speaker-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -2871,7 +2883,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 240,
+      "order": 241,
       "id": "entry-764303",
       "label": "speech",
       "level": "1",

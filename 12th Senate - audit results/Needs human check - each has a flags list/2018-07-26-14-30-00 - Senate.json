@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-07-26-14-30-00",
-  "exported_at": "2026-10-05T08:01:31.228Z",
+  "exported_at": "2026-10-08T21:34:53.343Z",
   "entries": [
     {
       "order": 1,
@@ -2632,7 +2632,7 @@
     },
     {
       "order": 220,
-      "id": "entry-815954",
+      "id": "entry-815954-split-before-523499f8-3573-45cf-9fda-888a61b3c618",
       "label": "speech",
       "level": "3",
       "cutout": false,
@@ -2640,10 +2640,34 @@
       "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
-      "text": "Hon. Senators, I do not see a request to debate. Where is the Chairperson of the Committee? ( Sen. M. Kajwang' approached the Chair) Let us have Sen. M. Kajwang'."
+      "text": "Hon. Senators, I do not see a request to debate. Where is the Chairperson of the Committee?"
     },
     {
       "order": 221,
+      "id": "entry-815954-split-selected-f80c0bb9-b7ee-4b0a-a7d6-99290ebb28c8",
+      "label": "scene",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Sen. M. Kajwang' approached the Chair)"
+    },
+    {
+      "order": 222,
+      "id": "entry-815954-split-after-5915f637-2582-4827-a3e6-62653974f2d4",
+      "label": "speech",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "(Sen. (Prof.) Kamar)",
+      "speaker_title": "The Temporary Speaker",
+      "reviewed": true,
+      "text": "Let us have Sen. M. Kajwang'."
+    },
+    {
+      "order": 223,
       "id": "entry-815955",
       "label": "speech",
       "level": "3",
@@ -2655,7 +2679,7 @@
       "text": "Madam Temporary Speaker, pursuant to Standing Order No. 55(3), I beg that the putting of the question be deferred to another day."
     },
     {
-      "order": 222,
+      "order": 224,
       "id": "entry-815956",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2691,7 @@
       "text": "(Sen. (Prof.) Kamar: It is so ordered."
     },
     {
-      "order": 223,
+      "order": 225,
       "id": "entry-815957",
       "label": "scene",
       "level": "3",
@@ -2679,7 +2703,7 @@
       "text": "(Putting of the question on the Motion deferred)"
     },
     {
-      "order": 224,
+      "order": 226,
       "id": "entry-815958",
       "label": "speech",
       "level": "3",
@@ -2691,7 +2715,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 225,
+      "order": 227,
       "id": "entry-815959",
       "label": "heading",
       "level": "1",
@@ -2703,7 +2727,7 @@
       "text": "MOTION"
     },
     {
-      "order": 226,
+      "order": 228,
       "id": "entry-815960",
       "label": "heading",
       "level": "3",
@@ -2715,7 +2739,7 @@
       "text": "ADOPTION OF CPAIC REPORT ON FINANCIAL OPERATIONS OF NAROK COUNTY EXECUTIVE FOR FY 2013/2014"
     },
     {
-      "order": 227,
+      "order": 229,
       "id": "entry-815961",
       "label": "speech",
       "level": "3",
@@ -2727,7 +2751,7 @@
       "text": "Madam Temporary Speaker, I beg to move the following Motion: THAT this House adopts the Report of the Sessional Committee on County Public Accounts and Investments on the Inquiry into the Financial Operations of Narok County Executive for the Financial Year 2013/2014 (1st July, 2013 - 30th June, 2014) laid on the Table of the House on Thursday, 10th May, 2018. Madam Temporary Speaker, the Report on the financial operations of Narok County Executive for this period was tabled on 30thJune, 2014 and stood committed to the Sessional Committee on County Public Accounts and Investments (CPAIC). The Committee held three meetings with the Narok County Executive of Wednesday 3rd August, 2016 and Monday 19th September, 2016, where it considered and concluded its investigations on the report. The Committee adopted the Report on 5thApril, 2017. Madam Temporary Speaker, we can see that the report of a single county will take the Committee close to three sittings. We have 47 counties; meaning that there are 47 county executives and 47 county assemblies. If on average each of those reports takes two meetings, you can imagine how long it will take the CPAIC to conclude its considerations. That is the reason, in addition to what we had proposed earlier to submit a single report to the House, we have gone further and engaged the Auditor-General. This is because we believe that the Senate could engage itself in issues that are of policy and interest to devolution. We have told the Auditor-General that we must start doing performance audits, which should be brought to the House. We must also start doing special audits. Then the county operation audits should be dealt with by the county assemblies. The number of audit reports that the Committee gets every year is almost 47x4, since each county generates an average of four audit reports. Therefore, as we go forward, we believe that it will get better. In arriving at the recommendations in this Report, the Committee took into account the challenges faced by counties during the early days of devolution. It invited the Governor for Narok County, in his capacity as the Chief Executive Officer (CEO) of the county government, pursuant to Article 179(4) of the Constitution. That is a position that has also been reinforced and confirmed by the courts of law. There were certain general observations. You will realize, as we table these reports, that some of the observations cut across the different counties. That is why it is possible to do one report that summarises the issues that have come up for that year. The first observation was that counties were providing documentation at the end of the audit period. We have said, as a Committee, that we must strictly enforce the provisions of the Public Audit Act. Sections 31 and 62 make it an offence for any officer at the county level not to provide documents required by the Auditor-General within a reasonable timeframe. Going forward, the Committee is enforcing that. We have even considered pursuing conviction of public officers at the counties. Secondly, imprest management cuts across all counties. The Committee recommends strict enforcement of Public Finance Management (PFM) regulations. These regulations for county governments have very detailed guidelines on how imprest should be managed and also who takes responsibility if it is mismanaged. The third observation was on the competence of staff and it cuts across all counties during the first year of devolution. The fourth one was that procurement laws were not adhered to. This, again, cuts across all counties. Since this was the first year of procurement, a lot of thinking was of the Central Government. Even the matrixes that came alongside regulations that came along the Public Procurement and Disposal of Assets Act had not been internalized by the county governments. Therefore, there was a lot of breach of the Public Procurement Act. The Committee is saying that there must be individual responsibility where there are breaches of the Act. The fifth observation was lack of internal control systems and Information Communication Technology (ICT); a problem cutting across all counties. The sixth observation, in the case of Narok County, was a high wage bill. The Committee noted that Narok County has a significant own-source revenue stream, which is Maasai Mara Game Reserve. The Committee also noted with concern that there seemed not to have been a detailed audit into the own-source revenue streams for Narok County. We are aware that the matter has been taken to court and there is a ruling that says that the Senate has no role in auditing or querying own-source revenue. We, as a Committee take the position that all the monies that form the budget of a county are subject to oversight and audit by the Senate. With those remarks, I beg to move and request Sen. Faki, who is also a Member of the Committee, to second the Motion."
     },
     {
-      "order": 228,
+      "order": 230,
       "id": "entry-815966",
       "label": "speech",
       "level": "3",
@@ -2739,7 +2763,7 @@
       "text": "Thank you, Madam Temporary Speaker. I second this Report. The Committee made seven broad recommendations that cut across all the counties. The first recommendation was that the county government should professionalize the finance, procurement and internal audit department for efficiency, effectiveness and proper management of county government resources, as well as accountability and transparency in the management of public funds. This can be achieved through the recruitment of qualified chief finance officers and other officers with financial and procurement related qualifications. Madam Temporary Speaker, if you go through the Report, most of the audit queries touch on procurement and use of public funds by the Narok County Government. The County Public Service Board, in conjunction with the Salaries and Remuneration Commission, should come up with a flexible plan and policy that will enable the county governments to attract specialised and skilled personnel. This has been a problem across all the counties because most of the specialized personnel are located in the major towns and are not willing to go to the rural counties to do this work. The Committee further recommended that the county institutes a mechanism to ensure recruitment and placement of staff in accordance with the skills and capacity. Most of the county assembly staff were inherited from the previous county councils and municipalities, which did not attract many qualified personnel. Four, the Committee recommends that the county institutes a mechanism to ensure that recruitment and placement of staff is in accordance with their skills and capacity. Five, the Committee recommends that the internal audit units be strengthened and widened to include evaluating and reporting on internal controls applicable to high risk areas on a quarterly basis. Most of the county governments had not instituted audit committees which should have considered areas of concern in terms of management of finances of the counties. Six, the Committee recommends that the County Government should come up with austerity measures to address the escalating wage bill. This is because majority of the staff acquired were not commensurate with the skills required in the County Government. This, therefore, meant that the County Government ended up with a bloated workforce that was not of assistance to the County Government. Lastly, the county governments should develop a document management policy to enable the County to manage their resources to the best of their abilities so that the residents of the County of Narok can enjoy better services. I beg to second."
     },
     {
-      "order": 229,
+      "order": 231,
       "id": "entry-815969",
       "label": "scene",
       "level": "3",
@@ -2751,7 +2775,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 230,
+      "order": 232,
       "id": "entry-815970",
       "label": "speech",
       "level": "3",
@@ -2763,7 +2787,7 @@
       "text": "Proceed, Sen. Olekina."
     },
     {
-      "order": 231,
+      "order": 233,
       "id": "entry-815971",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2799,7 @@
       "text": "Madam Temporary Speaker, I rise pursuant to Standing Order 55(3). I beg that the putting of the question be deferred to another day."
     },
     {
-      "order": 232,
+      "order": 234,
       "id": "entry-815972",
       "label": "speech",
       "level": "3",
@@ -2787,7 +2811,7 @@
       "text": "Very well. Thank you, Senator. It is so ordered."
     },
     {
-      "order": 233,
+      "order": 235,
       "id": "entry-815973",
       "label": "scene",
       "level": "3",
@@ -2799,7 +2823,7 @@
       "text": "(Putting of the Question on the Motion deferred)"
     },
     {
-      "order": 234,
+      "order": 236,
       "id": "entry-815974",
       "label": "speech",
       "level": "3",
@@ -2811,7 +2835,7 @@
       "text": "Next Order."
     },
     {
-      "order": 235,
+      "order": 237,
       "id": "entry-815975",
       "label": "heading",
       "level": "1",
@@ -2823,7 +2847,7 @@
       "text": "MOTION"
     },
     {
-      "order": 236,
+      "order": 238,
       "id": "entry-815976",
       "label": "heading",
       "level": "3",
@@ -2835,7 +2859,7 @@
       "text": "ADOPTION OF CPAIC REPORT ON FINANCIAL OPERATIONS OF TURKANA COUNTY EXECUTIVE FOR FY 2013/2014"
     },
     {
-      "order": 237,
+      "order": 239,
       "id": "entry-815977",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2871,7 @@
       "text": "Yes, Sen. M. Kajwang'."
     },
     {
-      "order": 238,
+      "order": 240,
       "id": "entry-815978",
       "label": "speech",
       "level": "3",
@@ -2859,7 +2883,7 @@
       "text": "Thank you, Madam Temporary Speaker. I beg to move the following Motion- THAT, this House adopts the Report of the Sessional Committee on the County Public Accounts and Investments on the inquiry into the financial operations of the Turkana County Executive for the Financial Year 2013/2014 (1st July 2013 - 30th June, 2014) laid on the Table of the House on Thursday, 10th May, 2018. Madam Temporary Speaker, the Report of the Auditor-General for Turkana County for the Financial Year 2013/2014 was laid on the Table of this House on 30th June, 2015, and it stood committed to the CPAIC. This date is important because the first Senate started sitting in 2013, and it was only in June, 2015, when the first report of Turkana County was brought to the House for the first full year of devolution. Sometimes people ask what the previous Senate was doing. However, you could clearly see that the Auditor-General's reports did not come to the House on day one; they came almost two years later. Madam Temporary Speaker, the Governor for Turkana County was invited for investigatory meetings. Interestingly, six meetings were held in the case of Turkana. The meetings were held on the 1st, 2nd, 23rd, 24th September, 2015; and 9th October, 2015. This also included a meeting held in Turkana County on the 9th of October, 2015. Those are the six meetings that the Committee held to consider the Report of one county. Once again, as you had said, if it takes six meetings to consider one report, you can imagine if you were to multiply that by the 47 reports for the county executives, and again by 47 reports for the county assemblies. The Report of the Committee was adopted at a meeting held from 3rd to 5th of February, 2016. Madam Temporary Speaker, the Governor for Turkana County was invited to respond to queries in his capacity as the Chief Executive Officer (CEO). The Report that was laid on the Table of the House on 10th May, 2018, contains the detailed observations and recommendations. If I may highlight some of the observations, it was established that the County Executive Committee (CEC) member in charge of finance and the Chief Officer for finance did not have academic or working experience on financial matters. We have the Public Finance Management (PFM) Act and Financial Reporting Standards and therefore, when your Chief Officer and the CEC for finance have no experience on financial matters, that is a recipe for disaster. The Committee has, therefore, made certain recommendations on capacity building and recruitment of competent staff. Madam Temporary Speaker, it was also noted that the executive failed to attract the services of competent personnel for various cadres, including specialists on land matters, engineering and finance. We will remember that Turkana County is one part of the country, which prior to devolution, felt that Nairobi was Kenya; and that Turkana was not Kenya. This could then explain why, in the first years of devolution, professionals were hesitant to go to Turkana County. However, I am informed that matters have since changed and that the county currently attracts professionals because it offers good terms of service. The third observation was that the County did not follow procurement rules and regulations in sourcing for goods and services. That is not surprising because the Chief Officer and the CEC Member for finance did not have the requisite experience. On various occasions, the county Government made down-payments of up to 50 per cent to suppliers before goods and services were delivered or provided, which was in clear breach of the Public Finance Management Act. Similarly, we noted that the procurement and finance departments lacking personnel and the county government had difficulty attracting specialized skilled workers like engineers. Madam Temporary Speaker, the seventh observation is that there was under- absorption of the budget. The Turkana County Government Ministry of Lands, Urban &amp; Physical Planning did not utilize its allocation to the tune of Kshs151 million, meaning that it did not utilize 87.5 per cent of its allocation. Therefore, when you have a department that has money but it does not utilize it, it means that the citizens of that county are starved of services. There are those who thought that in the first years of devolution, Turkana County was not in a position to absorb the tens of billions of shillings that were allocated to it. Finally, it was observed that the County Government vehicles were used without any regulations governing the movements beyond the normal working hours. Madam Temporary Speaker, I also want to note that in the audit reports of 2013/2014, the Auditor-General, to a great extent, did not express an opinion. He undertook an audit of operations of the county governments rather than an audit of the financial statements of the county governments. Therefore, for Turkana County, it will not be possible for us to say that the Auditor-General gave a qualified or unqualified opinion because he did not report on that in the Audit Report of 2013/2014. It is only in the audit reports for 2014/2015 that he was consistent and gave an opinion for each county that was audited. Madam Temporary Speaker, the recommendations from the Auditor-General and the Committee should help us to improve operations in Turkana County. If we were to do this close to the year that the events happened, it would have been of greater value to the people of Turkana County. Madam Temporary Speaker, I, therefore, wish to move that the House adopts the Motion on the adoption of the Report of the CPAIC on the financial operations of Turkana County Executive for the Financial Year 2013/2014. I request Sen. (Prof.) Sam Ongeri, a Member of the Committee, to second the Motion. Thank you."
     },
     {
-      "order": 239,
+      "order": 241,
       "id": "entry-815983",
       "label": "speech",
       "level": "3",
@@ -2871,7 +2895,7 @@
       "text": "Thank you, Senator. Proceed, Sen. (Prof.) Ongeri."
     },
     {
-      "order": 240,
+      "order": 242,
       "id": "entry-815984",
       "label": "speech",
       "level": "3",
@@ -2883,7 +2907,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to second this Motion on Turkana County. It is quite glaring that one of the biggest problems that the counties, particularly, the marginalised ones have, come across is the capacity of getting competent officials and officers to occupy very critical departments in order to move the agenda of development forward. You could see that even at the highest level of a County Executive Committee (CEC) Member not having academic qualifications and competencies required to direct the financial management of that county, was one of the biggest drawbacks that were experienced in Turkana County. Madam Temporary Speaker, do not forget that one of the biggest beneficiaries of the Equalization Fund is Turkana County. In fact, it tops on the list. When you find a county not being able to utilise all the resources at their command, it then becomes very difficult to bring that county to the level of other counties. That is why they were getting these extra funds, so that they can get to that level. We noted this gap that has been very clearly pronounced by the Chairperson of the Sessional Committee on County Public Accounts and Investment, of which I am a Member. One of the things that can bring some of these counties out of their woods is being able to get competent personnel such as engineers, doctors and other professionals that will man some of the critical service points and areas. It is very sad that the finance and procurement departments lack the requisite capacity to direct how procurement should be done. When you get somebody walking into a shop and paying upfront of 50 per cent using resources that belong to the public without even much query, it is only by God's act that maybe these goods were delivered in good faith. However, if you checked the records of the Local Purchase Orders (LPOs) that were given out, it is quite clear in the report of the auditor that, fortunately, some of the items did happen to appear in the records. Therefore, there was a measure of honesty for those who handled those things by accounting for those goods even when they had been paid with 50 per cent upfront. If you got cunning suppliers, they would pocket the 50 per cent, walk away and pretend that they were never paid. What is the import of this? The import of this is that the Transitional Authority (TA), which had the mandate to build capacity in these counties was unable to do so expeditiously. You can now appreciate why it became very difficult to account for and put on record assets and liabilities. One of the things that you see throughout all these counties, as we have been able to examine some of these records, is that there are accumulated arrears of payments that have now become a huge pending bill of more than Kshs99 billion. At the end of the day, the Auditor-General, the Committee itself and this House must pronounce themselves on the way forward on the question of the pending bills. That is as a result of things not being done in an orderly fashion. One of the recommendations that must come out is the question of being able to employ, in Turkana County--- I hope that as we look at the books of accounts of the Financial Year 2015/2016 and subsequently, up to the latest accounts, we will see that there will be effectiveness and proper management of county governments' resources through a competent employment of the CEC Member in charge of finance as well as procurement. The Commission on Revenue Allocation (CRA) should urgently come up with a policy to regulate revenue allocation and use of motor vehicles. These were very badly misused. That should be another way. One of the impediments of attracting good and professional cadre was as a result of disparities in salaries. This is a hardship area where somebody would think ten times before they can accept any appointment. One of the recommendations that came out from this is that the CRA, along with the Salaries and Remuneration Commission (SRC), should come up with a flexible - I think that is the word to use - plan and policy that will enable the county governments to attract these personnel who can manage the resources of that county. Madam Temporary Speaker, Turkana County is one of the most resourced counties with underground resources that need to be exploited. If they do so, they will raise our Gross Domestic Product (GDP) to a very magnificent level. Therefore, we need to help them to come up with very competent individuals, who can subscribe to very effective management of that county. If we go this direction, all the counties will do well. Madam Temporary Speaker, with those few remarks, I second this Motion on the accounts of Turkana County Executive for the Financial Year 2013/2014."
     },
     {
-      "order": 241,
+      "order": 243,
       "id": "entry-815987",
       "label": "scene",
       "level": "3",
@@ -2895,7 +2919,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 242,
+      "order": 244,
       "id": "entry-815988",
       "label": "speech",
       "level": "3",
@@ -2907,7 +2931,7 @@
       "text": "Proceed, Sen. Olekina."
     },
     {
-      "order": 243,
+      "order": 245,
       "id": "entry-815989",
       "label": "speech",
       "level": "3",
@@ -2919,7 +2943,7 @@
       "text": "Thank you, Madam Temporary Speaker. Pursuant to Standing Order No. 55(3), I beg that the putting of the question on the Motion be deferred to another day. Thank you."
     },
     {
-      "order": 244,
+      "order": 246,
       "id": "entry-815990",
       "label": "speech",
       "level": "3",
@@ -2931,7 +2955,7 @@
       "text": "Thank you, Senator. It is so ordered."
     },
     {
-      "order": 245,
+      "order": 247,
       "id": "entry-815991",
       "label": "scene",
       "level": "3",
@@ -2943,7 +2967,7 @@
       "text": "(Putting of the question on the Motion deferred)"
     },
     {
-      "order": 246,
+      "order": 248,
       "id": "entry-815992",
       "label": "speech",
       "level": "3",
@@ -2955,7 +2979,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 247,
+      "order": 249,
       "id": "entry-815993",
       "label": "heading",
       "level": "1",
@@ -2967,7 +2991,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 248,
+      "order": 250,
       "id": "entry-815994-split-selected-31f803dd-e3c0-48d2-9020-a495ae890f97",
       "label": "heading",
       "level": "3",
@@ -2979,7 +3003,7 @@
       "text": "ADOPTION OF REPORT ON THE FIRST EXTRAORDINARY SESSION OF THE FP-ICGLR IN KINSHASA, DRC"
     },
     {
-      "order": 249,
+      "order": 251,
       "id": "entry-815994-split-after-e1adfb53-2cd5-4f9c-99f9-f95923808d77",
       "label": "speech",
       "level": "3",
@@ -2991,7 +3015,7 @@
       "text": "THAT, this House adopts the Report of the proceedings of the First Extraordinary Session of the Plenary Assembly of the Forum of Parliaments of Member States of the International Conference on the Great Lakes Region (FPICGLR) held in Kinshasa, Democratic Republic of Congo from 19th - 20th March, 2018, laid on the Table of the Senate on Tuesday, 15th May, 2018."
     },
     {
-      "order": 250,
+      "order": 252,
       "id": "entry-815995",
       "label": "speech",
       "level": "3",
@@ -3003,7 +3027,7 @@
       "text": "I do not see Sen. Poghisio in the House. As was said yesterday, it is really upon Members to be in the House when their Motions are in the Order Paper. This should be communicated to him. I will, therefore, defer this Motion to another day."
     },
     {
-      "order": 251,
+      "order": 253,
       "id": "entry-815996",
       "label": "scene",
       "level": "3",
@@ -3015,7 +3039,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 252,
+      "order": 254,
       "id": "entry-815997-split-before-988da66c-863e-4064-87b9-a3185bf71ca5",
       "label": "speech",
       "level": "3",
@@ -3027,7 +3051,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 253,
+      "order": 255,
       "id": "entry-815997-split-selected-12c4c2ec-79e5-4593-a16c-c293f0fef783",
       "label": "heading",
       "level": "3",
@@ -3039,7 +3063,7 @@
       "text": "FRAMEWORK TO PERMANENTLY ADDRESS EFFECTS OF FLOODS"
     },
     {
-      "order": 254,
+      "order": 256,
       "id": "entry-815997-split-after-80ff2ca1-782b-45e8-ad28-99f5e68228ac",
       "label": "speech",
       "level": "3",
@@ -3051,7 +3075,7 @@
       "text": "THAT, aware that several days of heavy rains recently have caused severe flooding in many parts of the country, resulting in multiple deaths and devastating damage to property and infrastructure; NOTING with concern that, whenever Kenya experiences periods of severe drought, torrential rains usually follow; CONCERNED that year in year out, the challenge of floods continues to recur, leading to loss of human and animal life, displacement of people and wanton destruction of property; COGNIZANT that the number of Kenyans needing emergency food aid as a result of displacement caused by the current floods continues to rise by the day and that the floods have also washed away many bridges and destroyed roads in many parts of Kenya; ALSO CONCERNED that no effective measures, such as improved storm water harvesting, proper drainage infrastructure and preventing the destruction of riparian reserves and natural water courses, to mitigate and/or provide a lasting solution to the menace of flooding, have been taken; NOW THEREFORE, the Senate calls upon the National Government to develop a lasting framework to permanently address the challenge of effects of floods by, among other things. 1) Developing and enforcing regulations for preventing the obstruction of riparian reserves and natural water courses; and 2) Preventing and regulating the construction of informal settlements and ensuring prevention of construction on low lying areas and flood plains. And further that the relevant government agency to execute this task submits a report to the Senate within three months of the adoption of this Motion."
     },
     {
-      "order": 255,
+      "order": 257,
       "id": "entry-816000",
       "label": "speech",
       "level": "3",
@@ -3063,7 +3087,7 @@
       "text": "I also do not see Sen. Dullo. As was said yesterday, and as I have just said, the Motion will be deferred to a date that will be set by the Senate Business Committee."
     },
     {
-      "order": 256,
+      "order": 258,
       "id": "entry-816001",
       "label": "scene",
       "level": "3",
@@ -3075,7 +3099,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 257,
+      "order": 259,
       "id": "entry-816002-split-before-8853a079-753e-4808-8f23-13c7e9fc0567",
       "label": "speech",
       "level": "3",
@@ -3087,7 +3111,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 258,
+      "order": 260,
       "id": "entry-816002-split-selected-cb5531ab-39e2-43d5-bb2d-66553419d8e6",
       "label": "heading",
       "level": "3",
@@ -3099,7 +3123,7 @@
       "text": "THE STATUS OF EDUCATION IN NORTHERN KENYA"
     },
     {
-      "order": 259,
+      "order": 261,
       "id": "entry-816002-split-after-1ea27fa4-5c3a-43e5-b7ff-c83e65a80f2c-split-before-03916915-09fb-4c08-96f5-26d91aca55d5",
       "label": "speech",
       "level": "3",
@@ -3111,7 +3135,7 @@
       "text": "THAT, AWARE that Article 43 (f) of the Constitution of Kenya stipulates that every person has the right to education, and Article 53(1)(b) provides that every child has the right to free and compulsory basic education; ALSO, AWARE that education is a basic need and a tool for intellectual empowerment and social-political development; FURTHER AWARE that education is a shared function between the National and the County levels of Government with the National Government being responsible for Primary, secondary and Higher education while the County Government is responsible for pre-primary education, village polytechnics and home craft centres; COGNISANT that both levels of Government complement each other in promoting sustainable education; CONCERNED that the intake, uptake and quality of education in the Northern Kenya have adversely been affected owing to discrepancies in public resources allocation, insecurity, skewed staffing and teacher training in the region; FURTHER CONCERNED that both the school completion rate and the national examination outcomes in region are poor and that the number of students from Northern Kenya who qualify for core courses in universities, colleges, technical schools and village polytechnics is minimal compared to other parts of the country; NOTING WITH CONCERN that due to insecurity and other related concerns, the Teachers Service Commission (TSC) which is the body responsible for the employment and deployment of teachers, has in the recent past, taken steps to transfer non-local teachers from the northern region of Kenya to other parts of the country; CONCERNED THAT, the transfers have led to shortage of skilled teachers which has been a major cause of the dismal performance in examinations in schools in the region; NOW THEREFORE, the Senate resolves to task the Standing Committee on Education to conduct an inquiry into the challenges facing the education sector in Northern Kenya with a view to:"
     },
     {
-      "order": 260,
+      "order": 262,
       "id": "entry-816002-split-after-1ea27fa4-5c3a-43e5-b7ff-c83e65a80f2c-split-selected-06a7ef40-0200-4c12-8e89-bf797c9cd09b",
       "label": "scene",
       "level": "3",
@@ -3123,7 +3147,7 @@
       "text": "(1) Evaluating the effect of the teacher transfers from the region"
     },
     {
-      "order": 261,
+      "order": 263,
       "id": "entry-816002-split-after-1ea27fa4-5c3a-43e5-b7ff-c83e65a80f2c-split-after-78a78143-7a02-4eef-965a-03fe61e70224-split-before-49c6dcfa-0ab4-4173-8949-1a4bc4113a4e",
       "label": "speech",
       "level": "3",
@@ -3135,7 +3159,7 @@
       "text": "and recommending to the Ministry of Education, policy measures to address the challenge;"
     },
     {
-      "order": 262,
+      "order": 264,
       "id": "entry-816002-split-after-1ea27fa4-5c3a-43e5-b7ff-c83e65a80f2c-split-after-78a78143-7a02-4eef-965a-03fe61e70224-split-selected-6e9540ee-7e45-44a6-86c9-2c6e07d1dcbe",
       "label": "scene",
       "level": "3",
@@ -3147,7 +3171,7 @@
       "text": "(2) Evaluating the status of the education infrastructure in the"
     },
     {
-      "order": 263,
+      "order": 265,
       "id": "entry-816002-split-after-1ea27fa4-5c3a-43e5-b7ff-c83e65a80f2c-split-after-78a78143-7a02-4eef-965a-03fe61e70224-split-after-2a4d09a8-1e7d-4efc-90f6-2d0492de3fde-split-before-f81040de-412a-43e6-b7f8-27c779cff516",
       "label": "speech",
       "level": "3",
@@ -3159,7 +3183,7 @@
       "text": "region and proposing solutions to mitigate the current and looming challenges;"
     },
     {
-      "order": 264,
+      "order": 266,
       "id": "entry-816002-split-after-1ea27fa4-5c3a-43e5-b7ff-c83e65a80f2c-split-after-78a78143-7a02-4eef-965a-03fe61e70224-split-after-2a4d09a8-1e7d-4efc-90f6-2d0492de3fde-split-selected-803c8782-eddd-4875-b965-2114cc234daa",
       "label": "scene",
       "level": "3",
@@ -3171,7 +3195,7 @@
       "text": "(3) Proposing mechanisms for enhanced resource allocation at both"
     },
     {
-      "order": 265,
+      "order": 267,
       "id": "entry-816002-split-after-1ea27fa4-5c3a-43e5-b7ff-c83e65a80f2c-split-after-78a78143-7a02-4eef-965a-03fe61e70224-split-after-2a4d09a8-1e7d-4efc-90f6-2d0492de3fde-split-after-d6e2c1f1-9d74-4191-83d2-87e9a9b17f1b-split-before-fa4efdfa-a7db-4e13-aeea-5dffd6a3ca15",
       "label": "speech",
       "level": "3",
@@ -3183,7 +3207,7 @@
       "text": "levels of government to facilitate improved education facilities; and"
     },
     {
-      "order": 266,
+      "order": 268,
       "id": "entry-816002-split-after-1ea27fa4-5c3a-43e5-b7ff-c83e65a80f2c-split-after-78a78143-7a02-4eef-965a-03fe61e70224-split-after-2a4d09a8-1e7d-4efc-90f6-2d0492de3fde-split-after-d6e2c1f1-9d74-4191-83d2-87e9a9b17f1b-split-selected-488480dd-e256-4d3d-a315-04ec1dfae054",
       "label": "scene",
       "level": "3",
@@ -3195,7 +3219,7 @@
       "text": "(4) Assessing school intake compared completion levels in the"
     },
     {
-      "order": 267,
+      "order": 269,
       "id": "entry-816002-split-after-1ea27fa4-5c3a-43e5-b7ff-c83e65a80f2c-split-after-78a78143-7a02-4eef-965a-03fe61e70224-split-after-2a4d09a8-1e7d-4efc-90f6-2d0492de3fde-split-after-d6e2c1f1-9d74-4191-83d2-87e9a9b17f1b-split-after-18055932-af1b-4970-9164-802ad8efa87c",
       "label": "speech",
       "level": "3",
@@ -3207,7 +3231,7 @@
       "text": "region in order to ascertain the impact of the challenges facing the schools and how these disadvantages the region compared to other parts of Kenya and proposing ways of addressing the challenges. And that the Committee submits a report to the Senate within three months of adoption of this Motion by the Senate."
     },
     {
-      "order": 268,
+      "order": 270,
       "id": "entry-816005",
       "label": "speech",
       "level": "3",
@@ -3219,7 +3243,7 @@
       "text": "Hon. Senators, again, I do not see Sen. (Dr.) Ali. This Motion falls under the same category. These are Senators who should have been in the House because it was communicated to them. For that reason, the Motion is deferred to a date to be set by the Senate Business Committee."
     },
     {
-      "order": 269,
+      "order": 271,
       "id": "entry-816006",
       "label": "scene",
       "level": "3",
@@ -3231,7 +3255,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 270,
+      "order": 272,
       "id": "entry-816007",
       "label": "speech",
       "level": "3",
@@ -3243,7 +3267,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 271,
+      "order": 273,
       "id": "entry-816008",
       "label": "heading",
       "level": "1",
@@ -3255,7 +3279,7 @@
       "text": "MOTION"
     },
     {
-      "order": 272,
+      "order": 274,
       "id": "entry-816009",
       "label": "heading",
       "level": "3",
@@ -3267,7 +3291,7 @@
       "text": "MANAGEMENT OF CONSTRUCTION CONTRACTORS"
     },
     {
-      "order": 273,
+      "order": 275,
       "id": "entry-816010-split-before-91e2bdc0-981e-4e66-8e89-b992409f1578",
       "label": "speech",
       "level": "3",
@@ -3279,7 +3303,7 @@
       "text": "Madam Temporary Speaker, I beg to move the Motion on Management of Construction contractors- THAT, AWARE that Section 15 of the National Construction Authority (NCA) Act prescribes the requirements for registration as a contractor; ALSO, AWARE that Section 18 of the Act mandates the NCA Board to accredit firms incorporated outside Kenya to carry out construction works in Kenya for a prescribed period; CONCERNED that a large number of registered local contractors cannot perform up to the expected standard leading to collapsed buildings, poor county roads and infrastructure and incomplete contracts; APPRECIATING that there are still a good number of local contractors that has demonstrated capacity to perform and deliver projects as required; DEEPLY CONCERNED that foreign contractors are now engaging in projects that local contractors have equal capacity and skill to perform, especially in the counties; RECOGNIZING THAT there is need to grow our local industries by giving job opportunities to Kenyan citizens and building their technical capacities; NOW, THEREFORE, the Senate calls upon the Government through the NCA to:"
     },
     {
-      "order": 274,
+      "order": 276,
       "id": "entry-816010-split-selected-bf575174-cc03-40dc-9e58-3285ab59acc6",
       "label": "scene",
       "level": "3",
@@ -3291,7 +3315,7 @@
       "text": "(1) Conduct a fresh registration drive of all building and"
     },
     {
-      "order": 275,
+      "order": 277,
       "id": "entry-816010-split-after-b4850cca-d392-40cf-a635-7f44932939e9-split-before-1478f6f5-bc86-4538-a60a-3775d05aca56",
       "label": "speech",
       "level": "3",
@@ -3303,7 +3327,7 @@
       "text": "infrastructure contractors in order to weed out all non-performing ones and to identify those who demonstrate compliance;"
     },
     {
-      "order": 276,
+      "order": 278,
       "id": "entry-816010-split-after-b4850cca-d392-40cf-a635-7f44932939e9-split-selected-fb06d12b-9c77-4430-b4cc-3afdbdba93d3",
       "label": "scene",
       "level": "3",
@@ -3315,7 +3339,7 @@
       "text": "(2) Enforce strict oversight on foreign contractors and"
     },
     {
-      "order": 277,
+      "order": 279,
       "id": "entry-816010-split-after-b4850cca-d392-40cf-a635-7f44932939e9-split-after-1ebd4f9e-626e-43a0-a8ac-df54a7b07c04-split-before-6f190c49-6b15-4bef-aab5-aa2df2d5d954",
       "label": "speech",
       "level": "3",
@@ -3327,7 +3351,7 @@
       "text": "institute a mechanism to handle complaints raised against contractors;"
     },
     {
-      "order": 278,
+      "order": 280,
       "id": "entry-816010-split-after-b4850cca-d392-40cf-a635-7f44932939e9-split-after-1ebd4f9e-626e-43a0-a8ac-df54a7b07c04-split-selected-d1a99ece-8106-4a50-9194-8a92dc12504c",
       "label": "scene",
       "level": "3",
@@ -3339,7 +3363,7 @@
       "text": "(3) Ensure that foreign contractors are only awarded"
     },
     {
-      "order": 279,
+      "order": 281,
       "id": "entry-816010-split-after-b4850cca-d392-40cf-a635-7f44932939e9-split-after-1ebd4f9e-626e-43a0-a8ac-df54a7b07c04-split-after-8fab2991-606c-43eb-b509-02862b5a8a1c-split-before-87025285-064a-4a27-be39-77668a233ade",
       "label": "speech",
       "level": "3",
@@ -3351,7 +3375,7 @@
       "text": "contracts that local contractors cannot handle and require them to include technology transfer to locals; and,"
     },
     {
-      "order": 280,
+      "order": 282,
       "id": "entry-816010-split-after-b4850cca-d392-40cf-a635-7f44932939e9-split-after-1ebd4f9e-626e-43a0-a8ac-df54a7b07c04-split-after-8fab2991-606c-43eb-b509-02862b5a8a1c-split-selected-6791820b-0c96-48f8-959d-db1b4a655735",
       "label": "scene",
       "level": "3",
@@ -3363,7 +3387,7 @@
       "text": "(4) Require both local and foreign contractors to undertake"
     },
     {
-      "order": 281,
+      "order": 283,
       "id": "entry-816010-split-after-b4850cca-d392-40cf-a635-7f44932939e9-split-after-1ebd4f9e-626e-43a0-a8ac-df54a7b07c04-split-after-8fab2991-606c-43eb-b509-02862b5a8a1c-split-after-a51271eb-6cb0-4905-b8c0-fc252733d3b1",
       "label": "speech",
       "level": "3",
@@ -3375,7 +3399,7 @@
       "text": "corporate social responsibility activities in the counties where they operate. Madam Temporary Speaker, I raised this Motion quite a while ago although it has come a bit late, in my opinion. Certain events have occurred that have superseded the intention of this Motion, but in a positive way. This is because there has been conversation around foreign contractors and foreigners doing work that local contractors or citizens can do. Part of this was in that spirit; that we want to look out for what Kenyans can do and also uplift those who are not being seen because there are some who are doing the work and are not able and yet there are local ones who can do it. When it comes to building and infrastructure, the issue of local contractors has been in question a lot. With all the collapsed infrastructure and buildings, there is always the question around our own local capacities. However, the fact remains that we have those who do not perform and those who do. It is important that the Government through NCA weeds out all those who do not perform and have those who perform be empowered though NCA, which is also their mandate to train and uplift our local contractors. Madam Temporary Speaker, the spirit of this Motion was to bring that up. The reason why I brought it at the time was because I had raised a Statement in the House to NCA, asking various questions including tabling the number of foreign contractors in the construction industry. They did so and there are quite a number of them. Another question was on jobs that the Government had given to foreign contractors. I think that is where eyebrows were raised because you find foreign contractors working in counties. In one instance, you find a foreign contractor doing construction work worth Kshs151 million in Kisumu County. I believe our local contractors are able to do that work. The question that came to my mind was; did these foreign contractors come specifically to construct a primary school in Kisumu County? It turns out that when foreign contractors are given licenses, it is because they come to do something specific and that has been clear according to NCA. The question now remains; when they finish doing the specific work that they came to do, what should happen? Why is it that we are seeing foreign contractors in counties doing our work? When a foreign contractor finishes what it is that they were tasked to do, which is because Kenyans cannot do it, they are supposed to be decommissioned, deregistered and to exit. However, we have seen many foreign contractors getting very comfortable within the country. My problem is that, they are doing work that our local contractors can do. The question is; why is it that that they are favoured over the local contractors, yet we have a body called NCA that is supposed to train our local contractors and lift their capacity, so that we do not have to keep having foreign contractors coming? So, since NCA had highlighted that it does happen, then comes the reason why we need a full review of the registration drive. In my questioning during the Statement, I also asked if foreign contractors are mandated to carry out Corporate Social Responsibility (CSR) and technology transfer. The NCA confirmed that it is not mandated in the contracts as they come into the country to do the work. My feeling is that any foreign contractor coming has a duty to transfer that technology and also perform CSR because the size of projects that they come to do are large. We are in a country which is still grappling with basic needs. I raised this Motion because I want the Senate to mandate the Government that foreign contractors have to participate in CSR. In fact, it has to be part of the contracts on the deliverables and so is technology transfer. Why should we keep asking contractors to come and do things that we should be able to do? Once they have brought in something that we do not know, we are supposed to learn so that our local contractors can be further empowered. So, this has to be stated in the contracts for the foreign contractors. They have to demonstrate it as well. There has to be a mechanism that NCA has to adopt that ensures that technology transfer and CSR are done. Madam Temporary Speaker, it is unfortunate that you have a big contractor coming in to do a project like the Standard Gauge Railway (SGR) and there is no nursery school, clinic, hospital or something that they give along the way of this huge contract. How else are we supposed to benefit besides the infrastructure? I believe that they are supposed to do this alongside technology transfer. We should have one or two technical colleges being given somebody from that country which has won the contract to train some of the local selected contractors. That way, we do not all the time have to depend on foreign contractors who come to do jobs that we should be able to do. Several positive things have happened after I raised this Statement. The question around foreigners doing what Kenyans have capacity to do, has been raised here. However, we need to give a clear way forward. So, one of my proposals, of course, is when NCA conducts a new, fresh registration drive, several things will happen. One, we should be able to weed out all non-performing contractors because this is also another big issue in counties where we have unfinished roads and collapsing buildings. Every contractor has to present their performance to whichever CEC in the different counties for them to have a new registration certificate. When we do this, we begin to weed out those who do not finish work because we still have instances where a contractor has never finished a road but is still getting new contracts. This should not be the case. Ideally, if you do not complete a road project, you should not get a new contract. We also have instances of contractors who finish their roads and do it very well. These ones should be given new certificates so that they continue getting new jobs. So, we weed out all those and if possible, it should even be declared publicly that these ones have been deregistered. When we do the same for the foreign contractors, we should not seek foreign contractors to do secondary or primary schools in counties. That is just wrong and should not be the case. We want any foreign contractor who has been commissioned to do something specific, once it is done and they have done their CSR and technology transfer, they should be decommissioned and leave because by then, some Kenyans will have learnt this new technology. They can be the ones to take up the new projects and jobs. Madam Temporary Speaker, a good thing that NCA has done after I had raised this Statement is that there is now a draft construction policy that is going around amongst the professionals for their input and comments. I have perused through the policy and one of the things that they would like is a mechanism for dealing with disputes and complaints, which is another question that I had asked. They had confirmed that they do not have a mechanism to deal with complaints. There is a gap because everyone has issues with contractors but where do they raise their complaints? There seems to be no mechanism on where we can report contractors who are not performing. So, one is to deregister them but two, going forward, NCA needs to institute a mechanism. They have addressed it in their policy which is a positive thing. So, I am looking forward to it but beyond their policy is to insist and protect the local contractors which is one thing that we have to push for as a House. This is one thing that we have to push for as a House. We also have to push for monitoring of contractors at the county level. We need to have a clear monitoring mechanism because there is so much happening in the counties and therefore monitoring becomes a key issue. We still have serious gaps because you saw how infrastructure failed because of the floods. Part of it has to do with quality. Although my Motion may have been superseded by events, in my opinion, there is still something that the National Construction Authority (NCA) needs to do. I would like question to be raised to them and I urge Senators to support me on this one because it is still a critical issue in the country. The NCA handles critical part of our infrastructure but our building and construction is still a challenge in many ways in terms of capacity building yet it has the authority. It is their mandate to build capacity to uplift our local contractors and make sure that there is growth of the sector and the industry. Madam Temporary Speaker, as I wind up, I would like to ask Sen. Mutula Kilonzo Jnr. to second the Motion."
     },
     {
-      "order": 282,
+      "order": 284,
       "id": "entry-816017",
       "label": "speech",
       "level": "3",
@@ -3387,7 +3411,7 @@
       "text": "Sen. Kasanga, when you moved the Motion, did you state that a number of issues are overtaken by events?"
     },
     {
-      "order": 283,
+      "order": 285,
       "id": "entry-816018",
       "label": "speech",
       "level": "3",
@@ -3399,7 +3423,7 @@
       "text": "Madam Temporary Speaker, what I said is that the conversation around the fact that we have a lot of foreigners doing work that locals can do has already been discussed here in the House but the Motion is still alive."
     },
     {
-      "order": 284,
+      "order": 286,
       "id": "entry-816019",
       "label": "speech",
       "level": "3",
@@ -3411,7 +3435,7 @@
       "text": "Okay. Let us have Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 285,
+      "order": 287,
       "id": "entry-816020",
       "label": "speech",
       "level": "3",
@@ -3423,7 +3447,7 @@
       "text": "Madam Temporary Speaker, this is alive and I would like to support this Motion. Sen. Kasanga may not be aware that the Institution of Engineers of Kenya (IEK) has issued a notice to do a protest because of what appears to be favouring of foreign contractors over our local engineers who are capable of doing work. I do not think, from the discussions that have been going on, that this matter has been given the emphasis that it should. Recently, the Senate Majority Leader said something that I found extremely curious. He said that Kenyans demand for Chinese contractors because local contractors have no capacity to do some of the jobs that they are called upon to do. Although I never got the opportunity to challenge him, the interesting thing is that about half of the contracts, including those for roads--- He mentioned some of the projects in the Rift Valley. The engineers, the people who actually do the drawings and, the people who issue the certificates are Kenyans and so there is no question that the people who ultimately certify that Ngong Road was done properly by Japanese or Chinese are Kenyans. Therefore, there is no question of capacity because the person who supervises the work is a Kenyan. When the President of this Republic was in Makueni in January, 2015 to launch a portion of the Standard Gauge Railway (SGR) from Kibwezi to Nairobi, we had a serious discussion about transfer of skills. It pained me to know that although the sleepers - sleepers are concrete slabs that are put on top of the rail - were being done in a place called Kathekani in Kibwezi, our local people in Kibwezi were not trained how to do those sleepers and because entirely everything for the SGR was imported, even small bolts and nuts were also being fixed by the Chinese. It is strange that Kenyans were doing menial jobs such as pushing wheelbarrows or carrying sand and nothing else. By the time the SGR passed through 170 kilometres of Makueni County, not a single Kenyan could do technical jobs that they ought to do. Why would we allow something like that as a country when we promised to create one million jobs in this country? In other jurisdictions like India, foreign companies cannot trade without having a partner who has 51 per cent shares in that company. Foreign contractors and foreign companies hold the minority shares. We have allowed these people to take over our businesses. For Sen. Kasanga, under Section 22 of the NCA Act, there is a provision for complaint against contractors. The sort of fiasco that we experienced with the NCA regarding the issue of Solai Dam almost moved us to tears. A person from Rift Valley went and looked at the dam. He reported that the dam was constructed in 1980 and it was because of the rain that it collapsed. That is what he said in his report which he signed and gave to the NCA and they approved it. These are some of things that Kenyans do that give rise to the notion that we must hire the Chinese to do simple and menial jobs which should not be done by them. Sen. Kasanga is right about the registration of foreign contractors. When we register foreign contractors, we must, as a nation, tell them that they must partner with local contractors. The jobs must be bid for by Kenyan contractors, so that the expertise being brought by the Chinese or contractors from other nations can only be for value addition. That is the way the country should work. I said in this platform that work permits under Class D are for people who offer technical services not available by Kenyans. For the SGR, you will find carpenters, masons and even cooks who are Chinese. This country is not only lost but we need prayers. This morning I got a call from somebody, through Sen. Olekina, complaining about foreign contractors. What is even worse is that other than giving them jobs, they mistreat Kenyans and terminate them unfairly. They are not subjected to law and they behave as if they have become the law. That is modern day slavery in this country. The purpose of registering foreign contractors is to determine their expertise and the type of companies they want to bring. Sen. Kasanga never mentioned that foreigners come to Kenya as tourists. They go to Sen. Olekina's county as tourists to see the migration of the wildebeests and all of a sudden in the process they get work permits. When their tourists' visas are over, they go back to their countries and get other tourists visas and come back and continue working in Kenya. What a country! I am embarrassed to be a Kenyan. So, it is not only the issues of registration and compliance that need to be addressed. I never mentioned to Sen. Kasanga that in the Public Procurement and Asset Disposal Bill, I successfully moved an amendment that will see a contractor blacklisted for not performing. Those days when we used to have cowboy contractors are long gone. We would give them a slap on the wrist, pay them Kshs400 million, tell them that we will never give them another contract and ask them to go home. That should not be the case. They should be blacklisted for collecting money from the public coffers and not performing. There should be no excuse. This country has got one of the best technical people. Can I surprise you, Madam Temporary Speaker? I met a young man in Japan who comes from your county. He left Kenya and went to Japan to study architecture at the age of 18. He is now 37 years old, he has become a Japanese national and he is not only an architect, but he is also in charge of disaster management in Tokyo, Japan. Why are we talking about the lack of expertise? I have met many young men who went to Japan on scholarships and they are now technical people. Therefore, it is not for the lack of expertise that we are registering foreign contractors, but because, for some strange reasons, this has become an avenue for kickbacks. Sen. Kasanga is being her usual self; nice and polite. This has become an avenue for people to get 10 percent commissions, because these people are coming with finances. They have free money, which they are dropping here like manna from heaven. They are actually doing it as if money is running out of fashion. They have money to construct roads quickly. That is why, I must laud the President of this Republic, His Excellency Uhuru Kenyatta. May God give him wisdom and age for cancelling new projects, because he understood the problem."
     },
     {
-      "order": 286,
+      "order": 288,
       "id": "entry-816025",
       "label": "scene",
       "level": "3",
@@ -3435,7 +3459,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 287,
+      "order": 289,
       "id": "entry-816026",
       "label": "speech",
       "level": "3",
@@ -3447,7 +3471,7 @@
       "text": "The problem was that foreign contactors were coming through the back door, entering into contracts and Memorandums of Understanding (MoUs) with Cabinet Secretaries (CSs) and others, so that they get the 10 percent commission. I pity the tenderpreneurs of this Republic; they must be thinking that President Uhuru Kenyatta became Paul from Saul. They are going to miss the money which they have been getting from the funny things they have been doing. I feel sorry for them!"
     },
     {
-      "order": 288,
+      "order": 290,
       "id": "entry-816027",
       "label": "scene",
       "level": "3",
@@ -3459,7 +3483,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 289,
+      "order": 291,
       "id": "entry-816028",
       "label": "speech",
       "level": "3",
@@ -3471,7 +3495,7 @@
       "text": "Therefore, Madam Temporary Speaker, this Issue is much wider than the registration of these foreign contractors. We ended up baptizing the National Construction Authority (NCA) as the 'National ongoing Construction\" in the ad hoc Committee for the Solai tragedy. They are just a registration organisation; they are not a regulator. In fact, some of the things that Sen. Kasanga has raised here must find themselves in law. When we put these people to task, they brought reports, coloured photographs with graphs, yet the first report they gave us was one page. When we put the NCA to task, they performed their duties. The report that I tabled today for the Solai Dam Tragedy has four well done executive reports by the NCA. This is only because we put them to task, terminated their proceedings and told them to wait for our report. That threat got them to work. Therefore,\n\nthe idea in this Motion must be in law so that the NCA should not be a conveyer belt for what has been the 'fourth republic of Kenya.' This is the corrupt state called Kenya, which has no independence, no person or governor and it is formless. That is the avenue that the foreign contractors have used. Lastly, Madam Temporary Speaker, even if we were to license foreign contractors - because we cannot divorce ourselves from the global village we are in - we must make it very stringent for them to operate in Kenya. We must make it difficult, and even then, we must tell them that they must return to this country what Sen. Kasanga ably put as the transfer of skills. They must create real employment and not casual labour which can be created by county governments. We need expertise; we want to see people like the Kenyan gentleman I met in Japan, who we can take pride in. We do not want to see Chinese, Japanese, British or any other people who, at the end of the day, take off and there is no benefit of having to register those people for anything that we do. We must take pride in this country by saying that we must sell Kenya to Kenyans. I do not know what happened to Brand Kenya, but we must wake them up from their deep slumber. This is one of those issues that Brand Kenya should be doing, other than just selling Maasai Mara, Mombasa beach, Zanzibar and those other things. Thank you. I beg to support."
     },
     {
-      "order": 290,
+      "order": 292,
       "id": "entry-816031",
       "label": "scene",
       "level": "3",
@@ -3483,7 +3507,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 291,
+      "order": 293,
       "id": "entry-816032",
       "label": "speech",
       "level": "3",
@@ -3495,7 +3519,7 @@
       "text": "Thank you, Madam Temporary Speaker. This Motion has come at the right time. The NCA was established expressly to regulate, streamline and build capacity in the building and construction industry. The long and short of this is that they were given the mandate to take on board many skilled Kenyans and to improve on their skills so as to help in the building industry. Madam Temporary Speaker, you will appreciate that you and I spent endless time to ensure the creation of competent vocational, technical training institutes of technology to impact professional training in various cadres of the building and infrastructure industries. However, these young men and women who have been trained in those institutions are lacking jobs."
     },
     {
-      "order": 292,
+      "order": 294,
       "id": "entry-816033-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3507,7 +3531,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kamar) left the Chair]"
     },
     {
-      "order": 293,
+      "order": 295,
       "id": "entry-816033-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3519,7 +3543,7 @@
       "text": "[The Temporary Speaker (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 294,
+      "order": 296,
       "id": "entry-816034",
       "label": "speech",
       "level": "3",
@@ -3531,7 +3555,7 @@
       "text": "We now have major construction companies coming from foreign countries with semi- knocked down kits from their own countries, which means that more than 90 per cent of whatever loans they are giving us is sent back to their countries of origin. Therefore, the country does not benefit; all we see is a service that does not build capacity for the young people who went through the vocational and technical training institutes, institutes of technology, national polytechnics and universities that have mounted courses on infrastructure and engineering professionals. Therefore, the National Construction Authority (NCA) was set up to regulate this industry. Section 17 of the National Construction Authority Act empowers the NCA to register these organisations. If you check what they have done, they have only created a portal where contractors come in. I do not know whether they ever do onsite inspection on the competencies of those contractors. Contractors fill forms, go through the six stages and then click on the level of renewal. Once everything is filled in satisfactorily, they get a certificate that they are contractors who can carry out the responsibilities of taking care of the infrastructure, most of which are buildings where ordinary Kenyans stay. No wonder we are seeing buildings collapse because of the lack of certain elements that needs to be put in place in order to make the local contractors competitive. So, whereas we are fighting for their existence to carry out the projects, we are also asking them to build professional capacity to handle certain levels of jobs that go out for tender. They also must liaise between themselves and financial institutions, so that they can build financial capacity. The NCA, to a certain measure, should help them to do so. Madam Temporary Speaker, the third element, which I have seen throughout, is the ethical considerations of contractors. Where they are supposed to reinforce buildings, they are putting fragile structures. For instance, instead of putting heavy steel on buildings that require columns and steel, they are using fragile steel. So, as soon as they reach the second floor, the weight of concrete bends the steel and we get calamities and disasters. In case of minor seismic earthquakes - not of high Richter scales - these buildings are bound to collapse. As I drove along the Mai-Mahiu-Narok Road, when we had a fault line emanating from Longonot, I saw buildings that had been ripped open because they were not done to standard. However, the earthquake that brought that kind of condition was heavier. Interestingly, Section 22 of the National Construction Authority Act empowers the board to inquire into the conduct of a contractor on its initiative. We expect that some of these multinational companies come into the country with ethical considerations. However, they have thrown ethics through the window. They have also brought alongside with them other operators of kiosks, so that they are able to access and resource on items which have been imported from foreign countries. Therefore, a local contractor has no chance whatsoever to do anything useful. When I was the Minister for Local Government, we had the El Nino rains that caused many potholes in this City and many other towns. For example, Kenyatta Avenue had huge potholes. We came up with the Kenyan Urban Transport Programme, which was funded by the World Bank. They insisted on certain criteria that had to be met. I put my foot down and spoke to the Director of the World Bank. I said that I wanted to see our local contractors involved in the remodeling of the road, in a manner that would hold them to account if they are not able to do a good job. Kenyatta Avenue was resurfaced for only Kshs25 million. I remember the local contractor telling me that this road would last many years without potholes on it. That is when I decided to put the water fountain so that it could cool the nerves of drivers. I am glad that it still exists. Madam Temporary Speaker, I have inspected that road, including yesterday, because I knew that, at some stage, I must contribute to this Motion. That road is intact and it only cost Kshs25 million. If we were to do the same road, it would run into billions of shillings. So, inviting foreign companies to participate in the local construction of roads and buildings has exaggerated the prices almost tenfold. The effect of it is that Kenyans are being drained financially. The remedy to this is that we should be in a position to empower the NCA to do a complete appraisal of their Act. Let them go back and look at this generous Act that gave them so much authority and leeway to train. They should call upon the National Treasury and the Government to give them enough resources. I respect the professional cadre which is in NCA, led by the current Acting Managing Director of the Kenya Ports of Authority (KPA) Architect, Dr. Manduku. He is a fine young man who has done a good job. I am sure that he will do a good job in the KPA. One of the impediments that we are seeing quite clearly is the fact that Kenyans, who are able to do a good job, are not capacitated to do the right thing at the right time. They are starved of professionalism because they are not allowed to work as apprentice in some of these big multinationals. These Kenyans are not allowed to participate in the contracts that are running in this country, which are in billions of shillings. They are not allowed to even peep and see what is happening. The other day, I saw that ordinary people are being chased away and discriminated against in terms of how much they can do and get paid. Therefore, the Kenyan contractor and professional worker is a frustrated person. This is dangerous because the minute workers are frustrated, the management runs into difficulties. Madam Temporary Speaker, my take on this matter is that both the Cabinet, the National Assembly, the Senate and the construction industry must now rise to the occasion. We should ask ourselves how we can elevate an ordinary Kenyan to perform tasks that are hitherto being performed by other groups who are not from this country. I have no intention of discriminating anybody. The foreign companies are welcome, but they must operate within the ethical lines. They must also give us value for money that we desire in this country. However, what they are doing is telling us, \"Hold on, when we are done, you come in.\" One of the biggest worries that I have today is that at the conclusion of this Standard Gauge Railway (SGR) - I hear it is a contract of up to 2018 - how many Kenyans will have an opportunity to even do a simple line repair when there is some problem with the railway line? None. Yet, they are the ones who are doing the donkey work. Therefore, we have come up with a Motion that we will now need to take seriously as Senate and be able to look at the National Construction Authority (NCA) Act and see whether it can be reinforced. Also, we will look at other professional bodies that are involved with tendering and procurement and see how we can reinforce all these bodies so that a Kenyan can thrive in his own environment. If we deprive him of that environment, then we are creating a miserable Kenyan and when a Kenyan is miserable he will create miserable problems. With those few remarks, I support this Motion."
     },
     {
-      "order": 295,
+      "order": 297,
       "id": "entry-816041",
       "label": "speech",
       "level": "3",
@@ -3543,7 +3567,7 @@
       "text": "Thank you, Madam Temporary Speaker. I can see the Senate Leader of Minority is happy and this means that we are doing well. I know Sen. Olekina has been having a lot of issues saying that he is in Government, but I emphasize that he is in the opposition. So, he should be careful on other issues of national importance. I rise to thank and support Sen. Kasanga. I am happy because therehas been an issue to do with foreign contractors. Last week, we were discussing so many issues concerning the racism that workers of African descent in the SGR face, and so I agree that we must protect them. We should adopt \"Brand Kenya\" because we are outsourcing mega projects and the complaints that we are receiving from SGR is that they do not have technological transfer. So, how can they build the capacity of our local contractors if all the serious government and private projects are outsourced? So, as a country, we are headed for capital flight. The other day, I was watching a documentary on Al Jazeera and they were showing the former spokesperson of Economic Community of West African States (ECOWAS), a consultant from China and a consultant form the United Kingdom (UK). I realized that Africa is headed to \"modern day slavery\" because of over- reliance on heavy borrowing. The person from Senegal was saying that Senegal has borrowed heavily from China and other big tigers from the east. They have borrowed over 80 trillion. That is why we have the President of China touring Africa. As Africans, we do not like anything with strings attached and the aid that we have been getting from the western countries has strings attached. They want to look at our human rights records, issue index, democracy, the gender rights, equality rights, communal rights, marginal rights and others. It was sad watching that documentary because it seems in Africa, we have totally outsourced all serious projects at the expense of developing our countries. Besides, the people who finance most of the key projects in Africa are people who do not care about human rights. In fact, the other day it surfaced that even our business people who go to China and Japan are subjected to racial discrimination. Madam Temporary Speaker, I agree with Sen. Mutula Kilonzo Jnr., that \"Brand Kenya\" must take its rightful place. The reason the sugar industry is being destroyed in this country is because of such unethical conduct. The reason why anything that is made in Kenya is being destroyed is because of the public perception that anything foreign is better or superior. This is the reason why we have a problem of foreign contractors. I agree that we have cowboy contractors in this country, but they are genuine. They are tenderpreneurs. It is not an offence in this country to get 10 per cent commission, even as lawyers in our practice we get commission. However, it should not be a precursor to make sure corruption spirals out of control. I can dare all of us today that the phones we use, the clothes we wear and the pens we use most likely are all imported because we suffer from inferiority complex - plain and simple. This is the reason why if I bring a contractor from Kakamega County where Sen. Malalah comes from, you will not trust that person, even if he is a mason or a carpenter with over 50 years experience. However, if you get a Chinese who is a prisoner and who lacks the basic carpentry skills, you will trust him more because of the colour of the skin. Therefore, we are not being racially discriminated because other people are bad, but because we have low self-esteem. Madam Temporary Speaker, Sir, as the Chairman of the Justice, Legal Affairs and Human Rights Committee and as a Member of the Committee on Labour and Social Welfare, we have received many petitions. County governments have over Kshs100 billion of pending bills for contractors. Interestingly, some of the contractors are foreigners, although the object and spirit of devolution was to ensure that we devolve resources to ensure development across our villages. This is sad because I have seen foreign contractors who have been given jobs. I applaud Sen. Kasanga for this Motion because most of the foreign contractors are not involved in corporate responsibility. A foreign contractor would come with fellow foreigners who are employed as junior staff to hold the green lights as the vehicles pass. It is very sad for this country."
     },
     {
-      "order": 296,
+      "order": 298,
       "id": "entry-816044",
       "label": "scene",
       "level": "3",
@@ -3555,7 +3579,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 297,
+      "order": 299,
       "id": "entry-816045",
       "label": "speech",
       "level": "3",
@@ -3567,7 +3591,7 @@
       "text": "Sen. Olekina, I have serious issues with the handshake in this country and I ask for protection from Madam Temporary Speaker. The issue I am talking about should be taken with the seriousness that it deserves, the same way the Mau Forest issue is taken seriously. So, you need to hold your horses. When I submit, you get a lot of information that will enrich your engagement in this House Madam Temporary Speaker, we have the NCA Act, procurement laws and Anti- corruption laws. We must revisit these laws because the NCA has failed us and, therefore, we should relook at how we approve contractors. The people who we send to be our foreign envoys in China, Japan and the Asian Tigers, must be vetted properly. In addition, we must relook at the issue of approving foreign contractors which has been left with the envoys abroad. This is why when the foreign contractors are sent to the country, they always have approval. We must rectify this. We must have standards as a country. If you are coming as a foreign contractor, you must sign a serious agreement. If you are coming in as a foreign contractor, you must sign serious agreements, which include provision of Corporate Social Responsibility (CSR), adhering to labour laws, ensuring that you follow procurement laws and many others. Madam Temporary Speaker, we want to enrich this discussion respectfully because of my colleagues who have serious \"Solomonic\" wisdom. I support this Motion and we will do whatever is possible to ensure that we build Kenya for Kenyans. Let us do everything to show that we support Kenya for Kenyans; including \"Brand Kenya\". That is the way to go so that we do not have to rely heavily on foreign things or foreign contractors. I beg to support. Thank you."
     },
     {
-      "order": 298,
+      "order": 300,
       "id": "entry-816046",
       "label": "speech",
       "level": "3",
@@ -3579,7 +3603,7 @@
       "text": "Thank you, Madam Temporary Speaker. First, I stand to support Sen. Kasanga because she was putting on in an organized manner, unlike the last time when she appeared in this House. I, therefore, beg to support her fully because she was smartly dressed."
     },
     {
-      "order": 299,
+      "order": 301,
       "id": "entry-816049",
       "label": "scene",
       "level": "3",
@@ -3591,7 +3615,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 300,
+      "order": 302,
       "id": "entry-816050",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3627,7 @@
       "text": "Above all, I support her because of the content of her Motion, which seeks to protect the local contractors. Madam Temporary Speaker, I would like to take a different approach when doing my submission on this matter. Article 96 of our Constitution clearly states the core role of the Senate, which is to represent counties and the interest of their governments. Our attention should, therefore, be to contribute on this Motion while focussing on counties because we are the defenders of our counties. Therefore, as we contribute to this Motion, I would like us to draw our attention to counties and have the definition of who is a local contractor from a county perspective and set up. Madam Temporary Speaker, the issue of foreign contractors being favoured in the award of contracts at the national level has been devolved down to the counties. You will find that counties like Kakamega, Bungoma, Busia and Vihiga receive a lot of money from the national Government. However, half or three quarters of that money goes to contractors who do not reside within those counties. Madam Temporary Speaker, Article 174(d) of the Constitution is very clear that one of the objects of the devolved government are-- \"to recognize the right of communities to manage their own affairs and to further their development\" It is important to note that devolution was meant to help local communities in the counties. It is, therefore, absurd for Kakamega County to receive Kshs10 billion and award Kshs5 billion worth of contracts to people who do not reside within Kakamega. Madam Temporary Speaker, my definition of who is a local in a county setup is any person who resides and votes in that county. You might be a Kikuyu or a Maasai but you reside in Kakamega County and, as such, we shall consider you as locals. We are not tribalizing counties, but we are saying that we must enhance the spirit of devolution. Our Constitution envisaged a situation where a lot of resources were clustered at the national level, and that is why we fought for the new Constitution so that monies can be devolved downwards. It is sad that local contractors in counties are not being given attention. Governors have decided to make friendship with friends outside the counties so that they can get their 10 percent; truth be told. I want to support Sen. Mutula Kilonzo Jnr., who said that they do not believe in their locals because they know that when you ask for 10 percent from a local, that local contractor will discuss you in the nearest bar. Therefore, it is comfortable for them to contract foreign contractors outside their counties. Madam Temporary Speaker, in 2005 when I was a Member of the County Assembly representing Mahiakalo Ward in Kakamega, I came up with a Bill called Kakamega County Equity and Equalization Bill. That Bill envisioned that 70 percent of the resources of Kakamega County be it employment or contracts must be retained in our\n\ncounty. This in essence means that for us to achieve economic stimulus and to grow our economy in Kakamega, the money devolved to Kakamega must circulate in Kakamega. For example, if you give a contract worth Kshs200 million to the brother to Sen. Olekina, it means the profit that will be earned from the contract will be taken to Narok. That money will build houses in Narok. That money will employ the people of Narok. That money will enhance and grow the economy of Narok and not Kakamega County. Madam Temporary Speaker, in the interest of time, because my brother Sen. Olekina wants to contribute, I would want to go to my valedictory remarks. It is incumbent upon county governments to build capacity and confidence in their local contractors. This is what I propose: First, we must encourage the culture of paying local contractors on time. Most of the local contractors do not have the financial muscle to have their money being held in the county coffers for more than six months. We have seen situations whereby somebody did a road in 2014 but he has not been paid to date. I would introduce a formula called FIFO - First-In, First-Out. The first person to be given a contract should be the first person to be paid. Secondly, the county government should partner with financial institutions like banks to advance local contractors and build capacity of local contractors so that they can undertake projects within the counties. Thirdly, county governments should organize capacity building workshops in partnership with MCAs to build capacity with the local contractors. Lastly, we need transparency to the extent that it is bad for one contractor to be given 10 contracts in a year and another contractor being given one or none in a year. That is my humble submission and I stand here to support Sen. Kasanga on this noble cause. We want this matter to be legislated and inscribed in legislation that will cushion our local contractors so that we can stimulate our economy. Thank you."
     },
     {
-      "order": 301,
+      "order": 303,
       "id": "entry-816053",
       "label": "speech",
       "level": "3",
@@ -3615,7 +3639,7 @@
       "text": "Madam Temporary Speaker, I note that I only have a few seconds, but I will try and tackle a few issues. Thank you for giving me this opportunity. I rise to support the Motion by Sen. Kasanga. It is very important that we look at the whole Act in terms of management of the contractors in this country. My approach is very different. We have to amend this Act. The Act is very clear. We have to change the Act so that we create certain classes of jobs to ensure that we do not lock out local contractors. Madam Temporary Speaker, it is imperative that we have an audit of all international contractors. This issue of international contractors is just an issue where we politicians and the elite, team up to find a way to make quick money for nothing. There is something the Chinese call a \"finder's fee\". There is the Exim Bank. I commend the President of this country for stopping any new projects. People used to make money using these projects in such a way that they would become brokers for the Chinese because they know the Chinese have a lot of money. They would form some briefcase companies---"
     },
     {
-      "order": 302,
+      "order": 304,
       "id": "entry-816054",
       "label": "speech",
       "level": "3",
@@ -3627,7 +3651,7 @@
       "text": "Sen. Olekina, you have a balance of 13 minutes when debate resumes."
     },
     {
-      "order": 303,
+      "order": 305,
       "id": "entry-816055-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -3639,7 +3663,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 304,
+      "order": 306,
       "id": "entry-816055",
       "label": "speech",
       "level": "1",

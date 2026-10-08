@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-06-09-14-30-00",
-  "exported_at": "2026-10-05T08:06:55.938Z",
+  "exported_at": "2026-10-08T21:35:54.111Z",
   "entries": [
     {
       "order": 1,
@@ -1012,7 +1012,7 @@
     },
     {
       "order": 85,
-      "id": "entry-998774",
+      "id": "entry-998774-split-before-b80c2e84-92b9-4540-ad10-365510fec396",
       "label": "speech",
       "level": "3",
       "cutout": false,
@@ -1020,10 +1020,34 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Hon. Senators, you will proceed to vote by roll call. As you did last time, you will vote on the three Bills. ( Voting in progress ) Okay. Clerk, can you call those who may have delayed to come in so that we just countercheck."
+      "text": "Hon. Senators, you will proceed to vote by roll call. As you did last time, you will vote on the three Bills."
     },
     {
       "order": 86,
+      "id": "entry-998774-split-selected-f52cda4f-da7b-4426-a9b7-42ec757cd345",
+      "label": "scene",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Voting in progress )"
+    },
+    {
+      "order": 87,
+      "id": "entry-998774-split-after-e0949aa1-7180-4c04-954a-2109b9b710e8",
+      "label": "speech",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Hon. Lusaka",
+      "speaker_title": "(The Speaker)",
+      "reviewed": true,
+      "text": "Okay. Clerk, can you call those who may have delayed to come in so that we just countercheck."
+    },
+    {
+      "order": 88,
       "id": "entry-998776",
       "label": "heading",
       "level": "1",
@@ -1035,7 +1059,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 87,
+      "order": 89,
       "id": "entry-998778",
       "label": "heading",
       "level": "3",
@@ -1047,7 +1071,7 @@
       "text": "THE INDEPENDENT ELECTORAL AND BOUNDARIES COMMISSION (AMENDMENT) (NO. 3) BILL (NATIONAL ASSEMBLY BILLS NO. 35 OF 2019)"
     },
     {
-      "order": 88,
+      "order": 90,
       "id": "entry-998779",
       "label": "scene",
       "level": "3",
@@ -1059,7 +1083,7 @@
       "text": "(Sen. Murkomen on 19.2.2020)"
     },
     {
-      "order": 89,
+      "order": 91,
       "id": "entry-998780",
       "label": "scene",
       "level": "3",
@@ -1071,7 +1095,7 @@
       "text": "(Resumption of Debate interrupted on 2002.2020)"
     },
     {
-      "order": 90,
+      "order": 92,
       "id": "entry-998781",
       "label": "heading",
       "level": "3",
@@ -1083,7 +1107,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 91,
+      "order": 93,
       "id": "entry-998783",
       "label": "scene",
       "level": "3",
@@ -1095,7 +1119,7 @@
       "text": "(Question, that the Independent Electoral and Boundaries Commission (Amendment) (No. 3) Bill (National Assembly Bills No. 35 of 2019) be read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 92,
+      "order": 94,
       "id": "entry-998784",
       "label": "other",
       "level": "3",
@@ -1107,7 +1131,7 @@
       "text": "AYES:"
     },
     {
-      "order": 93,
+      "order": 95,
       "id": "entry-998785",
       "label": "other",
       "level": "3",
@@ -1119,7 +1143,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Dr.) Kabaka, Machokos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Ochillo-Ayacko, Migori County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi County; Sen. Seneta, Kajiado County Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County; and Sen. Wario, Tana River County."
     },
     {
-      "order": 94,
+      "order": 96,
       "id": "entry-998786",
       "label": "other",
       "level": "3",
@@ -1131,7 +1155,7 @@
       "text": "NOES:"
     },
     {
-      "order": 95,
+      "order": 97,
       "id": "entry-998787",
       "label": "speech",
       "level": "3",
@@ -1143,7 +1167,7 @@
       "text": "Nil"
     },
     {
-      "order": 96,
+      "order": 98,
       "id": "entry-998788",
       "label": "scene",
       "level": "3",
@@ -1155,7 +1179,7 @@
       "text": "(The Clerk at the Table tallied the results and transmitted them to the Speaker)"
     },
     {
-      "order": 97,
+      "order": 99,
       "id": "entry-998790",
       "label": "speech",
       "level": "3",
@@ -1167,7 +1191,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:\n\nAYES:\n\n30\n\nNOES\n\n: 0\n\nABSENTIONS"
     },
     {
-      "order": 98,
+      "order": 100,
       "id": "entry-998796",
       "label": "speech",
       "level": "3",
@@ -1179,7 +1203,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 99,
+      "order": 101,
       "id": "entry-998797",
       "label": "scene",
       "level": "3",
@@ -1191,7 +1215,7 @@
       "text": "(Question carried by 30 votes to nil)"
     },
     {
-      "order": 100,
+      "order": 102,
       "id": "entry-998798",
       "label": "scene",
       "level": "3",
@@ -1203,7 +1227,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 101,
+      "order": 103,
       "id": "entry-998799",
       "label": "heading",
       "level": "1",
@@ -1215,7 +1239,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 102,
+      "order": 104,
       "id": "entry-998800",
       "label": "heading",
       "level": "3",
@@ -1227,7 +1251,7 @@
       "text": "THE LIFESTYLE AUDIT (NO. 2) BILL (SENATE BILLS NO. 21 OF 2019)"
     },
     {
-      "order": 103,
+      "order": 105,
       "id": "entry-998801",
       "label": "scene",
       "level": "3",
@@ -1239,7 +1263,7 @@
       "text": "(Sen. Farhiya on 5.3.2020)"
     },
     {
-      "order": 104,
+      "order": 106,
       "id": "entry-998802",
       "label": "scene",
       "level": "3",
@@ -1251,7 +1275,7 @@
       "text": "(Resumption of debate interrupted on 11.3.2020)"
     },
     {
-      "order": 105,
+      "order": 107,
       "id": "entry-998803",
       "label": "heading",
       "level": "3",
@@ -1263,7 +1287,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 106,
+      "order": 108,
       "id": "entry-998805",
       "label": "scene",
       "level": "3",
@@ -1275,7 +1299,7 @@
       "text": "(Question, that the Lifestyle Audit (No. 2) Bill (Senate Bills No. 21 of 2019) be read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 107,
+      "order": 109,
       "id": "entry-998806",
       "label": "other",
       "level": "3",
@@ -1287,7 +1311,7 @@
       "text": "AYES:"
     },
     {
-      "order": 108,
+      "order": 110,
       "id": "entry-998807",
       "label": "other",
       "level": "3",
@@ -1299,7 +1323,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Dr.) Kabaka, Machokos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Ochillo-Ayacko, Migori County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi County; Sen. Seneta, Kajiado County Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County; and Sen. Wario, Tana River County."
     },
     {
-      "order": 109,
+      "order": 111,
       "id": "entry-998808",
       "label": "other",
       "level": "3",
@@ -1311,7 +1335,7 @@
       "text": "NOES:"
     },
     {
-      "order": 110,
+      "order": 112,
       "id": "entry-998809",
       "label": "speech",
       "level": "3",
@@ -1323,7 +1347,7 @@
       "text": "Nil"
     },
     {
-      "order": 111,
+      "order": 113,
       "id": "entry-998810",
       "label": "scene",
       "level": "3",
@@ -1335,7 +1359,7 @@
       "text": "(The Clerk at the Table tallied the results and transmitted them to the Speaker)"
     },
     {
-      "order": 112,
+      "order": 114,
       "id": "entry-998812",
       "label": "speech",
       "level": "3",
@@ -1347,7 +1371,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:\n\nAYES:\n\n30\n\nNOES\n\n: 0\n\nABSENTIONS"
     },
     {
-      "order": 113,
+      "order": 115,
       "id": "entry-998818",
       "label": "speech",
       "level": "3",
@@ -1359,7 +1383,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 114,
+      "order": 116,
       "id": "entry-998819",
       "label": "scene",
       "level": "3",
@@ -1371,7 +1395,7 @@
       "text": "(Question carried by 30 votes to nil)"
     },
     {
-      "order": 115,
+      "order": 117,
       "id": "entry-998820",
       "label": "scene",
       "level": "3",
@@ -1383,7 +1407,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 116,
+      "order": 118,
       "id": "entry-998821",
       "label": "heading",
       "level": "1",
@@ -1395,7 +1419,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 117,
+      "order": 119,
       "id": "entry-998822",
       "label": "heading",
       "level": "3",
@@ -1407,7 +1431,7 @@
       "text": "THE REPRODUCTIVE HEALTHCARE BILL (SENATE BILLS NO. 23 OF 2019)"
     },
     {
-      "order": 118,
+      "order": 120,
       "id": "entry-998823",
       "label": "scene",
       "level": "3",
@@ -1419,7 +1443,7 @@
       "text": "(Sen. Kihika on 2.6.2020)"
     },
     {
-      "order": 119,
+      "order": 121,
       "id": "entry-998824",
       "label": "scene",
       "level": "3",
@@ -1431,7 +1455,7 @@
       "text": "(Resumption of debate interrupted 2.6.2020)"
     },
     {
-      "order": 120,
+      "order": 122,
       "id": "entry-998825",
       "label": "heading",
       "level": "3",
@@ -1443,7 +1467,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 121,
+      "order": 123,
       "id": "entry-998827",
       "label": "scene",
       "level": "3",
@@ -1455,7 +1479,7 @@
       "text": "(Question, that the Reproductive Healthcare Bill (Senate Bills No. 23 of 2019) be read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 122,
+      "order": 124,
       "id": "entry-998828",
       "label": "other",
       "level": "3",
@@ -1467,7 +1491,7 @@
       "text": "AYES:"
     },
     {
-      "order": 123,
+      "order": 125,
       "id": "entry-998829",
       "label": "other",
       "level": "3",
@@ -1479,7 +1503,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Dr.) Kabaka, Machokos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Ochillo-Ayacko, Migori County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi County; Sen. Seneta, Kajiado County Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County; and Sen. Wario, Tana River County."
     },
     {
-      "order": 124,
+      "order": 126,
       "id": "entry-998830",
       "label": "other",
       "level": "3",
@@ -1491,7 +1515,7 @@
       "text": "NOES:"
     },
     {
-      "order": 125,
+      "order": 127,
       "id": "entry-998831",
       "label": "speech",
       "level": "3",
@@ -1503,7 +1527,7 @@
       "text": "Nil"
     },
     {
-      "order": 126,
+      "order": 128,
       "id": "entry-998833",
       "label": "scene",
       "level": "3",
@@ -1515,7 +1539,7 @@
       "text": "(The Clerk at the Table tallied the results and transmitted them to the Speaker)"
     },
     {
-      "order": 127,
+      "order": 129,
       "id": "entry-998834",
       "label": "speech",
       "level": "3",
@@ -1527,7 +1551,7 @@
       "text": "Hon. Senators, the results of the Division are as follows -\n\nAYES:\n\n30\n\nNOES\n\n: 0\n\nABSENTIONS"
     },
     {
-      "order": 128,
+      "order": 130,
       "id": "entry-998840",
       "label": "speech",
       "level": "3",
@@ -1539,7 +1563,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 129,
+      "order": 131,
       "id": "entry-998841",
       "label": "scene",
       "level": "3",
@@ -1551,7 +1575,7 @@
       "text": "(Question carried by 30 votes to nil)"
     },
     {
-      "order": 130,
+      "order": 132,
       "id": "entry-998842",
       "label": "scene",
       "level": "3",
@@ -1563,7 +1587,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 131,
+      "order": 133,
       "id": "entry-998843",
       "label": "speech",
       "level": "3",
@@ -1575,7 +1599,7 @@
       "text": "Hon. Senators, we are now done with Order Nos. 8, 9, and 10. Let us proceed to Order Nos. 11, 12 and 13."
     },
     {
-      "order": 132,
+      "order": 134,
       "id": "entry-998844",
       "label": "scene",
       "level": "3",
@@ -1587,7 +1611,7 @@
       "text": "[The Speaker (Hon. Lusaka) left the Chair]"
     },
     {
-      "order": 133,
+      "order": 135,
       "id": "entry-998845",
       "label": "heading",
       "level": "1",
@@ -1599,7 +1623,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 134,
+      "order": 136,
       "id": "entry-998846",
       "label": "scene",
       "level": "1",
@@ -1611,7 +1635,7 @@
       "text": "(Order for the Committee read)"
     },
     {
-      "order": 135,
+      "order": 137,
       "id": "entry-998847",
       "label": "heading",
       "level": "2",
@@ -1623,7 +1647,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 136,
+      "order": 138,
       "id": "entry-998848",
       "label": "scene",
       "level": "2",
@@ -1635,7 +1659,7 @@
       "text": "[The Temporary Chairperson (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 137,
+      "order": 139,
       "id": "entry-998849",
       "label": "heading",
       "level": "3",
@@ -1647,7 +1671,7 @@
       "text": "THE PANDEMIC RESPONSE AND MANAGEMENT BILL (SENATE BILLS NO.6 OF 2020)"
     },
     {
-      "order": 138,
+      "order": 140,
       "id": "entry-998850",
       "label": "speech",
       "level": "3",
@@ -1659,7 +1683,7 @@
       "text": "Hon. Senators, we are in the Committee of the Whole to consider The Pandemic Response and Management Bill (Senate Bills No.6 of 2020)."
     },
     {
-      "order": 139,
+      "order": 141,
       "id": "entry-998851",
       "label": "heading",
       "level": "5",
@@ -1671,7 +1695,7 @@
       "text": "Clause 3"
     },
     {
-      "order": 140,
+      "order": 142,
       "id": "entry-998852",
       "label": "speech",
       "level": "5",
@@ -1683,7 +1707,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: - THAT the Bill be amended by deleting Clause 3."
     },
     {
-      "order": 141,
+      "order": 143,
       "id": "entry-998853",
       "label": "scene",
       "level": "5",
@@ -1695,7 +1719,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 142,
+      "order": 144,
       "id": "entry-998854",
       "label": "speech",
       "level": "5",
@@ -1707,7 +1731,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 143,
+      "order": 145,
       "id": "entry-998856-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1719,7 +1743,7 @@
       "text": "Clauses 4-8"
     },
     {
-      "order": 144,
+      "order": 146,
       "id": "entry-998856-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1731,7 +1755,7 @@
       "text": "(Question that Clauses 4-8 be part of the Bill proposed)"
     },
     {
-      "order": 145,
+      "order": 147,
       "id": "entry-998857",
       "label": "speech",
       "level": "5",
@@ -1743,7 +1767,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 146,
+      "order": 148,
       "id": "entry-998858",
       "label": "heading",
       "level": "5",
@@ -1755,7 +1779,7 @@
       "text": "Clause 9"
     },
     {
-      "order": 147,
+      "order": 149,
       "id": "entry-998859",
       "label": "speech",
       "level": "5",
@@ -1767,7 +1791,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT, Clause 9 of the Bill be amended by inserting the following new paragraphs immediately after paragraph (j)-- (k) assess the country's capacity to deal with the pandemic; (l) develop and publicize an appropriate national plan to manage the pandemic; (m) develop an appropriate post pandemic recovery framework for all sectors affected by the pandemic; (n) develop a community engagement strategy to manage the pandemic; and, (o) provide up-to-date information to the public on the pandemic and the steps the Committee has taken to manage the pandemic and mitigate against its impact."
     },
     {
-      "order": 148,
+      "order": 150,
       "id": "entry-998860",
       "label": "scene",
       "level": "5",
@@ -1779,7 +1803,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 149,
+      "order": 151,
       "id": "entry-998861",
       "label": "speech",
       "level": "5",
@@ -1791,7 +1815,7 @@
       "text": "There is a second amendment by Sen. Farhiya."
     },
     {
-      "order": 150,
+      "order": 152,
       "id": "entry-998862",
       "label": "speech",
       "level": "5",
@@ -1803,7 +1827,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT Clause 9 of the Bill be amended by inserting the following new paragraph immediately after paragraph (j) - (k) make recommendations it may consider necessary to the relevant ministry to mitigate the impact of future pandemics"
     },
     {
-      "order": 151,
+      "order": 153,
       "id": "entry-998863",
       "label": "scene",
       "level": "5",
@@ -1815,7 +1839,7 @@
       "text": "(Question of the further amendment proposed)"
     },
     {
-      "order": 152,
+      "order": 154,
       "id": "entry-998864",
       "label": "speech",
       "level": "5",
@@ -1827,7 +1851,7 @@
       "text": "Madam Temporary Chairperson, I had a point on that one."
     },
     {
-      "order": 153,
+      "order": 155,
       "id": "entry-998865",
       "label": "speech",
       "level": "5",
@@ -1839,7 +1863,7 @@
       "text": "Sen. Sakaja, did you have something on Clause 9?"
     },
     {
-      "order": 154,
+      "order": 156,
       "id": "entry-998866",
       "label": "speech",
       "level": "5",
@@ -1851,7 +1875,7 @@
       "text": "Yes, Madam Temporary Chairperson. Before you put the question, I just want to state for the record that the Committee has no objection to Sen. Farhiya's amendment to Clause 9. It is just an addition of one of the sub-clauses."
     },
     {
-      "order": 155,
+      "order": 157,
       "id": "entry-998867",
       "label": "speech",
       "level": "5",
@@ -1863,7 +1887,7 @@
       "text": "That is okay. The Division will be at the end."
     },
     {
-      "order": 156,
+      "order": 158,
       "id": "entry-998868",
       "label": "heading",
       "level": "5",
@@ -1875,7 +1899,7 @@
       "text": "Clauses 10-12"
     },
     {
-      "order": 157,
+      "order": 159,
       "id": "entry-998870",
       "label": "scene",
       "level": "5",
@@ -1887,7 +1911,7 @@
       "text": "(Question, that Clauses 10-12 be part of the Bill proposed)"
     },
     {
-      "order": 158,
+      "order": 160,
       "id": "entry-998871",
       "label": "speech",
       "level": "5",
@@ -1899,7 +1923,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 159,
+      "order": 161,
       "id": "entry-998872",
       "label": "heading",
       "level": "5",
@@ -1911,7 +1935,7 @@
       "text": "Clause 13"
     },
     {
-      "order": 160,
+      "order": 162,
       "id": "entry-998873",
       "label": "speech",
       "level": "5",
@@ -1923,7 +1947,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT, Clause 13 of the Bill be amended in sub-clause (1) by (a) deleting the word \"bi-weekly status reports providing\" appearing immediately after the words \"submit to Parliament\" and substituting therefor the words \"once in every two weeks a status report providing information on\"; and (b) Inserting the following new subparagraph immediately after subparagraph (iii) in paragraph (a) - (iv) Resource mobilization and expenditure on the pandemic; The essence of these amendments is to make sure that twice a month; there are reports to Parliament by the national Government during a pandemic as well as reports on expenditure and resource mobilization. Our aim is to have accountability and transparency during the time of a pandemic."
     },
     {
-      "order": 161,
+      "order": 163,
       "id": "entry-998875",
       "label": "scene",
       "level": "5",
@@ -1935,7 +1959,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 162,
+      "order": 164,
       "id": "entry-998876",
       "label": "speech",
       "level": "5",
@@ -1947,7 +1971,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 163,
+      "order": 165,
       "id": "entry-998877-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1959,7 +1983,7 @@
       "text": "Clauses 14-18"
     },
     {
-      "order": 164,
+      "order": 166,
       "id": "entry-998877-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1971,7 +1995,7 @@
       "text": "(Question that Clauses 14-18 be part of the Bill proposed)"
     },
     {
-      "order": 165,
+      "order": 167,
       "id": "entry-998878",
       "label": "heading",
       "level": "5",
@@ -1983,7 +2007,7 @@
       "text": "Clause 19"
     },
     {
-      "order": 166,
+      "order": 168,
       "id": "entry-998879",
       "label": "speech",
       "level": "5",
@@ -1995,7 +2019,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT the Bill be amended by deleting Clause 19."
     },
     {
-      "order": 167,
+      "order": 169,
       "id": "entry-998880",
       "label": "speech",
       "level": "5",
@@ -2007,7 +2031,7 @@
       "text": "Sen. Sakaja, I did not hear you confirm that it is a deletion."
     },
     {
-      "order": 168,
+      "order": 170,
       "id": "entry-998881",
       "label": "speech",
       "level": "5",
@@ -2019,7 +2043,7 @@
       "text": "It is a deletion. It affects Clauses 19 to 24. We will go step by step although I think that we could have done all of them. It is the same arrangement."
     },
     {
-      "order": 169,
+      "order": 171,
       "id": "entry-998882",
       "label": "scene",
       "level": "5",
@@ -2031,7 +2055,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 170,
+      "order": 172,
       "id": "entry-998883",
       "label": "speech",
       "level": "5",
@@ -2043,7 +2067,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 171,
+      "order": 173,
       "id": "entry-998884",
       "label": "heading",
       "level": "5",
@@ -2055,7 +2079,7 @@
       "text": "Clause 20"
     },
     {
-      "order": 172,
+      "order": 174,
       "id": "entry-998886",
       "label": "speech",
       "level": "5",
@@ -2067,7 +2091,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT the Bill be amended by deleting Clause 20."
     },
     {
-      "order": 173,
+      "order": 175,
       "id": "entry-998887",
       "label": "speech",
       "level": "5",
@@ -2079,7 +2103,7 @@
       "text": "I have an amendment to Clause 20."
     },
     {
-      "order": 174,
+      "order": 176,
       "id": "entry-998888",
       "label": "speech",
       "level": "5",
@@ -2091,7 +2115,7 @@
       "text": "Sen. Sakaja and the rest of the Senators, Sen. Mugo and Sen. Farhiya had proposed amendments on Clause 20. However, if Sen Sakaja is deleting the Clause, then there will be no need for the proposed amendments by them."
     },
     {
-      "order": 175,
+      "order": 177,
       "id": "entry-998889",
       "label": "speech",
       "level": "5",
@@ -2103,7 +2127,7 @@
       "text": "That is true, Madam Temporary Chairperson. The deletion of those clauses really takes into account many of the concerns that Sen. Farhiya and Sen. Mugo raised. Therefore, I persuade them to accept the Committee's amendment."
     },
     {
-      "order": 176,
+      "order": 178,
       "id": "entry-998890",
       "label": "speech",
       "level": "5",
@@ -2115,7 +2139,7 @@
       "text": "In effect, are you proposing that the deletion will address her concerns?"
     },
     {
-      "order": 177,
+      "order": 179,
       "id": "entry-998891",
       "label": "speech",
       "level": "5",
@@ -2127,7 +2151,7 @@
       "text": "Madam Temporary Chairperson, mine is an additional amendment to the clause. I am seeking support for Small to Medium Enterprises (SMEs) that have been negatively affected by the pandemic. This is an important amendment that the Committee needs to consider."
     },
     {
-      "order": 178,
+      "order": 180,
       "id": "entry-998892",
       "label": "speech",
       "level": "5",
@@ -2139,7 +2163,7 @@
       "text": "Sen. Farhiya, to address your concerns, the Committee has decided that they are going to delete the entire Clause 20. Therefore, there will be nothing for you to amend. If Clause 20 was to be retained, then we would amend it. But now, the Committee is proposing that it be deleted as a whole. There will be nothing for you to amend."
     },
     {
-      "order": 179,
+      "order": 181,
       "id": "entry-998893",
       "label": "speech",
       "level": "5",
@@ -2151,7 +2175,7 @@
       "text": "Can I say something?"
     },
     {
-      "order": 180,
+      "order": 182,
       "id": "entry-998894",
       "label": "speech",
       "level": "5",
@@ -2163,7 +2187,7 @@
       "text": "Yes. Proceed, Sen. Farhiya."
     },
     {
-      "order": 181,
+      "order": 183,
       "id": "entry-998895",
       "label": "speech",
       "level": "5",
@@ -2175,7 +2199,7 @@
       "text": "Madam Temporary Chairperson, that fact needs to be addressed somewhere because our SMEs are really suffering as result of this pandemic. If it is going to appear in another clause, that is fine with me. However, I think that for it to be completely deleted is not fair to the SMEs, because majority of our companies are small."
     },
     {
-      "order": 182,
+      "order": 184,
       "id": "entry-998896",
       "label": "speech",
       "level": "5",
@@ -2187,7 +2211,7 @@
       "text": "Sen. Sakaja, how did the Committee address the issues being raised and what did it address by deleting the whole provision?"
     },
     {
-      "order": 183,
+      "order": 185,
       "id": "entry-998897",
       "label": "speech",
       "level": "5",
@@ -2199,7 +2223,7 @@
       "text": "Madam Temporary Chairperson, we have addressed those issues elsewhere. There are new clauses that we have proposed. Maybe for the comfort of Sen. Farhiya, if we take Sen. Mugo's amendment which goes into even further details, we will be comfortable with that. The only issue is that Sen. Mugo had wanted Sen. Halake to pursue amendments, but she is not here. So, by the leave of the House, another Senator can move those amendments on her behalf. It will be in order even if it is Sen. Farhiya."
     },
     {
-      "order": 184,
+      "order": 186,
       "id": "entry-998898",
       "label": "speech",
       "level": "5",
@@ -2211,7 +2235,7 @@
       "text": "You are now withdrawing your proposal to delete Clause 20, so that they can move the amendments."
     },
     {
-      "order": 185,
+      "order": 187,
       "id": "entry-998899",
       "label": "speech",
       "level": "5",
@@ -2223,7 +2247,7 @@
       "text": "Yes, I can propose that for comfort. We provided for it elsewhere, but in the abundance of caution since Sen. Farhiya is really keen on that. We have provided for SMEs and other businesses. However, if we were to take one of the amendments, we will take Sen. Mugo's amendments which covers what Sen. Farhiya is talking about. I withdraw the deletion and move that we accept Sen. Mugo's amendments."
     },
     {
-      "order": 186,
+      "order": 188,
       "id": "entry-998900",
       "label": "speech",
       "level": "5",
@@ -2235,7 +2259,7 @@
       "text": "There is some confusion there Sen. Sakaja. If you can assure us, probably by pointing out where it has been addressed, then we do not need to do a duplicate of the same. To me, it will be repetitive for you to say you will retain Clause 20, yet the same issue is being addressed elsewhere."
     },
     {
-      "order": 187,
+      "order": 189,
       "id": "entry-998901",
       "label": "speech",
       "level": "5",
@@ -2247,7 +2271,7 @@
       "text": "Madam Temporary Chairperson, for more clarity on that, the proposal to remove is because of the money aspect. This is with consultation with the National Assembly that these provisions will be brought in there, so that we do not have the back and forth of whether it is a Money Bill or not. Those are the provisions that create the fund. What we have said in our new clause is that the Cabinet Secretary (CS) in accordance with the Public Finance Management (PFM) regulations, shall set up a fund. The details of that fund will be put in the annexures. I insist that we go with my Committee's original amendments. I hope Sen. Farhiya has understood."
     },
     {
-      "order": 188,
+      "order": 190,
       "id": "entry-998902",
       "label": "speech",
       "level": "5",
@@ -2259,7 +2283,7 @@
       "text": "I think we do"
     },
     {
-      "order": 189,
+      "order": 191,
       "id": "entry-998903",
       "label": "speech",
       "level": "5",
@@ -2271,7 +2295,7 @@
       "text": "want the Bill to be thrown away in the pretext of Money Bill. I agree with him."
     },
     {
-      "order": 190,
+      "order": 192,
       "id": "entry-998904",
       "label": "speech",
       "level": "5",
@@ -2283,7 +2307,7 @@
       "text": "So, we take the position of deleting it by the Committee."
     },
     {
-      "order": 191,
+      "order": 193,
       "id": "entry-998905",
       "label": "scene",
       "level": "5",
@@ -2295,7 +2319,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 192,
+      "order": 194,
       "id": "entry-998906",
       "label": "speech",
       "level": "5",
@@ -2307,7 +2331,7 @@
       "text": "Division will be at the end. That leaves us with the position that Sen. Farhiya's and Sen. Mugo's amendments have been withdrawn because the clause has been deleted."
     },
     {
-      "order": 193,
+      "order": 195,
       "id": "entry-998907",
       "label": "heading",
       "level": "5",
@@ -2319,7 +2343,7 @@
       "text": "Clauses 21-24"
     },
     {
-      "order": 194,
+      "order": 196,
       "id": "entry-998908",
       "label": "speech",
       "level": "5",
@@ -2331,7 +2355,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT the Bill be amended by deleting Clauses 21 to 24"
     },
     {
-      "order": 195,
+      "order": 197,
       "id": "entry-998910",
       "label": "scene",
       "level": "5",
@@ -2343,7 +2367,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 196,
+      "order": 198,
       "id": "entry-998911",
       "label": "speech",
       "level": "5",
@@ -2355,7 +2379,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 197,
+      "order": 199,
       "id": "entry-998912",
       "label": "heading",
       "level": "5",
@@ -2367,7 +2391,7 @@
       "text": "Clause 25"
     },
     {
-      "order": 198,
+      "order": 200,
       "id": "entry-998913-split-before-3e5ac98b-eddb-432d-a69c-a4d40d9a7e8b",
       "label": "speech",
       "level": "5",
@@ -2379,7 +2403,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT Clause 25 of the Bill be amended -"
     },
     {
-      "order": 199,
+      "order": 201,
       "id": "entry-998913-split-selected-b613b3e0-2c86-4cfb-a9a6-56e2f26ad2c6",
       "label": "scene",
       "level": "5",
@@ -2391,7 +2415,7 @@
       "text": "(a) by renumbering the existing Clause as subclause (1);"
     },
     {
-      "order": 200,
+      "order": 202,
       "id": "entry-998913-split-after-3fc8fa22-26c5-4e5c-bad0-6c3e8ae4afe8",
       "label": "speech",
       "level": "5",
@@ -2403,7 +2427,7 @@
       "text": "(b) in the new subclause (1) by deleting the word \"may\" appearing immediately after the words \"relating to finance\" and substituting therefore the word \"shall\"; so that it is mandatory for the CS to prescribe those provisions and (c) by inserting the following new subclause-- (2) The Cabinet Secretary for matters relating to finance may, for purposes of subsection (1) prescribe measures restricting the Kenya Revenue Authority (KRA) from the enforcement of tax obligations during a pandemic. We have left it as \"may\" so that the CS can use a discretion at that point because KRA is still part of the national Government."
     },
     {
-      "order": 201,
+      "order": 203,
       "id": "entry-998916",
       "label": "scene",
       "level": "5",
@@ -2415,7 +2439,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 202,
+      "order": 204,
       "id": "entry-998917",
       "label": "speech",
       "level": "5",
@@ -2427,7 +2451,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 203,
+      "order": 205,
       "id": "entry-998918",
       "label": "heading",
       "level": "5",
@@ -2439,7 +2463,7 @@
       "text": "Clauses 26"
     },
     {
-      "order": 204,
+      "order": 206,
       "id": "entry-998919",
       "label": "speech",
       "level": "5",
@@ -2451,7 +2475,7 @@
       "text": "Madam Temporary Chairperson, before I move, it allow me to explain to a bit to the Senators how we arrived this clause. This clause is the one that looks at loans and mortgages. We came up with it after extensive consultation with the Kenya Bankers Association (KBA), Central Bank of Kenya (CBK) and many other players. This is the best way to put it. I beg to move - THAT Bill be amended by deleting Clause 26 and substituting it with a new clause- Loans and mortgages . 26 . (1) Where a pandemic has a negative impact on the capacity of a borrower to meet his or her contractual obligations entered into prior to the declaration of a pandemic, the following measures shall apply during the pandemic up to two months after the end of the pandemic - (a) the borrower may give notice of default in writing to the respective lending financial institution specifying the reason for default to be as a result of the pandemic; (b) the borrower and the lending financial institution may enter into an agreement for the extension of the timelines for repayment; (c) where the borrower and the lending financial institution fail to agree on the timeline for extension of the repayment, the lending financial institution shall determine a reasonable timeline for repayment; (a) the borrower shall not be listed by a credit reference bureau on account of a default; and (b) the statutory notice of realization of a security given shall not be issued. (2) The Cabinet Secretary responsible for matters relating to finance shall- (a)in consultation with financial institutions, develop a criterion for debt review; and (b) with the approval of Parliament, implement measures to cushion lenders and borrowers."
     },
     {
-      "order": 205,
+      "order": 207,
       "id": "entry-998921",
       "label": "scene",
       "level": "5",
@@ -2463,7 +2487,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 206,
+      "order": 208,
       "id": "entry-998922",
       "label": "speech",
       "level": "5",
@@ -2475,7 +2499,7 @@
       "text": "There is a second amendment by Sen. Mugo. The same to be moved by Sen. Farhiya. Clause 26"
     },
     {
-      "order": 207,
+      "order": 209,
       "id": "entry-998923",
       "label": "speech",
       "level": "5",
@@ -2487,7 +2511,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT, Clause 26 of the Bill be amended by inserting the following new- clause immediately after sub-clause (2)- (2A) Where, despite the implementation of the measures specified under subsection (1), a borrower is unable to meet the contractual obligations at the expiry of the two months period owing to the impact of the pandemic on that borrower- (a) the borrower and the lending financial institution shall review and may extend the terms of the arrangement entered into under subsection (1)(a) for further period as shall be necessary as to enable the borrower meet the contractual obligations; and (b) the provisions of subsection (1) shall continue to apply for the duration of the arrangement entered into under paragraph (a)."
     },
     {
-      "order": 208,
+      "order": 210,
       "id": "entry-998924",
       "label": "scene",
       "level": "5",
@@ -2499,7 +2523,7 @@
       "text": "(Question of the further amendment proposed)"
     },
     {
-      "order": 209,
+      "order": 211,
       "id": "entry-998925",
       "label": "speech",
       "level": "5",
@@ -2511,7 +2535,7 @@
       "text": "Madam Temporary Chairperson, the concerns of Sen. Mugo are taken into account by the Committee's amendments, which I have spelt out. This is because she is also asking for some period of time and agreement between both the lender and the borrower. That is what we have provided for as a Committee. I want to persuade Sen. Farhiya to drop that amendment."
     },
     {
-      "order": 210,
+      "order": 212,
       "id": "entry-998926",
       "label": "speech",
       "level": "5",
@@ -2523,7 +2547,7 @@
       "text": "In that case, if it has been taken care of, then the amendment should be dropped. Sen. Farhiya, kindly, proceed."
     },
     {
-      "order": 211,
+      "order": 213,
       "id": "entry-998927",
       "label": "speech",
       "level": "5",
@@ -2535,7 +2559,7 @@
       "text": "If Sen. Mugo's concerns have been addressed, then I think we should go by the Committee amendment. I withdraw the proposed amendment."
     },
     {
-      "order": 212,
+      "order": 214,
       "id": "entry-998928",
       "label": "scene",
       "level": "5",
@@ -2547,7 +2571,7 @@
       "text": "(Proposed further amendment to Clause 26 withdrawn)"
     },
     {
-      "order": 213,
+      "order": 215,
       "id": "entry-998929",
       "label": "speech",
       "level": "5",
@@ -2559,7 +2583,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 214,
+      "order": 216,
       "id": "entry-998930",
       "label": "heading",
       "level": "5",
@@ -2571,7 +2595,7 @@
       "text": "Clause 27"
     },
     {
-      "order": 215,
+      "order": 217,
       "id": "entry-998931-split-before-d11cbfe4-f49f-4889-a698-4ac562cb6fb7",
       "label": "speech",
       "level": "5",
@@ -2583,7 +2607,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT clause 27 of the Bill be amended- (a) by renumbering the existing clause as subclause (1); (b) in the new subclause (1) by inserting the words \"entered into prior to the declaration of a pandemic\" immediately after the words \"of obligations\";"
     },
     {
-      "order": 216,
+      "order": 218,
       "id": "entry-998931-split-selected-c2eff571-546b-412e-91e9-43f316c7da53",
       "label": "scene",
       "level": "5",
@@ -2595,7 +2619,7 @@
       "text": "(c) by inserting the following new subclauses immediately"
     },
     {
-      "order": 217,
+      "order": 219,
       "id": "entry-998931-split-after-3e7222f5-2b96-4a1e-b61d-66791b57f7d9-split-before-485b419f-0903-4d63-8050-4e20bb6acb1a",
       "label": "speech",
       "level": "5",
@@ -2607,7 +2631,7 @@
       "text": "after the new subclause (1)- (2) The Cabinet Secretary responsible for matters relating to finance shall- (a) in consultation with the association representing the largest number of lending institutions, prescribe an eligibility criterion for a moratorium under subsection (1); and"
     },
     {
-      "order": 218,
+      "order": 220,
       "id": "entry-998931-split-after-3e7222f5-2b96-4a1e-b61d-66791b57f7d9-split-selected-87d92943-0cee-431c-bc99-175413dc3d2f",
       "label": "scene",
       "level": "5",
@@ -2619,7 +2643,7 @@
       "text": "(b) prescribe the criteria to be applied by a"
     },
     {
-      "order": 219,
+      "order": 221,
       "id": "entry-998931-split-after-3e7222f5-2b96-4a1e-b61d-66791b57f7d9-split-after-748db40e-70ed-438c-81ac-dd1eb862c302-split-before-037ba575-0db5-4e9f-9d5e-05e337f94b06",
       "label": "speech",
       "level": "5",
@@ -2631,7 +2655,7 @@
       "text": "lending financial institution in determining the period for which the moratorium will apply with respect to its borrowers."
     },
     {
-      "order": 220,
+      "order": 222,
       "id": "entry-998931-split-after-3e7222f5-2b96-4a1e-b61d-66791b57f7d9-split-after-748db40e-70ed-438c-81ac-dd1eb862c302-split-selected-de86f1c9-f46f-4995-94c8-37b364e571a6",
       "label": "scene",
       "level": "5",
@@ -2643,7 +2667,7 @@
       "text": "(3) A statutory agency shall not charge fees, interest or"
     },
     {
-      "order": 221,
+      "order": 223,
       "id": "entry-998931-split-after-3e7222f5-2b96-4a1e-b61d-66791b57f7d9-split-after-748db40e-70ed-438c-81ac-dd1eb862c302-split-after-2ba5bc2e-f109-4862-910c-96163dfa517f",
       "label": "speech",
       "level": "5",
@@ -2655,7 +2679,7 @@
       "text": "penalties for late payment or failure by a person to meet their obligations under a contract during the pandemic period . This is after extensive consultation with more than 160 stakeholders. I thank you."
     },
     {
-      "order": 222,
+      "order": 224,
       "id": "entry-998933",
       "label": "scene",
       "level": "5",
@@ -2667,7 +2691,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 223,
+      "order": 225,
       "id": "entry-998934",
       "label": "speech",
       "level": "5",
@@ -2679,7 +2703,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 224,
+      "order": 226,
       "id": "entry-998935",
       "label": "heading",
       "level": "5",
@@ -2691,7 +2715,7 @@
       "text": "Clause 28"
     },
     {
-      "order": 225,
+      "order": 227,
       "id": "entry-998936",
       "label": "speech",
       "level": "5",
@@ -2703,7 +2727,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT the Bill be amended by deleting clause 28 and substituting therefor the following new clause- 28. Where a contract was entered into before the declaration of a pandemic and the pandemic affects the performance of a contractual obligation- (a) the defaulting party may give notice of default in writing to the other party citing the reason for the default to be as a result of the pandemic; and (b) the parties to a contract may enter into an arrangement to review the terms of the contract and to extend the timelines for the defaulting party to meet the contractual obligations. Madam Temporary Chairperson, at the end of the day, both parties must agree. We cannot determine on behalf of two individual contracting parties. This one also covers the issues of Clause 29 which we seek to delete after this."
     },
     {
-      "order": 226,
+      "order": 228,
       "id": "entry-998938",
       "label": "scene",
       "level": "5",
@@ -2715,7 +2739,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 227,
+      "order": 229,
       "id": "entry-998940",
       "label": "speech",
       "level": "5",
@@ -2727,7 +2751,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 228,
+      "order": 230,
       "id": "entry-998941",
       "label": "heading",
       "level": "5",
@@ -2739,7 +2763,7 @@
       "text": "Clause 29"
     },
     {
-      "order": 229,
+      "order": 231,
       "id": "entry-998942",
       "label": "speech",
       "level": "5",
@@ -2751,7 +2775,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT the Bill be amended by deleting clause 29. I seek to propose that we delete Clause 29. Clause 29 was a very controversial one. We felt that if we have Clause 28 as it is, where the contracting party is able to agree, then there is no need to prescribe it for tenancy agreements. That is the amendment on Clause 29."
     },
     {
-      "order": 230,
+      "order": 232,
       "id": "entry-998943",
       "label": "speech",
       "level": "5",
@@ -2763,7 +2787,7 @@
       "text": "I also note that there was to be a second amendment by Sen. Kang'ata which is similar to what you have agreed. It is also important that for Sen. Farhiya's concern, there was to be another amendment by Sen. Mugo which was to be moved by you, which was for amendment to delete. So, it has been addressed."
     },
     {
-      "order": 231,
+      "order": 233,
       "id": "entry-998944",
       "label": "scene",
       "level": "5",
@@ -2775,7 +2799,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 232,
+      "order": 234,
       "id": "entry-998945",
       "label": "scene",
       "level": "5",
@@ -2787,7 +2811,7 @@
       "text": "(Proposed amendment by Sen. Kang'ata dropped)"
     },
     {
-      "order": 233,
+      "order": 235,
       "id": "entry-998946",
       "label": "scene",
       "level": "5",
@@ -2799,7 +2823,7 @@
       "text": "(Proposed amendment by Sen. Mugo dropped)"
     },
     {
-      "order": 234,
+      "order": 236,
       "id": "entry-998947",
       "label": "speech",
       "level": "5",
@@ -2811,7 +2835,7 @@
       "text": "Sen. Farhiya, do you want to do something?"
     },
     {
-      "order": 235,
+      "order": 237,
       "id": "entry-998948",
       "label": "speech",
       "level": "5",
@@ -2823,7 +2847,7 @@
       "text": "Madam Temporary Chairperson, Sen. Mugo probably thought about these issues and we are dropping all her amendments because she is not here. I am requesting the Chairperson, Sen Sakaja, to update us so that she understands. She is not here to know the reasons."
     },
     {
-      "order": 236,
+      "order": 238,
       "id": "entry-998949",
       "label": "speech",
       "level": "5",
@@ -2835,7 +2859,7 @@
       "text": "It is important to note that her amendment was to delete and the same has been proposed by the Committee."
     },
     {
-      "order": 237,
+      "order": 239,
       "id": "entry-998950",
       "label": "speech",
       "level": "5",
@@ -2847,7 +2871,7 @@
       "text": "Thank you, Madam Temporary Chairperson. Sen. Mugo's amendment was deleting one of the clauses and substituting it. The substitution was to say that if a tenant who is vulnerable or belongs to a vulnerable household owing to the impact of the pandemic is unable to meet the obligations because of the pandemic, then they give notice. There is a requirement for proof of inability to meet the obligations and review the terms of agreement for the duration. Madam Temporary Chairperson, the biggest concern - we went on and on about it in the Committee - many Senators and other stakeholders said that any provision that touches on the aspect of contractual obligations on its own has the potential of creating uncertainty and anarchy. When the newspapers reported the first time about our Bill, of course, it was sensational, some people stopped paying rent. We felt it wiser to have all contractual obligations dealt with in Clause 28 and removed. The statement of Sen. Mugo who wrote to us representing many of the landlords who are also represented in this House by themselves, is that we should cushion both the landlord and the tenant. That is what we provided for in the issue of loans and mortgages, we are cushioning landlords there. In the issues of contractual obligations as well as social support, we are cushioning the tenant. We insist that we drop this clause for now. We will cover them in those other two provisions within the Bill."
     },
     {
-      "order": 238,
+      "order": 240,
       "id": "entry-998952",
       "label": "speech",
       "level": "5",
@@ -2859,7 +2883,7 @@
       "text": "Sen. Farhiya, I hope you are satisfied on behalf of Sen. Mugo."
     },
     {
-      "order": 239,
+      "order": 241,
       "id": "entry-998953",
       "label": "speech",
       "level": "5",
@@ -2871,7 +2895,7 @@
       "text": "Thank you, Madam Temporary Chairperson. Yes, I am satisfied."
     },
     {
-      "order": 240,
+      "order": 242,
       "id": "entry-998954",
       "label": "speech",
       "level": "5",
@@ -2883,7 +2907,7 @@
       "text": "Division at the end."
     },
     {
-      "order": 241,
+      "order": 243,
       "id": "entry-998955",
       "label": "heading",
       "level": "5",
@@ -2895,7 +2919,7 @@
       "text": "Clause 30"
     },
     {
-      "order": 242,
+      "order": 244,
       "id": "entry-998956",
       "label": "speech",
       "level": "5",
@@ -2907,7 +2931,7 @@
       "text": "Amendments by Sen. Kang'ata."
     },
     {
-      "order": 243,
+      "order": 245,
       "id": "entry-998957",
       "label": "speech",
       "level": "5",
@@ -2919,7 +2943,7 @@
       "text": "Thank you, Madam Temporary Chairperson. I think my concerns have been taken into account by the Committee and, therefore, I drop the proposed amendments."
     },
     {
-      "order": 244,
+      "order": 246,
       "id": "entry-998958",
       "label": "scene",
       "level": "5",
@@ -2931,7 +2955,7 @@
       "text": "(Proposed amendment by Sen. Kang'ata dropped)"
     },
     {
-      "order": 245,
+      "order": 247,
       "id": "entry-998959",
       "label": "speech",
       "level": "5",
@@ -2943,7 +2967,7 @@
       "text": "Sen. Sakaja, I guess that is okay."
     },
     {
-      "order": 246,
+      "order": 248,
       "id": "entry-998960",
       "label": "speech",
       "level": "5",
@@ -2955,7 +2979,7 @@
       "text": "That is very good. This is our new Whip, and he is very magnanimous. I would also like the other sponsors of Clause 30 amendments to drop them. This is because the amendment which I am about to move takes care of the concerns that they had. This is on employment contracts during a pandemic."
     },
     {
-      "order": 247,
+      "order": 249,
       "id": "entry-998961",
       "label": "speech",
       "level": "5",
@@ -2967,7 +2991,7 @@
       "text": "I see we have another amendment by the Chairperson."
     },
     {
-      "order": 248,
+      "order": 250,
       "id": "entry-998962",
       "label": "speech",
       "level": "5",
@@ -2979,7 +3003,7 @@
       "text": "Madam Temporary Chairperson, you have proposed Sen. Kang'ata's and he has withdrawn it. The only one remaining is Sen. Mugo's, which I want to persuade Sen. Farhiya to withdraw as well, then I can move mine on Clause 30."
     },
     {
-      "order": 249,
+      "order": 251,
       "id": "entry-998963",
       "label": "speech",
       "level": "5",
@@ -2991,7 +3015,7 @@
       "text": "There was an amendment by Sen. Mugo. There is an amendment by Sen. Farhiya. Can we have the Chairperson first make the amendments?"
     },
     {
-      "order": 250,
+      "order": 252,
       "id": "entry-998964",
       "label": "speech",
       "level": "5",
@@ -3003,7 +3027,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by deleting clause 30 and substituting therefor the following new clause-- Labour relations 30. (1) The Cabinet Secretary responsible for matters relating to labour shall, with the approval of Parliament, develop measures to cushion employers and employees during the pandemic. (2) The measures taken by an employer who is adversely affected by a pandemic with respect to an employee, shall not contravene the existing employment and labour relations laws. As I said earlier, in our consultations, we have met with the Federation of Kenya Employers (FKE) and Central Organization of Trade Unions (COTU) on top of the other stakeholders. This is what we agreed on labour relations; that the Cabinet Secretary responsible for matters relating to labour, shall with approval of Parliament develop measures to cushion employers and employees during a pandemic. Secondly, that the measures taken by an employer who is adversely affected by a pandemic with respect to an employee, shall not contravene the existing employment and labour relations laws. In the Labour Relations Act and the Employment Act, there are a lot of provisions already that in normal operations of the law, include notice and an agreement between the employer and employee in case they need to review salaries et cetera through their unions or where there are no unions, directly. What we had proposed earlier was that, an employer shall not force an employee to take a salary cut and to send them on an unpaid leave. Many people are not able to do that if you look at our restaurants and the tourism sector. This is because money does not exist. Many employees are saying that they would rather halve, if they used to be paid Kshs.100,000 and the employer says they can do KShs.50,000, half of the salary instead of them being fired. Therefore, we want to leave the leeway and give them space to be able to agree through this. However, to remember that we have other laws, and that is why we are taking up as a Committee the issue of Fairmont Hotel. There are other laws that exist currently that cushion employers and employees. That is the import of the amendment by our Committee."
     },
     {
-      "order": 251,
+      "order": 253,
       "id": "entry-998966",
       "label": "scene",
       "level": "5",
@@ -3015,7 +3039,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 252,
+      "order": 254,
       "id": "entry-998967",
       "label": "speech",
       "level": "5",
@@ -3027,7 +3051,7 @@
       "text": "Division will be at the end. We have Sen. Mugo's amendments and Sen. Farhiya's amendments. I wonder if you still want to make them in view of what Sen. Sakaja has just done."
     },
     {
-      "order": 253,
+      "order": 255,
       "id": "entry-998968",
       "label": "speech",
       "level": "5",
@@ -3039,7 +3063,7 @@
       "text": "Madam Temporary Chairperson, I withdraw my amendments. I will also persuade Sen. Mugo to withdraw hers because what Sen. Sakaja has, addresses her concerns."
     },
     {
-      "order": 254,
+      "order": 256,
       "id": "entry-998969",
       "label": "speech",
       "level": "5",
@@ -3051,7 +3075,7 @@
       "text": "Sen. Farhiya, now that you have been standing in for Sen. Mugo, we do not need to wait for her to get persuaded. You will move on her behalf."
     },
     {
-      "order": 255,
+      "order": 257,
       "id": "entry-998970",
       "label": "speech",
       "level": "5",
@@ -3063,7 +3087,7 @@
       "text": "I am moving that we go with the Committee's amendments. This is because a person is better off with half pay than without pay."
     },
     {
-      "order": 256,
+      "order": 258,
       "id": "entry-998971",
       "label": "scene",
       "level": "5",
@@ -3075,7 +3099,7 @@
       "text": "(Proposed amendment by Sen. Mugo withdrawn)"
     },
     {
-      "order": 257,
+      "order": 259,
       "id": "entry-998972",
       "label": "scene",
       "level": "5",
@@ -3087,7 +3111,7 @@
       "text": "(Proposed amendment by Sen. Farhiya withdrawn)"
     },
     {
-      "order": 258,
+      "order": 260,
       "id": "entry-998973",
       "label": "speech",
       "level": "5",
@@ -3099,7 +3123,7 @@
       "text": "Those are dropped, and we move to the next."
     },
     {
-      "order": 259,
+      "order": 261,
       "id": "entry-998974",
       "label": "heading",
       "level": "5",
@@ -3111,7 +3135,7 @@
       "text": "Clause 31"
     },
     {
-      "order": 260,
+      "order": 262,
       "id": "entry-998975",
       "label": "scene",
       "level": "5",
@@ -3123,7 +3147,7 @@
       "text": "(Question that Clause 31 be part of the Bill proposed)"
     },
     {
-      "order": 261,
+      "order": 263,
       "id": "entry-998976",
       "label": "speech",
       "level": "5",
@@ -3135,7 +3159,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 262,
+      "order": 264,
       "id": "entry-998977",
       "label": "heading",
       "level": "5",
@@ -3147,7 +3171,7 @@
       "text": "Clause 32"
     },
     {
-      "order": 263,
+      "order": 265,
       "id": "entry-998978",
       "label": "speech",
       "level": "5",
@@ -3159,7 +3183,7 @@
       "text": "Madam Temporary Chairperson, the import of this amendment is that when we talk about the Cabinet Secretary providing regulations as well as measures for cushioning, we are just changing the word \"may\" to \"shall\" so that it is mandatory that such provisions are made. This amendment is similar to Sen. Farhiya's. She is also changing \"may\" to \"shall\" so that we see she has passed some. I withdraw mine and let her move hers since it is the same. I withdraw the Committee amendment."
     },
     {
-      "order": 264,
+      "order": 266,
       "id": "entry-998980",
       "label": "scene",
       "level": "5",
@@ -3171,7 +3195,7 @@
       "text": "(Proposed amendment withdrawn)"
     },
     {
-      "order": 265,
+      "order": 267,
       "id": "entry-998981",
       "label": "scene",
       "level": "5",
@@ -3183,7 +3207,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 266,
+      "order": 268,
       "id": "entry-998982",
       "label": "speech",
       "level": "5",
@@ -3195,7 +3219,7 @@
       "text": "That is being gender sensitive."
     },
     {
-      "order": 267,
+      "order": 269,
       "id": "entry-998983",
       "label": "speech",
       "level": "5",
@@ -3207,7 +3231,7 @@
       "text": "Madam Temporary Chairperson, it is just in true nature of the Senator for Nairobi City County."
     },
     {
-      "order": 268,
+      "order": 270,
       "id": "entry-998984",
       "label": "speech",
       "level": "5",
@@ -3219,7 +3243,7 @@
       "text": "Okay. Sen. Farhiya, proceed."
     },
     {
-      "order": 269,
+      "order": 271,
       "id": "entry-998985",
       "label": "heading",
       "level": "5",
@@ -3231,7 +3255,7 @@
       "text": "Clause 32"
     },
     {
-      "order": 270,
+      "order": 272,
       "id": "entry-998986",
       "label": "speech",
       "level": "5",
@@ -3243,7 +3267,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT, Clause 32 of the Bill be amended in the introductory clause by deleting the word \"may\" appearing immediately after the words \"government agencies\" and substituting therefor the word \"shall\"."
     },
     {
-      "order": 271,
+      "order": 273,
       "id": "entry-998987",
       "label": "scene",
       "level": "5",
@@ -3255,7 +3279,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 272,
+      "order": 274,
       "id": "entry-998988",
       "label": "speech",
       "level": "5",
@@ -3267,7 +3291,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 273,
+      "order": 275,
       "id": "entry-998989",
       "label": "heading",
       "level": "5",
@@ -3279,7 +3303,7 @@
       "text": "Clause 33"
     },
     {
-      "order": 274,
+      "order": 276,
       "id": "entry-998990-split-before-4608ff55-8ee6-4184-bc05-268c336cdb74",
       "label": "speech",
       "level": "5",
@@ -3291,7 +3315,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT, Clause 33 of the Bill be amended--"
     },
     {
-      "order": 275,
+      "order": 277,
       "id": "entry-998990-split-selected-68aa624d-f17a-4ea6-b135-a47e595d9e04",
       "label": "scene",
       "level": "5",
@@ -3303,7 +3327,7 @@
       "text": "(a) by renumbering the existing clause as sub clause (1);"
     },
     {
-      "order": 276,
+      "order": 278,
       "id": "entry-998990-split-after-c00ba7a5-affd-4b38-b8d8-04250dbce31c",
       "label": "speech",
       "level": "5",
@@ -3315,7 +3339,7 @@
       "text": "(b) in the new sub-clause (1) by- (i) inserting the words \"during a pandemic\" immediately after the words \"other law where\" in the introductory clause; (ii) inserting the words \"subject to subsection (2)\" immediately after the words \"such business may\" in paragraph (a); (iii) deleting paragraph (b) and substituting therefore the following new paragraph- (b) the Speakers of Parliament shall, with the approval of the respective House, make guidelines on the conduct of plenary and committee sittings remotely; (iv) deleting paragraph (c) and substituting therefore the following new paragraph- (c) the Speaker of each county assembly shall, with the approval of the respective county assembly, make guidelines on the conduct of plenary and committee sittings remotely; (c) by inserting the following clauses immediately after the new sub- clause (1)-- (2) The holding of a meeting under sub-section (1)(a) shall be subject to the existing laws on the conduct of meetings and the validity of resolutions. (3) The Cabinet Secretary for matters relating to information, communications and technology shall make regulations for the protection of data and information transmitted during meetings held remotely. Madam Temporary Chairperson, for instance, if the Senate decides to do virtual meetings, then the existing law, for example, for quorum or how the meeting is called must still be adhered to. This is just for ease. We have seen a lot of success in meetings being held virtually. Our Committees are meeting virtually but you still have to have your quorum as usual. We have now done 64 meetings of the Ad Hoc Committee on the Coronavirus (COVID-19) pandemic. For private and public sector where statutory timelines are required for meetings to be held, existing regulations hold but then they can be done with these provisions. I move that the Clause be amended as stated."
     },
     {
-      "order": 277,
+      "order": 279,
       "id": "entry-998992",
       "label": "scene",
       "level": "5",
@@ -3327,7 +3351,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 278,
+      "order": 280,
       "id": "entry-998993",
       "label": "speech",
       "level": "5",
@@ -3339,7 +3363,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 279,
+      "order": 281,
       "id": "entry-998994",
       "label": "heading",
       "level": "5",
@@ -3351,7 +3375,7 @@
       "text": "Clause 34"
     },
     {
-      "order": 280,
+      "order": 282,
       "id": "entry-998995",
       "label": "scene",
       "level": "5",
@@ -3363,7 +3387,7 @@
       "text": "(Question that Clause 34 be part of the Bill proposed)"
     },
     {
-      "order": 281,
+      "order": 283,
       "id": "entry-998996",
       "label": "speech",
       "level": "5",
@@ -3375,7 +3399,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 282,
+      "order": 284,
       "id": "entry-998998",
       "label": "heading",
       "level": "5",
@@ -3387,7 +3411,7 @@
       "text": "Clause 35"
     },
     {
-      "order": 283,
+      "order": 285,
       "id": "entry-998999",
       "label": "speech",
       "level": "5",
@@ -3399,7 +3423,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT, Clause 35 of the Bill be amended in sub-clause (1) by deleting the word \"person's\" appearing immediately after the words \"discharge of the\" in paragraph (a) and substituting therefor the word \"officer's\". This is because here, we are talking about public officers and not just persons."
     },
     {
-      "order": 284,
+      "order": 286,
       "id": "entry-999000",
       "label": "scene",
       "level": "5",
@@ -3411,7 +3435,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 285,
+      "order": 287,
       "id": "entry-999001",
       "label": "speech",
       "level": "5",
@@ -3423,7 +3447,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 286,
+      "order": 288,
       "id": "entry-999002",
       "label": "heading",
       "level": "5",
@@ -3435,7 +3459,7 @@
       "text": "Clause 36"
     },
     {
-      "order": 287,
+      "order": 289,
       "id": "entry-999003",
       "label": "speech",
       "level": "5",
@@ -3447,7 +3471,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT, Clause 36 of the Bill be amended in paragraph (a) by deleting the words \"from a public office\" appearing immediately after the words \"or other benefit\" and substituting therefor the words \"under this Act\". The import of this amendment is to talk about public officers. This is just cleaning it up and nothing more."
     },
     {
-      "order": 288,
+      "order": 290,
       "id": "entry-999004",
       "label": "scene",
       "level": "5",
@@ -3459,7 +3483,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 289,
+      "order": 291,
       "id": "entry-999005",
       "label": "speech",
       "level": "5",
@@ -3471,7 +3495,7 @@
       "text": "Division will be at the end. Sen. Were, proceed."
     },
     {
-      "order": 290,
+      "order": 292,
       "id": "entry-999006",
       "label": "speech",
       "level": "5",
@@ -3483,7 +3507,7 @@
       "text": "Madam Temporary Chairperson, we have the amendments in the Order Paper. The Chairperson should just say: \"As in the Order Paper\" so that we keep time. We have other Bills that have amendments that we need to pass this afternoon. He does not need to explain the amendments because we have the amendments."
     },
     {
-      "order": 291,
+      "order": 293,
       "id": "entry-999007",
       "label": "speech",
       "level": "5",
@@ -3495,7 +3519,7 @@
       "text": "Is that the feeling of the House that we proceed straight?"
     },
     {
-      "order": 292,
+      "order": 294,
       "id": "entry-999008",
       "label": "speech",
       "level": "5",
@@ -3507,7 +3531,7 @@
       "text": "Yes."
     },
     {
-      "order": 293,
+      "order": 295,
       "id": "entry-999009",
       "label": "speech",
       "level": "5",
@@ -3519,7 +3543,7 @@
       "text": "Okay. Sen. Sakaja, you have noted the concerns. Let us be short as we already have the amendments in the Order Paper."
     },
     {
-      "order": 294,
+      "order": 296,
       "id": "entry-999010",
       "label": "heading",
       "level": "5",
@@ -3531,7 +3555,7 @@
       "text": "Clause 37"
     },
     {
-      "order": 295,
+      "order": 297,
       "id": "entry-999011-split-before-0240a879-87c9-4e43-827f-c57fbfae8f2b",
       "label": "speech",
       "level": "5",
@@ -3543,7 +3567,7 @@
       "text": "Madam Temporary Chairperson, Sen. Farhiya is trying to convince me that her amendment to Clause 37 is similar to ours. I beg to move - THAT clause 37 of the Bill be amended by--"
     },
     {
-      "order": 296,
+      "order": 298,
       "id": "entry-999011-split-selected-c5a0d772-265d-4795-b3ac-dbc700077c43",
       "label": "scene",
       "level": "5",
@@ -3555,7 +3579,7 @@
       "text": "(a) renumbering the existing provision as sub-clause (1); and"
     },
     {
-      "order": 297,
+      "order": 299,
       "id": "entry-999011-split-after-126869f5-a09b-485a-8243-cfc604b84673",
       "label": "speech",
       "level": "5",
@@ -3567,7 +3591,7 @@
       "text": "(b) inserting the following new sub-clause immediately after the new sub- clause (1)-- (2) Despite any penalty that may be imposed under subsection (1), a person who is found guilty of an offence under subsection (1) is liable to pay three times the value of the misappropriated money or goods. Madam Temporary Chairperson, this is about penalties. I will be brief but I have to explain the import to Members very briefly."
     },
     {
-      "order": 298,
+      "order": 300,
       "id": "entry-999013",
       "label": "speech",
       "level": "5",
@@ -3579,7 +3603,7 @@
       "text": "Sen. Farhiya, do you have an amendment to this Clause?"
     },
     {
-      "order": 299,
+      "order": 301,
       "id": "entry-999014",
       "label": "speech",
       "level": "5",
@@ -3591,7 +3615,7 @@
       "text": "Yes, Madam Temporary Chairperson."
     },
     {
-      "order": 300,
+      "order": 302,
       "id": "entry-999015",
       "label": "speech",
       "level": "5",
@@ -3603,7 +3627,7 @@
       "text": "If it is the same with what the Committee has proposed, then you need to guide us on what you want to move."
     },
     {
-      "order": 301,
+      "order": 303,
       "id": "entry-999016",
       "label": "speech",
       "level": "5",
@@ -3615,7 +3639,7 @@
       "text": "Madam Temporary Chairperson, I want to persuade Sen. Sakaja to allow me move mine for the second time since they are the same. I think when we say Kshs10 million and you have taken Kshs100 million, that is peanuts compared to what you have taken. I propose that anybody who steals from Government must pay three times what they stole."
     },
     {
-      "order": 302,
+      "order": 304,
       "id": "entry-999017",
       "label": "speech",
       "level": "5",
@@ -3627,7 +3651,7 @@
       "text": "Very good!"
     },
     {
-      "order": 303,
+      "order": 305,
       "id": "entry-999018",
       "label": "speech",
       "level": "5",
@@ -3639,7 +3663,7 @@
       "text": "Sen. Sakaja, is her amendment any different from your amendments?"
     },
     {
-      "order": 304,
+      "order": 306,
       "id": "entry-999019",
       "label": "speech",
       "level": "5",
@@ -3651,7 +3675,7 @@
       "text": "Madam Temporary Chairperson, I am trying to look at her amendment. Of course, we have also provided for the three times. I am trying to see where it is different."
     },
     {
-      "order": 305,
+      "order": 307,
       "id": "entry-999020",
       "label": "scene",
       "level": "5",
@@ -3663,7 +3687,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 306,
+      "order": 308,
       "id": "entry-999021",
       "label": "speech",
       "level": "5",
@@ -3675,7 +3699,7 @@
       "text": "Sen. Sakaja, can we hear from you?"
     },
     {
-      "order": 307,
+      "order": 309,
       "id": "entry-999022",
       "label": "speech",
       "level": "5",
@@ -3687,7 +3711,7 @@
       "text": "Yes, Madam Temporary Speaker. I want to persuade Sen. Farhiya otherwise on the amendment on Clause 37 because she has only amended the part for three times. We have done that too but we have also amended other parts of Clause 37. If you look at both amendments, there is a difference."
     },
     {
-      "order": 308,
+      "order": 310,
       "id": "entry-999023",
       "label": "scene",
       "level": "5",
@@ -3699,7 +3723,7 @@
       "text": "(Sen. Farhiya spoke off record)"
     },
     {
-      "order": 309,
+      "order": 311,
       "id": "entry-999024",
       "label": "speech",
       "level": "5",
@@ -3711,7 +3735,7 @@
       "text": "No, Madam Temporary Chairperson. I insist. Sen. Farhiya, it is not just about moving amendments, it is doing something more than moving. What you want of three times is already provided for but I am amending other parts as well in that Clause 37."
     },
     {
-      "order": 310,
+      "order": 312,
       "id": "entry-999025",
       "label": "speech",
       "level": "5",
@@ -3723,7 +3747,7 @@
       "text": "Is three times in the Committee's proposed amendments?"
     },
     {
-      "order": 311,
+      "order": 313,
       "id": "entry-999026",
       "label": "speech",
       "level": "5",
@@ -3735,7 +3759,7 @@
       "text": "Madam Temporary Chairperson, three times is in the Committee's proposed amendments and that is the only one we are doing. So, her amendment is part of my amendment."
     },
     {
-      "order": 312,
+      "order": 314,
       "id": "entry-999027",
       "label": "speech",
       "level": "5",
@@ -3747,7 +3771,7 @@
       "text": "Sen. Farhiya, if your amendments are part of the amendments of the Committee, then let us carry the Committee's amendments because it has more amendments than just what you have proposed."
     },
     {
-      "order": 313,
+      "order": 315,
       "id": "entry-999028",
       "label": "speech",
       "level": "5",
@@ -3759,7 +3783,7 @@
       "text": "Okay, Madam Temporary Chairperson. I am persuaded but let me just add something. Is there no provision for someone to move a part and someone else moves the rest of the part unless there is a contradiction in between?"
     },
     {
-      "order": 314,
+      "order": 316,
       "id": "entry-999029",
       "label": "speech",
       "level": "5",
@@ -3771,7 +3795,7 @@
       "text": "Sen. Farhiya, you will be entitled to move your amendments but if it has been taken care of, then we will be repeating ourselves."
     },
     {
-      "order": 315,
+      "order": 317,
       "id": "entry-999030",
       "label": "speech",
       "level": "5",
@@ -3783,7 +3807,7 @@
       "text": "Okay, Madam Temporary Chairperson."
     },
     {
-      "order": 316,
+      "order": 318,
       "id": "entry-999031",
       "label": "speech",
       "level": "5",
@@ -3795,7 +3819,7 @@
       "text": "Sen. Sakaja, can you proceed."
     },
     {
-      "order": 317,
+      "order": 319,
       "id": "entry-999032",
       "label": "speech",
       "level": "5",
@@ -3807,7 +3831,7 @@
       "text": "Madam Temporary Chairperson, I already proposed the amendment as per the Order Paper."
     },
     {
-      "order": 318,
+      "order": 320,
       "id": "entry-999033",
       "label": "speech",
       "level": "5",
@@ -3819,7 +3843,7 @@
       "text": "Okay."
     },
     {
-      "order": 319,
+      "order": 321,
       "id": "entry-999034",
       "label": "scene",
       "level": "5",
@@ -3831,7 +3855,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 320,
+      "order": 322,
       "id": "entry-999035",
       "label": "speech",
       "level": "5",
@@ -3843,7 +3867,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 321,
+      "order": 323,
       "id": "entry-999036",
       "label": "heading",
       "level": "5",
@@ -3855,7 +3879,7 @@
       "text": "Clause 38"
     },
     {
-      "order": 322,
+      "order": 324,
       "id": "entry-999037",
       "label": "scene",
       "level": "5",
@@ -3867,7 +3891,7 @@
       "text": "(Question that Clause 38 be part of the Bill proposed)"
     },
     {
-      "order": 323,
+      "order": 325,
       "id": "entry-999038",
       "label": "speech",
       "level": "5",
@@ -3879,7 +3903,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 324,
+      "order": 326,
       "id": "entry-999039",
       "label": "heading",
       "level": "5",
@@ -3891,7 +3915,7 @@
       "text": "Clause 39"
     },
     {
-      "order": 325,
+      "order": 327,
       "id": "entry-999040",
       "label": "speech",
       "level": "5",
@@ -3903,7 +3927,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by deleting clause 39 and substituting therefor the following new clause -- Regulations."
     },
     {
-      "order": 326,
+      "order": 328,
       "id": "entry-999042",
       "label": "heading",
       "level": "3",
@@ -3915,7 +3939,7 @@
       "text": "39."
     },
     {
-      "order": 327,
+      "order": 329,
       "id": "entry-999043",
       "label": "speech",
       "level": "3",
@@ -3927,7 +3951,7 @@
       "text": "(1) The Cabinet Secretary may, in consultation with the National Committee and the Council of County Governors, make regulations-- (a)prescribing anything that is required to be prescribed under this Act; and (b)generally, for the better carrying out of the provisions of this Act. (2) Without prejudice to the generality of subsection (1), the Cabinet Secretary may, in consultation with the National Committee and the Council of County Governors, make regulations -- (a) to provide for measures for prevention, mitigation, preparedness, response and recovery from the pandemic; (b) to provide for emergency registration of the relevant professionals; (c) in consultation with-- (i) the Cabinet Secretary responsible for matters relating to information and communication technology, make regulations to provide for collection and publication of data relating to the pandemic; (ii) the Cabinet Secretary responsible for the coordination of national government functions, make regulations to provide for use of listed premises as shelters to manage a pandemic;"
     },
     {
-      "order": 328,
+      "order": 330,
       "id": "entry-999044",
       "label": "speech",
       "level": "3",
@@ -3939,7 +3963,7 @@
       "text": "(iii) the Cabinet Secretary responsible for matters relating to labour, make regulations to provide for additional services to be categorized under essential services despite the provisions of the Labour Relations Act;"
     },
     {
-      "order": 329,
+      "order": 331,
       "id": "entry-999045",
       "label": "speech",
       "level": "3",
@@ -3951,7 +3975,7 @@
       "text": "Act No. 14 of 2007. (iv) the Cabinet Secretary responsible for matters relating to trade and industry, make regulations to provide for consumer protection measures despite the provisions of the Consumer Protection Act; Act No. 46 of 2012. (v) the Cabinet Secretary responsible for matters relating to social assistance, make regulations to provide for care and protection of vulnerable persons; (vi) the Cabinet Secretary responsible for matters relating to information and communication technology, make regulations to provide for conduct of public awareness and civic education on management of the pandemic; or (d)make regulations to provide for any relevant rules or standards required for the effective implementation of this Act. (3) For the purposes of Article 94(6) of the Constitution-- (a) the power of the Cabinet Secretary to make regulations shall be limited to bringing into effect the provisions of this Act and the fulfilment of the objectives specified under subsection (1); and"
     },
     {
-      "order": 330,
+      "order": 332,
       "id": "entry-999046",
       "label": "speech",
       "level": "3",
@@ -3963,7 +3987,7 @@
       "text": "(b) the principles and standards set out under the Interpretation and General Provisions Act and the Statutory Instruments Act, 2013 in relation to subsidiary legislation shall apply to regulations made under this Act. Cap. 2. No. 23 of 2013. (4) The Cabinet Secretary shall, within three days after the publication of a regulation under this Act, ensure that a copy of the regulation is transmitted to the Clerk of the National Assembly and the Senate for tabling before each House of Parliament. (5) Each House of Parliament shall consider and either approve or annul regulations made under this Act within seven days after the tabling of the regulations in the respective House. Madam Temporary Chairperson, this is just to give all Cabinet Secretaries powers to make regulations on their different areas. Before, it was just the Cabinet Secretary for the Ministry of Health but now it is different sectors being looked into."
     },
     {
-      "order": 331,
+      "order": 333,
       "id": "entry-999047",
       "label": "scene",
       "level": "3",
@@ -3975,7 +3999,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 332,
+      "order": 334,
       "id": "entry-999048",
       "label": "speech",
       "level": "3",
@@ -3987,7 +4011,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 333,
+      "order": 335,
       "id": "entry-999050",
       "label": "heading",
       "level": "5",
@@ -3999,7 +4023,7 @@
       "text": "Clause 40"
     },
     {
-      "order": 334,
+      "order": 336,
       "id": "entry-999051",
       "label": "speech",
       "level": "5",
@@ -4011,7 +4035,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT the Bill be amended by deleting Clause 40. Clause 40 was talking about how the Pandemic ends, but we have provided for it clearer in New Clause 7A. This is with regard to how the President says that a pandemic is no longer a threat. This came from Sen. M. Kajwang' and many others who said that some pandemics stay forever; like HIV/AIDS. However, at some point, the President must say that it is no longer an evident threat right now to the stability of the economy etcetera."
     },
     {
-      "order": 335,
+      "order": 337,
       "id": "entry-999052",
       "label": "scene",
       "level": "5",
@@ -4023,7 +4047,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 336,
+      "order": 338,
       "id": "entry-999053",
       "label": "speech",
       "level": "5",
@@ -4035,7 +4059,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 337,
+      "order": 339,
       "id": "entry-999054",
       "label": "heading",
       "level": "5",
@@ -4047,7 +4071,7 @@
       "text": "New Clause 7A"
     },
     {
-      "order": 338,
+      "order": 340,
       "id": "entry-999055",
       "label": "speech",
       "level": "5",
@@ -4059,7 +4083,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: THAT the Bill be amended by inserting the following new Clause immediately after Clause 7-- Declaration of the end of a pandemic. 7A. The President shall, on the recommendation of the National Committee and by notice in the Gazette, declare that a pandemic is no longer a threat to the social, economic or political stability of the country. We provided for the beginning and now also for the end for things to go back to some level of normalcy."
     },
     {
-      "order": 339,
+      "order": 341,
       "id": "entry-999056",
       "label": "scene",
       "level": "5",
@@ -4071,7 +4095,7 @@
       "text": "(Question of the New Clause 7A proposed)"
     },
     {
-      "order": 340,
+      "order": 342,
       "id": "entry-999057",
       "label": "scene",
       "level": "5",
@@ -4083,7 +4107,7 @@
       "text": "(New Clause 7A read the First Time)"
     },
     {
-      "order": 341,
+      "order": 343,
       "id": "entry-999058",
       "label": "scene",
       "level": "5",
@@ -4095,7 +4119,7 @@
       "text": "(Question, that the New Clause 7A be read a Second Time proposed)"
     },
     {
-      "order": 342,
+      "order": 344,
       "id": "entry-999059",
       "label": "scene",
       "level": "5",
@@ -4107,7 +4131,7 @@
       "text": "(Question, that the New Clause 7A be part of the Bill proposed)"
     },
     {
-      "order": 343,
+      "order": 345,
       "id": "entry-999060",
       "label": "speech",
       "level": "5",
@@ -4119,7 +4143,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 344,
+      "order": 346,
       "id": "entry-999061",
       "label": "heading",
       "level": "5",
@@ -4131,7 +4155,7 @@
       "text": "New Clause 30A"
     },
     {
-      "order": 345,
+      "order": 347,
       "id": "entry-999062",
       "label": "speech",
       "level": "5",
@@ -4143,7 +4167,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT the Bill be amended by inserting the following new clause immediately after clause-- Designation of vulnerable persons. 30A. (1) The Cabinet Secretary may, in consultation with the National Committee, the Council of County Governors and the Cabinet Secretary responsible for matters relating to social assistance, by notice in the Gazette, designate categories of vulnerable persons affected by a pandemic. (2) Despite subsection (1), vulnerable persons shall include-- (a) orphan and at risk children; (b) persons with disabilities; (c) poor elderly persons; (d) persons who have lost their source of income owing to the pandemic; (e) poor widows and widowers; (f) persons disabled by acute chronic illnesses and who cannot meet their basic needs; and, (g) micro, small and medium enterprises affected by a pandemic. (3) In this Part, -- \"at risk child\" means a child who-- (a) is under the care of a person who suffers a disability or serious long term ailment which renders the person unable to care for the child; (b) has been abandoned by a parent or parents and is not under the care of a guardian who provides the basic needs of the child; or (c) is under the care of parents or guardians who are unable to provide for the child's basic needs; \"medium enterprise\" means a firm, trade, service, industry or a business activity -- (a) whose annual turnover is at least five million shillings and does not exceed eight hundred million shillings; and (b) which employs between fifty and ninety nine people. No. 55 of 2012. \"micro-enterprise\" has the meaning assigned to it under section 2 of the Micro and Small Enterprises Act; \"orphan\" means a child with no parents, either biological or adoptive, and who is not under the care of a guardian who provides the basic needs of the child; \"person with a disability\" means a person who-- (a) suffers from severe mental or physical disability; (b) the disability renders the person incapable of catering for their basic needs; and (c) there is no known source of income or support for the person; \"poor elderly person\" means a person who has attained the age of sixty five years and cannot meet their basic needs; \"poor widow or widower\" means a widow or widower who cannot meet her or his basic needs; and \"small enterprise\" has the meaning assigned to it under section 2 of the Micro and Small Enterprises Act. New Clause 30A is about definitions and we have defined many issues from micro enterprises to vulnerable persons, orphans et cetera ."
     },
     {
-      "order": 346,
+      "order": 348,
       "id": "entry-999065",
       "label": "scene",
       "level": "5",
@@ -4155,7 +4179,7 @@
       "text": "(Question of the New Clause 30A proposed)"
     },
     {
-      "order": 347,
+      "order": 349,
       "id": "entry-999066-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "5",
@@ -4167,7 +4191,7 @@
       "text": "(New Clause 30A read the First Time)"
     },
     {
-      "order": 348,
+      "order": 350,
       "id": "entry-999066-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4179,7 +4203,7 @@
       "text": "(Question, that the New Clause 30A be read a Second Time proposed)"
     },
     {
-      "order": 349,
+      "order": 351,
       "id": "entry-999067",
       "label": "scene",
       "level": "5",
@@ -4191,7 +4215,7 @@
       "text": "(Question, that the New Clause 30A be part of the Bill proposed)"
     },
     {
-      "order": 350,
+      "order": 352,
       "id": "entry-999068",
       "label": "speech",
       "level": "5",
@@ -4203,7 +4227,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 351,
+      "order": 353,
       "id": "entry-999069",
       "label": "heading",
       "level": "5",
@@ -4215,7 +4239,7 @@
       "text": "New Clause 38A"
     },
     {
-      "order": 352,
+      "order": 354,
       "id": "entry-999070",
       "label": "speech",
       "level": "5",
@@ -4227,7 +4251,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: THAT the Bill be amended by inserting the following new clause immediately after clause 38-- Establishment of a fund No.18 of 2012. 38A The Cabinet Secretary responsible for matters relating to finance may, where he considers it necessary, establish a fund pursuant to section 24 (4) of the Public Finance Management Act for the effective mitigation and management of the adverse effects of the pandemic. Madam Temporary Speaker, this is the last amendment. New Clause 38A is on establishment of a fund. Because of those provisions, Sen. Farhiya was asking what we are deleting. This one is now okay because it says that the Cabinet Secretary, following Section 24 (4) of the Public Finance Management (PFM) Act, shall provide for that fund, and then, we shall enhance this in the other House as we go there."
     },
     {
-      "order": 353,
+      "order": 355,
       "id": "entry-999072",
       "label": "scene",
       "level": "5",
@@ -4239,7 +4263,7 @@
       "text": "(Question of the New Clause 38A proposed)"
     },
     {
-      "order": 354,
+      "order": 356,
       "id": "entry-999073",
       "label": "scene",
       "level": "5",
@@ -4251,7 +4275,7 @@
       "text": "(New Clause 38A read the First Time)"
     },
     {
-      "order": 355,
+      "order": 357,
       "id": "entry-999074",
       "label": "scene",
       "level": "5",
@@ -4263,7 +4287,7 @@
       "text": "(Question, that the New Clause 38A be read a Second Time proposed)"
     },
     {
-      "order": 356,
+      "order": 358,
       "id": "entry-999075",
       "label": "scene",
       "level": "5",
@@ -4275,7 +4299,7 @@
       "text": "(Question, that the New Clause 38A be part of the Bill proposed)"
     },
     {
-      "order": 357,
+      "order": 359,
       "id": "entry-999076",
       "label": "speech",
       "level": "5",
@@ -4287,7 +4311,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 358,
+      "order": 360,
       "id": "entry-999077",
       "label": "heading",
       "level": "5",
@@ -4299,7 +4323,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 359,
+      "order": 361,
       "id": "entry-999078",
       "label": "speech",
       "level": "5",
@@ -4311,7 +4335,7 @@
       "text": "Madam Temporary Speaker, I beg to move - THAT Clause 2 of the Bill be amended by deleting the definition of the term \"Fund\"."
     },
     {
-      "order": 360,
+      "order": 362,
       "id": "entry-999079",
       "label": "scene",
       "level": "5",
@@ -4323,7 +4347,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 361,
+      "order": 363,
       "id": "entry-999080",
       "label": "speech",
       "level": "5",
@@ -4335,7 +4359,7 @@
       "text": "Division will be at the end. Sen. Farhiya, are you standing in for Sen. Beth Mugo on this amendment?"
     },
     {
-      "order": 362,
+      "order": 364,
       "id": "entry-999082",
       "label": "scene",
       "level": "5",
@@ -4347,7 +4371,7 @@
       "text": "(The Temporary Chairperson consulted With the Clerk-at-the-Table)"
     },
     {
-      "order": 363,
+      "order": 365,
       "id": "entry-999083",
       "label": "speech",
       "level": "5",
@@ -4359,7 +4383,7 @@
       "text": "Chairperson, did you consider this amendment?"
     },
     {
-      "order": 364,
+      "order": 366,
       "id": "entry-999084",
       "label": "speech",
       "level": "5",
@@ -4371,7 +4395,7 @@
       "text": "Madam Temporary Chairperson, we considered all amendments in all 200 submissions. Sen. Mugo's proposal there is to define vulnerability in detail and we have covered that in the New Clause that I have just proposed for amendment."
     },
     {
-      "order": 365,
+      "order": 367,
       "id": "entry-999085",
       "label": "speech",
       "level": "5",
@@ -4383,7 +4407,7 @@
       "text": "So, the Committee was okay with the amendment?"
     },
     {
-      "order": 366,
+      "order": 368,
       "id": "entry-999086",
       "label": "speech",
       "level": "5",
@@ -4395,7 +4419,7 @@
       "text": "No, we have covered it."
     },
     {
-      "order": 367,
+      "order": 369,
       "id": "entry-999087",
       "label": "speech",
       "level": "5",
@@ -4407,7 +4431,7 @@
       "text": "You have covered it elsewhere?"
     },
     {
-      "order": 368,
+      "order": 370,
       "id": "entry-999088",
       "label": "speech",
       "level": "5",
@@ -4419,7 +4443,7 @@
       "text": "Yes. She needs to withdraw it. Either way, she is not here to move it."
     },
     {
-      "order": 369,
+      "order": 371,
       "id": "entry-999089",
       "label": "scene",
       "level": "5",
@@ -4431,7 +4455,7 @@
       "text": "(The Temporary Chairperson (Sen. Pareno) consulted with the Clerk-at-the-Table)"
     },
     {
-      "order": 370,
+      "order": 372,
       "id": "entry-999091",
       "label": "speech",
       "level": "5",
@@ -4443,7 +4467,7 @@
       "text": "So, that amendment is dropped."
     },
     {
-      "order": 371,
+      "order": 373,
       "id": "entry-999092",
       "label": "scene",
       "level": "5",
@@ -4455,7 +4479,7 @@
       "text": "(Proposed amendment by Sen. Mugo dropped)"
     },
     {
-      "order": 372,
+      "order": 374,
       "id": "entry-999093-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -4467,7 +4491,7 @@
       "text": "Title and Clause 1"
     },
     {
-      "order": 373,
+      "order": 375,
       "id": "entry-999093-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -4479,7 +4503,7 @@
       "text": "(Question, that the Title and Clause 1 be part of the Bill, proposed)"
     },
     {
-      "order": 374,
+      "order": 376,
       "id": "entry-999094",
       "label": "speech",
       "level": "3",
@@ -4491,7 +4515,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 375,
+      "order": 377,
       "id": "entry-999095",
       "label": "scene",
       "level": "3",
@@ -4503,7 +4527,7 @@
       "text": "(The Temporary Chairperson (Sen. Pareno) Consulted with the Clerk-at-the-Table)"
     },
     {
-      "order": 376,
+      "order": 378,
       "id": "entry-999096",
       "label": "speech",
       "level": "3",
@@ -4515,7 +4539,7 @@
       "text": "So, we will now report progress on the Committee of the Whole."
     },
     {
-      "order": 377,
+      "order": 379,
       "id": "entry-999097",
       "label": "speech",
       "level": "3",
@@ -4527,7 +4551,7 @@
       "text": "Thank you, Madam Temporary Chairperson, pursuant to Standing Order No.148, I beg to move that the Committee do report progress on its consideration of The Pandemic Response and Management Bill (Amendment), Bill (Senate Bills No. 6 of 2020) and seek leave to sit again tomorrow."
     },
     {
-      "order": 378,
+      "order": 380,
       "id": "entry-999098",
       "label": "scene",
       "level": "3",
@@ -4539,7 +4563,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 379,
+      "order": 381,
       "id": "entry-999099",
       "label": "scene",
       "level": "3",
@@ -4551,7 +4575,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 380,
+      "order": 382,
       "id": "entry-999100",
       "label": "speech",
       "level": "3",
@@ -4563,7 +4587,7 @@
       "text": "We will now move to The Kenya Medical Supplies Authority (Amendment) Bill (Senate Bills No.38 of 2018.)"
     },
     {
-      "order": 381,
+      "order": 383,
       "id": "entry-999101",
       "label": "heading",
       "level": "3",
@@ -4575,7 +4599,7 @@
       "text": "THE KENYA MEDICAL SUPPLIES AUTHORITY (AMENDMENT) BILL (SENATE BILLS NO. 38 OF 2018)"
     },
     {
-      "order": 382,
+      "order": 384,
       "id": "entry-999102-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4587,7 +4611,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 383,
+      "order": 385,
       "id": "entry-999102-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4599,7 +4623,7 @@
       "text": "(Question, that the Clause 2be part of the Bill, proposed)"
     },
     {
-      "order": 384,
+      "order": 386,
       "id": "entry-999103",
       "label": "speech",
       "level": "5",
@@ -4611,7 +4635,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 385,
+      "order": 387,
       "id": "entry-999104-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4623,7 +4647,7 @@
       "text": "Clause 3"
     },
     {
-      "order": 386,
+      "order": 388,
       "id": "entry-999104-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4635,7 +4659,7 @@
       "text": "(Question, that the Clause 3be part of the Bill, proposed)"
     },
     {
-      "order": 387,
+      "order": 389,
       "id": "entry-999105",
       "label": "speech",
       "level": "5",
@@ -4647,7 +4671,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 388,
+      "order": 390,
       "id": "entry-999106",
       "label": "heading",
       "level": "5",
@@ -4659,7 +4683,7 @@
       "text": "Clause 4"
     },
     {
-      "order": 389,
+      "order": 391,
       "id": "entry-999107",
       "label": "speech",
       "level": "5",
@@ -4671,7 +4695,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT the Bill be amended by deleting Clause 4 and substituting therefor the following new clause-- Amendment of section 4 of No. 20 of 2013. 4. Section 4 of the Principal Act is amended by deleting subsection (2) and substituting therefor the following new subsection-- (2) The Cabinet Secretary may assist the Authority to determine the requirement of drugs and medical supplies in National Referral hospitals. (2A) The County Government may assist the Authority to determine the requirement of drugs and medical supplies in the respective county health facilities."
     },
     {
-      "order": 390,
+      "order": 392,
       "id": "entry-999109",
       "label": "scene",
       "level": "5",
@@ -4683,7 +4707,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 391,
+      "order": 393,
       "id": "entry-999110",
       "label": "speech",
       "level": "5",
@@ -4695,7 +4719,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 392,
+      "order": 394,
       "id": "entry-999111-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4707,7 +4731,7 @@
       "text": "Clauses 5-7"
     },
     {
-      "order": 393,
+      "order": 395,
       "id": "entry-999111-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4719,7 +4743,7 @@
       "text": "(Question, that the Clause 5-7 be part of the Bill, proposed)"
     },
     {
-      "order": 394,
+      "order": 396,
       "id": "entry-999112",
       "label": "speech",
       "level": "5",
@@ -4731,7 +4755,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 395,
+      "order": 397,
       "id": "entry-999113",
       "label": "heading",
       "level": "5",
@@ -4743,7 +4767,7 @@
       "text": "New Clause 5A"
     },
     {
-      "order": 396,
+      "order": 398,
       "id": "entry-999114",
       "label": "speech",
       "level": "5",
@@ -4755,7 +4779,7 @@
       "text": "Madam Temporary Chairperson, I agree with that."
     },
     {
-      "order": 397,
+      "order": 399,
       "id": "entry-999115",
       "label": "speech",
       "level": "5",
@@ -4767,7 +4791,7 @@
       "text": "You need to move."
     },
     {
-      "order": 398,
+      "order": 400,
       "id": "entry-999116",
       "label": "speech",
       "level": "5",
@@ -4779,7 +4803,7 @@
       "text": "Madam Temporary Speaker, I beg to move: THAT the Bill be amended by inserting the following new clauses immediately after clause 5 - Insertion of Section 6A in No.20 of 2013 5A. The principal Act is amended by inserting the following new section immediately after section 6- Headquarters 6A The headquarters of the Authority shall be in the capital city, but the Authority may establish such branches as it may consider necessary."
     },
     {
-      "order": 399,
+      "order": 401,
       "id": "entry-999118",
       "label": "scene",
       "level": "5",
@@ -4791,7 +4815,7 @@
       "text": "(Question of the New Clause 5A proposed)"
     },
     {
-      "order": 400,
+      "order": 402,
       "id": "entry-999119",
       "label": "scene",
       "level": "5",
@@ -4803,7 +4827,7 @@
       "text": "(New Clause 5A read the First Time)"
     },
     {
-      "order": 401,
+      "order": 403,
       "id": "entry-999120",
       "label": "scene",
       "level": "5",
@@ -4815,7 +4839,7 @@
       "text": "(Question, that the New Clause 5A be read a Second Time proposed)"
     },
     {
-      "order": 402,
+      "order": 404,
       "id": "entry-999121",
       "label": "scene",
       "level": "5",
@@ -4827,7 +4851,7 @@
       "text": "(Question, that the New Clause 5A be part of the Bill proposed)"
     },
     {
-      "order": 403,
+      "order": 405,
       "id": "entry-999123",
       "label": "speech",
       "level": "5",
@@ -4839,7 +4863,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 404,
+      "order": 406,
       "id": "entry-999124",
       "label": "heading",
       "level": "5",
@@ -4851,7 +4875,7 @@
       "text": "New Clause 5B"
     },
     {
-      "order": 405,
+      "order": 407,
       "id": "entry-999125",
       "label": "speech",
       "level": "5",
@@ -4863,7 +4887,7 @@
       "text": "Amendment of section 8 of No. 20 of 2013\n\n5B.\n\nSection 8 of the principal Act is amended--\n\n(a) in subsection (2) by deleting the words \"or medicine\" appearing at the end of paragraph (a) and substituting therefor the words \"medicine, business management, finance, supply chain management, or any other related field from a recognized university\";\n\n(b) in subsection (3) by deleting paragraph (b);\n\n(c) in subsection (4) by inserting the words \"upon satisfactory performance\" immediately after the words \"four years and\""
     },
     {
-      "order": 406,
+      "order": 408,
       "id": "entry-999131",
       "label": "speech",
       "level": "5",
@@ -4875,7 +4899,7 @@
       "text": "Can you move properly?"
     },
     {
-      "order": 407,
+      "order": 409,
       "id": "entry-999132",
       "label": "speech",
       "level": "5",
@@ -4887,7 +4911,7 @@
       "text": "Madam Temporary Speaker, I beg to move: THAT the Bill be amended by inserting the following new clauses immediately after clause 5 - Amendment of section 8 of No.20 of 2013 5B. Section 8 of the principal Act is amended-- (a) in subsection (2) by deleting the words \"or medicine\" appearing at the end of paragraph (a) and substituting therefor the words \"medicine, business management, finance, supply chain management, or any other related field from a recognized university\"; (b) in subsection (3) by deleting paragraph (b); (c) in subsection (4) by inserting the words \"upon satisfactory performance\" immediately after the words \"four years and\""
     },
     {
-      "order": 408,
+      "order": 410,
       "id": "entry-999134",
       "label": "scene",
       "level": "5",
@@ -4899,7 +4923,7 @@
       "text": "(Question of the New Clause 5B proposed)"
     },
     {
-      "order": 409,
+      "order": 411,
       "id": "entry-999135",
       "label": "scene",
       "level": "5",
@@ -4911,7 +4935,7 @@
       "text": "(New Clause 5B read the First Time)"
     },
     {
-      "order": 410,
+      "order": 412,
       "id": "entry-999136",
       "label": "scene",
       "level": "5",
@@ -4923,7 +4947,7 @@
       "text": "(Question, that the New Clause 5B be read a Second Time proposed)"
     },
     {
-      "order": 411,
+      "order": 413,
       "id": "entry-999137",
       "label": "scene",
       "level": "5",
@@ -4935,7 +4959,7 @@
       "text": "(Question, that the New Clause 5B be part of the Bill proposed)"
     },
     {
-      "order": 412,
+      "order": 414,
       "id": "entry-999138",
       "label": "speech",
       "level": "5",
@@ -4947,7 +4971,7 @@
       "text": "Division will be at the end. Move the next clause. Mover, to move the new clause. The Chairperson Standing Committee on Health."
     },
     {
-      "order": 413,
+      "order": 415,
       "id": "entry-999140",
       "label": "heading",
       "level": "5",
@@ -4959,7 +4983,7 @@
       "text": "New Clause 5C"
     },
     {
-      "order": 414,
+      "order": 416,
       "id": "entry-999141-split-before-9ba603bd-e7c0-4abd-bb99-c1747c779b38",
       "label": "speech",
       "level": "5",
@@ -4971,7 +4995,7 @@
       "text": "Madam Temporary Speaker, I beg to move: THAT the Bill be amended by inserting the following new clauses immediately after clause 5 - Insertion of section 9A in No.20 of 2013 5C. The principal Act is amended by inserting the following new section immediately after section 9-- Corporation Secretary 9A(1)There shall be a corporation secretary of the Authority who shall be competitively recruited and appointed by the Board. (2) The terms and conditions of service of the Corporation Secretary shall be determined in the instrument of appointment by the Board upon the advice of the Salaries and Remuneration Commission."
     },
     {
-      "order": 415,
+      "order": 417,
       "id": "entry-999141-split-selected-a7440860-fd98-4e9f-9d80-767c8ef05015",
       "label": "scene",
       "level": "5",
@@ -4983,7 +5007,7 @@
       "text": "(3) A person is qualified for appointment under subsection"
     },
     {
-      "order": 416,
+      "order": 418,
       "id": "entry-999141-split-after-4ec4f163-415f-45e2-94d0-bfd2c966a99d-split-before-0e4e20df-d4a7-4bc8-9923-dddb09169fd7",
       "label": "speech",
       "level": "5",
@@ -4995,7 +5019,7 @@
       "text": "(1) if the person--"
     },
     {
-      "order": 417,
+      "order": 419,
       "id": "entry-999141-split-after-4ec4f163-415f-45e2-94d0-bfd2c966a99d-split-selected-4d633620-5f71-446a-9db9-1aefd94b3b5a",
       "label": "scene",
       "level": "5",
@@ -5007,7 +5031,7 @@
       "text": "(a)holds a degree from a recognised university;"
     },
     {
-      "order": 418,
+      "order": 420,
       "id": "entry-999141-split-after-4ec4f163-415f-45e2-94d0-bfd2c966a99d-split-after-f6a327bc-da93-4bc6-a24e-d0c519020b77-split-before-2abb82cf-77c0-4c30-8e9d-36c1c1811133",
       "label": "speech",
       "level": "5",
@@ -5019,7 +5043,7 @@
       "text": "(b)is registered as a Certified Public Secretary under the Certified Public Secretaries of Kenya Act; Cap 534 (c) is a member of good standing of the Institute of Certified Public Secretaries of Kenya; (d) has at least seven years' experience in a senior management administration; and shall (e) Satisfies the requirements of Chapter Six of the Constitution"
     },
     {
-      "order": 419,
+      "order": 421,
       "id": "entry-999141-split-after-4ec4f163-415f-45e2-94d0-bfd2c966a99d-split-after-f6a327bc-da93-4bc6-a24e-d0c519020b77-split-selected-e731367a-da68-49c3-9811-626e9f839c88",
       "label": "scene",
       "level": "5",
@@ -5031,7 +5055,7 @@
       "text": "(4) The corporation Secretary shall be secretary to the board shall--- (a) provide guidance to the board on the duties."
     },
     {
-      "order": 420,
+      "order": 422,
       "id": "entry-999141-split-after-4ec4f163-415f-45e2-94d0-bfd2c966a99d-split-after-f6a327bc-da93-4bc6-a24e-d0c519020b77-split-after-4c68f096-c5c4-4d37-aab4-cf0518133d2c",
       "label": "speech",
       "level": "5",
@@ -5043,7 +5067,7 @@
       "text": "(b) be the custodian of the seal of the organisation and account to the Board for its use; (c) ensure timely preparation and circulation of Board and Committee papers and minutes; (d) maintain and update the register of conflicts of interest; (e) facilitate effective communication between the organisation and the shareholders; and (f) ensure that the annual returns and statutory documents required to be filed under any other law are promptly filed with the relevant authorities."
     },
     {
-      "order": 421,
+      "order": 423,
       "id": "entry-999142",
       "label": "scene",
       "level": "5",
@@ -5055,7 +5079,7 @@
       "text": "(Question of the New Clause 5C proposed)"
     },
     {
-      "order": 422,
+      "order": 424,
       "id": "entry-999143",
       "label": "scene",
       "level": "5",
@@ -5067,7 +5091,7 @@
       "text": "(New Clause 5C read the First Time)"
     },
     {
-      "order": 423,
+      "order": 425,
       "id": "entry-999144",
       "label": "scene",
       "level": "5",
@@ -5079,7 +5103,7 @@
       "text": "(Question, that the New Clause 5C be read a Second Time proposed)"
     },
     {
-      "order": 424,
+      "order": 426,
       "id": "entry-999146",
       "label": "scene",
       "level": "5",
@@ -5091,7 +5115,7 @@
       "text": "(Question, that the New Clause 5C be part of the Bill proposed)"
     },
     {
-      "order": 425,
+      "order": 427,
       "id": "entry-999147",
       "label": "speech",
       "level": "5",
@@ -5103,7 +5127,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 426,
+      "order": 428,
       "id": "entry-999148",
       "label": "heading",
       "level": "5",
@@ -5115,7 +5139,7 @@
       "text": "New Clause 5D"
     },
     {
-      "order": 427,
+      "order": 429,
       "id": "entry-999149",
       "label": "speech",
       "level": "5",
@@ -5127,7 +5151,7 @@
       "text": "Mover, can you move?"
     },
     {
-      "order": 428,
+      "order": 430,
       "id": "entry-999150",
       "label": "speech",
       "level": "5",
@@ -5139,7 +5163,7 @@
       "text": "Madam Temporary Speaker, I beg to move: THAT the Bill be amended by inserting the following new clauses immediately after clause 5 - Amendment of section 13 of No.20 of 2013 5D. Section 13 of the principal Act is amended by deleting subsection (2) and substituting therefor the following new of No. 20 of 2013 subsection-- (2) The affixing of the Common Seal of the Authority shall be authenticated by the signature of the Chairperson and the chief executive officer and any document not required by law to be made under seal and all decisions of the Board may be authenticated by the signatures of both the chief executive officer and the corporation secretary."
     },
     {
-      "order": 429,
+      "order": 431,
       "id": "entry-999153",
       "label": "scene",
       "level": "5",
@@ -5151,7 +5175,7 @@
       "text": "(Question of the New Clause 5D proposed)"
     },
     {
-      "order": 430,
+      "order": 432,
       "id": "entry-999154",
       "label": "scene",
       "level": "5",
@@ -5163,7 +5187,7 @@
       "text": "(New Clause 5D read the First Time)"
     },
     {
-      "order": 431,
+      "order": 433,
       "id": "entry-999155",
       "label": "scene",
       "level": "5",
@@ -5175,7 +5199,7 @@
       "text": "(Question, that the New Clause 5D be read a Second Time proposed)"
     },
     {
-      "order": 432,
+      "order": 434,
       "id": "entry-999156",
       "label": "scene",
       "level": "5",
@@ -5187,7 +5211,7 @@
       "text": "(Question, that the New Clause 5D be part of the Bill proposed)"
     },
     {
-      "order": 433,
+      "order": 435,
       "id": "entry-999157",
       "label": "speech",
       "level": "5",
@@ -5199,7 +5223,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 434,
+      "order": 436,
       "id": "entry-999158-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -5211,7 +5235,7 @@
       "text": "Title and Clause 1"
     },
     {
-      "order": 435,
+      "order": 437,
       "id": "entry-999158-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -5223,7 +5247,7 @@
       "text": "(Question that the Title and Clause 1 be part of the Bill)"
     },
     {
-      "order": 436,
+      "order": 438,
       "id": "entry-999159",
       "label": "speech",
       "level": "3",
@@ -5235,7 +5259,7 @@
       "text": "We will now report progress of the Committee of the Whole on The Kenya Medical Supplies Authority (Amendment) Bill (Senate Bills No. 38 of 2018)."
     },
     {
-      "order": 437,
+      "order": 439,
       "id": "entry-999160",
       "label": "speech",
       "level": "3",
@@ -5247,7 +5271,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order No.142, I beg to move that the Committee do report progress on its consideration of The Kenya Medical Supplies Authority (Amendment) Bill (Senate Bills No. 38 of 2018) and seek leave to sit again tomorrow."
     },
     {
-      "order": 438,
+      "order": 440,
       "id": "entry-999162",
       "label": "scene",
       "level": "3",
@@ -5259,7 +5283,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 439,
+      "order": 441,
       "id": "entry-999163",
       "label": "scene",
       "level": "3",
@@ -5271,7 +5295,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 440,
+      "order": 442,
       "id": "entry-999164",
       "label": "heading",
       "level": "3",
@@ -5283,7 +5307,7 @@
       "text": "THE CANCER PREVENTION AND CONTROL (AMENDMENT) BILL (SENATE BILLS NO. 9 OF 2019)"
     },
     {
-      "order": 441,
+      "order": 443,
       "id": "entry-999165",
       "label": "speech",
       "level": "3",
@@ -5295,7 +5319,7 @@
       "text": "Hon. Senators, we now move to the Committee of the Whole on The Cancer Prevention and Control (Amendment) Bill (Senate Bills No. 9 of 2019)."
     },
     {
-      "order": 442,
+      "order": 444,
       "id": "entry-999166",
       "label": "heading",
       "level": "5",
@@ -5307,7 +5331,7 @@
       "text": "Clause 3"
     },
     {
-      "order": 443,
+      "order": 445,
       "id": "entry-999167",
       "label": "speech",
       "level": "5",
@@ -5319,7 +5343,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT the Bill be amended by deleting Clause 3 and substituting thereof the following new clause-- Amendment of section 5 of No.20 of 2013\n\n3."
     },
     {
-      "order": 444,
+      "order": 446,
       "id": "entry-999169",
       "label": "speech",
       "level": "5",
@@ -5331,7 +5355,7 @@
       "text": "Section 5 of the principal Act is amended -- (a) by deleting paragraph (a) and inserting thereof the following new paragraphs-- (a) by deleting paragraph (a) and inserting therefor the following new paragraphs-- (a) advise the Cabinet Secretary and county governments on matters relating to the prevention of disease, promotion of healthy living, control, treatment, referral and care of persons with cancer and to advise on the relative priorities to be given to the implementation of specific measures including detection, diagnosis and referral of children suspected to have cancer, genetic and hormonal therapies for cancer; (aa) advice the Cabinet Secretary and Parliament on the resources required to finance and conduct cancer research;"
     },
     {
-      "order": 445,
+      "order": 447,
       "id": "entry-999170",
       "label": "speech",
       "level": "5",
@@ -5343,7 +5367,7 @@
       "text": "(b)in paragraph (c) by inserting the word \"screening\" immediately after the words \"secure provision of\"; (c)in paragraph (d) by deleting the words \"in Kenya\" appeal immediately after the words \"services provided\" and substitute therefore the words \"by the national government\"; (d)by inserting the following new paragraph immediately after paragraph (d)- (da) collaborate with counties for the purpose of establishing facilities, delivery of services, collection and analysis of data; (db) collaborate with counties in all matters related to the promotion of healthy living, prevention, diagnostic, treatment and control of cancer."
     },
     {
-      "order": 446,
+      "order": 448,
       "id": "entry-999171",
       "label": "speech",
       "level": "5",
@@ -5355,7 +5379,7 @@
       "text": "(e)in paragraph (e) by deleting the words \"of cancer\" and substituting therefor the words \"referral of cancer patients and promotion of health\"; (f)in paragraph (f) by inserting the words \"other government agencies\" immediately after the words \"collaborate with\"; (g)by inserting the following new paragraph immediately after paragraph (f)-- (fa) collaborate with other national government agencies, universities, research institutions and international research institutions for cancer research; (h)by inserting the following new paragraph immediately after paragraph (k)-- (ka) develop programs for early detection, diagnosis and referral of children suspected to have cancer; (kb) provide the policy framework necessary to ensure public private partnership in childhood cancer care;"
     },
     {
-      "order": 447,
+      "order": 449,
       "id": "entry-999172",
       "label": "scene",
       "level": "5",
@@ -5367,7 +5391,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 448,
+      "order": 450,
       "id": "entry-999173",
       "label": "speech",
       "level": "5",
@@ -5379,7 +5403,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 449,
+      "order": 451,
       "id": "entry-999174",
       "label": "heading",
       "level": "5",
@@ -5391,7 +5415,7 @@
       "text": "Clause 4"
     },
     {
-      "order": 450,
+      "order": 452,
       "id": "entry-999175-split-before-d461ee1e-1b63-4196-8aa5-bf9e49440c14",
       "label": "speech",
       "level": "5",
@@ -5403,7 +5427,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: THAT clause 4 of the Bill be amended--"
     },
     {
-      "order": 451,
+      "order": 453,
       "id": "entry-999175-split-selected-5fa7aec4-7509-4cef-9632-4c8c14e37d06",
       "label": "scene",
       "level": "5",
@@ -5415,7 +5439,7 @@
       "text": "(a) by deleting paragraph (b) and substituting thereof the"
     },
     {
-      "order": 452,
+      "order": 454,
       "id": "entry-999175-split-after-cd3dfdc0-e85e-4f03-9490-da283406fb7f",
       "label": "speech",
       "level": "5",
@@ -5427,7 +5451,7 @@
       "text": "following new paragraph-- (a) deleting paragraph (j); and (b) by deleting paragraph (c) and substituting thereof the following new paragraph-- (c) inserting the following new paragraphs immediately after (i)-- (ja) two County Directors of Health nominated by the Council of County Governors; (jb) one person representing the umbrella body of clinical pathologists in Kenya nominated by the Cabinet Secretary;"
     },
     {
-      "order": 453,
+      "order": 455,
       "id": "entry-999176",
       "label": "scene",
       "level": "5",
@@ -5439,7 +5463,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 454,
+      "order": 456,
       "id": "entry-999177",
       "label": "speech",
       "level": "5",
@@ -5451,7 +5475,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 455,
+      "order": 457,
       "id": "entry-999178-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -5463,7 +5487,7 @@
       "text": "Clauses 5 and 6"
     },
     {
-      "order": 456,
+      "order": 458,
       "id": "entry-999178-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -5475,7 +5499,7 @@
       "text": "(Question, that Clauses 5 and 6be part of the Bill, proposed)"
     },
     {
-      "order": 457,
+      "order": 459,
       "id": "entry-999179",
       "label": "speech",
       "level": "5",
@@ -5487,7 +5511,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 458,
+      "order": 460,
       "id": "entry-999180",
       "label": "heading",
       "level": "5",
@@ -5499,7 +5523,7 @@
       "text": "Clause 7"
     },
     {
-      "order": 459,
+      "order": 461,
       "id": "entry-999182",
       "label": "speech",
       "level": "5",
@@ -5511,7 +5535,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: THAT clause 7 of the Bill be amended-- (a) in the proposed new section 22A subsection (1) -- (i) by inserting the word \"diagnosis\" immediately after the words \"equipment prevention\" appearing in paragraph (b); (ii) by inserting the following new paragraph immediately after paragraph (d)-- (da) put in place measures to improve the training and skills of health workers working in the community health unit, to ensure prompt detection and referral of persons suspected to have cancer; (iii) by deleting paragraph (g) (ii) and substituting therefor the following new sub-paragraph-- (ii) palliative care facilities and facilities for the accommodation for persons receiving cancer treatment; (iv) by deleting paragraph (h) and substituting therefor the following new paragraph -- (h) ensure that issues concerning cancer prevention, diagnosis and treatment are incorporated into the county development programmes and strategies and allocate the resources required for treatment and control of cancer; (b) in the proposed new section 22C -- (i) by inserting the word \"diagnosis\" immediately after the words \"responsible for the prevention\" appearing in subsection (1); (ii) by deleting subsection (2) (b) and substituting therefor the following new paragraph -- (b) provide cancer screening and diagnostic services supervised by a pathologist;"
     },
     {
-      "order": 460,
+      "order": 462,
       "id": "entry-999183",
       "label": "scene",
       "level": "5",
@@ -5523,7 +5547,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 461,
+      "order": 463,
       "id": "entry-999184",
       "label": "speech",
       "level": "5",
@@ -5535,7 +5559,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 462,
+      "order": 464,
       "id": "entry-999185",
       "label": "heading",
       "level": "5",
@@ -5547,7 +5571,7 @@
       "text": "Clause 2, Title, Clause 1"
     },
     {
-      "order": 463,
+      "order": 465,
       "id": "entry-999186",
       "label": "scene",
       "level": "5",
@@ -5559,7 +5583,7 @@
       "text": "(Question that the Clause 2, Title and Clause 1 be part of the Bill proposed)"
     },
     {
-      "order": 464,
+      "order": 466,
       "id": "entry-999187",
       "label": "speech",
       "level": "5",
@@ -5571,7 +5595,7 @@
       "text": "Division will be at the end. Hon. Senators, we will now report progress of the Committee of the Whole on The Cancer Prevention and Control (Amendment) Bill (Senate Bills No. 9 Of 2019)"
     },
     {
-      "order": 465,
+      "order": 467,
       "id": "entry-999189",
       "label": "speech",
       "level": "5",
@@ -5583,7 +5607,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order No.148, I beg to move that the Committee do report progress on its consideration of The Cancer Prevention and Control (Amendment) Bill (Senate Bills No. 9 of 2019) and seek leave to sit again tomorrow."
     },
     {
-      "order": 466,
+      "order": 468,
       "id": "entry-999191",
       "label": "scene",
       "level": "5",
@@ -5595,7 +5619,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 467,
+      "order": 469,
       "id": "entry-999192",
       "label": "scene",
       "level": "5",
@@ -5607,7 +5631,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 468,
+      "order": 470,
       "id": "entry-999193",
       "label": "scene",
       "level": "5",
@@ -5619,7 +5643,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 469,
+      "order": 471,
       "id": "entry-999194",
       "label": "scene",
       "level": "5",
@@ -5631,7 +5655,7 @@
       "text": "[The Deputy Speaker (Sen (Prof.) Kamar) in the Chair]"
     },
     {
-      "order": 470,
+      "order": 472,
       "id": "entry-999195",
       "label": "heading",
       "level": "2",
@@ -5643,7 +5667,7 @@
       "text": "PROGRESS REPORTED"
     },
     {
-      "order": 471,
+      "order": 473,
       "id": "entry-999196",
       "label": "heading",
       "level": "3",
@@ -5655,7 +5679,7 @@
       "text": "THE PANDEMIC RESPONSE AND MANAGEMENT BILL (SENATE BILLS NO. 6 OF 2020)"
     },
     {
-      "order": 472,
+      "order": 474,
       "id": "entry-999197",
       "label": "speech",
       "level": "3",
@@ -5667,7 +5691,7 @@
       "text": "Hon. Senators, we are now going to start the reports starting with The Pandemic Response and Management Bill (Senate Bills No. 6 of 2020)."
     },
     {
-      "order": 473,
+      "order": 475,
       "id": "entry-999198",
       "label": "speech",
       "level": "3",
@@ -5679,7 +5703,7 @@
       "text": "Madam Deputy Speaker, I beg to report progress that the Committee of the Whole has considered The Pandemic Response and Management Bill (Senate Bills No. 6 of 2020) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 474,
+      "order": 476,
       "id": "entry-999199",
       "label": "speech",
       "level": "3",
@@ -5691,7 +5715,7 @@
       "text": "Madam Deputy Speaker, I beg to move that the House do agree with the Committee on the said report of The Pandemic Response and Management Bill (Senate Bills No. 6 of 2020). I wish to ask my very able Vice Chairperson Sen. Kasanga to second."
     },
     {
-      "order": 475,
+      "order": 477,
       "id": "entry-999200",
       "label": "speech",
       "level": "3",
@@ -5703,7 +5727,7 @@
       "text": "I second."
     },
     {
-      "order": 476,
+      "order": 478,
       "id": "entry-999201",
       "label": "scene",
       "level": "3",
@@ -5715,7 +5739,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 477,
+      "order": 479,
       "id": "entry-999202",
       "label": "scene",
       "level": "3",
@@ -5727,7 +5751,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 478,
+      "order": 480,
       "id": "entry-999203-split-before-851b50ab-3fb4-4fbd-a0e7-35299aa304ff",
       "label": "speech",
       "level": "3",
@@ -5739,7 +5763,7 @@
       "text": "Hon. Senators, the next Committee report is on the The Kenya Medical Supplies Authority (Amendment) Bill (Senate Bills No. 38 of 2018)."
     },
     {
-      "order": 479,
+      "order": 481,
       "id": "entry-999203-split-selected-6db7a461-2ed2-4146-be52-8a3972f82342",
       "label": "heading",
       "level": "3",
@@ -5751,7 +5775,7 @@
       "text": "THE KENYA MEDICAL SUPPLIES AUTHORITY (AMENDMENT) BILL"
     },
     {
-      "order": 480,
+      "order": 482,
       "id": "entry-999203-split-after-af8948c2-b486-4d5c-bba6-682ed300448e",
       "label": "speech",
       "level": "3",
@@ -5763,7 +5787,7 @@
       "text": "(SENATE BILLS NO.38) OF 2018)"
     },
     {
-      "order": 481,
+      "order": 483,
       "id": "entry-999204",
       "label": "speech",
       "level": "3",
@@ -5775,7 +5799,7 @@
       "text": "Madam Deputy Speaker, I beg to report progress that the Committee of the Whole has considered the Kenya Medical Supplies Authority (Amendment) Bill (Senate Bills No.38 of 2018) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 482,
+      "order": 484,
       "id": "entry-999205",
       "label": "speech",
       "level": "3",
@@ -5787,7 +5811,7 @@
       "text": "Madam Deputy Speaker, I beg to move that the House do agree with the Committee in the said report. I call upon Sen. (Dr.) Ali to second."
     },
     {
-      "order": 483,
+      "order": 485,
       "id": "entry-999206",
       "label": "speech",
       "level": "3",
@@ -5799,7 +5823,7 @@
       "text": "seconded."
     },
     {
-      "order": 484,
+      "order": 486,
       "id": "entry-999208",
       "label": "scene",
       "level": "3",
@@ -5811,7 +5835,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 485,
+      "order": 487,
       "id": "entry-999209",
       "label": "scene",
       "level": "3",
@@ -5823,7 +5847,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 486,
+      "order": 488,
       "id": "entry-999210",
       "label": "heading",
       "level": "3",
@@ -5835,7 +5859,7 @@
       "text": "THE CANCER PREVENTION AND CONTROL (AMENDMENT) BILL (SENATE BILLS NO.9 OF 2019)"
     },
     {
-      "order": 487,
+      "order": 489,
       "id": "entry-999211",
       "label": "speech",
       "level": "3",
@@ -5847,7 +5871,7 @@
       "text": "Madam Deputy Speaker, I beg to report progress that the Committee of the Whole has considered the Cancer Prevention and Control Bill (Senate Bills No.9 of 2019) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 488,
+      "order": 490,
       "id": "entry-999212",
       "label": "speech",
       "level": "3",
@@ -5859,7 +5883,7 @@
       "text": "Madam Deputy Speaker, I beg to move that the House do agree with the Committee on the said report. I ask Sen. Seneta to second."
     },
     {
-      "order": 489,
+      "order": 491,
       "id": "entry-999213",
       "label": "speech",
       "level": "3",
@@ -5871,7 +5895,7 @@
       "text": "seconded."
     },
     {
-      "order": 490,
+      "order": 492,
       "id": "entry-999214",
       "label": "scene",
       "level": "3",
@@ -5883,7 +5907,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 491,
+      "order": 493,
       "id": "entry-999215",
       "label": "scene",
       "level": "3",
@@ -5895,7 +5919,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 492,
+      "order": 494,
       "id": "entry-999216",
       "label": "speech",
       "level": "3",
@@ -5907,7 +5931,7 @@
       "text": "Hon. Senators, we will go back to the Statements as was promised earlier. The Statements are pursuant to Standing Order No.48(1)."
     },
     {
-      "order": 493,
+      "order": 495,
       "id": "entry-999217",
       "label": "scene",
       "level": "3",
@@ -5919,7 +5943,7 @@
       "text": "(Resumption of Debate on Statements)"
     },
     {
-      "order": 494,
+      "order": 496,
       "id": "entry-999218",
       "label": "speech",
       "level": "3",
@@ -5931,7 +5955,7 @@
       "text": "The first Statement is by Sen. Malalah but I cannot see him. The next one is by Sen. Kasanga."
     },
     {
-      "order": 495,
+      "order": 497,
       "id": "entry-999219",
       "label": "heading",
       "level": "1",
@@ -5943,7 +5967,7 @@
       "text": "STATEMENTS"
     },
     {
-      "order": 496,
+      "order": 498,
       "id": "entry-999220",
       "label": "speech",
       "level": "1",
@@ -5955,7 +5979,7 @@
       "text": "Madam Deputy Speaker, I have two Statements. I hope you will allow me to go through both."
     },
     {
-      "order": 497,
+      "order": 499,
       "id": "entry-999221",
       "label": "heading",
       "level": "2",
@@ -5967,7 +5991,7 @@
       "text": "OPERATIONALIZATION OF THE NATIONAL CONSTRUCTION AUTHORITY (DEFECTS AND LIABILITY) REGULATIONS, 2020"
     },
     {
-      "order": 498,
+      "order": 500,
       "id": "entry-999222",
       "label": "speech",
       "level": "2",
@@ -5979,7 +6003,7 @@
       "text": "Madam Deputy Speaker, I rise pursuant to Standing Order No.48(1) to seek a Statement from the Standing Committee on Roads, Transport and Infrastructure regarding the National Construction Authority (Defects and Liability) Regulations, 2020, that were recently gazetted by the Ministry of Transport, Infrastructure, Housing, Urban Development and Public Works. In the Statement, the Committee should: - (1) Explain why public participation and adequate stakeholder engagement was not conducted during development and prior to gazettement of the regulations. (2) Provide adequate information on the ambiguous and contradictory interpretations that potentially invalidate most construction contracts in Kenya. (3) Elaborate on the measures put in place to ensure the construction environments as well as ongoing projects at national and county levels will not stall unnecessarily due to these regulations. (4) Provide detailed plan and projects of what the relevant Ministry intends to address by expeditiously operationalising these regulations. I thank you. Can I proceed, Madam Deputy Speaker?"
     },
     {
-      "order": 499,
+      "order": 501,
       "id": "entry-999226",
       "label": "speech",
       "level": "2",
@@ -5991,7 +6015,7 @@
       "text": "Yes, if there is nobody who wants to say something about the first one. I can see Sen. Ochillo-Ayacko wants to say something."
     },
     {
-      "order": 500,
+      "order": 502,
       "id": "entry-999227",
       "label": "speech",
       "level": "2",
@@ -6003,7 +6027,7 @@
       "text": "Thank you, Madam Deputy Speaker, for this opportunity. The NCA is an entity of the national Government. It is sad that the national Government is trying to operate as if county governments do not have regulatory authority and the mandate to regulate what goes on within their jurisdictions. The Committee on Roads, Transport and Infrastructure that is responsible for the response we are seeking must tell us why public participation was not conducted and why an opportunity for counties to fight for their space and jurisdiction was not afforded Kenyans. We have a situation where the national Government, through its institutions, is clawing back on matters that belong to the counties. This is something that as a Senate we must jealously safeguard. I support this Statement because it has given us the opportunity to defend the turf that belongs to the counties for which we were elected to do and mandated by Articles 94 and 95 of the Constitution. I thank you."
     },
     {
-      "order": 501,
+      "order": 503,
       "id": "entry-999232",
       "label": "speech",
       "level": "2",
@@ -6015,7 +6039,7 @@
       "text": "If there is nobody else, then I will give Sen. Kasanga a chance to seek the other Statement on mental health. It is not on the Order Paper but the approval is here."
     },
     {
-      "order": 502,
+      "order": 504,
       "id": "entry-999233",
       "label": "speech",
       "level": "2",
@@ -6027,7 +6051,7 @@
       "text": "Proceed, Sen. Pareno."
     },
     {
-      "order": 503,
+      "order": 505,
       "id": "entry-999234",
       "label": "speech",
       "level": "2",
@@ -6039,7 +6063,7 @@
       "text": "Madam Deputy Speaker, I wanted to give input to Sen. Kasanga's Statement but I was consulting with her by the time you almost ruled that we proceed to the next Statement. I sit in the Committee on Delegated Legislation. Maybe some of these concerns could have been flushed out if some of these regulations passed through the test by the Committee on Delegated Legislation. This is because according to the Act, you cannot proceed to do regulations that are contrary to the parent Act. Regulations are supposed to be run smoothly. They are supposed to be derived from the Act. I am told by Sen. Kasanga that the implications they have is a violation of the traditional contracts done by the construction industry. I think this is bad. It is time for us to recall those regulations. They should go to the Committee on Delegated Legislation because that is where they can be flashed out. They should not apply if they are contrary to the Act from which they are supposed to flow. I am even told that the provision in that regulation is such that it gives liability to people who are not supposed to have liability as far as the construction industry is concerned. That is a shift and violation to the provisions of any law. If they are shifting liability by use of regulations, then that is wrong and they should not be applied. Madam Deputy Speaker, I support the Statement. We should hear from the relevant committee why such regulations should apply."
     },
     {
-      "order": 504,
+      "order": 506,
       "id": "entry-999240",
       "label": "speech",
       "level": "2",
@@ -6051,7 +6075,7 @@
       "text": "On a point order, Madam Deputy Speaker."
     },
     {
-      "order": 505,
+      "order": 507,
       "id": "entry-999241",
       "label": "speech",
       "level": "2",
@@ -6063,7 +6087,7 @@
       "text": "What is your point of order?"
     },
     {
-      "order": 506,
+      "order": 508,
       "id": "entry-999242",
       "label": "speech",
       "level": "2",
@@ -6075,7 +6099,7 @@
       "text": "Madam Deputy Speaker, you had given Sen. Kasanga an opportunity to proceed to the next Statement. I stand to be corrected but I did not hear you refer it to the relevant Committee. The importance of that is that, if you look at the Constitution, any entity that is not Parliament does not have the authority to make any law. If it is not referred to the relevant Committee and it dies without a report being brought back to this House, then we will have allowed an entity that is not Parliament to have created legislation that amounts to law. Would I be in order to request you to refer it to the right Committee?"
     },
     {
-      "order": 507,
+      "order": 509,
       "id": "entry-999243",
       "label": "speech",
       "level": "2",
@@ -6087,7 +6111,7 @@
       "text": "Thank you, Senator, for raising that. I confirm that the Statement from Sen. Kasanga stands committed to the Senate Committee on Roads and Transportation. We give them 14 days to bring a report. Proceed to the second Statement."
     },
     {
-      "order": 508,
+      "order": 510,
       "id": "entry-999244",
       "label": "heading",
       "level": "2",
@@ -6099,7 +6123,7 @@
       "text": "STATUS OF MENTAL HEALTH IN KENYA IN VIEW OF COVID-19 RESTRICTION MEASURES"
     },
     {
-      "order": 509,
+      "order": 511,
       "id": "entry-999245",
       "label": "speech",
       "level": "2",
@@ -6111,7 +6135,7 @@
       "text": "Thank you, Madam Deputy Speaker. I rise pursuant to Standing Order No. 48(1) to seek a Statement from the Standing Committee on Health regarding the mental health in Kenya in view of cessation of movement and curfew currently obtaining in the country. In the Statement, the Committee should- (1) Elaborate measures the Ministry of Health (MoH) has put in place to deal with mental health cases. (2) Provide a comprehensive report on the state of mental health in the country including county data reports, categories of people most at risk, performance of hospitals and clinics as well as suitable recommendations. (3) Elaborate on mechanisms that have been put in place to deal with escalated mental illnesses during the Pandemic and post-pandemic (4) Expound on when the designated taskforce shall release the Mental Health Report considering it conducted its work in February, 2020. I thank you."
     },
     {
-      "order": 510,
+      "order": 512,
       "id": "entry-999246",
       "label": "speech",
       "level": "2",
@@ -6123,7 +6147,7 @@
       "text": "Thank you, Madam Deputy Speaker for the Statement by Sen. Kasanga. It is important because mental health is one those of illness that are greatly misunderstood. People- including even the ones who call themselves \"Normal\"- suffer from various types of mental illnesses. They also have some form of mental illnesses because of a state of anxiety on something either family, loss of opportunity, job or loss of a good harvest from the farm and many other activities of that nature. Consequently, there has been a stigma attached to these kinds of illnesses and yet this can easily pass for a normal illness without any problem of difficulty except that people misunderstand it. Earlier on today, there was an allusion to the stigma on COVID-19 disease. Stigma is a dangerous element to be adopted in any society because it ostracizes or discriminates against that individual who has mental illness of any other illnesses such as the COVID-19. Therefore, they are unwanted in the society. It is a dangerous trend. I may quote from my personal experience when we had the 1999 HIV/AIDS pandemic which is the best example one can fall back to and quote. People dreaded to hear that there was HIV/ AIDS. We had to make every single effort to demystify it as a normal disease by a virus, that could be eventually managed. It was only that the cost of drugs was extremely prohibitive because of the nature of the patented anti-retroviral drugs and, therefore, people were unable to afford them. At that time I adopted the approach that one element that one can take is to take adequate nutrition. Secondly, in the line of drugs, we had to bring their cost down by getting a special sitting in Mombasa by Parliament to be able to declare HIV/AIDS a national disaster. We were, therefore, able to draw in on the World Trade Organization (WTO) arrangement. Once a country declares a national disaster, then it can access the generic drugs. The drugs became cheaper. At that time, the patented drugs; the anti-retroviral used to cost USD1000 which was way out of reach. People were discriminated. When people knew that one had HIV/AIDS they would run away. When we reduced these prices, and said infected people could live normal lives without having to be discriminated, there was enough education and knowledge to the public that it was not transmittable by physical contact but only by other means. We were, therefore, able to break that circle of stigma and bring it back to normalcy. We had the highland malaria which devastated many people and was a pandemic. We were able to bring in measures for treatment. People developed a phobia thinking that if one went to a malaria zone in Nyanza or western Kenya, for instance, and came back to Nairobi they would be told, \"Do not bring me the highland malaria.\" It was then killing people in droves. We had to put in some measures to clear that tag that this was not a element to worry about. Similarly, infectious diseases like COVID-19 are self-limiting if we follow the instructions that have already been given by the Government. The mode of transmission is cut off if we are able to observe the two-week self-quarantine or forced quarantine with a human face and if we have to treat them in hospitals. This is because after that period, they convalesce and get better and have no virus to transmit to anybody. The stigma that is associated with it is wrong because these people stay with us and their families. The Statement before us is about mental health. What is the Ministry of Health doing to demystify this level of stigma attached to mental illnesses? A mental illness is like a cough, malaria, fever or anything else that will come to an individual. With that brotherly love, care and education, the public, people can get back to normal and be able to do their normal things without any interruption or idea whatsoever whether that they had any form of mental illness. That is why all along, I have been a strict proponent that unless one has extreme types of psychiatric problems which would be managed by some psycho-depressive drugs---. Those would only be handled by the doctors and there are normal ways of dealing with them. They can be put in hospitals which have been set aside for treatment. That does not mean that mental illness will be transmitted from one individual to another. I am talking about this stigma element across the illness that the normal populations get without causing any undue distress. It is very important that we must keep aloof some people who have been possessed of that. The major element that needs to come into any Ministry of Health is, first of all, to have competent communicators and teachers who can educate and teach people about a given sequence of a problem and deal with it. Once they have been properly educated, people will understand what the problem is all about. Therefore, this element of stigma will come out and those individuals will not be segregated from the social strata of any society they are in. Madam Deputy Speaker, it is important that these people stay with us in our homes. They may be family members, classmates and workmates and, therefore, they need sympathy. It is just like when people had epilepsy and they were falling down. I noticed that when somebody had an epileptic attack, people ran away. They were thinking that if you assist that individual from that problem, the epileptic attack was transmittable to you. That is far from it because the cause of epilepsy is a misunderstanding of what the problem, the cause and effect is. The cause of epileptic attack may be varied from trauma, scar or other elements that can be defined. Treatment and care can prevent bad accidents from happening. People with mental illnesses may be driven to the extreme end if they are pushed because their stress levels may not be very strong that they can withhold that stress that comes upon them. It is important that the Ministry of Health is able to look at these ways of bringing in these kind of patients to give them care and support. Soon they will get out of that dilemma and there will be no more people like you and me walking around without any difficulty. Madam Deputy Speaker, I agree and support this Statement that the Ministry of Health should look at it. First of all, they should look at the facilities being availed in the counties throughout the country and at the national level. This is because mental health can be treated in the normal health center so long as you understand the cause and effect of it and without running away from it."
     },
     {
-      "order": 511,
+      "order": 513,
       "id": "entry-999252",
       "label": "speech",
       "level": "2",
@@ -6135,7 +6159,7 @@
       "text": "Sen. Farhiya, Proceed."
     },
     {
-      "order": 512,
+      "order": 514,
       "id": "entry-999253",
       "label": "speech",
       "level": "2",
@@ -6147,7 +6171,7 @@
       "text": "Thank you, Madam Deputy Speaker, for giving me the opportunity to congratulate Sen. (Dr.) Milgo for bringing this Statement. I had the stigma and I thought it was still hers. Let me contribute to both. I also thank Sen. Kasanga for her Statement on stigma. Stigma brings around a lot of worry. When people are stigmatized, they worry a lot. When they worry a lot, even the immunity levels go down. Therefore, as a society, people do not choose which disease to get. Some of these diseases are just airborne and there is nothing you could have done yet you got it, for example, Coronavirus disease (COVID-19) or even mental issues. Madam Deputy Speaker, the society will be much more helpful to people who are suffering from certain ailments if they are more considerate, human and have sympathy with these people. Also, it impacts treatment. The people who are stigmatized never even go for treatment. That means if it is COVID-19 and someone is stigmatized, they will continue spreading it without going to the hospital because of the fear of stigma. As a society, it is high time people are sensitized in terms of stigmatization. It is beyond control of those patients because nobody asks for a disease. Madam Deputy Speaker, I thank you for giving me this opportunity. I wish to request Kenyans that, please, let us stop stigmatization of people with certain diseases. They need our sympathy, love and consideration in their situation."
     },
     {
-      "order": 513,
+      "order": 515,
       "id": "entry-999255",
       "label": "speech",
       "level": "2",
@@ -6159,7 +6183,7 @@
       "text": "Thank you, Senator. The next Statement is from Sen. Were. Just for the avoidance of doubt, the second Statement of Sen. Kasanga stands committed to the Committee on Health. I give them 14 days to report back to the House. Sen. Were, proceed."
     },
     {
-      "order": 514,
+      "order": 516,
       "id": "entry-999256",
       "label": "heading",
       "level": "2",
@@ -6171,7 +6195,7 @@
       "text": "WELFARE SUPPORT FOR UNIONISABLE EMPLOYEES AFFECTED BY COVID-19 PANDEMIC"
     },
     {
-      "order": 515,
+      "order": 517,
       "id": "entry-999257-split-before-e3298903-3834-432b-8be8-aee8d4be9ab3",
       "label": "speech",
       "level": "2",
@@ -6183,7 +6207,7 @@
       "text": "Thank you, Madam Deputy Speaker. I rise pursuant to Standing Order No. 48 (1) to seek a Statement from the Standing Committee on Labor and Social Welfare regarding support for unionisable employees adversely impacted by COVID-19 from the Central Organization of Trade Unions (COTU-K) emergency fund as well as similar funds of about 41 COTU-K affiliate labor unions. In the Statement, the Committee should- (i)State how much each of the 41 COTU-K affiliate unions contribute towards the COTU-K emergency fund and how much has been collected by COTU-K from affiliate labor unions so far towards the emergency fund for the umbrella labor union; (ii)State how much has been collected by COTU-K affiliate unions from their members towards emergency funds of the respective labor unions; (iii)State the nature of emergencies for which the emergency funds administered by COTU-K and its affiliate labor unions cover; (iv) State the criteria for qualification of members to benefit from the emergency funds under COTU-K and its affiliate labor unions; (v)Provide information on the number of unionisable employees who have lost their jobs per sector since the first case of COVID-19 was reported in the country; (vi)State how many of the unionisable employees who have fallen out of employment or faced difficulties as a result of COVID-19 pandemic, such as those under- (a) Kenya Hotels and Allied Workers Union; (b) Kenya Aviation and Allied Workers Union;"
     },
     {
-      "order": 516,
+      "order": 518,
       "id": "entry-999257-split-selected-03b5b58c-e5cd-403a-a6a2-e9595c125ad0",
       "label": "scene",
       "level": "2",
@@ -6195,7 +6219,7 @@
       "text": "(c) Kenya Plantation and Agricultural Workers Union; (d) Kenya Union of Entertainment and Music industry employees; (e) Kenya Long Distance Truck Drivers and Allied Workers Union; and"
     },
     {
-      "order": 517,
+      "order": 519,
       "id": "entry-999257-split-after-f56bdb43-563b-4ef6-9c2b-1c9fbc343618",
       "label": "speech",
       "level": "2",
@@ -6207,7 +6231,7 @@
       "text": "(f) Kenya Union of Hair and Beauty Saloons Workers, amongst other trade unions. Madam Deputy Speaker, as I indicated earlier, they are 41 of them that have benefited from emergency funds under COTU-K and its affiliate labor unions and how much has been remitted to the affected union members."
     },
     {
-      "order": 518,
+      "order": 520,
       "id": "entry-999259",
       "label": "speech",
       "level": "2",
@@ -6219,7 +6243,7 @@
       "text": "Thank you, Senator. Sen. (Dr.) Ochillo-Ayacko, proceed."
     },
     {
-      "order": 519,
+      "order": 521,
       "id": "entry-999260",
       "label": "speech",
       "level": "2",
@@ -6231,7 +6255,7 @@
       "text": "Thank you, Madam Deputy Speaker. I know there are challenges of identifying Members when they wear masks. We all look alike. We cut our hair short and you could mistake me for the Senate Majority Leader on the other side. This is because we are tall. I want to loud Sen. Were."
     },
     {
-      "order": 520,
+      "order": 522,
       "id": "entry-999261",
       "label": "speech",
       "level": "2",
@@ -6243,7 +6267,7 @@
       "text": "It is true you have the same height."
     },
     {
-      "order": 521,
+      "order": 523,
       "id": "entry-999262",
       "label": "speech",
       "level": "2",
@@ -6255,7 +6279,7 @@
       "text": "Yes, Madam Deputy Speaker, and we are very Nilotic except that I do fishing while he does livestock. I congratulate my sister for remembering unionisable workers. Those are not just workers who belong to unions. Every worker who does not belong to management is eligible to belong to a union. Many workers in this nation together with their dependents are starving. They are suffering from the economic and social effects of COVID-19. Madam Deputy Speaker, I represent Migori County where we have a public owned sugar mill called South Nyanza Sugar Company (Sony) which employs very many people who are unionisable both directly and indirectly. Before the COVID-19 visited our shores, the employees of the Sony Sugar Company had not been paid their wages from as early as March last year. The employees of the Sony Sugar Company had not been paid their wages because the factory was doing poorly thus not getting revenues. The situation is reflected in the Mumias, Nzoia, Chemelil, Muhoroni and all the other public owned sugar mills. The unionisable employees in those factories including other employees who belong to the management have not been receiving their salaries. The people that I am talking about are the employees of factories owned by the Government. They are essentially public servants under the guise of state corporations. This Statement is so important because we would like to know if our Government is interested in public servants. Teachers are part of the unionisable employees who are suffering even though they have been receiving their pay. There are many workers in the hospitality industry whose contracts have been terminated without severance pay. The Committee to which this Statement will be committed should tell us what plans the Government has to mitigate the adversities that the unionisable employees are suffering."
     },
     {
-      "order": 522,
+      "order": 524,
       "id": "entry-999266",
       "label": "scene",
       "level": "2",
@@ -6267,7 +6291,7 @@
       "text": "(A phone vibrated in the Chamber)"
     },
     {
-      "order": 523,
+      "order": 525,
       "id": "entry-999267",
       "label": "speech",
       "level": "2",
@@ -6279,7 +6303,7 @@
       "text": "Hon. Senators, there is a phone that is vibrating. Kindly, keep all your phones on silence mode."
     },
     {
-      "order": 524,
+      "order": 526,
       "id": "entry-999268",
       "label": "speech",
       "level": "2",
@@ -6291,7 +6315,7 @@
       "text": "Madam Deputy Speaker, the unionisable workers have dependents. The companies also depend on the employees for performance. The performance of any organization is dependent upon the attitude of an employee. If an employee has not been paid since last year, there are no prospects for payment now. We are likely to suffer more if we do not know these employees and if we do not have plans for them. I therefore request the Committee on Labour and Social Welfare to give us a detailed response regarding the plans that are there to mitigate the effects of COVID-19 on the lives of these employees particularly the ones employed in the public owned sugar factories. The ripple effect that we will have if these fellows do not work is disastrous. Sony Sugar Company, for instance, serves Homa Bay, Migori and Narok counties in terms of sugar production. Mumias Sugar Company, on the other hand covers the entire Western region. Therefore, if these fellows are not motivated, the families of farmers who deliver cane and business people who supply cane and other things to the factories will be affected by the poor performance of these employees. Madam Deputy Speaker, I beg the Committee on Labour and Social Welfare to give us a good response and particularly extract from the responsible Cabinet Secretary information regarding when these employees will receive their payment. The unionisable employees need to know that their leaders care. I thank you."
     },
     {
-      "order": 525,
+      "order": 527,
       "id": "entry-999273",
       "label": "speech",
       "level": "2",
@@ -6303,7 +6327,7 @@
       "text": "Hon. Senators, I do not see any other request to speak on this matter. I therefore commit this Statement to the Standing Committee on Labour and Social Welfare. I expect them to work expeditiously and bring the report back in 14 days."
     },
     {
-      "order": 526,
+      "order": 528,
       "id": "entry-999274",
       "label": "speech",
       "level": "2",
@@ -6315,7 +6339,7 @@
       "text": "Let us move to the next Statement. The last Statement is by Sen. (Dr.) Milgo."
     },
     {
-      "order": 527,
+      "order": 529,
       "id": "entry-999275",
       "label": "speech",
       "level": "2",
@@ -6327,7 +6351,7 @@
       "text": "On a point of order, Madam Deputy Speaker. I also have a Statement that is not listed on the Order Paper but the Speaker had approved it."
     },
     {
-      "order": 528,
+      "order": 530,
       "id": "entry-999276",
       "label": "speech",
       "level": "2",
@@ -6339,7 +6363,7 @@
       "text": "I will give you a chance to read your Statement after Sen. (Dr.) Milgo."
     },
     {
-      "order": 529,
+      "order": 531,
       "id": "entry-999277",
       "label": "heading",
       "level": "2",
@@ -6351,7 +6375,7 @@
       "text": "ATTACK ON RESIDENTS OF BOMET BY AN ALLEGED MYSTERIOUS CREATURE"
     },
     {
-      "order": 530,
+      "order": 532,
       "id": "entry-999278",
       "label": "speech",
       "level": "2",
@@ -6363,7 +6387,7 @@
       "text": "Madam Deputy Speaker, I rise pursuant to Standing Order 48(1) to seek a Statement from the Standing Committee on National Security, Defence and Foreign Relations concerning the death of one persona and injury of three others in Bomet County between September 2019 and June 2020 apparently caused by mauling of a mysterious creature. In the Statement, the Committee should investigate the matter with a view of - (a) ascertaining the cause of death and injuries which in the most recent attack on 2nd June 2020, resulted in the reaping off of a man's left ear, gorging out of his eyes and mauling of his knee leaving him hospitalized at the Tenwek Mission Hospital in critical condition. Unfortunately, the said man died. (b) Outline the measures, if any, being put in place to ensure the safety and security of residents of Bomet from these kind of attacks now and in the future bearing in mind Bomet County borders Mau Forest, so it is not uncommon that we shall have such creatures coming out to attack residents. (c) State whether there are plans to assist the victims of these attacks in view of the allegations by the residents that a mysterious wildlife creature is responsible for the attacks. I thank you, Madam Deputy Speaker."
     },
     {
-      "order": 531,
+      "order": 533,
       "id": "entry-999281",
       "label": "speech",
       "level": "2",
@@ -6375,7 +6399,7 @@
       "text": "Hon. Senators, I do not see any request to contribute to this Statement. I, therefore, commit this Statement to the Standing Committee on National Security, Defence and Foreign Relations who have 14 days to bring a report back to the House. Kindly proceed, Sen. Pareno."
     },
     {
-      "order": 532,
+      "order": 534,
       "id": "entry-999282",
       "label": "heading",
       "level": "2",
@@ -6387,7 +6411,7 @@
       "text": "SHARING OF THE CONDITIONAL GRANT TO COUNTY GOVERNMENTS FOR COVID-19 EMERGENCY RESPONSE"
     },
     {
-      "order": 533,
+      "order": 535,
       "id": "entry-999283",
       "label": "speech",
       "level": "2",
@@ -6399,7 +6423,7 @@
       "text": "Madam Deputy Speaker, I rise pursuant to Standing Order 48(1) to seek a Statement from the ad-hoc Committee on the COVID-19 Situation in Kenya concerning the sharing of the Kshs5 billion conditional grant to county governments for COVID-19 emergency response. In that Statement, the Committee should - (i)Explain the criteria for the allocation of the Kshs5 billion conditional grant to county Governments for COVID-19 emergency response. (ii)Explain why some counties with no COVID-19 cases have received far bigger allocations than counties that have reported the COVID-19 cases. (iii)State why special consideration was not given to all counties bordering neighboring countries which are currently grappling with imported cases of the disease in the allocation of the funds. (iv)Explain why some counties with well-developed healthcare systems and infrastructure have been allocated more funds than those with fragile healthcare system infrastructure. Madam Deputy Speaker, a schedule has already been done for the release of the funds and how they have allocated the Kshs5 billion. I would like to cite three counties. Kajiado County currently has 96 cases of the COVID-19 while Busia County has about 211 cases. The allocation for Kajiado County is about Kshs52 million, while the allocation for Busia is about Kshs100 million. Kakamega County that has only three cases has been allocated---"
     },
     {
-      "order": 534,
+      "order": 536,
       "id": "entry-999284",
       "label": "speech",
       "level": "2",
@@ -6411,7 +6435,7 @@
       "text": "Sen. Pareno, I do not want you to be tempted to answer your own question. I want you to leave the question to the Committee."
     },
     {
-      "order": 535,
+      "order": 537,
       "id": "entry-999285",
       "label": "speech",
       "level": "2",
@@ -6423,7 +6447,7 @@
       "text": "Madam Temporary Speaker, I stand guided. Kakamega County has Kshs262 million, while they only have three cases. Can the Committee answer these questions? I end by saying that the Cabinet Secretary (CS), Hon. Mutahi Kagwe, who has done a very good job, has been saying that if you treat this disease normally, it will treat you abnormally. If this is the way that we are going to treat this disease, it is going to be shocking for this country. We are still behaving like we are using the same index that we were using to allocate funds well before the Coronavirus Disease (COVID-19) arrived, and we are not bothered about the effect it has had on several counties. Madam Deputy Speaker, I ask that you guide us according to the Standing Orders, so that we have a committee that will hear, investigate these matters and report back to this House. It is so urgent. It is an issue of livelihood and touches on the very core of how we can handle this disease."
     },
     {
-      "order": 536,
+      "order": 538,
       "id": "entry-999287",
       "label": "speech",
       "level": "2",
@@ -6435,7 +6459,7 @@
       "text": "Thank you."
     },
     {
-      "order": 537,
+      "order": 539,
       "id": "entry-999288",
       "label": "speech",
       "level": "2",
@@ -6447,7 +6471,7 @@
       "text": "Thank you, Madam Deputy Speaker. I want to laud my sister for raising this very pertinent issue. The reason these funds are being shared out is not that they are funds that are to be shared out; it is an emergency. These are extraordinary times. During an emergency, you look at the vulnerability and prevalence in areas where this pandemic is. You do not share it as if you are doing things normally. If you look at the sharing that is going on right now, the Commission on Revenue Allocation (CRA) has been given the mandate to share it out. They are basing their sharing on a formula that does not take cognisance of the fact that we are under extraordinary times. I am a representative of Migori County. The porosity along the border of Migori is only comparable to Busia, Kajiado, Taita-Taveta, Kwale, Mandera and other places. As I speak, Migori is getting infections from Tanzania, the same way infections are getting into Kenya through Busia. However, when you look at the sharing of this grant that is supposed to help us fight COVID-19, the formula that has been used is that of the CRA. Why then are we sharing - and this should be answered by the Committee - the grant that is available based on the normal formula without taking cognisance of the fact that certain border counties are more prone to, more exposed and more likely to introduce and continue introducing this virus into the nation? Madam Deputy Speaker, if we behave as if Kajiado, Migori, Busia, Mandera and the coastal counties do not matter, we are not safe even here in Nairobi. This infection of COVID-19 will enter into Kenya through Kajiado and travel to Nairobi, the same way that people thought that China is very far. Madam Deputy Speaker, I want the responsible Committee to find out from the CS whether his rhetoric about extraordinary times was part of the consideration when this money was being shared. I want this Committee to specifically tell the people of Migori, Kajiado, Busia, Trans Nzoia, Turkana, Mandera, Lamu, and other frontier counties, whether there are additional funds that are called Emergency Funds, because this is just a normal health allocation based on the general formula that is being used. Lastly, because these are extraordinary times, I want the Committee to specifically tell us what measures they have put in place to ensure that these funds will not go into waste, misuse or to poor governance, because that is also another threat that we need to deal with very urgently. I want to take this opportunity to thank Sen. Pareno for thinking about frontier counties, including Migori, Kajiado and other counties. I thank you."
     },
     {
-      "order": 538,
+      "order": 540,
       "id": "entry-999289",
       "label": "speech",
       "level": "2",
@@ -6459,7 +6483,7 @@
       "text": "Thank you, Sen. Ochillo-Ayacko."
     },
     {
-      "order": 539,
+      "order": 541,
       "id": "entry-999290",
       "label": "speech",
       "level": "2",
@@ -6471,7 +6495,7 @@
       "text": "Hon. Senators, we have our ad hoc Committee on COVID-19 Situation in Kenya still running. I would like to commit this Statement to that Committee. Because of the urgency of the matter, we will give them seven days so that they report on Tuesday, next week. The last Statement is pursuant to Standing Order 52 (1), the Senate Majority Leader to issue a Statement on the business of the Senate for the week commencing Tuesday, 16th June, 2020."
     },
     {
-      "order": 540,
+      "order": 542,
       "id": "entry-999291",
       "label": "heading",
       "level": "2",
@@ -6483,7 +6507,7 @@
       "text": "BUSINESS FOR THE WEEK COMMENCING TUESDAY, 16TH JUNE, 2020"
     },
     {
-      "order": 541,
+      "order": 543,
       "id": "entry-999292",
       "label": "speech",
       "level": "2",
@@ -6495,7 +6519,7 @@
       "text": "Thank you, Madam Deputy Speaker, pursuant to Standing Order 52(1), I hereby present to the Senate, the business of the House for week commencing Tuesday, 16th June, 2020. As you are aware, the COVID-19 situation in Kenya has affected the conduct of parliamentary business both in plenary and committees. Hon. Senators will recall that on 17th March, 14th April and 2nd June, 2020, the Senate, resolved to alter its Calendar to adjust its plenary sittings to conform to the World Health Organization (WHO) and the Ministry of Health guidelines to curb the spread of the virus which necessitated a change in the number of sittings per week and the number of Senators to sit in the Chamber at any particular time to observe the requirements for social distancing. Madam Deputy Speaker, I take this opportunity to thank all Hon. Senators for their understanding and by adjusting to the prevailing circumstances and abiding by the attendant guidelines for conducting business. Going forward, Senators will note that arrangements have now been made to ensure that all Senators are able to participate in the plenary sittings without the need for a designated list of specific Senators to attend the sittings. In this respect, I urge Senators with business listed on the Order Paper to ensure that they are available to prosecute the same within the allocated time. I also urge respective Standing Committees to use the available opportunity on Wednesdays and Thursdays to expeditiously conclude consideration of Bills, Petitions and Statements referred to them and table reports pursuant to the Standing Orders. Madam Deputy Speaker, hon. Senators will recall that on 14th May, 2020, a meeting of all Senators to deliberate on the Third Basis for Revenue Sharing among county governments was convened by the Standing Committee on Finance and Budget in conjunction with the Commission on Revenue Allocation (CRA). Following this meeting, the Committee retreated to conclude its consideration of the matter and to prepare its report to the Senate. I take this opportunity to urge the Standing Committee on Finance and Budget to expedite consideration of this matter. Its conclusion will then pave way for consideration and passage of the County Allocation of Revenue Bill. Hon. Senators will agree with me that a speedy resolution of these two crucial business will go a long way to ensure that county governments have the necessary funding for their projects and programmes in the next financial year, taking into consideration the COVID-19 pandemic which has necessitated a reorientation of priorities at both the national and county level. Honourable Senators will further recall that on Tuesday, 2nd June, 2020, following the tabling of the Report of the Parliamentary Service Commission on the appointment of a Commissioner under Article 127(2)(d) of the Constitution, and Section 9 of the Parliamentary Service Act, the Speaker referred the nomination for appointment to the Standing Committee on Justice, Legal Affairs and Human Rights, pursuant to Standing Order 71(1). Pursuant to Standing Order 71(3), the Standing Committee is required to conduct public hearings on the appointment and table a report within fourteen days. I urge the Standing Committee on Justice, Legal Affairs and Human Rights to conclude its consideration of the Report of the Parliamentary Service Commission for the appointment of a Commissioner under Article 127(2)(d) of the Constitution and table a report within the stipulated timelines. Madam Deputy Speaker, with respect to other business of the Senate, on Tuesday, 16th June, 2020, the Senate Business Committee (SBC) will meet to schedule the business of the Senate. On the same day, 16th June, 2020, the Senate will consider Bills scheduled for Second Reading and those at the Committee of the Whole stages. The Senate will also continue with consideration of business that will not be concluded in today's Order Paper, including Motions, Petitions and Statements. A total of twenty two (22) Bills are due for Second Reading. These are- (1) The Election Laws (Amendment) Bill (Senate Bills No. 3 of 2017); (2) The Constitution of Kenya (Amendment) Bill (Senate Bills No. 40 of 2018); (3) The Government Contracts Bill (National Assembly Bills No. 9 of 2018); (4) The Constitution of Kenya (Amendment) Bill (Senate Bills No. 2 of 2019; (5) The Constitution of Kenya (Amendment) Bill (Senate Bills No. 16 of 2019); (6) The Public Finance Management (Amendment) Bill (National Assembly Bills No. 63 of 2019); (7) The Sectional Properties Bill (National Assembly Bills No. 23 of 2019); (8) The Independent Electoral and Boundaries Commission (Amendment) (No. 3) Bill (National Assembly Bills No.35 of 2019); (9) The Lifestyle Audit (No. 2) Bill (Senate Bills No. 21 of 2019); (10) The Public Finance Management (Amendment) Bill (National Assembly Bills No. 51 of 2017); (11) The National Drought Management Authority (Amendment) Bill (National Assembly Bill No. 26 of 2019); (12) The Reproductive Healthcare Bill (Senate Bills No. 23 of 2019); (13) The Wildlife Conservation and Management (Amendment) Bill (Senate Bills No. 24 of 2019); (14) The Law of Succession (Amendment) Bill (Senate Bills No. 1 of 2020); (15) The Prompt Payment Bill (Senate Bills No. 3 of 2020); (16) The County Resource Development Bill (Senate Bills No. 2 of 2020); (17) The Community Health Services Bill (Senate Bills No. 5 of 2020); (18) The County Allocation of Revenue Bill (Senate Bills No. 7 of 2020); (19) The Parliamentary Powers and Privileges (Amendment) Bill (Senate Bills No. 4 of 2020); (20) The Livestock and Livestock Products Marketing Board Bill (National Assembly Bill No. 2 of 2019); (21) The Representation of Special Interest Groups Laws (Amendment) Bill (National Assembly Bills No. 52 of 2019); and (22) The Equalization Fund Bill (National Assembly Bills No. 43 of 2019). In addition, there are another twenty (20) Bills at the Committee of the Whole Stage. These are - (1) The County Governments Retirement Scheme Bill (Senate Bills No. 6 of 2018); (2) The Retirement Benefits (Deputy President and Designated State Officers) (Amendment) Bill (Senate Bills No. 2 of 2018); (3) The Election Laws (Amendment) Bill (Senate Bills No. 33 of 2018); (4) The Kenya Medical Supplies Authority (Amendment) Bill (Senate Bills No. 38 of 2018); (5) The National Museum and Heritage (Amendment) Bill (Senate Bill No. 7 of 2019); (6) The Cancer Prevention and Control (Amendment) Bill (Senate Bills No.9 of 2019). (7) The County Tourism Bill (Senate Bills No.5 of 2019) (8) The County Hall of Fame Bill (Senate Bill No.39 of 2018) (9) The Street Vendors Protection of Livelihood Bill (Senate Bills No.10 of 2019) (10) The Establishment of Children's Homes Bill (Senate Bills No.12 of 2019) (11) The Care and Protection of Child Parents Bill (Senate Bills No.11 of 2019) (12) The Registration of Persons (Amendment) Bill (Senate Bills No.14 of 2019) (13) The Kenya Sign Language Bill (Senate Bills No.15 of 2019) (14) The County Licensing Uniform Procedure Bill (Senate Bills No.17 of 2019) (15) Election (Amendment) Bill (Senate Bills No.18 of 2019) (16) The Alternative Dispute Resolution Bill (Senate Bills No.19 of 2019) (17) The Fisheries Management and Development (Amendment) Bill (Senate Bills No.22 of 2019) (18) The Statute Law (Miscellaneous Amendments) (No.2) Bill (National Assembly Bills No.13 of 2018) (19) The SACCO Societies (Amendment) Bill (National Assembly Bills No.1 of 2018) (20) The Pandemic Response Management Bill (Senate Bills No.6 of 2020) Consideration of these Bills will be prioritized by the Senate Business Committee (SBC). I urge respective standing Committees to expeditiously conclude consideration of the same and table reports pursuant to the Standing Orders. The reports will enrich debate at the Second Reading stage and also afford the Senate time to effectively navigate amendments during the Committee of the Whole stage. Madam Temporary Speaker, the following Bills are pending division at Second Reading and Committee of the Whole respectively. These are- (1) The Independent Electoral and Boundaries Commission (Amendment) (No.3) Bill (National Assembly Bills No.5 of 2019). (2) The Lifestyle Audit (No.2) Bill (Senate Bills No.21 of 2019). (3) The Reproductive Health Bill (Senate Bills No.235 of 2019). (4) The County Assemblies Procedure Bill (Senate Bills No.22 of 2018) (5) The Office of the County Attorney Bill (Senate Bills No.3 of 2018) (6) The County Early Childhood Education Bill (Senate Bills No.26 of 2018) I urge all Senators to avail themselves for the voting process so that the House dispenses with these Bills and moves to the next stage. There are also several Bills scheduled in today's Order Paper for Second Reading and Committee of the Whole stages. I request the respective movers of these Bills to accordingly avail themselves. Before I conclude, I wish to draw the attention of the House to 53 petitions pending before the respective standing Committees as follows- (1) Twenty one before the Committee on Lands, Environment and Natural Resources. (2) Four before the Committee on Health (3) Three before the Committee on National Security, Defense and Foreign Relations. (4) Five before the Committee on Labour and Social Welfare. (5) Two before the Committee on Tourism and Trade and Industrialization. (6) One before the Committee on National Cohesion, Equal Opportunity and Regional Integration. (7) Three before the Committee on Roads and Transportation. (8) Two before the Committee on Finance and Budget. (9) Two before the Committee on Education (10) Seven before the Committee on Justice, Legal Affairs and Human Rights (11) Two before the Committee on Devolution and Inter-Governmental Relations (12) One before the Committee on Agriculture, Livestock and Fisheries. I take this opportunity to urge Standing Committees to expeditiously conclude with the Petitions and table reports pursuant to Standing Order No.232 (2). I hereby lay the Statement on the Table of the House."
     },
     {
-      "order": 542,
+      "order": 544,
       "id": "entry-999303",
       "label": "scene",
       "level": "2",
@@ -6507,7 +6531,7 @@
       "text": "(Sen. Dullo laid the document on the Table)"
     },
     {
-      "order": 543,
+      "order": 545,
       "id": "entry-999304",
       "label": "speech",
       "level": "2",
@@ -6519,7 +6543,7 @@
       "text": "Sorry, it was a bit long."
     },
     {
-      "order": 544,
+      "order": 546,
       "id": "entry-999305",
       "label": "speech",
       "level": "2",
@@ -6531,7 +6555,7 @@
       "text": "Thank you. That was long, but very good details. Hon. Senators, following consultations, I would like to defer Orders No.14, 15 and 16. All of them are at the division stage."
     },
     {
-      "order": 545,
+      "order": 547,
       "id": "entry-999306",
       "label": "heading",
       "level": "1",
@@ -6543,7 +6567,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 546,
+      "order": 548,
       "id": "entry-999307",
       "label": "heading",
       "level": "2",
@@ -6555,7 +6579,7 @@
       "text": "CONSIDERATION OF THE NATIONAL ASSEMBLY AMENDMENTS TO THE OFFICE OF THE COUNTY ATTORNEY BILL"
     },
     {
-      "order": 547,
+      "order": 549,
       "id": "entry-999308",
       "label": "scene",
       "level": "2",
@@ -6567,7 +6591,7 @@
       "text": "(SENATE BILLS NO. 3 OF 2018)"
     },
     {
-      "order": 548,
+      "order": 550,
       "id": "entry-999309",
       "label": "scene",
       "level": "2",
@@ -6579,7 +6603,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 549,
+      "order": 551,
       "id": "entry-999310",
       "label": "heading",
       "level": "1",
@@ -6591,7 +6615,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 550,
+      "order": 552,
       "id": "entry-999311",
       "label": "heading",
       "level": "2",
@@ -6603,7 +6627,7 @@
       "text": "CONSIDERATION OF THE NATIONAL ASSEMBLY AMENDMENTS TO THE PETITION TO COUNTY ASSEMBLIES (PROCEDURE) BILL (SENATE BILLS NO. 22 OF 2018)"
     },
     {
-      "order": 551,
+      "order": 553,
       "id": "entry-999312",
       "label": "scene",
       "level": "2",
@@ -6615,7 +6639,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 552,
+      "order": 554,
       "id": "entry-999313",
       "label": "heading",
       "level": "1",
@@ -6627,7 +6651,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 553,
+      "order": 555,
       "id": "entry-999314",
       "label": "heading",
       "level": "2",
@@ -6639,7 +6663,7 @@
       "text": "CONSIDERATION OF THE NATIONAL ASSEMBLY AMENDMENTS TO THE COUNTY EARLY CHILDHOOD EDUCATION BILL (SENATE BILLS NO. 26 OF 2018)"
     },
     {
-      "order": 554,
+      "order": 556,
       "id": "entry-999315",
       "label": "scene",
       "level": "2",
@@ -6651,7 +6675,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 555,
+      "order": 557,
       "id": "entry-999316",
       "label": "speech",
       "level": "2",
@@ -6663,7 +6687,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 556,
+      "order": 558,
       "id": "entry-999317",
       "label": "heading",
       "level": "1",
@@ -6675,7 +6699,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 557,
+      "order": 559,
       "id": "entry-999319",
       "label": "heading",
       "level": "3",
@@ -6687,7 +6711,7 @@
       "text": "THE PROMPT PAYMENT BILL (SENATE BILLS NO.3 OF 2020)"
     },
     {
-      "order": 558,
+      "order": 560,
       "id": "entry-999320",
       "label": "scene",
       "level": "3",
@@ -6699,7 +6723,7 @@
       "text": "(Sen. Farhiya on 2.6.2020 - Afternoon Sitting)"
     },
     {
-      "order": 559,
+      "order": 561,
       "id": "entry-999321",
       "label": "scene",
       "level": "3",
@@ -6711,7 +6735,7 @@
       "text": "(Resumption of debate interrupted on 2.6.2020 - Afternoon Sitting)"
     },
     {
-      "order": 560,
+      "order": 562,
       "id": "entry-999322",
       "label": "speech",
       "level": "3",
@@ -6723,7 +6747,7 @@
       "text": "Again, there was consultation about this one and it is deferred. Sorry, this one is not being deferred. It was being moved and we are on Order No.17, The Prompt Payment Bill. Sen. Farhiya Haji was on the Floor moving and she had a balance of 50 minutes, because as the Mover, you have the opportunity to use up to one hour. However, you do not have to use the one hour because your colleagues may need to have more time than you at times."
     },
     {
-      "order": 561,
+      "order": 563,
       "id": "entry-999323",
       "label": "speech",
       "level": "3",
@@ -6735,7 +6759,7 @@
       "text": "Sen. Farhiya, you may continue."
     },
     {
-      "order": 562,
+      "order": 564,
       "id": "entry-999324",
       "label": "speech",
       "level": "3",
@@ -6747,7 +6771,7 @@
       "text": "Thank you, Madam Deputy Speaker, this Bill has a co-sponsor. I do not know whether the seconding can be deferred for the co-sponsor or we just go ahead with it? I seek your indulgence. I will continue moving and finish, after which I request that the seconding be deferred because I am co-sponsoring the Bill."
     },
     {
-      "order": 563,
+      "order": 565,
       "id": "entry-999325",
       "label": "speech",
       "level": "3",
@@ -6759,7 +6783,7 @@
       "text": "Senator, you have a lot of time. We only have 20 minutes to go. So, if you are moving, we will complete the 20 minutes, then the Seconder will come after. But you have no problem with the Seconder also. Even if it is seconded here, the co-sponsor can still have time to speak like any other Member in Senate."
     },
     {
-      "order": 564,
+      "order": 566,
       "id": "entry-999326",
       "label": "speech",
       "level": "3",
@@ -6771,7 +6795,7 @@
       "text": "On a point of order, Madam Deputy Speaker. It looks like Sen. Farhiya she is not prepared to proceed with this matter. There is a Bill that is a bit urgent; The National Drought Management Authority (Amendment) Bill. Maybe, with her permission, we can proceed with that."
     },
     {
-      "order": 565,
+      "order": 567,
       "id": "entry-999327",
       "label": "speech",
       "level": "3",
@@ -6783,7 +6807,7 @@
       "text": "Sen. Farhiya, do you feel strongly that we need to wait for the co-sponsor?"
     },
     {
-      "order": 566,
+      "order": 568,
       "id": "entry-999328",
       "label": "speech",
       "level": "3",
@@ -6795,7 +6819,7 @@
       "text": "Yes, Madam Deputy Speaker. Given what the Deputy Majority Leader has requested, I am convinced that I can wait."
     },
     {
-      "order": 567,
+      "order": 569,
       "id": "entry-999329",
       "label": "speech",
       "level": "3",
@@ -6807,7 +6831,7 @@
       "text": "All right! Senators, we defer Order No.17 and move to Order No.18."
     },
     {
-      "order": 568,
+      "order": 570,
       "id": "entry-999330",
       "label": "scene",
       "level": "3",
@@ -6819,7 +6843,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 569,
+      "order": 571,
       "id": "entry-999331",
       "label": "heading",
       "level": "1",
@@ -6831,7 +6855,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 570,
+      "order": 572,
       "id": "entry-999332",
       "label": "heading",
       "level": "3",
@@ -6843,7 +6867,7 @@
       "text": "THE NATIONAL DROUGHT MANAGEMENT AUTHORITY (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO.26 OF 2019)"
     },
     {
-      "order": 571,
+      "order": 573,
       "id": "entry-999333",
       "label": "speech",
       "level": "3",
@@ -6855,7 +6879,7 @@
       "text": "Thank you, Madam Deputy Speaker. I beg to move that The National Drought Management Authority (Amendment) Bill (National Assembly Bills No. 26 of 2019) be now read a Second Time. I wish to thank the Deputy Whip of the Senate, Sen. Farhiya, for allowing us to move this particular Bill because it is rather urgent and has been with us for some time. I really thank the Government for agreeing to amend this particular Bill, so that we can utilize the budget under the Drought Management Authority. The Bill seeks to amend the National Drought Management Act No.4 of 2016, which is very critical. I hope that as soon as we pass this Bill, it will help Kenyans who are yearning for this fund to help them benefit from the budget that is already in the account. The Bill also amends several provisions in the Bill relating to establishing drought coordination framework. This shows that the Bill is coming up with the framework on how drought can be coordinated in this country. It also provides powers and functions of the Authority, which clearly shows how it will man the fund. The Bill establishes the National Drought Emergency Fund. As a country, we have been facing a lot of challenges in terms of how this budget should be utilized. If we pass this Bill, then Kenyans from Arid and Semi-Arid Land (ASAL) areas can enjoy this particular fund. It is awaiting this particular Bill to amend how the fund can be operationalized. Madam Deputy Speaker, there are a lot of problems during drought in our country, especially in ASAL areas. Every time, you will see us fighting for proper legislation to be put in place for take care of drought in ASAL areas. Whenever it rains, we have been running around to make sure we take care of floods in this country. I hope this Bill we are moving as the Senate can solve the problem of drought in this country. Whenever there is a drought, we call it an emergency. Once we establish this fund, I hope we will have a basket where donors will contribute to this worthy course and make sure we have prepared ourselves as a country in dealing with the drought disaster. The Bill also provides the drought response and management which National Drought Management Authority (NDMA) has been doing over the years. Unfortunately, because of lack of proper framework, this has never been done properly; a response that is not directly geared towards solving the solution. With the established fund under this amendment, we can respond to drought in this country in a proper manner. Secondly, the Bill also gives responsibility to both national and county government. You will find that a lot of money is allocated at the national and county level. However, without proper legislation, the money is not utilized in a manner that it can help Kenyans. At the national level, we have a lot funding. There are so many institutions that are running around with the basket of drought or disaster management in this county. The county governments are doing the same thing which does not help Kenyans. This is because we have not put the basket together in a helpful manner to Kenyans. I hope this Bill will provide a framework where both national and county level can manage response to drought, Once this Bill is assented to, as a country, we will have proper finances to respond to drought. We will have finances that can help citizens in this country. In most drought cases, the Government tries to come up with different strategies to ensure we have dealt with the drought issue without having a proper manner to guide the country in solving the problem. With the passage of this amendment, I believe we can have a proper framework to provide financial response to drought in this country and in a manageable manner. Unless we do that, we will help Kenyans. Every time, we run around whenever there is disaster instead of preparing ourselves. I believe this is a worthy amendment that we required over the years, so that we can utilise the budget under the NDMA which has not been utilised over the years simply because we do not have legislation in place. I believe this will help Kenyans at this particular time when we are facing a lot of challenges. Soon we will have drought but recently we have been running around because of floods. I believe this is a worthy process where especially communities in Arid and Semi- Arid Lands (ASALs) will benefit from the Fund. That does not mean that other Kenyans will not benefit. This is something that will benefit the whole country especially whenever we have drought because it does not limit people in other parts of the country. Madam Deputy Speaker, without wasting a lot of time, I beg to move and request Sen. Ochillo-Ayacko to second this Bill. I thank you."
     },
     {
-      "order": 572,
+      "order": 574,
       "id": "entry-999342",
       "label": "speech",
       "level": "3",
@@ -6867,7 +6891,7 @@
       "text": "Thank you, Madam Deputy Speaker, for the opportunity to second this Bill. First, I take this opportunity to congratulate the Deputy Senate Majority Leader whom I have known for many years because we were in the same masters' class. I have known her as a meticulous and studious person committed to represent her people and I am excited to second her Bill. I am also happy that the National Assembly also thought about our families in ASALs. Many people who are parochial or narrow in thinking may think that this Bill is about ASALs but it is about production. A nation that wants to realise here potential must ensure that all areas are productive. If we continue pretending that Nairobi is the centre of production and that other traditional areas are where production should be carried, then we will miss opportunities as a nation. There is immense potential in areas that have been left behind. Until this potential is unlocked and unleashed for the benefit of the entire nation, we will continue wallowing in poverty and being in the same difficulties that we confront year in, year out. The amendments in this Bill are about production and ensuring that every region in this country is able to produce and feed the nation or take care of the residents of those regions. So, we are not talking about areas that have been neglected. We are just trying to ensure that we grow the cake. Everybody wants a piece of that cake but not many of us take our time to ensure that the cake is grown so that the sharing is good. I am happy that the Drought Management Authority has been proposed here. We must not think about drought when it strikes. We must continuously have it in our radar knowing that what God gives to us is nature. God will give you drought, floods and everything but it is upon you to read the Book of Genesis Chapter 1:28 and know that even if you were given authority to superintend over the universe, it is your responsibility to have knowledge and use your environment in a manner that is sustainable. If we establish this Authority, then we are taking that responsibility that God gave to us to ensure that there is an organization whose responsibility is to look at matters nature and drought. If we just wait for drought to come knowing that it is part of our environment, then when it comes, it becomes very tragic like an ambush and finds us unprepared. If we establish an Authority whose constant and continuous mandate is to look at the trends of this drought, get in touch with experts world over and ensure that what is being done in drought-prone countries is also being done locally for the benefit of our people, then we are taking steps in the right direction that must be supported. I hope that this Bill will get traction with our colleagues in the Senate and ensure that every part of this nation has opportunity to generate wealth, generate resources and to employ our people and that we do not have barriers and boundaries. I would like to have an opportunity to live in Isiolo or Turkana. Otherwise when I see the white people travelling from US or South America to come and visit Turkana and I as a Kenyan, I am reluctant to visit that place, I think I am sinning against Turkana and the nation. We want those places to be developed. We want Mandera and Garissa to be developed so that we are free and happy to be in our country. The aspect that introduces the setting aside of funds to take care of this is also a very positive step. We should not just think that when drought comes, we declare it an emergency and after that we are all over the world trying to beg for help. We must try to resolve this problem ourselves by setting aside sufficient funds, training our people, carrying out research and ensuring that we are able to survive the drought. When it comes, it will fund us set. If one goes to the Middle East countries such as Dubai, Saudi Arabia or Egypt, drought is a regular thing but they are able to manage it. In fact, it is so tragic at times that we have to import food from Egypt, a very dry place where we only know of River Nile. As a nation we are able to fix some of these vagaries of the weather and to live with dignity. A nation that keeps on begging all over the place from generous or kind nations loses its sovereignty and respect. As a nation, I think this Bill is going a long way to cover nearly half of our land masses. The land masses of this nation that we ought to depend on are drought prone. In fact, they harbor locusts at times. If we are able to deal with drought even the locusts invasions will be taken care of. This is a good Bill. It is something that is establishing an institution that will be dedicated to having its eyes focused on the ball which is drought. Secondly, the same institution will have funds that will be dedicated to dealing with drought. I know that many places in this nation are dry but we are only talking about the northern parts. Even where we come from, for instance, in Migori County, we have dry parts that this organization will venture into. We have dry places in Homa Bay. In Migori County if one goes to some parts of Uriri, Nyatike, some parts of Kuria East and West, we have dry places that need this kind of intervention. We, first, need to sort out the many places that suffer extreme drought. Even here in Central Kenya, there are dry parts. There are dry parts of what we call Lower Eastern such as Kitui, Makueni and Machakos experience drought. Kajiado is also a drought-prone area. We need not think that drought is a something that is far from us. It is within us and affects places that are also doing badly. Madam Deputy Speaker, with those very many remarks, I beg to second. Thank you very much for the opportunity."
     },
     {
-      "order": 573,
+      "order": 575,
       "id": "entry-999350",
       "label": "scene",
       "level": "3",
@@ -6879,7 +6903,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 574,
+      "order": 576,
       "id": "entry-999351",
       "label": "heading",
       "level": "1",
@@ -6891,7 +6915,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 575,
+      "order": 577,
       "id": "entry-999352",
       "label": "speech",
       "level": "1",

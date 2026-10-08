@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-10-24-14-30-00",
-  "exported_at": "2026-10-05T08:02:18.524Z",
+  "exported_at": "2026-10-08T21:35:06.291Z",
   "entries": [
     {
       "order": 1,
@@ -4660,7 +4660,7 @@
     },
     {
       "order": 389,
-      "id": "entry-830389",
+      "id": "entry-830389-split-before-c3ddbcbe-e72b-40e7-a6dc-df320e508d06",
       "label": "speech",
       "level": "5",
       "cutout": false,
@@ -4668,10 +4668,34 @@
       "speaker": "Mohammed Maalim Mahamud",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by deleting clause 8 and substituting therefore the following new clause- Technical Committee\n\n8.\n\n(1) there is established a technical committee known as the Intergovernmental Technical Committee on County Statistics comprising--\n\n(a) The Principal Secretary in the Ministry responsible for matters relating to statistics who shall be the chairperson;\n\n(b) One county executive committee member responsible for matters relating to statistics nominated by the Council of County Governors;\n\n(c) One county statistician nominated by the Council of County Governors; (a) Three persons appointed by the Cabinet Secretary from entities recognized by the government as representing-\n\n(i) Statisticians;\n\n(ii) Research institutions; and\n\n(iii) Public universities; (f) One person nominated by the National Council for Population and Development; and, (g) the Director General of the Kenya National Bureau of Statistics or an officer designated by the Director General of the Bureau who shall be the secretary to the technical committee and shall have no vote. (3) The persons nominated under sub section (1) (d), (e,) and (f) shall -- (a) be appointed by the Cabinet Secretary by notice in the Gazette ; and (b) Serve on a part-time basis for a term of four years renewable for one further term. (4) The Cabinet Secretary shall appoint the first members of the technical committee under subsection (1) (d) (e) and (f) within two months of the commencement of this Act.\n\n(5) The Cabinet Secretary shall provide the technical committee with such facilities and other support as it may require for the discharge of its functions."
+      "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by deleting clause 8 and substituting therefore the following new clause- Technical Committee\n\n8.\n\n(1) there is established a technical committee known as the Intergovernmental Technical Committee on County Statistics comprising--\n\n(a) The Principal Secretary in the Ministry responsible for matters relating to statistics who shall be the chairperson;\n\n(b) One county executive committee member responsible for matters relating to statistics nominated by the Council of County Governors;\n\n(c) One county statistician nominated by the Council of County Governors; (a) Three persons appointed by the Cabinet Secretary from entities recognized by the government as representing-\n\n(i) Statisticians;\n\n(ii) Research institutions; and\n\n(iii) Public universities; (f) One person nominated by the National Council for Population and Development; and, (g) the Director General of the Kenya National Bureau of Statistics or an officer designated by the Director General of the Bureau who shall be the secretary to the technical committee and shall have no vote."
     },
     {
       "order": 390,
+      "id": "entry-830389-split-selected-2e3c5221-13fd-43ce-9f67-75e76c4d1f1e",
+      "label": "scene",
+      "level": "5",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "(3) The persons nominated under sub section (1) (d), (e,) and (f)"
+    },
+    {
+      "order": 391,
+      "id": "entry-830389-split-after-8e9623be-6fe3-4f62-8717-70fb2a92107d",
+      "label": "speech",
+      "level": "5",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Mohammed Maalim Mahamud",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "shall -- (a) be appointed by the Cabinet Secretary by notice in the Gazette ; and (b) Serve on a part-time basis for a term of four years renewable for one further term. (4) The Cabinet Secretary shall appoint the first members of the technical committee under subsection (1) (d) (e) and (f) within two months of the commencement of this Act.\n\n(5) The Cabinet Secretary shall provide the technical committee with such facilities and other support as it may require for the discharge of its functions."
+    },
+    {
+      "order": 392,
       "id": "entry-830400",
       "label": "scene",
       "level": "5",
@@ -4683,7 +4707,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 391,
+      "order": 393,
       "id": "entry-830401",
       "label": "speech",
       "level": "5",
@@ -4695,7 +4719,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 392,
+      "order": 394,
       "id": "entry-830402",
       "label": "heading",
       "level": "5",
@@ -4707,7 +4731,7 @@
       "text": "Clause 9"
     },
     {
-      "order": 393,
+      "order": 395,
       "id": "entry-830403",
       "label": "speech",
       "level": "5",
@@ -4719,7 +4743,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT clause 9 of the Bill be amended - (a) in the introductory clause by deleting the word \"consultative\" appearing immediately after the word \"the\" and substituting therefore the word \"technical\"; (b) in paragraph (b) by deleting the words \"various county statistics offices\" appearing immediately after the words \"programmes of the\" and substituting therefore the word \"office\"; and (c) in paragraph (c) by deleting the words \"offices of the county statistician\" appearing immediately after the words \"coordination of\" and substituting therefore the word \"the office\"."
     },
     {
-      "order": 394,
+      "order": 396,
       "id": "entry-830405",
       "label": "scene",
       "level": "5",
@@ -4731,7 +4755,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 395,
+      "order": 397,
       "id": "entry-830406",
       "label": "speech",
       "level": "5",
@@ -4743,7 +4767,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 396,
+      "order": 398,
       "id": "entry-830407",
       "label": "heading",
       "level": "5",
@@ -4755,7 +4779,7 @@
       "text": "Clause 10"
     },
     {
-      "order": 397,
+      "order": 399,
       "id": "entry-830408",
       "label": "speech",
       "level": "5",
@@ -4767,7 +4791,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT clause 10 of the Bill be amended - (a) in sub-clause (1) by deleting the word \"consultative\" appearing immediately after the word \"the\" and substituting therefore the word \"technical\"; (b) in sub-clause (2) by deleting the word \"consultative\" appearing immediately after the words \"chairperson of the\" and substituting therefore the word \"technical\"; and (c) in sub-clause (3) by deleting the word \"consultative\" appearing immediately after the words \"meetings of the\" and substituting therefore the word \"technical\"."
     },
     {
-      "order": 398,
+      "order": 400,
       "id": "entry-830409",
       "label": "scene",
       "level": "5",
@@ -4779,7 +4803,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 399,
+      "order": 401,
       "id": "entry-830410",
       "label": "speech",
       "level": "5",
@@ -4791,7 +4815,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 400,
+      "order": 402,
       "id": "entry-830411",
       "label": "heading",
       "level": "5",
@@ -4803,7 +4827,7 @@
       "text": "Clause 11"
     },
     {
-      "order": 401,
+      "order": 403,
       "id": "entry-830412-split-before-8db8041f-ae13-467a-a3e9-75a316dd0a3d",
       "label": "speech",
       "level": "5",
@@ -4815,7 +4839,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- No. 31 of 2016 THAT Clause 11 of the Bill be amended by deleting sub-clause (2) and substituting therefore the following new sub-clause--"
     },
     {
-      "order": 402,
+      "order": 404,
       "id": "entry-830412-split-selected-4cb1ae18-764f-498f-9b61-54f0b208ab84",
       "label": "scene",
       "level": "5",
@@ -4827,7 +4851,7 @@
       "text": "(2) The Kenya National Bureau of Statistics and the office shall,"
     },
     {
-      "order": 403,
+      "order": 405,
       "id": "entry-830412-split-after-f16ab4a8-fa4c-4183-a006-0aa469d2611e",
       "label": "speech",
       "level": "5",
@@ -4839,7 +4863,7 @@
       "text": "pursuant to the Access to Information Act, ensure that the statistics held by it are accessible to the members of the public."
     },
     {
-      "order": 404,
+      "order": 406,
       "id": "entry-830415",
       "label": "scene",
       "level": "5",
@@ -4851,7 +4875,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 405,
+      "order": 407,
       "id": "entry-830416",
       "label": "speech",
       "level": "5",
@@ -4863,7 +4887,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 406,
+      "order": 408,
       "id": "entry-830417",
       "label": "heading",
       "level": "5",
@@ -4875,7 +4899,7 @@
       "text": "Clause 12"
     },
     {
-      "order": 407,
+      "order": 409,
       "id": "entry-830418-split-before-0e2d2d4f-a441-4717-af12-6691e547a132",
       "label": "speech",
       "level": "5",
@@ -4887,7 +4911,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT clause 12 of the Bill be amended-- (a) in sub-clause (3) by inserting the word \"county\" immediately after the words \"conferred on the\" in paragraph (a) and;"
     },
     {
-      "order": 408,
+      "order": 410,
       "id": "entry-830418-split-selected-5037af35-2e56-4dc7-96f2-f664fffdef83",
       "label": "scene",
       "level": "5",
@@ -4899,7 +4923,7 @@
       "text": "(b) by deleting sub-clause (5) and substituting therefore the"
     },
     {
-      "order": 409,
+      "order": 411,
       "id": "entry-830418-split-after-dc042da2-dac7-422b-9c2d-2a7d21c5966e-split-before-5eb1cebd-d8dd-447c-8acb-30ccfd735123",
       "label": "speech",
       "level": "5",
@@ -4911,7 +4935,7 @@
       "text": "following new sub clause--"
     },
     {
-      "order": 410,
+      "order": 412,
       "id": "entry-830418-split-after-dc042da2-dac7-422b-9c2d-2a7d21c5966e-split-selected-e5e887e1-db48-457f-aa71-aed66279d9f6",
       "label": "scene",
       "level": "5",
@@ -4923,7 +4947,7 @@
       "text": "(5) A department in the respective county government shall, in"
     },
     {
-      "order": 411,
+      "order": 413,
       "id": "entry-830418-split-after-dc042da2-dac7-422b-9c2d-2a7d21c5966e-split-after-9d39bff5-e52d-4c92-a844-0efe3dd7a51c",
       "label": "speech",
       "level": "5",
@@ -4935,7 +4959,7 @@
       "text": "collecting, analysing and disseminating statistics, be guided by the standards and methodologies approved by the Kenya National Bureau of Statistics under section 4 (2)."
     },
     {
-      "order": 412,
+      "order": 414,
       "id": "entry-830419",
       "label": "scene",
       "level": "5",
@@ -4947,7 +4971,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 413,
+      "order": 415,
       "id": "entry-830420",
       "label": "speech",
       "level": "5",
@@ -4959,7 +4983,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 414,
+      "order": 416,
       "id": "entry-830421-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4971,7 +4995,7 @@
       "text": "Clause 13"
     },
     {
-      "order": 415,
+      "order": 417,
       "id": "entry-830421-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4983,7 +5007,7 @@
       "text": "(Question, that Clause 13 be Part of the Bill, proposed)"
     },
     {
-      "order": 416,
+      "order": 418,
       "id": "entry-830422",
       "label": "speech",
       "level": "5",
@@ -4995,7 +5019,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 417,
+      "order": 419,
       "id": "entry-830423",
       "label": "heading",
       "level": "5",
@@ -5007,7 +5031,7 @@
       "text": "Clause 14"
     },
     {
-      "order": 418,
+      "order": 420,
       "id": "entry-830424-split-before-22d14387-c55e-4a72-9c8e-b3442039b1c7",
       "label": "speech",
       "level": "5",
@@ -5019,7 +5043,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 14 of the Bill be amended-"
     },
     {
-      "order": 419,
+      "order": 421,
       "id": "entry-830424-split-selected-f0da1bf7-a009-45c6-8f4f-773fab795a35",
       "label": "scene",
       "level": "5",
@@ -5031,7 +5055,7 @@
       "text": "(a) by deleting sub-clause (1) and substituting therefore the"
     },
     {
-      "order": 420,
+      "order": 422,
       "id": "entry-830424-split-after-c32830f9-7ac4-41bc-b9df-c16b9b222056-split-before-12f61085-108f-4563-b6fa-8a176f97b3f0",
       "label": "speech",
       "level": "5",
@@ -5043,7 +5067,7 @@
       "text": "following new sub-clause-"
     },
     {
-      "order": 421,
+      "order": 423,
       "id": "entry-830424-split-after-c32830f9-7ac4-41bc-b9df-c16b9b222056-split-selected-05177fbf-726f-4950-82dc-a5d96109b947",
       "label": "scene",
       "level": "5",
@@ -5055,7 +5079,7 @@
       "text": "(1) Any person, other than an officer of the office of the Kenya"
     },
     {
-      "order": 422,
+      "order": 424,
       "id": "entry-830424-split-after-c32830f9-7ac4-41bc-b9df-c16b9b222056-split-after-9f2fff33-50f1-4e0c-b929-f206e5b51f93-split-before-88441f77-88e7-4946-baf1-1d1a36f23645",
       "label": "speech",
       "level": "5",
@@ -5067,7 +5091,7 @@
       "text": "National Bureau of Statistics, who intends to conduct a statistical survey in a county on any matter set out in the Fourth Schedule, shall obtain the approval of the office. (b) in sub-clause (2) by inserting the word \"county\" immediately after the words \"plans to the\"; and"
     },
     {
-      "order": 423,
+      "order": 425,
       "id": "entry-830424-split-after-c32830f9-7ac4-41bc-b9df-c16b9b222056-split-after-9f2fff33-50f1-4e0c-b929-f206e5b51f93-split-selected-b41a06aa-9fe8-4e88-b4d0-f3cf0594c800",
       "label": "scene",
       "level": "5",
@@ -5079,7 +5103,7 @@
       "text": "(c) by inserting the following new sub-clause immediately after"
     },
     {
-      "order": 424,
+      "order": 426,
       "id": "entry-830424-split-after-c32830f9-7ac4-41bc-b9df-c16b9b222056-split-after-9f2fff33-50f1-4e0c-b929-f206e5b51f93-split-after-06430a28-4cd0-4429-88d7-b13ce61df92a-split-before-0920d3b7-275c-46b5-bbcb-0984ed3551ce",
       "label": "speech",
       "level": "5",
@@ -5091,7 +5115,7 @@
       "text": "sub-clause (2)-"
     },
     {
-      "order": 425,
+      "order": 427,
       "id": "entry-830424-split-after-c32830f9-7ac4-41bc-b9df-c16b9b222056-split-after-9f2fff33-50f1-4e0c-b929-f206e5b51f93-split-after-06430a28-4cd0-4429-88d7-b13ce61df92a-split-selected-b532d79d-b7de-47bf-b66e-fc36d44bebeb",
       "label": "scene",
       "level": "5",
@@ -5103,7 +5127,7 @@
       "text": "(2A) notwithstanding sub-section (2) the county statistician may,"
     },
     {
-      "order": 426,
+      "order": 428,
       "id": "entry-830424-split-after-c32830f9-7ac4-41bc-b9df-c16b9b222056-split-after-9f2fff33-50f1-4e0c-b929-f206e5b51f93-split-after-06430a28-4cd0-4429-88d7-b13ce61df92a-split-after-ef9b15ac-ba90-4aa5-8182-c992f4c14687",
       "label": "speech",
       "level": "5",
@@ -5115,7 +5139,7 @@
       "text": "in the case of an emergency, waive the requirement for the submission of an application under subsection (1) at least three months before the commencement of the survey."
     },
     {
-      "order": 427,
+      "order": 429,
       "id": "entry-830427",
       "label": "scene",
       "level": "5",
@@ -5127,7 +5151,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 428,
+      "order": 430,
       "id": "entry-830428",
       "label": "speech",
       "level": "5",
@@ -5139,7 +5163,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 429,
+      "order": 431,
       "id": "entry-830429",
       "label": "heading",
       "level": "5",
@@ -5151,7 +5175,7 @@
       "text": "Clause 15"
     },
     {
-      "order": 430,
+      "order": 432,
       "id": "entry-830430",
       "label": "speech",
       "level": "5",
@@ -5163,7 +5187,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 15 of the Bill be amended by deleting sub-clause (3)."
     },
     {
-      "order": 431,
+      "order": 433,
       "id": "entry-830431",
       "label": "scene",
       "level": "5",
@@ -5175,7 +5199,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 432,
+      "order": 434,
       "id": "entry-830432",
       "label": "speech",
       "level": "5",
@@ -5187,7 +5211,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 433,
+      "order": 435,
       "id": "entry-830433",
       "label": "heading",
       "level": "5",
@@ -5199,7 +5223,7 @@
       "text": "Clause 16"
     },
     {
-      "order": 434,
+      "order": 436,
       "id": "entry-830434",
       "label": "speech",
       "level": "5",
@@ -5211,7 +5235,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT clause 16 of the Bill be amended by deleting the word \"service\" appearing immediately after the words \"functions of the\" and substituting therefore the word \"office\"."
     },
     {
-      "order": 435,
+      "order": 437,
       "id": "entry-830435",
       "label": "scene",
       "level": "5",
@@ -5223,7 +5247,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 436,
+      "order": 438,
       "id": "entry-830436",
       "label": "speech",
       "level": "5",
@@ -5235,7 +5259,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 437,
+      "order": 439,
       "id": "entry-830437-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -5247,7 +5271,7 @@
       "text": "Clause 17"
     },
     {
-      "order": 438,
+      "order": 440,
       "id": "entry-830437-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -5259,7 +5283,7 @@
       "text": "(Question, that Clause 17 be part of the Bill, proposed)"
     },
     {
-      "order": 439,
+      "order": 441,
       "id": "entry-830439",
       "label": "speech",
       "level": "5",
@@ -5271,7 +5295,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 440,
+      "order": 442,
       "id": "entry-830440",
       "label": "heading",
       "level": "5",
@@ -5283,7 +5307,7 @@
       "text": "Clause 18"
     },
     {
-      "order": 441,
+      "order": 443,
       "id": "entry-830441",
       "label": "speech",
       "level": "5",
@@ -5295,7 +5319,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT\n\nC"
     },
     {
-      "order": 442,
+      "order": 444,
       "id": "entry-830443",
       "label": "speech",
       "level": "5",
@@ -5307,7 +5331,7 @@
       "text": "lause 18 of the Bill be amended- (a) by inserting the following new sub-clause immediately after sub-clause (2)− (2A) the report made under subsection (1) shall be transmitted electronically to the Kenya National Bureau of Statistics for the purpose of aggregation of statistics from the counties. (b) in sub-clause (3) by deleting the words \"and the Senate\" appearing immediately after the words \"the county assembly.\""
     },
     {
-      "order": 443,
+      "order": 445,
       "id": "entry-830444",
       "label": "scene",
       "level": "5",
@@ -5319,7 +5343,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 444,
+      "order": 446,
       "id": "entry-830445",
       "label": "speech",
       "level": "5",
@@ -5331,7 +5355,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 445,
+      "order": 447,
       "id": "entry-830446",
       "label": "heading",
       "level": "5",
@@ -5343,7 +5367,7 @@
       "text": "Clause 19"
     },
     {
-      "order": 446,
+      "order": 448,
       "id": "entry-830447",
       "label": "speech",
       "level": "5",
@@ -5355,7 +5379,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT\n\nC"
     },
     {
-      "order": 447,
+      "order": 449,
       "id": "entry-830449",
       "label": "speech",
       "level": "5",
@@ -5367,7 +5391,7 @@
       "text": "lause 19 of the Bill be amended -- (a) in paragraph (d) by inserting the word \"county\" immediately after the words \"required by the\"; and (b) by inserting the following new paragraph immediately after paragraph (d)- (d) fraudulently, or willfully gives inaccurate or false statistical information to an officer appointed under this Act;"
     },
     {
-      "order": 448,
+      "order": 450,
       "id": "entry-830450",
       "label": "scene",
       "level": "5",
@@ -5379,7 +5403,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 449,
+      "order": 451,
       "id": "entry-830451",
       "label": "speech",
       "level": "5",
@@ -5391,7 +5415,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 450,
+      "order": 452,
       "id": "entry-830452-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -5403,7 +5427,7 @@
       "text": "Clauses 20 and 21"
     },
     {
-      "order": 451,
+      "order": 453,
       "id": "entry-830452-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -5415,7 +5439,7 @@
       "text": "(Question, that Clauses 20 and 21 be part of the Bill, proposed)"
     },
     {
-      "order": 452,
+      "order": 454,
       "id": "entry-830453",
       "label": "speech",
       "level": "5",
@@ -5427,7 +5451,7 @@
       "text": "The Division will be at the end.\n\nThe Schedule"
     },
     {
-      "order": 453,
+      "order": 455,
       "id": "entry-830454-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -5439,7 +5463,7 @@
       "text": "(Question, that The Schedule be part of the Bill, proposed)"
     },
     {
-      "order": 454,
+      "order": 456,
       "id": "entry-830456",
       "label": "speech",
       "level": "5",
@@ -5451,7 +5475,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 455,
+      "order": 457,
       "id": "entry-830457",
       "label": "heading",
       "level": "5",
@@ -5463,7 +5487,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 456,
+      "order": 458,
       "id": "entry-830458",
       "label": "speech",
       "level": "5",
@@ -5475,7 +5499,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT\n\nC"
     },
     {
-      "order": 457,
+      "order": 459,
       "id": "entry-830460",
       "label": "speech",
       "level": "5",
@@ -5487,7 +5511,7 @@
       "text": "lause 2 of the Bill be amended by- (a) deleting the definition of the term \"consultative committee\"; (b) deleting the words \"office of the\" appearing immediately after the words \"means the\" in the definition of the term \"office\" (c) inserting the following new definitions immediately after the definition of the term official body\" - \"Statistics\" means aggregated numerical information relating to demographic, economic, financial, environmental, social or similar matters, at national or county level, which is compiled and analyzed according to relevant scientific and statistical methodology; \"statistical information\" means -"
     },
     {
-      "order": 458,
+      "order": 460,
       "id": "entry-830461",
       "label": "speech",
       "level": "5",
@@ -5499,7 +5523,7 @@
       "text": "No.4 of 2006 (a) In the case of the Kenya National Bureau of Information, information collected by the Bureau, for purposes of the Statistics Act; and, (b) In the case of the office, information collected by the office, for purposes of this Act; \"technical committee\" means the Intergovernmental Technical Committee on Statistics established under section 8;"
     },
     {
-      "order": 459,
+      "order": 461,
       "id": "entry-830462",
       "label": "scene",
       "level": "5",
@@ -5511,7 +5535,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 460,
+      "order": 462,
       "id": "entry-830463",
       "label": "speech",
       "level": "5",
@@ -5523,7 +5547,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 461,
+      "order": 463,
       "id": "entry-830464-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -5535,7 +5559,7 @@
       "text": "The Title and Clause 1"
     },
     {
-      "order": 462,
+      "order": 464,
       "id": "entry-830464-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -5547,7 +5571,7 @@
       "text": "(Question, that The Title and Clause 1 be part of the Bill, proposed)"
     },
     {
-      "order": 463,
+      "order": 465,
       "id": "entry-830465",
       "label": "speech",
       "level": "3",
@@ -5559,7 +5583,7 @@
       "text": "The Division will be at the end. I now call upon the Mover."
     },
     {
-      "order": 464,
+      "order": 466,
       "id": "entry-830466",
       "label": "speech",
       "level": "3",
@@ -5571,7 +5595,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order 148, I beg to move that the Committee of the Whole reports progress on its consideration of The County Statistics Bill (Senate Bill No.9 of 2018) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 465,
+      "order": 467,
       "id": "entry-830467",
       "label": "scene",
       "level": "3",
@@ -5583,7 +5607,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 466,
+      "order": 468,
       "id": "entry-830469",
       "label": "scene",
       "level": "3",
@@ -5595,7 +5619,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 467,
+      "order": 469,
       "id": "entry-830470",
       "label": "scene",
       "level": "3",
@@ -5607,7 +5631,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 468,
+      "order": 470,
       "id": "entry-830471",
       "label": "scene",
       "level": "3",
@@ -5619,7 +5643,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 469,
+      "order": 471,
       "id": "entry-830472",
       "label": "heading",
       "level": "2",
@@ -5631,7 +5655,7 @@
       "text": "PROGRESS REPORTED"
     },
     {
-      "order": 470,
+      "order": 472,
       "id": "entry-830473",
       "label": "heading",
       "level": "3",
@@ -5643,7 +5667,7 @@
       "text": "THE COUNTY STATISTICS BILL (SENATE BILL NO.9 OF 2018)"
     },
     {
-      "order": 471,
+      "order": 473,
       "id": "entry-830474",
       "label": "speech",
       "level": "3",
@@ -5655,7 +5679,7 @@
       "text": "Proceed, Chairperson ."
     },
     {
-      "order": 472,
+      "order": 474,
       "id": "entry-830475",
       "label": "speech",
       "level": "3",
@@ -5667,7 +5691,7 @@
       "text": "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered The County Statistics Bill (Senate Bill No.9 of 2018) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 473,
+      "order": 475,
       "id": "entry-830476",
       "label": "speech",
       "level": "3",
@@ -5679,7 +5703,7 @@
       "text": "Proceed, Mover."
     },
     {
-      "order": 474,
+      "order": 476,
       "id": "entry-830477",
       "label": "speech",
       "level": "3",
@@ -5691,7 +5715,7 @@
       "text": "Madam Temporary Chairperson, I beg to move that the House do agree with the Committee on the said report."
     },
     {
-      "order": 475,
+      "order": 477,
       "id": "entry-830478",
       "label": "speech",
       "level": "3",
@@ -5703,7 +5727,7 @@
       "text": "seconded."
     },
     {
-      "order": 476,
+      "order": 478,
       "id": "entry-830479",
       "label": "scene",
       "level": "3",
@@ -5715,7 +5739,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 477,
+      "order": 479,
       "id": "entry-830480",
       "label": "scene",
       "level": "3",
@@ -5727,7 +5751,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 478,
+      "order": 480,
       "id": "entry-830481",
       "label": "speech",
       "level": "3",
@@ -5739,7 +5763,7 @@
       "text": "We move on to the next Order."
     },
     {
-      "order": 479,
+      "order": 481,
       "id": "entry-830482",
       "label": "heading",
       "level": "1",
@@ -5751,7 +5775,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 480,
+      "order": 482,
       "id": "entry-830483",
       "label": "scene",
       "level": "1",
@@ -5763,7 +5787,7 @@
       "text": "(Order for Committee read)"
     },
     {
-      "order": 481,
+      "order": 483,
       "id": "entry-830484",
       "label": "scene",
       "level": "1",
@@ -5775,7 +5799,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) left the Chair]"
     },
     {
-      "order": 482,
+      "order": 484,
       "id": "entry-830485",
       "label": "heading",
       "level": "2",
@@ -5787,7 +5811,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 483,
+      "order": 485,
       "id": "entry-830486",
       "label": "scene",
       "level": "2",
@@ -5799,7 +5823,7 @@
       "text": "[The Temporary Chairperson (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 484,
+      "order": 486,
       "id": "entry-830487",
       "label": "heading",
       "level": "3",
@@ -5811,7 +5835,7 @@
       "text": "THE SALARIES AND REMUNERATION COMMISSION (AMENDMENT) BILL (SENATE BILLS NO.12 OF 2018)"
     },
     {
-      "order": 485,
+      "order": 487,
       "id": "entry-830489",
       "label": "speech",
       "level": "3",
@@ -5823,7 +5847,7 @@
       "text": "We are in the Committee of the Whole to consider The Salaries and Remuneration Commission (Amendment) Bill, (Senate Bills No.12 of 2018). We shall move Clause by Clause."
     },
     {
-      "order": 486,
+      "order": 488,
       "id": "entry-830490",
       "label": "heading",
       "level": "5",
@@ -5835,7 +5859,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 487,
+      "order": 489,
       "id": "entry-830491",
       "label": "speech",
       "level": "5",
@@ -5847,7 +5871,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 2 of the Bill be amended by deleting the word \"twenty-one\" appearing immediately after the words \" the words within\" and substituting therefor the word \"twenty-eight."
     },
     {
-      "order": 488,
+      "order": 490,
       "id": "entry-830492",
       "label": "scene",
       "level": "5",
@@ -5859,7 +5883,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 489,
+      "order": 491,
       "id": "entry-830493",
       "label": "speech",
       "level": "5",
@@ -5871,7 +5895,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 490,
+      "order": 492,
       "id": "entry-830494-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -5883,7 +5907,7 @@
       "text": "Clause 3"
     },
     {
-      "order": 491,
+      "order": 493,
       "id": "entry-830494-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -5895,7 +5919,7 @@
       "text": "(Question that Clause 3 be part of the Bill proposed)"
     },
     {
-      "order": 492,
+      "order": 494,
       "id": "entry-830495",
       "label": "speech",
       "level": "5",
@@ -5907,7 +5931,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 493,
+      "order": 495,
       "id": "entry-830496-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -5919,7 +5943,7 @@
       "text": "Title and Clause 1"
     },
     {
-      "order": 494,
+      "order": 496,
       "id": "entry-830496-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -5931,7 +5955,7 @@
       "text": "(Question that the Title and Clause 1 be part of the Bill proposed)"
     },
     {
-      "order": 495,
+      "order": 497,
       "id": "entry-830497",
       "label": "speech",
       "level": "3",
@@ -5943,7 +5967,7 @@
       "text": "Division will be at the end. I now call upon the Mover."
     },
     {
-      "order": 496,
+      "order": 498,
       "id": "entry-830498",
       "label": "speech",
       "level": "3",
@@ -5955,7 +5979,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order 148, I beg to move that the Committee of the Whole do report progress on its consideration of The Salaries and Remuneration Commission (Amendment) Bill (Senate Bills No.12 of 2018) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 497,
+      "order": 499,
       "id": "entry-830499",
       "label": "scene",
       "level": "3",
@@ -5967,7 +5991,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 498,
+      "order": 500,
       "id": "entry-830500",
       "label": "scene",
       "level": "3",
@@ -5979,7 +6003,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 499,
+      "order": 501,
       "id": "entry-830501",
       "label": "scene",
       "level": "3",
@@ -5991,7 +6015,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 500,
+      "order": 502,
       "id": "entry-830502",
       "label": "scene",
       "level": "3",
@@ -6003,7 +6027,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 501,
+      "order": 503,
       "id": "entry-830504",
       "label": "heading",
       "level": "2",
@@ -6015,7 +6039,7 @@
       "text": "PROGRESS REPORTED"
     },
     {
-      "order": 502,
+      "order": 504,
       "id": "entry-830505",
       "label": "heading",
       "level": "3",
@@ -6027,7 +6051,7 @@
       "text": "THE SALARIES AND REMUNERATION COMMISSION (AMENDMENT) BILL (SENATE BILLS NO. 12 OF 2018)"
     },
     {
-      "order": 503,
+      "order": 505,
       "id": "entry-830506",
       "label": "speech",
       "level": "3",
@@ -6039,7 +6063,7 @@
       "text": "Chairperson"
     },
     {
-      "order": 504,
+      "order": 506,
       "id": "entry-830507",
       "label": "speech",
       "level": "3",
@@ -6051,7 +6075,7 @@
       "text": "Madam Temporary Speaker, I beg to report progress; that the Committee of the Whole has considered The Salaries and Remuneration Commission (Amendment) Bill (Senate Bill No.12 of 2018) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 505,
+      "order": 507,
       "id": "entry-830508",
       "label": "speech",
       "level": "3",
@@ -6063,7 +6087,7 @@
       "text": "seconded."
     },
     {
-      "order": 506,
+      "order": 508,
       "id": "entry-830509",
       "label": "speech",
       "level": "3",
@@ -6075,7 +6099,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with Committee on the said Report. Sen. Kihika will second."
     },
     {
-      "order": 507,
+      "order": 509,
       "id": "entry-830510",
       "label": "speech",
       "level": "3",
@@ -6087,7 +6111,7 @@
       "text": "Madam Temporary Speaker, I second."
     },
     {
-      "order": 508,
+      "order": 510,
       "id": "entry-830511",
       "label": "scene",
       "level": "3",
@@ -6099,7 +6123,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 509,
+      "order": 511,
       "id": "entry-830512",
       "label": "scene",
       "level": "3",
@@ -6111,7 +6135,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 510,
+      "order": 512,
       "id": "entry-830513",
       "label": "speech",
       "level": "3",
@@ -6123,7 +6147,7 @@
       "text": "Hon. Senators, we defer Order No.16."
     },
     {
-      "order": 511,
+      "order": 513,
       "id": "entry-830514",
       "label": "heading",
       "level": "1",
@@ -6135,7 +6159,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 512,
+      "order": 514,
       "id": "entry-830515",
       "label": "heading",
       "level": "2",
@@ -6147,7 +6171,7 @@
       "text": "THE IRRIGATION BILL (NATIONAL ASSEMBLY BILLS NO.46 OF 2017)"
     },
     {
-      "order": 513,
+      "order": 515,
       "id": "entry-830516",
       "label": "scene",
       "level": "2",
@@ -6159,7 +6183,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 514,
+      "order": 516,
       "id": "entry-830517",
       "label": "speech",
       "level": "2",
@@ -6171,7 +6195,7 @@
       "text": "On a point of order, Madam Temporary Speaker."
     },
     {
-      "order": 515,
+      "order": 517,
       "id": "entry-830518",
       "label": "speech",
       "level": "2",
@@ -6183,7 +6207,7 @@
       "text": "What is your point of order?"
     },
     {
-      "order": 516,
+      "order": 518,
       "id": "entry-830519",
       "label": "speech",
       "level": "2",
@@ -6195,7 +6219,7 @@
       "text": "Madam Temporary Speaker, I have just seen that my Bill has been deferred. I have not been told why it has been deferred, and I was here. It is Order No.13."
     },
     {
-      "order": 517,
+      "order": 519,
       "id": "entry-830520",
       "label": "speech",
       "level": "2",
@@ -6207,7 +6231,7 @@
       "text": "Hon. Senator, you know that when we reached that Order you were not in the House. You just walked in immediately we were through."
     },
     {
-      "order": 518,
+      "order": 520,
       "id": "entry-830521",
       "label": "speech",
       "level": "2",
@@ -6219,7 +6243,7 @@
       "text": "Madam Temporary Speaker, I was actually dealing with it, and I am glad that Sen. Sakaja is here."
     },
     {
-      "order": 519,
+      "order": 521,
       "id": "entry-830522",
       "label": "speech",
       "level": "2",
@@ -6231,7 +6255,7 @@
       "text": "It is unfortunate that you did not even inform the Clerks-at-the-Table."
     },
     {
-      "order": 520,
+      "order": 522,
       "id": "entry-830523",
       "label": "speech",
       "level": "2",
@@ -6243,7 +6267,7 @@
       "text": "Madam Temporary Speaker, it was skipped; they did not call it out."
     },
     {
-      "order": 521,
+      "order": 523,
       "id": "entry-830524",
       "label": "speech",
       "level": "2",
@@ -6255,7 +6279,7 @@
       "text": "It will be listed again tomorrow. Next Order."
     },
     {
-      "order": 522,
+      "order": 524,
       "id": "entry-830526",
       "label": "heading",
       "level": "1",
@@ -6267,7 +6291,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 523,
+      "order": 525,
       "id": "entry-830528",
       "label": "heading",
       "level": "3",
@@ -6279,7 +6303,7 @@
       "text": "THE COUNTY PLANNING (ROADS, PAVEMENTS AND PARKING BAYS) BILL (SENATE BILLS NO.18 OF 2018)"
     },
     {
-      "order": 524,
+      "order": 526,
       "id": "entry-830529",
       "label": "scene",
       "level": "3",
@@ -6291,7 +6315,7 @@
       "text": "(Sen. Olekina on 23.10.2018)"
     },
     {
-      "order": 525,
+      "order": 527,
       "id": "entry-830530",
       "label": "scene",
       "level": "3",
@@ -6303,7 +6327,7 @@
       "text": "(Resumption of debate interrupted on 23.10.2018\n\n)"
     },
     {
-      "order": 526,
+      "order": 528,
       "id": "entry-830532",
       "label": "speech",
       "level": "3",
@@ -6315,7 +6339,7 @@
       "text": "Hon. Senators, it is resumption of debate. Let us have Sen. Farhiya."
     },
     {
-      "order": 527,
+      "order": 529,
       "id": "entry-830533",
       "label": "scene",
       "level": "3",
@@ -6327,7 +6351,7 @@
       "text": "(Sen. Farhiya approached the Chair)"
     },
     {
-      "order": 528,
+      "order": 530,
       "id": "entry-830534",
       "label": "speech",
       "level": "3",
@@ -6339,7 +6363,7 @@
       "text": "It is okay, Senator. Just take your time. Let us have Sen. (Dr.) Musuruve."
     },
     {
-      "order": 529,
+      "order": 531,
       "id": "entry-830535",
       "label": "speech",
       "level": "3",
@@ -6351,7 +6375,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity. I commend Sen. Olekina for this important Bill that he has brought to the Floor of the House. Madam Temporary Speaker, transport is a shared function of both the national Government and county governments in the Fourth Schedule of the Constitution. It implies that it is an important area in our economy. Good roads connote investment. When roads are poor people will not be attracted to invest in that area. When roads are good business people, especially the shrewd ones, will flock that area simply because they want to invest. When investors go to an area, the youth, women and Persons with Disabilities (PWDs) will get employment. The issue of roads is of great concern to this nation. Madam Temporary Speaker, there is need to prescribe how people access commercial buildings. This Bill states that there is need for roads to ensure that buildings, including commercial ones are accessed. The Bill talks about construction of roads, which is very important. However, construction alone is not enough. There is need for roads to be also maintained. If they are constructed and not maintained, the cost of repairing them can be very high. It can be very expensive for the county and the national Government. It is, therefore, imperative that roads are constructed and maintained. The Bill also talks about parking bays. This is a great concern. They need to be designed and allocated for different categories. In major towns, parking bays are there but persons who drive and have disabilities---"
     },
     {
-      "order": 530,
+      "order": 532,
       "id": "entry-830539",
       "label": "scene",
       "level": "3",
@@ -6363,7 +6387,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 531,
+      "order": 533,
       "id": "entry-830541",
       "label": "speech",
       "level": "3",
@@ -6375,7 +6399,7 @@
       "text": "Order, Senators! I think the conversation is too loud and even distracting the attention of the Senator who is on the Floor."
     },
     {
-      "order": 532,
+      "order": 534,
       "id": "entry-830542",
       "label": "speech",
       "level": "3",
@@ -6387,7 +6411,7 @@
       "text": "Thank you, Madam Temporary Speaker. I like your concern because I am trying to put across an issue of great concern in this nation. Some parking lots are designated for PWDs. However, most PWDs who drive lack parking space, yet there is signage showing that certain parking lots are reserved for them. I agree with the provisions of this Bill that if someone parks in an area that is not designated for them, they should pay a fine. As I said, there is a shortfall when it comes to parking areas for the Persons with Disabilities (PWDs). There is need to have enough and sufficient parking slots for the PWDs in all counties. The Bill clearly states that even tankers should have their parking areas. If a driver of a tanker parks in an area not designated for them, there is a possibility that something can happen. For example, the tanker could catch fire and cause an accident. There is need for motorists who do not adhere to their parking areas to be fined because that is the only way to make them conscious about issues of parking. The Bill also addresses the issue of pavements. Pavement should be for pedestrians. There is some madness that happens on our roads where you find motorists driving on pavements. I am saying this because if a motorist drives on a pavement, they can easily knock down someone and cause an accident. Actually it is immoral for motorists to drive on pavements. There are also instances where people do businesses on pavements. You will find people erecting kiosks and selling on the pavements. That is wrong because pavements should be pavements. I am happy that this Bill will address the issue. It is stated that if motorists drive on pavements, they should be fined. It is good for them to be fined because if that happens, they will feel the pinch and not repeat. There is need for motorists to be sober on our roads. I fully support the issue of fines. I also fully support the fact that there is need to park in the designated areas. The Bill also talks about the issue of drainage. It is unthinkable that sometimes people erect buildings without putting into consideration the issue of drainage. What happens when there is heavy downpour? You will find buildings being submerged. If there was proper planning from the beginning, such incidents would be avoided. There are also instances where vehicles are submerged and people die because they cannot get out of the submerged vehicles. So, there is need for this Bill to see the light of the day. I commend Sen. Olekina for coming up with this Bill because this law will make our drivers and pedestrians sober. It will hold county governments accountable for the planning of roads and also the construction and maintenance of the roads in the counties. It will also make them keen on drainage. If this is not done in the counties, then there is no way the people will enjoy the benefits of devolution. I do not see why a building should be constructed but accessibility to the building is not there. So, there is need for people and especially entrepreneurs to be keen. It is good to be an entrepreneur which also entails wisdom to ensure that the building is accessible. This Bill also states clearly that in a situation where someone has erected a building, then there is need to provide for parking space for that particular building, so that whoever wants to go to that building can easily park their vehicle and access the building. As I support, again, I commend the Senator for coming up with this Bill, which is not only important to the national Government but also to the county governments. This is a law that will bring both the two levels of government on board to ensure accessibility to commercial buildings. I thank you."
     },
     {
-      "order": 533,
+      "order": 535,
       "id": "entry-830547",
       "label": "speech",
       "level": "3",
@@ -6399,7 +6423,7 @@
       "text": "Madam Temporary Speaker, thank you for giving me the opportunity to contribute to this Bill. First and foremost, I thank Sen. Olekina for bringing it. They say nothing can stop an idea whose time has come and I think this is the right time for this Bill. If it is not the right time, it should have been yesterday. Nairobi City County contributes 60 per cent to the economy of this country. We should reduce traffic jams and have pavements for cyclists and pedestrians. For example, the distance from South C to this place is not that much and anybody can walk. However, there are no proper pavements and that is why people opt to drive. It is healthier for people to cycle or walk to work. We all know the benefits of the above two things. We are told that traffic jams deny the economy of this country Kshs50 million every day. Let me give you statistics for that. Assuming that we all work five days a week, because some months are longer, even the number of days that we work could be more. I will just take an average of 20 days a month and multiply by 12 months. If we sort traffic jams in Kenya, we will save Kshs12 billion every year. What can Kshs12 billion do for this country? It can build two referral cancer centres with complete equipment per year. That is what we were told by the Commission on Revenue Allocation (CRA) during the budgeting process; that we only need Kshs6 billion to fully equip a cancer centre. We all understand the impact of that on our economy. You can multiply that and see the amount of money that Kenyans will save by not going abroad for treatment of cancer. If we construct two cancer centres each year, dividing by 47 counties, it will take us around 23 years to have a cancer centre in every county. That is long enough but we do not need cancer referral centres for every county. We can still work with five or six instead of wasting a lot of resources going abroad. There will also be a reduction of traffic by heavy commercial vehicles because parking bays for them will be provided. There is added value and the contribution to the economy in a city where such parking bays are provided. Under Clause 16 of this Bill, County Executive Committee (CEC) members will be empowered to make regulations. I would like the Senator to consider having the Cabinet Secretary in charge of Devolution and ASAL Areas, in consultation with the Council of Governors (CoG), so that all the cities in this country have a similar regulation to ensure that there is consistency. This is because the danger of leaving it to the CEC is that each county will take its time depending on when they are ready. Once this Bill is passed by the Senate - which I am sure we are reasonable enough to - then we can follow up with the Ministry of Devolution and ASAL areas in conjunction with the Council of Governors (CoG), to fast-track the regulations so that this becomes an instant Bill that is implemented immediately together with its regulations. Thank you."
     },
     {
-      "order": 534,
+      "order": 536,
       "id": "entry-830550",
       "label": "speech",
       "level": "3",
@@ -6411,7 +6435,7 @@
       "text": "Thank you, for the contribution. Sen. Halake, proceed."
     },
     {
-      "order": 535,
+      "order": 537,
       "id": "entry-830551",
       "label": "speech",
       "level": "3",
@@ -6423,7 +6447,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to support this timely Bill and congratulate Sen. Olekina for it as other Senators have alluded to. A country must run on planning and on planned urban development as opposed to just things cropping up every day. We have seen what that can do in terms of even just disasters. I do not want to repeat what everybody else has said. Having come from a background of disaster management, this Bill which seeks to provide a planning, construction and maintenance of county roads, streets, lanes, alleys, parking bays, drainage systems and pavements and to provide for proper planning of access roads to commercial buildings, is very timely. Our counties are starting to do spatial plans and come up with all the strategies for development both in terms of urban and other development. So, this is a good time for this House to come up with a framework that guides this planning. I do not want to talk about the different duties of the county executives because this is well assigned. Sometimes to be a developing country is an opportunity for us to get things right with regard to green infrastructure. I know other countries have a lot of infrastructure and then they have to green them afterwards. Green infrastructure is basically the multi-functionality of infrastructure - be they roads or pavements - so that they look at proximity to population, amongst other considerations. It is for us to use this opportunity to make laws at this time when sustainable development is a key consideration, to look at our urban development, infrastructure and roads from the angle and lens of green infrastructure as well. Madam Temporary Speaker, as I said, I know these ideas around the green economy, environmental, social, cultural and economic aspects of urban development and policy can be a bit difficult because there is no single definition for some of these things. However, we have an opportunity in our laws to make sure that as we develop our infrastructure and make our plans, we look at those kinds of things that make sure that we are not going backwards like the countries that had developed at a time when climate change or other environmental footprints of our urban development were not an issue. I am happy with all the provisions, except for Clause 8(3) which alludes to compulsory acquisition of land. I am a bit concerned because we have seen what has happened in the recent past with regards to demolitions and other movement of populations when the Government goes ahead to acquire land compulsorily. For example, we have seen in the Standard Gauge Railway (SGR) line, Kibera and some places where compulsory acquisition has, perhaps, been used to cross the line for the rights of somebody to have access to an aboard. Other than that, we need to guide the whole issue around compulsory acquisition, especially when it is a County Executive Committee (CEC) member who then considers these kinds of things. It is the obligation on the State to make sure that whenever there is compulsory acquisition, it is done humanely with the rights of the person who is being evicted or whose land is compulsorily acquired to be taken care of. Madam Temporary Speaker, one other issue that we may look at is that as national laws go, we may not wish to be very prescriptive to the extent of where things are parked and so on. Let us also allow county governments to also have an opportunity to cascade this broad national laws into county laws that can then go into all the nitty gritty of these kinds of infrastructure. Again, we have an opportunity in these plans and laws to make sure that we also plan for the beauty and aesthetics of our counties. Sometimes we have been so focused, so to speak, on the functionality of things. We often forget that we also need certain aesthetic value to some of our developments both in terms of just good environmental outcomes in the urban infrastructure and just the beauty of things. Do we have parks? I know we have talked about access to buildings. Do we leave certain green spaces that then become a beautiful part of our counties? In terms of the functions and need for planning, our counties must plan well for some of these urban infrastructural considerations. We need to specify the duties of the CEC members and who is the owner of this, so that it is implemented. What I like about this Bill and congratulate the sponsor, Sen. Olekina, is the fact that he did not forget the issues around maintenance. As you know in Africa, sometimes the concept of maintenance gets forgotten in the whole idea around urban development or any development for that matter. In this Bill, there are considerations and provisions that have been made to make sure that construction and maintenance of streets, lanes and alleys have been taken care. County governments shall construct and maintain streets and each county government will facilitate the construction and maintenance. Again, I am glad that, that has been taken care of with regards to all the components such as pavements, street lighting, access and the rest of it. Again, Madam Temporary Speaker, I know Sen. (Dr.) Musuruve, our champion for Persons With Disabilities (PWDs) has already pointed this out, we must put a conscious effort to make sure that any new development that comes serves the people, even the most vulnerable as well, without excluding anybody from enjoying whatever benefits that accrue as a result of some of the developments. This is part of the green development as well. I can also send in a written proposal just to make sure that we do not forget some of the green aspects in our urban policy development. Sometimes, it gets lost in the words, but it does not have to be very complicated. It just speaks to multi-functionality and certain environmental footprints of some of these things such as social and cultural considerations and what economies accrue from this. We have been pushing our counties to make sure that they become self-sufficient and diversify their revenue streams. This Bill can and will be able to spur economic growth in the counties. This is with regards to fees that can be charged from parking bays and the ease with which these developments can help counties diversify their revenue streams. With those few remarks, I support and congratulate the Senator for Narok County. I look forward to support him to implement this."
     },
     {
-      "order": 536,
+      "order": 538,
       "id": "entry-830555",
       "label": "speech",
       "level": "3",
@@ -6435,7 +6459,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to support the County Planning (Roads, Pavements and Parking Bays) Bill (Senate Bills No. 18 of 2018), that is with us now. I also congratulate Sen. Olekina for coming up with this Bill. It is a well thought out Bill that will help the counties where we come from. Devolution makes this House relevant and this Bill is right on time for it will spur the development that we need in our counties. Most of the vehicles or cars in these cities transport goods and people to various destinations. It is, therefore, important for this Bill to be discussed and passed for it facilitates access of people and goods to their destinations or places where they need to be at the right time. Time is important in terms of money, wealth and all that you can quantify. Therefore, when time is wasted because of the wrong planning of roads, pavements and parking, it takes away the economic efficiency that we are talking about which can be brought about by good planning of the parking bays, roads and all that is mentioned here. It is illegal, in all cities, to park in an undesignated place. This attracts a fine. We need this Bill in place and the framework that it suggests to be adopted for us to have proper planning of the cities that are growing day in day out. With devolution, our cities and towns are growing and they need the framework that we are mentioning here. It is with this that the beauty of that city or town and the access to business efficiency will be experienced and elevated. I have gone through this and I have seen that a well planned city will facilitate effective development and that is all we want. Looking at the madness that we have in some of our towns, if not all, it is hard for a human being to pass in between two vehicles that are not parked well. If this framework is implemented, we shall have order and effective development that our cities are looking forward to. My colleagues have talked about unnecessary demolitions that we have just experienced and are still experiencing. Why should you demolish if you have a well planned city, community or town? Good planning starts from planning to execution, implementation, building and having the structures in place. When that is done, nobody will think about demolitions. Nobody will think of unnecessary destruction because laws will have been followed from the beginning and that is what we intend to have. This framework has touched on proper planning of pavements, parking bays and drainage. With this framework, I think that we are going to achieve more, especially now that we have the growth of devolution in our counties. Maintenance has also been emphasized in this framework. Maintenance of any road is a must because we have wear and tear in the parking bays and the drainage. As the city grows, we need to repair the roads and the parking bays. In this framework, there is a clause that touches on maintenance. I fully support it because maintenance saves work and the fatigue that comes when we have a population that is not controlled. I support this Bill and congratulate the Senator who came up with it. I hope that our counties and cities that are growing will adopt it as we move ahead with the development that we intend to achieve."
     },
     {
-      "order": 537,
+      "order": 539,
       "id": "entry-830557",
       "label": "speech",
       "level": "3",
@@ -6447,7 +6471,7 @@
       "text": "Thank you, Sen. Shiyonga. Sen. Pareno Judith Ramachya."
     },
     {
-      "order": 538,
+      "order": 540,
       "id": "entry-830558",
       "label": "speech",
       "level": "3",
@@ -6459,7 +6483,7 @@
       "text": "Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 539,
+      "order": 541,
       "id": "entry-830559",
       "label": "speech",
       "level": "3",
@@ -6471,7 +6495,7 @@
       "text": "Sorry, it is Ramaita."
     },
     {
-      "order": 540,
+      "order": 542,
       "id": "entry-830560",
       "label": "speech",
       "level": "3",
@@ -6483,7 +6507,7 @@
       "text": "Yes, Madam Temporary Speaker. I am Ramaita. I thank you for allowing me to contribute to this Bill. I rise to support my brother, Sen. Olekina and congratulate him for bringing up this Bill, the County Planning (Roads, Pavements and Parking Bays) Bill (Senate Bills No. 18 of 2018). At one point, I was wondering about a Bill that we passed the other day which was on the county roads. I do not know whether we called it Roads and Management Bill but the Bill was also passed by this Senate. I note that this Bill is not just about the roads. There is a bit of roads but it talks about something that we did not talk about in the other Bill and that is pavements and parking bays. Lately, if you have been observant, you must have noticed that we have started creating what had been omitted in our road infrastructure and that is the walk ways, pedestrian ways and the pavements. We are now trying to create what should have been there right from the beginning. I like this Bill because it is emphasizing on what we should have in place right from the beginning and not coming up with them as an afterthought like we have done lately in most of our roads and in cities. Sometimes, I have been on the wrong side of the law. When you drive around Nairobi in the roads that we used to use like five years ago, you will find that the road that used to have an entry has been closed and you get confused. The Bill that I was referring to earlier was called the Kenya Roads Bill. It is the one that we passed and the one that I was referring to. Lately, you will try to use a road that you used sometime back in this city and you will find that the exit of that road has either been changed to be one way or there is no exit anymore or the entry has been changed such that you cannot enter from the side that you were using before. This is because we came to realize that there was so much congestion in this city and so much that we could have done by rearranging the infrastructure in a manner that has been done right now. I like this Bill because it initiates this process right from the beginning. You do not have to wait until a town is congested and people are crisscrossing for you to realize that you needed to have had one exit or no entry or exit on a particular road. That is why we have had to redo a lot of roads in Nairobi because of not providing for this at the planning level. Planning means that, as you put into the designing and implementation, you will have come up with something implementable and good for that particular time or city, making it easy for people to access. This Bill emphasizes on the issue of access to buildings by vehicles and human beings. I think sometimes we have lost lives and have severally been told that where one has a fire sometimes it is impossible to save lives because of poor access to buildings. So, if we could only have provided that accessibility right from the beginning, we would have been able to save many lives. Many times, rescue missions have been hindered by lack of accessibility. Sometime back, we also noted that during the very heavy floods we witnessed recently in this country, there was a building that had been put up around the Langat- Mbagathi round about. This building has since been brought down. There were heavy floods around where it had been put up making the area inaccessible. We should not do things this way and as a result of lack of plans, we ignore issues of the environment until they catch up with us or until we experience flooding and then we have to bring down buildings like we have done. I am happy that this Bill has provided for environment, accessibility issues and has even gone ahead to provide for creation of accessibility for PWDs. Many times we forget about their rights to access buildings, access areas of business and their right to move freely. Sometimes they are unable to move even if someone has a wheelchair and the only thing available is a road and there is no pavement or sidewalk for that person. It then becomes a problem because we did not provide them access. I am happy that this is coming for the counties. Lately, we have seen in this city specifically, that issues being addressed by this Bill have started being implemented not because of this Bill but because the problems we have in Nairobi are a lot more because of inaccessibility, poor planning or even planning but no implementation. This Bill addresses issues of design, maintenance and the drainage systems. We know the many problems we have had with our drainage systems. We saw what happened at the former Nakumatt Ukay the other day. Somebody simply decided to put up a building in some water way and we saw what happened. The whole supermarket was submerged; it was all over the internet that supermarkets in Kenya are being submerged because people had built on riparian land. At the end of the day, it is because we either did not have a proper drainage system or we are ignorant and decided to mess our environment and the environment ended up messing us more than we did with it. I support this Bill. I thought that the Mover can check whether this Bill has any relations with the already existing laws on planning, building codes and how much of it is either conflicting or in tandem with what is already provided for, and how much it relates with the by-laws that we have within the counties. We all know that we have many by- laws at the counties and the county assemblies have been able to put in money to run the counties. It will be good to try to harmonise them so that we do not have this particular Bill being contrary to what is already existing in our by-laws in the counties or in any law on planning. This is because this Bill is talking about parking bays and, as you know, counties collect a lot of revenue from parking fees, including from private individual parking spaces. However, do we have a law regulating that aspect within the counties? If we do, how then can we harmonise this law with those provisions on how our parking bays are being manned? Many counties depend on the revenue generated from parking fees to run their governments. Therefore, what is the relationship between this particular law and what is already provided and existing in counties? Madam Temporary Speaker, there is also the issue of hawking in many areas, including in Nairobi, where many alleys and access areas have been turned into hawking grounds. Therefore, a law like this one would help to regulate this issue. Can we have a regulated hawking system so that our hawkers can do their business, but in an orderly manner? It should not be done in the alley ways by blocking the access roads. Shopkeepers have been complaining that because of the wares being sold along their pavements or along the access to their shops, they have been unable to get business. No one will enter a shop whose entrance is crowded and blocked with all sorts of wares. Therefore, Madam Temporary Speaker, a Bill of this nature can help to regulate these access areas so that they are not turned into hawking and mugging zones. There was a time when we used to avoid certain walkways because they were mugging areas and, as a result, we could not use them. A regulated system can help us to manage some of these things and enable us to keep off those people who are not supposed to be using those areas for unwanted businesses. It became a nightmare to walk along certain areas in this town, and I hope that this Bill will help to plan properly so that these alleys are used for the purposes they are intended for. If these parking bays and pavements can be done well, they can be a source of income for the counties. Madam Temporary Speaker, this Bill also talks about an inspection unit to ensure that buildings are within the codes that have been provided for and that the roads adhere to the rules, laws and standards that have been set. Occasionally, if they are inspected, it would mean that we can keep them in good shape, which is going to help in maintenance. This is because when you inspect them and see that they are in bad shape--- Inspections are meant to ensure that the standards are maintained so that anything that is not within the standards can be rectified. Therefore, an inspection unit would help to ensure that our roads, pavements and access areas are in proper shape. Madam Temporary Speaker, we all know that counties have inspectorate units and departments. How does this law affect what is already in existence or are we legislating to just improve on what already exists? If all those issues could be harmonised, it would complement what already exists in terms of running our counties. This will also help us to go a long way in improving service delivery. I beg to support, Madam Temporary Speaker."
     },
     {
-      "order": 541,
+      "order": 543,
       "id": "entry-830563",
       "label": "speech",
       "level": "3",
@@ -6495,7 +6519,7 @@
       "text": "Thank you, Sen. Pareno. Proceed, Sen. (Rev.) Waqo."
     },
     {
-      "order": 542,
+      "order": 544,
       "id": "entry-830564",
       "label": "speech",
       "level": "3",
@@ -6507,7 +6531,7 @@
       "text": "Thank you, Madam Temporary Speaker, for allowing me also to contribute to this very important Bill. I rise to support this very important Bill and also congratulate Sen. Olekina for having thought about this. The Bible says where there is no vision, people perish. This Bill caters not only for the City County of Nairobi, but also for all the 47 counties in the country. Madam Temporary Speaker, with devolution, and putting into consideration the Kenyan population, our counties are growing very fast. Most of the time we say we are poor, but when you look at the number of people who drive big vehicles within the city or in the counties, you realize how wealthy we are as a nation. This Bill will take care of Kenyans who are growing economically; who are taking care of themselves and doing business, because we are also very innovative. As I was going through the Bill, I realized that it has taken into consideration almost every area that we need to take care of. Madam Temporary Speaker, I am excited about the whole idea because it takes care of counties. When you go to some counties, you cannot even drive in the small towns simply because there is no proper planning. However, under this Bill, there will be proper planning and maintenance which will lead to growth. Madam Temporary Speaker, Clause 3 talks about the purpose of this Bill. It provides the framework for planning and construction of access ways from major roads and also the framework for planning of commercial buildings along major roads. When you observe some cities; even along the road when you walk, you realize that we do not have proper planning. We have some buildings that do not even qualify to be there and you wonder how they were approved. Sometimes, even along the major roads, you realize that we have some kiosks where people do some funny businesses. This interferes with our life, because some drug dealers can occupy very important areas along the major roads and also mislead young people. When we have proper planning and make sure that proper inspection is done, and the Government is monitoring the whole process, then we know that nothing bad can take place. Madam Temporary Speaker, when I looked at Clause 4, I realized that the Act shall apply to all county roads and all commercial buildings constructed along major roads. That explains my excitement. Under Clause 5, we have the county executive committee member. Their responsibilities have been clearly defined. This is very important. In Clause 5(b), the Bill states that the CEC member will facilitate the design, development and maintenance of drainage systems along all the roads. In most counties, we have many challenges in this aspect, because previously, we did not have proper planning. That is why, as a nation, we are suffering even within the city. So, when the responsibility is given to the CEC member, then you have people who are answerable in case of any failure. Madam Temporary Speaker, Clause 6 talks about maintaining street lanes, alleys and other means of accessing properties in this country. In accordance with the provisions of Clauses 6 and 7, there will be a lot of job descriptions because of the construction and maintenance of the parking bays by the county. This will give us the opportunity to employ more people. When we put into consideration the number of young people who are not employed and women who are working very hard to feed their families, these are some of the areas where we can consider them, so that they can earn a living. Clause 10(a) is on construction of an access-way to property in which the building is situated in a manner that the access-way does not obstruct a major road or extend directly from the major roads. In the past, we know well that there are many investors who have suffered very big losses because we had not planned well for this. Many investors have even been put off by poor planning in our country, which has pushed them to invest in other countries. So, this Bill will bring order. It will also beautify our nation and counties. When people visit us, they can see the beauty and proper planning of our cities. They will also see the serious mind behind that planning. Madam Temporary Speaker, I am so impressed by Clause 10(4) on the penalties. The penalties suggested here are good because Kenyans are known for breaking laws. However, this Bill caters for penalties in case one breaks the provisions of this Bill once it is passed. This will in turn prevent us from making any mistake from the beginning. Madam Temporary Speaker, the Bill is very relevant to our nation. It will help us improve on what we are currently doing. We will create many job opportunities for our people. I even suggest the use of Closed Circuit Television (CCTV) cameras, so that anything that happens within the city can easily be noted. For instance, criminal activities and driving with disregard to law. I hope Sen. Olekina can take note of this. This will minimize the insecurity bedeviling most of the counties that are growing very fast economically. This Bill again will take care of pollution. Most of the time, there is a lot of pollution on our roads. However, with proper planning and follow up, we also take care of our environment. Finally, a lot of road reserves have been grabbed. As we think of implementing this Bill once it is enacted, we need to see how we can revert back the grabbed land. This is because it has happened even within the counties. Unless we take proper measures from the beginning, we will have already lost a lot of the land. There is need for this Bill to also take care of grabbed road reserves. I support the Bill and congratulate the Sen. Olekina for sponsoring it."
     },
     {
-      "order": 543,
+      "order": 545,
       "id": "entry-830568",
       "label": "speech",
       "level": "3",
@@ -6519,7 +6543,7 @@
       "text": "Thank you, Senator. Sen. Poghisio, proceed."
     },
     {
-      "order": 544,
+      "order": 546,
       "id": "entry-830569",
       "label": "speech",
       "level": "3",
@@ -6531,7 +6555,7 @@
       "text": "Madam Temporary Speaker, this Bill is very straightforward and I would like to congratulate Sen. Olekina for bringing it to the House. It is very timely. We have been struggling with unplanned towns for a long time. If you tour other countries in the developed world, even a small hamlet where people live, it is so organized. You can pick a map from anywhere and you can drive along and know where you are going. They have addresses; the names of the buildings ready and blocks, alleys and lanes. This is the mindset that the Mover or the sponsor of this Bill had when he came up with it. I want to emphasize two things: One, we have a pedestrian population. Every time that we do a road, alley or lane, we should have pavements for pedestrians to walk and also for cyclists. Recently, coming from Europe, we observed that cyclists are given priority and they follow rules. Planning well allows us to co-exist. Since we are encouraging people to take up riding as a matter of fitness, we should also encourage safety. Secondly, we should as much as possible go green. We should not just construct roads for the sake of it but also make sure that we light the alleys, roads and streets. We should go green because we have solar and wind. One of the things I was impressed with while travelling through the European towns and flying over them is that, every small hamlet now is using solar and wind to power cities. The current problem comes with trying to make these straight roads, alleys and streets in areas which were hitherto not planned. Along with this, what happens to places where you want to make a straight road you find blocks that are not properly done because they were not planned for before. Many times that leads us to bulldoze and break them out. It is important to compensate the owners. If you want to make the roads straight and connect them, you must compensate the owners. I do not want to take a lot of time. However, I want to encourage that the sponsor of this Bill moves to the next level by making sure that we have a way in which we can effectively bring these changes to our communities. Since this is mostly for counties, most of our counties do not have enough personnel to do planning. We do not have enough planners. Hopefully, when this Bill is passed, we should encourage our counties to sponsor, particularly young people, to study city and town planning and then send them to those rural areas to do planning. I want to thank you, Sen. Olekina, for coming up with the idea that we need this, especially in our counties. We know the problems that have bedeviled our roads, cities and towns. Since it is a straight forward Bill, I support it."
     },
     {
-      "order": 545,
+      "order": 547,
       "id": "entry-830571",
       "label": "speech",
       "level": "3",
@@ -6543,7 +6567,7 @@
       "text": "Madam Temporary Speaker, thank you for giving me this opportunity to contribute to this important Bill. I join my colleagues in congratulating Sen. Olekina for this timely Bill. Speaking on behalf of Mombasa County, we have had these kinds of streets and pavements for many years. At the moment, all the pavements are being redone and carpeted with artificial carpets. Nkrumah Road and Moi Avenue are all green courtesy of the 79th International Association of Travel and Tourism Professionals (SKAL) World Congress which was held in Mombasa. The pavements have also been done in red. If you walk along Digo Road, which is in the main street towards the General Post Office, the streets are clean and the pavements are well done. Therefore, they beautify the city for residents and visitors. Madam Temporary Speaker, I also wish to advise the Mover of the Bill that we had a similar legislation called The Street Adoption Act Cap. 406 of the Laws of Kenya. Therefore, he can borrow a lot from that old Act which was enacted in 1963 to deal with similar situations. The penalties that are supposed to be imposed should be strictly enforced. This is because some of the things that we find at the moment, for example, congestion in towns and lack of pedestrian walkways have all come as a result of poor planning. Therefore, enactment of this legislation will deal with problems of poor planning and also rectify some of the problems that we have had in the past where roads have become narrow because of the increase in the number of motor vehicles and pedestrians who walk on them. Madam Temporary Speaker, with those few remarks, I support the Bill."
     },
     {
-      "order": 546,
+      "order": 548,
       "id": "entry-830572",
       "label": "speech",
       "level": "3",
@@ -6555,7 +6579,7 @@
       "text": "Sen. Olekina, I will give you an opportunity to reply. If you will not have enough time, it will be carried forward."
     },
     {
-      "order": 547,
+      "order": 549,
       "id": "entry-830573",
       "label": "speech",
       "level": "3",
@@ -6567,7 +6591,7 @@
       "text": "Thank you, Madam Temporary Speaker. I wish to first of all thank all the Senators who gave me more information that I will use to ensure that this Bill takes care of all the issues. I thank Sen. Susan Kihika for fully supporting the Bill and noting the importance of planning. She spoke about the need for us to ensure that all counties which are developing have proper access to buildings. One of the key points that she raised had to do with the issue of access to buildings in the sense that any building which is constructed along the major highway without proper access causes a lot of risks to the pedestrians and motorists. I was happy that she pointed out something on the issue of strict penalties which will help me add more to the Bill. Madam Temporary Speaker, Sen. (Dr.) Zani also contributed heavily on the Bill. I am pleased that she raised some of the issues in the Bill that I would like to address. For example, the person who will be in charge of planning is the County Executive Committee (CEC) Member in charge of Transport. In most cases, CECs in charge of different dockets in the county governments do not have defined roles. Therefore, this Bill will help them to define their roles. One of the issues that Sen. (Dr.) Zani raised, which will be important for me to reiterate, is the issue of enforcement. It is important to note that all county governments have enforcement units. These are the people who will be tasked to ensure that there is clear enforcement and collection of funds. Therefore, enforcement will be enhanced. It will also create more employment opportunities as Sen. (Rev.) Waqo mentioned. Madam Temporary Speaker, because of time, I would like to thank---"
     },
     {
-      "order": 548,
+      "order": 550,
       "id": "entry-830574",
       "label": "speech",
       "level": "3",
@@ -6579,7 +6603,7 @@
       "text": "Sen. Olekina, you will have a balance of 27 minutes to reply."
     },
     {
-      "order": 549,
+      "order": 551,
       "id": "entry-830575",
       "label": "heading",
       "level": "1",
@@ -6591,7 +6615,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 550,
+      "order": 552,
       "id": "entry-830576",
       "label": "speech",
       "level": "1",

@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-11-21-14-30-00",
-  "exported_at": "2026-10-05T08:02:31.085Z",
+  "exported_at": "2026-10-08T21:35:11.040Z",
   "entries": [
     {
       "order": 1,
@@ -3952,7 +3952,7 @@
     },
     {
       "order": 330,
-      "id": "entry-857913",
+      "id": "entry-857913-split-before-c51da40b-ce9e-4691-bd94-310d711d68af",
       "label": "speech",
       "level": "5",
       "cutout": false,
@@ -3960,10 +3960,34 @@
       "speaker": "Judith Ramaita Pareno",
       "speaker_title": "(The Temporary Chairperson)",
       "reviewed": true,
-      "text": "The Division will be at the end. ( Question, that the Title and\n\nClause 1 be part of the Bill, proposed\n\n)\n\nThe Division will be at the end. Sen. Cheruiyot."
+      "text": "The Division will be at the end."
     },
     {
       "order": 331,
+      "id": "entry-857913-split-selected-a20b2477-faac-48bd-af12-8a92433188da",
+      "label": "scene",
+      "level": "5",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Question, that the Title and\n\nClause 1 be part of the Bill, proposed\n\n)"
+    },
+    {
+      "order": 332,
+      "id": "entry-857913-split-after-ab5a3d52-6be3-430f-93a1-dc08fba1c228",
+      "label": "speech",
+      "level": "5",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Judith Ramaita Pareno",
+      "speaker_title": "(The Temporary Chairperson)",
+      "reviewed": true,
+      "text": "The Division will be at the end. Sen. Cheruiyot."
+    },
+    {
+      "order": 333,
       "id": "entry-857918",
       "label": "speech",
       "level": "5",
@@ -3975,7 +3999,7 @@
       "text": "Madam Temporary Chairperson, I beg to move that pursuant to Standing Order 142, the Committee of the Whole reports progress on its consideration of The County Governments (Amendment) Bill (Senate Bills No.13 of 2018) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 332,
+      "order": 334,
       "id": "entry-857919",
       "label": "scene",
       "level": "5",
@@ -3987,7 +4011,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 333,
+      "order": 335,
       "id": "entry-857920",
       "label": "scene",
       "level": "5",
@@ -3999,7 +4023,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 334,
+      "order": 336,
       "id": "entry-857921",
       "label": "scene",
       "level": "5",
@@ -4011,7 +4035,7 @@
       "text": "[The House resumed]"
     },
     {
-      "order": 335,
+      "order": 337,
       "id": "entry-857923",
       "label": "scene",
       "level": "5",
@@ -4023,7 +4047,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) In the Chair]"
     },
     {
-      "order": 336,
+      "order": 338,
       "id": "entry-857924",
       "label": "speech",
       "level": "5",
@@ -4035,7 +4059,7 @@
       "text": "Order, Senators! I call upon the Chairperson of the Committee of the Whole to report progress."
     },
     {
-      "order": 337,
+      "order": 339,
       "id": "entry-857925",
       "label": "heading",
       "level": "2",
@@ -4047,7 +4071,7 @@
       "text": "PROGRESS REPORTED"
     },
     {
-      "order": 338,
+      "order": 340,
       "id": "entry-857926",
       "label": "heading",
       "level": "3",
@@ -4059,7 +4083,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO.13 OF 2018)"
     },
     {
-      "order": 339,
+      "order": 341,
       "id": "entry-857927",
       "label": "speech",
       "level": "3",
@@ -4071,7 +4095,7 @@
       "text": "Madam Temporary Speaker, I beg to report progress that the Committee of the Whole has considered the County Governments (Amendment) Bill (Senate Bills No.13 of 2018) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 340,
+      "order": 342,
       "id": "entry-857928",
       "label": "speech",
       "level": "3",
@@ -4083,7 +4107,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee of the Whole on the said report. I request Sen. Seneta to second."
     },
     {
-      "order": 341,
+      "order": 343,
       "id": "entry-857930",
       "label": "speech",
       "level": "3",
@@ -4095,7 +4119,7 @@
       "text": "seconded."
     },
     {
-      "order": 342,
+      "order": 344,
       "id": "entry-857931",
       "label": "scene",
       "level": "3",
@@ -4107,7 +4131,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 343,
+      "order": 345,
       "id": "entry-857932",
       "label": "scene",
       "level": "3",
@@ -4119,7 +4143,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 344,
+      "order": 346,
       "id": "entry-857933",
       "label": "heading",
       "level": "1",
@@ -4131,7 +4155,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 345,
+      "order": 347,
       "id": "entry-857934",
       "label": "heading",
       "level": "2",
@@ -4143,7 +4167,7 @@
       "text": "THE CARE AND PROTECTION OF OLDER MEMBERS OF SOCIETY BILL (SENATE BILLS NO.17 OF 2018)"
     },
     {
-      "order": 346,
+      "order": 348,
       "id": "entry-857935",
       "label": "speech",
       "level": "2",
@@ -4155,7 +4179,7 @@
       "text": "The Order is deferred."
     },
     {
-      "order": 347,
+      "order": 349,
       "id": "entry-857936",
       "label": "scene",
       "level": "2",
@@ -4167,7 +4191,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 348,
+      "order": 350,
       "id": "entry-857937",
       "label": "speech",
       "level": "2",
@@ -4179,7 +4203,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 349,
+      "order": 351,
       "id": "entry-857938",
       "label": "heading",
       "level": "1",
@@ -4191,7 +4215,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 350,
+      "order": 352,
       "id": "entry-857940",
       "label": "heading",
       "level": "3",
@@ -4203,7 +4227,7 @@
       "text": "THE TREATY MAKING AND RATIFICATION (AMENDMENT) BILL (SENATE BILLS NO.23 OF 2018)"
     },
     {
-      "order": 351,
+      "order": 353,
       "id": "entry-857941",
       "label": "scene",
       "level": "3",
@@ -4215,7 +4239,7 @@
       "text": "(Sen. Dullo on 20.11.2018)"
     },
     {
-      "order": 352,
+      "order": 354,
       "id": "entry-857942",
       "label": "scene",
       "level": "3",
@@ -4227,7 +4251,7 @@
       "text": "(Resumption of Debate interrupted on 20.11.2018)"
     },
     {
-      "order": 353,
+      "order": 355,
       "id": "entry-857944",
       "label": "speech",
       "level": "3",
@@ -4239,7 +4263,7 @@
       "text": "Sen. (Dr.) Zani."
     },
     {
-      "order": 354,
+      "order": 356,
       "id": "entry-857945",
       "label": "speech",
       "level": "3",
@@ -4251,7 +4275,7 @@
       "text": "Thank you, Madam Temporary Speaker. When we stopped yesterday, at 6.30 p.m., the question had not been proposed. The Bill had been moved and seconded, but the question had not been proposed. We probably need to propose the question and then I will be happy to contribute."
     },
     {
-      "order": 355,
+      "order": 357,
       "id": "entry-857946",
       "label": "scene",
       "level": "3",
@@ -4263,7 +4287,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 356,
+      "order": 358,
       "id": "entry-857947",
       "label": "speech",
       "level": "3",
@@ -4275,7 +4299,7 @@
       "text": "Thank you, Madam Temporary Speaker. I stand to support this important amendment to The Treaty Making and Ratification (Amendment) Bill (Senate Bills No.23 of 2018). The original Bill that is being amended is the Treaty Making and Ratification Act No.45 of 2012. From the outset, treaty making and ratification is very important. We exist in an international community and normally have international laws come to the country from organisations such as State International Development Organization (SIDO), the United Nations (UN) and many others. The Constitution that was promulgated in 2010 is very clear and has various provisions for ratifying these treaties within our context. In fact, Article 2(6) of the Constitution gives effect for Parliament to enact this ratification. It says ‗Parliament' and not ‗the National Assembly' or ‗the Senate,' which means that it alludes to both the National Assembly and the Senate. Multilateral or bilateral treaties are important because they address important issues. They might address security issues in Kenya, sovereignty, independence of the country, the rights and duties of Kenyans, relationship between Kenya and any other international organization or environment and natural resources. We are cognizant of the fact that the Senate should address matters touching on counties. Clearly, almost all of these issues happen within a county context, where the Senate is fully contextualized to make its specific contribution. Consideration of treaties is done in the National Assembly at various levels, such as the Committee level and the public participation level. Through that process, the Members of the National Assembly have provision to the process and the reservations; in terms of either agreeing with the reservations or not agreeing with them. That means that they may either approve or disapprove the reservations. Section 15 of the original Act says that in terms of public awareness, once every financial year, a report concerning all matters of these treaties is raised in the National Assembly. Madam Temporary Speaker, this brings me to the concern that Sen. Dullo is addressing. Matters on treaties should touch on both Houses, that is, the National Assembly and the Senate. In her amendments, especially to Section 8, she indicates that:- ―Where the Cabinet approves the ratification of a treaty, the Cabinet Secretary shall submit the treaty and a memorandum on the treaty to the Speakers of Parliament for approval by the Parliament.‖ This is key. It is through this process that we hope that the provision of Article 1(3) of the Constitution can be operational. However, the decision will be made by the Speakers, whether or not it is a matter that touches on counties. Therefore, this particular amendment contextualizes that decision. Sen. Sakaja and Sen. Mutula Kilonzo Jnr. are in the process of coming up with a Bill to actualize this legislative process, which is important for us. The proposed new Section 8A (1) states that:- ―The process of approval of the treaty shall commence in the National Assembly‖. The proposed new Section 8A (2) states that:- ―The National Assembly shall consider a treaty within 14 days of its submission in the National Assembly and shall forward its resolution to the Senate for consideration‖. That is the key nexus of this particular amendment. It will not only be dealt with at the National Assembly level, but also forwarded to the Senate. The proposed new Section 8A (3) is an important provision because we know what has been happening in terms of the Bills between the National Assembly and the Senate. A provision is made in terms of timeliness. Therefore, at the expiry of 14 days, the Senate shall commence its consideration of the treaty and forward its resolutions to the National Assembly. This is a very important mechanism so that we do not have a lull, especially with the international treaties and timings that are made for their ratification. It will not be good in international limelight for us to be caught up in a debate of the National Assembly and the Senate, and a treaty is waiting. Therefore, this amendment ensures that the procedure can continue automatically. If the Bill is not passed to the Senate within 14 days, we can actually seize it, which is very critical. In the proposed new Section 8A (5), the Mover proposes that the treaty to be referred to a joint Committee, which is to do with mediation. As it happened in the 11th Parliament, many Bills ended up in mediation. Therefore, in case anything goes wrong, the two Houses can form a mediation Committee and come up with a version of the Bill that is accepted by both Houses. That mediation Committee usually consists of equal number of Members. Three Members from both Houses has been the tradition. Therefore, some agreement has to be made at that particular level. Therefore, it gives a provision, for example, where there is a disagreement between the National Assembly and the Senate. The proposed new Section 8A (6) states that:- ―Parliament shall not approve- (a) the ratification of a treaty or part of it if its provisions are contrary to the Constitution;‖ It should be part and parcel and integral to the Constitution. This is an important Bill. When it comes to the understanding of how international treaties are simulated and ratified within our context, sometimes there is a conflicting piece of information. This is because for some of the international treaties, we say that we are automatically signatories and make ourselves part and parcel of that process, but the sovereignty for doing that, when it comes to the legislative agenda, is done within Parliament and in the provision of Article 2(6) of the Constitution. Therefore, the ratification process is very important and any international treaty should go through it. It has to be ratified by a country, in this instance, Kenya. It is a small amendment but very critical. It is quite straight forward; just to bring in the Senate on board as part and parcel of a process and legitimize Article 2(6) of the Constitution, which clearly says that Parliament - not the National Assembly - will give effect. Parliament includes the National Assembly and the Senate."
     },
     {
-      "order": 357,
+      "order": 359,
       "id": "entry-857950",
       "label": "speech",
       "level": "3",
@@ -4287,7 +4311,7 @@
       "text": "Madam Temporary Speaker, I rise to support this Bill. I congratulate the Mover for bringing this very noble idea to amend a very glaring lacuna. When we have an Act that in its provision does not recognise the Senate, then it is high time that we amend our laws to upgrade and audit them, to ensure that the proper place of the Senate is adhered to. This is a very straightforward amendment and I will be surprised if anybody will have a problem with it. This is because it is simply amending an Act to recognise that we have a new Constitution in place. We now have the ―upper‖ House and the ―lower‖ House, and each House plays its role. More so, lately we have had issues with some of our regulations going to the National Assembly and being passed without passing through the Senate, yet most of them affect the counties. We are here, as a Senate, to take care of the interests of the counties. Therefore, this is a noble amendment that I support. Madam Temporary Speaker, it would then require that not only one House deals with treaties. That would mean that the National Assembly will deal with it in the first instance. The Bill goes ahead to even provide that if it does not do it in the first instance, then we will not hold anybody hostage. The Senate will start the process and vice versa. The Constitution of Kenya provides for very broad principles through which we are supposed to enact legislation. In fact, it says that Parliament shall enact legislation to actualize the provisions of the Constitution. This is one such amendment that will ensure that the provisions of the Constitution and the principles that are so broad--- We could not specify everything in that Constitution--- Setting broad principles means and calls on us to put in place legislation to actualize the spirit and letter of the Constitution. I am happy that in this amendment, we are also providing for a principle that was brought in on behalf of the people - the principle of public participation. If we do not include public participation in treaties, we will not be speaking the language of the Constitution. The intention of the Constitution is that every other law that we pass is inclusive, including the domesticating of treaties; the people have a say. I am happy with this amendment because the citizens will be given space. The committees that will handle any treaties that are supposed to be domesticated will hear from the people. It has even given a provision for reservations. We must not always take everything that comes along the way. I am happy that people will have a say on what they want reserved maybe for some time and how their interests will be taken care of. We need to take the issue of treaties seriously. You will forgive me because I keep talking about the East African Community (EAC) because it is part and parcel of me, having been there. We sign and domesticate treaties. We speak on behalf of the citizens who want the EAC integration. However, as at one month ago, the EAC was not fully funded. You will find that there is a country that has paid only 20 per cent when the financial year is halfway and another one only 15 per cent. There is even a country that has not paid a cent, yet it is party to a treaty. As we domesticate treaties and bring them home, we believe that they are for the interest of the people. As we make these laws to actualise the provisions of the treaties and make them to serve the people, let us be serious on the treaties we sign and fully take up the mandate given to us. I am happy that this amendment will not allow anybody to hold the other hostage. In Clause 3, this Bill seeks to amend the principal Act by inserting a new section immediately after Section 8. It provides that:- ―The principal Act is amended by inserting the following new section immediately after Section 8-- 8A. (1) The process of approval of a treaty shall commence in the National Assembly. (2) The National Assembly shall consider a treaty within fourteen days of its submission to the National Assembly and shall forward its resolution to the Senate for consideration. (3) If within fourteen days of submission of a treaty to the National Assembly, the National Assembly has not forwarded its resolution on the treaty to the Senate, the Senate shall commence its consideration of the treaty and shall forward its resolution to the National Assembly.‖ Therefore, the Senate shall not hold the National Assembly hostage and neither will the National Assembly be held hostage by the Senate because the processes spell out what should happen if one were to delay. I like this because it will allow us to implement our Constitution. It will also allow us to speak for the people and have a say in which treaties we will get into and not get into. I beg to support."
     },
     {
-      "order": 358,
+      "order": 360,
       "id": "entry-857953",
       "label": "speech",
       "level": "3",
@@ -4299,7 +4323,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me an opportunity to make a few remarks in respect to this important Bill. It is important to appreciate the primacy of our Constitution. The Constitution is a supreme document that binds all institutions and citizens. It is the basis upon which mandate is exercised. It is clear that any time there is mention of the word ―Parliament‖ that gives or lends credence that Parliament means the National Assembly and the Senate. Any attempt at excluding the Senate from the meaning of Parliament - for those who are vigilant, loyal or committed to constitutionalism - is an affront. This is a Bill that intends to make us sticklers to the Constitution. It is a Bill that intends to make the exercise of ratification of treaties or treaty making comply with the spirit of the Constitution, which requires that both Houses ventilate or speak to the subject of the treaty that should be ratified. Before I joined this House, I read and listened to people talking about quarrels between the two Houses. Such issues should not arise. These are issues that the makers of our Constitution, 2010 addressed. Therefore, we should also understand, so that we proceed in harmony. I am happy that at long last, in the context of treaty making and ratification, there is recognition of the role of the Senate. It is important that the interest of county governments and the people who may be affected by those treaties are capture, and there is opportunity to discuss those matters inside the Senate Chamber. I believe that this is the right way to go. Even if it did not provide for mechanisms of expediting the processes before either Chamber, it is important that as the Senate, we look at treaties because they will affect counties. If you look at the genesis of the existence of senates the world over, you will find that it was stated in the federalist papers that there was need to have an upper House because legislation that emanated from the lower House was generally hot and made in haste. So, there was need to have an upper House. The same way when you have tea that is hot, you need to have a saucer to cool the tea, so that it does not scald or burn your mouth. It is important as a country that we do not rush the processes of treaty ratification. I know that globalization is with us and ratification of treaties is how to actualize and benefit from acts of globalization, But, again, Bills or treaties that emanate from the lower houses may come expeditiously and may not have received what we call sober consideration. So, it is important to give them a second shot; look at them in revised and calm fashion, the way we look at things in this House, so that members of the public ultimately benefit immensely from the wealth of experience that we have in this House. Madam Temporary Speaker, you know that in this House we have several Senior Counsels, including the Attorney General Emeritus, Sen. Wetangula, among others. So, a treaty that would be injurious or harmful to this country will not escape the vigilance or the hawk-eyed Senators who sit in this House. I think for good measure, we need to have it in our legislation. With those few remarks, I beg to support."
     },
     {
-      "order": 359,
+      "order": 361,
       "id": "entry-857958",
       "label": "speech",
       "level": "3",
@@ -4311,7 +4335,7 @@
       "text": "Sen. Wetangula."
     },
     {
-      "order": 360,
+      "order": 362,
       "id": "entry-857959",
       "label": "speech",
       "level": "3",
@@ -4323,7 +4347,7 @@
       "text": "Thank you, Madam Temporary Speaker. I was, in fact, going away when I heard on radio the debate on this Bill going on. I had to rush back to speak to it because this is one Bill that this House must pass to reclaim its position under the Constitution. I say so because I have been in the Senate Committee on Defence and Foreign Relations that has been working on this Bill since the last Parliament. The Constitution provides very clearly that any treaty signed by the Republic of Kenya, in which case it will be either the Cabinet Secretary (CS) responsible for foreign affairs or any designated CS, shall not become part of our law unless it is ratified by Parliament; not the National Assembly. Madam Temporary Speaker, in the last Parliament, there was a crude attempt by the National Assembly to amend the Constitution and edit out the Senate from treaty ratification. This is so that treaties entered into by the Republic of Kenya end up in the National Assembly to take legal effect, and the Senate is cut out. We protested this mischievous amendment very loudly and vehemently to the National Assembly, but they completely ignored us. In the process, that amendment to the Treaties Act was sneaked to the President and he assented to it. Madam Temporary Speaker, this brings me to the point that we have been saying; that Article 110(3) of the Constitution - and I have seen a Bill drafted by Sen. Mutula Kilonzo Jnr. or somebody else - must be operationalised by a simple Act of Parliament that will take us to the process that Amos Wako, as Attorney-General, used to go through. Sen. Wako started serving this country during the single-party era. He moved with a very conscious operational structure, where no Bill was taken to the President for assent without the necessary vellums being put in place, with the necessary signatures to show from the Speaker and other people, reflecting what went on in the House. Madam Temporary Speaker, I remember going to Amos Wako's office once, and he was actually reading the HANSARD to see whether what was published in the Bill was a reflection of the proceedings of the House. Today, Article 110(3) of the Constitution says that before any Bill - not ‗some Bills' but ‗any Bill' - is introduced in any House, it must be placed before the two Speakers of both Houses for concurrence on whether or not it affects counties. The Supreme Court, in our advisory reference, told us that they cannot envisage any Bill that does not concern counties. Whether it is a budgetary matter, defence or agriculture, they are all about counties. Whatever you can think of, the theatre of operation of every issue in this country is in the counties. In fact, there is no Bill - whether or not it is a money Bill - that does not concern counties. This is because when we collect taxes, we collect them in the counties. When we expend taxes, we expend them in counties. That is why this Bill is very critical. Madam Temporary Speaker, hon. Aden Duale and his group edited the Senate out of treaty making and amended the law to now read that no treaty shall become or enjoy a force of law without ratification by the National Assembly. That language is not in our Constitution. By passing this Bill here, we are simply rolling back and restoring the Constitutional position that the Constitution gave authority to this House. This is because Parliament is not Parliament without both Houses; the Senate and the National Assembly. As a matter of fact, the Senate is the ―upper‖ House; the House of revision and reference, where Bills from the National Assembly ought to come to this House. Madam Temporary Speaker, all of us travel to comparable jurisdictions. When you go to Australia, England or wherever, people out there laugh when they hear that a National Assembly has veto powers over Bills from the Senate. They also laugh when they hear that Bills go to the National Assembly and never end up in the Senate. There is nothing in this country that does not concern counties. In fact, I have been arguing - and I will continue arguing - that we must relook at our Constitution, even on revenue sharing. As we correct these imbalances and the erratic changes in the law, revenue sharing must be changed. This is where Amos Wako and his team went wrong. We cannot share revenue on account of historical figures based on audits, knowing that Parliament either deliberately or because of incapacity, is unable to keep abreast with audits. Right now, we, as the Senate, are bringing audit reports of the Financial Year 2013/2014 to this Floor. We are what Sen. Wako called us; morticians who carry out post-mortems on dead bodies, instead of helping the living to live. We must stop this because if we do not do it, we will continue to cheat counties. For example, we have a budget of Kshs3 trillion and are sharing out to counties Kshs970 billion, and we say that this is the revenue available for sharing. In Nigeria, revenue sharing is based on every current budget, and 52 per cent of the current budget goes to devolved units and 48 per cent is left with the national government. Back to this Bill, I want to urge this House to pass it because this House is reclaiming its constitutional position in treaty making. Moreover, where we have said that every treaty becomes law, if this Senate as the defender and protector of counties, their governments and interests does not get involved, you will find somebody sitting in the national Government signing a treaty giving away Lamu or Mombasa ports or our highways or oil without us getting involved. We must defend our territory. As Justice C. B. Madan used to say, jurisdiction is not given, it is grabbed. This House must grab back our jurisdiction and look for even more jurisdiction. We must reclaim the internationally acclaimed position that every Senate, wherever it lies, is the upper House and the National Assembly or House of its equivalent, is the lower House. Therefore, things will always move. As we say in science, hot air rises; it does not go down. I beg to support."
     },
     {
-      "order": 361,
+      "order": 363,
       "id": "entry-857964",
       "label": "speech",
       "level": "3",
@@ -4335,7 +4359,7 @@
       "text": "Thank you very much, Madam Temporary Speaker. I will be brief. As Sen. Wetangula and other Senators have said, this Bill is for us to reclaim our position in the Constitution. There is no better place for us to reclaim this than those places where the National Assembly, if you may recall, passed many laws touching on the counties. Those laws went through the Third Reading and then submitted to the President, who signed them and they became law. It took this Senate a lot of meetings to bring up comprehensive amendments to those laws to make them illegal. One of those areas is the treaties. I would have lectured quite a bit on the treaties, some which are self-executing and so, there is no need for ratification because they are there but some need ratification. Currently, under the Constitution of Kenya 2010, every treaty requires ratification through Parliament because Article 2 (6) states that treaties are part of the law of the land. Further, under Article 92, it is Parliament which makes the laws of the land. Madam Temporary Speaker, the international relationship has now reached a level where a number of treaties touch on the functions, which have been conferred on counties. When I talk about agriculture, it is a devolved function, and we have the Food and Agricultural Organization (FAO) in Rome. When we talk about health services, it is a devolved function, and we have the World Health Organization (WHO) in Geneva. When we talk about air pollution, which is a devolved function under Article 6 (3) of the Constitution, where the county government controls air pollution, it is a devolved function. We also have the United Nations Environment Programme (UNEP) here. In fact, on environment, the Constitution goes further to say that even where the national Government has done something on natural resources and environment, under Article 10, it also becomes the responsibility of the county government to implement that. Therefore, treaties entered into in these areas have to come here, so that we can see whether or not they touch on the functions of the counties, which is our basic concern. In conclusion, Madam Temporary Speaker, the Supreme Court ruled, in effect, that although the Constitution says that we are concerned with legislation which touches on and concerns counties, they could think of no area of activity of the national Government which does not touch on counties. The Supreme Court even went further and said that even national security - which is a preserve of the national Government in the Constitution - also touches and concerns county governments. It is, therefore, a legitimate concern of the county governments. Therefore, at the end of the day, the Supreme Court was ruling that any law that goes to the National Assembly should also come to the Senate for approval. That is why we are now saying that this Bill is important, because we are now recapturing the authority, which is ours under the Constitution and is to be involved in this important area of international law about making treaties. Madam Temporary Speaker, one can even say that if human rights treaties, which touch on fundamental freedoms, including those that touch on economic, social and cultural activities concern counties and, therefore, also concern the people of this country. They are, therefore, a legitimate concern for us, and this law should be passed very urgently so that we can begin looking at these treaties. Earlier on today, in this august Assembly, we talked about the East African Integration and the fact that those treaties, which are being passed in Arusha, do not come to us for ratification. They just go to the National Assembly, where they comment on them and go back to Arusha. Those laws must come to us from the National Assembly, for us to also approve them. Therefore, this Bill is one way of reclaiming our lost authority, and I recommend that we pass it unanimously. Madam Temporary Speaker, with those few remarks, I beg to support."
     },
     {
-      "order": 362,
+      "order": 364,
       "id": "entry-857966",
       "label": "heading",
       "level": "1",
@@ -4347,7 +4371,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 363,
+      "order": 365,
       "id": "entry-857967",
       "label": "speech",
       "level": "1",

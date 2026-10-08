@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2019-06-06-14-30-00",
-  "exported_at": "2026-10-05T08:03:57.450Z",
+  "exported_at": "2026-10-08T21:35:23.706Z",
   "entries": [
     {
       "order": 1,
@@ -5656,7 +5656,7 @@
     },
     {
       "order": 472,
-      "id": "entry-906981",
+      "id": "entry-906981-split-before-484126a1-edcd-4393-86b1-dfae5aa72529",
       "label": "speech",
       "level": "5",
       "cutout": false,
@@ -5664,10 +5664,34 @@
       "speaker": "Naomi Jilo Waqo",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Madam Temporary Chairperson, I beg to move- THAT clause 14 of the Bill be deleted and substituted with the following new clause-- Chief executive officer.\n\n14.\n\n(1) The chief executive officer shall be competitively recruited and appointed by the Board on such terms and conditions as the Board shall determine. (2) The chief executive officer shall be responsible for the day to day management of the affairs of the Board. (3) A person is not qualified for appointment under subsection (1) unless the person-\n\n(a) holds a relevant degree from a university recognized in Kenya; and (b) has at least five years experience in a position of management. (4) The chief executive officer shall serve for a term of three years and is eligible for appointment for a further one term of three years upon satisfactory performance."
+      "text": "Madam Temporary Chairperson, I beg to move- THAT clause 14 of the Bill be deleted and substituted with the following new clause-- Chief executive officer.\n\n14.\n\n(1) The chief executive officer shall be competitively recruited and appointed by the Board on such terms and conditions as the Board shall determine. (2) The chief executive officer shall be responsible for the day to day management of the affairs of the Board."
     },
     {
       "order": 473,
+      "id": "entry-906981-split-selected-627c1b30-0be9-440d-a63b-1d2a2b127137",
+      "label": "scene",
+      "level": "5",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "(3) A person is not qualified for appointment under subsection (1)"
+    },
+    {
+      "order": 474,
+      "id": "entry-906981-split-after-3ade31b4-77d2-45ff-9558-4522a693bdba",
+      "label": "speech",
+      "level": "5",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "Naomi Jilo Waqo",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "unless the person-\n\n(a) holds a relevant degree from a university recognized in Kenya; and (b) has at least five years experience in a position of management. (4) The chief executive officer shall serve for a term of three years and is eligible for appointment for a further one term of three years upon satisfactory performance."
+    },
+    {
+      "order": 475,
       "id": "entry-906985",
       "label": "scene",
       "level": "5",
@@ -5679,7 +5703,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 474,
+      "order": 476,
       "id": "entry-906986",
       "label": "speech",
       "level": "5",
@@ -5691,7 +5715,7 @@
       "text": "Division will be done at the end."
     },
     {
-      "order": 475,
+      "order": 477,
       "id": "entry-906987",
       "label": "heading",
       "level": "5",
@@ -5703,7 +5727,7 @@
       "text": "Clause 15"
     },
     {
-      "order": 476,
+      "order": 478,
       "id": "entry-906988",
       "label": "speech",
       "level": "5",
@@ -5715,7 +5739,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT clause 15 of the Bill be deleted and substituted with the following new clause-- Vacancy\n\n15.\n\nThe chief executive officer shall cease to hold office if the person-- (a) resigns in writing, addressed to the Board of Directors; (b) is convicted of a criminal offence and sentenced to a term of imprisonment of not less than six months; (c) is found liable for gross misconduct or abuse of office in contravention of the Public Officers Ethics Act or any other relevant law; (d) is declared bankrupt; (e) is unable to perform the functions of his office by reason of mental or physical infirmity; or (f) dies."
     },
     {
-      "order": 477,
+      "order": 479,
       "id": "entry-906991",
       "label": "scene",
       "level": "5",
@@ -5727,7 +5751,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 478,
+      "order": 480,
       "id": "entry-906992",
       "label": "speech",
       "level": "5",
@@ -5739,7 +5763,7 @@
       "text": "Division will be done at the end."
     },
     {
-      "order": 479,
+      "order": 481,
       "id": "entry-906993",
       "label": "heading",
       "level": "5",
@@ -5751,7 +5775,7 @@
       "text": "Clause 16"
     },
     {
-      "order": 480,
+      "order": 482,
       "id": "entry-906994",
       "label": "speech",
       "level": "5",
@@ -5763,7 +5787,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 16 of the Bill be deleted and substituted with the following new clause-- Corporation Secretary\n\n16.\n\n(1) There shall be a Corporation Secretary who shall be competitively recruited and appointed by the Board of Directors. (2) The terms and conditions of service of the corporation secretary shall be determined by the Board in the instrument of appointment upon the advice of the Salaries and Remuneration Commission.\n\n(3) A person is qualified for appointment under subsection (1) if that person-- (a) holds a degree from a recognized university; (b) is registered under the Certified Public Secretaries of Kenya Act; (c) is a member of good standing of the Institute of Certified Public Secretaries of Kenya; (d) has at least seven years' experience in a similar position; and (e) satisfies the requirements of chapter six of the Constitution. (4) The Corporation Secretary shall be the secretary to the Board and shall -- (a) provide guidance to the Board of Directors on their duties and responsibilities and on matters of governance; (b) ensure timely preparation and circulation of Board and Committee papers and minutes; (c) maintain and update the register of conflicts of interest; (d) facilitate effective communication between the organisation and the shareholders; and (e) ensure that the annual returns and any other statutory documents required to be filed are promptly filed with the relevant authorities."
     },
     {
-      "order": 481,
+      "order": 483,
       "id": "entry-906998-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "5",
@@ -5775,7 +5799,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 482,
+      "order": 484,
       "id": "entry-906998-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "5",
@@ -5787,7 +5811,7 @@
       "text": "Clause 17"
     },
     {
-      "order": 483,
+      "order": 485,
       "id": "entry-906999-split-before-21ae2ab8-7f33-4e59-a6d6-cb27737b20c2",
       "label": "speech",
       "level": "5",
@@ -5799,7 +5823,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 17 of the Bill be amended in sub-clause (2) by inserting the following new paragraph immediately after paragraph (c) -"
     },
     {
-      "order": 484,
+      "order": 486,
       "id": "entry-906999-split-selected-ad689646-927a-4626-9b51-5d17fb8d8fe2",
       "label": "scene",
       "level": "5",
@@ -5811,7 +5835,7 @@
       "text": "(d) such other information as the Board may be prescribed."
     },
     {
-      "order": 485,
+      "order": 487,
       "id": "entry-907000",
       "label": "scene",
       "level": "5",
@@ -5823,7 +5847,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 486,
+      "order": 488,
       "id": "entry-907001",
       "label": "speech",
       "level": "5",
@@ -5835,7 +5859,7 @@
       "text": "Division at the end."
     },
     {
-      "order": 487,
+      "order": 489,
       "id": "entry-907002",
       "label": "heading",
       "level": "5",
@@ -5847,7 +5871,7 @@
       "text": "Clause 18"
     },
     {
-      "order": 488,
+      "order": 490,
       "id": "entry-907003-split-before-fd44e3e5-6d53-4fdf-b706-119635588dcb",
       "label": "speech",
       "level": "5",
@@ -5859,7 +5883,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT clause 18 of the Bill be amended-- (a) in sub clause (1) by deleting the word \"Authority\" appearing at the end of the sub-clause and substituting therefor the word \"Board\";"
     },
     {
-      "order": 489,
+      "order": 491,
       "id": "entry-907003-split-selected-bd29b4a1-7442-4326-a4fe-6ee9701704e7",
       "label": "scene",
       "level": "5",
@@ -5871,7 +5895,7 @@
       "text": "(b) inserting the following new sub-clause immediately after sub-"
     },
     {
-      "order": 490,
+      "order": 492,
       "id": "entry-907003-split-after-c7b080e9-433b-4cfa-9536-3d7b2f286b0e",
       "label": "speech",
       "level": "5",
@@ -5883,7 +5907,7 @@
       "text": "clause (1)- (1A) Subsection (1) shall not apply to the export, import or marketing of any tea consisting of a sample or parcel not exceeding ten kilograms or tea processed for consumption on ships, aeroplanes or any other international carrier. (c) in subclause (3) by deleting the word \"Authority\" appearing immediately after the word \"the\" and substituting therefor the word \"Board\"."
     },
     {
-      "order": 491,
+      "order": 493,
       "id": "entry-907005",
       "label": "scene",
       "level": "5",
@@ -5895,7 +5919,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 492,
+      "order": 494,
       "id": "entry-907006",
       "label": "speech",
       "level": "5",
@@ -5907,7 +5931,7 @@
       "text": "Division at the end."
     },
     {
-      "order": 493,
+      "order": 495,
       "id": "entry-907007",
       "label": "heading",
       "level": "5",
@@ -5919,7 +5943,7 @@
       "text": "Clause 19"
     },
     {
-      "order": 494,
+      "order": 496,
       "id": "entry-907008",
       "label": "speech",
       "level": "5",
@@ -5931,7 +5955,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by deleting clause 19 and substituting therefor the following new clause-- Form of licence.\n\n19"
     },
     {
-      "order": 495,
+      "order": 497,
       "id": "entry-907010",
       "label": "speech",
       "level": "5",
@@ -5943,7 +5967,7 @@
       "text": ". A licence issued under this Act shall be in a form prescribed by the Board, and shall be renewable upon the expiry of three years."
     },
     {
-      "order": 496,
+      "order": 498,
       "id": "entry-907011",
       "label": "scene",
       "level": "5",
@@ -5955,7 +5979,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 497,
+      "order": 499,
       "id": "entry-907012",
       "label": "speech",
       "level": "5",
@@ -5967,7 +5991,7 @@
       "text": "Division will come at the end."
     },
     {
-      "order": 498,
+      "order": 500,
       "id": "entry-907013",
       "label": "heading",
       "level": "5",
@@ -5979,7 +6003,7 @@
       "text": "Clause 20"
     },
     {
-      "order": 499,
+      "order": 501,
       "id": "entry-907014",
       "label": "speech",
       "level": "5",
@@ -5991,7 +6015,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by deleting clause 20 and substituting therefore the following new clause-- Dissemination of market information.\n\n20."
     },
     {
-      "order": 500,
+      "order": 502,
       "id": "entry-907016",
       "label": "speech",
       "level": "5",
@@ -6003,7 +6027,7 @@
       "text": "The Board shall carry out market research and analysis and disseminate information on its findings to all stakeholders."
     },
     {
-      "order": 501,
+      "order": 503,
       "id": "entry-907017",
       "label": "scene",
       "level": "5",
@@ -6015,7 +6039,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 502,
+      "order": 504,
       "id": "entry-907018",
       "label": "speech",
       "level": "5",
@@ -6027,7 +6051,7 @@
       "text": "Division will be done at the end."
     },
     {
-      "order": 503,
+      "order": 505,
       "id": "entry-907019",
       "label": "heading",
       "level": "5",
@@ -6039,7 +6063,7 @@
       "text": "Clause 21"
     },
     {
-      "order": 504,
+      "order": 506,
       "id": "entry-907020-split-before-73f040e7-2715-4467-a8b2-27d3907ebe87",
       "label": "speech",
       "level": "5",
@@ -6051,7 +6075,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT the Bill be amended by deleting Clause 21 and substituting therefor the following new clause- Funds of the Board 21. The funds and assets of the Board shall consist of- (a) such monies or assets as may accrue to or vest in the Board in the course of the exercise of its powers or the performance of its functions under this Act. (b) such monies as may be payable to the Board pursuant to this Act or any other written law;"
     },
     {
-      "order": 505,
+      "order": 507,
       "id": "entry-907020-split-selected-c8cbc0a5-171c-4e49-b4a6-5a30a7426572",
       "label": "scene",
       "level": "5",
@@ -6063,7 +6087,7 @@
       "text": "(c) such gifts as may be donated to the Board; and (d) monies from any other source granted, donated or lent to the"
     },
     {
-      "order": 506,
+      "order": 508,
       "id": "entry-907020-split-after-0906f0da-2725-48a3-bea6-9e31e3675f0a",
       "label": "speech",
       "level": "5",
@@ -6075,7 +6099,7 @@
       "text": "Board"
     },
     {
-      "order": 507,
+      "order": 509,
       "id": "entry-907024",
       "label": "scene",
       "level": "5",
@@ -6087,7 +6111,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 508,
+      "order": 510,
       "id": "entry-907025",
       "label": "heading",
       "level": "5",
@@ -6099,7 +6123,7 @@
       "text": "Clause 22"
     },
     {
-      "order": 509,
+      "order": 511,
       "id": "entry-907026",
       "label": "speech",
       "level": "5",
@@ -6111,7 +6135,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT Clause 22 of the Bill be amended-- (a) in sub-clause (1) by deleting the word \"Authority\" appearing immediately after the words \"expenditure of the\" and substituting therefor the word \"Board\"; and (b) in sub-clause (2) by deleting the word \"Authority\" appearing immediately after the words \"expenditure of the\" and substituting therefor the word \"Board\";"
     },
     {
-      "order": 510,
+      "order": 512,
       "id": "entry-907027",
       "label": "scene",
       "level": "5",
@@ -6123,7 +6147,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 511,
+      "order": 513,
       "id": "entry-907028",
       "label": "heading",
       "level": "5",
@@ -6135,7 +6159,7 @@
       "text": "Clause 23"
     },
     {
-      "order": 512,
+      "order": 514,
       "id": "entry-907029",
       "label": "speech",
       "level": "5",
@@ -6147,7 +6171,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT Clause 23 of the Bill be amended- (a) in sub-clause (1) by- (i) deleting the word \"Authority\" appearing immediately after the word \"The\" in the introductory clause and substituting therefor the word \"Board\"; (ii) deleting the word \"Authority\" appearing immediately after the words \"liabilities of the\" in paragraph (a) and substituting therefor the word \"Board\"; (b) in sub-clause (2) by deleting the word \"Authority\" appearing immediately after the words \"accounts of the\" and substituting therefor the word \"Board\"; (c) by deleting sub-clause (3) and substituting therefor the following new subclause- (3) The Board shall submit to the Auditor-General all books and accounts of the Board, together with all vouchers in support thereof, and all books, papers and writings in its possession or control relating thereto, and the Auditor-General shall be entitled to require from any member, officer, employee or agent of the Board such information and explanation as he may consider necessary for the performance of his duties. (d) by deleting sub-clause (4)."
     },
     {
-      "order": 513,
+      "order": 515,
       "id": "entry-907030",
       "label": "scene",
       "level": "5",
@@ -6159,7 +6183,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 514,
+      "order": 516,
       "id": "entry-907031",
       "label": "heading",
       "level": "5",
@@ -6171,7 +6195,7 @@
       "text": "Clause 24"
     },
     {
-      "order": 515,
+      "order": 517,
       "id": "entry-907032",
       "label": "speech",
       "level": "5",
@@ -6183,7 +6207,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT the Bill be amended by deleting Clause 24 and substituting therefor the following new clause-- Annual Report and Publication 24. (1)The Board shall, within a period of three months after the end of each financial year or within such longer period as the Cabinet may approve, submit to the Cabinet Secretary a report of the operations of the Board during such year, and the yearly balance sheet and such other statements of account as the Cabinet Secretary shall require, together with the Auditor-General's report . (2) The Board shall, if the Cabinet Secretary so requires, publish the report, balance sheet and statements submitted to him under subsection (1) in such manner as the Cabinet Secretary may specify. (3) The Cabinet Secretary shall submit to Parliament the reports, balance sheet and statements submitted under subsection (1), within a period of fourteen days of the receipt of the reports and statements or, if Parliament is not sitting, within fourteen days of the commencement of its next sitting."
     },
     {
-      "order": 516,
+      "order": 518,
       "id": "entry-907034",
       "label": "scene",
       "level": "5",
@@ -6195,7 +6219,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 517,
+      "order": 519,
       "id": "entry-907035",
       "label": "heading",
       "level": "5",
@@ -6207,7 +6231,7 @@
       "text": "Clause 25"
     },
     {
-      "order": 518,
+      "order": 520,
       "id": "entry-907036",
       "label": "speech",
       "level": "5",
@@ -6219,7 +6243,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT Clause 25 of the Bill be amended by deleting the word \"Authority\" appearing immediately after the words \"year of the\" and substituting therefor the word \"Board\"."
     },
     {
-      "order": 519,
+      "order": 521,
       "id": "entry-907038",
       "label": "scene",
       "level": "5",
@@ -6231,7 +6255,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 520,
+      "order": 522,
       "id": "entry-907039",
       "label": "heading",
       "level": "5",
@@ -6243,7 +6267,7 @@
       "text": "Clause 26"
     },
     {
-      "order": 521,
+      "order": 523,
       "id": "entry-907040",
       "label": "speech",
       "level": "5",
@@ -6255,7 +6279,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT Clause 26 of the Bill be amended- (a) in sub-clause (1) by deleting the word \"Authority\" appearing immediately after the word \"The\" and substituting therefor the word \"Board\"; and (b) in sub-clause (2) by deleting the word \"Authority\" appearing immediately after the words \"decision of the\" and substituting therefor the word \"Board\"."
     },
     {
-      "order": 522,
+      "order": 524,
       "id": "entry-907041",
       "label": "scene",
       "level": "5",
@@ -6267,7 +6291,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 523,
+      "order": 525,
       "id": "entry-907042",
       "label": "heading",
       "level": "5",
@@ -6279,7 +6303,7 @@
       "text": "Clause 27"
     },
     {
-      "order": 524,
+      "order": 526,
       "id": "entry-907043",
       "label": "speech",
       "level": "5",
@@ -6291,7 +6315,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT Clause 27 of the Bill be amended by deleting the word \"Authority\" appearing immediately after the words \"attach to the\" and substituting therefor the word \"Board\"."
     },
     {
-      "order": 525,
+      "order": 527,
       "id": "entry-907044",
       "label": "scene",
       "level": "5",
@@ -6303,7 +6327,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 526,
+      "order": 528,
       "id": "entry-907045-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -6315,7 +6339,7 @@
       "text": "Clause 28"
     },
     {
-      "order": 527,
+      "order": 529,
       "id": "entry-907045-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -6327,7 +6351,7 @@
       "text": "(Question that Clause 28 be part of the Bill proposed)"
     },
     {
-      "order": 528,
+      "order": 530,
       "id": "entry-907046",
       "label": "heading",
       "level": "5",
@@ -6339,7 +6363,7 @@
       "text": "Clause 29"
     },
     {
-      "order": 529,
+      "order": 531,
       "id": "entry-907047",
       "label": "speech",
       "level": "5",
@@ -6351,7 +6375,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT Clause 29 of the Bill be amended in sub-clause (1) by deleting the word \"Authority\" appearing immediately after the words \"consultation with the\" in the introductory clause and substituting therefor the word \"Board\"."
     },
     {
-      "order": 530,
+      "order": 532,
       "id": "entry-907048-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "5",
@@ -6363,7 +6387,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 531,
+      "order": 533,
       "id": "entry-907048-parenthesis-split-2-of-3",
       "label": "heading",
       "level": "5",
@@ -6375,7 +6399,7 @@
       "text": "Clause 30"
     },
     {
-      "order": 532,
+      "order": 534,
       "id": "entry-907048-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "5",
@@ -6387,7 +6411,7 @@
       "text": "(Question that Clause 30 be part of the Bill proposed)"
     },
     {
-      "order": 533,
+      "order": 535,
       "id": "entry-907049",
       "label": "heading",
       "level": "5",
@@ -6399,7 +6423,7 @@
       "text": "Clause 31"
     },
     {
-      "order": 534,
+      "order": 536,
       "id": "entry-907050",
       "label": "speech",
       "level": "5",
@@ -6411,7 +6435,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT Clause 31 of the Bill be amended by deleting the word \"Authority\" appearing immediately after the words \"contracts of the\" and substituting therefor the word \"Board\"."
     },
     {
-      "order": 535,
+      "order": 537,
       "id": "entry-907051",
       "label": "scene",
       "level": "5",
@@ -6423,7 +6447,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 536,
+      "order": 538,
       "id": "entry-907052",
       "label": "heading",
       "level": "5",
@@ -6435,7 +6459,7 @@
       "text": "Clause 32"
     },
     {
-      "order": 537,
+      "order": 539,
       "id": "entry-907053",
       "label": "speech",
       "level": "5",
@@ -6447,7 +6471,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT Clause 32 of the Bill be amended by deleting the word \"Authority\" appearing immediately after the words \"or against the\" and substituting therefor the word \"Board\"."
     },
     {
-      "order": 538,
+      "order": 540,
       "id": "entry-907054",
       "label": "scene",
       "level": "5",
@@ -6459,7 +6483,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 539,
+      "order": 541,
       "id": "entry-907055",
       "label": "heading",
       "level": "5",
@@ -6471,7 +6495,7 @@
       "text": "Clause 33"
     },
     {
-      "order": 540,
+      "order": 542,
       "id": "entry-907056",
       "label": "speech",
       "level": "5",
@@ -6483,7 +6507,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT clause 33 of the Bill be amended by deleting the word \"Authority\" appearing immediately after the words \"reference to the\" and substituting therefor the word \"Board\"."
     },
     {
-      "order": 541,
+      "order": 543,
       "id": "entry-907057",
       "label": "scene",
       "level": "5",
@@ -6495,7 +6519,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 542,
+      "order": 544,
       "id": "entry-907058",
       "label": "heading",
       "level": "5",
@@ -6507,7 +6531,7 @@
       "text": "Clauses 34 and 35 (Question, that Clauses 34 and 35 be part of the Bill proposed) New Clauses 16A, 16B, 16C, 16D and 16 E"
     },
     {
-      "order": 543,
+      "order": 545,
       "id": "entry-907059-split-before-92616936-ade0-470d-9074-10c307744b96",
       "label": "speech",
       "level": "5",
@@ -6519,7 +6543,7 @@
       "text": "Madam Temporary Speaker, I beg to move- The Bill is amended by inserting the following new clauses immediately after Clause 16-- Staff of the Board 16A. The Board may employ such officers, agents and staff as are necessary for the proper and efficient discharge of the functions of the Board under this Act and upon such terms and conditions of service as the Board may determine. Common seal of the Board 16B. The affixing of the common seal of the Board shall be authenticated by the signature of the chairperson and the chief executive officer or a person designated by the board. Signing Authority 16C. All letters and instruments written or made by or on behalf of the Board of Directors, other than those required by law to be under seal, and all decisions of the Board of Directors, shall be signed under the hand of the chief executive officer or in the absence of the chief executive officer, a person authorized by the Board. Conduct of business of the Board 16D. The business and affairs of the Board of Directors shall be conducted in accordance with the Schedule. Role of national And county governments 16E. (1) Each county government shall implement the national and Government policies to the extent that the policies relate to the county and in particular shall be responsible for-"
     },
     {
-      "order": 544,
+      "order": 546,
       "id": "entry-907059-split-selected-f637bff9-52b6-4ba2-9a47-9da5dfe80e9c",
       "label": "scene",
       "level": "5",
@@ -6531,7 +6555,7 @@
       "text": "(a) the development of tea grown within the county;"
     },
     {
-      "order": 545,
+      "order": 547,
       "id": "entry-907059-split-after-72121d34-8fb3-4ea7-8038-eb042932941d-split-before-e81355cf-fc9e-4cf0-b4e0-3dcf181e62a0",
       "label": "speech",
       "level": "5",
@@ -6543,7 +6567,7 @@
       "text": "(b) disease control; (c) markets;"
     },
     {
-      "order": 546,
+      "order": 548,
       "id": "entry-907059-split-after-72121d34-8fb3-4ea7-8038-eb042932941d-split-selected-302806a8-b70d-4613-9366-a1008932e1ae",
       "label": "scene",
       "level": "5",
@@ -6555,7 +6579,7 @@
       "text": "(d) cooperative societies within the county;"
     },
     {
-      "order": 547,
+      "order": 549,
       "id": "entry-907059-split-after-72121d34-8fb3-4ea7-8038-eb042932941d-split-after-bd6ee168-cf0d-4687-8fb8-5ebbc3612c92",
       "label": "speech",
       "level": "5",
@@ -6567,7 +6591,7 @@
       "text": "(e) soil and water conservation. (2) In order to achieve the objects and purposes of this Act, the national and county governments shall provide an enabling environment for the development of the tea sector."
     },
     {
-      "order": 548,
+      "order": 550,
       "id": "entry-907072",
       "label": "scene",
       "level": "5",
@@ -6579,7 +6603,7 @@
       "text": "(Question of the New Clauses 16A, 16B, 16C, 16D and 16E proposed)"
     },
     {
-      "order": 549,
+      "order": 551,
       "id": "entry-907073",
       "label": "scene",
       "level": "5",
@@ -6591,7 +6615,7 @@
       "text": "(New Clauses 16A, 16B, 16C, 16D and 16E read the First Time)"
     },
     {
-      "order": 550,
+      "order": 552,
       "id": "entry-907074",
       "label": "scene",
       "level": "5",
@@ -6603,7 +6627,7 @@
       "text": "(Question, that New Clauses 16A, 16B, 16C, 16D and 16E be now read a Second Time proposed)"
     },
     {
-      "order": 551,
+      "order": 553,
       "id": "entry-907075",
       "label": "scene",
       "level": "5",
@@ -6615,7 +6639,7 @@
       "text": "(Question, that New Clauses 16A, 16B, 16C, 16D and 16E be part of the Bill proposed)"
     },
     {
-      "order": 552,
+      "order": 554,
       "id": "entry-907076",
       "label": "heading",
       "level": "5",
@@ -6627,7 +6651,7 @@
       "text": "New Clause 34A"
     },
     {
-      "order": 553,
+      "order": 555,
       "id": "entry-907077",
       "label": "speech",
       "level": "5",
@@ -6639,7 +6663,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT the Bill be amended by inserting the following new clause immediately after Clause 34- Staff. 34A. Any person who, at the commencement of this Act, is a member of staff of the Agriculture and Food Authority dealing with the tea sector shall, on the appointed day, become a member of staff of the Board on the same or improved terms and conditions of service as may be specified by the Cabinet Secretary."
     },
     {
-      "order": 554,
+      "order": 556,
       "id": "entry-907079",
       "label": "scene",
       "level": "5",
@@ -6651,7 +6675,7 @@
       "text": "(Question of New Clause 34A proposed)"
     },
     {
-      "order": 555,
+      "order": 557,
       "id": "entry-907080",
       "label": "scene",
       "level": "5",
@@ -6663,7 +6687,7 @@
       "text": "(New Clause 34A read the First Time)"
     },
     {
-      "order": 556,
+      "order": 558,
       "id": "entry-907081",
       "label": "scene",
       "level": "5",
@@ -6675,7 +6699,7 @@
       "text": "(Question, that New Clause 34A be read a Second Time, proposed)"
     },
     {
-      "order": 557,
+      "order": 559,
       "id": "entry-907082",
       "label": "scene",
       "level": "5",
@@ -6687,7 +6711,7 @@
       "text": "(Question, that New Clause 34A be Part of the Bill, proposed)"
     },
     {
-      "order": 558,
+      "order": 560,
       "id": "entry-907083",
       "label": "heading",
       "level": "5",
@@ -6699,7 +6723,7 @@
       "text": "The Schedule"
     },
     {
-      "order": 559,
+      "order": 561,
       "id": "entry-907084-split-before-b32f0aaa-4bb2-4c7e-b189-90ed409233ad",
       "label": "speech",
       "level": "5",
@@ -6711,7 +6735,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT the Bill be amended by deleting the Schedule and substituting therefor the following new Schedule SCHEDULE s.16D\n\nCONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD\n\nMeetings of the Board 1. (1) The Board of Directors shall meet at least once in every three months to conduct the business of the Board (2). The Chairperson shall convene the ordinary meetings of the Board of Directors at the premises of the Board. (3) Despite the provisions of sub-paragraph (1), the Chairperson shall, upon a written request by at least five members of the Board, convene a special meeting of the Board of Directors at any time where he considers it expedient for the transaction of the business of the Board. (4) Unless three quarters of the total number of the members of the Board otherwise agree, at least fourteen days written notice of every meeting of the Board of Directors shall be given to every member of the Board by the Secretary. (5) The quorum for the conduct of the business of the Board shall be five members. (6) The Chairperson shall preside at every meeting of the Board at which he is present and in his absence, the members of the Board present shall elect one person from their number to preside over the meeting of the Board of Directors and he shall have all the powers of the Chairperson. (7) Unless a unanimous decision is reached, a decision on any matter before the Board of Directors shall be by a majority of the votes of the members present and voting and in the case of an equality of votes, the Chairperson or person presiding over the meeting shall have a casting vote. (8) The proceedings of the Board of Directors shall not be invalidated by reason of a vacancy within its membership. (9) Subject to provisions of this Schedule, the Board of Directors may determine its own procedure and the procedure for any committee of the Board and for the attendance of other persons at its meetings thereof Disclosure of interest 2. (1) If a member of the Board of Directors is directly or indirectly interested in any contract, proposed contract or other matter before the Board of Directors and is present at a meeting of the Board of Directors at which the contract, proposed contract or other matter is the subject of consideration, he shall, at the meeting and as soon as reasonably practicable after the commencement thereof, disclose his interest in the matter and shall not take part in the deliberations over, or vote on, the matter."
     },
     {
-      "order": 560,
+      "order": 562,
       "id": "entry-907084-split-selected-3dc9ad38-ad8c-4fe6-99a4-64fdbaee2b1f",
       "label": "scene",
       "level": "5",
@@ -6723,7 +6747,7 @@
       "text": "(2) A disclosure of interest made under this paragraph shall be"
     },
     {
-      "order": 561,
+      "order": 563,
       "id": "entry-907084-split-after-100a7dd2-2f24-4546-94a9-d94923ec5a39-split-before-3160444c-868c-4eb0-b917-7a53eb32932b",
       "label": "speech",
       "level": "5",
@@ -6735,7 +6759,7 @@
       "text": "recorded in minutes of the meeting at which it is made."
     },
     {
-      "order": 562,
+      "order": 564,
       "id": "entry-907084-split-after-100a7dd2-2f24-4546-94a9-d94923ec5a39-split-selected-89eb6e0d-e2eb-406f-98d4-0f7a8617eea8",
       "label": "scene",
       "level": "5",
@@ -6747,7 +6771,7 @@
       "text": "(3) Any contract or instrument which if entered into or executed by"
     },
     {
-      "order": 563,
+      "order": 565,
       "id": "entry-907084-split-after-100a7dd2-2f24-4546-94a9-d94923ec5a39-split-after-63cc003c-1e8c-4a16-9da3-c3cf39fe164b",
       "label": "speech",
       "level": "5",
@@ -6759,7 +6783,7 @@
       "text": "a person not being a body corporate, would not be required to be under seal may be entered into or executed on behalf of Board of Directors by any person generally or specially authorized by the Board of Directors for that purpose."
     },
     {
-      "order": 564,
+      "order": 566,
       "id": "entry-907093",
       "label": "scene",
       "level": "5",
@@ -6771,7 +6795,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 565,
+      "order": 567,
       "id": "entry-907094",
       "label": "heading",
       "level": "5",
@@ -6783,7 +6807,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 566,
+      "order": 568,
       "id": "entry-907095",
       "label": "speech",
       "level": "5",
@@ -6795,7 +6819,7 @@
       "text": "Madam Temporary Speaker, I beg to move- THAT Clause 2 of the Bill be amended by - (a) deleting the definition of the word \"Authority\"; (b) deleting the definition of the word \"Board\" and substituting therefore the following new definition- \"Board\" means the Tea Board of Kenya established by section 3; (c) inserting the definitions of the following words in their proper alphabetical order- \"broker\" means a person who negotiates the purchase or sale of tea between tea growers and buyers; \"managing factory\" means a factory appointed to process green leaf into made tea;"
     },
     {
-      "order": 567,
+      "order": 569,
       "id": "entry-907096",
       "label": "scene",
       "level": "5",
@@ -6807,7 +6831,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 568,
+      "order": 570,
       "id": "entry-907097-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -6819,7 +6843,7 @@
       "text": "The Title and Clause 1"
     },
     {
-      "order": 569,
+      "order": 571,
       "id": "entry-907097-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -6831,7 +6855,7 @@
       "text": "(Question that the Title and Clause 1 be part of the Bill proposed)"
     },
     {
-      "order": 570,
+      "order": 572,
       "id": "entry-907098",
       "label": "speech",
       "level": "3",
@@ -6843,7 +6867,7 @@
       "text": "Hon. Senators, we will now report progress on all the Bills that have passed through the Committee of the Whole. We will start with The Statutory Instruments (Amendment) Bill (Senate Bills No.24 of 2018)."
     },
     {
-      "order": 571,
+      "order": 573,
       "id": "entry-907099",
       "label": "heading",
       "level": "3",
@@ -6855,7 +6879,7 @@
       "text": "THE STATUTORY INSTRUMENTS (AMENDMENT) BILL (SENATE BILLS NO.24 OF 2018)"
     },
     {
-      "order": 572,
+      "order": 574,
       "id": "entry-907100",
       "label": "speech",
       "level": "3",
@@ -6867,7 +6891,7 @@
       "text": "Let us have the Mover."
     },
     {
-      "order": 573,
+      "order": 575,
       "id": "entry-907101",
       "label": "speech",
       "level": "3",
@@ -6879,7 +6903,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order No.148, I beg to move, that the Committee do report progress on its consideration of The Impeachment Procedure Bill (Senate Bills No.15 of 2018)."
     },
     {
-      "order": 574,
+      "order": 576,
       "id": "entry-907102",
       "label": "speech",
       "level": "3",
@@ -6891,7 +6915,7 @@
       "text": "We are on The Statutory Instruments (Amendment) Bill (Senate Bills No.24 of 2018)."
     },
     {
-      "order": 575,
+      "order": 577,
       "id": "entry-907103",
       "label": "speech",
       "level": "3",
@@ -6903,7 +6927,7 @@
       "text": "I am sorry Madam Temporary Chairperson. I will redo that. Pursuant to Standing Order No. 148, I beg to move that the Committee do report progress on its consideration of the Statutory Instruments (Amendment) Bill (Senate Bills No. 24 of 2018) and seek leave to sit again tomorrow."
     },
     {
-      "order": 576,
+      "order": 578,
       "id": "entry-907104",
       "label": "speech",
       "level": "3",
@@ -6915,7 +6939,7 @@
       "text": "seconded."
     },
     {
-      "order": 577,
+      "order": 579,
       "id": "entry-907105",
       "label": "scene",
       "level": "3",
@@ -6927,7 +6951,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 578,
+      "order": 580,
       "id": "entry-907106",
       "label": "scene",
       "level": "3",
@@ -6939,7 +6963,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 579,
+      "order": 581,
       "id": "entry-907107",
       "label": "heading",
       "level": "3",
@@ -6951,7 +6975,7 @@
       "text": "THE IMPEACHMENT PROCEDURE BILL (SENATE BILLS NO. 15 OF 2018)"
     },
     {
-      "order": 580,
+      "order": 582,
       "id": "entry-907108",
       "label": "speech",
       "level": "3",
@@ -6963,7 +6987,7 @@
       "text": "Hon. Senators, we are now reporting progress on the Impeachment Procedure Bill (Senate Bills No. 15 of 2018). Could we hear from the Mover?"
     },
     {
-      "order": 581,
+      "order": 583,
       "id": "entry-907109",
       "label": "speech",
       "level": "3",
@@ -6975,7 +6999,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order No. 148, I beg to move that the Committee do report progress on its consideration of the Impeachment Procedure Bill (Senate Bills No. 15 of 2018) and seek leave to sit again tomorrow."
     },
     {
-      "order": 582,
+      "order": 584,
       "id": "entry-907110",
       "label": "speech",
       "level": "3",
@@ -6987,7 +7011,7 @@
       "text": "seconded."
     },
     {
-      "order": 583,
+      "order": 585,
       "id": "entry-907111",
       "label": "scene",
       "level": "3",
@@ -6999,7 +7023,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 584,
+      "order": 586,
       "id": "entry-907112",
       "label": "scene",
       "level": "3",
@@ -7011,7 +7035,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 585,
+      "order": 587,
       "id": "entry-907113",
       "label": "heading",
       "level": "3",
@@ -7023,7 +7047,7 @@
       "text": "THE PRESERVATION OF HUMAN DIGNITY AND ENFORCEMENT OF ECONOMIC AND SOCIAL RIGHTS BILL (SENATE BILLS NO. 27 OF 2018)"
     },
     {
-      "order": 586,
+      "order": 588,
       "id": "entry-907114",
       "label": "speech",
       "level": "3",
@@ -7035,7 +7059,7 @@
       "text": "Hon. Senators, we are now reporting progress on the Preservation of Human Dignity and Enforcement of Economic and Social Rights Bill (Senate Bills No. 27 of 2018).Could we hear from the Mover?"
     },
     {
-      "order": 587,
+      "order": 589,
       "id": "entry-907115",
       "label": "speech",
       "level": "3",
@@ -7047,7 +7071,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order No. 148, I beg to move that the Committee do report progress on its consideration of the Preservation of Human Dignity and Enforcement of Economic and Social Rights Bill (Senate Bills No. 27 of 2018) and seek leave to sit again tomorrow."
     },
     {
-      "order": 588,
+      "order": 590,
       "id": "entry-907116",
       "label": "speech",
       "level": "3",
@@ -7059,7 +7083,7 @@
       "text": "seconded."
     },
     {
-      "order": 589,
+      "order": 591,
       "id": "entry-907117",
       "label": "scene",
       "level": "3",
@@ -7071,7 +7095,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 590,
+      "order": 592,
       "id": "entry-907118",
       "label": "scene",
       "level": "3",
@@ -7083,7 +7107,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 591,
+      "order": 593,
       "id": "entry-907119",
       "label": "heading",
       "level": "3",
@@ -7095,7 +7119,7 @@
       "text": "THE PREVENTION OF TERRORISM (AMENDMENT) BILL (SEN. BILLS NO. 20 OF 2018)"
     },
     {
-      "order": 592,
+      "order": 594,
       "id": "entry-907120",
       "label": "speech",
       "level": "3",
@@ -7107,7 +7131,7 @@
       "text": "Hon. Senators, we are now reporting progress on the Prevention of Terrorism (Amendment) Bill (Sen. Bills No. 20 of 2018). Could we hear from the Mover?"
     },
     {
-      "order": 593,
+      "order": 595,
       "id": "entry-907121",
       "label": "speech",
       "level": "3",
@@ -7119,7 +7143,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order No. 148, I beg to move that the Committee do report progress on its consideration of the Prevention of Terrorism (Amendment) Bill (Senate Bills No. 20 of 2018) and seek leave to sit again tomorrow."
     },
     {
-      "order": 594,
+      "order": 596,
       "id": "entry-907122",
       "label": "speech",
       "level": "3",
@@ -7131,7 +7155,7 @@
       "text": "seconded."
     },
     {
-      "order": 595,
+      "order": 597,
       "id": "entry-907123",
       "label": "scene",
       "level": "3",
@@ -7143,7 +7167,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 596,
+      "order": 598,
       "id": "entry-907124",
       "label": "scene",
       "level": "3",
@@ -7155,7 +7179,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 597,
+      "order": 599,
       "id": "entry-907125",
       "label": "heading",
       "level": "3",
@@ -7167,7 +7191,7 @@
       "text": "THE TEA BILL (SENATE BILLS NO. 36 OF 2018)"
     },
     {
-      "order": 598,
+      "order": 600,
       "id": "entry-907126",
       "label": "speech",
       "level": "3",
@@ -7179,7 +7203,7 @@
       "text": "Hon. Senators, we will now report progress on the Tea Bill (Senate Bills No. 36 of 2018). Could we hear from the Mover?"
     },
     {
-      "order": 599,
+      "order": 601,
       "id": "entry-907127",
       "label": "speech",
       "level": "3",
@@ -7191,7 +7215,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order No. 148, I beg to move that the Committee do report progress on its consideration of the Tea Bill (Senate Bills No. 36 of 2018) and seek leave to sit again tomorrow, subject to re- commital of Clause 4."
     },
     {
-      "order": 600,
+      "order": 602,
       "id": "entry-907128",
       "label": "speech",
       "level": "3",
@@ -7203,7 +7227,7 @@
       "text": "seconded."
     },
     {
-      "order": 601,
+      "order": 603,
       "id": "entry-907129",
       "label": "scene",
       "level": "3",
@@ -7215,7 +7239,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 602,
+      "order": 604,
       "id": "entry-907130",
       "label": "scene",
       "level": "3",
@@ -7227,7 +7251,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 603,
+      "order": 605,
       "id": "entry-907131",
       "label": "scene",
       "level": "3",
@@ -7239,7 +7263,7 @@
       "text": "[The House resumed]"
     },
     {
-      "order": 604,
+      "order": 606,
       "id": "entry-907132",
       "label": "scene",
       "level": "3",
@@ -7251,7 +7275,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar) in the Chair]"
     },
     {
-      "order": 605,
+      "order": 607,
       "id": "entry-907133",
       "label": "speech",
       "level": "3",
@@ -7263,7 +7287,7 @@
       "text": "Senators, the Chairperson of the Committee of the Whole will give us a progress report of the the Statutory Instruments (Amendment) Bill (Senate Bills No. 24 of 2018)."
     },
     {
-      "order": 606,
+      "order": 608,
       "id": "entry-907134",
       "label": "heading",
       "level": "2",
@@ -7275,7 +7299,7 @@
       "text": "PROGRESS REPORTED"
     },
     {
-      "order": 607,
+      "order": 609,
       "id": "entry-907135",
       "label": "heading",
       "level": "3",
@@ -7287,7 +7311,7 @@
       "text": "THE STATUTORY INSTRUMENTS (AMENDMENT) BILL (SENATE BILLS NO. 24 OF 2018)"
     },
     {
-      "order": 608,
+      "order": 610,
       "id": "entry-907136",
       "label": "speech",
       "level": "3",
@@ -7299,7 +7323,7 @@
       "text": "Madam Temporary Speaker, I beg to report progress that the Committee of the Whole has considered the the Statutory Instruments (Amendment) Bill (Senate Bills No. 24 of 2018) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 609,
+      "order": 611,
       "id": "entry-907137",
       "label": "speech",
       "level": "3",
@@ -7311,7 +7335,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee of the Whole on the said report."
     },
     {
-      "order": 610,
+      "order": 612,
       "id": "entry-907138",
       "label": "speech",
       "level": "3",
@@ -7323,7 +7347,7 @@
       "text": "seconded."
     },
     {
-      "order": 611,
+      "order": 613,
       "id": "entry-907139",
       "label": "scene",
       "level": "3",
@@ -7335,7 +7359,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 612,
+      "order": 614,
       "id": "entry-907140",
       "label": "scene",
       "level": "3",
@@ -7347,7 +7371,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 613,
+      "order": 615,
       "id": "entry-907141",
       "label": "heading",
       "level": "3",
@@ -7359,7 +7383,7 @@
       "text": "THE IMPEACHMENT PROCEDURE BILL (SENATE BILLS NO. 15 OF 2018)"
     },
     {
-      "order": 614,
+      "order": 616,
       "id": "entry-907142",
       "label": "speech",
       "level": "3",
@@ -7371,7 +7395,7 @@
       "text": "Madam Temporary Speaker, I beg to report progress that the Committee of the Whole has considered the Impeachment Procedure Bill (Senate Bills No. 15 of 2018)and seeks leave to sit again tomorrow."
     },
     {
-      "order": 615,
+      "order": 617,
       "id": "entry-907143",
       "label": "speech",
       "level": "3",
@@ -7383,7 +7407,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee of the Whole on the said report."
     },
     {
-      "order": 616,
+      "order": 618,
       "id": "entry-907144",
       "label": "speech",
       "level": "3",
@@ -7395,7 +7419,7 @@
       "text": "seconded."
     },
     {
-      "order": 617,
+      "order": 619,
       "id": "entry-907145",
       "label": "scene",
       "level": "3",
@@ -7407,7 +7431,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 618,
+      "order": 620,
       "id": "entry-907146",
       "label": "scene",
       "level": "3",
@@ -7419,7 +7443,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 619,
+      "order": 621,
       "id": "entry-907147",
       "label": "heading",
       "level": "3",
@@ -7431,7 +7455,7 @@
       "text": "THE PRESERVATION OF HUMAN DIGNITY AND ENFORCEMENT OF ECONOMIC AND SOCIAL RIGHTS BILL (SENATE BILLS NO. 27 OF 2018)"
     },
     {
-      "order": 620,
+      "order": 622,
       "id": "entry-907148",
       "label": "speech",
       "level": "3",
@@ -7443,7 +7467,7 @@
       "text": "Madam Temporary Speaker, I beg to report progress that the Committee of the Whole has considered The Preservation of Human Dignity and Enforcement of Economic and Social Rights Bill (Senate Bills No.27 of 2018) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 621,
+      "order": 623,
       "id": "entry-907149",
       "label": "speech",
       "level": "3",
@@ -7455,7 +7479,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee in the said Report."
     },
     {
-      "order": 622,
+      "order": 624,
       "id": "entry-907150",
       "label": "speech",
       "level": "3",
@@ -7467,7 +7491,7 @@
       "text": "seconded."
     },
     {
-      "order": 623,
+      "order": 625,
       "id": "entry-907151",
       "label": "scene",
       "level": "3",
@@ -7479,7 +7503,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 624,
+      "order": 626,
       "id": "entry-907152",
       "label": "scene",
       "level": "3",
@@ -7491,7 +7515,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 625,
+      "order": 627,
       "id": "entry-907153",
       "label": "speech",
       "level": "3",
@@ -7503,7 +7527,7 @@
       "text": "Hon. Senators, the next Bill is The Prevention of Terrorism (Amendment) Bill (Sen. Bills No. 20 of 2018). Let us have the Chairperson."
     },
     {
-      "order": 626,
+      "order": 628,
       "id": "entry-907154",
       "label": "heading",
       "level": "3",
@@ -7515,7 +7539,7 @@
       "text": "THE PREVENTION OF TERRORISM (AMENDMENT) BILL (SEN. BILLS NO. 20 OF 2018)"
     },
     {
-      "order": 627,
+      "order": 629,
       "id": "entry-907155",
       "label": "speech",
       "level": "3",
@@ -7527,7 +7551,7 @@
       "text": "Madam Temporary Speaker, I beg to report progress that the Committee of the Whole has considered The Prevention of Terrorism (Amendment) Bill (Sen. Bills No.20 of 2018), and seeks leave to sit again tomorrow."
     },
     {
-      "order": 628,
+      "order": 630,
       "id": "entry-907156",
       "label": "speech",
       "level": "3",
@@ -7539,7 +7563,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee in the said report."
     },
     {
-      "order": 629,
+      "order": 631,
       "id": "entry-907157",
       "label": "speech",
       "level": "3",
@@ -7551,7 +7575,7 @@
       "text": "seconded."
     },
     {
-      "order": 630,
+      "order": 632,
       "id": "entry-907158",
       "label": "scene",
       "level": "3",
@@ -7563,7 +7587,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 631,
+      "order": 633,
       "id": "entry-907159",
       "label": "scene",
       "level": "3",
@@ -7575,7 +7599,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 632,
+      "order": 634,
       "id": "entry-907160",
       "label": "heading",
       "level": "3",
@@ -7587,7 +7611,7 @@
       "text": "THE TEA BILL (SENATE BILLS NO. 36 OF 2018)"
     },
     {
-      "order": 633,
+      "order": 635,
       "id": "entry-907161",
       "label": "speech",
       "level": "3",
@@ -7599,7 +7623,7 @@
       "text": "Madam Temporary Speaker, I beg to report progress that the Committee of the whole has considered The Tea Bill (Senate Bills No. 36 of 2018), and seeks leave to sit again tomorrow, subject to re-committal of Clause 4."
     },
     {
-      "order": 634,
+      "order": 636,
       "id": "entry-907162",
       "label": "speech",
       "level": "3",
@@ -7611,7 +7635,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee in the said Report."
     },
     {
-      "order": 635,
+      "order": 637,
       "id": "entry-907163",
       "label": "speech",
       "level": "3",
@@ -7623,7 +7647,7 @@
       "text": "seconded."
     },
     {
-      "order": 636,
+      "order": 638,
       "id": "entry-907164",
       "label": "scene",
       "level": "3",
@@ -7635,7 +7659,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 637,
+      "order": 639,
       "id": "entry-907165",
       "label": "scene",
       "level": "3",
@@ -7647,7 +7671,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 638,
+      "order": 640,
       "id": "entry-907166",
       "label": "speech",
       "level": "3",
@@ -7659,7 +7683,7 @@
       "text": "Let us move on to the next Order."
     },
     {
-      "order": 639,
+      "order": 641,
       "id": "entry-907167",
       "label": "heading",
       "level": "1",
@@ -7671,7 +7695,7 @@
       "text": "MOTION"
     },
     {
-      "order": 640,
+      "order": 642,
       "id": "entry-907168",
       "label": "heading",
       "level": "3",
@@ -7683,7 +7707,7 @@
       "text": "ESTABLISHMENT OF NATION-WIDE CENTRES AND SATELLITE CLINICS FOR SICKLE CELL DISEASE"
     },
     {
-      "order": 641,
+      "order": 643,
       "id": "entry-907169",
       "label": "speech",
       "level": "3",
@@ -7695,7 +7719,7 @@
       "text": "THAT, AWARE THAT Article 43(1) (a) of the Constitution provides that every person has the right to the highest attainable standard"
     },
     {
-      "order": 642,
+      "order": 644,
       "id": "entry-907170",
       "label": "speech",
       "level": "3",
@@ -7707,7 +7731,7 @@
       "text": "of health, which includes the right to health care services, including reproductive health care; NOTING THAT, Parliament enacted the Health Act (2017) whose objects encompass the need to establish a national health system at the national and county levels, as well as to facilitate, in a progressive and equitable manner, the highest attainable standards of health services; FURTHER NOTING THAT the Health Act (2017) further has the object to protect, respect, promote and fulfill the health rights of all persons in Kenya to the progressive realization of their right to the highest attainable standard of health, including reproductive health care and the right to emergency medical treatment; ACKNOWLEDGING THAT Sickle Cell Disease, a severe hereditary form of anaemia in which a mutated form of haemoglobin distorts the red blood cells into a crescent shape at low oxygen levels, and is prevalent amongst those of African descent, has been acknowledged by World Health Organization (WHO) as a major public health priority which has had devastating effects on populations in many parts of Kenya; FURTHER ACKNOWLEDGING the need for comprehensive information and care programs for Sickle Cell Disease is occasioned by the poor public awareness, unavailability of routine health data and nationally recognised treatment guidelines; CONCERNED by the lack of national screening programmes for Sickle Cell Disease despite the serious health problems it causes, and its contribution to childhood deaths in Kenya; NOW, THEREFORE, the Senate urges the Kenya Government through County Governments to establish nation-wide screening at existing medical centres and satellite clinics, and the provision of counselling on the management of sickle cell disease, a lifelong medical condition that has no cure, at the county, sub-county and ward levels."
     },
     {
-      "order": 643,
+      "order": 645,
       "id": "entry-907171",
       "label": "scene",
       "level": "3",
@@ -7719,7 +7743,7 @@
       "text": "(Sen. Shiyonga on 30.5.2019)"
     },
     {
-      "order": 644,
+      "order": 646,
       "id": "entry-907172",
       "label": "scene",
       "level": "3",
@@ -7731,7 +7755,7 @@
       "text": "(Resumption of Debate interrupted on 30.5.2019)"
     },
     {
-      "order": 645,
+      "order": 647,
       "id": "entry-907173",
       "label": "speech",
       "level": "3",
@@ -7743,7 +7767,7 @@
       "text": "Sen. Seneta was on the Floor. She is not here and had only a balance of two minutes. We will move to the next contributor who is the Senator of Kisii County, Sen. (Prof.) Ongeri."
     },
     {
-      "order": 646,
+      "order": 648,
       "id": "entry-907174",
       "label": "speech",
       "level": "3",
@@ -7755,7 +7779,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me the opportunity to contribute to what I call a very important disease in the lives of our young people and adults. The Motion is appropriately before this House because it speaks to the condition called Sickle Cell Anemia. In some other jurisdictions, they call it Sickle Cell Disease. It is an inheritance according to the genetic mapping of parents on both sides. When they have two doses of haemoglobin or the protein S which is predisposed to sickle cell disease and the other parent also has S, you have what we call SS, which is a double dose of the disease and therefore, called Haemoglobin (HbSS) or HbSC. This HbSS or HbSC is the one that causes the disease in children when they are born and in the young adults. It causes crises in the adults throughout their lives if they can survive all that period. Madam Temporary Speaker, unfortunately, this is a peculiar disease to Africans. In Kenya, it is predominantly in the Western region particularly our Luo and Luhya communities and also in the Coastal belt. I want to give the background of the diseases before I come to the prescription of what must happen. What happens particularly to children at the young age? When we look at the patho-physiology of the disease, you and I have the red blood cells in our bodies. These carry the red pigment called haemoglobin in the blood. It is the haemoglobin that has a carrying capacity for oxygen to all tissues of the body. When we talk of oxygen saturation percentages, we are talking about the ability and capacity of the haemoglobin to carry oxygen for oxygenation to all peripheral cells of the body. It, therefore, plays an important role in oxygenation to every tissue and area of our body throughout the circulation. When one has normal haemoglobin or protein, it is able to carry the oxygen throughout the body. When this becomes defective, then one has a problem. In other words, the cells become oval or sickle-shaped like a sickle of a knife. That being the case, its ability to carry oxygen throughout the whole system is impaired. Secondly, navigating through the narrow arteries and veins becomes a major problem. The affected person, therefore, undergoes various crises particularly when he has a fever. A simple fever or infection will precipitate a crisis. A simple change of hydration or fluids in the body will make the blood thicker and, therefore, precipitate a crisis. These children have a difficult time. When I was a doctor, I used to see most of them. The ones who had the recessive type of the disease particularly would have one crisis after the other. What are the crises? It is the ability for these cells to clot in the narrowest level of the blood vessels. Therefore, they may be deposited in the brain or lungs causing a brain cardiovascular accident. They may be deposited in the lungs causing accidents such as difficulties in breathing. They may be deposited in the heart itself causing hear failure or heart attack. They may be deposited in the spleen because it is the one that collects all the garbage in the process of moping it up. So, one of the symptoms that is shown is that it gets enlarged which is called splenomegaly. With time, it enlarges. You can do a splenectomy or remove the spleen, but it does not cure the problem. This means that unless we put in place elements that will make these children survive, they will succumb to death at a very early age. One of the things that is done even at that early age when they have this abnormal haemoglobin - the Sickle Cell Disease - the ability to carry oxygen is heavily impaired and compromised. In various clinics, doctors know that there is simple basic medication. One of the simplest drugs that will be used to ensure they live as near normal life as possible is hydroxyurea. In other words, it is urea, but the hydroxyl has extra hydroxyl carbons. This drug is capable of creating foetal haemoglobin. In other words, when a child is born, the type of haemoglobin before it changes to adult haemoglobin is the one of a young child. The foetal haemoglobin has the capacity to carry oxygen to all parts of the body. This drug is able to create new foetal haemoglobin that helps particularly the young children below the age of nine months and above. It helps them to go through that early age of life. This is simple medication that can be given at the hospital, health centre and dispensary. Many of these children die unnoticed. Madam Temporary Speaker, the Mover is trying to seek that we now provide centres, particularly when we look at the prevalence rates of this disease. It is prevalent in Western Kenya and the Coastal Region. If you were in the United States of America (USA), it is present in the African Americans. If you are in South America, it is in the Hispanics; in Europe, it is Southern of Europe and in India, it is in some parts of India. Therefore, at that early age when people find it difficult to diagnose, a young child can easily die because of lack of knowledge and expertise on what to do when you are confronted with this kind of disease. The burden being placed on these centres is early screening and detecting that you have abnormal hemoglobin in the body which cannot competently carry oxygen to all tissues and parts of the body. The method which is used is simple. You just take blood and run it through an electrophoresis strip which gives you bands showing whether the hemoglobin is normal or abnormal. In fact, when you look in the microscope, you will detect the red blood cell which is oval. If you see many crescents, that is enough for you to make a diagnosis of Sickle Cell Disease. This screening is important. Once you have done early screening and detected it, you can save the life of that child who will then live a normal life for as long as they attend those clinics for life. That is the essence of this Motion; that we can save lives. Therefore, the infant mortality that we are talking about and is attributed to Sickle Cell Disease as a result of sickle cell crisis, can be minimized to the lowest level possible and they can live normal lives. Madam Temporary Speaker, second is to make the parents aware that even simple hydration when a child has fever or something else can prevent a crisis from occurring. This is because when a crisis occurs, you get all these little awkward haemoglobin which is sickle shaped going round the circulation, getting deposited and causing occlusion or preventing blood from flowing gently and nicely though the arteries and veins. It then causes microthrombi which is small thromboses which are being circulated and thrown out either to the brain, lungs, heart, spleen or any organ, including the kidney. Therefore, it is important that in order to preserve these organs, they do not become victims of these microthrombi or small chips of those abnormal cells being in circulation causing problems for them. Simple hydrating is very important to prevent those deposits causing these crises. Any infection must first of all be determined. Needless to say, if I was teaching medical students, I would say there are five types of these haemoglobin difficulties. There is the haemoglobin SS, SE, D, SB Thalassemia and SD Thalassemia. Those are technical terms I need not bother you with those terminologies. Suffice to say, the most common one is the SS. That is the one that we are concerned with and which is prevalent in Kenya in Kisumu, South Nyanza, Kakamega and those areas. Parents used to bring me children from these areas. It is important that when such a situation occurs and you are able to know the genetic make-up of a parent, you can actually give counseling before they marry. That way, you will not get an SS marrying another SS because you are technically saying that the outcome of it would be a recessive type. In other words, they die faster than the previous ones. Marriage counselling has a benefit for doing screening first and it is important. The Motion says now that we know that what contributes to infant mortality and the ones that prevent them from going to school and other places is when they have these multiple crises and infection like malaria will precipitate thrombosis in various places. Just a simple fever or ear infection will cause those problems. These children need to be screened to be able to know when they are likely to run into a crisis and then use simple measure to be able to obviate any crisis that may occur. I support this Motion. Yes, it is possible to have these basic services offered at the dispensary level. That way, children will not have to travel all the way from Kisii, Mandera and other places coming to Nairobi City County to specialized centres. This is not a kidney dialysis centre. If we are able to have dialysis centres in our regional hospitals, why can we not give a simple remedy that saves lives in small health centres and dispensaries? We do not need an expert to know what type of hemoglobin a person has in the blood. We just need a simple clinician and technician who can do electrophoresis; know the type of hemoglobin and prescribe the treatment for that child. The rest of it remains monitoring. Madam Temporary Speaker, therefore, in supporting this Motion, I wish I had more time, I would have said more. However, it suffices to say that the essence of this Motion is to let the county governments know that health is a devolved function and hemoglobin SS exists and it has various varieties. The one which causes more disease is hemoglobin SS which is abnormal and has a poor capacity to carry oxygen. Therefore, these are the children who are in danger of succumbing to simple infections or any malarial attacks. Therefore, they should be screened to know their status, deal with it and support them at the right time. Therefore, I call upon the county governments who are charged with devolution that access to these drugs is easy. One of the treatments of simple infections is Penicillin V which is an old age drug which treats all common elements so long as they are not resistant to penicillin. If they are, then the doctor should be in a position to find out. Therefore, there must be availability of these drugs at the dispensary and hospital level. Our clinicians, clinical officers, nurses and doctors must have the capacity to carry out this primary element in theater and ensure that these children are vaccinated against all other diseases because they succumb easily to other diseases like measles. This is not supposed to be the case because we eliminated it sometime back when I did the mass vaccination for measles until we extended the age to about 13 or 14. It is only the other day I heard a resurgence of measles. That needs not to crowd our hospitals which have a burden of diseases. Therefore, it is important that we know these fundamentals and basics to help these children survive beyond the age they are expected to live. By the way, this is a lifelong disease. It can be maintained like diabetes, a known metabolic disease, by preventing these episodes. Long term cure could be a bone marrow transplant what they call stem cell transplant. However, that is a sophisticated thing. We can do these small remedies and save lives in a simple way. Madam Temporary Speaker, with those few words, I support."
     },
     {
-      "order": 647,
+      "order": 649,
       "id": "entry-907183",
       "label": "speech",
       "level": "3",
@@ -7767,7 +7791,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to contribute to this important and unique Motion. I thank Sen. Shiyonga for coming up with it. People talk about Tuberculosis (TB), HIV/AIDs but they forget about Sickle Cell Disease. Madam Temporary Speaker, I had a patient who was admitted in Kenyatta National Hospital (KNH) but she succumbed. This disease is unique because it drains the blood completely. People who do not understand this disease might think that it is something like witchcraft. This is a major contributor of poverty. Madam Temporary Speaker, we did all the fundraisers to help this girl. The family ended up selling their land. However, unfortunately, God knows why He took her. Depending on the history of parents, children should be tested at birth. It is good to prevent this disease and visit health centres which should be in the ward level where everyone can access them. This disease is very expensive to manage. Its services are found in private hospitals and not in the public ones. People spend a lot of money. Some of them cannot afford transport to come to the KNH. Imagine somebody coming from Kisii just like Sen. (Prof.) Ongeri has said. It is expensive and it affects everyone. Madam Temporary Speaker, this disease also leads to depression. For example, families undergo a lot of depression. It also contributes to broken families. Some men run away from the family just because the wife has a child who suffers from this disease. They suffer in silence. Unlike women, men cannot share their problems. Ladies can talk to someone and the problem will be half solved. Madam Temporary Speaker, lack of personnel and facilities to handle Sickle Cell Disease is a problem. As we speak right now, our hospitals do not have facilities. For example, if you go to Pumwani Maternity Hospital, we do not have enough nurses. The same applies to the KNH. Therefore, something has to be done. Madam Temporary Speaker, there is also lack of awareness. While creating these health centres, counties will do some civic education to the public so that they can understand this disease which is hereditary. Nobody wishes to be born with it. Madam Temporary Speaker, I support the Mover of the Motion by saying that the Government of Kenya, through the county governments, need to establish nationwide centres and satellite clinics for Sickle Cell Disease and other blood disorders at county, sub-county and ward levels. They could even go further to the polling stations. This is a unique disease and something has to be done about it. Madam Temporary Speaker, I support."
     },
     {
-      "order": 648,
+      "order": 650,
       "id": "entry-907184",
       "label": "speech",
       "level": "3",
@@ -7779,7 +7803,7 @@
       "text": "Thank you, Madam Temporary Speaker, for allowing me to make a contribution. I applaud my sister Sen. Shiyonga for coming out strongly on issues of health and for this Motion on Sickle Cell Disease. Madam Temporary Speaker, we know well that child mortality in this country is not at a good rate. We lose many children because of wrong diagnosis or lack of early detection. Madam Temporary Speaker, I heard our senior colleague, who is also an expert in terms of medical issues say that this is a disease that, if detected early can be prevented and controlled. Therefore, if this is the situation, why would we lose our children or population because of something that we can prevent? Madam Temporary Speaker, I support that this is something that needs urgent attention because it will improve our mortality and our health. My only worry, which I will ask my sister Sen. Shiyonga to consider, is if we establish county, ward, and constituency units, it might not be visible as such because of the kind of resources that we have. We would have had all the resources to do all these things. However, knowing this country and what we do, we lack resources to do a lot of things. Therefore, we can probably reconsider and indicate that we have units in the already existing facilities, for example, the referral, district and Level 5 hospitals. Let us have a starting point at the national level then we come down to the referral hospitals that exist in our counties. That way, we will have a good start than saying that we establish centres in all counties and in the ward level knowing the limited resources that we have. My sister should consider an amendment so that we have units at referral hospitals to treat people with the peculiar disease. Thereafter, we can roll out the programme to all levels of health facilities in this country. I support this Motion because this is a good idea. This is a unique disease that needs special attention. Many times, because of wrong diagnosis, it is not possible for people to know that they have the disease because we do not have the facilities. This is a good Motion that needs to be taken to another level. I support."
     },
     {
-      "order": 649,
+      "order": 651,
       "id": "entry-907188",
       "label": "speech",
       "level": "3",
@@ -7791,7 +7815,7 @@
       "text": "Hon. Senators, there is no other Member wishing to contribute. Therefore, I call upon the Mover to reply."
     },
     {
-      "order": 650,
+      "order": 652,
       "id": "entry-907189",
       "label": "speech",
       "level": "3",
@@ -7803,7 +7827,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to reply to the Motion. I would like to thank you and Members who have contributed to this Motion. Members who contributed to the Motion include Sen. (Dr.) Zani who seconded it, Sen. (Dr.) Milgo, Sen. Seneta, Sen. (Prof.) Ongeri who has talked in detail, Sen. Pareno and Sen. Kwamboka. Despite the alarming gaps and challenges that we have identified, there are things that can be done to solve the problems caused by Sickle Cell Disease and other blood disorders. They include establishment of nationwide centres and satellite clinics for Sickle Cell Disease and other blood disorders in the county, sub-county and ward levels as stated in the Motion. This will minimise effects of Sickle Cell Disease and other blood disorders on affected persons so that they lead normal and healthy lives. We encourage screening of Sickle Cell Disease and other blood disorders for newborns by all mothers identified as carriers of sickle cell traits or suffering from the disease. We should have genetic testing and counseling especially for parents who carry the SS Syndrome. We should have Sickle Cell Disease and other blood disorders registers in all our surveillance programmes; improve access to quality care and treatment as well as management; raise awareness about the disease and other disorders in our local, county and national level; do more on education of the parents of the victims and minimise the stigma that comes with the disease. We should have early and rapid testing kits at all levels of health facilities. This must be complemented by long-term follow up on the management and treatment of Sickle Cell Disease and other blood disorders by paying attention to age transition from childhood to adulthood. In addition to this, we should also have resource mobilisation of health resources and staff among other needs to establish countrywide excellence centres. Despite the picture that has been painted in support of this Motion, I wish to acknowledge the positive efforts that have gone towards responding to Sickle Cell Disease and other blood disorders in Kenya. For example, in Kisumu County, under the leadership of Governor (Prof.) Anyang'-Nyong'o, remarkable progress has been realised by deploying simple sickle cell rapid and early testing kits to various health centres in the county. This initiative ought to be replicated countrywide because Sickle Cell Disease is most prevalent at the Coast and the Lake Region. With these few remarks, I wish to applaud the Senators who supported this Motion; Establishment of Nation-Wide Centres and Satellite Clinics for Sickle Cell Disease at County, Sub-County and Ward Levels. The Motion had the view of providing quality screening and diagnosis services and providing comprehensive care management and rehabilitation services for affected patients. Thank you and God bless Kenya."
     },
     {
-      "order": 651,
+      "order": 653,
       "id": "entry-907196",
       "label": "scene",
       "level": "3",
@@ -7815,7 +7839,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 652,
+      "order": 654,
       "id": "entry-907197",
       "label": "heading",
       "level": "1",
@@ -7827,7 +7851,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 653,
+      "order": 655,
       "id": "entry-907198",
       "label": "speech",
       "level": "1",

@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-10-03-14-30-00",
-  "exported_at": "2026-10-07T22:23:31.223Z",
+  "exported_at": "2026-10-08T21:35:02.342Z",
   "entries": [
     {
       "order": 1,
@@ -2824,7 +2824,7 @@
     },
     {
       "order": 236,
-      "id": "entry-838050-split-after-578f5195-0e2c-4f97-a322-7e7edbede044",
+      "id": "entry-838050-split-after-578f5195-0e2c-4f97-a322-7e7edbede044-split-before-e2c10137-6e5a-489c-be58-5a631bbd6bf0",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -2832,10 +2832,22 @@
       "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
-      "text": "(SENATE BILLS NO.3 OF 2018) ( Order for Committee read)"
+      "text": "(SENATE BILLS NO.3 OF 2018)"
     },
     {
       "order": 237,
+      "id": "entry-838050-split-after-578f5195-0e2c-4f97-a322-7e7edbede044-split-selected-83b52059-2ffd-40eb-9fed-79c223eebdee",
+      "label": "scene",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Order for Committee read)"
+    },
+    {
+      "order": 238,
       "id": "entry-838051",
       "label": "scene",
       "level": "2",
@@ -2847,7 +2859,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar) left the Chair]"
     },
     {
-      "order": 238,
+      "order": 239,
       "id": "entry-838052",
       "label": "heading",
       "level": "2",
@@ -2859,7 +2871,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 239,
+      "order": 240,
       "id": "entry-838053",
       "label": "scene",
       "level": "2",
@@ -2871,7 +2883,7 @@
       "text": "[The Temporary Chairperson (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 240,
+      "order": 241,
       "id": "entry-838054",
       "label": "speech",
       "level": "2",
@@ -2883,7 +2895,7 @@
       "text": "Honorable Senators, we are on Order No. 11, The Office of the County Attorney Bill (Senate Bills No. 3 of 2018). We are resuming on a Division and the first division is on clauses for deletion."
     },
     {
-      "order": 241,
+      "order": 242,
       "id": "entry-838055",
       "label": "heading",
       "level": "5",
@@ -2895,7 +2907,7 @@
       "text": "Clauses 10 and 25"
     },
     {
-      "order": 242,
+      "order": 243,
       "id": "entry-838056",
       "label": "speech",
       "level": "5",
@@ -2907,7 +2919,7 @@
       "text": "I order that the bars be drawn."
     },
     {
-      "order": 243,
+      "order": 244,
       "id": "entry-838057",
       "label": "scene",
       "level": "5",
@@ -2919,7 +2931,7 @@
       "text": "(The Bars were drawn)"
     },
     {
-      "order": 244,
+      "order": 245,
       "id": "entry-838058",
       "label": "speech",
       "level": "5",
@@ -2931,7 +2943,7 @@
       "text": "Hon. Senators, ensure that you are logged in. I now put the Question; that Clause 10 and Clause 25 be deleted. Hon. Senators, ensure that you are logged in. You may now proceed to vote."
     },
     {
-      "order": 245,
+      "order": 246,
       "id": "entry-838059",
       "label": "scene",
       "level": "5",
@@ -2943,8 +2955,8 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 246,
-      "id": "entry-838060-split-before-0000501d-9f1f-4df3-b1be-20c5fc296ffc",
+      "order": 247,
+      "id": "entry-838060-split-before-0000501d-9f1f-4df3-b1be-20c5fc296ffc-split-before-c9be1116-6d08-4aa3-8b33-c930b17c3c16",
       "label": "speech",
       "level": "5",
       "cutout": false,
@@ -2952,10 +2964,22 @@
       "speaker": "Rose Nyamunga Ogendo",
       "speaker_title": "(The Temporary Chairperson)",
       "reviewed": true,
-      "text": "That is the end of voting. The hon. Senators who need assistance to vote may come forward. ( Several Senators walked to the Clerks-at-the-Table and registered their votes)"
+      "text": "That is the end of voting. The hon. Senators who need assistance to vote may come forward."
     },
     {
-      "order": 247,
+      "order": 248,
+      "id": "entry-838060-split-before-0000501d-9f1f-4df3-b1be-20c5fc296ffc-split-selected-c70e14dc-a1c7-40b5-9ffb-a34f7c55921b",
+      "label": "scene",
+      "level": "5",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Several Senators walked to the Clerks-at-the-Table and registered their votes)"
+    },
+    {
+      "order": 249,
       "id": "entry-838060-split-selected-f8bcfb0b-c346-48ec-b45c-b4535de198a5",
       "label": "deleted",
       "level": "5",
@@ -2967,7 +2991,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 248,
+      "order": 250,
       "id": "entry-838064",
       "label": "heading",
       "level": "3",
@@ -2979,7 +3003,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 249,
+      "order": 251,
       "id": "entry-838066",
       "label": "scene",
       "level": "3",
@@ -2991,7 +3015,7 @@
       "text": "(Question, That Clause 10 and Clause 25 be deleted put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 250,
+      "order": 252,
       "id": "entry-838067",
       "label": "other",
       "level": "3",
@@ -3003,7 +3027,7 @@
       "text": "AYES:"
     },
     {
-      "order": 251,
+      "order": 253,
       "id": "entry-838068",
       "label": "other",
       "level": "3",
@@ -3015,7 +3039,7 @@
       "text": "Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. Iman, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Eng.) Mahamud, Mandera County ; Sen. (Eng.) Maina, Nyeri County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Nyamunga, Kisumu County; Sen. Omanga, Nairobi County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; Sen. Wario, Tana River County; Sen. Wetangula, Bungoma County; and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 252,
+      "order": 254,
       "id": "entry-838069",
       "label": "other",
       "level": "3",
@@ -3027,7 +3051,7 @@
       "text": "NOES:"
     },
     {
-      "order": 253,
+      "order": 255,
       "id": "entry-838070",
       "label": "speech",
       "level": "3",
@@ -3039,7 +3063,7 @@
       "text": "Nil."
     },
     {
-      "order": 254,
+      "order": 256,
       "id": "entry-838071",
       "label": "speech",
       "level": "3",
@@ -3051,7 +3075,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:\n\nAYES:\n\n25\n\nNOES:\n\n0\n\nABSTENTIONS:"
     },
     {
-      "order": 255,
+      "order": 257,
       "id": "entry-838077",
       "label": "speech",
       "level": "3",
@@ -3063,7 +3087,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 256,
+      "order": 258,
       "id": "entry-838078",
       "label": "scene",
       "level": "3",
@@ -3075,7 +3099,7 @@
       "text": "(Question carried by 25 votes to 0)"
     },
     {
-      "order": 257,
+      "order": 259,
       "id": "entry-838079",
       "label": "speech",
       "level": "3",
@@ -3087,7 +3111,7 @@
       "text": "Hon. Senators, we will now proceed to the second Division on Clauses with amendments. I now put the Question; that Clauses 5, 6, 7, 13, 16, 18, 19, 20, 22 and 32 be amended as proposed. Hon. Senators, you can now vote."
     },
     {
-      "order": 258,
+      "order": 260,
       "id": "entry-838080",
       "label": "scene",
       "level": "3",
@@ -3099,7 +3123,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 259,
+      "order": 261,
       "id": "entry-838081",
       "label": "deleted",
       "level": "3",
@@ -3111,7 +3135,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes"
     },
     {
-      "order": 260,
+      "order": 262,
       "id": "entry-838082",
       "label": "deleted",
       "level": "3",
@@ -3123,7 +3147,7 @@
       "text": "only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 261,
+      "order": 263,
       "id": "entry-838083",
       "label": "heading",
       "level": "3",
@@ -3135,7 +3159,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 262,
+      "order": 264,
       "id": "entry-838085",
       "label": "scene",
       "level": "3",
@@ -3147,7 +3171,7 @@
       "text": "(Question, that Clauses 5, 6,7,13, 16, 18, 19, 20, 22, 30 and 2 be amended as proposed put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 263,
+      "order": 265,
       "id": "entry-838086",
       "label": "other",
       "level": "3",
@@ -3159,7 +3183,7 @@
       "text": "AYES:"
     },
     {
-      "order": 264,
+      "order": 266,
       "id": "entry-838087",
       "label": "other",
       "level": "3",
@@ -3171,7 +3195,7 @@
       "text": "Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. Iman, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Nyamunga, Kisumu County; Sen. Omanga, Nairobi County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 265,
+      "order": 267,
       "id": "entry-838088",
       "label": "other",
       "level": "3",
@@ -3183,7 +3207,7 @@
       "text": "NOES:"
     },
     {
-      "order": 266,
+      "order": 268,
       "id": "entry-838089",
       "label": "speech",
       "level": "3",
@@ -3195,7 +3219,7 @@
       "text": "Nil."
     },
     {
-      "order": 267,
+      "order": 269,
       "id": "entry-838090",
       "label": "speech",
       "level": "3",
@@ -3207,7 +3231,7 @@
       "text": "Hon. Senators the results of the Division are follows-\n\nAYES:\n\n25\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n0 The \"Ayes\" have it."
     },
     {
-      "order": 268,
+      "order": 270,
       "id": "entry-838097-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3219,7 +3243,7 @@
       "text": "(Question carried by 25 votes to nil)"
     },
     {
-      "order": 269,
+      "order": 271,
       "id": "entry-838097-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3231,7 +3255,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 270,
+      "order": 272,
       "id": "entry-838098",
       "label": "speech",
       "level": "3",
@@ -3243,7 +3267,7 @@
       "text": "Hon. Senators, we are now proceeding to the third Division the New Clause 5A. I will now proceed to put the question that the New Clause 5A be now read a second time. Please log in and proceed to vote."
     },
     {
-      "order": 271,
+      "order": 273,
       "id": "entry-838099",
       "label": "speech",
       "level": "3",
@@ -3255,7 +3279,7 @@
       "text": "On a point of order, Madam Temporary Chairperson. You announced that we had 27 votes. However, looking at the head count of Senators present, it is about 27, but we also have Senators here who are Members of delegations whose head of delegations are present. Therefore, we cannot possibly register 27 votes. This is a House of record and the accuracy of the record is what keeps the good name of this House. I ask for clarification. Sen. (Prof.) Kamar is the head of the Uasin Gishu County Delegation from where Sen. Chebeni is. Therefore if one is voting the other cannot vote-- -"
     },
     {
-      "order": 272,
+      "order": 274,
       "id": "entry-838100-split-before-378a7b79-9176-4eaf-a9eb-1e3562dc6961",
       "label": "speech",
       "level": "3",
@@ -3267,7 +3291,7 @@
       "text": "Sen. Nyamunga: Senator we are just checking the records---"
     },
     {
-      "order": 273,
+      "order": 275,
       "id": "entry-838100-split-selected-1fcde644-97a7-4924-b618-b21abb34aa1f",
       "label": "deleted",
       "level": "3",
@@ -3279,7 +3303,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 274,
+      "order": 276,
       "id": "entry-838102",
       "label": "speech",
       "level": "3",
@@ -3291,7 +3315,7 @@
       "text": "Sen. Omanga and Sen. (Dr.) Musuruve are---"
     },
     {
-      "order": 275,
+      "order": 277,
       "id": "entry-838103",
       "label": "speech",
       "level": "3",
@@ -3303,7 +3327,7 @@
       "text": "Sen. Nyamunga: Sen. Olekina is around but behind."
     },
     {
-      "order": 276,
+      "order": 278,
       "id": "entry-838104",
       "label": "scene",
       "level": "3",
@@ -3315,7 +3339,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 277,
+      "order": 279,
       "id": "entry-838105",
       "label": "speech",
       "level": "3",
@@ -3327,7 +3351,7 @@
       "text": "I just want to have my mind settled that we are doing the right thing. I know we are used to rigging elections but we want to have things right."
     },
     {
-      "order": 278,
+      "order": 280,
       "id": "entry-838106",
       "label": "scene",
       "level": "3",
@@ -3339,7 +3363,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 279,
+      "order": 281,
       "id": "entry-838107",
       "label": "speech",
       "level": "3",
@@ -3351,7 +3375,7 @@
       "text": "Hon. Senators, we are verifying the records but meanwhile we can proceed. There is only a problem with the Nairobi Delegation that we are correcting."
     },
     {
-      "order": 280,
+      "order": 282,
       "id": "entry-838108",
       "label": "scene",
       "level": "3",
@@ -3363,7 +3387,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 281,
+      "order": 283,
       "id": "entry-838109",
       "label": "speech",
       "level": "3",
@@ -3375,7 +3399,7 @@
       "text": "The assisted voters can kindly come up and vote."
     },
     {
-      "order": 282,
+      "order": 284,
       "id": "entry-838110",
       "label": "scene",
       "level": "3",
@@ -3387,7 +3411,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 283,
+      "order": 285,
       "id": "entry-838111",
       "label": "heading",
       "level": "3",
@@ -3399,7 +3423,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 284,
+      "order": 286,
       "id": "entry-838113",
       "label": "scene",
       "level": "3",
@@ -3411,7 +3435,7 @@
       "text": "(Question, that New Clause 5A be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 285,
+      "order": 287,
       "id": "entry-838114",
       "label": "other",
       "level": "3",
@@ -3423,7 +3447,7 @@
       "text": "AYES:"
     },
     {
-      "order": 286,
+      "order": 288,
       "id": "entry-838115",
       "label": "other",
       "level": "3",
@@ -3435,7 +3459,7 @@
       "text": "Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. Iman, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omanga, Nairobi County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County; Sen. Wetangula, Bungoma County and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 287,
+      "order": 289,
       "id": "entry-838116",
       "label": "other",
       "level": "3",
@@ -3447,7 +3471,7 @@
       "text": "NOES"
     },
     {
-      "order": 288,
+      "order": 290,
       "id": "entry-838117",
       "label": "speech",
       "level": "3",
@@ -3459,7 +3483,7 @@
       "text": ": Nil."
     },
     {
-      "order": 289,
+      "order": 291,
       "id": "entry-838118",
       "label": "speech",
       "level": "3",
@@ -3471,7 +3495,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n27\n\nNOES:\n\n0\n\nABSTENTIONS:"
     },
     {
-      "order": 290,
+      "order": 292,
       "id": "entry-838124-split-before-65db2ff4-a19e-4b05-a0d5-4b9bbcc775a7",
       "label": "speech",
       "level": "3",
@@ -3483,7 +3507,7 @@
       "text": "0"
     },
     {
-      "order": 291,
+      "order": 293,
       "id": "entry-838124-split-selected-565dd675-7c85-480f-8da9-c85e3ad71145",
       "label": "deleted",
       "level": "3",
@@ -3495,7 +3519,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes"
     },
     {
-      "order": 292,
+      "order": 294,
       "id": "entry-838125",
       "label": "deleted",
       "level": "3",
@@ -3507,7 +3531,7 @@
       "text": "only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 293,
+      "order": 295,
       "id": "entry-838127",
       "label": "speech",
       "level": "3",
@@ -3519,7 +3543,7 @@
       "text": "The \"Ayes\" have it."
     },
     {
-      "order": 294,
+      "order": 296,
       "id": "entry-838128",
       "label": "scene",
       "level": "3",
@@ -3531,7 +3555,7 @@
       "text": "(Question carried by 27 votes to 0)"
     },
     {
-      "order": 295,
+      "order": 297,
       "id": "entry-838129",
       "label": "speech",
       "level": "3",
@@ -3543,7 +3567,7 @@
       "text": "Hon. Senators, the fourth division is on clauses without amendments."
     },
     {
-      "order": 296,
+      "order": 298,
       "id": "entry-838130",
       "label": "heading",
       "level": "3",
@@ -3555,7 +3579,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 297,
+      "order": 299,
       "id": "entry-838132",
       "label": "scene",
       "level": "3",
@@ -3567,7 +3591,7 @@
       "text": "(Question, that the Clauses 3,4,5 (as amended), 6 (as amended), 7 (as amended), 8,9,11,12,13 (as amended), 14,15,16 (as amended), 17,18 (as amended),19 (as amended) 20 (as amended) 21,22 (as amended) 23,24,26,27,28,29,30 (as amended) 31,32, New Clause 5A, First Schedule, Second Schedule, Clause 2 (as amended), the Third Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 298,
+      "order": 300,
       "id": "entry-838133",
       "label": "other",
       "level": "3",
@@ -3579,7 +3603,7 @@
       "text": "AYES:"
     },
     {
-      "order": 299,
+      "order": 301,
       "id": "entry-838134",
       "label": "other",
       "level": "3",
@@ -3591,7 +3615,7 @@
       "text": "Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. Iman, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omanga, Nairobi County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County; Sen. (Rev.) Waqo, Marsabit County; Sen. Wetangula, Bungoma County and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 300,
+      "order": 302,
       "id": "entry-838135",
       "label": "other",
       "level": "3",
@@ -3603,7 +3627,7 @@
       "text": "NOES"
     },
     {
-      "order": 301,
+      "order": 303,
       "id": "entry-838136",
       "label": "speech",
       "level": "3",
@@ -3615,7 +3639,7 @@
       "text": ": Nil."
     },
     {
-      "order": 302,
+      "order": 304,
       "id": "entry-838137",
       "label": "speech",
       "level": "3",
@@ -3627,7 +3651,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n27\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n0 The \"Ayes\" have it."
     },
     {
-      "order": 303,
+      "order": 305,
       "id": "entry-838144",
       "label": "scene",
       "level": "3",
@@ -3639,7 +3663,7 @@
       "text": "(Question carried by 27 votes to 0)"
     },
     {
-      "order": 304,
+      "order": 306,
       "id": "entry-838145",
       "label": "speech",
       "level": "3",
@@ -3651,7 +3675,7 @@
       "text": "Let us have the Mover, please."
     },
     {
-      "order": 305,
+      "order": 307,
       "id": "entry-838146",
       "label": "speech",
       "level": "3",
@@ -3663,7 +3687,7 @@
       "text": "Madam Temporary Chairperson, I beg to move that the Committee of the Whole do report to the Senate its consideration of the Office of the County Attorney Bill (Senate Bills No.3 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 306,
+      "order": 308,
       "id": "entry-838147-split-before-11cf84be-ddce-4798-b281-0645a56500fd",
       "label": "speech",
       "level": "3",
@@ -3675,7 +3699,7 @@
       "text": "(Sen. Murkomen) seconded."
     },
     {
-      "order": 307,
+      "order": 309,
       "id": "entry-838147-split-selected-9da1982e-eab4-48a5-9b21-8832ea843af2",
       "label": "deleted",
       "level": "3",
@@ -3687,7 +3711,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 308,
+      "order": 310,
       "id": "entry-838150-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3699,7 +3723,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 309,
+      "order": 311,
       "id": "entry-838150-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3711,7 +3735,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 310,
+      "order": 312,
       "id": "entry-838151",
       "label": "scene",
       "level": "3",
@@ -3723,7 +3747,7 @@
       "text": "( The House resumed)"
     },
     {
-      "order": 311,
+      "order": 313,
       "id": "entry-838152",
       "label": "scene",
       "level": "3",
@@ -3735,7 +3759,7 @@
       "text": "[The Temporary Speaker (Sen. Lelegwe) in the Chair]"
     },
     {
-      "order": 312,
+      "order": 314,
       "id": "entry-838153",
       "label": "speech",
       "level": "3",
@@ -3747,7 +3771,7 @@
       "text": "Order, Hon. Members. I order that the Bar be drawn and the doors be opened."
     },
     {
-      "order": 313,
+      "order": 315,
       "id": "entry-838154",
       "label": "scene",
       "level": "3",
@@ -3759,7 +3783,7 @@
       "text": "(The Bar was drawn and the doors opened)"
     },
     {
-      "order": 314,
+      "order": 316,
       "id": "entry-838155",
       "label": "speech",
       "level": "3",
@@ -3771,7 +3795,7 @@
       "text": "I now call upon the Chairperson to report."
     },
     {
-      "order": 315,
+      "order": 317,
       "id": "entry-838156",
       "label": "heading",
       "level": "1",
@@ -3783,7 +3807,7 @@
       "text": "REPORT, CONSIDERATION OFREPORT AND THIRD READING"
     },
     {
-      "order": 316,
+      "order": 318,
       "id": "entry-838157",
       "label": "heading",
       "level": "3",
@@ -3795,7 +3819,7 @@
       "text": "THE OFFICE OF THE COUNTY ATTORNEY BILL (SENATE BILLS NO.3 OF 2018)"
     },
     {
-      "order": 317,
+      "order": 319,
       "id": "entry-838158",
       "label": "speech",
       "level": "3",
@@ -3807,7 +3831,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to report that the Committee of the Whole has considered the Office of the County Attorney Bill (Senate Bills No.3 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 318,
+      "order": 320,
       "id": "entry-838159",
       "label": "speech",
       "level": "3",
@@ -3819,7 +3843,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to move that the House do agree with the Committee in the said report."
     },
     {
-      "order": 319,
+      "order": 321,
       "id": "entry-838160",
       "label": "speech",
       "level": "3",
@@ -3831,7 +3855,7 @@
       "text": "(Sen. Murkomen) seconded."
     },
     {
-      "order": 320,
+      "order": 322,
       "id": "entry-838161-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3843,7 +3867,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 321,
+      "order": 323,
       "id": "entry-838161-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3855,7 +3879,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 322,
+      "order": 324,
       "id": "entry-838162",
       "label": "speech",
       "level": "3",
@@ -3867,7 +3891,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to move that The Office of the County Attorney Bill (Senate Bills No.3 of 2018) be now read a Third Time. I invite Sen. Murkomen to second."
     },
     {
-      "order": 323,
+      "order": 325,
       "id": "entry-838163",
       "label": "speech",
       "level": "3",
@@ -3879,7 +3903,7 @@
       "text": "Mr. Temporary Speaker, I second."
     },
     {
-      "order": 324,
+      "order": 326,
       "id": "entry-838166",
       "label": "scene",
       "level": "3",
@@ -3891,7 +3915,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 325,
+      "order": 327,
       "id": "entry-838167",
       "label": "speech",
       "level": "3",
@@ -3903,7 +3927,7 @@
       "text": "Hon. Senators, I order that the Division Bell to be rung for five minutes."
     },
     {
-      "order": 326,
+      "order": 328,
       "id": "entry-838168",
       "label": "scene",
       "level": "3",
@@ -3915,7 +3939,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 327,
+      "order": 329,
       "id": "entry-838169",
       "label": "deleted",
       "level": "3",
@@ -3927,7 +3951,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes"
     },
     {
-      "order": 328,
+      "order": 330,
       "id": "entry-838170",
       "label": "deleted",
       "level": "3",
@@ -3939,7 +3963,7 @@
       "text": "only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 329,
+      "order": 331,
       "id": "entry-838172",
       "label": "speech",
       "level": "3",
@@ -3951,7 +3975,7 @@
       "text": "Order, Hon. Senators! I now order that the Bar be drawn and the doors locked."
     },
     {
-      "order": 330,
+      "order": 332,
       "id": "entry-838173",
       "label": "scene",
       "level": "3",
@@ -3963,7 +3987,7 @@
       "text": "(The Bar was drawn and the doors locked)"
     },
     {
-      "order": 331,
+      "order": 333,
       "id": "entry-838174",
       "label": "speech",
       "level": "3",
@@ -3975,7 +3999,7 @@
       "text": "Kindly log in."
     },
     {
-      "order": 332,
+      "order": 334,
       "id": "entry-838175",
       "label": "speech",
       "level": "3",
@@ -3987,7 +4011,7 @@
       "text": "Hon. Senators, I now put the question that the Office of the County Attorney Bill (Senate Bill No.3 of 2018 be now read a Third Time. We are proceeding to a Division. You may start voting now."
     },
     {
-      "order": 333,
+      "order": 335,
       "id": "entry-838176",
       "label": "heading",
       "level": "1",
@@ -3999,7 +4023,7 @@
       "text": "THIRD READING"
     },
     {
-      "order": 334,
+      "order": 336,
       "id": "entry-838177",
       "label": "heading",
       "level": "3",
@@ -4011,7 +4035,7 @@
       "text": "THE OFFICE OF THE COUNTY ATTORNEY BILL (SENATE BILL NO. 3 OF 2018)"
     },
     {
-      "order": 335,
+      "order": 337,
       "id": "entry-838178",
       "label": "heading",
       "level": "3",
@@ -4023,7 +4047,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 336,
+      "order": 338,
       "id": "entry-838180",
       "label": "scene",
       "level": "3",
@@ -4035,7 +4059,7 @@
       "text": "(Question, that the Office of the County Attorney Bill (Senate Bill No. 3 of 2018) be now read a Third Time put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 337,
+      "order": 339,
       "id": "entry-838181",
       "label": "other",
       "level": "3",
@@ -4047,7 +4071,7 @@
       "text": "AYES"
     },
     {
-      "order": 338,
+      "order": 340,
       "id": "entry-838182",
       "label": "other",
       "level": "3",
@@ -4059,7 +4083,7 @@
       "text": ": Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. Farhiya, Nairobi County; Sen. Iman, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Langat, Bomet County; Sen. Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; Sen. Wario, Tana River County and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 339,
+      "order": 341,
       "id": "entry-838183",
       "label": "other",
       "level": "3",
@@ -4071,7 +4095,7 @@
       "text": "NOES"
     },
     {
-      "order": 340,
+      "order": 342,
       "id": "entry-838184",
       "label": "speech",
       "level": "3",
@@ -4083,7 +4107,7 @@
       "text": ": Nil"
     },
     {
-      "order": 341,
+      "order": 343,
       "id": "entry-838185",
       "label": "speech",
       "level": "3",
@@ -4095,7 +4119,7 @@
       "text": "Order, Members. The results of the division are as follows-\n\nAYES\n\n: 29\n\nNOES"
     },
     {
-      "order": 342,
+      "order": 344,
       "id": "entry-838189",
       "label": "speech",
       "level": "3",
@@ -4107,7 +4131,7 @@
       "text": ": Nil\n\nABSTENTIONS"
     },
     {
-      "order": 343,
+      "order": 345,
       "id": "entry-838191",
       "label": "speech",
       "level": "3",
@@ -4119,7 +4143,7 @@
       "text": ": Nil"
     },
     {
-      "order": 344,
+      "order": 346,
       "id": "entry-838192",
       "label": "scene",
       "level": "3",
@@ -4131,7 +4155,7 @@
       "text": "(Question carried by 29 votes to nil)"
     },
     {
-      "order": 345,
+      "order": 347,
       "id": "entry-838193",
       "label": "deleted",
       "level": "3",
@@ -4143,7 +4167,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes"
     },
     {
-      "order": 346,
+      "order": 348,
       "id": "entry-838194",
       "label": "deleted",
       "level": "3",
@@ -4155,7 +4179,7 @@
       "text": "only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 347,
+      "order": 349,
       "id": "entry-838196",
       "label": "scene",
       "level": "3",
@@ -4167,7 +4191,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 348,
+      "order": 350,
       "id": "entry-838197",
       "label": "speech",
       "level": "3",
@@ -4179,7 +4203,7 @@
       "text": "Hon. Senators, I now direct that the bars be withdrawn and the doors be unlocked."
     },
     {
-      "order": 349,
+      "order": 351,
       "id": "entry-838198",
       "label": "scene",
       "level": "3",
@@ -4191,7 +4215,7 @@
       "text": "(The doors were opened and the Bar drawn)"
     },
     {
-      "order": 350,
+      "order": 352,
       "id": "entry-838199",
       "label": "speech",
       "level": "3",
@@ -4203,7 +4227,7 @@
       "text": "Let us move on to the next Order."
     },
     {
-      "order": 351,
+      "order": 353,
       "id": "entry-838200",
       "label": "heading",
       "level": "1",
@@ -4215,7 +4239,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 352,
+      "order": 354,
       "id": "entry-838201",
       "label": "heading",
       "level": "2",
@@ -4227,7 +4251,7 @@
       "text": "THE FOOD SECURITY BILL (SENATE BILLS NO.12 OF 2017)"
     },
     {
-      "order": 353,
+      "order": 355,
       "id": "entry-838202",
       "label": "speech",
       "level": "2",
@@ -4239,7 +4263,7 @@
       "text": "Hon. Senators, I defer Order No. 12."
     },
     {
-      "order": 354,
+      "order": 356,
       "id": "entry-838203",
       "label": "scene",
       "level": "2",
@@ -4251,7 +4275,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 355,
+      "order": 357,
       "id": "entry-838204",
       "label": "heading",
       "level": "1",
@@ -4263,7 +4287,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 356,
+      "order": 358,
       "id": "entry-838205",
       "label": "scene",
       "level": "1",
@@ -4275,7 +4299,7 @@
       "text": "( Order for Committee read)"
     },
     {
-      "order": 357,
+      "order": 359,
       "id": "entry-838206",
       "label": "scene",
       "level": "1",
@@ -4287,7 +4311,7 @@
       "text": "[The Temporary Speaker (Sen. Lelegwe) left the Chair]"
     },
     {
-      "order": 358,
+      "order": 360,
       "id": "entry-838207",
       "label": "heading",
       "level": "2",
@@ -4299,7 +4323,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 359,
+      "order": 361,
       "id": "entry-838208",
       "label": "scene",
       "level": "2",
@@ -4311,7 +4335,7 @@
       "text": "[The Temporary Chairperson (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 360,
+      "order": 362,
       "id": "entry-838209",
       "label": "heading",
       "level": "3",
@@ -4323,7 +4347,7 @@
       "text": "THE OFFICE OF THE COUNTY PRINTER BILL (SENATE BILLS NO.7 OF 2018)"
     },
     {
-      "order": 361,
+      "order": 363,
       "id": "entry-838210",
       "label": "speech",
       "level": "3",
@@ -4335,7 +4359,7 @@
       "text": "Hon Senators, we are now in the Committee of the Whole to look at the Office of the County Printer Bill (Senate Bill No.7 of 2018), but we will not proceed to the division."
     },
     {
-      "order": 362,
+      "order": 364,
       "id": "entry-838211-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4347,7 +4371,7 @@
       "text": "Clause 3"
     },
     {
-      "order": 363,
+      "order": 365,
       "id": "entry-838211-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4359,7 +4383,7 @@
       "text": "(Question, that Clause 3 be part of the Bill, proposed)"
     },
     {
-      "order": 364,
+      "order": 366,
       "id": "entry-838212",
       "label": "speech",
       "level": "5",
@@ -4371,7 +4395,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 365,
+      "order": 367,
       "id": "entry-838213-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4383,7 +4407,7 @@
       "text": "Clause 4"
     },
     {
-      "order": 366,
+      "order": 368,
       "id": "entry-838213-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4395,7 +4419,7 @@
       "text": "(Question, that Clause 4 be part of the Bill, proposed)"
     },
     {
-      "order": 367,
+      "order": 369,
       "id": "entry-838214-split-selected-12231d34-88d5-4f74-a934-6f96f6542d0d",
       "label": "deleted",
       "level": "5",
@@ -4407,7 +4431,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 368,
+      "order": 370,
       "id": "entry-838214-split-after-29768631-292a-419f-8e67-5c68185ebc74",
       "label": "speech",
       "level": "5",
@@ -4419,7 +4443,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 369,
+      "order": 371,
       "id": "entry-838217",
       "label": "heading",
       "level": "5",
@@ -4431,7 +4455,7 @@
       "text": "Clause 5"
     },
     {
-      "order": 370,
+      "order": 372,
       "id": "entry-838218",
       "label": "speech",
       "level": "5",
@@ -4443,7 +4467,7 @@
       "text": "Thank you, Madam Temporary Chairperson. On behalf of the Chairperson of the Standing Committee on Information Communication and Technology, I beg to move:- THAT Clause 5 of the Bill be amended in paragraph (a) by inserting the words \"and information\" immediately after the words \"gazette such documents\"."
     },
     {
-      "order": 371,
+      "order": 373,
       "id": "entry-838219",
       "label": "scene",
       "level": "5",
@@ -4455,7 +4479,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 372,
+      "order": 374,
       "id": "entry-838220",
       "label": "speech",
       "level": "5",
@@ -4467,7 +4491,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 373,
+      "order": 375,
       "id": "entry-838221-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4479,7 +4503,7 @@
       "text": "Clause 6"
     },
     {
-      "order": 374,
+      "order": 376,
       "id": "entry-838221-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4491,7 +4515,7 @@
       "text": "(Question, that Clause 6 be part of the Bill, proposed)"
     },
     {
-      "order": 375,
+      "order": 377,
       "id": "entry-838222",
       "label": "speech",
       "level": "5",
@@ -4503,7 +4527,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 376,
+      "order": 378,
       "id": "entry-838223-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4515,7 +4539,7 @@
       "text": "Clause 7"
     },
     {
-      "order": 377,
+      "order": 379,
       "id": "entry-838223-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4527,7 +4551,7 @@
       "text": "(Question, that Clause 7 be part of the Bill, proposed)"
     },
     {
-      "order": 378,
+      "order": 380,
       "id": "entry-838224",
       "label": "speech",
       "level": "5",
@@ -4539,7 +4563,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 379,
+      "order": 381,
       "id": "entry-838225-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4551,7 +4575,7 @@
       "text": "Clause 8"
     },
     {
-      "order": 380,
+      "order": 382,
       "id": "entry-838225-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4563,7 +4587,7 @@
       "text": "(Question, that Clause 8 be part of the Bill, proposed)"
     },
     {
-      "order": 381,
+      "order": 383,
       "id": "entry-838226",
       "label": "speech",
       "level": "5",
@@ -4575,7 +4599,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 382,
+      "order": 384,
       "id": "entry-838227",
       "label": "heading",
       "level": "5",
@@ -4587,7 +4611,7 @@
       "text": "Clause 9"
     },
     {
-      "order": 383,
+      "order": 385,
       "id": "entry-838228",
       "label": "speech",
       "level": "5",
@@ -4599,7 +4623,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT, clause 9 of the Bill be amended in sub-clause (3) by - (a) inserting the words \"qualify to\" immediately after the words \"A person shall\"; (b) inserting the words \"at least\" immediately after the word \"holds\" in paragraph (a); and, (c) deleting the word \"five\" appearing immediately after the words \"of at least\" in paragraph (b) and substituting therefor the word \"ten\"."
     },
     {
-      "order": 384,
+      "order": 386,
       "id": "entry-838229",
       "label": "scene",
       "level": "5",
@@ -4611,7 +4635,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 385,
+      "order": 387,
       "id": "entry-838230-split-before-ba98eb70-4585-41d8-9eb6-950674bc1310",
       "label": "speech",
       "level": "5",
@@ -4623,7 +4647,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 386,
+      "order": 388,
       "id": "entry-838230-split-selected-4bad7afd-88de-4e32-8042-98630b0ec134",
       "label": "deleted",
       "level": "5",
@@ -4635,7 +4659,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 387,
+      "order": 389,
       "id": "entry-838233",
       "label": "heading",
       "level": "5",
@@ -4647,7 +4671,7 @@
       "text": "Clause 10"
     },
     {
-      "order": 388,
+      "order": 390,
       "id": "entry-838234",
       "label": "speech",
       "level": "5",
@@ -4659,7 +4683,7 @@
       "text": "Madam Temporary Chairperson, on behalf of the Chairperson of the Standing Committee on Information Communication and Technology, I beg to move:- THAT clause 10 of the Bill be amended by inserting the word \"and the county printer\" immediately after the words \"the county secretary\"."
     },
     {
-      "order": 389,
+      "order": 391,
       "id": "entry-838235",
       "label": "scene",
       "level": "5",
@@ -4671,7 +4695,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 390,
+      "order": 392,
       "id": "entry-838236",
       "label": "speech",
       "level": "5",
@@ -4683,7 +4707,7 @@
       "text": "The Division will be at the end. There is a further amendment to Clause 10 by the Mover."
     },
     {
-      "order": 391,
+      "order": 393,
       "id": "entry-838237",
       "label": "speech",
       "level": "5",
@@ -4695,7 +4719,7 @@
       "text": "Madam Temporary Chairperson, on behalf of the Chairperson of the Standing Committee on Information Communication and Technology, I beg to move:- THAT clause 10 of the Bill be further amended by inserting the words \"of the county printer\" immediately after the words \"functions of the office\"."
     },
     {
-      "order": 392,
+      "order": 394,
       "id": "entry-838238",
       "label": "scene",
       "level": "5",
@@ -4707,7 +4731,7 @@
       "text": "(Question of the further amendment proposed)"
     },
     {
-      "order": 393,
+      "order": 395,
       "id": "entry-838239",
       "label": "speech",
       "level": "5",
@@ -4719,7 +4743,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 394,
+      "order": 396,
       "id": "entry-838240-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4731,7 +4755,7 @@
       "text": "Clause 11"
     },
     {
-      "order": 395,
+      "order": 397,
       "id": "entry-838240-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4743,7 +4767,7 @@
       "text": "(Question, that Clause 11 be part of the Bill, proposed)"
     },
     {
-      "order": 396,
+      "order": 398,
       "id": "entry-838241",
       "label": "speech",
       "level": "5",
@@ -4755,7 +4779,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 397,
+      "order": 399,
       "id": "entry-838242",
       "label": "heading",
       "level": "5",
@@ -4767,7 +4791,7 @@
       "text": "New Clause 10(A)"
     },
     {
-      "order": 398,
+      "order": 400,
       "id": "entry-838243-split-before-1a2ca342-16c2-4f7f-aced-f9ef78d2157b",
       "label": "speech",
       "level": "5",
@@ -4779,7 +4803,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT, the Bill be amended by inserting the following new clause immediately after clause 10 - Offences.\n\n10A.\n\nA person who - (a) fails, without reasonable cause, to - (i) approve the publication of a document required to be published under any written law; or (ii) publish, within the period Specified under any written law, a document which has been approved for publication; (b) Willfully or recklessly, authorises The publication or publishes false"
     },
     {
-      "order": 399,
+      "order": 401,
       "id": "entry-838243-split-selected-b865a1c7-71d6-4811-a66e-cf86fb9b3dd3",
       "label": "deleted",
       "level": "5",
@@ -4791,7 +4815,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes"
     },
     {
-      "order": 400,
+      "order": 402,
       "id": "entry-838246",
       "label": "deleted",
       "level": "5",
@@ -4803,7 +4827,7 @@
       "text": "only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 401,
+      "order": 403,
       "id": "entry-838248",
       "label": "speech",
       "level": "5",
@@ -4815,7 +4839,7 @@
       "text": "or misleading information; or (c) without authorisation, alters a Document approved for publication, commits an offence and is liable, on conviction, to a fine not exceeding two hundred thousand shillings, or to imprisonment for a term not exceeding six months, or to both."
     },
     {
-      "order": 402,
+      "order": 404,
       "id": "entry-838249-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "5",
@@ -4827,7 +4851,7 @@
       "text": "(Question of the new clause 10(A) proposed)"
     },
     {
-      "order": 403,
+      "order": 405,
       "id": "entry-838249-parenthesis-split-2-of-3",
       "label": "scene",
       "level": "5",
@@ -4839,7 +4863,7 @@
       "text": "(New clause 10(A) read the First Time)"
     },
     {
-      "order": 404,
+      "order": 406,
       "id": "entry-838249-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "5",
@@ -4851,7 +4875,7 @@
       "text": "(Question, that the New Clause 10 (A) be read a second time proposed)"
     },
     {
-      "order": 405,
+      "order": 407,
       "id": "entry-838250",
       "label": "speech",
       "level": "5",
@@ -4863,7 +4887,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 406,
+      "order": 408,
       "id": "entry-838251",
       "label": "heading",
       "level": "5",
@@ -4875,7 +4899,7 @@
       "text": "New Clause 10 (B)"
     },
     {
-      "order": 407,
+      "order": 409,
       "id": "entry-838252",
       "label": "speech",
       "level": "5",
@@ -4887,7 +4911,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT, the Bill be amended by inserting the following new clause immediately after clause 10 - General penalty."
     },
     {
-      "order": 408,
+      "order": 410,
       "id": "entry-838253",
       "label": "heading",
       "level": "3",
@@ -4899,7 +4923,7 @@
       "text": "10B."
     },
     {
-      "order": 409,
+      "order": 411,
       "id": "entry-838254",
       "label": "speech",
       "level": "3",
@@ -4911,7 +4935,7 @@
       "text": "A person who contravenes any provision of this Act for which no penalty is provided is liable, on conviction, to a fine not exceeding one hundred thousand shillings, or to imprisonment for a term not exceeding six months, or to both."
     },
     {
-      "order": 410,
+      "order": 412,
       "id": "entry-838255-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "3",
@@ -4923,7 +4947,7 @@
       "text": "(Question of the new clause 10(B) proposed)"
     },
     {
-      "order": 411,
+      "order": 413,
       "id": "entry-838255-parenthesis-split-2-of-3",
       "label": "scene",
       "level": "3",
@@ -4935,7 +4959,7 @@
       "text": "(New clause 10(B) read the First Time)"
     },
     {
-      "order": 412,
+      "order": 414,
       "id": "entry-838255-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "3",
@@ -4947,7 +4971,7 @@
       "text": "(Question, that the New Clause 10 (B) be read a second time proposed)"
     },
     {
-      "order": 413,
+      "order": 415,
       "id": "entry-838256",
       "label": "speech",
       "level": "3",
@@ -4959,7 +4983,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 414,
+      "order": 416,
       "id": "entry-838257",
       "label": "heading",
       "level": "5",
@@ -4971,7 +4995,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 415,
+      "order": 417,
       "id": "entry-838258-split-before-42bc9db0-dac7-4a28-afb3-448851eb6e7d",
       "label": "speech",
       "level": "5",
@@ -4983,7 +5007,7 @@
       "text": "Madam Temporary Chairperson I beg to move:- THAT, clause 2 of the Bill be amended by inserting the following new definition immediately after the definition of the term \"county gazette\"-"
     },
     {
-      "order": 416,
+      "order": 418,
       "id": "entry-838258-split-selected-962f37cd-9a7a-4848-973d-0f60c827ce0b",
       "label": "deleted",
       "level": "5",
@@ -4995,7 +5019,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 417,
+      "order": 419,
       "id": "entry-838258-split-after-09e058e1-e5ef-47ff-875c-8d1c6c215e94",
       "label": "speech",
       "level": "5",
@@ -5007,7 +5031,7 @@
       "text": "\"county printer\" means a person appointed under section 9 of the Act as the head the office of the county printer."
     },
     {
-      "order": 418,
+      "order": 420,
       "id": "entry-838262",
       "label": "scene",
       "level": "5",
@@ -5019,7 +5043,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 419,
+      "order": 421,
       "id": "entry-838263",
       "label": "speech",
       "level": "5",
@@ -5031,7 +5055,7 @@
       "text": "The Division will be at the end.\n\nThe Title and Clause 1"
     },
     {
-      "order": 420,
+      "order": 422,
       "id": "entry-838264-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -5043,7 +5067,7 @@
       "text": "(Question that the Title and Clause 1 be part of the Bill proposed)"
     },
     {
-      "order": 421,
+      "order": 423,
       "id": "entry-838265",
       "label": "speech",
       "level": "5",
@@ -5055,7 +5079,7 @@
       "text": "The Division will be at the end. Hon. Senators, since we do not have the requisite numbers, we are going to report progress. Proceed, Mover."
     },
     {
-      "order": 422,
+      "order": 424,
       "id": "entry-838266",
       "label": "speech",
       "level": "5",
@@ -5067,7 +5091,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order 142, I beg to move:- THAT, the Committee reports progress on it is consideration of Office of the County Printer (Senate Bills No. 7 of 2018) and seek leave to sit again tomorrow."
     },
     {
-      "order": 423,
+      "order": 425,
       "id": "entry-838267",
       "label": "speech",
       "level": "5",
@@ -5079,7 +5103,7 @@
       "text": "seconded"
     },
     {
-      "order": 424,
+      "order": 426,
       "id": "entry-838268-parenthesis-split-1-of-4",
       "label": "scene",
       "level": "5",
@@ -5091,7 +5115,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 425,
+      "order": 427,
       "id": "entry-838268-parenthesis-split-2-of-4",
       "label": "scene",
       "level": "5",
@@ -5103,7 +5127,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 426,
+      "order": 428,
       "id": "entry-838268-parenthesis-split-3-of-4",
       "label": "scene",
       "level": "5",
@@ -5115,7 +5139,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 427,
+      "order": 429,
       "id": "entry-838268-parenthesis-split-4-of-4",
       "label": "scene",
       "level": "5",
@@ -5127,7 +5151,7 @@
       "text": "[The Temporary Speaker (Sen. Lelegwe) in the Chair]"
     },
     {
-      "order": 428,
+      "order": 430,
       "id": "entry-838269",
       "label": "speech",
       "level": "5",
@@ -5139,7 +5163,7 @@
       "text": "Hon. Senators, I call upon the Chairperson to report progress."
     },
     {
-      "order": 429,
+      "order": 431,
       "id": "entry-838270",
       "label": "heading",
       "level": "2",
@@ -5151,7 +5175,7 @@
       "text": "PROGRESS REPORTED"
     },
     {
-      "order": 430,
+      "order": 432,
       "id": "entry-838271",
       "label": "heading",
       "level": "3",
@@ -5163,7 +5187,7 @@
       "text": "THE OFFICE OF THE COUNTY PRINTER BILL (SENATE BILLS NO.7 OF 2018)"
     },
     {
-      "order": 431,
+      "order": 433,
       "id": "entry-838272",
       "label": "speech",
       "level": "3",
@@ -5175,7 +5199,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to report progress, that the Committee of the Whole has considered the Office of the County Printer Bill (Senate Bills No.7 of 2018) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 432,
+      "order": 434,
       "id": "entry-838273",
       "label": "speech",
       "level": "3",
@@ -5187,7 +5211,7 @@
       "text": "I now call upon the Mover."
     },
     {
-      "order": 433,
+      "order": 435,
       "id": "entry-838274",
       "label": "speech",
       "level": "3",
@@ -5199,7 +5223,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to move that the House do agree with the Committee in the said report."
     },
     {
-      "order": 434,
+      "order": 436,
       "id": "entry-838275",
       "label": "speech",
       "level": "3",
@@ -5211,7 +5235,7 @@
       "text": "seconded."
     },
     {
-      "order": 435,
+      "order": 437,
       "id": "entry-838276",
       "label": "scene",
       "level": "3",
@@ -5223,7 +5247,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 436,
+      "order": 438,
       "id": "entry-838277",
       "label": "deleted",
       "level": "3",
@@ -5235,7 +5259,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 437,
+      "order": 439,
       "id": "entry-838280",
       "label": "scene",
       "level": "3",
@@ -5247,7 +5271,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 438,
+      "order": 440,
       "id": "entry-838281",
       "label": "speech",
       "level": "3",
@@ -5259,7 +5283,7 @@
       "text": "Let us go to the next Order."
     },
     {
-      "order": 439,
+      "order": 441,
       "id": "entry-838282",
       "label": "heading",
       "level": "1",
@@ -5271,7 +5295,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 440,
+      "order": 442,
       "id": "entry-838283",
       "label": "heading",
       "level": "2",
@@ -5283,7 +5307,7 @@
       "text": "THE DISASTER RISK MANAGEMENT BILL (SENATE BILLS NO.8 OF 2018)"
     },
     {
-      "order": 441,
+      "order": 443,
       "id": "entry-838284",
       "label": "speech",
       "level": "2",
@@ -5295,7 +5319,7 @@
       "text": "Hon. Senators, I will defer Order No.14"
     },
     {
-      "order": 442,
+      "order": 444,
       "id": "entry-838285",
       "label": "scene",
       "level": "2",
@@ -5307,7 +5331,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 443,
+      "order": 445,
       "id": "entry-838286",
       "label": "speech",
       "level": "2",
@@ -5319,7 +5343,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 444,
+      "order": 446,
       "id": "entry-838287",
       "label": "heading",
       "level": "1",
@@ -5331,7 +5355,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 445,
+      "order": 447,
       "id": "entry-838289",
       "label": "heading",
       "level": "3",
@@ -5343,7 +5367,7 @@
       "text": "THE CARE AND PROTECTION OF OLDER MEMBERS OF SOCIETY BILL (SENATE BILLS NO.17 OF 2018)"
     },
     {
-      "order": 446,
+      "order": 448,
       "id": "entry-838290",
       "label": "speech",
       "level": "3",
@@ -5355,7 +5379,7 @@
       "text": "I defer Order No.15."
     },
     {
-      "order": 447,
+      "order": 449,
       "id": "entry-838291",
       "label": "scene",
       "level": "3",
@@ -5367,7 +5391,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 448,
+      "order": 450,
       "id": "entry-838292",
       "label": "speech",
       "level": "3",
@@ -5379,7 +5403,7 @@
       "text": "Let us go to the next Order."
     },
     {
-      "order": 449,
+      "order": 451,
       "id": "entry-838293",
       "label": "heading",
       "level": "1",
@@ -5391,7 +5415,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 450,
+      "order": 452,
       "id": "entry-838294",
       "label": "heading",
       "level": "3",
@@ -5403,7 +5427,7 @@
       "text": "THE PETITION TO COUNTY ASSEMBLIES (PROCEDURE) BILL (SENATE BILLS NO.22 OF 2018)"
     },
     {
-      "order": 451,
+      "order": 453,
       "id": "entry-838295",
       "label": "speech",
       "level": "3",
@@ -5415,7 +5439,7 @@
       "text": "Hon. Senators, I defer Order No.16."
     },
     {
-      "order": 452,
+      "order": 454,
       "id": "entry-838296",
       "label": "scene",
       "level": "3",
@@ -5427,7 +5451,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 453,
+      "order": 455,
       "id": "entry-838297",
       "label": "speech",
       "level": "3",
@@ -5439,7 +5463,7 @@
       "text": "Let us go to the next Order."
     },
     {
-      "order": 454,
+      "order": 456,
       "id": "entry-838298",
       "label": "scene",
       "level": "3",
@@ -5451,7 +5475,7 @@
       "text": "(Resumption of debate on Motion)"
     },
     {
-      "order": 455,
+      "order": 457,
       "id": "entry-838299",
       "label": "deleted",
       "level": "3",
@@ -5463,7 +5487,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 456,
+      "order": 458,
       "id": "entry-838301",
       "label": "heading",
       "level": "1",
@@ -5475,7 +5499,7 @@
       "text": "MOTION"
     },
     {
-      "order": 457,
+      "order": 459,
       "id": "entry-838302-split-selected-4c90c8a7-9da6-471e-963e-9d6d9ed5374c",
       "label": "heading",
       "level": "3",
@@ -5487,7 +5511,7 @@
       "text": "DEVELOPMENT AND IMPLEMENTATION OF NATIONAL DISASTER RISK FINANCING"
     },
     {
-      "order": 458,
+      "order": 460,
       "id": "entry-838302-split-after-2d378d60-66fa-495a-b617-b4e3b80cd475",
       "label": "speech",
       "level": "3",
@@ -5499,7 +5523,7 @@
       "text": "THAT, WHEREAS Kenya's disaster profile is dominated by droughts, fire, floods, terrorism, diseases and epidemics that disrupt livelihoods, destroy infrastructure, divert planned use of resources, interrupt economic activities and retard development; FURTHER WHEREAS the Government, through its various agencies, is ultimately responsible for disaster reduction, preparedness and management; COGNIZANT of the fact that Government agencies involved in disaster management are usually overwhelmed when called upon to provide response services during disasters and emergencies; AWARE that the Kenya Red Cross Society Act, Cap 256 of the Laws of Kenya establishes the Kenya Red Cross Society, a sole national Red Cross Society in Kenya, as a voluntary aid society; RECOGNIZING, the efforts of the Kenya Red Cross Society to provide first-line disaster response services in incidences of disasters and other emergencies across the country; OBSERVING, the huge financial resources required to finance disaster reduction, preparedness and other emergency services; NOTING that one of the sources of the Kenya Red Cross Society in financing its operations is through accepting unrestricted contributions and assistance, in any form, from individuals, public authorities and private bodies; APPRECIATING, the efforts made by the prudent management of funds by the Kenya Red Cross Society; FURTHER AWARE that Emergency Fund is a substantial proportionate Vote Head in both the national and county government budgets; CONCERNED, that the Kenya Red Cross Society has not been allocated a budget from the national and county governments despite the huge contribution in disaster and emergency response across the country; NOW THEREFORE, the Senate urges the national and county governments to explore collaborative mechanisms for the Kenya Red Cross Society to support and implement a paradigm shift from post- disaster response to risk reduction by developing and implementing a national disaster risk financing strategy across all sectors and incorporate it into the national and county development planning and financing processes."
     },
     {
-      "order": 459,
+      "order": 461,
       "id": "entry-838303-split-before-9330373c-9ed0-42a8-8774-509f0c97086c",
       "label": "speech",
       "level": "3",
@@ -5511,7 +5535,7 @@
       "text": "Mr. Temporary Speaker, Sir, I rise to support this extremely important Motion by my colleague from Vihiga, Sen. Khaniri. The Motion has been second by a very distinguished lady with a lot of experience in this particular area of"
     },
     {
-      "order": 460,
+      "order": 462,
       "id": "entry-838303-split-selected-f4b127c4-0a92-4d5d-8fc7-421e55d0a284",
       "label": "deleted",
       "level": "3",
@@ -5523,7 +5547,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 461,
+      "order": 463,
       "id": "entry-838303-split-after-bde01f4c-54bf-46b2-8687-30f3e64db9e1-split-before-4bd3b42c-6d54-4fcb-ac95-d179a0102736",
       "label": "speech",
       "level": "3",
@@ -5535,7 +5559,7 @@
       "text": "disaster response and how it is managed. From the outset, I must say that this is a timely thought. Our colleague said that they are jointly co-sponsoring a Bill with Sen. Halake who served as the Deputy Director of the Kenya Red Cross Society (KRCS) before joining this House. It has been said that there is no need to reinvent the wheel. If the KRCS has proven innumerable times that they are able to respond to disasters in this country whatever the magnitude is, it is not rocket science to propose that they need Government support for them to take care of particular unfortunate events because we have seen the nature and speed with which Government has continued to drop the ball every time we have had a disaster, be it here in the Capital City or in different parts of this country. The lone first responders in any particular part of this country are officers of the KRCS. Therefore, I find it to be an extremely timely thought for someone to think through and consider that they should be lent Government support and be made more effective by enjoying the leverage of being provided for with the resources that they need to respond to emergencies in this country. I would like to agree with the proposals that the Mover of this Motion has made before this honourable House this afternoon; that a time has come for us to look keenly into how we handle disaster management. We need to consider, as Government institutions, that they may not have the expertise and the know-how on how to place first responders in areas that are known to be disaster-prone in this country. It will not be unusual to be the first country in the world to sort of give away what is considered generally Government work or ordinarily handled by the Government. A new concept is emerging where in different parts of the world people are beginning to appreciate that there are certain organisations that excel in different disciplines. Therefore, there is absolutely nothing illegal in doing that. Given the track record and how we know their response to various disasters within our country, we should lend them the kind of support that is needed for them to execute their work with distinction. It is also my proposal that we consider not only giving them support to operate at the national level but also to have presence down to our villages and sub- locations in our counties. I urge my colleagues to consider giving the legal framework that is needed for county governments to also partner with the KRCS because it is important. We all remember that during the first cycle of devolution, there were few challenges here and there. Truth be told, it is a matter that appeared even before the Committee on Finance, Commerce and Budget that I served in during the Eleventh Parliament. A number of counties signed partnership with the KRCS to provide ambulance services but it was considered to be a bit more expensive and the framework that was used to reach that kind of agreement was not transparent. Mr. Temporary Speaker, Sir, I also urge that before we consider dipping or throwing public resources at such institutions, we should consider the governing structures. We were informed this afternoon that, last year, Kshs7 billion was spent on overseeing all the disaster response activities. That is not a small amount of money. However, given that it is not a public organisation, issues of transparency can never be second-guessed."
     },
     {
-      "order": 462,
+      "order": 464,
       "id": "entry-838303-split-after-bde01f4c-54bf-46b2-8687-30f3e64db9e1-split-selected-7c12e395-0317-40e3-938d-f4c1ca3aa100",
       "label": "deleted",
       "level": "3",
@@ -5547,7 +5571,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 463,
+      "order": 465,
       "id": "entry-838303-split-after-bde01f4c-54bf-46b2-8687-30f3e64db9e1-split-after-3c256c53-9f22-4c1d-9459-74cce7044f85-split-before-fb568234-7d66-4e65-bedf-39bc74668730",
       "label": "speech",
       "level": "3",
@@ -5559,7 +5583,7 @@
       "text": "Now that this proposal is being made, in their request and the Bill that they will be sending to this House, let them assure us that checks and balances are properly provided for. When a county government enters into partnership with the Kenya Red Cross, it should be through an open process, where citizens of that particular county get value for money and the services that are due and deserved of them. On many occasions, I have seen various counties that have excelled in the area of disaster response in particular traits. They need the support from other county governments, but the framework does not exist. Being the House that makes laws for our county governments, it is upon us to give them the framework that they need. I know, for example, the renowned divers from Bomet County, who continue to serve the entire South Rift region every time there is a disaster that requires that kind of service. Whenever there have been incidents where people have drowned in my county, the divers have been called upon to respond. Towards the end of last year, when one of our colleagues had a mishap and members of staff from our office had an accident in Lake Nakuru, I saw them being called upon to respond. They were driven all the way from Bomet County. Within two or three days of being at the scene, they retrieved one of the bodies that were missing at that time. My point is that when we have this expertise, we are duty-bound as an institution of the Senate to provide the necessary framework, to ensure that people who excel in such important activities get the necessary support. What bothers me is that these young men are not employees of county governments. Most of them are just young people who love diving and, occasionally, when there is a disaster of this kind, they are called upon to respond. The fact is that many of our young people are trained and have patriotic traits. When disaster strikes, they first serve and then find out whether or not they will be paid. In most cases, they end up responding, but never get paid. For us to encourage having many such young people who can respond even along our highways during accidents or such issues, it is important that we provide the necessary framework. Mr. Temporary Speaker, Sir, we are aware of the kind of troubles that countries like Indonesia are faced with. When I was watching the unfortunate incident of the earthquake, what struck my mind is what would happen to countries like Kenya, for example, were we to face an occurrence of that nature or one that is even half of the magnitude of what Indonesia faced. How prepared are we if we continue to struggle even with six or seven storey buildings that collapse? How would we respond in case of a landslide or earthquake of the nature that is being faced by countries like Indonesia? As leaders, it is important to begin to question and know that accidents happen. The fact that this country has never faced an earthquake is not enough confirmation that it may never happen in the future, given all the seismic shifts that we are observing across the Rift Valley. You remember what happened to the Narok-Nairobi Highway at the beginning of this year. It is important that we begin to think of matters to do with disaster preparedness and provide the kind of framework that is being proposed by the Movers of this Motion. I laud them for this noble initiative and thought; that we are just speaking about things that are important to us. More importantly, as Sen. Khaniri shared with us, they are mid-way through the preparation of a Bill to provide the framework for this to be"
     },
     {
-      "order": 464,
+      "order": 466,
       "id": "entry-838303-split-after-bde01f4c-54bf-46b2-8687-30f3e64db9e1-split-after-3c256c53-9f22-4c1d-9459-74cce7044f85-split-selected-09599157-ee19-4846-8083-08c331ce06e0",
       "label": "deleted",
       "level": "3",
@@ -5571,7 +5595,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 465,
+      "order": 467,
       "id": "entry-838303-split-after-bde01f4c-54bf-46b2-8687-30f3e64db9e1-split-after-3c256c53-9f22-4c1d-9459-74cce7044f85-split-after-e7bfa48c-fc79-468d-8685-f30d8c54d43c",
       "label": "speech",
       "level": "3",
@@ -5583,7 +5607,7 @@
       "text": "properly operationalised and for us to see better disaster response, when it happens in the future. Mr. Temporary Speaker, Sir, with those many remarks, I support."
     },
     {
-      "order": 466,
+      "order": 468,
       "id": "entry-838313-split-before-1cf2c03c-ce75-4378-9791-108082507d44",
       "label": "speech",
       "level": "3",
@@ -5595,7 +5619,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I rise to support this Motion. We have just come from some very long droughts and a lot of floods that we suffered last year to the beginning of this year, and many others that we have all seen. We saw what happened in the Solai Dam disaster and many collapsed buildings all over. They caused destruction to property, loss of lives and earnings for our people. If we do not come up with a strategy to finance how to deal with these disasters, then at all times we will not be preventive, but rather reactionary. We will be reacting to acts or omissions by human beings or even acts of God, like rains. We have had landslides and lost lives because of lack of proper management and handling of disasters. If I may speak on a personal level, last year we lost many livestock in Kajiado County. My nuclear family lost more than 50 cows, goats and sheep. It is very expensive to recover from that. We ended up losing so much because of the drought. During the drought, we spent a lot in buying hay and looking for water for the livestock. Immediately after the droughts, we suffered the floods. Even the restocking programme that the county tried to come up with did not materialize. There were complaints all over as they tried to restock and even buy the frail animals that were suffering from malnutrition at throwaway prices. The other day, I heard that those who gave their animals to the Kenya Meat Commission (KMC) have not been paid to date. They tried to salvage the little they had by selling the cows to the KMC, which is on its deathbed. The restocking programme did not take off and if it did, it was of very little significance. Mr. Temporary Speaker, Sir, we should not wait until disaster strikes. We should not wait until the drought hits us hard or there is a fire and we are unable to control it. We should not wait until we lose people in collapsed buildings and then we cry about it. It is time that we had a strategy, not just to talk about financing, but what the finances will do. The finances should mitigate these disasters. In terms of financing, I am sure that there is a policy. All we need to do is finance and implement the intentions of that policy. When we visited Tana River County with the Committee on National Security, Defence and Foreign Relations, there were a lot of floods and people's homes had been swept away. Schools and homes were flooded and swept away by raging flood waters. People were crying and there was no food. The county government and security apparatus were all running around, trying to distribute food since people could not reach the shopping centres because of the floods. Even if one did, the supplies were not there. Mr. Temporary Speaker, Sir, we found them distributing food. We should not just wait until too late in the day without that strategy that will enable us to have food when there is need for it. In fact, we were wondering why we were not flying choppers to drop food when we knew there would be floods and there was a transport problem. The trucks were stuck and could not reach the destination to supply food leading to a shortage where the floods had affected the people. We kept asking, \"Did we not know there could have been a chance that we were going to have floods?\" If we knew so, how come we did not provide for a chopper that could drop food for purposes of saving the lives of the people that were suffering? How"
     },
     {
-      "order": 467,
+      "order": 469,
       "id": "entry-838313-split-selected-48ce3391-ab52-4b18-809e-0b673be5a944",
       "label": "deleted",
       "level": "3",
@@ -5607,7 +5631,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 468,
+      "order": 470,
       "id": "entry-838313-split-after-a5259ecb-87f7-4814-a3b7-6f37fe18983e",
       "label": "speech",
       "level": "3",
@@ -5619,7 +5643,7 @@
       "text": "come we waited until the last day and then said that we were taking relief food to Tana River County, when we knew that most of the areas there would be so flooded that trucks would not reach their destinations? Mr. Temporary Speaker, Sir, we need to have this strategy to finance each and every activity right from preventive, rescue, medical, relief measures and finally, when we have to distribute the food. Most likely we will have prepared but once in a while we might not be able to be fully prepared in a lot of areas. There is a chain of activities that need to be undertaken when we know we are going to have disaster striking. We keep saying that disasters will never give us a warning. Sometimes we have these warnings like the Meteorological Department indicated that we will have above normal rainfall towards November and December in certain areas. If we know that, then we are aware that somehow we might have problems with floods, a lot of infrastructural destruction and our roads will not be passable. What are we doing? Do we have enough finances and interventions? Have we financed those interventions or are we waiting for the Kenya Red Cross Society (KRCS) to always rush and then we go in after them? Mr. Temporary Speaker, Sir, we have observed that most of the times we have a disaster, it is normally the mwananchi passing by that is first to reach the scene, secondly the KRCS and thirdly the Government. Where is this Government that is always late in terms of rescuing the people when they need its intervention most? We want to see both the county and national governments being the first. We want to see them well coordinated. We also have a problem in terms of how these activities are coordinated. We find the national and county governments and the KRCS each doing something different. We should have a coordinated approach to issues. This can happen if in the first place we have a strategy that is properly implemented, which can only happen if the finances are there. Mr. Temporary Speaker, Sir, this is a good Motion that needs to be supported and implemented. Follow up for purposes of getting a budget and a strategy on how to finance disaster management is another challenge for this Senate after we pass the resolutions in this Motion. Sometimes we wonder, we come up with a lot of resolutions and recommend a lot of things to these Ministries, but how much is being implemented? We need the Committee on Implementation in place to follow up to see that every aspect and recommendation that we pronounce in this House is followed up to the letter, so that implementation is done. Otherwise we might now say that we need a financing mechanism for these disasters then the mechanisms are never drawn and financed. We need to know how it is being done until is done. Mr. Temporary Speaker, Sir, I hope the implementation will be done. I support."
     },
     {
-      "order": 469,
+      "order": 471,
       "id": "entry-838317",
       "label": "speech",
       "level": "3",
@@ -5631,7 +5655,7 @@
       "text": "Let us have Sen. Wetangula. I note he is not in the Chamber. Proceed, Sen. (Dr.) Langat."
     },
     {
-      "order": 470,
+      "order": 472,
       "id": "entry-838318-split-before-06ecc1dd-5a2c-4eea-87b9-8e80c0cbc4ae",
       "label": "speech",
       "level": "3",
@@ -5643,7 +5667,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, forgiving me this opportunity to make my contribution towards this Motion on disaster management. I concur with Members who have spoken before me in the sense that in our country and our counties at large, we are lacking proactive strategies to combat disasters. There are many challenges we have faced in our counties. For instance, this year alone in"
     },
     {
-      "order": 471,
+      "order": 473,
       "id": "entry-838318-split-selected-11f2ca6f-5a17-45f5-a76b-ca9b44475f9a",
       "label": "deleted",
       "level": "3",
@@ -5655,7 +5679,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 472,
+      "order": 474,
       "id": "entry-838318-split-after-e6111f23-543c-4450-b249-a4bf06cb1413",
       "label": "speech",
       "level": "3",
@@ -5667,7 +5691,7 @@
       "text": "Bomet County we had a lot of disasters. A fire razed down a large part of Tenwek Hospital. It took us a long time to manage this disaster because of some simple things that could have been handled beforehand. One of the greatest challenges in our counties in handling disasters is procurement processes. I am sure it is so even in our counties. For example, in my county, it has taken around nine months for the fire-fighting engine to be procured. Procurement policies must be reviewed to make sure that items required for emergency purposes are procured faster than the processes that are being currently followed. Mr. Temporary Speaker, Sir, the other challenge we have that causes minor disasters to become serious in the long run is failure by the Government departments to do regular inspection, for example, on electrification of the houses and electrical gadgets. We see some cables have been damaged by rats and in the end, this causes a lot of fire outbreaks that become great disasters. Others are caused by negligence, ignorance and failure to follow up even on the regulations that have been given by respective organisations. It is interesting that an organisation like the KRCS is doing better than the county and the national Governments. We need to collaborate more with the KRCS so that we are able to work together towards fighting these disasters. Disasters in our country and the policy framework around this have not been addressed effectively. This Senate has a role to play in coming up with policy frameworks that will guide our country and our counties in fighting these disasters. Mr. Temporary Speaker, Sir, I support this Motion in order to overcome disasters in our country. I thank you."
     },
     {
-      "order": 473,
+      "order": 475,
       "id": "entry-838322",
       "label": "speech",
       "level": "3",
@@ -5679,7 +5703,7 @@
       "text": "Hon. Senators, there are no more requests. I, therefore, defer the reply to the Motion to tomorrow."
     },
     {
-      "order": 474,
+      "order": 476,
       "id": "entry-838323",
       "label": "scene",
       "level": "3",
@@ -5691,7 +5715,7 @@
       "text": "(Reply to the Motion deferred)"
     },
     {
-      "order": 475,
+      "order": 477,
       "id": "entry-838324",
       "label": "speech",
       "level": "3",
@@ -5703,7 +5727,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 476,
+      "order": 478,
       "id": "entry-838325",
       "label": "heading",
       "level": "1",
@@ -5715,7 +5739,7 @@
       "text": "MOTION"
     },
     {
-      "order": 477,
+      "order": 479,
       "id": "entry-838326-split-before-cdf4fbcb-0b11-450f-9582-770f21bd08e0-split-selected-85c3c5e9-d6f4-4b6c-b131-6c59a952512c",
       "label": "heading",
       "level": "3",
@@ -5727,7 +5751,7 @@
       "text": "IMPROVEMENT OF KENYA'S RANKING IN WORLD TRAVEL AND TOURISM COMPETITIVENESS INDEX"
     },
     {
-      "order": 478,
+      "order": 480,
       "id": "entry-838326-split-before-cdf4fbcb-0b11-450f-9582-770f21bd08e0-split-after-5afcff6d-7554-4fa2-86fc-2eea3030d38b",
       "label": "speech",
       "level": "3",
@@ -5739,7 +5763,7 @@
       "text": "THAT, AWARE that the Ministry of Tourism has developed and published the Kenya National Tourism Blueprint 2030 in May 2017; FURTHER AWARE that Kenya Tourism Agenda 2018-2022, launched in April 2018, establishes the foundation for the National Tourism Blueprint 2030 and is the tool for initiating the components of the Blue Print; ALSO AWARE that the contribution of travel and tourism to Kenyan GDP stood at 9.7 per cent in 2017, up from the 9.3 per cent previous year;"
     },
     {
-      "order": 479,
+      "order": 481,
       "id": "entry-838326-split-selected-e4f30fd0-36fa-4564-bdad-578d101e3d9f",
       "label": "deleted",
       "level": "3",
@@ -5751,7 +5775,7 @@
       "text": "The electronic version of the Senate Hansard Report is for information purposes"
     },
     {
-      "order": 480,
+      "order": 482,
       "id": "entry-838327",
       "label": "deleted",
       "level": "3",
@@ -5763,7 +5787,7 @@
       "text": "only. A certified version of this Report can be obtained from the Hansard Editor, Senate."
     },
     {
-      "order": 481,
+      "order": 483,
       "id": "entry-838329",
       "label": "speech",
       "level": "3",
@@ -5775,7 +5799,7 @@
       "text": "COGNIZANT that in the next 10 years every industry will be changed by technology; ALSO AWARE that Kenya Tourism Board has partnered with Google, Safaricom, Kenya Wildlife Service and Tourism Finance Corporation to create new digital content for local tourism; CONCERNED that Kenya tourism industry's potential is underutilized; AWARE that Kenya's position in World Economic Forum's Travel &amp; Tourism Competitiveness Index Ranking is 80 out of 136 in 2017, having improved by two points from 2015, while having currently the lowest score in cultural resources and business travel with 1.6 points out of 7; FURTHER CONCERNED that majority of the solutions proposed by the tourism agenda are brick and mortar type and not addressing the trends; noting that in less than two years, the share of online booking globally has grown from 9 per cent to almost 33 per cent and the lucrative and fast-growing segment of business tourism; ALSO CONCERNED that Kenya will continue to attract only beach and park type tourists ignoring the large number of conference and business travelers, who largely never leave Nairobi and are offered minimal exposure to Kenya; NOW THEREFORE, the Senate calls upon the Ministry of Tourism to approach tourism sector with modern innovation and implement tangible, measurable and impactful solutions, resulting in improvement of Kenya's ranking in the World Economic Forum Travel &amp; Tourism Competitiveness Index 2019 by 6 positions and improve the lowest score of cultural resources and business travel by 1 point."
     },
     {
-      "order": 482,
+      "order": 484,
       "id": "entry-838330",
       "label": "speech",
       "level": "3",
@@ -5787,7 +5811,7 @@
       "text": "Hon. Senators, I defer Order No.19 to tomorrow."
     },
     {
-      "order": 483,
+      "order": 485,
       "id": "entry-838331",
       "label": "scene",
       "level": "3",
@@ -5799,7 +5823,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 484,
+      "order": 486,
       "id": "entry-838332-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -5811,7 +5835,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 485,
+      "order": 487,
       "id": "entry-838332-split-before-60ec08e1-bd2f-48fc-8c96-c6111d099293",
       "label": "speech",
       "level": "1",
@@ -5823,7 +5847,7 @@
       "text": "Hon. Senators, having concluded the Business on the Order Paper, the Senate, therefore, stands adjourned until tomorrow, Thursday, 4th October, 2018 at 2.30 p.m. The Senate rose at 5.42 p.m."
     },
     {
-      "order": 486,
+      "order": 488,
       "id": "entry-838332-split-selected-83bff018-8bf8-4222-ae08-0c894a019b1c",
       "label": "deleted",
       "level": "1",

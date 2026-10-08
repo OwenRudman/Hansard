@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2022-03-02-14-30-00",
-  "exported_at": "2026-10-05T08:11:23.898Z",
+  "exported_at": "2026-10-08T21:36:40.004Z",
   "entries": [
     {
       "order": 1,
@@ -1000,7 +1000,7 @@
     },
     {
       "order": 84,
-      "id": "entry-1163633",
+      "id": "entry-1163633-split-before-758a0b22-8083-4ff6-a6a9-56980cdd3ec9",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -1008,10 +1008,34 @@
       "speaker": "John Kinyua Nderitu",
       "speaker_title": "(The Temporary Speaker)",
       "reviewed": true,
-      "text": "Thank you, Sen. Wario. We commit that Statement to the Committee on Tourism, Trade and Industrialization. ( The Statement was committed to the Committee on Tourism, Trade and Industrialization) Next Statement by Sen. Kasanga."
+      "text": "Thank you, Sen. Wario. We commit that Statement to the Committee on Tourism, Trade and Industrialization."
     },
     {
       "order": 85,
+      "id": "entry-1163633-split-selected-dfd5331a-dcdf-4f9e-8a9f-2e015eb58edb",
+      "label": "scene",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( The Statement was committed to the Committee on Tourism, Trade and Industrialization)"
+    },
+    {
+      "order": 86,
+      "id": "entry-1163633-split-after-31907db6-f192-4800-8508-f21b839536bc",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "John Kinyua Nderitu",
+      "speaker_title": "(The Temporary Speaker)",
+      "reviewed": true,
+      "text": "Next Statement by Sen. Kasanga."
+    },
+    {
+      "order": 87,
       "id": "entry-1163636",
       "label": "heading",
       "level": "2",
@@ -1023,7 +1047,7 @@
       "text": "LACK OF STAKEHOLDERS ENGAGEMENT IN THE DEVELOPMENT OF THE KENYA STANDARDS ON MANAGEMENT OF PERSONS WITH SUBSTANCE ABUSE DISORDERS"
     },
     {
-      "order": 86,
+      "order": 88,
       "id": "entry-1163638",
       "label": "speech",
       "level": "2",
@@ -1035,7 +1059,7 @@
       "text": "Mr. Temporary Speaker, Sir, if you will just indulge me a little to give a bit of background to my Statement, I will just take a minute. This came to my attention from some of the stakeholders who work closely with National Authority for the Campaign Against Alcohol and Drug Abuse (NACADA). The Statement today refers to standards for care that were created by NACADA, and they had two sets of standards. They had standards that were created in 2009 and they developed minimum standards of care. They did this with the proper consultation with industry players. They incorporated several process points that ensured adequate public participation had been done in the creation of those standards. Mr. Temporary Speaker, Sir, it looks like those standards were revised in 2021 and there is no enough proof to suggest that there was adequate public participation that was undertaken in creation of these new standards. We have said it over and above in this House that public participation is not a privilege. It is a significant part of the process that happens as per our Constitution and because of this, I raise this Statement. Mr. Temporary Speaker, Sir, I rise pursuant to Standing Order 48 (1) to seek a Statement from the Standing Committee on Health regarding the alleged lack of engagement of stakeholders in the development of the Kenya standards on management of persons with substance use disorders by the National Authority for the Campaign Against Alcohol and Drug Abuse(NACADA). In the Statement, the Committee should address the following - (1) Explain the process that was followed during the development of the Kenya Standards on Management of Persons with Substance Use Disorders. (2) Provide details of the people and the organizations involved as stakeholders, as outlined in Section 5 of the National Authority for Campaign Against Alcohol and Drug Abuse Act, and whether the said organizations are qualified to develop the standards. (3) Explain why the Rehab Owners Association, the International Society of Substance Use Prevention and Treatment Professionals (Kenya) (ISSUP) (International), Addiction Prevention and Recovery Association of Kenya, among other professionals who are the main groups affected by these standards, were allegedly not involved or informed of the developments of the standards."
     },
     {
-      "order": 87,
+      "order": 89,
       "id": "entry-1163639",
       "label": "speech",
       "level": "2",
@@ -1047,7 +1071,7 @@
       "text": "Proceed, Sen. (Dr.) Musuruve."
     },
     {
-      "order": 88,
+      "order": 90,
       "id": "entry-1163640",
       "label": "speech",
       "level": "2",
@@ -1059,7 +1083,7 @@
       "text": "Mr. Temporary Speaker, Sir, I stand to support the Statement by Sen. Kasanga on public participation on the review of substance abusive by stakeholders. Public participation is very important. It is a mandatory requirement that is even enshrined in our Constitution. We see people abusing substances live in our media stations. Sometimes adverts are played when children are watching. They see people drinking and smoking. There are also other foreign movies that seem to support substance abuse. There is need for all stakeholders to be brought on board. Even parents and teachers are great stakeholders when it comes to public participation. Psychologists and medics are equally important. The essence of public participation is to have an enriching environment where policies, Bills and all that is being fronted is enriched to be better for the citizens. When it comes to substance abuse, addiction is really rife. There are people, especially the youth who get addicted to some substances. Once they are addicted, they become inactive and stop being productive members of the society. So, this concern by Sen. Kasanga should not be taken for granted. It is a concern that should be taken to the relevant Committee, so that the review is done afresh and key stakeholders participate. I support Sen. Kasanga because most of our youth who abuse drugs walk shabbily. They are not able to do anything and eventually end up being mentally affected. Sen. Kasanga has also talked about mental being. Sometimes it is brought about because of addiction to drugs. We have to arrest the situation by ensuring that public participation is done by all stakeholders, so that we come up with a review that is accredited and can stand the test of time."
     },
     {
-      "order": 89,
+      "order": 91,
       "id": "entry-1163643",
       "label": "speech",
       "level": "2",
@@ -1071,7 +1095,7 @@
       "text": "Asante, Bw. Spika wa Muda, kwa kunipa nafasi. Naunga mkono Taarifa ya Sen. Kasanga. Kwa kweli, uraibu wa vitu vya kisasa, hasa na vijana, umekuwa changamoto katika jamii. Kuna uraibu wa aina mbali mbali. Mara nyingi watu huwa na uraibu wa pombe na mambo mengine kadha wa kadha. Jamii ya kesho, ambayo ni vijana wa leo, ina kasumba ya ulevi na uraibu wa vitu tofauti tofauti. Kwa hakika, vijana hao ni wazembe kwa sababu ya ulevi na uraibu wa vitu vingine. Iwapo jambo hili halitaangaliwa kwa kina ili kukomesha vijana kutokana na uraibu wa vitu tofauti tofauti, basi siku zijazo tutakuwa na jamii ambayo haitafanya kazi na utendakazi utakuwa wa chini sana. Kenya itajaa watu wazembe; watu ambao hawatafanya kazi ili kuzalisha mazao mashambani. Bw. Spika wa Muda, ifahamike kuwa wafugaji pia wameanza kuwa na uzembe. Ufugaji ambayo wewe na mimi tunafanya hauwezi kufanya na vijana wa sasa kwa sababu ya ulevi na uraibu wa vitu tofauti tofauti. Taarifa hii inafaa ishughulikiwe na Kamati ili ijadiliwe kwa kina. Wanafaa kuangalia nini kinawezafanywa ili kukomesha uraibu ambao vijana wameingilia. Ukienda katika Mwambao wa Pwani, utakuta watu wameingia katika biashara mbaya ya vitu vya kutoka nje. Vile vile, kuna watu ambao wamejitayarisha kutokana na kuuza mihadarati kwa vijana wetu. Kwa hivyo, kuwafanya kuwa wazembe kwa sababu ya ulevi na uraibu wa dawa za kulevya. Kwa kiingereza, inajulikana kama substanceabuse . Endapo hali hii itaendelea, tutakuwa na jamii ya watu wazembe kwa sababu ya ulevi. Hatutakuwa na utendakazi mzuri. Watu hawatafanya kazi mashambani na hatutakuwa na ufugaji na biashara. Watu watakuwa wakikaa chini ya miti kungojea mambo yatendeke kimiujiza. Hiyo haitawezekana isipokuwa kuwa na watendakazi humu nchini na duniani. Naunga mkono."
     },
     {
-      "order": 90,
+      "order": 92,
       "id": "entry-1163644",
       "label": "speech",
       "level": "2",
@@ -1083,7 +1107,7 @@
       "text": "Asante, Sen. Wario. Nimesikia ukiwaita Wazembe. Nilidhani utasema kwamba ni wagonjwa kwa sababu hawafanyi kazi yoyote bali wanategemea wengine. Sen. Cherargei, do you want to request a Statement or comment?"
     },
     {
-      "order": 91,
+      "order": 93,
       "id": "entry-1163645",
       "label": "speech",
       "level": "2",
@@ -1095,7 +1119,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for this opportunity. From the outset, I commend Sen. Kasanga for this timely Statement. The biggest threat that we are facing as country is substance abuse among the young people, especially from the coastal region and in most towns. Alcohol and drug abuse continue to be a threat to the present and future generations. Most of the young people are becoming zombies and unproductive at their prime age. That threatens the population growth of this country. It is unfortunate that there is non-engagement of key stakeholders who should assist in rehabilitation. We have heard many stories that many Kenyans have been taken for rehabilitation because of drug and alcohol abuse and they have recovered. Those people should be well catered for. That should be guaranteed and guarded and the law must be followed to the letter. One of the salient features of the Constitution of Kenya, 2010, is public participation. In any organization, be it private or public, public participation is key. Even in your own house, there should be public participation because it is now part of consensus building. When you have an agency that does not involve other stakeholders, that is disappointing, yet we are celebrating the gains of the Constitution and there should be public participation. In any decision you make that affects the public, there must be public participation. When you watch Americans advertising their drugs, they normally tell you what a drug can do. At the end, they tell you the consequences. So, it important at this time when we are struggling with the issue of drug abuse like heroin and cocaine even in this and other major cities in the country. Some of the drug peddlers have infiltrated even villages. People are dying because of drugs. The economy is also affected because when you have a productive age that does not work, you can imagine what happens. We cannot generate wealth as a country. It is said that a healthy nation is a wealthy nation. I hope this matter shall be dealt with by a Committee of the Whole because this is a cross-cutting issue that is affecting everybody. It is affecting Senators from all counties. The issues Sen. Kasanga has raised need proper attention. We hope that the Committee that this Statement will be directed to - I do not know whether it will be the Committee on Justice, Legal Affairs and Human Rights or the Committee on Health - this matter should be addressed because it is part of mental health. I want to thank Sen. Kasanga because she has been a champion and has distinguished herself in this House. When the history of this House will be written, one name will feature prominently in issues of mental health. That will be the name of Sen. Kasanga. The President should give her a commendation. We should not be awarding people because of political expediency. We should award people who have stood up and highlighted mental health issues. Sen. Kasanga should also thank me because when I was the Chairperson of the Committee on Justice, Legal Affairs and Human Rights, one of the Bills that we moved to court to protect was the Mental Health Bill. I should also receive some acclamation for participating and midwifing the process. I thank you."
     },
     {
-      "order": 92,
+      "order": 94,
       "id": "entry-1163649",
       "label": "speech",
       "level": "2",
@@ -1107,7 +1131,7 @@
       "text": "Thank you, Sen. Cherargei. Stop blowing your trumpet, let somebody else do it for you. The Statement stands committed to the Committee on Health."
     },
     {
-      "order": 93,
+      "order": 95,
       "id": "entry-1163650",
       "label": "scene",
       "level": "2",
@@ -1119,7 +1143,7 @@
       "text": "(The Statement was committed to the Committee on Heath)"
     },
     {
-      "order": 94,
+      "order": 96,
       "id": "entry-1163651",
       "label": "speech",
       "level": "2",
@@ -1131,7 +1155,7 @@
       "text": "Next Statement is by Sen. Cherargei."
     },
     {
-      "order": 95,
+      "order": 97,
       "id": "entry-1163652",
       "label": "heading",
       "level": "2",
@@ -1143,7 +1167,7 @@
       "text": "INCREASE IN THE COST OF CONSTRUCTION OF THE NAIROBI EXPRESSWAY"
     },
     {
-      "order": 96,
+      "order": 98,
       "id": "entry-1163653",
       "label": "speech",
       "level": "2",
@@ -1155,7 +1179,7 @@
       "text": "Mr. Temporary Speaker, Sir, I rise pursuant to Standing Order 48 (1) to seek a Statement from the Committee on Roads and Transportation on the increase in the cost of construction of the Nairobi Expressway. In the Statement, the Committee should- (1) State why the cost of construction for Nairobi expressway is now projected to be Kshs72.8 billion which is higher by Kshs7.6 billion than the initial cost of Ksh65.2 billion stated by Kenya National Highways Authority (KENHA). (2) Provide the reasons for the conflicting figures for the construction provided by China Communications Construction Company (CCCC), the parent firm to China Road and Bridge Construction revealed while undertaking its regulatory filing while KeNHA stated a much lesser amount. (3) Clarify whether the contract had escalation costs, stating the amount projected for escalation and variations on the construction of this Expressway. (4) Provide a clear timeline of project completion given that the Cabinet Secretary for Transport, Infrastructure, Housing, Urban Development and Public Works had indicated that the project would be completed by December, 2021. It should have been completed last year that is 2021. In view of the effect of the project on businesses - many businesses have been disrupted while this Expressway is under construction, especially along Mombasa road due to the serious traffic jam. There have been cases where people have stayed in the Mombasa Road traffic jam up to 2.00 a.m. (5) Finally, provide a comprehensive report on cost variations in all road construction projects under KeNHA from 2018 to date stating the amounts in variations. I thank you."
     },
     {
-      "order": 97,
+      "order": 99,
       "id": "entry-1163654",
       "label": "speech",
       "level": "2",
@@ -1167,7 +1191,7 @@
       "text": "Asante, Bw. Spika wa Muda, kwa kunipa fursa hii. Wakenya wengi wako gizani na wanataka kujua mwelekeo wa ujenzi wa hii Expressway. Hii Expressway ambayo imejengwa kutoka huko uwanja wa ndege wa JKIA na kupita hapa nyuma ya Bunge ndio barabara ninayotumia nikitoka nyumbani kwangu. Wakenya wengi wanauliza kuhusu ujenzi wa hii Expressway. Kwa lugha ya Kiswahili express inamaanisha kupita moja kwa moja bila kusimama. Najua Bw. Spika wa Muda ni Mswahili na anaweza kufafanua vizuri haya mambo ya Expressway. Hii Expressway ilikuwa ikamilike Desemba mwaka jana na itumike lakini mpaka leo tunaona bado watu wanaendelea kuijenga. Nadhani huu mradi ni wa Wachina. Tungetaka kujua kutoka kwa Kamati tekelezi; pesa iliongezwa kwa sababu gani? Pili, tulielezwa kuwa Desemba kazi hii itakuwa imeisha na bado haijaisha. Inaonekana hata hii Desemba ijayo hii kazi haitakuwa imekamilika. Tulitaka matunda ya Rais Uhuru, kuja kutuonyesha magari ikipita juu. Ile kazi inayoendelea sio mbaya; ni nzuri. Ni kama hiyo barabara imepata gorofa. Watu wanatembea chini ya gorofa lakini huko juu utendekazi na usafiri hujaanza. Wanakenya wengi wako katika giza, hawajui wakati barabara itaanza kutumiwa. Wengine wanasema kuna majumba yamejengwa ya kulipia pesa pale mbele. Sasa wanaulizana kama watatembea juu kwa Expressway ama chini. Haijulikani ni Wakenya wagani wataenda juu kwa malipo na wagani watatumia chini. Tunataka ufafanuzi kwa kina, vile Waingereza wanasema 'in black and white'. Waweze kujua kama kweli Wakenya watakanyaga kule juu. Pesa ni ngapi italipwa kupitia kule juu? Na kama huna utafanya nini? Kazi ya ujenzi itakamilika lini? Isiwe ikawa Rais Uhuru Kenyatta amefanya kazi mzuri na hawezi launch ile kazi, ipitwe na wakati na kuzinduliwa na Serikali ijayo. Kama kazi ya ujenzi ingeisha na aizindue, kama vile Rais Mwai Kibaki alitengeneza Thika Superhighway na mpaka leo tukiitumia tunamkumbuka popote pale alipo. Na hakuna pesa unatozwa ukiwa unatumia barabara ile. Nimesikia tayari Wachina wanatengeneza vioski vya kulipa pesa ukitumia\n\nExpressway.\n\nSen. Cherargei, amefanya research yake na kujua pesa imetoka mahali fulani na kuongezwa. Waziri akuje kwenye makao ya Kamati na kutueleza kinaga ubaga ni vipi hadi pesa ikaongezeka nani kwa sababu gani? Barabara hii itaisha lini ili tuweze kuisheherekea? Naunga Sen. Cherargei katika hii Kauli ametoa. Asante, Bw. Spika wa Muda kwa kunipa nafasi."
     },
     {
-      "order": 98,
+      "order": 100,
       "id": "entry-1163659",
       "label": "speech",
       "level": "2",
@@ -1179,7 +1203,7 @@
       "text": "Asante, Sen. Wario. Kile ambacho nimesikia ukisema ni kwamba mimi naelewa Kiswahili. Nilijua ulitaka kusema ya kwamba nitasema barabara ni ya moja kwa moja. Hukusema kwamba mimi najua mambo zaidi kuhusu ile barabara; najua ulitaka niseme barabara ile ni ya moja kwa moja. Hon Senators, we do not have quorum to execute Order Nos 8, 9, 10, 11, 12, 13, 14, 15 and 16. I, therefore, defer them."
     },
     {
-      "order": 99,
+      "order": 101,
       "id": "entry-1163660",
       "label": "heading",
       "level": "1",
@@ -1191,7 +1215,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 100,
+      "order": 102,
       "id": "entry-1163662",
       "label": "heading",
       "level": "3",
@@ -1203,7 +1227,7 @@
       "text": "THE LANDLORD AND TENANT BILL (NATIONAL ASSEMBLY BILLS NO. 3 OF 2021)"
     },
     {
-      "order": 101,
+      "order": 103,
       "id": "entry-1163663",
       "label": "scene",
       "level": "3",
@@ -1215,7 +1239,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 102,
+      "order": 104,
       "id": "entry-1163664",
       "label": "heading",
       "level": "1",
@@ -1227,7 +1251,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 103,
+      "order": 105,
       "id": "entry-1163666",
       "label": "heading",
       "level": "3",
@@ -1239,7 +1263,7 @@
       "text": "THE LIFESTYLE AUDIT BILL"
     },
     {
-      "order": 104,
+      "order": 106,
       "id": "entry-1163668",
       "label": "scene",
       "level": "3",
@@ -1251,7 +1275,7 @@
       "text": "(SENATE BILLS NO. 36 OF 2021)"
     },
     {
-      "order": 105,
+      "order": 107,
       "id": "entry-1163669",
       "label": "scene",
       "level": "3",
@@ -1263,7 +1287,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 106,
+      "order": 108,
       "id": "entry-1163670",
       "label": "heading",
       "level": "1",
@@ -1275,7 +1299,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 107,
+      "order": 109,
       "id": "entry-1163671",
       "label": "heading",
       "level": "2",
@@ -1287,7 +1311,7 @@
       "text": "THE LAW OF SUCCESSION (AMENDMENT) BILL, (SENATE BILLS NO. 15 OF 2021)"
     },
     {
-      "order": 108,
+      "order": 110,
       "id": "entry-1163672",
       "label": "scene",
       "level": "2",
@@ -1299,7 +1323,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 109,
+      "order": 111,
       "id": "entry-1163673",
       "label": "heading",
       "level": "1",
@@ -1311,7 +1335,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 110,
+      "order": 112,
       "id": "entry-1163674",
       "label": "heading",
       "level": "2",
@@ -1323,7 +1347,7 @@
       "text": "THE PRESERVATION OF HUMAN DIGNITY AND PROTECTION OF ECONOMIC AND SOCIAL RIGHTS BILL (SENATE BILLS NO. 21 OF 2021)"
     },
     {
-      "order": 111,
+      "order": 113,
       "id": "entry-1163675",
       "label": "scene",
       "level": "2",
@@ -1335,7 +1359,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 112,
+      "order": 114,
       "id": "entry-1163676",
       "label": "heading",
       "level": "1",
@@ -1347,7 +1371,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 113,
+      "order": 115,
       "id": "entry-1163677",
       "label": "heading",
       "level": "2",
@@ -1359,7 +1383,7 @@
       "text": "THE SPECIAL NEEDS EDUCATION BILL (SENATE BILLS NO. 44 OF 2021)"
     },
     {
-      "order": 114,
+      "order": 116,
       "id": "entry-1163678",
       "label": "scene",
       "level": "2",
@@ -1371,7 +1395,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 115,
+      "order": 117,
       "id": "entry-1163679",
       "label": "heading",
       "level": "1",
@@ -1383,7 +1407,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 116,
+      "order": 118,
       "id": "entry-1163680",
       "label": "heading",
       "level": "2",
@@ -1395,7 +1419,7 @@
       "text": "THE ELECTIONS (AMENDMENT) (NO. 3) BILL (SENATE BILLS NO. 48 OF 2021)"
     },
     {
-      "order": 117,
+      "order": 119,
       "id": "entry-1163681",
       "label": "scene",
       "level": "2",
@@ -1407,7 +1431,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 118,
+      "order": 120,
       "id": "entry-1163682",
       "label": "heading",
       "level": "1",
@@ -1419,7 +1443,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 119,
+      "order": 121,
       "id": "entry-1163683",
       "label": "heading",
       "level": "2",
@@ -1431,7 +1455,7 @@
       "text": "THE COUNTY RESOURCE DEVELOPMENT BILL (SENATE BILLS NO. 45 OF 2021)"
     },
     {
-      "order": 120,
+      "order": 122,
       "id": "entry-1163684",
       "label": "scene",
       "level": "2",
@@ -1443,7 +1467,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 121,
+      "order": 123,
       "id": "entry-1163685",
       "label": "heading",
       "level": "1",
@@ -1455,7 +1479,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 122,
+      "order": 124,
       "id": "entry-1163687",
       "label": "heading",
       "level": "3",
@@ -1467,7 +1491,7 @@
       "text": "THE ELECTION (AMENDMENT) (NO.2) BILL (SENATE BILLS NO. 43 OF 2021)"
     },
     {
-      "order": 123,
+      "order": 125,
       "id": "entry-1163689",
       "label": "scene",
       "level": "3",
@@ -1479,7 +1503,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 124,
+      "order": 126,
       "id": "entry-1163690",
       "label": "heading",
       "level": "1",
@@ -1491,7 +1515,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 125,
+      "order": 127,
       "id": "entry-1163692",
       "label": "heading",
       "level": "3",
@@ -1503,7 +1527,7 @@
       "text": "THE ELECTION CAMPAIGN FINANCING (AMENDMENT) BILL (SENATE BILLS NO. 51 OF 2021)"
     },
     {
-      "order": 126,
+      "order": 128,
       "id": "entry-1163693",
       "label": "scene",
       "level": "3",
@@ -1515,7 +1539,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 127,
+      "order": 129,
       "id": "entry-1163694",
       "label": "speech",
       "level": "3",
@@ -1527,7 +1551,7 @@
       "text": "Next order."
     },
     {
-      "order": 128,
+      "order": 130,
       "id": "entry-1163695",
       "label": "heading",
       "level": "1",
@@ -1539,7 +1563,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 129,
+      "order": 131,
       "id": "entry-1163696",
       "label": "heading",
       "level": "3",
@@ -1551,7 +1575,7 @@
       "text": "RECOGNIZING AND APPRECIATING THE ELDERLY BY COUNTY GOVERNMENTS"
     },
     {
-      "order": 130,
+      "order": 132,
       "id": "entry-1163697",
       "label": "speech",
       "level": "3",
@@ -1563,7 +1587,7 @@
       "text": "THAT, AWARE that in 2006, the National Government initiated the Older Persons Cash Transfer (OPCT) Programme, popularly known as Pesa ya Wazee, which is an unconditional cash transfer programme to destitute elderly persons above the age of 65 years to cater for their subsistence needs; NOTING THAT the beneficiaries receive a monthly stipend of Kshs. 2,000, delivered every two months through appointed payment agents, and also entitled to medical insurance through the National Health Insurance Fund (NHIF); CONCERNED HOWEVER THAT the programme's credibility is marred by issues of delayed payments to beneficiaries, difficulties in processing of payments through the stipulated agents and payments to unregistered persons;"
     },
     {
-      "order": 131,
+      "order": 133,
       "id": "entry-1163698",
       "label": "speech",
       "level": "3",
@@ -1575,7 +1599,7 @@
       "text": "NOW THEREFORE, the Senate recommends that the County Governments complement the efforts of the National Government and assist in resolving these challenges by- (i) Developing legislation and policies to protect the elderly including ensuring all elderly persons in their counties are registered in the OPCT programme; and (ii) Organise value addition mechanisms such as financial training to help the beneficiaries of the programme to efficiently utilize this allowance."
     },
     {
-      "order": 132,
+      "order": 134,
       "id": "entry-1163699",
       "label": "scene",
       "level": "3",
@@ -1587,7 +1611,7 @@
       "text": "(Sen. Nyamunga on 02.03.22)"
     },
     {
-      "order": 133,
+      "order": 135,
       "id": "entry-1163700",
       "label": "scene",
       "level": "3",
@@ -1599,7 +1623,7 @@
       "text": "(Resumption of Debate interrupted on 02.03.2022 - Morning Sitting)"
     },
     {
-      "order": 134,
+      "order": 136,
       "id": "entry-1163702",
       "label": "speech",
       "level": "3",
@@ -1611,7 +1635,7 @@
       "text": "Sen. Mwaruma is online and he had a balance of 11 minutes. Sen. Mwaruma, unatusikia ? Twakusikiza, unaweza kulivalia swala njuga.Wakati Sen. Mwaruma anapojaribu kutafuta pahali pazuri ndiposa tuweze kumsikiza kwa njia shwari, nitamwita Sen. Cherargei,"
     },
     {
-      "order": 135,
+      "order": 137,
       "id": "entry-1163704",
       "label": "speech",
       "level": "3",
@@ -1623,7 +1647,7 @@
       "text": "Mr. Temporary Speaker, Sir, I rise to support the Motion on Recognizing and Appreciating the Elderly by County Governments. As the House that protects devolution, we need to protect our elderly. Any society that does not appreciate the elderly is a society that is doomed for failure. Most of this elderly people gave their youthful years building, sacrificing and working for this nation. They have laid the foundation. It is a high time we must appreciate them as a nation. Whenever I am in Nandi, I meet retired civil servants be it teachers or farmers. Life has given them a beating because they are old and cannot walk. They rely on their children. However, the children sometimes do not have jobs because of the high rate of unemployment. They cannot maintain their parents. One of the challenges that affects the elderly in the society is majorly health issues. Some of them have terminal illnesses and diseases because of old age. Secondly, it is also because of food and shelter. When you visit some of those homes, you will find that these old grandfathers and grandmothers do not have anybody to support them. They need to buy medicine and food to sustain themselves as Kenyans. These are the people who gave their best years to the nation. What we are doing is their right under the Constitution. One of the celebrated features of the Kenyan Constitution of 2010 is recognition of the rights of old people. What Sen. Nyamunga is trying to do is just to call upon county governments. I would have expected that in their wisdom, county governments should have started these programmes. The national Government started this programme, Pesa kwa Wazee since 2006. They however still have gray areas. I remember there is a Statement that we brought here to question why only specific banks were being used? The question was, why would you use a bank to pay Kshs2,000? Another question that we sought tin this House is why that money could not be disbursed to them through their M-Pesa lines? The third question that we asked then was how we can become efficient in terms of ensuring that the right people get those funds? The fourth issue that must be addressed here is the registration process. In Nandi County, we are sometimes told by the chiefs, Deputy County Commissioners (DCC) and many others that the registration process will begin soon. Our elderly are yet to be registered. Our representatives of the national Government do not know where to register and how it is being done. In as much as it has gray areas, that money has assisted some population of the elderly to access some of these basic services such as health, food and shelter even though it may not be enough. County governments should supplement what the national Government is doing. It is their role. I was somewhere in Nandi County called Chebyoyet, Kamongei and Sosiat - a border that we share with Kakamega County. Whenever a Mzee stands in a public baraza, the question that they will ask is about the funds for the elderly. They say, 'We hear that there is money for wazee? Where is it? How do we register? How do we process?\" The elderly who receive pension are not part of those that have been captured in this Motion. In the wisdom of the sponsor of the Motion, it is upon us to support and ask the county assemblies to tailor make their own legislations and policies when they are doing budgetary allocations. We have witnessed situations where governors spend extravagantly to buy fuel, newspapers, flowers, mandazi and chai in their offices. If we can cut on those expenses, we can support our elderly. You get a governor having a fleet of vehicles that consume a lot of fuel. What is the need for that if we can allow that money to be used for such novel issues? I celebrate many Kenyans, the Catholic church, a number of religious organizations, private individuals and organizations who have started programmes to assist the elderly. We need to celebrate them because there is nothing worse than to be an elderly, alone, sick and without food yet they have given their best years for the development and creation of the wealth and foundation of this Republic. Apart from creating a cash transfer programme, we also need to relook into the issue of housing in this legislation. I hope that we can make these resolutions. How can we ensure that the elderly have decent housing? The third point is on how to create homecare services, especially in health. Some of these old people cannot use motorbikes. You will find an old person travelling all the way from Kilibwoni and wants to travel to Kapsabet to access medical care which is kilometers away yet they are old, tired and sick. The county governments should enhance a vibrant homecare services. I do not think it is expensive. For example, we have 30 Wards in Nandi County. It will be very cheap if we recruit at least two nurses to do homecare and palliative care to the terminally ill patients. The nurses would check if the elderly are diabetic, have pressure, Cancer or any other form of diseases. They can get a motorbike and hire two nurses per ward. If that happened, Nandi County alone would employ over 60 nurses to take care of the elderly. Those motorbikes will ensure that they go to homes and visit those in homecare. They will also assist in recovery. Mr. Temporary Speaker, diseases are not the only things that kill the elderly. It is about how they are being taken care of. Some of them die because of hunger and not because that they are sick as such. We must have a vibrant homecare process. The fifth point is to ensure that there is access in terms of registration. This is where the Kenya National Bureau of Statistics comes in. The population census of Kenya was done in 2019. The Kenya National Bureau of Statistics should tell us the updated figures. Why would old people complain of cash transfer programmes yet the Kenya National Bureau of Statistics has the statistics? We need to encourage government agencies to share information. If the Ministry of Interior and Coordination of National Government wants information about the old people in the Republic, they should get. I have seen the demographics out there that has been done and it is very easy. When you go to the village, even in Wajir County, the wazee will ask you how they can register. The National Government have the statistics through the Kenya National Bureau of Statistics? They can even tell which part of Laikipia you come from. If it is Marmanet or somewhere else. They can tell how many people there are in any ward. Even if it is in my brother's, Sen. Wario's Tana River County, they can easily tell. Why would you subject the old people through such processes? These are old people. They do not have phones. What shocks me my and neighbor, Sen. Shiyonga, is why old people would be told something like, \" tumewekakwa Whatsapp?\" or that they have put the calls for registration online. What do you mean? It is shocking. How will somebody from Mosoriot, Ndalat, Kabiyet, Tinderet or Kamungei near Western, where she went with my team know about this? I met some Deputy County Commissioner (DCC) and I was shocked and mortified with fear. The Wazees were telling him that they did not hear about registration and he said that they had put it online, and that all Government services are put there. This is okay, but this is a 65 or 70 years old man. How will they access the internet? We need to challenge this and ensure that we assist. The county governments have so much wastage and there is nothing to show for it. I was at a function in Chepterit around Koilot and some wazees stood and asked the governor of Nandi County about the stipends for the elderly in Nandi County, which he had promised when he was campaigning. One of his manifestos was to take care of the elderly in the society, but he has never delivered on the promise. There is money. We see unnecessary privileges and wastage of resources in the county governments. For example, in Nandi County there was a case where we lost cement, nails, tyres and close to Kshs200 million and some of the county staff were allegedly involved, but the governor found it okay. We must be honest and speak the truth to power. That is what we can do as the defenders and protectors of devolution. We fought here. You and I were in the same team saying one man, one vote, one shilling. Money was increased to Laikipia County and to Nandi County by Kshs1.6 billion from Kshs5.3billion. Why would the wazees be complaining in Laikipia, Nandi, Kakamega, Tana River, Wajir or Garrissa counties? This shocks me. In Nandi County we are approaching 900,000 people. I do not think even a quarter of those people are above 65 years old. It cannot even consume close to Kshs30 million or Kshs50 million to give them Kshs3,000 only, so that they can buy Panadol. I was in Kabiyet Sub-County Hospital over the weekend. There are no basic drugs and pain killers such as Panadol. These wazees h ave to go to Kabiyet, Imaki, Lessos, Kaptumo, Kobujoi or Serem centres where we share a border with Vihiga County. They might even need to go to Maraba, Chemase or Mosoriot where I come from yet we increased allocations to counties. There was need for us to fight here for \"one shilling, one man, and one vote\" and then when we add money the governors decide to go for exotic holidays and getaways. They started to build mansions and accumulated ill-gotten wealth. Saa hii as we campaign we tell the wazee \" tupee mate \". The wazee are more relevant now than any other season. You will see politicians inviting wazees \" ati watupee mate\". The same people you cannot give pesa ya wazee yet you are asking them to give you blessings. Kiswahili is a bit complicated kidogo. I have also seen my governor inviting the wazees to give him \" mate \" How can you? It is hypocritical and unfair to the elderly of this nation. Now at every rally you are asking the wazees to come and bless you. Under the United Democratic Alliance (UDA), one of the key pillars of the bottoms up is to take care of the elderly. We will speak to the powers. I have not heard Presidential candidates because they have not launched their manifesto. I hope that when they launch them they will be able to tell us what they will do for the elderly, vulnerable, the innocent and Persons with Disabilities (PwDs). We need to have a targeted approach on how to assist the vulnerable in society. It is good that Sen. (Dr.) Mwaura, the future Member of Parliament of Ruiru is in the House. He understands the unique challenges of the vulnerable in society. The elderly are among the vulnerable. The next point so that I cede ground for other colleagues is that, as we approve this Motion for the elderly, there are these organizations known as community elder groups such as the Njuri Ncheke, Miots or the Nandi Kaburwo elders from where I come from led by Mzee Kitur, the Nyumba ya Kiama, the Kikuyu Council of Elders and also the Luhya Council of Elders. I know they are very active during political seasons. We should also see how we can use those organizations not just for political issues. Mr. Temporary Speaker Sir, for instance, how can we use Miot or the Nandi Council of Elders to reach out to the elderly within Nandi or Laikipia counties where you come from Mr. Temporary Speaker Sir? Even in Kiambu County, which is almost a south city county, there are also the elderly. There are the elderly where Sen. (Dr.) Mwaura comes from. We need to see how we can use these organizations. The seventh point is on how we come up with this Motion to ensure that we create a transfer of cultural values to the next generations. I pray that one day our county governments will build a cultural center and give the wazees stipend. They should call the young people to come sit and listen to the culture, values and stories about who they are. They say if you do not know your past you cannot know your future. Most of the children we are giving birth to today are growing up in towns. It will reach a point where we will build cultural centers and invite the wazees to teach mother tongue to our children. It is not an offence to know your language. It is negative ethnicity that is bad for this country. I know the Chairperson of the Committee on National Cohesion, Equal Opportunity and Regional Integration, Sen. Shiyonga, will be at the forefront now especially as we approach the general elections because we do not want leaders who will cause incitement. When I talk about training on mother tongue it does not mean that we are encouraging negative ethnicity. We need to appreciate our unique nature and we want our children to know. How can we factor in apart from giving cash transfers - I was about to say handouts because I have seen Azimio la Umoja are giving Kshs6,000 handouts. It is about transfer. Apart from giving the wazee cash transfers, can we also make use of them by building cultural centers within the county governments, so that if I want to know about the Kikuyu culture---"
     },
     {
-      "order": 136,
+      "order": 138,
       "id": "entry-1163715",
       "label": "speech",
       "level": "3",
@@ -1635,7 +1659,7 @@
       "text": "What is it Sen. Shiyonga?"
     },
     {
-      "order": 137,
+      "order": 139,
       "id": "entry-1163716",
       "label": "speech",
       "level": "3",
@@ -1647,7 +1671,7 @@
       "text": "Mr. Temporary Speaker, Sen. Cherargei should withdraw what he has said that Azimio la Umoja; our movement, is working on handouts. We are working on a manifesto that will see our people better. The term handouts should be withdrawn. We are not giving handouts; we have various programmes in our manifesto."
     },
     {
-      "order": 138,
+      "order": 140,
       "id": "entry-1163719",
       "label": "speech",
       "level": "3",
@@ -1659,7 +1683,7 @@
       "text": "After the programme, are you not going to handout that money?"
     },
     {
-      "order": 139,
+      "order": 141,
       "id": "entry-1163720",
       "label": "speech",
       "level": "3",
@@ -1671,7 +1695,7 @@
       "text": "Mr. Temporary Speaker, I was just asking Sen. Cherargei to withdraw that statement because it is not a handout. Even if the money is going to be handed out or given, it is not a handout. There is a difference between handout, giving bribes or tokens and giving out money through a programme or a system that is certified by the Government. That is what we intend to do in our manifesto."
     },
     {
-      "order": 140,
+      "order": 142,
       "id": "entry-1163721",
       "label": "speech",
       "level": "3",
@@ -1683,7 +1707,7 @@
       "text": "Everybody has understood. Proceed Sen. Cherargei."
     },
     {
-      "order": 141,
+      "order": 143,
       "id": "entry-1163722",
       "label": "speech",
       "level": "3",
@@ -1695,7 +1719,7 @@
       "text": "Mr. Temporary Speaker, Sir, let me make it better by saying programmes of handouts. I think that is better, so that my sister can be comfortable---"
     },
     {
-      "order": 142,
+      "order": 144,
       "id": "entry-1163723",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1731,7 @@
       "text": "Sen. Cherargei stick to your---"
     },
     {
-      "order": 143,
+      "order": 145,
       "id": "entry-1163724",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1743,7 @@
       "text": "Yes, Mr. Temporary Speaker, Sir. I am sticking to it and coming to the point. I am just developing my---"
     },
     {
-      "order": 144,
+      "order": 146,
       "id": "entry-1163725",
       "label": "speech",
       "level": "3",
@@ -1731,7 +1755,7 @@
       "text": "Kindly forget about it. Stop that."
     },
     {
-      "order": 145,
+      "order": 147,
       "id": "entry-1163726",
       "label": "speech",
       "level": "3",
@@ -1743,7 +1767,7 @@
       "text": "Mr. Temporary Speaker, Sir, I was just building my case by saying--- I can see my time is spent. As protectors of devolution, we need county governments to create cultural centers that are vibrant. I once went to Kwale County during an official parliamentary visit, and we found Governor Salim Mvurya had built a very good cultural center. I thought that was brilliant. Instead of giving these elderly people cash transfers, these are people with lots of experience; some of them are retired doctors and civil servants in Government. How can we tap into their knowledge? I remember in Meru county government - I do not know whether that program died - where Gov. Kiraitu Murungi had created the eminent persons of Meru, where retired senior civil servants like Amb. Francis Muthaura and many others were part of the advisors to the county government. We can also tap into their experience. It does not mean that these old people are bogus. We can even tap into their cultural knowledge. If I want to know the culture of the Kikuyu nation, I can just walk to Laikipia Cultural Centre; get an old man of 80 years who will tell me and my children about their history. It is very important. Mr. Temporary Speaker, Sir, I hope that in the future, when you will be running for governor, maybe after 2027, because we know you are coming for the second term as the Senator for Laikipia, these are brilliant ideas that you can implement that will assist the relevant people. These old people will always be grateful. This Motion is timely and I hope my sister, Sen. Shiyonga - since she is also running - can run with this idea and develop a manifesto to sell in Kakamega County. Mr. Temporary Speaker, Sir, I support this Motion and look forward to having proper resolutions that will assist the elderly in our society."
     },
     {
-      "order": 146,
+      "order": 148,
       "id": "entry-1163727",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1779,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me the opportunity to support Sen. Nyamunga's Motion on recognizing and appreciating the elderly by county governments. I do support this Motion and appreciate Sen. Cherargei. This Motion is timely and well placed in the right House. We appreciate what the Government is currently doing when it comes to the cash transfer programme. We had discussed this programme as the Committee on Labour and Social Welfare. It has some problems, especially on the stalled registration process for the elderly persons in our country during the COVID-19 period. We realized that these people are very important in the Republic of Kenya. They are our own parents, relatives and people that need to be protected by the State. When the State does what it is doing, we need to realize that it needs to do more. This cluster of people is aged---"
     },
     {
-      "order": 147,
+      "order": 149,
       "id": "entry-1163730",
       "label": "speech",
       "level": "3",
@@ -1767,7 +1791,7 @@
       "text": "Senator, when you were in the Committee on Labour and Social Welfare, you realized that there was a problem of registering old people. We have assistant chiefs, Nyumba Kumi, Deputy County Commissioners (DCCs), Assistant County Commissioners (ACCs), who know the people who live in that area. Many of the people in this country are not nomads to the extent that they would not know the old people. Why are you telling this House that as the Committee on Labour and Social Welfare, you encountered a problem in registering old people who can easily be gotten from where they live by the chiefs and their assistants? What were the hiccups?"
     },
     {
-      "order": 148,
+      "order": 150,
       "id": "entry-1163731",
       "label": "speech",
       "level": "3",
@@ -1779,7 +1803,7 @@
       "text": "Mr. Temporary Speaker, Sir, yes there were hiccups and we shared. We shall still share the progress of the report through the Chairperson of the Committee, which is a procedure in this House. As a Member of the Committee, when we met with the necessary stakeholders, we discussed this issue. We realized there were problems, especially with the registration that stalled. One of the reasons was that during the COVID-19 period, most of the people had attained the age of 65 years and were yet to be registered. However, the report will be laid on the Floor of the House, and so, I do not need to discuss it. From the discussions, there is a problem in it and there is much that needs to be done especially with regard to the system of registration, where we need to identify these people. Most of them have not been reached. It is important that we realize that as time goes by, they are aging and the percentage is increasing unlike those benefiting directly. The Government needs to do a lot. It is good when such a Motion comes and becomes a Bill. When one becomes of age and needs to be absorbed by the system, it should be automatic. It is good to realize that the aged need not to toil by looking for people to register them. The registration should be free, fair and accessible. It should be mandatory that when you reach a certain age, you need to be registered automatically and enjoy the benefits through that registration. When looking at the elderly, I like the county government participation. It needs to be 100 per cent participatory, especially through legislation by Sen. Nyamunga. They need to come up with legislation and policies that can protect these elderly, including ensuring that the counties register them. It is from the counties that these people emanate. They are identified by the\n\nNyumba Kumi.\n\nIt is very important that we devolve this function from the national level, where it takes time. Some even die during the long process without the benefits too. I support this Motion. It is important for us to identify that these individuals are at risk and need self-sufficient support. They need to be comforted and assisted with the community and the Government. When it comes to medical care, they are prone to chronic diseases. Many of them, regardless of which area they come from, are prone to insecurity, chronic diseases and are lonely. This is because they no longer live with their relatives. They are left to survive on their own. It is survival for the fittest. If the Government comes in through the county governments, supports them and have a realistic programme that will reach each and every one of them, then it shall be fair to them. Everyone will want to live and age well. Technology is growing every day with changes in software, unlike when we used to have hard copies. When the elderly age, they become blind and cannot read and write. Some cannot even speak. They are supposed to have devices to help them communicate to the right people. By doing this, we will be protecting them from fraud using technology. I heard some complaints during my visits to the counties. Looking at the equal opportunities that are given to this particular class of people, it is very hard. You will find somebody, probably the next of kin, trying to influence so that they get the benefits. It is good that we have this Motion. The policies and legislation framework should also look at how to ensure that these people can access information. Benefits should be given directly to the beneficiary. Other people should not be given the benefits because they may influence the whole system. The legal framework should also ensure that people are not prone to corruption. When returns are done at the national level, the process goes through the stages up to where the programme was initiated. You will find people claiming benefits for people who are not even there. When these people are dead, someone continues to get the benefits. The programme is good and it should be cascaded down. We also need to look at the technology part of it and assist as much as we can, especially when it comes to the internet, because most of them come from rural areas where there is no internet. They have what we call \"mulika mwizi\" phones and they are not even able to read and write. As we continue debating on this Motion, it is important for us to celebrate people in the society who have lived long. However, we should also assist them to address insecurity concerns and challenges that come with old age. Otherwise, I support the Motion and congratulate Sen. Nyamunga for coming up with this. I thank you."
     },
     {
-      "order": 149,
+      "order": 151,
       "id": "entry-1163742",
       "label": "speech",
       "level": "3",
@@ -1791,7 +1815,7 @@
       "text": "Asante, Bw. Spika wa Muda, kwa kunipa nafasi. Wakongwe walio mashinani na wale ambao hawajabahatika ni watu walio na shida tofauti tofauti katika jamii na kaunti tofauti tofauti. Kwa hivyo, ni muhimu sana kuangalia masilahi ya watu hao popote walipo, hata iwe mashinani ambako tunawakilisha katika Bunge hili. Kwa mfano, kuna jamii za kuhamahama ambazo mimi nawakilisha katika Bunge hili la Seneti. Wazee na wasiobahatika katika jamii wanaishi katika sehemu ambazo hakuna network. Kwa hivyo, ni vigumu sana kuwafikia. Kama ilivyosemwa hapo awali, hata wazee wa \"Nyumba Kumi\" pia wako mbali na wazee ambao wanaishi katika sehemu hizo. Ni vigumu kwao kupata habari kikamilifu kuhusu yale yanayoendelea katika Jamuhuri yetu ya Kenya. Kuna pesa ambayo wazee hupewa. Kule Tana River, wazee hukaa hata kwa miezi sita bila kupata pesa hizo. Utawahurumia ukijua mwendo wanaosafiri kwenda kwa benki ama posta. Ili kupata hiyo pesa kidogo, humlazimu mzee kusafiri kilomita nyingi katika sehemu ambazo barabara ni mbovu na hazipitiki haswa wakati wa mvua. Kuna mito ambayo huwa wakati wa mvua. Kwa hivyo, huwa vigumu kwa wazee hao kuvuka na kufika katika sehemu za kupata pesa zao. Wazee hao wanafaa kufikiwa mahali waliko. Mzee wa miaka 70 au 80--- Acheni niwaeleze jambo: Wazee kutoka jamii za wafugaji hawafi haraka kwa sababu wanakunywa maziwa na kula chakula cha asili. Hawatumii vyakula vya kemikali za siku hizi. Wengi wao huishi zaidi ya miaka 100. Wazee wa miaka zaidi ya 90 au 100 wakiwa mbali na pahali ambako kuna huduma, basi wao hupata shida. Kunafaa kuwa na sheria ili wazee hao wafikiwe mahali walipo. Hiyo itasaidia watu sana hasa wakongwe. Bw. Spika wa Muda, unafahamu vizuri kuwa wakongwe ni mbegu na sisi ni mazao. Sisi tumetoka kwa wazee. Ikiwa tutaacha mbegu zetu vibaya, basi tutakuwa na jamii ambayo haina mwelekeo. Wengi wetu tulizaliwa na hao wakongwe. Wengine wetu tumebahatika kusoma. Wengine wetu ni Wabunge na wengine wanafanya kazi sehemu tofauti tofauti duniani. Baadhi ya watu wako nje ya Kenya. Ni vizuri kuangalia mbegu ambayo ilituleta. Mbegu hiyo ni wale wakongwe. Tukiwa na sheria mwafaka jinsi Hoja hii inavyopendekeza, basi sisi tutakuwa jamii ambayo inajali maslahi ya watu wasiobahatika na wakongwe ambao wako sehemu tofauti tofauti. Kuna wakati nilienda uzunguni. Huko kuna sehemu zilizotengwa na zinajulikana kama homes for old people. Inamaanisha kwamba kuna mahali ambapo wazee wametengewa. Serikali inawashughulikia kwa kuwapa pesa, kuwapelekea madaktari na kuwapa lishe. Kwa hivyo, wako katika hali sawa. Sijui kama hilo linawezekana hapa Afrika kwa sababu ukipeleka wazee mahali moja, wanaweza kukataa wakidhani kuwa wanaenda kutupwa kama takataka. Tukipendekeza kuwa na makao ya wazee, vijana wengine ni vichwa maji. Wanaweza kubeba wazee kwa lori na kuwapeleka huko. Pengine hiyo inafaa kuwa tu kwa Wazungu kwa sababu haitufai sisi. Pia natoa wito kwa vijana na watu wengine walio na nguvu na waliobahatika. Kabla hatujasukuma Serikali kusaidia wazee, wao pia wanafaa kuangalia wazee. Kila mtu anafaa kushughulikia mzee wake. Bw. Spika wa Muda, wewe na mimi bado ni vijana lakini tuna vijana kule nyumbani. Tukipitisha sheria kama hiyo, siku ile tutakosa nguvu, basi tutalazimishwa kubebwa kwa magari na kupelekwa huko. Itasemekana kuwa wakati ukiwa Spika, ulipitisha sheria kuhusu wakongwe. Kwa hivyo, hutaweza kukataa. Wacha tujaribu kuitengeneza vizuri. Bw. Spika wa Muda, wewe ni mfugaji na ninajua kwamba wewe unajua maisha ya ufugaji vile inavyo kaa. Hebu angalia vizuri kama wewe ni mfugaji na umehama, na mzee leo hawezi hama na wewe, atakwambia mimi kichwa inaniuma, mara goti liko hivi. Kuna walemavu kadhaa ambao hawawezi kutembea kufika katika kituo cha pili mahali ambapo ng'ombe ama mbuzi zinaweza kuweka nanga zipate maji na nyasi. Itabidi wale ambao hawajabahatika kijamii wabaki katika sehemu ya mahame. Ukishawaacha katika hiyo sehemu ya mahame, basi utakua umepoteza watu muhimu. Kwa hivyo, mimi ninaona Sen. Nyamunga, alileta hii Hoja wakati mwafaka na inafaa itengenezwe na ipitishwe. Na pia, bunge za kaunti popote pale walipo, bunge tofauti tofauti, wanafaa wao pia wapitishe hizi sheria katika sehemu zao na pia watu hawa waangaliwe na watafutwe ili ministry ambayo inahusika isiwache wale wasio bahatika kijamii wawe wanateseka katika sehemu tofauti tofauti. Asante kwa kunipatia nafasi."
     },
     {
-      "order": 150,
+      "order": 152,
       "id": "entry-1163754",
       "label": "speech",
       "level": "3",
@@ -1803,7 +1827,7 @@
       "text": "Asante Sen. Wario. Nimesikia ukisema kwamba wazee wanasafiri mchana kutwa ndio waweze kupata mahali ambapo watapata malipo yao. Nilidhania utasema ya kwamba, zile Kshs2000 ambazo zinatajwa zinaweza zikawa ni chache pengine kuwe na mikakati ya kuongeza zile hela. Sen. Isaac Mwaura."
     },
     {
-      "order": 151,
+      "order": 153,
       "id": "entry-1163755",
       "label": "speech",
       "level": "3",
@@ -1815,7 +1839,7 @@
       "text": "Asante sana Bw.Spika wa Muda. Utaninuia radhi nina sauti ambayo sio sahihi zaidi kwa sababu nina homa kidogo, lakini ninaweza kusikika kidogo kwa sababu heri nusu shari kuliko shari kamili. Ningependa kuunga mkono Hoja hii. Nimetoka kule Ruiru na nilikua na wana boda boda wengi sana; walikuwa 2,243 na nilikuwa na mtaji wao wa hela wa Kshs1 million ambao nilikua nawatunuku leo. Tumekuwa na msafara mkubwa sana Thika Road. Kwa hivyo, ni kweli kwamba nawania kiti cha Ubunge cha Ruiru na pia bado ninaongoza kwa kura ya maoni katika kiti cha Seneta wa Kaunti ya Kiambu. Ni jambo la kushangaza sana lakini nashukuru Mungu kwa jambo hilo. Hoja hii ambayo imewasilishwa Bungeni na rafiki yangu Sen. Nyamunga, ambaye anagombea kuwa Seneta aliyechaguliwa kule Kisumu, na pia ashawahi kua Mwakilishi wa akina Mama, ambaye tunashiriki kabisa katika maombi na pia tulikuwa katika jopo la maspika kama vile ulivyo hapa. Ni jambo nzuri sana ambalo ameliwasilisha hapa tukija katika kipindi cha lala salama cha Bunge la kumi na mbili ambayo ni Seneti ya pili ya Jamhuri ya Kenya. Watu wetu ambao ni wakongwe wameweza kutelekezwa kwa njia ambayo sio nzuri hata kidogo. Sio eti kusema kwamba kuna kutelekezwa ambako kunafaa; kama umetelekezwa ni kumaanisha kwamba hujatiliwa maanani. Fauka ya hayo, sisi sote tunaweza kua watahiniwa wakuwa vikongwe kwa miaka inayokuja. Kwa hivyo, wakati tunazungumzia Hoja hii ikumbukwe kwamba sio eti kwa sababu ni wale ambao tunawaangazia. Na ikumbukwe kuna kitabu cha aliyetuwacha, makataba mkange \"Walenisi\", kwamba wale ni sisi. Ni sisi ambao tunahodhi hii nafasi baada ya miaka michache. Sasa ivi nimetoka kumuaga aliyekuwa Seneta Balozi (Dr.) Wilfred Machage tukiwa na Sen. Shiyonga na wengine tulio kuwa nao pale katika SDA Maxwell Church. Amefariki akiwa na miaka 65 tu. Alikua mchanga sana. Katika hili Jumba kuna Maseneta wengi ambao wana umri ambao umefikia zaidi ya hapo. Kabla sijaendelea, ningependa kutoa rambi rambi zangu kwa jamaa na marafiki. Dr. Wilfred Machage tulijuana na yeye, na pia mtoto wake wa kwanza Steve Machage tulisoma na yeye Kenyatta University kutoka mwaka wa kwanza mpaka wa nne. Tumekuwa marafiki wa familia zetu mimi na mke wangu na mke wake, Mama Tema Mtupi, kutoka kule South Afrika. Kwa hivyo, ni watu ambao tumekua wa karibu kwa pamoja sana na wakati alipokua hapa alikua mmoja wapo ya jopo la maspika. Mungu ailaze roho yake mahali pema peponi. Kila mtu ana jukumu la kuweza kuwaangazia hawa vikongwe. Juzi tu nimempoteza nyanya yangu mpendwa akiwa na miaka 90. Kwa sababu mungu amenipatia uwezo nikawa Mbunge, angalau nilikua namsaidia kila mwezi namtumia pesa. Baada ya yeye kufariki, nilijiambia kwamba hizo hela hazina maana kwa sababu ningelipenda kuwa na yeye kwa muda mrefu. Sidhani kuna watu wengi wa umri huu wangu ambao watafikisha miaka hiyo 90. Mhe. Wario amesema tunachukua kemikali nyingi katika vyakula na hata kutoka katika mazingira ambayo tunaishi. Lakini kwa kweli kumekuwa na changamoto kubwa sana za kuweza kuwatunza wazee wetu. Kisa na maana ni kwa sababu, kitambo kidogo ilikua ni rahisi wawe kule vijijini alafu kama Isaac Mwaura akioa, atajenga kule, awe na wajukuu ambao watakua wakimliwaza nyanya au babu yao. Lakini sasa hivi sisi tumetorokea mijini na inabidi kwamba wakuu wetu wagure waje kukaa na sisi kwenye vyumba ambavyo ni vidogo sana, kwenye mazingira ambayo hayawapatii nguvu na wanaonekana kana kwamba ni bugdha kwa jamii. Wengi ambao pengine wamebarikiwa wana uwezo wa kuwajengea katika the same compound lakini utakuta ya kwamba visehemu ambavyo tumejenga vyumba ni vidogo na wale ambao tayari wamepanga ama kukodisha katika hizi flats inakua ni vigumu sana kwa sababu nyanya atakaa kwenye sebuleni, hana pengine chumba cha kulala na kadhalika. Ni jambo ambalo tunafaa kuliangalia zaidi fauka tu ya kupatiana Kshs2,000 kila mwezi na matibabu ya National Health Insurance Fund (NHIF). Tujiulize, sera ile ambayo inafaa, sheria, nafikiri Mhe. Gathoni wa Muchomba amewasilisha sheria hii kule na Mhe. Cheruiyot alikua na nyingine hapa, ziweze kuwiana ili tuwe na sheria moja ya watu wazee ama ukipenda kwa kimombo, senior citizen, wakuu wetu ili waweze kulindwa kikamilifu na jamii. Haifai tu kuwa kwamba hilo liwe ni jukumu la Serikali kwa sababu, ikiwa ni mambo ya majukumu ya kiserekeli, itabidi basi tuweze kutengeneza mabweni ambapo hawa wakongwe wetu wataishi. Kama tunakumbuka, wakati tulikua tunaenda katika shule za malezi, unakuta kwamba kukaa katika haya mabweni ni mateso matupu. Hawa wakuu wetu wanahitaji kuwa wakiskia lile joto la kwamba wao wanaenziwa na familia zao, wanaweza kupata vichekesho na kadhalika. Mimi ni mwana bodi wa Leonard Cheshire Disability Services katika nchi hii ya Kenya ambayo ni mojawapo ya muungano wa Leonard Chesire International na tuko na nyumba za wazee kule Kariobangi, Huruma na kadhalika ambazo zinashughulikia hawa wazee. Ni changamoto kubwa sana kuwa na hela na uhakikishe kwamba hiyo miji inaendeshwa sawasawa isipokuwa ni wale watawa ambao wamejitolea kutoka kanisa la katoliki ambao watusaidia sana kwa kujitolea katika jambo hili. Ni jambo ambalo Serikali haiwezi kuhoji kwa asilimia. Nafikiri ni muhimu tuangazie mambo ambayo tunaweza kutengeneza kama vile marupurupu ya uzeeni, mambo ya afya, na mambo mengine kama hayo. Kama ni ujenzi wa nyumba za wazee kwa sababu mara nyingi wanajenga nyumba zao wakati wanastaafu. Pengine pia kuwe na ushauri kama vile ambavyo nimeona imependekezwa hapa katika serikali zetu gatuzi ndiposa pia watu wazee waweze kujua kipato chao kitapungua, hawatakua na nguvu za mwili zitakazowawezesha wajikimu wenyewe. Bw. Spika wa Muda, ikumbukwe kwamba, hata mambo ya kukaa na wazazi mijini inawapendelea sana akina mama. Akina mama wanapendwa na watoto wao ambao huwaita mijini lakini wazee wanawachwa kule mashambani na ng'ombe zikilia na kutafuta majani. Mwanaume wa kiafrika ametengwa sana. Ameambiwa awe mkali kama simba kwa nyumba, akiguruma watu wote wanatorka. Hivyo hivyo, wanamtoroka akiwa mzee anabaki akiguruma peke yake huko kwa mashambani. Mara mama anaenda Marekani leo, kesho anaenda Mombasa na kwingineko. Mpaka mzee huyu wa miaka themanini anatafuta mtoto mdogo wa miaka kumi na tisa na kumuoa kwa sababu ya upweke. Bw. Spika wa Muda, haya mambo kama tutaangazia mimi na wewe na wengineo tutakwenda kwenye msururu huo huo. Nafikiri hatuna suluhu la kutosha na jambo hili haliwezi likakamilika kwa kupitia hoja hii. Ni muhimu tuweze kuifikiria kisheria na kijamii jinsi ya kutenga nafasi ya kuwasawazisha wazee wetu wajihisi kwamba wao pia ni wadau baada ya kufanyia Serikali na uma kazi na kujitolea kwenye jamii kwamba hawatawachwa nyuma eti kwa sababu sasa hawana maana kama vile watu wanafikiria umeshatumika, hauna nafasi katika jamii. Kwa hivo, kama Serikali zetu gatuzi, zingekuwa na mipango sambamba ambayo inajumuisha kile ambacho serikali ya kitaifa inafanya, itakuwa jambo nzuri sana ya kuvutia. Ningeomba pia wawe na idara maalum ambayo inashughulikia watu wakongwe ambayo itakua imefadhiliwa zaidi na imepatiwa pesa na bunge ya kaunti, ili waweze kushughulikia maswala haya. Pia kuwe na watabibu katika hospitali kuwe na vitengo maalum katika zile referral hospitals ambazo tumeziona zikijengwa kilakukicha, iili waweze kuwa wakisaidia wazee wetu wanaingia kule na wale tunaita Community Health workers (CHW) ambao wanafayanya kazi nzuri sana ili kuwapatia chanjo, madawa na kadhalika. Niliona vile nyanyangu aliteseka kabla ya kuiaga dunia. Pia, itabidi tuwe tunaajiri watu kwa nyumba hizo ambao kazi yao itakuwa kuwaangalia hawa wazee wetu. Kwa hivyo inafaa pia uwe hata na taaluma inayofunza jinsi ya kuwashughulikia wazee. Watu wafundiswe katika shule zetu hizi za teknologia, kuwe na mafunzo maalum ambayo wanafunza kwa sababu tuanendela kuzeeka na miaka inayokuja watu wengi watastaafu katika afisi za umma. Nadhania inakisiwa kwamba nusu ya wale ambao wameajiriwa sasa hivi ikifika mwaka wa 2025 watakua wakiondokea kazi zako. Wataenda wapi? Lazima tuanze kuangalia na hata kuwa na idara maalum katika serikali ya kitaifa na zengine katika serikali gatuzi ndiposa jambo hili lisiwe tu ni mzigo wa familia, watu ambao wa kipato cha chini kwa sababu uchumi umezorota na ndiposa pia tuweze kuwa na nguvu na uzoefu wa utaaluma. Wakati nilikua naishi Uingereza, kulikua na majadiliano makubwa sana ya kwamba kuna watu ambao wamechukulia nyumba za wazee kama baishara na zilikua hata zinaweza kuwa na nafasi katika London Security Exchange . Can you imagine? Yaani watu wamefanya hio baishara kuwa kubwa mno hivi kwamba watu wanaweza kununua shares za kampuni hio kupitia London Security Exchange. Sisi pia tunafaa kufika pale. Hatufai kuwa tunatoza shida hii ya kijamii iwe ni kama ni biashara ya mtu kibinafsi. Tuuchukulie huu mzigo uweze kubebwa na familia kwa kiasi lakini serikali iwajibike ndiposa usiwe ni mzito sana, watu tuanze kuona kama vile tumeweza kuona huku mjini wakongwe wanaanza kuomba omba kwa barabara kwa sababu hawana chakula na wanaonekama wamedhoofika. Vile vile, mambo ya ulemavu yaangaliwe kwa sababu pindi unavyozeeka, ndivyo unazidi kuwa na ulemavu. Tunafaa kuangalia haya maneno na hata pia kupoteza fahamu na kuwa na upungufu wa akili. Haya ni mambo ambayo tunafaa kuyaangalia kwa makini ili kuhakikisha ya kwamba watu pia hawakuja na njia ambayo inaweza kujidhuru na tuwe tunaweza kujihami ya kutosha ndiposa tuweze kujali kila mtu ambaye atazeeka. Kwa hayo mengi, naunga mkono hoja hii na niombe kwamba iweze kupasishwa. Hoja hii isikuwe tu ni mapendekezo kama vile iko hapa. Sheria kabambe iwe, na kama zipo, ziweze kuhakikisha kama zinaweza kupitishwa kabala hatujafunga muhula huu wa mwisho ya Bunge la kumi na mbili. Naunga mkono. Asante sana."
     },
     {
-      "order": 152,
+      "order": 154,
       "id": "entry-1163767",
       "label": "speech",
       "level": "3",
@@ -1827,7 +1851,7 @@
       "text": "Asante Sen. Mwaura. Ningelipenda kumuita Sen. Mwaruma."
     },
     {
-      "order": 153,
+      "order": 155,
       "id": "entry-1163768",
       "label": "scene",
       "level": "3",
@@ -1839,7 +1863,7 @@
       "text": "(Kimya)"
     },
     {
-      "order": 154,
+      "order": 156,
       "id": "entry-1163769",
       "label": "speech",
       "level": "3",
@@ -1851,7 +1875,7 @@
       "text": "Sen. Mwaruma ni kama hayupo. Sioni kama kuna senata mwingine anayetaka kuchangia hoja hili. Kwa hivyo,nitamuita Senata ambaye alikua ametoa hoja hii aweze kujibu. Sen. Nyamunga, nafasi hii ni yako."
     },
     {
-      "order": 155,
+      "order": 157,
       "id": "entry-1163770",
       "label": "speech",
       "level": "3",
@@ -1863,7 +1887,7 @@
       "text": "Mr. Temporary Speaker, Sir, Thank you for giving me this opportunity. I would like to also thank all the Members who have been able to contribute to this Motion. This is a very critical and important Motion. As all of us have mentioned, we appreciate what the National Government has done so far. However, this has to be cascaded to the county governments. What the National Government has done is good but we now expect it to go to the county levels because the National Government cannot involve everybody because of the amount of moneys that are involved. If we combine efforts with counties it will be very successful. Mr Temporary Speaker, Sir, I thank all the members who have contributed. You have enriched this Motion and we expect it to move forward. Above all, we need legislation that should be put in place to enable the county governments also to be part of it. It is not a mistake for anybody to be elderly. If anything, we all pray that we reach old age. The moment we reach old age, not all of us are able to take care of ourselves. When we have members of our country who cannot take care of themselves, it is important that the government comes in to support. I support the proposed 'Baba Care,' which I know will be in place come September of this year after the General Elections. This 'Baba Care' will go a long way. It will enhance the figure from Kshs2000 to Kshs6000. Many people have been arguing about this figure, but I believe that figures do not lie and for any leader of Baba's caliber to come up with such a figure, he must have done a lot of research. This is somebody who has been in Government and he knows that money can be made available to take care of the elderly. I thank all the Members who have contributed to this Motion. It is a timely Motion and we want to push it to the very end so that county governments become part and parcel of it. I thank you. I beg to reply."
     },
     {
-      "order": 156,
+      "order": 158,
       "id": "entry-1163773",
       "label": "speech",
       "level": "3",
@@ -1875,7 +1899,7 @@
       "text": "Hon. Senators, this matter does not affect counties so it will be voice vote. I proceed to put the question."
     },
     {
-      "order": 157,
+      "order": 159,
       "id": "entry-1163774",
       "label": "scene",
       "level": "3",
@@ -1887,7 +1911,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 158,
+      "order": 160,
       "id": "entry-1163775",
       "label": "speech",
       "level": "3",
@@ -1899,7 +1923,7 @@
       "text": "Next Order."
     },
     {
-      "order": 159,
+      "order": 161,
       "id": "entry-1163776",
       "label": "heading",
       "level": "3",
@@ -1911,7 +1935,7 @@
       "text": "ADOPTION OF SPECIAL AUDIT REPORT ON UTILIZATION OF COVID-19 FUNDS BY 28 COUNTY GOVERNMENTS"
     },
     {
-      "order": 160,
+      "order": 162,
       "id": "entry-1163777",
       "label": "speech",
       "level": "3",
@@ -1923,7 +1947,7 @@
       "text": "THAT the Senate adopts the Report of the Standing Committee on Health on the special audit report on utilization of COVID-19 funds by twenty eight (28) county governments, laid on the Table of the Senate on Wednesday, 9th February, 2022."
     },
     {
-      "order": 161,
+      "order": 163,
       "id": "entry-1163778",
       "label": "speech",
       "level": "3",
@@ -1935,7 +1959,7 @@
       "text": "Hon. Senators, I do not seem to see the Mover. The Order is deferred."
     },
     {
-      "order": 162,
+      "order": 164,
       "id": "entry-1163779",
       "label": "scene",
       "level": "3",
@@ -1947,7 +1971,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 163,
+      "order": 165,
       "id": "entry-1163780",
       "label": "heading",
       "level": "1",
@@ -1959,7 +1983,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 164,
+      "order": 166,
       "id": "entry-1163781",
       "label": "speech",
       "level": "1",

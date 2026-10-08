@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-03-03-14-30-00",
-  "exported_at": "2026-10-05T08:08:39.993Z",
+  "exported_at": "2026-10-08T21:36:08.139Z",
   "entries": [
     {
       "order": 1,
@@ -1624,7 +1624,19 @@
     },
     {
       "order": 136,
-      "id": "entry-1057125",
+      "id": "entry-1057125-split-selected-b667c951-b587-4567-a496-b4684ee0e9fc",
+      "label": "scene",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( The Petition was committed to Standing Committee on Land, Environment and Natural Resources)"
+    },
+    {
+      "order": 137,
+      "id": "entry-1057125-split-after-1957b390-2f43-4c08-8696-17948e4bdaf1",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -1632,10 +1644,10 @@
       "speaker": "",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
-      "text": "( The Petition was committed to Standing Committee on Land, Environment and Natural Resources) In terms of Standing Order 232, the Committee is required in not more than 60 calendar days from the time of reading the prayer to respond to the petitioner by way of a report addressed to the petitioner and laid on the table of the Senate. I thank you. Hon. Senators, Sen. Wambua is not present to prosecute Order No. 8, Committee of the Whole on the Mung Beans Bill (Senate Bills No.9 of 2020). I, therefore, defer that order."
+      "text": "In terms of Standing Order 232, the Committee is required in not more than 60 calendar days from the time of reading the prayer to respond to the petitioner by way of a report addressed to the petitioner and laid on the table of the Senate. I thank you. Hon. Senators, Sen. Wambua is not present to prosecute Order No. 8, Committee of the Whole on the Mung Beans Bill (Senate Bills No.9 of 2020). I, therefore, defer that order."
     },
     {
-      "order": 137,
+      "order": 138,
       "id": "entry-1057130",
       "label": "heading",
       "level": "1",
@@ -1647,7 +1659,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 138,
+      "order": 139,
       "id": "entry-1057131",
       "label": "heading",
       "level": "2",
@@ -1659,7 +1671,7 @@
       "text": "THE MUNG BEANS BILL (SENATE BILLS NO. 9 OF 2020)"
     },
     {
-      "order": 139,
+      "order": 140,
       "id": "entry-1057132",
       "label": "scene",
       "level": "2",
@@ -1671,7 +1683,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 140,
+      "order": 141,
       "id": "entry-1057133",
       "label": "speech",
       "level": "2",
@@ -1683,7 +1695,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 141,
+      "order": 142,
       "id": "entry-1057134",
       "label": "heading",
       "level": "1",
@@ -1695,7 +1707,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 142,
+      "order": 143,
       "id": "entry-1057135",
       "label": "heading",
       "level": "3",
@@ -1707,7 +1719,7 @@
       "text": "ADOPTION OF CPAIC REPORTS ON THE AUDIT OF VARIOUS COUNTY EXECUTIVES FOR FY 2014/2015."
     },
     {
-      "order": 143,
+      "order": 144,
       "id": "entry-1057136",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1731,7 @@
       "text": "THAT this House adopts the Report of the Sessional Committee on County Public Accounts and Investments on the consideration of the Audit Reports of the Bomet; Homa Bay; Isiolo; Kakamega; Kiambu; Laikipia; Kisumu; Mandera; Migori; Mombasa; Murang'a; Nandi; Nyeri; Samburu; Siaya; Tana River; Tharaka Nithi; Trans Nzoia; Turkana and Wajir County Executives for the Financial Year 2014/2015 (1st July, 2014 to 30th June, 2015), laid on the Table of the Senate on Thursday, 18th February, 2021."
     },
     {
-      "order": 144,
+      "order": 145,
       "id": "entry-1057137",
       "label": "scene",
       "level": "3",
@@ -1731,7 +1743,7 @@
       "text": "(Sen. (Prof.) Ongeri 24.2.2021)"
     },
     {
-      "order": 145,
+      "order": 146,
       "id": "entry-1057138",
       "label": "scene",
       "level": "3",
@@ -1743,7 +1755,7 @@
       "text": "(Resumption of debate interrupted on 2.3.2021)"
     },
     {
-      "order": 146,
+      "order": 147,
       "id": "entry-1057139",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1767,7 @@
       "text": "Hon. Senators, the Motion had been moved and seconded so it is open for debate. Sen. (Dr.) Musuruve concluded her contribution on the Motion when it last appeared on the Order Paper."
     },
     {
-      "order": 147,
+      "order": 148,
       "id": "entry-1057140",
       "label": "speech",
       "level": "3",
@@ -1767,7 +1779,7 @@
       "text": "I will now allow Sen. Sakaja to make his contribution."
     },
     {
-      "order": 148,
+      "order": 149,
       "id": "entry-1057141",
       "label": "speech",
       "level": "3",
@@ -1779,7 +1791,7 @@
       "text": "Mr. Temporary Speaker, I rise to support that this House adopts the report of the Sessional Committee on County Public Accounts and Investment Committee (CPAIC) on the consideration of the Audit Reports of the Bomet; Homa Bay; Isiolo; Kakamega; Kiambu; Laikipia; Kisumu; Mandera; Migori; Mombasa; Murang'a; Nandi; Nyeri; Samburu; Siaya; Tana River; Tharaka Nithi; Trans Nzoia; Turkana and Wajir County Executives for the Financial Year 2014/2015 (1st July, 2014 to 30th June, 2015), laid on the Table of the Senate on Thursday, 18th February, 2021. I will make very brief remarks because last week when we had a similar Motion, I was able to speak to it although that was another batch of audit reports. First, I would like to acknowledge a gentleman who went to a good school, Sen. Kajwang. The Senator for Homa Bay County, Sen. M. Kajwang, went to the Duke of York or popularly known as the Lenana School and that how he became very efficient in running the CPAIC. I do not want to compare Members as it is not right, but if you see the reports of the previous CPAIC, you will notice the Sen. Kajwang cleared a huge backlog of pending reports with his Committee in the short time that he served as the Chairperson of CPAIC. I keep saying that it is unfortunate that many times, we are here as morticians who do very old postmortems from many years ago. For example, today, we will be considering the audit reports of the former Governor of Isiolo County. In as much as the report will tell you the systemic issues, I think that Sen. Dullo, the Senator for Isiolo County, is interested in what is currently going on in her county. Mr. Temporary Speaker, Sir, I am keen to look at the audit reports of Gov. Kidero. However, apart from the issues of system, I want to look at what is happening in Nairobi County now. I would like to know what the Deputy Governor, Ms. Kananu, and the Nairobi Metropolitan Services (NMS) are doing in Nairobi County. If we look at the current issues, we would be able to do real-time audit and oversight. This is a House of oversight and that is our most critical role. I am glad that we pushed the Controller of Budget to send each Senator the monthly exchequer releases for their counties. The exchequer release report gives Senators an immediate view of what is going on. I thank the Office of the Controller of Budget because I have been receiving timely exchequer releases reports. When I call, they never fail to pick their calls to explain. From the last exchequer release report that I received, I was dismayed that in this Financial Year, 2020/2021, out of an allocation of Kshs37 billion, the Nairobi County Government has only received Kshs4.7 billion which is for the entire financial year. I was shocked to see that all the money that has been received is all on recurrent expenditure and nothing on development project. The NMS has also not received anything from the exchequer. The NMS is currently operating on the national Government budgets. The NMS is doing a lot of good work, but the national Government budget is not sustainable for them. The NMS should be properly funded and oversighted. If you ask which vote the NMS is getting their money from even at the national Government level, no one will tell you that kind of information. This morning, the Committee on Labour and Social Welfare was discussing the issue of compensating the traders who were evicted from the Railways Club Ground. The members of the Railways Pension Scheme should also be compensated because their land where the NMS is putting up a bus park and a dispensary was valued at Kshs13 billion. Although the NLC says that the land is valued at Kshs9.5 billion, where will the NMS get money to compensate the traders and the retirement scheme? Fortunately, a request for compulsory acquisition was made by the Kenya National Highways Authority (KeNHA) who later realized that they do not need that land. The request for compulsory acquisition of the land is now on behalf of the NMS. I am sure that such a reallocation can be done within Government without much trouble. All in all, we need more sustainable ways of funding that entity. At the end of his financial year, it will be difficult to audit the Nairobi County Government as well as the NMS. I am grateful that we have come this far. I hope that there are more of these reports that are coming for us to debate. The one thing that we must do as a House to make us efficient as we finish this term is that for those of us who are interested in coming back to the Senate, it will be important that in the same way we have a very robust and useful Parliamentary Budget Office (PBO), that we need to set up a Parliamentary Audit Office (PAO). This is a PAO that goes step by step and hand in hand with not just the CPAIC, but with each and every Senator real time. They are able to break down issues for you as you play your oversight role, so that it is not subjective and political. Let me say someone may say that he does not like this governor because he is stealing or he is not doing well, but based on facts, reports and it is real time. Mr. Temporary Speaker, Sir, we can ask for special audits through the PAO. It is something we can explore. Sen. Mutula Kilonzo Jnr., you sit in the Committee on Budget and Finance and you are patched high up in the leadership. This is something we can explore not just as a legacy, but to actually make the work of the Senate as provided for in the Constitution more effective as opposed to me looking at reports of 2014/2015 and then trying to understand the most recent report. If we had a PAO, on the most recent report by the Auditor-General, I can sit with them and go through this with the Executive and the Legislature of Nairobi City County, the NMS and know whether the people of Nairobi are getting value for money and the taxes that they are paying. We argue in this House and fight for allocations-- Mr. Temporary Speaker, Sir, I am proud as the Senator for Nairobi City County that in my time I moved our allocation from Kshs15 billion to Kshs19 billion. The first year was Kshs15.6 billion then Kshs15.8 billion, and we have gone up. So far, we are at Kshs19 billion. If we pass the Building Bridges Initiative (BBI), which I know will be passed, if Kenyans deem it fit for us to pass it, Nairobi City County will immediately get Kshs25 billion. Why would we be fighting so much on how much money we give our counties and then when it comes to how it is used, we are years behind? It does not make sense. I am sure the rest of the Senators can say what they have received. Mr. Temporary Speaker, Sir, the Senator for Samburu was arrested because of looking for resources for his county. Why is it that when you are hunting, we put so much effort as a Senate, but with regard to our oversight role, we are not facilitated? People should get it right. This is because I have said in this House that I will not support the oversight money that Members wanted. This is because it looks like we are trying to get resources for ourselves. Mr. Temporary Speaker, first of all, we had refused to use a formula. You wanted to give us all the same amount of money. The Senator for Nairobi City with 85 wards and 17 constituencies with 4.3 million was supposed to get the same money as Lamu with two constituencies. Even if we were to have meetings, you cannot do the same number of meetings. If you were to meet 100 people per ward, automatically for me it is 8,500. That is why I do not support it. We want to be facilitated to do oversight and audit. It is this kind of oversight that I am talking about. We can have auditors, accountants, experts in finance and people who can do service on different issues. I can decide this year, with that fund, I want to concentrate on infrastructure and to find out why infrastructure is being done, solid waste management in Nairobi, and to understand how the social programmes are being done. That is what that kind of money should have been used for. That is what we should be doing. However, by having the human resource of a PAO, we should be able to do so. Mr. Temporary Speaker, Sir, the next point that I have seen in these audit reports is the matter of revenue. As a country, we are getting to that point where we need to have that conversation. Many times we say it in passing or almost as a joke, that we concentrate so much on sharing the cake and not enough on baking it. We have a Commission on Revenue Allocation (CRA). We will soon need a commission of revenue generation. If you look at our public debt at the national level, the biggest project today in Kenya is debt. We are paying thrice the amount of money we are giving to counties. It is not because we do not need to spend, but it is because we are not creating those resources. Many of our county governments - if you look at these reports and go back to county councils - there has been very little change from what the councils were collecting to what the county governments have been collecting starting from 2013. One wonders with new efficiencies and better ability, automation, we now have all of these smart solutions on the phones, we should be getting more money. Mr. Temporary Speaker, Sir, in Nairobi, we have more than 134 revenue streams. A few of them were automated, but the revenue collection in Nairobi has gone down even below the last county government. I dare say that Nairobi City County has a potential of raising between Kshs50 to Kshs70 billion a year as it is, especially since we passed the Sectional Properties Law. Sen. Kasanga will tell you from her perspective that we are redoing the valuation role of rates in Nairobi. Right now, it is at the Assembly. Nairobi can even be listed. Look at what is happening in Johannesburg. If we add that Kshs70 billion plus Kshs25 billion that we will receive courtesy of the formula and BBI, we will be talking about an amount of more than Kshs100 billion. Since we are auditing the expenditure of that, which will transform lives in this city, we need to strengthen oversight. Otherwise, it will be an avenue for pilferage where governors can collect money and spend at it source. We have known many cases where vehicles of Wells Fargo in our counties - I will not mention which counties - have been seen going to governors' houses or their aids carrying cash to their houses. Mr. Temporary Speaker, Sir, we must have a standard. There was supposed to be a national payment gateway that was to be effected by Posta in conjunction with the national Government. That payment gateway must make it uniform for all counties in terms of how they collect revenue. Mr. Temporary Speaker, Sir, if you look at Chapter 12 of the Constitution, we have a form of fiscal decentralization that limits the revenue raising capabilities of counties. The four principles of devolution include expenditure allocation, revenue raising ability, intergovernmental transfer and sub-national borrowing. In our experience of devolution, we have jumped number one and two and moved to number three. This is because if you look at number one, it is what we allocate. It is the Fourth Schedule. These are expenditure responsibilities. Once you have known those functions, then you cost them. When you cost them, then you say what are the revenue raising opportunities. I wrote a book on fiscal decentralization in 2009 within our context of this new Constitution 2010. If you look at all the jurisdictions, I looked at like India, South Africa, those with a form of devolution like ours, and not federalism, the intergovernmental transfer is normally to feel the gap between the work you have been given to do by the Constitution and what you are able to raise. However, today in Kenya, no governor is going out of his way to think of how to raise more money. This is because they are sure Sen. Mutula Kilonzo Jnr. will come up with \"Team Kenya\" and Sen. (Dr.) Milgo will be on the other side, they will battle and they will get their money. That is why when we were having that debate, they were very proud saying that the Senate is doing a bad job. There is no leadership. This is because they are just waiting for money from the national Government. We need to review. I wish BBI had looked at Chapter 12. This is because in Naivasha in 2009, before the 2010 referendum, there was a very light memorandum from the National Treasury with respect to Chapter 12 on public finance. That is why we have many problems. Ms. Christine Lagat told this country that the cost of the administrative structures in this new Constitution will give us a problem like it has been said in many countries. We are adding that with the BBI in as much as I support it. We need to rethink. Are we setting up our counties to succeed? If you look at formulas, countries like India have within their formula variables that make counties compete. The marginal increase in your county Gross Domestic Product (GDP) contributes to whether you get more money. Today, our formulas are heavy on population and poverty. This means that a governor who is 'a governor for life' would want to make sure that his or her county is as poor as possible with as many people as possible. That will mean they will get more money. We are not competing properly. We have asked for certain indices to be put in the formula going forward. I hope the next Senate that doses the next Revenue Sharing Basis we will look at it. Poverty index in the world of today is a measure of darkness. It only tells the ratio of those who are below or above the poverty line. You need to look at human development index. The CRA brought many good variables. They started looking at the issues of water and access to health care. In as much we do not know how they counted the access to healthcare saying the number of visits to hospitals yet Sen. Wambua's county may not have enough hospitals to even visit in the first place. We need make sure counties compete on productivity and raise revenue, so that we grow as a country. That competition is not the way governors are doing it. I was in Meru over the weekend. Between Meru, Isiolo and Nanyuki, everyone is putting cess points. It makes it difficult to trade. You have to stop your truck. Mr. Temporary Speaker, Sir, some of the work I do is in branded advertising. The headache from Mombasa to Malaba is that every county is looking for a piece of pie. It would be easy for us to have the counties; I wish I came for the meeting with the Council of Governors (CoG). I was following it online. Beyond being a club, they should make sure that some of the monies can be collected centrally so that you do not have a business man paying rates for 10 counties and 17 licences. You do not have a businessperson having to deal with different standards of counties because his vehicle is passing through there. The issue of revenue on the audit has been brought out well, but we need to emphasise on how we bake a bigger cake and consolidate. Governors have been unrealistically projecting how much they will get in terms of revenue collection. Beyond that, I would like to encourage our county assemblies to take the reports we are passing and look at them critically. They are the first point of oversight. It is our county assemblies that are a frontier. We play a role of secondary oversight beyond the county assemblies. They need to do their work instead of lobbying with governors and playing politics. We have a lot of beautiful legislators in our county assemblies. I was at the Nairobi City County Assembly when the debated the BBO report, I was embarrassed to tell them that they would put to shame a lot of their own Members of Parliament in terms of quality of debate. They have very good quality of debate. Now, they need to have financial autonomy as assemblies so that they can keep their county governments to check. I support this and I hope we start seeing more recent reports coming. I do not know what happened to the leadership because we still have not constituted the new CPAIC and the Delegated Legislation Committee, the Sessional Committees. Yet there is a lot that is going on currently. Let us constitute it and put people who are vibrant, every Senator qualifies, but let us create a fresh team. Some of institutional memory, but also just to reinvigorate those who are currently there. I support."
     },
     {
-      "order": 149,
+      "order": 150,
       "id": "entry-1057150",
       "label": "speech",
       "level": "3",
@@ -1791,7 +1803,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. Let me begin from where my good friend, Sen. Sakaja, left. A good practise in jurisdiction all over the world is to keep a permanent secretariat as opposed to Members. This is what the Public Accounts Committee of the House of Commons does. You will find a clerk assistant has been with the Committee for 30 years. It becomes continuous unlike our practise where our secretariat is moved here and there. I have no problem with the practice, but it does not help us. Since the audits of 2013 for purposes of my county Makueni has no follow up. It is just year on year and is academic and not effective. I recently did some calculations on how much money Makueni County has received after devolution. In this financial year, it will be Kshs60 billion. Is there value for that money? Can I go to Makueni and proudly say that out of Kshs60 billion, the county has done anything worth the money we have distributed? The answer is no. What about the Committee? I am afraid that the site of the Chamber today in relation to the discussions we are having on CPAIC on these counties tells you that Members have lost interest. Currently, how many Senators were in this House in 2014/2015? They have no interest in following up some of the things that were done before them. To some great extent, the CPAIC need some redemption. I have lost faith in that Committee and in its work. I say so because I have sat in many meetings regarding my own county. The Governor comes and gives undertakings to do several things within a specific period and nobody follows up after that. When you ask them, nothing happens? I have lost faith that the CPAIC of the Senate will offer the solutions we need and they will give reports that we can go out in the public and implement. The suggestion is technical, the proposal by Sen. Sakaja might be the solution that the next Senate must consider a technical committee. It will plug into the book of accounts of any county and come out with results. I have been taken for training in the House of Commons and The National Council for State Legislature in the United States of America (NCSL). It is only in Kenya where everything is an audit issue. We have such little faith and bad manners of operating that everybody and everything must be questioned. Every single penny has a query. In NCSL, only matters of fundamental nature reach the level of the Senate. NCSL is an umbrella body like County Assembly Forum (CAF). Only fundamental matters reach the level of this House. Half or majority are handled out there. What is the current status? The County Governor of Makueni is now operating as County Assembly Members in a by-election. The County Governor of Machakos is operating with County Assembly Members for purposes of the Senate by-election. Are they the same people who we will rely on to check when they are collecting money from the same governors? It is a shame and I am disappointed that while we put in a lot of effort in this endeavour chances are that we will not get much from the Members of the County Assemblies (MCAs) in so far as audit is concern. The things that the Auditor General flags, for example, I raised this concern last week, a document has been tabled here on COVID-19 funds and the Committee on Health has not moved a notice of Motion to adopt the report of the Auditor General. The document is here. The document was supposed to be tabled by the Committee led by Sen. Sakaja and later read by Sen. Kasanga. Why is it that we have to wait in a pandemic, to audit the mismanagement of COVID-19 funds by Makueni County at the Senate level? Why has the Assembly not noticed? In my case, we are supposed to have received 25,000 masks. Who saw the masks? Who should have asked the question fundamentally on where the masks were? The county assemblies have not asked this question. My dear colleagues, I am afraid devolution is going to fall on the sword of mismanagement. I was glad yesterday to tell some people that I am glad the money we fought for so hard in 'Team Kenya' and others is going to come out in the next financial year. If it had come out in this financial year, these governors would have spent it doing nonsensical things. It is unfortunate. These matters must be done at a technical level. I represented the former Governor of the Central Bank, Governor Mulei, who came up with a system, but eventually he was charged for it. The system was able to plug into the banking system and find out the misdemeanours, malfeasance and malpractices of the bank. That is how Charterhouse Bank is the only bank that was closed with money on it, because of a system. The people who disclosed this information became USA citizens before the information was made public. They had to run away. Can we have a system similar in counties? I am completely satisfied that the governors are doing paperwork. The County of Makueni received an unqualified opinion. They have become experts in drafting good documents. When you go to Makueni and ask is there value for money, they will tell you there is no value for it. Mr. Temporary Speaker, Sir, the Auditor-General now writes a report and says the Kalamba Fruit Factory in Makueni County is a loss making factory. This done six years down that line after it was constructed after it has spent more than a billion shillings. Audits are supposed to pick these things in advance. The auditor is supposed to pick the business plan. Where is the business plan for factories here and there? Kitui County has a similar factory called Kitui County Textile Centre (KICOTEC). We do not want to hear stories seven years down the line that this was a white elephant after money has been spent. Mr. Temporary Speaker, Sir, we must accept our title, Senators, that we are morticians. There is nothing we can do. We will lament and that book must be read continuously in this House. We will lament and nothing can be done. The auditors seem not to have capacity to pick these things. I have heard stories. I can repeat them on record here that some counties have pocketed some auditors and, therefore, the reports are just shady. Mr. Temporary Speaker, Sir, Sen. Farhiya had a proposal - and this is my last contribution - that there ought to be a method for the Institute of Certified Public Accountants of Kenya ( ICPAK ) to be outsourced at county level. A county can pick private auditors to audit its accounts or the Auditor-General is able to outsource private auditors. This is because the Auditor-General will not confess that the office has no capacity to audit the 47 counties and National Government. All of us Sen. Sakaja included are proud to have sat in the county assemblies for them to have passed the BBI which is going to bring 35 per cent. Makueni County, if all goes well, will receive an additional Kshs4 billion out of that framework. It is a very scary thought. I know Kitui, Machakos, Nairobi and Wajir counties will receive more and so will your county. It is just not audit. If we cannot get the accountability framework right, my dear Senators, we are opening up for a grand heist just like in the movies. Mr. Temporary Speaker, Sir, I have always wondered. Sen. Sakaja because you are an expert in this, can we begin questioning the wisdom. The previous Constitution had both the Controller of Budget (CoB) and the Auditor-General performing the same function. It was one office. Now I tend to believe there was wisdom in it. Let me explain why. The CoB is very quick in tabling reports on the requisitions by counties and how they spent the money. Does the CoB under the Constitution marry the requisitions and their reports with the Auditor-General's reports? They are like two people, one left hand and one right hand that do not know what the other is doing to the extent, therefore, that county governments are altering their requisitions after they move from the CoB and the Auditor-General cannot pick it up. It is a complete waste of time. These are some of the amendments that I would have proposed that you merge those offices so that the office is able to track the \"a\" to \"z\". You requisition in Nairobi to buy a table, when you get to the county, you buy a flask. How you alter that requisition and nobody picks it up is an amazing concept. When it comes here to the CPAIC, they make a recommendation of surcharge et cetera, but nothing happens. Accept and move on has become the mantra of the CPAIC. Mr. Temporary Speaker, Sir, in my capacity we will try our level best to see whether we can improve the Committee or even suggest new membership. However, if we are discussing the report for the Financial Year 2014/2015 in 2021, the second term governors are going to steal like Jesus is coming because they know that the Senators who are going to raise this, are going to do so after the election, and they will most likely be in the Isle of Man or some very exotic island that has no network. There will be nothing we can do about it. Unless we can sanction them or stop them from leaving, there is nothing you can do. Mr. Temporary Speaker, Sir, the Public Finance Management Bill that we had proposed has to go through republication, in fact, had something very drastic because the Auditor-General is not going to help us. We had suggested as the Committee on Finance and Budget that we freeze some expenditure just before elections. Now that I have seen the by-election in Machakos and Makueni counties, I guarantee that governors will spend county funds to get Senators who will not question their pilferage of funds. It is going to happen unless we can lock out some of the expenses that are done sometime in 2022; it is going to be very unfortunate. You are going to walk in there as a governor and find empty coffers. They will either carry the money in cartons or do something worse, burn the finance offices like they do. Sen. Wambua was right when he said that the only office that burns in our counties is the office where the financial records are kept. May God help this country."
     },
     {
-      "order": 150,
+      "order": 151,
       "id": "entry-1057154",
       "label": "speech",
       "level": "3",
@@ -1803,7 +1815,7 @@
       "text": "On a point of information, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 151,
+      "order": 152,
       "id": "entry-1057155",
       "label": "speech",
       "level": "3",
@@ -1815,7 +1827,7 @@
       "text": "Do you want to be informed, Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 152,
+      "order": 153,
       "id": "entry-1057156",
       "label": "speech",
       "level": "3",
@@ -1827,7 +1839,7 @@
       "text": "Yes. I am ready to be informed."
     },
     {
-      "order": 153,
+      "order": 154,
       "id": "entry-1057157",
       "label": "speech",
       "level": "3",
@@ -1839,7 +1851,7 @@
       "text": "Proceed, Sen. Sakaja."
     },
     {
-      "order": 154,
+      "order": 155,
       "id": "entry-1057158",
       "label": "speech",
       "level": "3",
@@ -1851,7 +1863,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I wanted Sen. Mutula Kilonzo Jnr. to go towards the end so that I inform him because I did not want to stop that flow. Now he is like a preacher. When he starts, he gets fire. There is is a lot of wisdom in many jurisdictions that still have the office of the Controller and Auditor-General. I think it is something that we need to discuss. If you look at the old Public Audit Act and many jurisdictions, I will just give you an example. There is the audit function that the Auditor-General does, but the controller function actually compliments and enables that audit function. Mr. Temporary Speaker, Sir, if you look at New Zealand, the Controller and Auditor-General is stipulated - and anyone can look at it. In its controller function, something that Sen. Mutula Kilonzo Jnr. has just mentioned. The main features of the controller function are: (i) Treasury supplies monthly statements to the Auditor-General to examine where the expenses and capital expenditure have been incurred in keeping with the appropriations. (ii) The Auditor-General there can direct a Minister to report to the House of Representatives like the National Assembly if the Auditor-General believes that any expenditure incurred is unlawful or applied for a purpose that is not within the scope, amount or period or an appropriation or other statutory authority. Then they can stop payments from a Crown Bank account or a departmental bank account to prevent money from being used for a purpose that is unlawful or inconsistent with any appropriation. This is what we need in this country. One is in a building in town and another one is somewhere else. They are not sharing these reports. Money is being withdrawn and used for very different purposes and then we find out later as morticians two or three years later; if even we are able to find out. When they do not share that, the Auditor-General is not able to tell us that this money was not used for its intended purpose. It is something to rethink. Bring back the office of the Controller and Auditor-General. Maybe we just wanted to create two jobs. I do not know. However, I just wanted to inform him that many other jurisdictions still have that distinction, especially in the Commonwealth countries."
     },
     {
-      "order": 155,
+      "order": 156,
       "id": "entry-1057159",
       "label": "speech",
       "level": "3",
@@ -1863,7 +1875,7 @@
       "text": "Proceed, Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 156,
+      "order": 157,
       "id": "entry-1057160",
       "label": "speech",
       "level": "3",
@@ -1875,7 +1887,7 @@
       "text": "Thank you for your information, Sen. Sakaja. It is always useful to ponder over these issues because we are legislatures and we must continue doing this. In Germany, the auditor is called a president. To secure that office, the president has a longer term than Parliament as we know it, both House of Representatives, Bundestrat and Bundestag . This is so that their term is not tied to the term of the politicians. That is how they do it. The President, who is the Auditor-General in Germany, summons everybody. They do as they, please. They have security of tenure and are not subject to the usual games of party politics that we play when we are appointing an Auditor-General, et cetera . Those are some of the things we need to think about. The process of audit cannot be left to members of the Senate; it must be dealt with by technical people. It is those technical people who will help us. The politicians sitting in committees in the House of Commons, Congress, and the House of Representatives ideally just sit to approve reports. The technical teams are the ones who do this. You cannot shift the people who work in the CPAIC every six or so months, that there is nobody there with institutional memory. We are now being asked to reconstitute the Committee. The first Chairman was Sen. M. Kajwang', the second Chairman is Sen. (Prof.) Ongeri, and the third one might be a different one. The first one does not know what the second one did, and the third one does not know what the first and second one did, and yet, it is possible that you are dealing with a governor who was in office since 2013. At the end of every Session, between the five years, this Senate should have an exit report on a particular county. For example, between 2013 and 2017, this is the performance of Nairobi City County with regard to its audit. This is so that you have a report for the next Session of Senate to follow up. Otherwise, what we are doing now is filling the Order Paper with a lot of these things and passing so many resolutions, which are not going to add any value to the members of these respective counties wherever they occur. Mr. Temporary Speaker, Sir, I support."
     },
     {
-      "order": 157,
+      "order": 158,
       "id": "entry-1057163",
       "label": "speech",
       "level": "3",
@@ -1887,7 +1899,7 @@
       "text": "Sen. Wambua."
     },
     {
-      "order": 158,
+      "order": 159,
       "id": "entry-1057164",
       "label": "speech",
       "level": "3",
@@ -1899,7 +1911,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I thank you for this opportunity to also make a contribution on this Motion by CPAIC. I will begin by thanking the Committee for compiling this Report and tabling it for debate. There are serious and fundamental questions that all of us need to engage in, as far as this and other reports by the same Committee are concerned. We are dealing with the report of the Financial Year 2014/2015. The report is here seven years down the line, observations have been made and recommendations put forward. So, what? Mr. Temporary Speaker, Sir, the level of misappropriation and misallocation of public funds in all counties is legendary. How these auditors, both the Auditor-General and our own Committee, come up with some of the recommendations and observations, is very baffling. As Sen. Mutula Kilonzo Jnr. said, there is a tendency in many counties where fire just has a way of finding its way into finance offices. It is just amazing how finance offices get burnt, documents are destroyed, and that is it. When you ask for evidence of allocation of resources, you are told that those documents were consumed in the fire that gutted the finance offices. You ask for backup and they say that they had not procured a backup system by the time the fired gutted the premises. That is where the story ends. Mr. Temporary Speaker, Sir, I pray to the Almighty God that he will give us longevity of life. In around 2030, 2040, or 2050, when the Senate of the Republic of Kenya will be debating the audit reports for the 2017/2018 Financial Year, I want to see what they will say about particular investments in my own county. I think very few people in this country do not know something called Kitui County Textile Center (KICOTEC) in Kitui County. Just scratching the surface of it, you will open a can of worms for a lot of things and many people. In the first place, an investment that continues to take up public resources when it was established even before Kitui County Assembly passed the necessary enabling law. Mr. Temporary Speaker, Sir, wonders will never cease. The other day, I saw my Governor basking in the glory of an announcement that she was making Kitui the first inland artificial beach. Who does these things? Who takes public money to go and invest in certain projects? I do not want to turn this into a session of poking holes in the administration of finances by the County Government of Kitui. The only thing that made me want to contribute to this Report is to ask the hard question. What is the value of these reports in our work? Beyond getting an opportunity to ventilate on them, apportioning blame on certain people and offices, what is the value of these reports? Mr. Temporary Speaker, Sir, if we are dealing with 2014/2015 today, what remedies are available to correct the messes that were made then? We know very well that between 2015 and today, a lot more mess has been visited on the administration of finances belonging to the finances in the counties. I would like to recommend two things. We should create proper synergies between the office of the Controller of Budget and the office of the Auditor-General, and by extension, all the audit institutions that have a bearing on the management of public resources in our counties. I think that is what Sen. Mutula Kilonzo Jnr. was suggesting. Mr. Temporary Speaker, Sir, the other day, I had issues with the Controller of Budget. I wrote to them asking very basic questions. The first question was: How is it that ever so often, staff in Kitui County go without pay and the staff in other counties are being paid? At what point does the Controller of Budget (CoB) authorize expenditure by the county government to an extent that there is not money to pay salaries for staff? Mr. Temporary Speaker, Sir, I am still awaiting those responses, but truth be said, there appears to be serious connivance between county governments and the CoB and the Auditor General. Unless we find a way of making sure that before counties spend these monies proper due diligence and fiscal analysis of projects and consultations is done, governors should not just be allowed to invest public finances the way they want. Lastly, yes, we could have been reduced to just being morticians in dealing with the reports of CPAIC, but there is a matter that has been raised on the Floor here on where accountability is when it comes to even our own Sessional Committees on CPAIC? It would be important that as we think through maybe reconstituting that Committee, serious thinking goes into it. We should ensure, as has been suggested by my colleagues, that when we finally do those exit reports by Committees, all CPAIC Committees from 2017-2022 will give exit reports for each county, for example, Kitui, Nairobi City, Machakos and Makueni Counties, so that there is a report for each. It enables the other Committees that come on board to know exactly what was happening, so that as they begin their work, they are properly guided by information gathered by previous Committees. I rest my case."
     },
     {
-      "order": 159,
+      "order": 160,
       "id": "entry-1057173",
       "label": "speech",
       "level": "3",
@@ -1911,7 +1923,7 @@
       "text": "Hon. Senators, I do not see any interest to contribute on the Motion, and the Chair is not present. I bring your attention to Standing Order 92(b)- \"A Senator who has moved a substantive motion has, on conclusion of debate and before the Question is put, a right of reply, and may delegate that right to another Senator to reply in the Senators' stead.\" We have not received any delegation of that right. The Chair forfeits that chance of replying the Motion. Under Standing Order 79, we have also determined that the Motion affects counties. I, therefore, defer putting the question until next time when it will appear on the Order Paper."
     },
     {
-      "order": 160,
+      "order": 161,
       "id": "entry-1057174",
       "label": "scene",
       "level": "3",
@@ -1923,7 +1935,7 @@
       "text": "(Putting of the question on the Motion deferred)"
     },
     {
-      "order": 161,
+      "order": 162,
       "id": "entry-1057175",
       "label": "speech",
       "level": "3",
@@ -1935,7 +1947,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 162,
+      "order": 163,
       "id": "entry-1057176",
       "label": "heading",
       "level": "3",
@@ -1947,7 +1959,7 @@
       "text": "FAST-TRACKING CULTURAL DEVELOPMENT IN COUNTIES"
     },
     {
-      "order": 163,
+      "order": 164,
       "id": "entry-1057177",
       "label": "speech",
       "level": "3",
@@ -1959,7 +1971,7 @@
       "text": "THAT, WHEREAS Kenya is a multi-ethnic and multi-racial country with rich and diverse cultural resources such as traditional medicine and foods, arts, craft, music, dances, dress among others; AWARE THAT, the Constitution, in its preamble acknowledges the cultural diversity of the Kenyan people who are determined to live in peace and unity as one indivisible sovereign nation whilst, Article 11 of the Kenyan Constitution recognizes culture as the foundation of the nation; NOTING that, while the Department of Culture under the Ministry of Sports, Culture and Heritage has been playing some of the key roles in promotion of cultural integration, formulation of policies and standards that will guide the development of culture, little information has been available to the Kenyan public; ACKNOWLEDGING, that culture performs a significant role in the life of a child, the cultural background in which a child is brought up affects the totality of his or her life's activities; CONCERNED, that our children are losing their sense of identity due to the negative influences due to inadequate cultural identity catalyzed by globalization which has led to catastrophic consequences to the next generation as experienced in our country where a majority of young people are showing symptoms of feeling suicidal, anxious, feeling of hopelessness, anger, violence, feeling isolated, and paranoia; NOW THEREFORE, the Senate urges the Cabinet Secretary, Ministry of Sports, Culture and Heritage to -"
     },
     {
-      "order": 164,
+      "order": 165,
       "id": "entry-1057178",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1983,7 @@
       "text": "a) Formulate cultural development policies and initiatives to inculcate stronger community values, safeguard Kenya's heritage, recognize local heroes and promote socio-cultural opportunities in the counties; and b) Formulate strategies to create an enabling environment for protection and promotion of diversity of cultural expressions in all counties."
     },
     {
-      "order": 165,
+      "order": 166,
       "id": "entry-1057179",
       "label": "scene",
       "level": "3",
@@ -1983,7 +1995,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 166,
+      "order": 167,
       "id": "entry-1057180-split-selected-9a619ae6-229f-4fe6-aa8b-ce52b120e91f",
       "label": "heading",
       "level": "3",
@@ -1995,7 +2007,7 @@
       "text": "PARKING CHARGES IN PUBLIC INSTITUTIONS OFFERING ESSENTIAL SERVICES"
     },
     {
-      "order": 167,
+      "order": 168,
       "id": "entry-1057180-split-after-c2dcba06-1b6f-4b1e-a71e-b21e28f252d0",
       "label": "speech",
       "level": "3",
@@ -2007,7 +2019,7 @@
       "text": "THAT, AWARE THAT, many urban areas and towns in Kenya lack designated car parking areas as a result of imbalance between parking supply and demand mainly due to ineffective land use planning and miscalculations of space requirements, thereby leading to exorbitant parking fees; NOTING THAT, most essential services offered in hospitals, educational institutions and other public utilities are offered in urban centers, shopping malls and other designated areas that charge parking fees to access; ACKNOWLEDGING, that whether they are delivered by public or private providers, essential services such as health, banking, education and other utilities are considered to be public services because they are public goods that sustain the well-being of every citizen and help in the development of the society as a whole; CONCERNED, that access to hospitals, educational institutions and other places offering essential services might be hindered due to exorbitant parking fees levied on motorists accessing these services; FURTHER CONCERNED, that charging entry fees amount to double taxation as the motorists who would have paid the parking fees will still pay for the services they seek; NOW THEREFORE, the Senate urges the Cabinet Secretary for Lands, Housing and Physical Planning together with the Council of Governors to come up with a policy framework to create an enabling environment for protection of motorists accessing essential services from paying exorbitant fees for parking."
     },
     {
-      "order": 168,
+      "order": 169,
       "id": "entry-1057181",
       "label": "scene",
       "level": "3",
@@ -2019,7 +2031,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 169,
+      "order": 170,
       "id": "entry-1057182",
       "label": "heading",
       "level": "3",
@@ -2031,7 +2043,7 @@
       "text": "PROVISION OF MONTHLY STIPEND TO CANCER PATIENTS IN HOSPITALS"
     },
     {
-      "order": 170,
+      "order": 171,
       "id": "entry-1057183",
       "label": "speech",
       "level": "3",
@@ -2043,7 +2055,7 @@
       "text": "Thank you, Mr. Temporary Speaker Sir. I beg to move the following Motion- THAT AWARE THAT, in Kenya leading cause of death after infectious and cardio-vascular diseases, with the annual incidence of cancer closing in on 37,000 new cases with an annual mortality of 28,000; FURTHER AWARE THAT, the economic impact of cancer is significant, and is increasing with staggering consequences occasioned by increased medical costs, lost income, and the financial, physical and emotional burden placed on families and caregivers during treatment time; ACKNOWLEDGING THAT, while Kenya is among the state parties that signed and ratified the Abuja Declaration that affirmed that state parties shall set aside at least 15 percent of their annual budget to improve the health sector, and that Article 43(1)(a) of the Constitution of Kenya states that everyone has a right to the highest attainable standards of health; NOTING THAT, the Ministry of Health has put in place the National Cancer Control Strategy (2016-2020) aimed at implementing a coordinated and responsive cancer control framework that leads to the reduction in incidence, morbidity and mortality through effective partnerships for collaborations for prevention, diagnostics, treatment, palliation and financing of cancer control activities to improve wellbeing of Kenyans; CONCERNED THAT, gaps in the existing legislative framework such as discriminatory practices in the form of coverage limits and bureaucracies by the National Hospital Insurance Fund (NHIF) and private insurance firms that result in delayed diagnosis, incomplete cancer treatments and inadequate follow-ups that contribute to poor outcomes for cancer patients; NOW THEREFORE, the Senate calls upon the Ministry of Health in partnership with the Council of Governors to- (i) Incorporate county cancer support services in their annual development plan; (ii) Partner with stakeholders to create support including counseling services; and (iii) Provide cancer patients with free prescriptions, wigs for those who have lost their hair, improvised breasts where applicable, and a subsidy for prostheses. As I begin to move this Motion, I honour my fellow legislators who have gone before me. I honour the late Hon. Waititu, hon. Laboso and hon. Ben Okello who was sitting almost where I am sitting. I sympathize and empathize with the millions of Kenyans who are right now in hospital going through cancer treatment, surgery and chemotherapy. I also encourage those who have gone through the treatment plan, the active cancer patients and those who have survived, and those who are still surviving to soldier on even as they still live in this world of the living Cancer takes a toll on many people; the rich or poor, young or old. Everyone is a candidate of cancer. The issue of cancer should concern every Kenyan because we cannot be too careful. No Kenyan can say he or she is too careful not to get cancer. Therefore, this is a Motion that involves all Kenyans, rich or poor; in executive positions or not, they must take the issue of cancer seriously. As a nation, we must do something about it. Mr. Temporary Speaker, Sir, as a cancer survivor, I would like to say that we do not have a predictable cause of cancer and we cannot say that cancer is predominantly a lifestyle disease. We also cannot say that cancer can catch one, two or three people because there is no specific cause of cancer. There are different types of cancer. They are diverse; almost 200 and the causes are unknown. When you are talking of the causes of cancer, the symptoms of cancer are known because it depends with the type of cancer. Different types of cancer have different symptoms. Therefore, you cannot sit down to begin advising someone that if they feel pain, they should know that maybe they have cancer. Mr. Temporary Speaker, Sir, from a survivor's point of view and someone who has experienced and gone through this, cancer is an abnormality of cells that can catch anyone. We have to see how to help those people who go through cancer and their families. When it comes to treatment, there is no specific treatment plan for cancer. I saw yesterday in the newspapers that there is a Bill already in the National Assembly that has come out saying that when it comes to the treatment plan, we have to exhaust all avenues of local treatment in order to pursue treatment abroad, so that people are referred to India, South Africa and so on. I stand on the Floor of this House to say candidly that as Kenya, we are not ready for that Bill. Even if the Bill passes, it will not help cancer survivors or patients because we have not trained enough oncologists to deal with cancer. The issue of medical tourism should stop when it comes to patients with terminal illnesses and those diagnosed with cancer. I want to thank Karen Hospital. When I was diagnosed with cancer in 2013, Karen Hospital was candid enough to tell me, and they called my family, that they are not able to treat me. This was because the kind of cancer I had was rare and the doctors were not able to manage it. Bone cancer is not predominantly found in adults. They surrendered and told me the truth; that I was going to lose my leg, uterus and pelvis. I asked them as an innocent patient: \"When I lose all that, what will I remain with?\" I will forever thank them because they gave me a referral to go to India. When I went to India, I was able to salvage my limb. When you see me walking with this limb, I walk because God allowed me. God allowed me to remain with my limb. If I had not pursued other avenues and alternatives, I would be having one leg without a uterus and a pelvis. I am speaking from a survivor's point of view. Sometimes we come up with legislations simply because we want to come up with laws. However, the laws we make sometimes do not really help the people who are affected. Mr. Temporary Speaker, Sir, as a cancer survivor, we must rethink how we look at people who have cancer. We must rethink how we treat them because once someone is diagnosed with cancer, life changes as well as their perception of life. If you are working somewhere, no boss will give you a promotion. They look at you in terms of you dying anytime. You are given two months, three weeks or even one year to die. When it comes to promotion, it is rare that people who have chronic diseases are earmarked for promotion. It is also rare that they are given high cadre jobs because when your employer looks at you, he or she sees as if you going to die anytime. We must come up with legislation that will help cancer survivors and people suffering from chronic diseases. Mr. Temporary Speaker, Sir, I commend Jomo Kenyatta University of Agriculture and Technology (JKUAT) because of the intervention that they did for me. They believed in me as a cancer survivor when I was a lecturer. They pursued and ensured that I had the money that would help me get my treatment in India. I was never laid off my job simply because my employer believed that I was going to be well and would still be productive. The reason I still have my limb is because JKUAT intervened. I remember when I was there they were able to fast-track and even ensure that I was paid any part-times I had taught for so many months. I thank the Vice-Chancellor, Prof. Ngumi, wherever she is. She would call me while in India to ask me, \"Gertrude, how are you getting on?\" My colleagues would ask me how I was getting on. That gave me hope that I would make it in the world of the living. Mr. Temporary Speaker, Sir, people with cancer go through a lot of hopelessness. No one ever makes a follow up to find out how they are getting on. In fact, most of the time when people talk to them they ask: \"When are you going back to India? When are you going back for treatment?\" They give you a lot of hopelessness. Nobody gives you an opportunity to be in the land of the living and do what the living are doing. It is our onus, as the Senate, to see how to help cancer survivors and patients. Kenya is among the countries that signed the Abuja Declaration that stated that state parties were going to support health and 15 per cent of the national revenue would go to health. It is painful when I say on the Floor of this House that even from the 15 per cent that state parties are opposed to set aside, we do not have money that has been set aside to train oncologist. Even if we buy or rent equipment and we have not trained the personnel and not paying them handsomely, medical tourism will forever be in Kenya. In the Senate, we allocate a lot of money to go to the counties for the purpose of health. However, when you go to the counties and to the ground, things are different. If you follow cancer survivors, you will find that they are languishing in pain. Go to Githurai; some of them call me until I do not know whether to block them or not. They want support from me because they know that I am a cancer survivor. However, as a Government, we are failing. We have to see how to ensure that cancer survivors are given National Hospital Insurance Fund (NHIF) cards and get treatment freely. That is because it is not by choice that they have cancer; anyone can get cancer. When it comes to cancer, it knocks the high and mighty and the lowly. It has no choice. Therefore, it is just our onus as the Senate to see how we will to intervene, especially when it comes to the issue of cancer. When a head of a family is diagnosed with cancer, the entire family is affected. Even the children are affected in terms of performance in school. They are affected psychologically and need to be counselled and talked to. They need a support system. It is unfortunate that when one is the head of the family and is diagnosed with cancer, sometimes one loses a job and the same person has children and so many needs. These are the needs that take someone to the grave because there is no one to empathize with them or feel what they are feeling. Mr. Temporary Speaker, Sir, there is no one to sympathize, feel for you or say that you are dying of Cancer and find ways to intervene. Rarely do people even offer to give the children of Cancer patients, who have papers, jobs so that they can help their families. I speak on this issue with passion because I am a Cancer survivor. I hope that I will touch Senators in this House to support this Motion. I hope that counties will also allocate money for the purpose of supporting Cancer patients, as well as persons who end up deformed from Cancer. I was personally not born as a person with disability, but I thank God for this disability. I got disability in order to survive. There is need to have empathy for people who get deformities as a result of Cancer. Thousands of women in Kenya have lost their breasts to Cancer, and are unable to buy the prosthesis. The county governments can help women who have lost their breasts to Cancer by subsidizing or offering free prosthesis. The county governments can also help persons who have lost their limbs to Cancer acquire artificial limbs, which can help such persons be productive. Mr. Temporary Speaker, Sir, in many nations of the world, people talk about issues of Cancer, but the money does not reach the intended persons. It is a money game. We need to empathize with Cancer patients because we are all potential Cancer victims. It is our onus to make legislation that will help Cancer survivors. The National Hospital Insurance Fund (NHIF) should be free for Cancer patients. Many Cancer patients are supposed to go for chemotherapy, but cannot afford it. Many Cancer patients have ended up selling their property to finance their treatment. More often than not, many Cancer patients die leaving their families languishing in poverty. In other parts of the world such as the United States of America (USA), when one is diagnosed with Cancer, they are treated differently. Employers of persons with Cancer treat them with caution and empathy. In the USA and other developed countries, Cancer patients who are still productive, are allowed to work as much as they can and even receive promotions. So many Kenyans are hurting out there. Many Cancer patients in Kenya do not receive empathy from their employers. It is unfortunate that when some employers know that a member of their staff is suffering from Cancer or any other chronic disease, that will be the end of their job. Mr. Temporary Speaker, Sir, we should learn to treat people with terminal illnesses with a lot of caution and love. It is not anybody's choice to get Cancer, and its treatment is very expensive. The treatment of Cancer varies from patient to patient, as it is determined by the biopsies. Biopsies are carried out on Cancer patients to find out whether they will be treated through chemotherapy alone or there is need to have both surgery and chemotherapy. There are some types of Cancers that can also be treated through radiotherapy alone. For Cancer patients to receive effective diagnosis and treatment, doctors, particularly oncologists, need to be trained. Kenya must invest in the treatment of Cancer patients. Investing in the treatment of Cancer does not only mean buying equipment. Investment in Cancer treatment includes the training of oncologists and other medical personnel, who are involved in the diagnosis, treatment and care of Cancer patients. Investing in human resource is very important. We can invest in equipment after investing in the human resource. Why should we invest in expensive equipment when people do not know how to use the equipment or have the expertise? We need to invest in the training of oncologists. It is not only training oncologists, but we must also invest in paying oncologists handsomely. If we do not pay them handsomely, we will have medical tourism where you will be referred abroad. If you are referred abroad, whoever is referring you will be given a commission. Therefore, as nation, we have to find out how we can actually help. In a country like India, treatment is affordable simply because the payment is good. They have the medicines. We need to borrow a leaf from India. This is because we need to have those oncologists here. We do not have to refer our people to India and South Africa. However, if we do not have the personnel, why waste our people here and say that we are trying to explore---"
     },
     {
-      "order": 171,
+      "order": 172,
       "id": "entry-1057191",
       "label": "scene",
       "level": "3",
@@ -2055,7 +2067,7 @@
       "text": "(There was a technical hitch)"
     },
     {
-      "order": 172,
+      "order": 173,
       "id": "entry-1057192",
       "label": "speech",
       "level": "3",
@@ -2067,7 +2079,7 @@
       "text": "Sen. (Dr.) Musuruve, you can now conclude your contribution on the Motion."
     },
     {
-      "order": 173,
+      "order": 174,
       "id": "entry-1057193",
       "label": "speech",
       "level": "3",
@@ -2079,7 +2091,7 @@
       "text": "Mr. Temporary Speaker, Sir, as a cancer survivor, my appeal is that each county government and the national Government should take the issue of cancer seriously and ensure that there are policies in place that support people with cancer in terms of treatment, palliation, prosthesis, and wigs. The county government needs to have a plan. Each county government needs to put in its yearly plan an initiative they are going to do for cancer survivors, so that they live long life. If they are given the opportunity - and I am a testimony - they can be productive. I know I am productive in this House because I was given an opportunity to live as a cancer survivor. I beg to move and call upon my fellow Senator, Sen. (Dr.) Milgo, to second this Motion. Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 174,
+      "order": 175,
       "id": "entry-1057194",
       "label": "speech",
       "level": "3",
@@ -2091,7 +2103,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I rise to second this very important Motion; that is, provision of monthly stipend and other support services to cancer patients in identified county hospitals. My colleague has spoken to it with a lot of passion because she is a cancer survivor. I like the passion she has for cancer patients. This is because those people who have cancer will be able to speak about it clearly, so that others can be helped. Mr. Temporary Speaker, Sir, Article 43 (1) (a) of the Constitution of Kenya 2010 speaks to ensuring that everyone has a right to affordable and standardized healthcare in this country. However, it has been a challenge to ensure that every one has standardized healthcare. My colleague has spoken to the fact that there is a lot of medical tourists to other countries, not because we cannot afford, but because of misplaced priorities. Mr. Temporary Speaker, Sir, many times in our country, we talk about the economy. A sound economy is contributed to by people who are healthy. A healthy nation contributes to a healthy economy. Mr. Temporary Speaker, Sir, it is a challenge or whatsoever that very many diseases have affected people, hence they fail to be productive, more specifically, cancer. Cancer itself is worse because of the fact that it is the third leading killer. In most cases, like my colleague said, there is lack of treatment centers. We even lack oncologists, the specialized doctors who treat cancer. Mr. Temporary Speaker, Sir, from this Motion, I have known that there are over 200 types of cancers in this country. However, the major challenge with cancer is the fact that, unless it is diagnosed at early stages, Stage I or II, it becomes a challenge to treat thereafter. In our country, annually, it kills over 28,000 people. Those are reported cases, but I know there are more people who die of cancer. In most cases when we go to the villages, we keep burying many people who pass on as a result of cancer. Maybe these 28,000 indicated here are the reported cases, but very many other cases are not reported because of cultural issues. Some people may even believe that someone may have died of witchcraft et cetera. However, the fact is that there are very many people who die of cancer. This disease has robbed families of their livelihoods. As my colleague has said, we do realise that when somebody is diagnosed with cancer from a particular family, apart from being unable to continue with work, there is confusion in orienting themselves in terms of the normal duties at home. In some instances, we find that if a wife gets cancer, the husband might choose to divorce her. In other cases, children from such families end up suffering because of loss of livelihoods from their parents. Cancer is a disease that takes up a lot of money. The moment it is at Stage Three and Four it means that person will require palliative care and a lot of medication to relieve pain. The families end up having a challenge. Apart from this disease affecting families, our country has been robbed of great leaders. My own Governor, Dr. Joyce Laboso, died of cancer. We also had the former Senator for Migori, hon. Ken Okoth from Kibera and the most recent death of a Member of Parliament, hon. Waititu from Juja. These were great leaders whose lives were nipped in the bud. They were going to contribute much to this country, however, we lost them at an early age. May their souls rest in eternal peace. Although Kenya is among countries that affirmed the Abuja Declaration to set aside 15 per cent of their annual budget for medical sector, it is still a challenge. We have just heard from the CPAIC how there is a lot of pilferage in the counties. A lot of money is lost in the counties. Recently, when we had the COVID-19 pandemic, there were few counties that put up seclusion centres and facilities, to ensure patients are given the care they required at that particular time. In any case, that is a disease that just came recently. One of the Jubilee Government pillars in their manifesto is healthcare as a key economic programme. However, Universal Health Care has not been achieved because there have been other priorities, one of them being COVID-19. We have had other issues like corruption, which have bedevilled our country. Recently, our President said that everyday we are losing almost Kshs2 billion due to corruption. The other day, we saw how COVID-19 funds that were taken to KEMSA are a subject of corruption. Although no culprit has been found, where there is fire there is smoke. We realise that a lot of funding has been lost, while we have cancer patients languishing in poverty. They are dying. My colleague was lucky to go for specialised treatment elsewhere. However, for those who are not able, it is a challenge because our country cannot put up cancer centres. They cannot even train oncologists. They do not even have screening machines. The other major challenge is lack of sensitization to inform the populace the importance of medical checkup even if one is not sick. If cancer is diagnosed when it is at Stage Three or Four, it will be difficult to treat it. It is only be treated or managed when it is diagnosed in the early stage. Therefore, we need many screening centres in counties. Cancer is the third leading killer disease in this country. Therefore, we need to give it the attention it deserves. I encourage people suffering from it to come out, as the late Hon. Waititu did, and openly declare that they are battling, so that they encourage us to go for screening. Cancer affects various organs in the body. For example, it affects reproductive organs. Many people in our counties do not talk about the challenges they are facing. By the time they are screened and diagnosed with it, it is at a very critical stage, and they end up dying. This being a challenging disease, I call upon the Government to set up screening centres in all counties. Again, if it were not for the mega corruption in this country, ordinary Kenyans would access medical care easily. Even the screening we are talking about poses a major challenge to our people. Mr. Temporary Speaker, Sir, this Motion is very important. Sen. (Dr.) Musuruve says that the Bill by the National Assembly will not assist in cancer treatment. I believe it will address cancer issues. It will help us allocate adequate resources to train oncologists and set up cancer screening centres. With those many remarks, I second."
     },
     {
-      "order": 175,
+      "order": 176,
       "id": "entry-1057200",
       "label": "scene",
       "level": "3",
@@ -2103,7 +2115,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 176,
+      "order": 177,
       "id": "entry-1057201",
       "label": "speech",
       "level": "3",
@@ -2115,7 +2127,7 @@
       "text": "On a point of order, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 177,
+      "order": 178,
       "id": "entry-1057202",
       "label": "speech",
       "level": "3",
@@ -2127,7 +2139,7 @@
       "text": "What is it, Sen. (Dr.) Musuruve?"
     },
     {
-      "order": 178,
+      "order": 179,
       "id": "entry-1057203",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2151,7 @@
       "text": "Mr. Temporary Speaker, Sir, because of the nature of this Motion and given that it has national and international impact, I request that we do not conclude debate on it today. I request that we carry the debate to the next Sitting, so that Members can ventilate on it and enrich the Bill from the National Assembly. We need to enact a law that will help cancer survivors and patients in this country."
     },
     {
-      "order": 179,
+      "order": 180,
       "id": "entry-1057204",
       "label": "speech",
       "level": "3",
@@ -2151,7 +2163,7 @@
       "text": "Sen. (Dr.) Musuruve, please, clarify whether you are using Standing Order No.105, that the debate be now adjourned or have the question deferred."
     },
     {
-      "order": 180,
+      "order": 181,
       "id": "entry-1057205",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2175,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I request that the debate proceeds to the next Sitting."
     },
     {
-      "order": 181,
+      "order": 182,
       "id": "entry-1057206",
       "label": "speech",
       "level": "3",
@@ -2175,7 +2187,7 @@
       "text": "That is under Standing Order No.105."
     },
     {
-      "order": 182,
+      "order": 183,
       "id": "entry-1057207",
       "label": "speech",
       "level": "3",
@@ -2187,7 +2199,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. It is Standing Order No.105."
     },
     {
-      "order": 183,
+      "order": 184,
       "id": "entry-1057208",
       "label": "scene",
       "level": "3",
@@ -2199,7 +2211,7 @@
       "text": "(Question that debate on the Motion be now adjourned put and agreed to)"
     },
     {
-      "order": 184,
+      "order": 185,
       "id": "entry-1057209",
       "label": "heading",
       "level": "1",
@@ -2211,7 +2223,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 185,
+      "order": 186,
       "id": "entry-1057210",
       "label": "speech",
       "level": "1",

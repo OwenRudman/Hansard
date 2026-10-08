@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2017-11-09-14-30-00",
-  "exported_at": "2026-10-05T07:59:34.700Z",
+  "exported_at": "2026-10-08T21:34:18.078Z",
   "entries": [
     {
       "order": 1,
@@ -1888,7 +1888,7 @@
     },
     {
       "order": 158,
-      "id": "entry-764473",
+      "id": "entry-764473-split-before-c3dbd32c-db13-4051-9c84-eb69eaf40ad1",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -1896,10 +1896,34 @@
       "speaker": "",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "Order, Sen. Wetangula. Let us just restrain ourselves. I thought you are the one who normally talks about exuberance, the opposite of which is restraint, calm and composure. You are doing the opposite. Honourable Senators we cannot entertain a Motion that questions proceedings of either the National Assembly or county assemblies. However, the last part says that\n\nSenate can debate structures and roles. That advice has already been given. Let us rest this matter and not over--- ( Sen. Wetangula spoke off-record ) Order, Senator! That is not a dignified way of prosecuting your agenda. I will insist that we will not entertain anything that can bring this House into disrepute when I am on this Chair. We can do the other things in the lounge, public rallies or somewhere else but not in this Chamber. If the Motion is restructured and crafted in a way that does not run afoul to Standing Order 90(5),it is so ordered and that is the end of this matter."
+      "text": "Order, Sen. Wetangula. Let us just restrain ourselves. I thought you are the one who normally talks about exuberance, the opposite of which is restraint, calm and composure. You are doing the opposite. Honourable Senators we cannot entertain a Motion that questions proceedings of either the National Assembly or county assemblies. However, the last part says that\n\nSenate can debate structures and roles. That advice has already been given. Let us rest this matter and not over---"
     },
     {
       "order": 159,
+      "id": "entry-764473-split-selected-b236de1c-e55a-4aec-b576-8eeadb52c7dd",
+      "label": "scene",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Sen. Wetangula spoke off-record )"
+    },
+    {
+      "order": 160,
+      "id": "entry-764473-split-after-c582b646-5a0d-4bca-a59d-234cb20104a7",
+      "label": "speech",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "The Deputy Speaker",
+      "reviewed": true,
+      "text": "Order, Senator! That is not a dignified way of prosecuting your agenda. I will insist that we will not entertain anything that can bring this House into disrepute when I am on this Chair. We can do the other things in the lounge, public rallies or somewhere else but not in this Chamber. If the Motion is restructured and crafted in a way that does not run afoul to Standing Order 90(5),it is so ordered and that is the end of this matter."
+    },
+    {
+      "order": 161,
       "id": "entry-764477",
       "label": "speech",
       "level": "2",
@@ -1911,7 +1935,7 @@
       "text": "On a point of order Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 160,
+      "order": 162,
       "id": "entry-764478",
       "label": "speech",
       "level": "2",
@@ -1923,7 +1947,7 @@
       "text": "Is it on a different issue?"
     },
     {
-      "order": 161,
+      "order": 163,
       "id": "entry-764479",
       "label": "speech",
       "level": "2",
@@ -1935,7 +1959,7 @@
       "text": "No, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 162,
+      "order": 164,
       "id": "entry-764480",
       "label": "speech",
       "level": "2",
@@ -1947,7 +1971,7 @@
       "text": "No, Senate Majority Leader. You should lead by example. When the Chair makes a directive, the number one supporter and enforcer should be the Majority Leader followed by the Minority Leader, in that order. Let us leave this matter. On that note, are we through with the Notices of Motion? Let us have them. Proceed Majority Leader."
     },
     {
-      "order": 163,
+      "order": 165,
       "id": "entry-764481",
       "label": "speech",
       "level": "2",
@@ -1959,7 +1983,7 @@
       "text": "Thank you Mr. Deputy Speaker, Sir, for the directions you gave. I will abide by what you said. That actually settles what we used to do in the past where we used to come and discuss Bills when they started in the National Assembly and we had a quarrel with them. Maybe from now henceforth, we will not complain about what will happen in any Chamber, going forward."
     },
     {
-      "order": 164,
+      "order": 166,
       "id": "entry-764482",
       "label": "scene",
       "level": "2",
@@ -1971,7 +1995,7 @@
       "text": "(Sen. Mutula Kilonzo Jnr. spoke off-record\n\n)"
     },
     {
-      "order": 165,
+      "order": 167,
       "id": "entry-764484",
       "label": "speech",
       "level": "2",
@@ -1983,7 +2007,7 @@
       "text": "Order, Senators."
     },
     {
-      "order": 166,
+      "order": 168,
       "id": "entry-764485",
       "label": "speech",
       "level": "2",
@@ -1995,7 +2019,7 @@
       "text": "Sen. Mutula Kilonzo Jnr., you are the one who has been making the loudest noise. I am saying that with a light touch because Sen. Mutula Kilonzo Jnr., is my friend."
     },
     {
-      "order": 167,
+      "order": 169,
       "id": "entry-764486",
       "label": "heading",
       "level": "1",
@@ -2007,7 +2031,7 @@
       "text": "NOTICE OF MOTION"
     },
     {
-      "order": 168,
+      "order": 170,
       "id": "entry-764487-split-selected-78e2596e-9bf6-4f23-9905-700a8340b34d",
       "label": "heading",
       "level": "2",
@@ -2019,7 +2043,7 @@
       "text": "ESTABLISHMENT OF A JOINT PARLIAMENTARY SELECT COMMITTEE ON ELECTION OF MEMBERS TO EALA"
     },
     {
-      "order": 169,
+      "order": 171,
       "id": "entry-764487-split-after-cc9ef76f-d2fa-426f-99c3-8b11d2158cfa",
       "label": "speech",
       "level": "2",
@@ -2031,7 +2055,7 @@
       "text": "Mr. Deputy Speaker, Sir, I would like to give Notice of the following Motion:- THAT, ACKNOWLEDGING that the East Africa Legislative Assembly (EALA) is established under Article 9 of the Treaty for the Establishment of the East African Community (EAC) as one of the key organs and institutions of the Community responsible for the Community's legislative matters;"
     },
     {
-      "order": 170,
+      "order": 172,
       "id": "entry-764490",
       "label": "speech",
       "level": "2",
@@ -2043,7 +2067,7 @@
       "text": "RECOGNIZING that Article 50 of the Treaty provides for the election of Members of EALA by respective Partner States' Legislatures in accordance with their parliamentary procedures for a term of five years; FURTHER aware that the East African Legislative Assembly Elections Act, 2011 contemplates conclusion of the election of Members of a new Assembly to be within ninety (90) days before the expiry of the term of the subsisting Assembly; RECALLING THAT the process of electing new Members to the East African Legislative Assembly was commenced by the Eleventh Parliament in April, 2017 but could not be concluded by the end of the term of that Parliament; NOTING THAT the term of the previous East African Legislative Assembly lapsed on 4th June, 2017; COGNIZANT of the need to urgently conclude the election process for the East African Legislative Assembly to commence transacting business of the East African Community; NOW THEREFORE, in accordance with the provisions of Rule 9 of the Houses of Parliament (Joint Sittings) Rules, the Senate resolves to establish a Joint Select Committee consisting of five (5) Members from each House of Parliament to undertake the functions contemplated under the East African Legislative Assembly Elections (Election of Members of the Assembly) Rules, 2017, and report to the House within the timelines stipulated in the said Rules, and that: (a) The offices of the Clerks of Houses of Parliament provide secretariat services in accordance with the Standing Orders; and, (b) the following Members represent the Senate in the Joint Select Committee: 1. Sen. Aaron Cheruiyot 2. Sen. (Dr.) Abdulahi Ibrahim Ali 3. Sen. Millicent Omanga 4. Sen. Mutula Kilonzo Jnr and; 5. Sen. Rose Nyamunga. Mr. Deputy Speaker, Sir the drama of yesterday will not end soon. There was due consultation."
     },
     {
-      "order": 171,
+      "order": 173,
       "id": "entry-764491",
       "label": "speech",
       "level": "2",
@@ -2055,7 +2079,7 @@
       "text": "Are you through with the notice of Motion? There is a point of order. What is it Sen. Wetangula?"
     },
     {
-      "order": 172,
+      "order": 174,
       "id": "entry-764492",
       "label": "speech",
       "level": "2",
@@ -2067,7 +2091,7 @@
       "text": "On a point of Order, Mr. Deputy Speaker, Sir. Just as a matter of interest and following precedence in the House, I know we consulted with the distinguished Senator for Elgeyo-Marakwet. However, the precedent that we have set and more particularly in the last Senate was that where we have such bipartisan committees, we always presented equal Members. Where we had adversarial committees that were to reflect the strengths of the Houses then the opposite side always took more.\n\nThis is a bipartisan Committee that will do a job that does not require contest and since the opposite side has named three senators, following precedent set in the previous House--- I know I ought to have talked to my distinguished colleague earlier but I did not have the time. It will be fair and just that we give an additional name so that we have three from each side. We do not expect them to go and engage in any unhealthful contest and, even the previous East African Legislative Assembly Committee that we had, we had three senators from both sides. We had balanced it at that level."
     },
     {
-      "order": 173,
+      "order": 175,
       "id": "entry-764496",
       "label": "speech",
       "level": "2",
@@ -2079,7 +2103,7 @@
       "text": "Mr. Deputy Speaker, Sir, the relevant Standing Order is No.182 on Criteria for Nomination. It is clear that:- \"In nominating a Senator to serve in a Select Committee, the Senate Business Committee shall ensure that the membership of each Committee reflects the relative majorities of the seats held by each of the Parliamentary parties in the Senate.\" Therefore, there is no Standing Order for bipartisan committees. It makes it more complicated because the National Assembly has already nominated five people. Since it is a Joint Committee, there must be equal numbers from both Houses."
     },
     {
-      "order": 174,
+      "order": 176,
       "id": "entry-764497",
       "label": "speech",
       "level": "2",
@@ -2091,7 +2115,7 @@
       "text": "(Sen. (Prof) Kindiki: Yes, Minority Leader."
     },
     {
-      "order": 175,
+      "order": 177,
       "id": "entry-764498",
       "label": "speech",
       "level": "2",
@@ -2103,7 +2127,7 @@
       "text": "The chips lie where they have fallen for now. However, in the next similar process I encourage the distinguished Senator for Elgeyo-Marakwet to liaise with his endless talking Leader in the other House to always remember that in bipartisan Committees we have always gone with equal numbers."
     },
     {
-      "order": 176,
+      "order": 178,
       "id": "entry-764499",
       "label": "speech",
       "level": "2",
@@ -2115,7 +2139,7 @@
       "text": "Sen. Wetangula, are you referring to a Leader of another House?"
     },
     {
-      "order": 177,
+      "order": 179,
       "id": "entry-764500-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -2127,7 +2151,7 @@
       "text": "(Sen. Wetangula spoke of off-record)"
     },
     {
-      "order": 178,
+      "order": 180,
       "id": "entry-764500-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -2139,7 +2163,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 179,
+      "order": 181,
       "id": "entry-764501",
       "label": "speech",
       "level": "2",
@@ -2151,7 +2175,7 @@
       "text": "Order, Senators! I will not let you get away with that. Hon. Senators, I want to be extremely clear. As long as I am seated here I will not entertain anything that can bring this House into disrepute. Leader of the Minority, you are the biggest suspect and culprit in this House. Every time you wake up, you want to demean somebody, you want somebody to look bad and small. When you are a leader, you should be able to make other people look good and important. Let us not belabor this."
     },
     {
-      "order": 180,
+      "order": 182,
       "id": "entry-764502",
       "label": "scene",
       "level": "2",
@@ -2163,7 +2187,7 @@
       "text": "(Sen. Murkomen spoke off-record)"
     },
     {
-      "order": 181,
+      "order": 183,
       "id": "entry-764503",
       "label": "speech",
       "level": "2",
@@ -2175,7 +2199,7 @@
       "text": "Order! Leader of the Majority! Kindly, that warning has gone to all of us. It will be enforced strictly. What is it Sen. Murkomen?"
     },
     {
-      "order": 182,
+      "order": 184,
       "id": "entry-764504",
       "label": "speech",
       "level": "2",
@@ -2187,7 +2211,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir. The Minority Leader violated the same Standing Order he relied on to castigate the Motion by Sen. Kang'ata. At that point in time, you had ruled that you will not entertain this. The only way to remove what the Minority Leader said about a Leader of the Majority in the National Assembly, whether he named him in person or in general\n\ndisrepute in the eyes of National Assembly, he should withdraw and apologize. There is no other way we can possibly say we overlook the matter for now. The only way to expunge from the record is when he withdraws and apologizes."
     },
     {
-      "order": 183,
+      "order": 185,
       "id": "entry-764508",
       "label": "speech",
       "level": "2",
@@ -2199,7 +2223,7 @@
       "text": "Now, Majority Leader and Minority Leader, this House depends on the two of you to make progress. I have already pronounced myself on that issue, we will not reopen it. The issue raised by the Majority Leader is valid. Leader of the Minority, in one sentence make an undertaking that----. You first of all withdraw and then make an undertaking that, going forward, we will not be having these kinds of things. Let us stick to the issues."
     },
     {
-      "order": 184,
+      "order": 186,
       "id": "entry-764509",
       "label": "speech",
       "level": "2",
@@ -2211,7 +2235,7 @@
       "text": "Mr. Deputy Speaker, Sir, first of all, the complaining Majority Leader has not pointed out which Standing Order I have violated. Secondly, Standing Order 94(1) is on \"Responsibility for Statement of fact.\" It states:- \"A Senator shall be responsible for the accuracy of any facts that the Senator alleges to be true and maybe required to substantiate any such facts instantly.\" In a subsequent Standing Order, he or she may be given time to substantiate later."
     },
     {
-      "order": 185,
+      "order": 187,
       "id": "entry-764510",
       "label": "speech",
       "level": "2",
@@ -2223,7 +2247,7 @@
       "text": "Order, Senator!"
     },
     {
-      "order": 186,
+      "order": 188,
       "id": "entry-764511",
       "label": "speech",
       "level": "2",
@@ -2235,7 +2259,7 @@
       "text": "Mr. Deputy Speaker, Sir, let me conclude. I can bring a pile of HANSARDs from the lower House to demonstrate my point. I can also go to the media Houses and bring clips, including electronic transmissions of endless talking---"
     },
     {
-      "order": 187,
+      "order": 189,
       "id": "entry-764512",
       "label": "speech",
       "level": "2",
@@ -2247,7 +2271,7 @@
       "text": "Resume your seat, Sen. Wetangula. You are a lawyer of long standing. You know very well, even within the legal system there are things considered vexatious and frivolous. I am surprised that a ranking Member like you of this House is trying to demonstrate how a Member of another House talks endlessly and wants to be given time to prove that. We must use our time and that of the House very well. Sen. Wetangula, do you want it to go on record that the Leader of the Minority of the Senate has said that the Leader of the Majority in the National Assembly talks endlessly? Is that what you want the HANSARD of this House to reflect for posterity? Is it something that you can proudly say you want to protect? Is that something you want to hang on?"
     },
     {
-      "order": 188,
+      "order": 190,
       "id": "entry-764513",
       "label": "speech",
       "level": "2",
@@ -2259,7 +2283,7 @@
       "text": "Mr. Deputy Speaker, Sir, if you allow me to remind you, when you were leading the other side in the last Parliament - and I can bring the HANSARD - you used much stronger language against offending Members of that House on this floor, more particularly at that time, the Member for Mbeere South, who was the then Chairperson of the Budget Committee. He was overreaching himself on every issue against the Senate. You described that Member in a language stronger and more offensive. \"Talking endlessly\", in fact, for a representative of the people is a compliment. They are elected to and paid to talk. It is not an offensive word. In fact, I would be very happy if any Senator here tells me that I talk endlessly. I will not feel offended at all because that is what I am\n\npaid to do. That is what we are here to do. Woe unto you if you come here and remain \"nil by mouth\"!"
     },
     {
-      "order": 189,
+      "order": 191,
       "id": "entry-764517",
       "label": "speech",
       "level": "2",
@@ -2271,7 +2295,7 @@
       "text": "What is it, Sen. Cheruiyot?"
     },
     {
-      "order": 190,
+      "order": 192,
       "id": "entry-764518",
       "label": "speech",
       "level": "2",
@@ -2283,7 +2307,7 @@
       "text": "Mr. Deputy Speaker Sir, sadly, we are increasingly being treated to these kinds of debates every afternoon. It is not for lack of what to say that the Members you see in this House do not speak. We respect the dignity of this House and keep quiet each afternoon. Twenty to 30 minutes of our time, in my considered opinion, is wasted on these kinds of issues. Could you be firm and ensure that when you give a ruling, let it be final so that we make progress? We have important business to attend to. We come to this House because we respect it, but not to be entertained by side-shows every now and then."
     },
     {
-      "order": 191,
+      "order": 193,
       "id": "entry-764519",
       "label": "speech",
       "level": "2",
@@ -2295,7 +2319,7 @@
       "text": "What is it, Sen. Yusuf Haji?"
     },
     {
-      "order": 192,
+      "order": 194,
       "id": "entry-764520",
       "label": "speech",
       "level": "2",
@@ -2307,7 +2331,7 @@
       "text": "Mr. Deputy Speaker Sir, he could have his own reason for saying that. However, the fact that the Chair requested you to withdraw those words, there is no harm in doing so. If you do that we can proceed. Thank you."
     },
     {
-      "order": 193,
+      "order": 195,
       "id": "entry-764521",
       "label": "speech",
       "level": "2",
@@ -2319,7 +2343,7 @@
       "text": "Lastly, Sen. Seneta."
     },
     {
-      "order": 194,
+      "order": 196,
       "id": "entry-764522",
       "label": "speech",
       "level": "2",
@@ -2331,7 +2355,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me a chance; I was almost concluding that you are biased because---"
     },
     {
-      "order": 195,
+      "order": 197,
       "id": "entry-764523",
       "label": "speech",
       "level": "2",
@@ -2343,7 +2367,7 @@
       "text": "Order, Senator! Proceed with your point of order before you are out of order."
     },
     {
-      "order": 196,
+      "order": 198,
       "id": "entry-764524",
       "label": "speech",
       "level": "2",
@@ -2355,7 +2379,7 @@
       "text": "Mr. Deputy Speaker, Sir, I rise on a point of order pursuant to Standing Order No. 91. It states: \"A Senator who has used exceptionable words and declines to explain or retract the words or to offer apologies for the use of the words to the satisfaction of the Speaker, shall be deemed to be disorderly and shall be dealt with in accordance with the rules pertaining to disorderly conduct.\" Mr. Deputy Speaker, Sir, it is quite unfortunate that yesterday the Senate Minority Leader confirmed proudly that he is the Senate Minority Leader of this House. Indeed, we appreciated that you received a letter giving him the status of the Senate Minority Leader in this House. If he is wasting our time by bringing issues regarding other leaders who are not here to defend themselves, then I request that you rule that he is disorderly."
     },
     {
-      "order": 197,
+      "order": 199,
       "id": "entry-764525",
       "label": "speech",
       "level": "2",
@@ -2367,7 +2391,7 @@
       "text": "Order, Senators. I think we have exhausted that point. Sen. Wetangula, it does no harm, as Sen. Haji has said, to withdraw those words. Thank you, Sen. Haji, for continually helping us to do our work well. You will still have an opportunity in your political activities to politic and comment out there. I heard you trying to discuss the past conduct of the Chair in some other life elsewhere. I urge you, for purposes of record, to withdraw that part, so that we close this business and move on amicably. This will ensure a conducive environment to run our affairs. The Senate Minority Leader, it will do you no harm because that will help us proceed."
     },
     {
-      "order": 198,
+      "order": 200,
       "id": "entry-764526",
       "label": "speech",
       "level": "2",
@@ -2379,7 +2403,7 @@
       "text": "Mr. Deputy Speaker, Sir, I am at a loss. Can we bring the Oxford English Dictionary and look at the definition of \"endless talking\"? I am convinced and reasonably well schooled, but if that is the direction of the Chair, I will substitute the words \"endless talking\" with \"taking every available opportunity to talk.\""
     },
     {
-      "order": 199,
+      "order": 201,
       "id": "entry-764528",
       "label": "speech",
       "level": "2",
@@ -2391,7 +2415,7 @@
       "text": "Let us proceed. Senate Minority Leader, you have heard me clearly. Next time I will not be very kind. That should act as a notice to you. Hon. Senators, we were on notices of Motions. Senate Majority Leader!"
     },
     {
-      "order": 200,
+      "order": 202,
       "id": "entry-764529",
       "label": "heading",
       "level": "1",
@@ -2403,7 +2427,7 @@
       "text": "NOTICE OF MOTION"
     },
     {
-      "order": 201,
+      "order": 203,
       "id": "entry-764530",
       "label": "heading",
       "level": "2",
@@ -2415,7 +2439,7 @@
       "text": "ALTERATION OF THE SENATE CALENDAR"
     },
     {
-      "order": 202,
+      "order": 204,
       "id": "entry-764531",
       "label": "speech",
       "level": "2",
@@ -2427,7 +2451,7 @@
       "text": "Mr. Speaker, Sir, I beg to give notice of the following Motion:- THAT, pursuant to Standing Order 29 (4), the Senate resolves to alter its Calendar in respect of the Fourth Part of the First Session, in order to proceed on a recess from Friday 10th November, 2017 to Monday 27th November, 2017."
     },
     {
-      "order": 203,
+      "order": 205,
       "id": "entry-764532",
       "label": "speech",
       "level": "2",
@@ -2439,7 +2463,7 @@
       "text": "Next Order."
     },
     {
-      "order": 204,
+      "order": 206,
       "id": "entry-764533",
       "label": "heading",
       "level": "1",
@@ -2451,7 +2475,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 205,
+      "order": 207,
       "id": "entry-764535",
       "label": "heading",
       "level": "3",
@@ -2463,7 +2487,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE (AMENDMENT) BILL(SENATE BILL NO. 9 OF 2017)"
     },
     {
-      "order": 206,
+      "order": 208,
       "id": "entry-764536",
       "label": "speech",
       "level": "3",
@@ -2475,7 +2499,7 @@
       "text": "Mr. Speaker, Sir, with tremendous respect to all Senators, yourself and your authority - you know that I am a man who believes in respect for authority as the Bible says and also as you taught me - I would like to indicate, before I move this Bill, that I am entitled to speak for 60 minutes. However, considering the Senators' utmost commitment and the business that is still ahead of us, I will restrain my comments to within ten minutes and request that, with your direction later, the rest of the Senators follow suit by limiting themselves to three or five minutes, so that we dispose of this business. This is because we have to do the Second Reading and go to the Committee of the Whole stage. We will be voting endlessly - I am just borrowing that word - but it will end anyway. Considering that the Senate has to sit and vote all through, if we do not do that, we will sit up to 7.00 p.m or 8.00 p.m."
     },
     {
-      "order": 207,
+      "order": 209,
       "id": "entry-764537",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2511,7 @@
       "text": "Thank you, the Senate Majority Leader. That statement is very important. I hope that when you will be moving, you will guide the Senators so that they understand that we are not doing anything different. It is the same thing; we are just correcting some errors. So, I would request us to shorten debate, so that we can vote. If we talk and not vote, we will have failed this country. I will be strict on time. Both sides of the House will agree with me that we need to push this through. I will shorten your time to five minutes, three minutes for the seconder and two minutes to whoever will contribute.\n\nIt is so ordered. Proceed, Senate Majority Leader."
     },
     {
-      "order": 208,
+      "order": 210,
       "id": "entry-764541",
       "label": "speech",
       "level": "3",
@@ -2499,7 +2523,7 @@
       "text": "Mr. Speaker, Sir, I beg to move the Motion that the County Allocation of Revenue (Amendment) Bill (Senate Bill No. 9 of 2017) be now read a Second Time."
     },
     {
-      "order": 209,
+      "order": 211,
       "id": "entry-764542",
       "label": "speech",
       "level": "3",
@@ -2511,7 +2535,7 @@
       "text": "Is it a Motion?"
     },
     {
-      "order": 210,
+      "order": 212,
       "id": "entry-764543",
       "label": "speech",
       "level": "3",
@@ -2523,7 +2547,7 @@
       "text": "It is a Motion; everything is called a Motion. It is the business on the Order paper. It is a Motion by reference, but it is a Bill. Mr. Speaker, Sir, I would like to make it clear because we went through this process yesterday and today. This Bill is important, but we are not doing anything substantive. We are actually doing correction of errors of what was already done in the 11th Parliament. We did all the work we did, but the manner in which the schedule was drafted did not conform to the requirements of the Constitution and the law. The schedule has just been corrected to reflect common sense and ensure that through the distribution and disbursement to the counties, we can identify the resources that have been allocated under the Constitution, in so far as equitable sharing of resources is concerned. It also includes the grants that come from donors and other resources that go to our counties. As a Senate, we have a very important responsibility because our counties need to move forward. In this country, many people complain about marginalisation. I heard governors and leaders from the former coast province complaining about marginalisation but we have devolution to cure the problem of marginalisation. Many Senators will agree with me that we still face challenges even in counties like Turkana and Mandera which get large allocations of money. Other counties that get huge sums of money include Nairobi but you will still find people struggling to get services. When you ask the same governors questions, they will be quick to say that the national Government marginalises them without realising that they marginalise their own people by stealing the money, going for trips, poor allocation of resources and purchasing houses whose prices are inflated. This House has always acted in a bi-partisan manner in oversighting county governments. Mr. Deputy Speaker, Sir, I was surprised to hear the Senate Minority Leader say that this House cannot question what happens in country assemblies. We are here to question what happens in county assemblies and county executives. That is why Article 96 provides that we oversight county governments. We have to ask how they do their business, move their Motions and pass their laws. I do not agree with those who say that we cannot ask questions as to how county assemblies and executives conduct themselves. If we cannot do that, then we need to close up shop and go home. Article 96 gives us power to question and oversight county governments and where there is contradiction between the Standing Orders or any Act of Parliament on that constitutional responsibility--- We must take our job seriously and ensure that resources that we allocate to county governments are used well. Mr. Deputy Speaker, Sir, I do not want to take so much time. I beg to move and ask Sen. Mutula Kilonzo Jnr. to second so that we move faster."
     },
     {
-      "order": 211,
+      "order": 213,
       "id": "entry-764545",
       "label": "speech",
       "level": "3",
@@ -2535,7 +2559,7 @@
       "text": "Mr. Deputy Speaker, Sir, just to answer Sen. Murkomen, we must have fidelity to this law, the Constitution and fear God. We cannot discuss the conduct of an independent institution like a county assembly. That is as clear as a, b, c. Mr. Deputy Speaker, Sir, I wanted to raise a point of order before because I am told that the committee that we approved yesterday was to table a report. I had sought to know whether the declaration by the Cabinet Secretary (CS) in charge of Finance and National Treasury, Mr. Henry Rotich, is legal to the extent that equitable share of revenue has not been remitted to counties because of the amendments that we seek to have in this Bill. The Senate must pronounce itself and since the Senate Majority Leader has not pronounced himself, I want to say that Mr. Henry Rotich has violated the Constitution. Article 219 is very clear and it states that: \"A county's share of revenue raised by the national government shall be transferred to the county without undue delay and without deduction, except when the transfer has been stopped under Article 225.\" Mr. Deputy Speaker, Sir, the principal object of this Bill is to amend the County Allocation of Revenue Bill No.23 of 2017 to replace the Third Schedule of the Bill on conditional grants to county allocations. While we agree that there might be discrepancies in schedules and particularly on conditional grants, we must tell the national Government, through the CS Treasury, that counties cannot wallow while they sit in their offices here in Nairobi to amend schedules on conditional grants, which they have engaged with other partners on their own without the involvement of the Senate. While I support this, this Senate must make a resolution that in future we will not entertain the violation of the Constitution on shareable revenue because that is something that we passed in the Division of Revenue Bill and this House has very little to do with conditional grants. As far as I am concerned, we do not audit conditional grants. What we do here is nothing less than being a conveyer belt for national Government. Those reports do not come to us. We have a role in Article 96 to protect counties and their governments. Shareable revenue should not be tied to conditional grants by the national Government. Otherwise, what will happen in the future is that when we refuse to pass conditional grants like we did with the conditional grants on building of capacities of counties, the national Government will refuse to transfer funds and that is illegal. That is what we call impunity. The brother and sister, and the father and mother of impunity is violating the Constitution. Mr. Deputy Speaker, Sir, I support this with all those caveats and I expect the Senate Majority Leader to stand up and be counted as the leader of his House and condemn actions that violate our role. These are actions that might be construed to mean that conditional grants are for some reason superior to the shareable revenue. I thank you."
     },
     {
-      "order": 212,
+      "order": 214,
       "id": "entry-764546",
       "label": "speech",
       "level": "3",
@@ -2547,7 +2571,7 @@
       "text": "Order, hon. Senators. I will propose the question."
     },
     {
-      "order": 213,
+      "order": 215,
       "id": "entry-764547",
       "label": "scene",
       "level": "3",
@@ -2559,7 +2583,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 214,
+      "order": 216,
       "id": "entry-764549",
       "label": "speech",
       "level": "3",
@@ -2571,7 +2595,7 @@
       "text": "I can see three requests. I request that you make it brief because we have a lot of voting this afternoon. Organise your thoughts and each will have two minutes. There should be no side issues. We will begin with Sen. Wako Amos Sitswila, Busia County."
     },
     {
-      "order": 215,
+      "order": 217,
       "id": "entry-764550",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2607,7 @@
       "text": "Actually it is Sitswila Amos Wako in that order. Mr. Deputy Speaker, Sir, I just want to support the submission by Sen. Mutula Kilonzo Jnr. by offering more legal arguments. Article 202 of the Constitution states that: \"(1) Revenue raised nationally shall be shared equitably among the national and county governments. (2) County governments may be given additional allocations from the national government's share of the revenue, either conditionally or unconditionally.\" I believe that Clause 4 of the Bill is the one that implements Article 202(1). The schedule we are dealing with now on conditional grants implements Article 202(2). In other words, equitable revenue sharing and conditional grants are treated separately under the Constitution and that is in the main Act. Section 4 deals with Article 202(1) and Section 5 of the Act deals with Article 202(2). I am surprised that mistakes happened on issues dealing with conditional revenue. This is the first time that these type of mathematical mistakes and errors have occurred in such important documents that emanate from the Treasury. I think this is the first time this is happening since Independence because I have never seen it happen and I hope it will never happen again. But here, it happened only on issues relating to conditional grants which come under Article 202 (2) of the Constitution. Therefore, that is what should have been affected. It should not have affected the equitable sharing of revenue which comes under Article 202 (1). That is why I support Sen. Mutula Kilonzo Jnr. in that, that should not have been used as an excuse to delay the remittance of funds to counties in the sharing of the equitable revenue. Therefore, very much as we support this and we move forward, I would really ask the Treasury, even before this amendment becomes law, to immediately remit the funds to county governments so that they can start doing their work. Thank you."
     },
     {
-      "order": 216,
+      "order": 218,
       "id": "entry-764551",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2619,7 @@
       "text": "Thank you. You have used your two minutes well."
     },
     {
-      "order": 217,
+      "order": 219,
       "id": "entry-764552",
       "label": "speech",
       "level": "3",
@@ -2607,7 +2631,7 @@
       "text": "Thank you so much, Mr. Deputy Speaker, Sir, for giving me the opportunity to support the Bill before us and say that this brings us to the real role that we have in this House, that is, the division of revenue. I would like to add that any revenue that goes to the county must be over-sighted by our county assemblies. It is extremely important that as a House, we focus on the roles that our assemblies play. Before I even make the comment on the assemblies, I would like to thank the Senate Majority Leader and the Senate Minority Leader for the display that they made yesterday in moving aside and bringing us names peacefully despite the display that they had earlier. I would like to really encourage them that this is the House that is being looked up to - the Upper House as far as the assemblies are concerned here and at the same time, the House that the county assemblies depend on for guidance and leadership. That is why we have been allowed by the Standing Orders to really look at the roles that they play so that even as we approve revenues that are being sent to the counties, we must think\n\nseriously about the role of our Members of the County Assemblies (MCAs) in oversight. Unless these monies are given due oversight, we may just be approving money to be sent to the county governments and nobody does---"
     },
     {
-      "order": 218,
+      "order": 220,
       "id": "entry-764556",
       "label": "scene",
       "level": "3",
@@ -2619,7 +2643,7 @@
       "text": "(The microphone went off)"
     },
     {
-      "order": 219,
+      "order": 221,
       "id": "entry-764557",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2655,7 @@
       "text": "Thank you. Yes, Sen. (Dr.) Kabaka, Senator for Machakos County. You have two minutes."
     },
     {
-      "order": 220,
+      "order": 222,
       "id": "entry-764558",
       "label": "speech",
       "level": "3",
@@ -2643,7 +2667,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I am supporting Sen. Mutula Kilonzo Jnr., but one thing is very clear here---"
     },
     {
-      "order": 221,
+      "order": 223,
       "id": "entry-764559",
       "label": "scene",
       "level": "3",
@@ -2655,7 +2679,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 222,
+      "order": 224,
       "id": "entry-764560",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2691,7 @@
       "text": "Order, Senators!"
     },
     {
-      "order": 223,
+      "order": 225,
       "id": "entry-764561",
       "label": "speech",
       "level": "3",
@@ -2679,7 +2703,7 @@
       "text": "The point I am going to raise here is of great importance in regard to what happens with the monies. We know there is a lacuna in this Constitution. This Constitution is silent on what happens when the national Government delays to disburse money to counties like it is happening here. We need to put a stop gap to any attempts by future governments, especially those who will dilly-dally in releasing the funds on time. In future, we need to have a provision on punitive clauses like it is known in common law, so that, that money which is delayed can be deemed to have earned some interest which will be fixed by the Constitution. It is very important. Thank you."
     },
     {
-      "order": 224,
+      "order": 226,
       "id": "entry-764562",
       "label": "speech",
       "level": "3",
@@ -2691,7 +2715,7 @@
       "text": "Well done."
     },
     {
-      "order": 225,
+      "order": 227,
       "id": "entry-764563",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2727,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me a chance also to support this Bill. From the onset, I want to congratulate those Members who have been nominated to sit and look into the amendments. I also want to urge them to really look at the amendment carefully and make sure that they come up with something that can help our counties. I only want to raise a concern that as we allocate these monies to the counties for the purpose of acquiring equipment for our health centres and health facilities in our counties, we should make sure that they do not only have the equipment but also the human resource to attend to our people. There is an outcry from patients who go to our hospitals and miss medical staff to attend to them. These patients also lack medicine. Therefore, as Members of this House, we should make sure that we follow up and see that whatever funds allocated to our counties are well utilised according to the allocations they have been given. Thank you."
     },
     {
-      "order": 226,
+      "order": 228,
       "id": "entry-764564",
       "label": "speech",
       "level": "3",
@@ -2715,7 +2739,7 @@
       "text": "Yes, Sen. Cheruiyot, Kericho County."
     },
     {
-      "order": 227,
+      "order": 229,
       "id": "entry-764565",
       "label": "speech",
       "level": "3",
@@ -2727,7 +2751,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I rise to support. I do so because we are quite limited in terms of options that we have. We know that counties are almost grinding to a halt as they await some of these schedules to be dispersed. However, I want it to be on record that as we continue to do this mandate as a Senate, some of us\n\nare completely unsatisfied with the current formula. It is high time that when we resume, we look into the issue of the third generation formula and partly because of two main points. One is the counties own contributions to the national Gross Domestic Product (GDP) which is currently not being factored. Secondly, it is time we introduced an element of how fiscal responsibility counts for something when you are calculating how much a county should spend. This is because it is immoral of us as leaders to pass money to a certain county if the same is not being put to prudent use, especially bearing in mind that this is revenue that has been collected from diligent and hardworking Kenyans. Thank you, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 228,
+      "order": 230,
       "id": "entry-764569",
       "label": "speech",
       "level": "3",
@@ -2739,7 +2763,7 @@
       "text": "Well done."
     },
     {
-      "order": 229,
+      "order": 231,
       "id": "entry-764570",
       "label": "speech",
       "level": "3",
@@ -2751,7 +2775,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me the chance. I would not say I support or refuse to support, but I want to take issue with the statements made by the Senate Majority Leader that some counties like Turkana and Wajir complained that they are marginalised. In truth, these counties are marginalised. If you can only visit one of them and see the conditions under which those particular wananchi or voters are living, you cannot deny the fact that these people have been marginalised for the last fifty years of Kenya's Independence. We all know that the law stipulates that all citizens have the right to adequate food which is something that is rare in these particular counties. Therefore, that is a sign of marginalisation. All voters or all citizens have the right to access to adequate food, adequate water of good quality and good quantities. This is not something you will find in Turkana. When we did our campaigns, the two main issues that the Turkana people gave are the facts that, first, they need enough food. Secondly, they need enough water. These have not been available for the last fifty years. This country has been independent for close to fifty four years yet there are still counties like Turkana and, I dare say Wajir, that are lacking enough food and water even though the law stipulates that they should have enough food and water. Therefore, to that effect---"
     },
     {
-      "order": 230,
+      "order": 232,
       "id": "entry-764571",
       "label": "scene",
       "level": "3",
@@ -2763,7 +2787,7 @@
       "text": "(The microphone went off)"
     },
     {
-      "order": 231,
+      "order": 233,
       "id": "entry-764572",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2799,7 @@
       "text": "Order, Senator. You had two minutes and your time is up. As a professor, you should lead by example. You need to plan for your time. You will have one extra minute but we do not encourage this."
     },
     {
-      "order": 232,
+      "order": 234,
       "id": "entry-764573",
       "label": "speech",
       "level": "3",
@@ -2787,7 +2811,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I also want to caution the Senate Majority Leader that it is not a good idea to make a blanket statement about all the governors. The Governor for Turkana County has opened so many Early Childhood Development Centres (ECD's) where there were none. He has put up a lot of clinics in different parts of Turkana that were not there. For that reason, you cannot actually say that these people misused the money. Turkana lost Kshs1.3 billion shillings that should have been given to them. That is like taking food from a child who is already hungry and telling them that you have had enough. You are talking about a formula that is not even a formula. It is a biased formula.\n\nPeople sit and ask themselves how much they should give these Turkanas. They then say that they are already getting a lot, thus Kshs1.3 billion should be taken out. I think we have to be fair when we talk about---."
     },
     {
-      "order": 233,
+      "order": 235,
       "id": "entry-764577",
       "label": "scene",
       "level": "3",
@@ -2799,7 +2823,7 @@
       "text": "(Sen. (Prof.) Ekal's microphone went off)"
     },
     {
-      "order": 234,
+      "order": 236,
       "id": "entry-764578",
       "label": "speech",
       "level": "3",
@@ -2811,7 +2835,7 @@
       "text": "Your time is definitely up this time round. Could we hear from Sen. Halake?"
     },
     {
-      "order": 235,
+      "order": 237,
       "id": "entry-764579",
       "label": "speech",
       "level": "3",
@@ -2823,7 +2847,7 @@
       "text": "Thank you Mr. Deputy Speaker, Sir. I also rise to support this Motion. In reaction to some of the discussions around equitable sharing of revenue and the conditional grants, I am very saddened by our focus. We are interpreting our oversight role as the Senate, as just a Standard Operating Procedure (SOP) of disbursements and not looking at sustainability of counties through own revenue generation. Counties cannot even survive for two months of transition between governments. As a Senate, we may choose to focus on SOP's of disbursement schedules, but what we probably need to focus on is how sustainable the county governments are. Are they a department of the national Government thus everything comes to a standstill the day something does not flow from the national Government or are they a functioning government in their own right that could perhaps start generating some income that they can use even during this transitional period? While I support, I hope that we will not narrow our frame in terms of the oversight role of the Senate. We should look at what is being shared, disbursed and try to hold these county governments accountable to a sustainable model of governance that would be able to survive even if it is for some time. I support the Motion but let us look beyond this and make our oversight role more strategic."
     },
     {
-      "order": 236,
+      "order": 238,
       "id": "entry-764580",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2859,7 @@
       "text": "Well done Senator. Senators, we are doing well so far. Given the context that we have set for ourselves, I will only listen to the five requests that I can see. These Senators will each have two minutes in the order in which I am going to read their names. First, Sen. Cherargei, Nandi County, Sen. Mwaruma, Taita Taveta, Nominated Sen. Musuruve, Sen. Langat, Bomet County. The last will be Temporary. Who is Temporary? That should be Sen. Olekina of Narok County. You will close for us. You will all have two minutes each. Please keep time. There will be no additions."
     },
     {
-      "order": 237,
+      "order": 239,
       "id": "entry-764581",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2871,7 @@
       "text": "Thank you Mr. Deputy Speaker, Sir. I rise to support. I agree that these conditional grants are very important because it touches on one of the core---."
     },
     {
-      "order": 238,
+      "order": 240,
       "id": "entry-764582",
       "label": "scene",
       "level": "3",
@@ -2859,7 +2883,7 @@
       "text": "(Some Senators walked out of the Chamber)"
     },
     {
-      "order": 239,
+      "order": 241,
       "id": "entry-764583",
       "label": "speech",
       "level": "3",
@@ -2871,7 +2895,7 @@
       "text": "Just hold his time. Please resume your seat. Senators, I hope that the whips are doing their work. We are going into Division and I can see some Senators leaving. Kindly, let us be patriotic enough. Hold on for a while. We have to dispose of this important agenda. Continue, Senator for Nandi County."
     },
     {
-      "order": 240,
+      "order": 242,
       "id": "entry-764585",
       "label": "speech",
       "level": "3",
@@ -2883,7 +2907,7 @@
       "text": "Thank you Mr. Deputy Speaker, Sir. I was saying that most of these conditional grants are important because they touch on the core issues that we have in the counties. In future, I would like to agree with some of my colleagues that we should increase the purview. We should also ensure that we develop or re-engineer a formula so that most of these issues that have been raised can be accommodated. This is because we are alive to the fact that things keep changing. In the years to come, Turkana might not be marginalized. We might have new counties. I think that some standards need to be set. Finally, regarding the capacity of county assemblies to approve some of these projects, going forward, we need some of these county government laws. When we do that, we will give the capacity to them. They will understand the implications of these projects. Before they do approvals in those county assemblies, they need to do approvals that have been allocated by some of these conditional grants so that we do not have some counties misusing these resources. I support."
     },
     {
-      "order": 241,
+      "order": 243,
       "id": "entry-764586",
       "label": "speech",
       "level": "3",
@@ -2895,7 +2919,7 @@
       "text": "Well done. Could we hear from Sen. Mwaruma?"
     },
     {
-      "order": 242,
+      "order": 244,
       "id": "entry-764587",
       "label": "speech",
       "level": "3",
@@ -2907,7 +2931,7 @@
       "text": "Thank you Mr. Deputy Speaker, Sir. I stand to support the Motion. It is long overdue. Releasing money to the counties has taken too long and has caused a lot of suffering to our people. We have lost lives. Children and some women have died because we did not have nurses in hospitals. I think that this is attributable to the non-release of the equitable share of revenue to the counties. As Sen. Mutula Kilonzo Jnr. Postulated - rightly so - why should we tie the release of the equitable shareable revenue to the release of conditional grants? I think it is wrong and it is something that we should look at. We should not tie the two. The non-release of the equitable share of revenue has even put a lot of pressure on us; the politicians. This is because we get phone calls from people who are in hospital who need money from us. However, if you release the money early enough, there will be less pressure on us; the elected leaders. Last time, we passed the Disbursement Schedule here - some of us are not liars - we went at home and said that we have released the money and that it was coming. The money is not there up to now. I would, therefore, beg to support that there is need to release the money to the counties in good time. This delay is causing a lot of suffering to our people. I would like to disagree with the Senate Majority Leader that there are some counties that are not marginalized."
     },
     {
-      "order": 243,
+      "order": 245,
       "id": "entry-764588",
       "label": "speech",
       "level": "3",
@@ -2919,7 +2943,7 @@
       "text": "Your time is up. Could we hear from Sen. (Dr.) Musuruve?"
     },
     {
-      "order": 244,
+      "order": 246,
       "id": "entry-764589",
       "label": "speech",
       "level": "3",
@@ -2931,7 +2955,7 @@
       "text": "Thank you Mr. Deputy Speaker, Sir, for this opportunity. I want to strongly support this Motion. The reasons as to why money has not been disbursed to the counties are not valid. One of the reasons that they have given is that the Schedule arrived late. The other reason was that there were some amendments to be made and that there were some consultations to be done. All the excuses that we got are issues that could have been solved in less than a day. If it is getting legal information, they could have received that in good time. So, I want to request the Senate Majority Leader to\n\nensure that going forward, some of these excuses are not there. Money should always be disbursed to the counties at the right time. There is also about Kshs5 billion that will not be disbursed to the counties. I want also to suggest that the governors should be taken through a workshop for them to know the indicators that they need to meet in order for the money to be disbursed."
     },
     {
-      "order": 245,
+      "order": 247,
       "id": "entry-764593",
       "label": "speech",
       "level": "3",
@@ -2943,7 +2967,7 @@
       "text": "Thank you, your time is up."
     },
     {
-      "order": 246,
+      "order": 248,
       "id": "entry-764594",
       "label": "speech",
       "level": "3",
@@ -2955,7 +2979,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity. I rise to support this Motion because the counties need this money at this time. Nevertheless, I would like to raise the point that these Senators must be facilitated as soon as possible and effectively to enable them to oversight this particular money. For instance, when I see Sen. Olekina being facilitated mileage allowance to go to Narok County, I wonder how he will manage to go and see projects in Bomet and Kisii counties. Therefore, as we expedite the disbursement of this money, this particular Senator should also be facilitated effectively in future, so that we may monitor the progress of development in our counties. Otherwise, we shall be staying in Nairobi and watching on the television what is happening in our counties."
     },
     {
-      "order": 247,
+      "order": 249,
       "id": "entry-764595",
       "label": "speech",
       "level": "3",
@@ -2967,7 +2991,7 @@
       "text": "Order, Senator. Finally, Sen. Olekina. Sen. Olekina: Thank you, Mr. Deputy Speaker, Sir. I rise to support this Motion. I want to reiterate the words of Sen. Wako and also Sen. Mutula Kilonzo Jnr. that when I looked at the amendments to this Bill I was concerned because it only focuses on issues regarding conditional grants. In fact, I ask myself why we are holding county funds yet we do not even audit conditional grants. The audits that come to us do not include conditional grants. So, it is imperative for the CS, Treasury, to clarify to his officers and seek proper legal advice in terms of disbursing of funds. While doing that, I would like to encourage and beseech all the Senators here to keep an eye."
     },
     {
-      "order": 248,
+      "order": 250,
       "id": "entry-764598",
       "label": "scene",
       "level": "3",
@@ -2979,7 +3003,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 249,
+      "order": 251,
       "id": "entry-764599",
       "label": "speech",
       "level": "3",
@@ -2991,7 +3015,7 @@
       "text": "Order, Senators!"
     },
     {
-      "order": 250,
+      "order": 252,
       "id": "entry-764600",
       "label": "speech",
       "level": "3",
@@ -3003,7 +3027,7 @@
       "text": "Mr. Deputy Speaker, Sir, yesterday, I had a chance to look at some of the audit reports which were tabled in this House and I was perturbed. If you look at certain revenues in Narok County, there was no additional documentation given to the Auditor General and I know we are going to discuss that later. However, I am concerned that we want the money to go to the counties, but the suppliers are yet to be paid, the Auditor General has not been supplied with proper documents and the Public Finance Managed Act, Section 116(7) is still being violated. I want to appeal to all Senators here that although I support money being sent to the counties, we ought to follow---"
     },
     {
-      "order": 251,
+      "order": 253,
       "id": "entry-764601",
       "label": "scene",
       "level": "3",
@@ -3015,7 +3039,7 @@
       "text": "(Sen. Olekina's microphone went off)"
     },
     {
-      "order": 252,
+      "order": 254,
       "id": "entry-764602",
       "label": "speech",
       "level": "3",
@@ -3027,7 +3051,7 @@
       "text": "It is now time for the Mover to reply."
     },
     {
-      "order": 253,
+      "order": 255,
       "id": "entry-764604",
       "label": "speech",
       "level": "3",
@@ -3039,7 +3063,7 @@
       "text": "Mr. Speaker, Sir, I thank all the Senators for their contributions. However, just to inform Sen. Mutula Kilonzo Jnr. and Sen. Wako, that the Minister for Finance responded to that question that you raised as to whether it was necessary for him to do the amendment before. He made it clear in his statement that was read here two days ago, that he received the advice from the Attorney General, Hon. Githu Muigai. There was a bundle of caution on that advice to avoid situations where they will again find themselves in similar positions. The way forward should be that we separate the next schedule; the equitable shareable resources should be separate from grants that are actually coming from the National Government. However, part of the resources must be approved by this House, including the grants that are coming from donors. Therefore, we should have three separate tables. Sen. Mutula Kilonzo Jnr. and his team should have done this in the last Parliament since they advised this House when the schedule came here. Secondly, there was a misunderstanding by many Senators, including the Senators from Taita Taveta and Turkana counties. I am glad to have a Senator still defending a governor although it is still early in the day."
     },
     {
-      "order": 254,
+      "order": 256,
       "id": "entry-764605",
       "label": "scene",
       "level": "3",
@@ -3051,7 +3075,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 255,
+      "order": 257,
       "id": "entry-764606",
       "label": "speech",
       "level": "3",
@@ -3063,7 +3087,7 @@
       "text": "Mr. Deputy Speaker, Sir, a few months down the line, we shall all be on the same table. I saw the Senators who were here before laughing because they know the history. There were Senators who came here \"conjoined\" with their governors only to realise that their oversight responsibility was going to separate them. The reason is because marginalization is real. It is in the Constitution and it is in the Allocation of Revenue formula. Therefore, I am not disputing the fact that there are areas that are called marginalized areas in this country which includes areas in my own county. The new frontier of marginalization is being perpetrated and perpetuated by the Governors and county assemblies that we are giving the money. Going forward, if the Kilifi Senator was here, we were given a report of a county government spending Kshs140 million to buy a house for the governor. Can you imagine in Kilifi County where people are still eating rats, that the governor would have the courage to buy a house of Kshs140 million using county resources? That is what I meant by \"marginalization perpetuated by the people we give money\". It is the same problem where every Senator comes from; it does not know Jubilee or NASA. You will realise the truth of this matter with time. Finally, we are amending this schedule and sending the money to the counties. However, I must put it on record, and Sen. Mutula Kilonzo Jnr. must listen to this. The answer that came from the Cabinet Secretary and the Ministry of Finance, I provided a schedule that indicates every county has been allocated money. All the accounts of the counties at the Central Bank of Kenya have at the very minimum Kshs250 million which has not been expended. So, it is not for the lack of money. My colleague, the Senator for Taita Taveta County was making wild allegations that people have died because there is no money. From the Statement I read here, Taita Taveta County has Kshs350 million lying in the account as I speak which they do not need. If people die it has nothing to do with absence of money because money is in the\n\naccount of Taita Taveta County at the Central Bank of Kenya. Therefore, there is no county including mine that does not have money, it is just that their schedule of disbursement must continue as it should be. I do not want to further this discussion, I beg to move and I ask that we vote on this matter."
     },
     {
-      "order": 256,
+      "order": 258,
       "id": "entry-764610",
       "label": "speech",
       "level": "3",
@@ -3075,7 +3099,7 @@
       "text": "Order, Senators! I urge you that we proceed to the next stage because we know ourselves. Let us leave it there. Thank you, Senators, you have done well. Whips, do we have the numbers? Let the Division Bell be rung for five minutes."
     },
     {
-      "order": 257,
+      "order": 259,
       "id": "entry-764611",
       "label": "scene",
       "level": "3",
@@ -3087,7 +3111,7 @@
       "text": "(Hon. Senators spoke off record)"
     },
     {
-      "order": 258,
+      "order": 260,
       "id": "entry-764612",
       "label": "speech",
       "level": "3",
@@ -3099,7 +3123,7 @@
       "text": "There is only one Chair for this Session. The Division Bell will be rung for five minutes."
     },
     {
-      "order": 259,
+      "order": 261,
       "id": "entry-764613",
       "label": "scene",
       "level": "3",
@@ -3111,7 +3135,7 @@
       "text": "(Division Bell was rung)"
     },
     {
-      "order": 260,
+      "order": 262,
       "id": "entry-764614",
       "label": "speech",
       "level": "3",
@@ -3123,7 +3147,7 @@
       "text": "Order, hon. Senators. Please take your seats."
     },
     {
-      "order": 261,
+      "order": 263,
       "id": "entry-764615",
       "label": "scene",
       "level": "3",
@@ -3135,7 +3159,7 @@
       "text": "(Sen. Omogeni stood in his place)"
     },
     {
-      "order": 262,
+      "order": 264,
       "id": "entry-764616",
       "label": "speech",
       "level": "3",
@@ -3147,7 +3171,7 @@
       "text": "Order, Senator for Nyamira! Take your seat. I now direct that the Bars be drawn and the Door be closed."
     },
     {
-      "order": 263,
+      "order": 265,
       "id": "entry-764617",
       "label": "scene",
       "level": "3",
@@ -3159,7 +3183,7 @@
       "text": "(The Bars were drawn and the Door closed)"
     },
     {
-      "order": 264,
+      "order": 266,
       "id": "entry-764618",
       "label": "speech",
       "level": "3",
@@ -3171,7 +3195,7 @@
       "text": "Majority Whip, confirm that we have the numbers. You know that the consequence of not having numbers is fatal."
     },
     {
-      "order": 265,
+      "order": 267,
       "id": "entry-764619",
       "label": "scene",
       "level": "3",
@@ -3183,7 +3207,7 @@
       "text": "(The Majority Whip consulted the Deputy Speaker)"
     },
     {
-      "order": 266,
+      "order": 268,
       "id": "entry-764620",
       "label": "speech",
       "level": "3",
@@ -3195,7 +3219,7 @@
       "text": "Order, hon. Senators. Thank you, Majority Whip. Going forward, you must look for culturally sensitive methods of establishing the number of people. Let us have the screen on and then, we will have one minute to vote. If we have any assisted voters, they can proceed to be assisted."
     },
     {
-      "order": 267,
+      "order": 269,
       "id": "entry-764621",
       "label": "heading",
       "level": "3",
@@ -3207,7 +3231,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 268,
+      "order": 270,
       "id": "entry-764623",
       "label": "scene",
       "level": "3",
@@ -3219,7 +3243,7 @@
       "text": "(Question, that the County Allocation of Revenue (Amendment) Bill (Senate Bill No. 9 of 2017) be now Read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 269,
+      "order": 271,
       "id": "entry-764624-speaker-uppercase-heading",
       "label": "other",
       "level": "3",
@@ -3231,7 +3255,7 @@
       "text": "AYES"
     },
     {
-      "order": 270,
+      "order": 272,
       "id": "entry-764624",
       "label": "speech",
       "level": "3",
@@ -3243,7 +3267,7 @@
       "text": "Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Haji, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. (Dr.) Kabaka, Machakos County; Sen. Kang'ata, Murang'a County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Lelegwe, Samburu County; Sen. (Dr.) Mbito, Trans Nzoia County, Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Olekina, Narok County, Sen. Omogeni, Nyamira County; Sen. Sakaja, Nairobi County; Sen. Seneta, Kajiado County; Sen. Wako, Busia County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County; and Sen. Waqo, Marsabit County.\n\nNOES:"
     },
     {
-      "order": 271,
+      "order": 273,
       "id": "entry-764626",
       "label": "speech",
       "level": "3",
@@ -3255,7 +3279,7 @@
       "text": "Nil"
     },
     {
-      "order": 272,
+      "order": 274,
       "id": "entry-764627",
       "label": "speech",
       "level": "3",
@@ -3267,7 +3291,7 @@
       "text": "Order, Senators! Resume your seats. Thank you for voting very fast. This time round no servers were involved."
     },
     {
-      "order": 273,
+      "order": 275,
       "id": "entry-764628",
       "label": "scene",
       "level": "3",
@@ -3279,7 +3303,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 274,
+      "order": 276,
       "id": "entry-764629",
       "label": "speech",
       "level": "3",
@@ -3291,7 +3315,7 @@
       "text": "Before I read out the outcome, I want to plead with all of you to remain behind for the Committee stage, which will take five minutes or thereabout, because we are not amending anything. The Chairperson of the Committee has assured me that she will truncate the process, lawfully, of course. Hon. Senators, the results of the division are as follows:\n\nAYES:\n\n25\n\nNOES:\n\n0\n\nABSENTIONS:\n\n0"
     },
     {
-      "order": 275,
+      "order": 277,
       "id": "entry-764636-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3303,7 +3327,7 @@
       "text": "(Question carried by 25 votes to 0)"
     },
     {
-      "order": 276,
+      "order": 278,
       "id": "entry-764636-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3315,7 +3339,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole today by leave of the House)"
     },
     {
-      "order": 277,
+      "order": 279,
       "id": "entry-764637",
       "label": "speech",
       "level": "3",
@@ -3327,7 +3351,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 278,
+      "order": 280,
       "id": "entry-764638",
       "label": "heading",
       "level": "1",
@@ -3339,7 +3363,7 @@
       "text": "COMMITTEE OF THEWHOLE"
     },
     {
-      "order": 279,
+      "order": 281,
       "id": "entry-764639",
       "label": "scene",
       "level": "1",
@@ -3351,7 +3375,7 @@
       "text": "( Order for Committee read)"
     },
     {
-      "order": 280,
+      "order": 282,
       "id": "entry-764640",
       "label": "scene",
       "level": "1",
@@ -3363,7 +3387,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki left the Chair]"
     },
     {
-      "order": 281,
+      "order": 283,
       "id": "entry-764641",
       "label": "heading",
       "level": "2",
@@ -3375,7 +3399,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 282,
+      "order": 284,
       "id": "entry-764642",
       "label": "scene",
       "level": "2",
@@ -3387,7 +3411,7 @@
       "text": "[The Temporary Chairperson (Sen. (Prof.) Kamar) in the Chair]"
     },
     {
-      "order": 283,
+      "order": 285,
       "id": "entry-764643",
       "label": "heading",
       "level": "3",
@@ -3399,7 +3423,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE (AMENDMENT) BILL (SENATE BILL NO. 9 OF 2017)"
     },
     {
-      "order": 284,
+      "order": 286,
       "id": "entry-764645",
       "label": "speech",
       "level": "3",
@@ -3411,7 +3435,7 @@
       "text": "Hon. Senators, we are now in the Committee of the Whole House. We will move clause by clause as read out by the Clerk."
     },
     {
-      "order": 285,
+      "order": 287,
       "id": "entry-764646-parenthesis-split-1-of-4",
       "label": "heading",
       "level": "5",
@@ -3423,7 +3447,7 @@
       "text": "Clauses 2 and 3"
     },
     {
-      "order": 286,
+      "order": 288,
       "id": "entry-764646-parenthesis-split-2-of-4",
       "label": "scene",
       "level": "5",
@@ -3435,7 +3459,7 @@
       "text": "(Question, that Clauses 2 and 3 be part of the Bill proposed)"
     },
     {
-      "order": 287,
+      "order": 289,
       "id": "entry-764646-parenthesis-split-3-of-4",
       "label": "heading",
       "level": "3",
@@ -3447,7 +3471,7 @@
       "text": "The Title and Clause 1"
     },
     {
-      "order": 288,
+      "order": 290,
       "id": "entry-764646-parenthesis-split-4-of-4",
       "label": "scene",
       "level": "3",
@@ -3459,7 +3483,7 @@
       "text": "(Question that the Title and Clause 1 be part of the Bill proposed)"
     },
     {
-      "order": 289,
+      "order": 291,
       "id": "entry-764647",
       "label": "speech",
       "level": "3",
@@ -3471,7 +3495,7 @@
       "text": "Hon. Senators, it is division time. I now put the question; that Clauses 2 and 3, the title and Clause 1 be part of the Bill. May I request that the Division Bell be rung for one minute."
     },
     {
-      "order": 290,
+      "order": 292,
       "id": "entry-764648-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3483,7 +3507,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 291,
+      "order": 293,
       "id": "entry-764648-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3495,7 +3519,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 292,
+      "order": 294,
       "id": "entry-764649",
       "label": "speech",
       "level": "3",
@@ -3507,7 +3531,7 @@
       "text": "I am sorry; may the Division Bell be rung for five minutes as usual."
     },
     {
-      "order": 293,
+      "order": 295,
       "id": "entry-764650",
       "label": "scene",
       "level": "3",
@@ -3519,8 +3543,8 @@
       "text": "(The Division Bell was rung for five minutes)"
     },
     {
-      "order": 294,
-      "id": "entry-764651",
+      "order": 296,
+      "id": "entry-764651-split-before-7ce22b2d-b4f7-4467-8ca6-50aba8f682f2",
       "label": "speech",
       "level": "3",
       "cutout": false,
@@ -3528,10 +3552,34 @@
       "speaker": "",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
-      "text": "I now order that the bars be drawn and the doors be locked. ( The bars were drawn and the doors locked ) Order, hon. Members. Please take your seats. We are now moving to division. Let us have the display. You have one minute to vote, beginning now."
+      "text": "I now order that the bars be drawn and the doors be locked."
     },
     {
-      "order": 295,
+      "order": 297,
+      "id": "entry-764651-split-selected-98a754d8-fd8c-4d84-9746-37df96a11bec",
+      "label": "scene",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( The bars were drawn and the doors locked )"
+    },
+    {
+      "order": 298,
+      "id": "entry-764651-split-after-e2110512-06b2-407c-8c92-3af2cbe098f4",
+      "label": "speech",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "The Temporary Chairperson",
+      "reviewed": true,
+      "text": "Order, hon. Members. Please take your seats. We are now moving to division. Let us have the display. You have one minute to vote, beginning now."
+    },
+    {
+      "order": 299,
       "id": "entry-764652",
       "label": "heading",
       "level": "3",
@@ -3543,7 +3591,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 296,
+      "order": 300,
       "id": "entry-764654",
       "label": "scene",
       "level": "3",
@@ -3555,7 +3603,7 @@
       "text": "(Question, that Clauses 2 and 3, the Title and Clause 1 be part of the Bill put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 297,
+      "order": 301,
       "id": "entry-764655",
       "label": "other",
       "level": "3",
@@ -3567,7 +3615,7 @@
       "text": "AYES:"
     },
     {
-      "order": 298,
+      "order": 302,
       "id": "entry-764656",
       "label": "other",
       "level": "3",
@@ -3579,7 +3627,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County, Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Haji, Garissa County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. (Dr.) Kabaka, Machakos County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. Kinyua,"
     },
     {
-      "order": 299,
+      "order": 303,
       "id": "entry-764659",
       "label": "other",
       "level": "3",
@@ -3591,7 +3639,7 @@
       "text": "Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Lelegwe, Samburu County; Sen. Murkomen, Elgeyo Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Ndwiga, Embu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. Mwangi, Nyandarua County; Sen. Sakaja, Nairobi County; Sen. Seneta, Kajiado County; Sen. Wako, Busia County; Sen. Wambua, Kitui County; Sen.Wario, Tana River County; and, Sen. (Rev.) Waqo, Marsabit County."
     },
     {
-      "order": 300,
+      "order": 304,
       "id": "entry-764660",
       "label": "other",
       "level": "3",
@@ -3603,7 +3651,7 @@
       "text": "NOES:"
     },
     {
-      "order": 301,
+      "order": 305,
       "id": "entry-764661",
       "label": "speech",
       "level": "3",
@@ -3615,7 +3663,7 @@
       "text": "Nil"
     },
     {
-      "order": 302,
+      "order": 306,
       "id": "entry-764662",
       "label": "speech",
       "level": "3",
@@ -3627,7 +3675,7 @@
       "text": "Order, hon. Senators! Please take your seats. I wish to announce the results as follows:\n\nAYES:\n\n30\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n0 The Ayes have it."
     },
     {
-      "order": 303,
+      "order": 307,
       "id": "entry-764669",
       "label": "scene",
       "level": "3",
@@ -3639,7 +3687,7 @@
       "text": "(Question carried by 30 votes to 0)"
     },
     {
-      "order": 304,
+      "order": 308,
       "id": "entry-764670",
       "label": "speech",
       "level": "3",
@@ -3651,7 +3699,7 @@
       "text": "May I now call upon the mover to move?"
     },
     {
-      "order": 305,
+      "order": 309,
       "id": "entry-764672",
       "label": "speech",
       "level": "3",
@@ -3663,7 +3711,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order No. 142, I beg to move that the Committee do report to the Senate its consideration of the County Allocation of Revenue (Amendment) Bill (Senate Bill No.9 of 2017) and its approval thereof without amendments."
     },
     {
-      "order": 306,
+      "order": 310,
       "id": "entry-764673",
       "label": "speech",
       "level": "3",
@@ -3675,7 +3723,7 @@
       "text": "Thank you."
     },
     {
-      "order": 307,
+      "order": 311,
       "id": "entry-764674",
       "label": "speech",
       "level": "3",
@@ -3687,7 +3735,7 @@
       "text": "seconded."
     },
     {
-      "order": 308,
+      "order": 312,
       "id": "entry-764675-parenthesis-split-1-of-4",
       "label": "scene",
       "level": "3",
@@ -3699,7 +3747,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 309,
+      "order": 313,
       "id": "entry-764675-parenthesis-split-2-of-4",
       "label": "scene",
       "level": "3",
@@ -3711,7 +3759,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 310,
+      "order": 314,
       "id": "entry-764675-parenthesis-split-3-of-4",
       "label": "scene",
       "level": "3",
@@ -3723,7 +3771,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 311,
+      "order": 315,
       "id": "entry-764675-parenthesis-split-4-of-4",
       "label": "scene",
       "level": "3",
@@ -3735,7 +3783,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) in the Chair]"
     },
     {
-      "order": 312,
+      "order": 316,
       "id": "entry-764676",
       "label": "heading",
       "level": "1",
@@ -3747,7 +3795,7 @@
       "text": "REPORT AND THIRD READING"
     },
     {
-      "order": 313,
+      "order": 317,
       "id": "entry-764677",
       "label": "heading",
       "level": "3",
@@ -3759,7 +3807,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE (AMENDMENT) BILL (SENATE BILL NO.9 OF 2017)"
     },
     {
-      "order": 314,
+      "order": 318,
       "id": "entry-764678",
       "label": "speech",
       "level": "3",
@@ -3771,7 +3819,7 @@
       "text": "The Temporary Chairperson."
     },
     {
-      "order": 315,
+      "order": 319,
       "id": "entry-764679",
       "label": "speech",
       "level": "3",
@@ -3783,7 +3831,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to report that the Committee of the Whole has considered The County Allocation of Revenue (Amendment) Bill (Senate Bill No.9 of 2017) and its approval thereof without amendments."
     },
     {
-      "order": 316,
+      "order": 320,
       "id": "entry-764680",
       "label": "speech",
       "level": "3",
@@ -3795,7 +3843,7 @@
       "text": "Mover."
     },
     {
-      "order": 317,
+      "order": 321,
       "id": "entry-764682",
       "label": "speech",
       "level": "3",
@@ -3807,8 +3855,8 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the House do agree with the Committee on the said report and ask Sen. Mutula Kilonzo Jnr to second."
     },
     {
-      "order": 318,
-      "id": "entry-764683",
+      "order": 322,
+      "id": "entry-764683-split-before-4a77c683-5e66-44b1-8970-168c52bf962b",
       "label": "speech",
       "level": "3",
       "cutout": false,
@@ -3816,10 +3864,22 @@
       "speaker": "Mutula Kilonzo Jnr",
       "speaker_title": "",
       "reviewed": true,
-      "text": "seconded. ( The Clerk-at-the-Table consulted the speaker )"
+      "text": "seconded."
     },
     {
-      "order": 319,
+      "order": 323,
+      "id": "entry-764683-split-selected-62adf964-759c-4482-bd45-2519621b824b",
+      "label": "scene",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( The Clerk-at-the-Table consulted the speaker )"
+    },
+    {
+      "order": 324,
       "id": "entry-764684",
       "label": "scene",
       "level": "3",
@@ -3831,7 +3891,7 @@
       "text": "(Interruption of Business on Order No.9)"
     },
     {
-      "order": 320,
+      "order": 325,
       "id": "entry-764685",
       "label": "speech",
       "level": "3",
@@ -3843,7 +3903,7 @@
       "text": "Order Senators. We want to do something procedural we should have done a bit earlier. When I left the Chair, I signed the Report of the Committee and, therefore, for purposes of procedure, I ask Sen. Ndwiga to table that Report before we proceed."
     },
     {
-      "order": 321,
+      "order": 326,
       "id": "entry-764686",
       "label": "speech",
       "level": "3",
@@ -3855,7 +3915,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to give Notice of the following Motion that pursuant to Standing Order 69---."
     },
     {
-      "order": 322,
+      "order": 327,
       "id": "entry-764687",
       "label": "speech",
       "level": "3",
@@ -3867,7 +3927,7 @@
       "text": "Order Senator! You are supposed to lay the Paper."
     },
     {
-      "order": 323,
+      "order": 328,
       "id": "entry-764688",
       "label": "scene",
       "level": "3",
@@ -3879,7 +3939,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 324,
+      "order": 329,
       "id": "entry-764689",
       "label": "heading",
       "level": "1",
@@ -3891,7 +3951,7 @@
       "text": "PAPER LAID"
     },
     {
-      "order": 325,
+      "order": 330,
       "id": "entry-764690",
       "label": "heading",
       "level": "2",
@@ -3903,8 +3963,8 @@
       "text": "REPORT OF THE AD HOC COMMITTEE ON THE COUNTY ALLOCATION OF REVENUE (AMENDMENT) BILL, 2017"
     },
     {
-      "order": 326,
-      "id": "entry-764691",
+      "order": 331,
+      "id": "entry-764691-split-before-33a75cdc-d5e0-4390-9c51-145db15ad3ea",
       "label": "speech",
       "level": "2",
       "cutout": false,
@@ -3912,10 +3972,22 @@
       "speaker": "Njeru Ndwiga",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Mr. Deputy Speaker, Sir, I beg to lay on the Table of the Senate today, Thursday, 9th November, 2017, the Report of the Ad Hoc Committee on the County Allocation of Revenue (Amendment) Bill (Senate Bills No.9 of 2017). ( Sen. Ndwiga laid the document on the Table)"
+      "text": "Mr. Deputy Speaker, Sir, I beg to lay on the Table of the Senate today, Thursday, 9th November, 2017, the Report of the Ad Hoc Committee on the County Allocation of Revenue (Amendment) Bill (Senate Bills No.9 of 2017)."
     },
     {
-      "order": 327,
+      "order": 332,
+      "id": "entry-764691-split-selected-5f63a5fe-2f2b-4051-8802-a9a1f735378d",
+      "label": "scene",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "( Sen. Ndwiga laid the document on the Table)"
+    },
+    {
+      "order": 333,
       "id": "entry-764692",
       "label": "scene",
       "level": "2",
@@ -3927,7 +3999,7 @@
       "text": "(Resumption of Business on Order No.9)"
     },
     {
-      "order": 328,
+      "order": 334,
       "id": "entry-764693",
       "label": "speech",
       "level": "2",
@@ -3939,7 +4011,7 @@
       "text": "We will now proceed."
     },
     {
-      "order": 329,
+      "order": 335,
       "id": "entry-764694-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -3951,7 +4023,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 330,
+      "order": 336,
       "id": "entry-764694-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -3963,7 +4035,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 331,
+      "order": 337,
       "id": "entry-764695",
       "label": "speech",
       "level": "2",
@@ -3975,7 +4047,7 @@
       "text": "Mr. Deputy Speaker, I beg to move that the County Allocation of Revenue (Amendment) Bill (Senate Bills No.9 of 2017) be now read a Third Time and I ask Sen. Mutula Kilonzo Jnr., to second"
     },
     {
-      "order": 332,
+      "order": 338,
       "id": "entry-764696",
       "label": "speech",
       "level": "2",
@@ -3987,7 +4059,7 @@
       "text": "seconded."
     },
     {
-      "order": 333,
+      "order": 339,
       "id": "entry-764697",
       "label": "speech",
       "level": "2",
@@ -3999,7 +4071,7 @@
       "text": "Order Senators!"
     },
     {
-      "order": 334,
+      "order": 340,
       "id": "entry-764698",
       "label": "scene",
       "level": "2",
@@ -4011,7 +4083,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 335,
+      "order": 341,
       "id": "entry-764700",
       "label": "scene",
       "level": "2",
@@ -4023,7 +4095,7 @@
       "text": "(Sen. Wako stood in his place)"
     },
     {
-      "order": 336,
+      "order": 342,
       "id": "entry-764701",
       "label": "speech",
       "level": "2",
@@ -4035,7 +4107,7 @@
       "text": "Order, Senator for Busia! The Division Bell will be rung for five minutes in accordance with the Standing Orders."
     },
     {
-      "order": 337,
+      "order": 343,
       "id": "entry-764702-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -4047,7 +4119,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 338,
+      "order": 344,
       "id": "entry-764702-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -4059,7 +4131,7 @@
       "text": "(Several hon. Senators stood up in their places)"
     },
     {
-      "order": 339,
+      "order": 345,
       "id": "entry-764703",
       "label": "speech",
       "level": "2",
@@ -4071,7 +4143,7 @@
       "text": "Order, Senators! Please, resume your seats."
     },
     {
-      "order": 340,
+      "order": 346,
       "id": "entry-764704-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -4083,7 +4155,7 @@
       "text": "(The Deputy Speaker consulted the Clerk-at-the-Table)"
     },
     {
-      "order": 341,
+      "order": 347,
       "id": "entry-764704-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -4095,7 +4167,7 @@
       "text": "(The Bar was drawn and the doors closed)"
     },
     {
-      "order": 342,
+      "order": 348,
       "id": "entry-764705",
       "label": "speech",
       "level": "2",
@@ -4107,7 +4179,7 @@
       "text": "You have one minute to vote. You are supposed to remain in your seats during voting. Are there any other assisted voters, other than the Senator for Narok County?"
     },
     {
-      "order": 343,
+      "order": 349,
       "id": "entry-764706",
       "label": "scene",
       "level": "2",
@@ -4119,7 +4191,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 344,
+      "order": 350,
       "id": "entry-764707",
       "label": "speech",
       "level": "2",
@@ -4131,7 +4203,7 @@
       "text": "Where are the companions of the Senator for Narok County? That is, the Senators for Bomet and Murang`a counties."
     },
     {
-      "order": 345,
+      "order": 351,
       "id": "entry-764708",
       "label": "heading",
       "level": "2",
@@ -4143,7 +4215,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 346,
+      "order": 352,
       "id": "entry-764710",
       "label": "scene",
       "level": "2",
@@ -4155,7 +4227,7 @@
       "text": "(Question, that the County Allocation of Revenue (Amendment) Bill (Senate Bill No.9 of 2017) be now read a Third Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 347,
+      "order": 353,
       "id": "entry-764711",
       "label": "other",
       "level": "2",
@@ -4167,7 +4239,7 @@
       "text": "AYES:"
     },
     {
-      "order": 348,
+      "order": 354,
       "id": "entry-764712",
       "label": "other",
       "level": "2",
@@ -4179,7 +4251,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Lelegwe, Samburu County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Ndwiga, Embu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. Sakaja,"
     },
     {
-      "order": 349,
+      "order": 355,
       "id": "entry-764715",
       "label": "other",
       "level": "2",
@@ -4191,7 +4263,7 @@
       "text": "Nairobi County; Sen. Wako, Busia County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. Wario, Tana River County."
     },
     {
-      "order": 350,
+      "order": 356,
       "id": "entry-764716",
       "label": "speech",
       "level": "2",
@@ -4203,7 +4275,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:\n\nAYES:\n\n29\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n0 The \"Ayes\" have it."
     },
     {
-      "order": 351,
+      "order": 357,
       "id": "entry-764723-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -4215,7 +4287,7 @@
       "text": "(Question carried by 29 votes to 0)"
     },
     {
-      "order": 352,
+      "order": 358,
       "id": "entry-764723-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -4227,7 +4299,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 353,
+      "order": 359,
       "id": "entry-764724",
       "label": "speech",
       "level": "2",
@@ -4239,7 +4311,7 @@
       "text": "Serjeant-at-Arms to open the doors and draw the Bars"
     },
     {
-      "order": 354,
+      "order": 360,
       "id": "entry-764725",
       "label": "scene",
       "level": "2",
@@ -4251,7 +4323,7 @@
       "text": "(The doors were opened and the Bars drawn)"
     },
     {
-      "order": 355,
+      "order": 361,
       "id": "entry-764726",
       "label": "speech",
       "level": "2",
@@ -4263,7 +4335,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 356,
+      "order": 362,
       "id": "entry-764727",
       "label": "heading",
       "level": "1",
@@ -4275,7 +4347,7 @@
       "text": "MOTION"
     },
     {
-      "order": 357,
+      "order": 363,
       "id": "entry-764728",
       "label": "heading",
       "level": "3",
@@ -4287,7 +4359,7 @@
       "text": "ESTABLISHMENT OF A JOINT PARLIAMENTARY SELECT COMMITTEE ON ELECTION OF MEMBERS TO EALA"
     },
     {
-      "order": 358,
+      "order": 364,
       "id": "entry-764729",
       "label": "speech",
       "level": "3",
@@ -4299,7 +4371,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move:- THAT, ACKNOWLEDGING that the East Africa Legislative Assembly (EALA) is established under Article 9 of the Treaty for the Establishment of the East African Community (EAC) as one of the key organs and institutions of the Community responsible for the Community's legislative matters; RECOGNIZING that Article 50 of the Treaty provides for the election of Members of EALA by respective Partner States' Legislatures in accordance with their parliamentary procedures for a term of five years; FURTHER aware that the East African Legislative Assembly Elections Act, 2011 contemplates conclusion of the election of Members of a new Assembly to be within ninety (90) days before the expiry of the term of the subsisting Assembly; RECALLING THAT the process of electing new Members to the East African Legislative Assembly was commenced by the Eleventh Parliament in April, 2017 but could not be concluded by the end of the term of that Parliament;\n\nNOTING THAT the term of the previous East African Legislative Assembly lapsed on 4th June, 2017; COGNIZANT of the need to urgently conclude the election process for the East African Legislative Assembly to commence transacting business of the East African Community; NOW THEREFORE, in accordance with the provisions of Rule 9 of the Houses of Parliament (Joint Sittings) Rules, the Senate resolves to establish a Joint Select Committee consisting of five (5) Members from each House of Parliament to undertake the functions contemplated under the East African Legislative Assembly Elections (Election of Members of the Assembly) Rules, 2017, and report to the House within the timelines stipulated in the said Rules, and that: (a) The offices of the Clerks of Houses of Parliament provide secretariat services in accordance with the Standing Orders; and, (b) the following Members represent the Senate in the Joint Select Committee: 1. Sen. Aaron Cheruiyot 2. Sen. (Dr.) Abdulahi Ibrahim Ali 3. Sen. Millicent Omanga 4. Sen. Mutula Kilonzo Jnr and; 5. Sen. Rose Nyamunga. Mr. Deputy Speaker, Sir, this is a very straight forward Motion. During the previous Parliament, we moved a Motion in this House to establish a similar committee. I sat in that committee and co-chaired it with Hon. Katoo Ole Metito who was a Member of the National Assembly. Sen. Mutula Kilonzo Jnr. and other Senators who did not come back here were also Members of that committee. Unfortunately we ran out of time because we were unable to complete the process of elections. The rules we passed then on election of members to the EALA were brought here and we passed them as well. Mr. Deputy Speaker, Sir, it is very clear that there shall be an election. The question of who represents us in the EALA is based on the number of parliamentary parties and the numbers they have. A calculation is done based on the parties to come up with a proportionate number. A rough estimates means that Jubilee Party will have the highest number which is about six, the Orange Democratic Movement (ODM) will have two and another political party - I am not sure if it is Ford Kenya or PDR - will also have one. Mr. Deputy Speaker, Sir, we will have an election to elect people whose names will be brought to this House. It is interesting that we will have a polling station in this House. That day, this House will be converted into a voting centre and the same will happen in the National Assembly. If Jubilee Party is allocated six people, Members will be asked to vote for any of the shortlisted persons. We will have about 18 names because the number has to be three times the number of positions allocated to a particular party. If the ODM has two slots, then they will have six people to be voted for. If PDR or Ford Kenya is to have one, they will have to front three names. We will be required to vote for a certain number of people in every category. At the end, we will have very interesting results because you cannot guarantee anyone whether they will be elected.\n\nFor purposes of illustration, ODM could front six names and the Jubilee Party will determine who among the six will be elected persons to go to EALA because they have the majority in both Houses. So, numbers are very important. Democracy is very important because it is the will of the majority and numbers are very good. If you ever form your party in future, you must work very hard because numbers are very important. I have heard people castigating numbers because of the decisions that are being made. Democracy is such that many citizens will have an opportunity to vote whether you like them or not. It does not matter the degree or the corner of the country they live in but their numbers are very important. In this House, in less than two or three weeks, numbers will matter again. We will come back here to vote. We will have those aspiring to be nominees lobbying and they will be given time to go around explaining their manifestos and what they will do for Kenya when they go to the EALA. The person I may like on the Jubilee Party list may never win because it is the votes that will come from both the Jubilee Party and the NASA that will determine who will be elected. The nominees will have an opportunity to talk to the Senators for Nyamira and Busia even if they were appointed by Jubilee. They must convince the political parties across the board. The persons who will get more votes will be nominated to represent Kenya in the EALA. Mr. Deputy Speaker, Sir, the exercise is important. It was born out of a court decision after the 2007 elections when the ODM went to court to challenge the process of nominating persons to the EALA. They said that it must be as transparent as possible. I therefore urge our Members to come and vote. I have seen my colleagues take issue with the nomination of persons based on their relationship with politicians. It does not matter whether they are related to hon. Uhuru Kenyatta, hon. Raila Odinga, hon. William Ruto or Sen. (Prof.) Kindiki. If you do not like someone because they are related to so and so, hold on because we will vote here. You will have a chance to vote them out because you are allowed to vote for other people. So, I depart from the position of my friends who say that the son of Hon. Kalonzo Musyoka should not be on the list. We must be magnanimous. We cannot beat someone in elections and say that their children cannot have a chance to try something else which is unrelated to what that person was pursuing. I completely depart from my colleagues who say that it is wrong for the former vice president and former prime minister to forward names of their relatives. Let us allow them to bring their people but we will assess them based on their competence. Hon. Kalonzo Musyoka's son is a lawyer and I might be inclined to vote for him unless someone convinces me otherwise. When I look at the NASA list and find that he is the most competent one, I will vote for him. If he, his father or friends call me requesting for my vote, I am a citizen of this republic and I will consider across the board because I am a nationalist. I completely depart from the previous position we held. We will give a chance to every person who will be on the nomination list. Yesterday I heard my colleagues in the National Assembly saying that our friends and relatives should not be proposed. We have a very difficult job. We will be punishing so many people by virtue of us being elected by voters. We must remember that J. F. Kennedy was the President of the USA when his brother Robert Kennedy was the\n\nAttorney-General. We should not punish people but judge them based on their competence. As long as the process is transparent, I do not think we will have time for servers; it will be just manual. We will vote here and every vote will count. We will ensure that we protect everybody. Secondly, I want to request my colleagues that should it be necessary, even when we are on the recess, that we are called back to consider that very important matter, we should take time to come back and consider it. We have become a laughing stock because we have stopped the East African Legislative Assembly (EALA) from working. Kenyan livestock was confiscated and sold in Tanzania, which is laughable. The Maasai community in Tanzania and Kenya do not know where the boundary is, just like the Teso community in Kenya and Uganda are not very serious about boundaries. They have relationships across the border. Operationalizing this Assembly would have given it an opportunity to discuss such matters and foster good neighbourliness. The fishermen who were arrested in Lake Victoria could have been a subject of discussion in the EALA. The EALA could have come up with resolutions. Sen. Pareno who was here had the privilege to serve there. Therefore, it is a very wonderful opportunity to serve in the EALA. Thereafter, you can even come back here or run for President. I beg to move and give the onus of seconding this very important Motion to Sen. Omogeni."
     },
     {
-      "order": 359,
+      "order": 365,
       "id": "entry-764739",
       "label": "speech",
       "level": "3",
@@ -4311,7 +4383,7 @@
       "text": "Thank you, the Senate Majority Leader. Yes, Sen. Omogeni, the Senator for Nyamira County."
     },
     {
-      "order": 360,
+      "order": 366,
       "id": "entry-764740",
       "label": "speech",
       "level": "3",
@@ -4323,7 +4395,7 @@
       "text": "Am I on? The microphone seems to be resisting."
     },
     {
-      "order": 361,
+      "order": 367,
       "id": "entry-764741",
       "label": "scene",
       "level": "3",
@@ -4335,7 +4407,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 362,
+      "order": 368,
       "id": "entry-764742",
       "label": "speech",
       "level": "3",
@@ -4347,7 +4419,7 @@
       "text": "It is receiving orders from you."
     },
     {
-      "order": 363,
+      "order": 369,
       "id": "entry-764743",
       "label": "speech",
       "level": "3",
@@ -4359,7 +4431,7 @@
       "text": "Mr. Deputy Speaker, Sir, I want to agree on some aspects with my learned colleague, Sen. Murkomen. First, I appreciate the approach that we are giving this matter of picking our representatives to the EALA. I am informed that this time round, the Senate Majority Leader has followed the right procedure. He has consulted the leadership of the Minority side and we have given our input on the names. Therefore, I wish to second the Motion. I want to say one or two things. I have listened to the Senate Majority Leader giving figures about the Orange Democratic Movement (ODM) getting two names and Jubilee Party six names. I am very worried when it comes to figures and the Jubilee Party because since independence I have never seen a government that can get it wrong in figures when passing a budget. For the first time, Jubilee has gone on record as a Government that cannot even get it right when it comes to figures. Now that the Senator for Busia County is here, I do not think when he was serving as the Attorney General he found himself in the shoes in which my good teacher, Prof. Githu Muigai, found himself in. I hope the Senate Majority Leader will get it right in terms of figures.\n\nIt is really shameful that we have kept counties without money since August simply because the Jubilee leadership could not get it right. I hope we will not waste another time having disagreements in this House because we are not able to get it right in terms of how many numbers should be allocated to the NASA leadership. I am happy to note that we had two by-elections in Kisii yesterday. One was for the Member of the National Assembly for Kitutu Chache South Constituency. The servers could not work there and Hon. Richard Onyonka is now the new Member for Kitutu Chache South Constituency. Therefore, nobody should mislead the country that Kisii County is now leaning towards Jubilee. I support the averment by the Senate Majority Leader that we should ensure that this process is transparent. I want to sympathise with the people who were vying for political seats. Some of my friends from Kisii and Nyamira counties were hoodwinked not to vie for particular seats with the hope that they will be taken to the EALA. I do not know what you will do with these people you have given false hopes and promises, since you have stated in this House that they will go through an election. I want to urge the Jubilee leadership to stop the habit of giving people false promises and hope for jobs that they will never give them. With those remarks, I second the Motion."
     },
     {
-      "order": 364,
+      "order": 370,
       "id": "entry-764747",
       "label": "scene",
       "level": "3",
@@ -4371,7 +4443,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 365,
+      "order": 371,
       "id": "entry-764748",
       "label": "speech",
       "level": "3",
@@ -4383,7 +4455,7 @@
       "text": "Hon. Senators, we have one more Motion to go and the time does not look very good. We have just slightly over 40 minutes. I will encourage that we use our time well. I will grant a maximum of three minutes to those who indicate interest. I will start with Sen. Wako."
     },
     {
-      "order": 366,
+      "order": 372,
       "id": "entry-764749",
       "label": "speech",
       "level": "3",
@@ -4395,7 +4467,7 @@
       "text": "Mr. Deputy Speaker, Sir, since we are very few, three minutes is too short. Even if I talked for one hour, it is still okay. However, I am not challenging your ruling."
     },
     {
-      "order": 367,
+      "order": 373,
       "id": "entry-764750",
       "label": "speech",
       "level": "3",
@@ -4407,7 +4479,7 @@
       "text": "Try to do so at your own risk."
     },
     {
-      "order": 368,
+      "order": 374,
       "id": "entry-764751",
       "label": "speech",
       "level": "3",
@@ -4419,7 +4491,7 @@
       "text": "Mr. Deputy Speaker, Sir, matters of the East African Community are very close to my heart because my father served there in a very important position of Deputy Secretary General of the defunct Community and Secretary to the Authority. Then the three Heads of State appointed me in 2004 to chair a meeting to fast-track the East African Federation. This is a very important matter because Kenya has been very unfortunate. Kenya is now being blamed for the late start of the East African Legislative Assembly (EALA). This Assembly was convened just before we went to the elections. It could not take off because Kenya had not made its nominations. The four member states of the community are blaming Kenya for the non-starting of EALA. That is a great embarrassment for Kenya which should take the lead in ensuring that the various organs of the Community are up and running and very functional. I support this Committee because it is composed of very able people. I hope that they can now move with speed to make sure that the gap is filled. It is only after the EALA is in place that the Community can work. The Community is more or less\n\nmoribund because EALA is not in place. The drive to realize the ambitions of the people of East Africa is not there because EALA, which in a sense represents the people in the organs of the community, is not functional. Nowadays, you do not hear our own leaders talk about greater economic, social and political integration of East Africa. Two or three years ago, it was in everybody's lips including our leaders but you now do not hear about it. What you now hear are the quarrels between the member states. Our cattle are being auctioned in Tanzania and our fishermen are being arrested in Uganda. I hope that with the Legislative Assembly, we will reverse the trend. Thank you."
     },
     {
-      "order": 369,
+      "order": 375,
       "id": "entry-764755",
       "label": "speech",
       "level": "3",
@@ -4431,7 +4503,7 @@
       "text": "Could we hear from Sen. (Rev.) Waqo?"
     },
     {
-      "order": 370,
+      "order": 376,
       "id": "entry-764756",
       "label": "speech",
       "level": "3",
@@ -4443,7 +4515,7 @@
       "text": "Is that my sister?"
     },
     {
-      "order": 371,
+      "order": 377,
       "id": "entry-764757",
       "label": "speech",
       "level": "3",
@@ -4455,7 +4527,7 @@
       "text": "Yes, I am following my brother. Thank you Mr. Deputy Speaker, Sir. I stand to support this Motion. I also want to let you know that I almost went to EALA before I came here. That is where I got to know the Senate Majority Leader and all the others. I campaigned seriously. I understand the dilemma and the anxiety that those who are interested are going through at this particular time. I also understand the challenges that the entire East African region is facing because of us. I want to be brief. I could have said much because that opportunity gave me a lot of time to go through what East Africa stands for. I studied a lot. I still feel that I should show a lot of interest in that but it is probably for another day. I stand to support this Motion. I have a lot of confidence in the names that have been presented to us. We stand for it and if we will be recalled, my request is that we avail ourselves so that East Africa can get going because of us."
     },
     {
-      "order": 372,
+      "order": 378,
       "id": "entry-764758",
       "label": "speech",
       "level": "3",
@@ -4467,7 +4539,7 @@
       "text": "Very well. Could we hear from Sen. (Prof.) Kamar?"
     },
     {
-      "order": 373,
+      "order": 379,
       "id": "entry-764759",
       "label": "speech",
       "level": "3",
@@ -4479,7 +4551,7 @@
       "text": "Thank you Mr. Deputy Speaker, Sir, for giving me the opportunity. I happened to have been in the first group after the revival of the EALA. I am very delighted to contribute and congratulate the five Members who have been appointed by our two leaders. I think this is the way to go. I want to congratulate the Senate Majority Leader and the Senate Minority Leader for negotiating quietly and bringing the five Senators to us. We know that they are extremely fair and intelligent people. We are looking forward to them doing the work that is before them. I would only like to say that EALA is a very important organ for us as a country because the East African Community is the market for Kenyan goods. It is the environment where Kenyans can move freely and do a lot of business. It is important that we continue to give the leadership that we have been giving to the Community. I will, therefore, have no doubt that the sooner we elect our members the better. It is unfortunate that our elections came in between and we were not able to complete the process earlier. Maybe, this could be our trend. We could select people immediately after our own election so that the calendar is almost fixed. We could even encourage the East Africa Community to fix the time so that we do not miss out on anything. With those remarks, I would like to support the Motion."
     },
     {
-      "order": 374,
+      "order": 380,
       "id": "entry-764761",
       "label": "speech",
       "level": "3",
@@ -4491,7 +4563,7 @@
       "text": "Very well. I see no more interest. The Senate Majority Leader, reply but do not take forever."
     },
     {
-      "order": 375,
+      "order": 381,
       "id": "entry-764762",
       "label": "scene",
       "level": "3",
@@ -4503,7 +4575,7 @@
       "text": "(Sen. Murkomen spoke off record)"
     },
     {
-      "order": 376,
+      "order": 382,
       "id": "entry-764763",
       "label": "speech",
       "level": "3",
@@ -4515,7 +4587,7 @@
       "text": "You have done very well for the record. Were you not on record?"
     },
     {
-      "order": 377,
+      "order": 383,
       "id": "entry-764764",
       "label": "speech",
       "level": "3",
@@ -4527,7 +4599,7 @@
       "text": "Thank you Mr. Deputy Speaker, Sir. I beg to reply."
     },
     {
-      "order": 378,
+      "order": 384,
       "id": "entry-764765",
       "label": "speech",
       "level": "3",
@@ -4539,7 +4611,7 @@
       "text": "Senators, this is a Motion that does not concern the counties as defined in our Standing Orders and the Constitution. Therefore, we will take a voice vote."
     },
     {
-      "order": 379,
+      "order": 385,
       "id": "entry-764766",
       "label": "scene",
       "level": "3",
@@ -4551,7 +4623,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 380,
+      "order": 386,
       "id": "entry-764767",
       "label": "speech",
       "level": "3",
@@ -4563,7 +4635,7 @@
       "text": "The Ayes have it. There is no applause for the Assembly? Order Senators! Given the time we have left, pursuant to Standing Order No. 39, we will drop Order No. 11. This is a Motion by Sen. Dullo which will be considered at the next earliest opportunity by the Senate Business Committee. Therefore, we will move to the next order."
     },
     {
-      "order": 381,
+      "order": 387,
       "id": "entry-764768",
       "label": "heading",
       "level": "1",
@@ -4575,7 +4647,7 @@
       "text": "MOTION"
     },
     {
-      "order": 382,
+      "order": 388,
       "id": "entry-764769",
       "label": "heading",
       "level": "3",
@@ -4587,7 +4659,7 @@
       "text": "ALTERATION OF THE CALENDAR OF THE SENATE"
     },
     {
-      "order": 383,
+      "order": 389,
       "id": "entry-764770",
       "label": "speech",
       "level": "3",
@@ -4599,7 +4671,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move the following Motion: THAT, PURSUANT to standing Order No.29(4), the Senate resolves to alter its calendar for the first session in respect of the fourth part in order to proceed on a recess from Friday, 10th November 2017 to Monday, 27th November 2017. Your office issued a ruling on Tuesday that since the House does not have committees yet, and particularly at the request of the minority side who wrote a letter to the Speaker requesting for a break up to the end of the month, the Speaker ordered the time that we should give ourselves. The work that is here is important, but also the work of consulting our voters is even extremely important. Therefore, there is always that opportunity when we get a chance to consult the voters on issues that are affecting them and the country, it is important for us to take it seriously. Secondly, there is the process that we have just passed; the for formation of the Committee on election of Members to EALA. The recess will give the Committee time to work on the process and procedures so that when we come back we will be ready to vote and elect the people to serve in EALA.\n\nMr. Speaker, Sir, the East African Community is very important. I have heard my colleagues say that political parties who promise their supporters that they will be given opportunity in the East African Parliament, are misleading them. It is not true. The political parties are the ones that are going to nominate people to come and serve here. So, it is true that they will honour the promise to their voters. For instance, if there is a friend of Sen. Omogeni who was promised nomination, that party must do the nomination, the people will come here and we will have the responsibility to vote. Fortunately, despite Sen. Omogeni being in the opposition, he will have an opportunity to vote for a person probably nominated by Jubilee but comes from his county. That is where his patriotism and support for his county will be tested and he must take it seriously when that day comes. Additionally, I am willing to look at all the nominees that come from both sides, as I said. Thirdly, there is something going on that is very important. Our country is awaiting a decision of the Supreme Court on an important election that took place on 26th of October 2017 - a fresh presidential election which is another test of our constitutional structures. I am happy that the people of Kenya turned out in large numbers to vote on 26th October, 2017. As a matter of fact, Hon. Onyonka was elected two days ago and Sen. Omogeni was so excited. He was elected by less than 17 percent of the registered voters of Kitutu Chache South Constituency. President Uhuru Kenyatta was elected way above that, which was 38 percent of the registered voters. Further, in that small turnout of 17 percent, Hon. Onyonka won by getting 45 percent of the leading votes that were valid. Therefore, while President Uhuru Kenyatta got 98 percent of 38 percent of total turnout in the Republic, it is way above any by-elections, repeat elections or fresh elections. Therefore, the courts will have their time since this House has a tradition and is bound by law not to discuss matters that are sub judice . That matter is being canvassed in the Supreme Court. In the fullness of time on or before 20th of November, we would have found a decision of the Supreme Court which is a signature of our constitutional order. Mr. Deputy Speaker, Sir, I disagree, the same way I disagreed earlier with those who think that appointing people related to elected Members is wrong. I also disagree with those who want to manufacture a crisis, that there is a crisis in this country. Crisis from where, by who and for what? There is no crisis in this Republic. There is no need for any person to travel all over the world preaching crisis. We have our Constitution. Read the Constitution. Follow the Constitution. This country is one of the most enviable countries in the world. The Attorney General Emeritus, after many years of being the Attorney General finally was in Uhuru Park. I was there and I saw him not through the television, I saw him face to face promulgating the Constitution on 27th August 2010. I saw him because I campaigned for this Constitution. By the way, Sen. (Prof.) Kamar and I campaigned for the passing of this Constitution. I was her mtu wa mkono which translates to an errand boy, at that point in time."
     },
     {
-      "order": 384,
+      "order": 390,
       "id": "entry-764774",
       "label": "speech",
       "level": "3",
@@ -4611,7 +4683,7 @@
       "text": "Were you the errand boy or were you the assistant to Sen. (Prof.) Kamar?"
     },
     {
-      "order": 385,
+      "order": 391,
       "id": "entry-764776",
       "label": "speech",
       "level": "3",
@@ -4623,7 +4695,7 @@
       "text": "Mr. Deputy Speaker, Sir, I was something in between because I was on call for purposes of encouraging and educating people to accept this Constitution. I am very happy since both Sen. (Prof.) Kamar and Sen. Wako are here to enjoy the institutions of the Constitution they supported. Together with the former Prime Minister among others, we supported this Constitution then. Let us follow this Constitution. Let us follow every step of this Constitution. Let us not manufacture a crisis where there is none. Therefore, when we are sitting here as a country, I am so impressed by the people of Kenya. Despite being cajoled and mobilized, they have avoided violence. I wish Kenyans would see the comradeship and the camaraderie that exists among politicians. No one would have died on behalf of Sen. Murkomen or any other person. It is important for people to continue being this mature; Kenyans matured. If you see the way our people are behaving, this is extreme maturity by the people of Kenya. People wanted people to kill each other so that there can be a crisis, but our people have restrained themselves. It is now an established tradition going forward that anyone who wants to vote would be respected and whoever is not willing to vote would also be respected as this country brings us together. A neighbour cannot kill his neighbour because of elections, violence or getting someone to office. Mr. Deputy Speaker, Sir, we are standing here proudly saying that we look forward to the events of the Supreme Court. Hopefully there will be a positive verdict for those of us who supported President Uhuru Kenyatta and this will lead to the swearing in of the President. Consequently, when we come back here on 28th November 2017, I believe that we will have President Uhuru Kenyatta serving his second term. When that happens, we will then come and discuss other matters that have been pending and how to strengthen this House and work with the national Government to ensure that it grants us the resources that are necessary for this Parliament and this House to carry out oversight. We can work on them and ensure that we move devolution forward. I have said so many things but I want to say that I am very proud of the work we did as a House for the short time that we have been here. We have passed the County Allocation of Revenue (Amendment) Bill (CARA) and we have now so many Bills and, as I read, policy papers that we will come and approve. So, our plate is full; when we come back it is not in the absence of business, it is just that we have gone to take care of the other business. When we come back we will come and continue with the business of this House as required by our calendar, the Constitution and the law. Thank you. I beg to move. I request the Senate Deputy Majority Leader to second."
     },
     {
-      "order": 386,
+      "order": 392,
       "id": "entry-764777",
       "label": "speech",
       "level": "3",
@@ -4635,7 +4707,7 @@
       "text": "Mr. Deputy Speaker, Sir, I second."
     },
     {
-      "order": 387,
+      "order": 393,
       "id": "entry-764778",
       "label": "scene",
       "level": "3",
@@ -4647,7 +4719,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 388,
+      "order": 394,
       "id": "entry-764779",
       "label": "speech",
       "level": "3",
@@ -4659,7 +4731,7 @@
       "text": "Hon. Senators, I see no request. Therefore, I now put the question. This is not a Motion affecting counties."
     },
     {
-      "order": 389,
+      "order": 395,
       "id": "entry-764780",
       "label": "scene",
       "level": "3",
@@ -4671,7 +4743,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 390,
+      "order": 396,
       "id": "entry-764781-speaker-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -4683,7 +4755,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 391,
+      "order": 397,
       "id": "entry-764781",
       "label": "speech",
       "level": "1",
