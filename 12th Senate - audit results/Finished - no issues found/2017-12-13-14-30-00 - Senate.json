@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2017-12-13-14-30-00",
-  "exported_at": "2026-10-05T07:59:44.944Z",
+  "exported_at": "2026-10-08T20:55:53.734Z",
   "entries": [
     {
       "order": 1,
@@ -1588,7 +1588,7 @@
     },
     {
       "order": 133,
-      "id": "entry-770701-uppercase-text-heading",
+      "id": "entry-770701-uppercase-text-heading-split-selected-1a7d3a5d-4d7c-40e0-baa2-1a320a6167aa",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -1596,10 +1596,118 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "STATUS OF OIL SPILLAGE AT THANGE, MAKUENI COUNTY DELAYED COMPENSATION FOR PERSONS DISPLACED BY MULIMA DAM PROJECT KETRACO SULTAN HAMUD-MWINGI HIGH VOLTAGE POWER LINE PROJECT STATUS OF INCLUSION OF PWDS IN THE PUBLIC SERVICE ALLEGED ABUSE OF HUMAN RIGHTS OF PWDS MAINSTREAMING OF LEARNERS WITH DISABILITY IN THE EDUCATION CURRICULUM ALLEGED SHOOTING OF LIVESTOCK BY SECURITY OFFICERS IN LAIKIPIA COUNTY DISPLACEMENT OF SAMBURU PASTORALISTS IN LAIKIPIA COUNTY STATUS OF LAND OWNED BY THE ADC IN LAIKIPIA COUNTY STATUS OF INSECURITY IN NGOMENI WARD, MWINGI NORTH CONSTITUENCY IN KITUI COUNTY"
+      "text": "STATUS OF OIL SPILLAGE AT THANGE, MAKUENI COUNTY"
     },
     {
       "order": 134,
+      "id": "entry-770701-uppercase-text-heading-split-after-8b04188e-b584-4a5c-81bc-8ada4c43868f-split-selected-59b15b60-3dd1-494c-a3b3-e4fa3595d8fe",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "DELAYED COMPENSATION FOR PERSONS DISPLACED BY MULIMA DAM PROJECT"
+    },
+    {
+      "order": 135,
+      "id": "entry-770701-uppercase-text-heading-split-after-8b04188e-b584-4a5c-81bc-8ada4c43868f-split-after-d84e1a31-5c3a-4dd5-9389-4a6dfb01367a-split-selected-f4c7b23c-e48f-46b2-8ab5-0da2c75dbba5",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "KETRACO SULTAN HAMUD-MWINGI HIGH VOLTAGE POWER LINE PROJECT"
+    },
+    {
+      "order": 136,
+      "id": "entry-770701-uppercase-text-heading-split-after-8b04188e-b584-4a5c-81bc-8ada4c43868f-split-after-d84e1a31-5c3a-4dd5-9389-4a6dfb01367a-split-after-7f5ce3cd-f749-4ee2-b3d3-d9eba67f878c-split-selected-02f503e4-1197-4590-97a7-20c4ff50c221",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "STATUS OF INCLUSION OF PWDS IN THE PUBLIC SERVICE"
+    },
+    {
+      "order": 137,
+      "id": "entry-770701-uppercase-text-heading-split-after-8b04188e-b584-4a5c-81bc-8ada4c43868f-split-after-d84e1a31-5c3a-4dd5-9389-4a6dfb01367a-split-after-7f5ce3cd-f749-4ee2-b3d3-d9eba67f878c-split-after-43e5b1e2-3a36-4c82-a291-57aa4a7bcb84-split-selected-d05279d1-aa0d-434f-a976-0fc426bced82",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "ALLEGED ABUSE OF HUMAN RIGHTS OF PWDS"
+    },
+    {
+      "order": 138,
+      "id": "entry-770701-uppercase-text-heading-split-after-8b04188e-b584-4a5c-81bc-8ada4c43868f-split-after-d84e1a31-5c3a-4dd5-9389-4a6dfb01367a-split-after-7f5ce3cd-f749-4ee2-b3d3-d9eba67f878c-split-after-43e5b1e2-3a36-4c82-a291-57aa4a7bcb84-split-after-1b840110-f405-49a1-9e6c-b4a757685c53-split-selected-64ef196a-0ed8-4d13-b31c-a0c84724e947",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "MAINSTREAMING OF LEARNERS WITH DISABILITY IN THE EDUCATION CURRICULUM"
+    },
+    {
+      "order": 139,
+      "id": "entry-770701-uppercase-text-heading-split-after-8b04188e-b584-4a5c-81bc-8ada4c43868f-split-after-d84e1a31-5c3a-4dd5-9389-4a6dfb01367a-split-after-7f5ce3cd-f749-4ee2-b3d3-d9eba67f878c-split-after-43e5b1e2-3a36-4c82-a291-57aa4a7bcb84-split-after-1b840110-f405-49a1-9e6c-b4a757685c53-split-after-64410418-6f2b-422b-99fb-7bf98dc46e94-split-selected-632200ad-c64b-431a-bec3-21e8901921bc",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "ALLEGED SHOOTING OF LIVESTOCK BY SECURITY OFFICERS IN LAIKIPIA COUNTY"
+    },
+    {
+      "order": 140,
+      "id": "entry-770701-uppercase-text-heading-split-after-8b04188e-b584-4a5c-81bc-8ada4c43868f-split-after-d84e1a31-5c3a-4dd5-9389-4a6dfb01367a-split-after-7f5ce3cd-f749-4ee2-b3d3-d9eba67f878c-split-after-43e5b1e2-3a36-4c82-a291-57aa4a7bcb84-split-after-1b840110-f405-49a1-9e6c-b4a757685c53-split-after-64410418-6f2b-422b-99fb-7bf98dc46e94-split-after-5997597e-794c-4e69-b261-23c1407bf911-split-selected-be294c8f-5103-468c-9d15-db8f8e8249b8",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "DISPLACEMENT OF SAMBURU PASTORALISTS IN LAIKIPIA COUNTY"
+    },
+    {
+      "order": 141,
+      "id": "entry-770701-uppercase-text-heading-split-after-8b04188e-b584-4a5c-81bc-8ada4c43868f-split-after-d84e1a31-5c3a-4dd5-9389-4a6dfb01367a-split-after-7f5ce3cd-f749-4ee2-b3d3-d9eba67f878c-split-after-43e5b1e2-3a36-4c82-a291-57aa4a7bcb84-split-after-1b840110-f405-49a1-9e6c-b4a757685c53-split-after-64410418-6f2b-422b-99fb-7bf98dc46e94-split-after-5997597e-794c-4e69-b261-23c1407bf911-split-after-60d89b57-e092-411b-94fd-c3357490624d-split-selected-221a54ea-4733-45e5-8622-1a3fb5255043",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "STATUS OF LAND OWNED BY THE ADC IN LAIKIPIA COUNTY"
+    },
+    {
+      "order": 142,
+      "id": "entry-770701-uppercase-text-heading-split-after-8b04188e-b584-4a5c-81bc-8ada4c43868f-split-after-d84e1a31-5c3a-4dd5-9389-4a6dfb01367a-split-after-7f5ce3cd-f749-4ee2-b3d3-d9eba67f878c-split-after-43e5b1e2-3a36-4c82-a291-57aa4a7bcb84-split-after-1b840110-f405-49a1-9e6c-b4a757685c53-split-after-64410418-6f2b-422b-99fb-7bf98dc46e94-split-after-5997597e-794c-4e69-b261-23c1407bf911-split-after-60d89b57-e092-411b-94fd-c3357490624d-split-after-3e54fe3e-836e-43cf-b945-2e70e1096438",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "STATUS OF INSECURITY IN NGOMENI WARD, MWINGI NORTH CONSTITUENCY IN KITUI COUNTY"
+    },
+    {
+      "order": 143,
       "id": "entry-770702",
       "label": "speech",
       "level": "2",
@@ -1611,7 +1719,7 @@
       "text": "Yes, Sen. Wambua."
     },
     {
-      "order": 135,
+      "order": 144,
       "id": "entry-770703",
       "label": "speech",
       "level": "2",
@@ -1623,7 +1731,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I take note that the Statement that I had sought lies within the questions that Sen. Kihika is seeking to defer. That Statement has been on the Order Paper for more than a month. It is a security situation where people are losing their lives. I do not know what the difficulty is to provide the answers to the questions that we have raised. I stand to seek guidance from the Chair whether we should really continue deferring this question or not. If the Cabinet Secretary (CS) in charge of security is unable to deal with this matter, then I would request that the House, through your guidance, would find authority in some Standing Order to order either for the establishment of an ad hoc Committee to deal with this matter or require that the CS and the Inspector-General of Police avail themselves to respond to this matter. As I conclude - I mentioned the last time it was deferred - the following day after I sought this Statement, more people were killed. It is a painful thing and for us it is just a matter of responding to a question, but for the people affected, it is life and death. Thank you."
     },
     {
-      "order": 136,
+      "order": 145,
       "id": "entry-770706",
       "label": "speech",
       "level": "2",
@@ -1635,7 +1743,7 @@
       "text": "Let us hear from Sen. (Dr.) Musuruve, and then you will respond to all of them."
     },
     {
-      "order": 137,
+      "order": 146,
       "id": "entry-770707",
       "label": "speech",
       "level": "2",
@@ -1647,7 +1755,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for the opportunity you have given me. I would like to just emphasise that it is important for the Senate Majority Leader to realise that issues of disability are issues of great concern. Most of the time, persons with disabilities (PWDs) are ignored and when this happens, the cyclic nature of poverty will continue with their lineage. We are in an age where we are talking about mainstreaming of PWDs and you can imagine between 10 to 15 per cent of the population being mainstreamed. The issue of poverty will still continue in the lives of PWDs. I also want to say that the issue of abuse of PWDs is still continuing even right now. If you just drive along Uhuru Highway, you will see PWDs being abused. So many of them are being dumped on the streets to beg and do other things. So, this is an issue that really needs to be addressed. On the issue of the new curriculum, as we are speaking, it is being rolled out. It is important that we get to know whether the Ministry of Education has done anything in terms of piloting for mainstreaming of leaners with disability in the school curriculum. This is because, at the end of the day, if a pilot has not been done, the learners will still continue to be disadvantaged and when they finish the many years in school, they may end up not getting jobs. Therefore, I want to say that through the Chair, kindly insist that the relevant committees or the relevant authorities address these issues of disability. I want to thank you because I know that you are a great friend of PWDs and there are many people who are friends of PWDs. So, kindly intervene on this matter that is of importance to the lives of PWDs that form between 10 to 15 per cent of our population. We cannot afford to ignore that group of our population if we intend to move ahead and develop. Remember - I am bringing it to this House - when we are talking of Sustainable Development Goals (SDGs) and Millennium Development Goals (MDGs), it is anchored on the slogan of \"Leave no one behind\". I want to say in this House that we need to really address issues of PWDs because we do not want to leave them behind. Thank you."
     },
     {
-      "order": 138,
+      "order": 147,
       "id": "entry-770708",
       "label": "speech",
       "level": "2",
@@ -1659,7 +1767,7 @@
       "text": "Yes, Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 139,
+      "order": 148,
       "id": "entry-770709",
       "label": "speech",
       "level": "2",
@@ -1671,7 +1779,7 @@
       "text": "Mr. Speaker, Sir, I have four statements that have not been answered. First, I sympathise with Sen. Kihika of Nakuru County. This is what started in the last Senate. They started by delaying for two weeks, it went to four weeks, then two months and there are Senators who left this Senate in the last Session without receiving their responses for the questions they had requested for. Secondly, I agree with my colleague, Sen. Wambua, that there are certain matters particularly on security that even if a Statement is not issued in this House, there should have been some action taken, for example, to arrest banditry where there is a conflict which ought to be given through the leadership at the Senate Majority level. So, it is not enough to say that you have not received a written request. These Senators offered facilities to the leadership of the Minority and Majority to be able to make a phone call and a vehicle to drive to these Ministries. Mr. Speaker, Sir, in a case of insecurity, I would like you to give directions and possibly an order, that it would not be enough excuse to say that the Ministry has not issued a Statement. The question should be; why have they not issued that Statement and what is the reason for having not followed up that Statement? As we go for Christmas holidays, the affected families do not know why their people are being attacked yet all of us are going to enjoy our holidays. That is an embarrassment to the Senate Majority Leader. Mr. Speaker, Sir, your direction on this matter is very important. We will cry here more than the bereaved, but Sen. Kihika is not going to give us the answers we need. However, your directions are going to be good enough as precedent that we should not sit here and be giving excuses time and again because when we give these people sitting in the Ministries that opportunity, they will not answer those questions. In the last Senate, they even refused to come for meetings, but started with these excuses. Please note that. Thank you."
     },
     {
-      "order": 140,
+      "order": 149,
       "id": "entry-770712",
       "label": "speech",
       "level": "2",
@@ -1683,7 +1791,7 @@
       "text": "Yes, Sen. Olekina."
     },
     {
-      "order": 141,
+      "order": 150,
       "id": "entry-770713",
       "label": "speech",
       "level": "2",
@@ -1695,7 +1803,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity to comment on this delay of Statements. I am not sure if Sen. Kihika has requested to defer Statements up to (n). I was earlier informed that one of my statements was ready. When I look at these statements from (e) to (n), it means that she would not read all the other statements. Secondly, I would like to insist that prior to issuing a Statement, we should be given advance copies so that at least we interrogate the answers because we know as soon as the Statement has been issued, that is the end of it. Therefore, I would really like to request that you instruct the Senate Majority Leader to ensure that the Members requesting Statements are given Statements prior to, so that they can get the information. Thirdly, I know the delay in issuing Statements is partly our fault in the sense that we have not established the Committees, but given that this country has various Ministries and all the Senate Majority Leader has to do is to communicate to those Ministries, that should not be an excuse as to why we cannot get answers. We are now about to go on recess. I raised a Statement based on the issue of the killing of cows in Laikipia and the compensation of those herders, but I have not gotten those replies. I know one herder whose wife was admitted in a hospital and later passed on. Now that we are going for Christmas holidays, these people do not have answers from their Government, from this House and their leaders, which puts us in a very awkward position. I want to echo the words of the distinguished Senator for Kitui County, Sen. Wambua; that it is imperative that we care about the people we represent. Therefore, I would like to request that you direct that all these Statements that we requested be forwarded to the relevant committees. I know we are coming back from recess sometime in February, but prior to that, something must be done in terms of those Statements so that we do not fall into the same problem that the distinguished Senator for Makueni has alluded to on the issues of Members leaving this House without ever getting answers to their questions. Mr. Speaker, Sir, I would like to end by re-emphasizing that whatever statements that are issued should be fully satisfactory and the only way we can interrogate them is when we have advance responses. Otherwise if this cannot be sent to the relevant committees immediately, I do not see the reason why we should set up ad hoc committees to investigate these matters. I thank you."
     },
     {
-      "order": 142,
+      "order": 151,
       "id": "entry-770716",
       "label": "speech",
       "level": "2",
@@ -1707,7 +1815,7 @@
       "text": "Mr. Speaker, Sir, I join the distinguished Senator for Narok County in urging those responsible for bringing answers- -- There are certain issues where we can use the lack of committees as an excuse but where the loss of human life is involved, it is not a question of a committee. Human lives have been lost in very callous circumstances. In this particular case, people were butchered. This is a situation where issues of committee or no committee do not matter. In fact, the majority leadership should have taken not more than a week to bring an answer to this House because we lead people and not trees or wildlife. It is the people of this country that matter. I urge that you should not encourage this. It is fine that we are forming committees, but we should not use the lack of committees not to address issues of loss of lives either through banditry, police recklessness or now road carnage that we are seeing running away completely without anybody checking."
     },
     {
-      "order": 143,
+      "order": 152,
       "id": "entry-770717",
       "label": "speech",
       "level": "2",
@@ -1719,7 +1827,7 @@
       "text": "I direct that all those questions be put to the relevant committees. Like the Members have said, those who are going to head the committees should take matters of security seriously. We should not allow a situation where you come to explain yet people are dying. We want you to take matters of security very seriously as a House. We would like to get responses promptly when they are sought by honourable Members. So, I direct that the questions be put to the relevant committees and when we come from recess, we will need answers as requested."
     },
     {
-      "order": 144,
+      "order": 153,
       "id": "entry-770718",
       "label": "scene",
       "level": "2",
@@ -1731,7 +1839,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 145,
+      "order": 154,
       "id": "entry-770719",
       "label": "speech",
       "level": "2",
@@ -1743,7 +1851,7 @@
       "text": "Next we will have the Senate Majority Leader issue a statement on the status of female prisoners and children held in prisons and remand facilities in Kenya."
     },
     {
-      "order": 146,
+      "order": 155,
       "id": "entry-770719-uppercase-text-heading",
       "label": "heading",
       "level": "2",
@@ -1755,7 +1863,7 @@
       "text": "STATUS OF FEMALE PRISONERS AND CHILDREN HELD IN PRISONS"
     },
     {
-      "order": 147,
+      "order": 156,
       "id": "entry-770720",
       "label": "speech",
       "level": "2",
@@ -1767,7 +1875,7 @@
       "text": "Mr. Speaker, Sir, I rise to respond to the question on the status of the female prisoners and children held in prisons and remand facilities in Kenya. We have a total of 2,543 prison officers. Out of this number, 2,322 are female officers while 221 are male officers. Our department upon recruitment of new staff takes them through an initial mandatory paramilitary training at the Department Staff Training College situated near Ruiru Town within Kiambu County."
     },
     {
-      "order": 148,
+      "order": 157,
       "id": "entry-770723-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -1779,7 +1887,7 @@
       "text": "[The Speaker (Hon. Lusaka) left the Chair]"
     },
     {
-      "order": 149,
+      "order": 158,
       "id": "entry-770723-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -1791,7 +1899,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 150,
+      "order": 159,
       "id": "entry-770724",
       "label": "speech",
       "level": "2",
@@ -1803,7 +1911,7 @@
       "text": "The training curriculum covers a range of areas pertaining to prisons procedures and practices, gender studies and human rights. All newly recruited officers are equipped with skills on how to handle different and vulnerable cases of prisoners including women in our facilities. In addition, the Government has injected specialized manpower into our department by recruiting and transferring persons with specialized trainings in key areas. Some of these officers are deployed in our female facilities to specifically---"
     },
     {
-      "order": 151,
+      "order": 160,
       "id": "entry-770725",
       "label": "speech",
       "level": "2",
@@ -1815,7 +1923,7 @@
       "text": "On a point of order, Madam Temporary Speaker."
     },
     {
-      "order": 152,
+      "order": 161,
       "id": "entry-770726",
       "label": "speech",
       "level": "2",
@@ -1827,7 +1935,7 @@
       "text": "There is a point of order by Sen. Kwamboka."
     },
     {
-      "order": 153,
+      "order": 162,
       "id": "entry-770727",
       "label": "speech",
       "level": "2",
@@ -1839,7 +1947,7 @@
       "text": "Is it in order for me to get the response itself so that I go through it as she responds because I do not have a copy?"
     },
     {
-      "order": 154,
+      "order": 163,
       "id": "entry-770728",
       "label": "speech",
       "level": "2",
@@ -1851,7 +1959,7 @@
       "text": "What happened? She should have been served with a copy!"
     },
     {
-      "order": 155,
+      "order": 164,
       "id": "entry-770729",
       "label": "scene",
       "level": "2",
@@ -1863,7 +1971,7 @@
       "text": "(The Temporary Speaker consulted the Clerk-at-the-Table)"
     },
     {
-      "order": 156,
+      "order": 165,
       "id": "entry-770730",
       "label": "speech",
       "level": "2",
@@ -1875,7 +1983,7 @@
       "text": "Sen. Kwamboka, I think we should defer that question to a later date."
     },
     {
-      "order": 157,
+      "order": 166,
       "id": "entry-770731",
       "label": "scene",
       "level": "2",
@@ -1887,7 +1995,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 158,
+      "order": 167,
       "id": "entry-770732",
       "label": "speech",
       "level": "2",
@@ -1899,7 +2007,7 @@
       "text": "Next!"
     },
     {
-      "order": 159,
+      "order": 168,
       "id": "entry-770732-uppercase-text-heading",
       "label": "heading",
       "level": "2",
@@ -1911,7 +2019,7 @@
       "text": "STATUS OF KENYA REGARDING THE HAGUE CONVENTION ON THE CIVIL ASPECTS OF INTERNATIONAL CHILD ABDUCTION"
     },
     {
-      "order": 160,
+      "order": 169,
       "id": "entry-770733",
       "label": "speech",
       "level": "2",
@@ -1923,7 +2031,7 @@
       "text": "Madam Temporary Speaker, I rise to respond to the questions raised by Sen. Halake on the position of Kenya on the Hague Convention on the Civil Aspects of International Child Abduction. Allow me to inform this august House that I am aware of the Hague Convention on the Civil Aspects of International Child Abduction on a Multilateral Treaty concluded under the Hague Conference on Private International Law on 25th October, 1980. It entered into force on 1st December, 1983 and as of 2nd August, 2017, there were 98 states party to the Convention. The Convention seeks to protect children from the harmful effects of abduction and retention across international boundaries by providing a procedure to bring about their prompt return. The primary objectives of the treaty are: (1) to secure the prompt return of children wrongfully removed or retained in any contracting state; and, (2) to ensure that the rights of child custody and of access under the law of one contracting state are effectively respected in the other contracting states. The Convention prescribes a quick and efficient procedure of returning a child wrongfully abducted from one contracting state to another or wrongfully retained to their state of habitual residence. This prescription is effected by an appointed central authority of a contracting state, ordinarily a government ministry, department or agency of the member. The Convention provides a structure to support family relationships by providing a civil non-criminal procedure to return a child when abducted or taken away by a parent or custodian. The primary intention of the Convention is to preserve whatever status quo child custody arrangement existed immediately before an alleged wrongful removal or retention of a child, thereby deterring a parent or custodian from crossing international boundaries."
     },
     {
-      "order": 161,
+      "order": 170,
       "id": "entry-770736",
       "label": "speech",
       "level": "2",
@@ -1935,7 +2043,7 @@
       "text": "On a point of order, Madam Temporary Speaker."
     },
     {
-      "order": 162,
+      "order": 171,
       "id": "entry-770737",
       "label": "speech",
       "level": "2",
@@ -1947,7 +2055,7 @@
       "text": "There is an intervention by Sen. Halake. Sen. Kihika, you can have your sit temporarily."
     },
     {
-      "order": 163,
+      "order": 172,
       "id": "entry-770738",
       "label": "scene",
       "level": "2",
@@ -1959,7 +2067,7 @@
       "text": "(Sen. Kihika took her sit)"
     },
     {
-      "order": 164,
+      "order": 173,
       "id": "entry-770739",
       "label": "speech",
       "level": "2",
@@ -1971,7 +2079,7 @@
       "text": "Madam Temporary Speaker, what is being read is what is in the public domain that is known about the Convention. My interest was not in learning more because I know quite a lot about the international convention on the rights of the children. I just wanted to know why our country would opt out of that right for our children. They should just give us the answer right away as opposed to repeating what is in the statement itself."
     },
     {
-      "order": 165,
+      "order": 174,
       "id": "entry-770740",
       "label": "speech",
       "level": "2",
@@ -1983,7 +2091,7 @@
       "text": "Yes, Sen. Kihika."
     },
     {
-      "order": 166,
+      "order": 175,
       "id": "entry-770741",
       "label": "speech",
       "level": "2",
@@ -1995,7 +2103,7 @@
       "text": "Thank you, Madam Temporary Speaker. In responding to the question, I would like to say the Senator is aware of the background. Therefore, I would seek your indulgence to skip the background that forms part of the answer. Kenya is a State party to the United Nation Convention of the Rights of the Child (UNCRC) which provides that the children have the right to maintain personal relationships and direct contact with both parents on a regular basis. In accordance with Article 2(6) of the Constitution of Kenya 2010, any treaty or convention ratified by Kenya becomes part of the laws of Kenya. In this regard, the UNCRC and the African Charter on the Rights and welfare of the Child are part of the laws of Kenya. Further, the Constitution of Kenya 2010 has a progressive Bill of Rights that includes the rights of a child. Article 53 of the Constitution provides that the principles of the best interest of the child shall be of paramount importance in every matter concerning the child. To fully realise these undertakings, the Government has also enacted the Children Act 2001 that incorporates the international conventions of the rights of the child to which Kenya is a State party, embodying the principles and spirits espoused by these international conventions, including the principle of the best interest of the child. The Children Act 2001 establishes the Office of the Director of Children Services in charge of the Department of Children Services in the State Department of Social Protection, and the Ministry of East African Community, Labour and Social Protection that safeguards the welfare of children. The Department of Children Services works in collaboration with other relevant stakeholders such as the National Police Service, the Judiciary, the Kenya Prison Service, the Office of the Director of Public Prosecutions, the Ministry of Interior and Coordination of National Government, Non-Governmental Organisations, Faith-based Organisations, the Probation and Aftercare Services Department, the Immigration Department, the Ministry of Foreign Affairs, and mobile service providers. The Government has also established and operationalised the National Council for Children's Services which exercises the general supervision and control over the planning, financing, and coordination of child rights and welfare activities and advises the Government on all aspects thereof. In addition, the following interventions are being carried out by the Department of Children Services to prevent kidnappings and abductions: (1) The establishment of a toll Free Hotline No.116 to report cases of child abduction. (2) Child Protection Units (CPUs) that are managed by the National Police Service to investigate cases of child abductions; for example, one is based in the Criminal Investigation Training School in South C. (3) The National Council for Children Services have the area advisory councils which have structures used to create awareness in the community on child protection, including protection from abductions. (4) The department carries out repatriation of abducted children (5) The department also carries out tracing and reunification of abducted children. (6) The department has three rescue centres. The Children Act 2001 also provides that on application of a qualified person, a child's court has the power to make judicial orders for the protection of children. These judicial orders include wardship orders requiring that a child be placed under the protection and custody of the court and production orders requiring any person who is harbouring, concealing or otherwise unlawfully detaining a child or who intends to remove a child from Kenya or from the local limits of the jurisdiction of the court to disclose any information regarding the whereabouts of the child and / or produce the child before the court and / or restrain the person from removing the child from the jurisdiction of the court for such period as the court may specify. For international reciprocity, the Cabinet Secretary responsible for children matters, with the approval of the National Assembly, may enter into an agreement with the Government of any country or territory on such terms and conditions as he may think fit, whereby a child who has been ordered by a court under the provisions of the Act be committed to the care of a fit person or sent to an institution, may be received into that country and then placed in an institution or received into the care of a fit person or returned to his parent or guardian. An order of a court of a country or territory with which an agreement has been entered into which could lawfully have been made by a court in Kenya if the person had been within its jurisdiction shall there upon the person being received in Kenya have the same effect and be enforceable as if the order had been made by the court in Kenya."
     },
     {
-      "order": 167,
+      "order": 176,
       "id": "entry-770746",
       "label": "speech",
       "level": "2",
@@ -2007,7 +2115,7 @@
       "text": "Thank you, Madam Temporary Speaker. I am very disappointed with the answer because it did not answer the question that was requested for in the statement. It went on, winded and described what local courts can do. The idea of having ratified or being a signatory to an international convention of that nature is so that you have a right to deal bilaterally with other countries as a country and bring our children back. However, what is being described here grossly does not answer a single question that was put. The question was very simply; why is Kenya not a signatory to an international convention that protects our children that are not in our jurisdiction? What were described in the answer were local arrangements that would never help the mothers and fathers whose children have been abducted. All those arrangements that have been described do not answer the question. The question is very simple. Why is Kenya not a signatory to the Hague Convention on the Civil Aspects of International Child Abduction? Why are we opting out of this international convention that would protect our children? Why would a country do that and, instead, put in place other systems that would not hold water outside of a jurisdiction? So, that answer did not do anything. There was one answer about the Cabinet Secretary. We do not want to be at the mercy of a Cabinet Secretary helping us. We want our laws and the country to be signatory to that. So, even as a mother whose children have been removed, you do not have to be at the mercy of the Cabinet Secretary who will act as he sees fit. To me, that was not answered at all. I am not convinced that Kenya has done its best to protect its children that are outside the jurisdiction. I know these things may look far-removed, but it is a reality. A mother whose children were taken to Australia came to me and she could not afford to get anything. So, what were given are local arrangements that will not serve on the international jurisdiction. I beg to have comprehensive answers to this question because it was not answered at all."
     },
     {
-      "order": 168,
+      "order": 177,
       "id": "entry-770747",
       "label": "speech",
       "level": "2",
@@ -2019,7 +2127,7 @@
       "text": "Madam Temporary Speaker, the Senator's concerns are noted. We shall be requesting the Ministry of Foreign Affairs and International Trade to do better in answering her question. We would request additional time to get that answer back."
     },
     {
-      "order": 169,
+      "order": 178,
       "id": "entry-770748",
       "label": "speech",
       "level": "2",
@@ -2031,7 +2139,7 @@
       "text": "Anymore response, Sen. Halake, in terms of time?"
     },
     {
-      "order": 170,
+      "order": 179,
       "id": "entry-770749",
       "label": "speech",
       "level": "2",
@@ -2043,7 +2151,7 @@
       "text": "Madam Temporary Speaker, as we put that to the Ministry, my question is: Do they really intent to do it at all? Is the usefulness of that convention in their judgment, irrelevant? It would be interesting to know because they did not mention that they are either looking into it or why the country would opt out of it. That would be of interest to me."
     },
     {
-      "order": 171,
+      "order": 180,
       "id": "entry-770750",
       "label": "speech",
       "level": "2",
@@ -2055,7 +2163,7 @@
       "text": "That is noted."
     },
     {
-      "order": 172,
+      "order": 181,
       "id": "entry-770752",
       "label": "heading",
       "level": "2",
@@ -2067,7 +2175,7 @@
       "text": "DELAYED RELEASE OF FUNDS TO COUNTY ASSEMBLIES"
     },
     {
-      "order": 173,
+      "order": 182,
       "id": "entry-770753",
       "label": "speech",
       "level": "2",
@@ -2079,7 +2187,7 @@
       "text": "The Senate Majority Leader is meant to issue a statement on the alleged delay by the National Treasury to release funds to county assemblies."
     },
     {
-      "order": 174,
+      "order": 183,
       "id": "entry-770754",
       "label": "speech",
       "level": "2",
@@ -2091,7 +2199,7 @@
       "text": "Madam Temporary Speaker, I wish to request for an additional two weeks to get this Statement."
     },
     {
-      "order": 175,
+      "order": 184,
       "id": "entry-770755",
       "label": "speech",
       "level": "2",
@@ -2103,7 +2211,7 @@
       "text": "The Member who requested the statement is not around. However, that is appropriate."
     },
     {
-      "order": 176,
+      "order": 185,
       "id": "entry-770756",
       "label": "scene",
       "level": "2",
@@ -2115,7 +2223,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 177,
+      "order": 186,
       "id": "entry-770757",
       "label": "speech",
       "level": "2",
@@ -2127,7 +2235,7 @@
       "text": "Hon. Senators, I defer Orders No.13-15 to tomorrow since the Movers are not in the Chamber."
     },
     {
-      "order": 178,
+      "order": 187,
       "id": "entry-770758",
       "label": "heading",
       "level": "1",
@@ -2139,7 +2247,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 179,
+      "order": 188,
       "id": "entry-770759-split-selected-8407781e-d986-42a9-bc08-79aab8ec21d7",
       "label": "heading",
       "level": "3",
@@ -2151,7 +2259,7 @@
       "text": "ADOPTION OF SESSIONAL PAPER NO.2 OF 2016 ON THE NATIONAL SLUM UPGRADING AND PREVENTION POLICY"
     },
     {
-      "order": 180,
+      "order": 189,
       "id": "entry-770759-split-after-71dcdb30-d819-4722-97e2-82228fa72345-split-before-85febd91-8e77-4663-aa96-11b4a2f92aa4",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2271,7 @@
       "text": "THAT, this House adopts the Sessional Paper No.2 of 2016 on the National Slum Upgrading and Prevention Policy, laid on the Table of the House on Tuesday, October10th, 2017."
     },
     {
-      "order": 181,
+      "order": 190,
       "id": "entry-770759-split-after-71dcdb30-d819-4722-97e2-82228fa72345-split-selected-e3953136-7d6a-42d4-92e3-ee702906c7fc",
       "label": "heading",
       "level": "3",
@@ -2175,7 +2283,7 @@
       "text": "AUDIT ON DISTRIBUTION OF TEACHERS IN ALL PUBLIC SCHOOLS IN THE COUNTRY"
     },
     {
-      "order": 182,
+      "order": 191,
       "id": "entry-770759-split-after-71dcdb30-d819-4722-97e2-82228fa72345-split-after-63678fed-86da-4924-88dd-ac650c1582fc",
       "label": "speech",
       "level": "3",
@@ -2187,7 +2295,7 @@
       "text": "THAT WHEREAS Article 43 (1) (f) of the Constitution of Kenya explicitly provides for the right to education for all; AND WHEREAS it is the responsibility of the State to ensure that the right to education is enjoyed by all; OBSERVING THAT that the Teachers Service Commission (TSC) is the constitutionally mandated body to handle matters of employment, deployment, remuneration and discipline of teachers in all public schools; APPRECIATING efforts made by the national government through the Teachers Service Commission (TSC) to improve the teacher pupil ratio to international standards in all public schools through yearly employment of teachers; CONCERNED THAT currently there exist great disparities in the distribution of teachers in schools across the country, with major teacher shortage being experienced in rural and marginalized areas; FURTHER CONCERNED that there is major inequality in the distribution and allocation of teachers among schools across the country"
     },
     {
-      "order": 183,
+      "order": 192,
       "id": "entry-770761-split-before-9168e6eb-e3a3-41cb-a8f4-b2a489852959",
       "label": "speech",
       "level": "3",
@@ -2199,7 +2307,7 @@
       "text": "leading to either oversupply or undersupply of teachers in some public schools; NOW THEREFORE, the Senate calls upon the Ministry of Education, Science and Technology in conjunction with the TSC to conduct a countrywide audit on the distribution of teachers in all public schools across the Country and report to the Senate within three months."
     },
     {
-      "order": 184,
+      "order": 193,
       "id": "entry-770761-split-selected-2ba99746-b597-4f8c-935a-0f43176f83a1",
       "label": "heading",
       "level": "3",
@@ -2211,7 +2319,7 @@
       "text": "NATIONWIDE REGISTRATION OF ALL PLWDS"
     },
     {
-      "order": 185,
+      "order": 194,
       "id": "entry-770761-split-after-5bf3fd65-1662-46a9-8c05-2dfbabee2a31",
       "label": "speech",
       "level": "3",
@@ -2223,7 +2331,7 @@
       "text": "AWARE THAT the National Council for Persons with Disabilities was established through the Persons with Disabilities Act, 2003; FURTHER AWARE THAT registration of persons living with disabilities is a function of the National Council for Persons with Disabilities; ALSO AWARE THAT persons living with disabilities are estimated to be about 10% of any given population; COGNISANT THAT for purposes of registration of persons living with disability, it is a mandatory requirement for one to undergo medical examination by a registered medical officer in a registered and certified health facility; AWARE THAT medical services are now a devolved function; CONCERNED THAT of the nearly 4 million Kenyans living with disabilities who reside in Kenya, there is a very small fraction of the number which is duly registered; FURTHER CONCERNED THAT without proper registration, many persons living with disabilities are denied services because they lack the necessary proof of disability; ALSO CONCERNED THAT owing to lack of accurate data on persons living with disabilities, the government at both levels cannot plan properly for his category of people; NOW THEREFORE, the Senate calls upon the National Council for Persons with Disabilities in collaboration with Ministry of East African Community, Labour and Social Protection and county governments, to carry out a nationwide registration of all persons living with disabilities in order to determine their exact population to facilitate effective service for this marginalized group of our society."
     },
     {
-      "order": 186,
+      "order": 195,
       "id": "entry-770762",
       "label": "scene",
       "level": "3",
@@ -2235,7 +2343,7 @@
       "text": "(Motions deferred)"
     },
     {
-      "order": 187,
+      "order": 196,
       "id": "entry-770763",
       "label": "speech",
       "level": "3",
@@ -2247,7 +2355,7 @@
       "text": "."
     },
     {
-      "order": 188,
+      "order": 197,
       "id": "entry-770764-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -2259,7 +2367,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 189,
+      "order": 198,
       "id": "entry-770764",
       "label": "speech",
       "level": "1",

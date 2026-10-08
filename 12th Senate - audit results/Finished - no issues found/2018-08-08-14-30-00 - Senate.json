@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-08-08-14-30-00",
-  "exported_at": "2026-10-05T08:01:42.077Z",
+  "exported_at": "2026-10-08T20:56:26.668Z",
   "entries": [
     {
       "order": 1,
@@ -664,7 +664,7 @@
     },
     {
       "order": 56,
-      "id": "entry-821149",
+      "id": "entry-821149-split-selected-0f24c953-aa8d-4058-b418-7fcbb151bed3",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -672,10 +672,22 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "ILLEGAL IMPORTATION OF SUGAR IN KENYA IMPORTATION OF CONTRABAND OR POISONOUS PRODUCTS IN THE COUNTRY"
+      "text": "ILLEGAL IMPORTATION OF SUGAR IN KENYA"
     },
     {
       "order": 57,
+      "id": "entry-821149-split-after-7479ba57-8cfa-41c1-83e7-7f5f15c75a3a",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "IMPORTATION OF CONTRABAND OR POISONOUS PRODUCTS IN THE COUNTRY"
+    },
+    {
+      "order": 58,
       "id": "entry-821150",
       "label": "scene",
       "level": "2",
@@ -687,7 +699,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 58,
+      "order": 59,
       "id": "entry-821151-split-before-86f97402-4eb5-4bc1-98a4-74eee9311bc9",
       "label": "speech",
       "level": "2",
@@ -699,7 +711,7 @@
       "text": "The next one is by the Chairperson of the Standing Committee on National Security, Defence and Foreign Relations, who needs to report on a Statement made by Sen. Orengo."
     },
     {
-      "order": 59,
+      "order": 60,
       "id": "entry-821151-split-selected-7fe901bf-6f13-4274-8288-c13288a3dfdf",
       "label": "heading",
       "level": "2",
@@ -711,7 +723,7 @@
       "text": "ARREST OF FISHERMEN AND AP OFFICERS IN LAKE VICTORIA"
     },
     {
-      "order": 60,
+      "order": 61,
       "id": "entry-821152",
       "label": "speech",
       "level": "2",
@@ -723,7 +735,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I do not see Sen. Orengo. However, I know that my secretariat has alerted him that tomorrow we have a meeting with five Cabinet Secretaries (CSs) over related issues around the Migingo Island debacle. I know that everybody wants us to get to some finality and closure on the issue. So, we have invited him to attend the Committee meeting tomorrow. I think the Senators from around the area should also attend as we discuss this issue. We will then bring a report."
     },
     {
-      "order": 61,
+      "order": 62,
       "id": "entry-821153",
       "label": "speech",
       "level": "2",
@@ -735,7 +747,7 @@
       "text": "Okay. That also applies to the Statement requested by Sen. (Prof.) Ekal."
     },
     {
-      "order": 62,
+      "order": 63,
       "id": "entry-821154",
       "label": "scene",
       "level": "2",
@@ -747,7 +759,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 63,
+      "order": 64,
       "id": "entry-821155",
       "label": "speech",
       "level": "2",
@@ -759,8 +771,8 @@
       "text": "Hon. Senators, all Statements are deferred until we get reports."
     },
     {
-      "order": 64,
-      "id": "entry-821155-uppercase-text-heading",
+      "order": 65,
+      "id": "entry-821155-uppercase-text-heading-split-selected-8fe63419-1ace-467a-9c98-aa5d321c8583",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -768,10 +780,22 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "INSECURITY IN TURKANA COUNTY AFFECTING CRUDE OIL EXTRACTION AND TRANSPORTATION FREQUENT FIRE DISASTERS IN NAIROBI CITY COUNTY"
+      "text": "INSECURITY IN TURKANA COUNTY AFFECTING CRUDE OIL EXTRACTION AND TRANSPORTATION"
     },
     {
-      "order": 65,
+      "order": 66,
+      "id": "entry-821155-uppercase-text-heading-split-after-55e7b670-bbd1-4a87-a862-71745d1f6d82",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "FREQUENT FIRE DISASTERS IN NAIROBI CITY COUNTY"
+    },
+    {
+      "order": 67,
       "id": "entry-821156",
       "label": "scene",
       "level": "2",
@@ -783,7 +807,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 66,
+      "order": 68,
       "id": "entry-821157",
       "label": "speech",
       "level": "2",
@@ -795,7 +819,7 @@
       "text": "Let us move on to the next Order."
     },
     {
-      "order": 67,
+      "order": 69,
       "id": "entry-821158",
       "label": "heading",
       "level": "1",
@@ -807,7 +831,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 68,
+      "order": 70,
       "id": "entry-821160",
       "label": "heading",
       "level": "3",
@@ -819,7 +843,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO.13 OF 2018)"
     },
     {
-      "order": 69,
+      "order": 71,
       "id": "entry-821161-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -831,7 +855,7 @@
       "text": "(Sen. Cheruiyot on 25.7.2018)"
     },
     {
-      "order": 70,
+      "order": 72,
       "id": "entry-821161-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -843,7 +867,7 @@
       "text": "(Resumption of Debate interrupted on 1.8.2018)"
     },
     {
-      "order": 71,
+      "order": 73,
       "id": "entry-821163",
       "label": "speech",
       "level": "3",
@@ -855,7 +879,7 @@
       "text": "I direct that the Division Bell be rung for five minutes."
     },
     {
-      "order": 72,
+      "order": 74,
       "id": "entry-821164",
       "label": "scene",
       "level": "3",
@@ -867,7 +891,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 73,
+      "order": 75,
       "id": "entry-821165",
       "label": "speech",
       "level": "3",
@@ -879,7 +903,7 @@
       "text": "Mr. Speaker, Sir, I request for the bell to be rung for three more minutes."
     },
     {
-      "order": 74,
+      "order": 76,
       "id": "entry-821166",
       "label": "speech",
       "level": "3",
@@ -891,7 +915,7 @@
       "text": "I order that the bell be rung for three more minutes"
     },
     {
-      "order": 75,
+      "order": 77,
       "id": "entry-821167",
       "label": "scene",
       "level": "3",
@@ -903,7 +927,7 @@
       "text": "(The Division Bell was rung for a further three minutes)"
     },
     {
-      "order": 76,
+      "order": 78,
       "id": "entry-821168",
       "label": "speech",
       "level": "3",
@@ -915,7 +939,7 @@
       "text": "Mr. Speaker, Sir, thank you for extending the period of time for division. Unfortunately, we cannot get the requisite number for the division to succeed at this time. I am requesting that we move on to the next order and when we are in a position to vote on this matter, we can come back to this issue. On the same breath, through the Chair, I request the Senators to be patient for a few more minutes to ensure we have the necessary number for division."
     },
     {
-      "order": 77,
+      "order": 79,
       "id": "entry-821169",
       "label": "speech",
       "level": "3",
@@ -927,7 +951,7 @@
       "text": "Hon. Members, we shall reorganise the Order Paper awaiting for quorum. In the meantime, we move on to Order No. 17."
     },
     {
-      "order": 78,
+      "order": 80,
       "id": "entry-821170",
       "label": "heading",
       "level": "1",
@@ -939,7 +963,7 @@
       "text": "MOTION"
     },
     {
-      "order": 79,
+      "order": 81,
       "id": "entry-821171",
       "label": "heading",
       "level": "3",
@@ -951,7 +975,7 @@
       "text": "ESTABLISHMENT OF AD-HOC COMMITTEE TO INVESTIGATE THE MAIZE SITUATION IN THE COUNTRY"
     },
     {
-      "order": 80,
+      "order": 82,
       "id": "entry-821172-split-before-f0b04317-37b6-4d04-84e5-8fa1e2f4f142",
       "label": "speech",
       "level": "3",
@@ -963,7 +987,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I beg to move the following Motion- WHEREAS maize is Kenya's staple food whose demand and supply is monitored by the Government through the Strategic Grain Reserves; AND WHERE AS that Kenya has been experiencing maize shortage mainly due to the high cost of production, the effects of climate change and poor management of the Strategic Grain Reserves; NOTING that maize farmers have called to question the efficiency and capacity of the National Cereals and Produce Board (NCPB), which is the institution mandated to buy maize from farmers to continuously replenish the strategic reserves, to effectively handle and manage maize produce, forcing small-scale farmers to sell their produce to unscrupulous traders at very low prices; COGNIZANT that the NCPB has on many occasions declined to buy maize from farmers, claiming that its stores are full to capacity, and failed to pay the farmers whose produce it has received, thereby exposing them to severe financial problems; CONCERNED that although the Government has committed to supporting maize farming in Kenya in order to ensure Kenya's food security, little has been done to improve the efficiency of NCPB and protect the maize farmers from exploitation; AWARE that the Government, during periods of maize shortage, grants waivers to enable importation of maize duty-free; CONCERNED that the last duty-free window which was scheduled to terminate in October, 2017 was not terminated and that deliveries continued until late December, 2017 leading to overstocking of most NCPB stores with no clarity as to where the maize deliveries came from; CONCERNED that failure to properly manage the maize situation in Kenya could lead to disillusionment of farmers, famine, civil strife and economic sabotage; NOW THEREFORE, the Senate resolves to establish an Ad Hoc Committee to inquire into the maize crisis in the country and report to the Senate within sixty (60) days after the adoption of this Motion on- i) why farmers who have delivered their produce to NCPB have not been paid to date; ii) the quantity of duty-free maize imported into the country during the duty-free window which was to end in October, 2017 and why the period was extended; iii) the challenges facing the maize farmers and the NCPB and make recommendations on how to resolve the challenges; iv) the maize received by the NCPB for the 2017/18 season, to establish the suppliers; and v) The criteria for identification of millers and business persons involved in the importation of maize to the country. AND FURTHER that the following Senators be members of the Ad Hoc Committee-"
     },
     {
-      "order": 81,
+      "order": 83,
       "id": "entry-821172-split-selected-a9117b8c-ce6a-4d19-bd76-00f32f2e9660",
       "label": "scene",
       "level": "3",
@@ -975,7 +999,7 @@
       "text": "(1) Sen. (Prof.) Margaret Kamar, EGH, MP;"
     },
     {
-      "order": 82,
+      "order": 84,
       "id": "entry-821172-split-after-bee8039f-a2d2-45e1-a4f8-b56a2a390291",
       "label": "speech",
       "level": "3",
@@ -987,7 +1011,7 @@
       "text": "(2) Sen. Moses Wetang'ula, EGH, MP; (3) Sen. Samson Cherargei, MP; (4) Sen. (Dr.) Christopher Langat, MP; (5) Sen. Petronila Were Lokorio, MP; (6) Sen. (Dr.) Michael Mbito, MP; and (7) Sen. Boniface Kabaka, MP."
     },
     {
-      "order": 83,
+      "order": 85,
       "id": "entry-821175",
       "label": "scene",
       "level": "3",
@@ -999,7 +1023,7 @@
       "text": "(Interruption of Debate on Motion)"
     },
     {
-      "order": 84,
+      "order": 86,
       "id": "entry-821176",
       "label": "speech",
       "level": "3",
@@ -1011,7 +1035,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 85,
+      "order": 87,
       "id": "entry-821177",
       "label": "speech",
       "level": "3",
@@ -1023,7 +1047,7 @@
       "text": "What is your point of order, Senate Majority Leader?"
     },
     {
-      "order": 86,
+      "order": 88,
       "id": "entry-821178",
       "label": "speech",
       "level": "3",
@@ -1035,7 +1059,7 @@
       "text": "Mr. Speaker, Sir, I do not mean to interrupt this important Motion by Sen. (Prof.) Kamar. We want to give it due attention. However, we now have the necessary numbers that we were initially looking for to vote for the Bill on Order No.8. With your permission, I request that you interrupt Sen. (Prof.) Kamar for us to go to Division."
     },
     {
-      "order": 87,
+      "order": 89,
       "id": "entry-821179",
       "label": "speech",
       "level": "3",
@@ -1047,7 +1071,7 @@
       "text": "Hon. Members, I order that the Division Bell be rung for one minute."
     },
     {
-      "order": 88,
+      "order": 90,
       "id": "entry-821181-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1059,7 +1083,7 @@
       "text": "(Interruption of Debate on Motion)"
     },
     {
-      "order": 89,
+      "order": 91,
       "id": "entry-821181-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1071,7 +1095,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 90,
+      "order": 92,
       "id": "entry-821182",
       "label": "speech",
       "level": "3",
@@ -1083,7 +1107,7 @@
       "text": "I now direct that the Doors be locked and the Bars be drawn."
     },
     {
-      "order": 91,
+      "order": 93,
       "id": "entry-821183",
       "label": "scene",
       "level": "3",
@@ -1095,7 +1119,7 @@
       "text": "(The Doors were locked and the Bars drawn)"
     },
     {
-      "order": 92,
+      "order": 94,
       "id": "entry-821184",
       "label": "heading",
       "level": "1",
@@ -1107,7 +1131,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 93,
+      "order": 95,
       "id": "entry-821186",
       "label": "heading",
       "level": "3",
@@ -1119,7 +1143,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO.13 OF 2018)"
     },
     {
-      "order": 94,
+      "order": 96,
       "id": "entry-821187-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1131,7 +1155,7 @@
       "text": "(Sen. Cheruiyot on 25.7.2018)"
     },
     {
-      "order": 95,
+      "order": 97,
       "id": "entry-821187-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1143,7 +1167,7 @@
       "text": "(Resumption of Debate interrupted on 1.8.2018)"
     },
     {
-      "order": 96,
+      "order": 98,
       "id": "entry-821188",
       "label": "heading",
       "level": "3",
@@ -1155,7 +1179,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 97,
+      "order": 99,
       "id": "entry-821190",
       "label": "scene",
       "level": "3",
@@ -1167,7 +1191,7 @@
       "text": "(Question, that the County Governments (Amendment) Bill (Senate Bills No.13 of 2018) be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 98,
+      "order": 100,
       "id": "entry-821191",
       "label": "other",
       "level": "3",
@@ -1179,7 +1203,7 @@
       "text": "AYES:"
     },
     {
-      "order": 99,
+      "order": 101,
       "id": "entry-821192",
       "label": "other",
       "level": "3",
@@ -1191,7 +1215,7 @@
       "text": "Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. Iman, Garissa County; Sen. M. Kajwang, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Murkomen, Elgeyo Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaura, Kiambu County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; Sen. Wario, Tana River County and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 100,
+      "order": 102,
       "id": "entry-821193",
       "label": "other",
       "level": "3",
@@ -1203,7 +1227,7 @@
       "text": "NOES:"
     },
     {
-      "order": 101,
+      "order": 103,
       "id": "entry-821194",
       "label": "speech",
       "level": "3",
@@ -1215,7 +1239,7 @@
       "text": "Nil"
     },
     {
-      "order": 102,
+      "order": 104,
       "id": "entry-821195",
       "label": "speech",
       "level": "3",
@@ -1227,7 +1251,7 @@
       "text": "Hon. Senators, the results of the Division are as follows-\n\nAYES:\n\n24\n\nNOES:\n\n0\n\nABSTENTIONS"
     },
     {
-      "order": 103,
+      "order": 105,
       "id": "entry-821200",
       "label": "speech",
       "level": "3",
@@ -1239,7 +1263,7 @@
       "text": "0 The \"Ayes\" have it."
     },
     {
-      "order": 104,
+      "order": 106,
       "id": "entry-821201-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1251,7 +1275,7 @@
       "text": "(Question carried by 24 votes to 0)"
     },
     {
-      "order": 105,
+      "order": 107,
       "id": "entry-821201-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1263,7 +1287,7 @@
       "text": "(The Bill was accordingly read a Second Time and referred to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 106,
+      "order": 108,
       "id": "entry-821202",
       "label": "speech",
       "level": "3",
@@ -1275,7 +1299,7 @@
       "text": "I now direct that the doors be opened and the Bars drawn."
     },
     {
-      "order": 107,
+      "order": 109,
       "id": "entry-821203-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1287,7 +1311,7 @@
       "text": "(The Doors were opened and the Bars drawn)"
     },
     {
-      "order": 108,
+      "order": 110,
       "id": "entry-821203-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1299,7 +1323,7 @@
       "text": "(Resumption of Debate on Motion)"
     },
     {
-      "order": 109,
+      "order": 111,
       "id": "entry-821204",
       "label": "speech",
       "level": "3",
@@ -1311,7 +1335,7 @@
       "text": "Sen. (Prof.) Kamar, you may resume your moving of the Motion."
     },
     {
-      "order": 110,
+      "order": 112,
       "id": "entry-821205",
       "label": "scene",
       "level": "3",
@@ -1323,7 +1347,7 @@
       "text": "(Resumption of Debate on Motion)"
     },
     {
-      "order": 111,
+      "order": 113,
       "id": "entry-821206",
       "label": "speech",
       "level": "3",
@@ -1335,7 +1359,7 @@
       "text": "Thank you, Mr. Speaker, Sir. The history of maize in this country is becoming a touchy issue. In this Motion, we are requesting for the establishment of an Ad Hoc Committee to investigate the maize crisis. One may ask why we are going this route. Two months ago on 29th May, 2018, I made a statement regarding the situation of maize, particularly in Uasin Gishu County, where I outlined the fact that farmers were not paid. Thereafter, we discovered from the report of the Minister for Agriculture and Irrigation that it was actually true that farmers were not paid and there was suspicion that traders were paid. My appeal for an Ad hoc Committee was due to the fact that there are things that are known to the Minister that are not known to farmers and nobody is giving us that information. It is true that farmers delivered their grains from December, 2017, and that most of them have not been paid to date. Mr. Speaker, Sir, I came across a circular that was released early July from the Ethics and Anti-Corruption Commission (EACC) ---"
     },
     {
-      "order": 112,
+      "order": 114,
       "id": "entry-821207",
       "label": "scene",
       "level": "3",
@@ -1347,7 +1371,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 113,
+      "order": 115,
       "id": "entry-821208",
       "label": "speech",
       "level": "3",
@@ -1359,7 +1383,7 @@
       "text": "Hon. Members, let us consult in low tones. This is a very important debate."
     },
     {
-      "order": 114,
+      "order": 116,
       "id": "entry-821209",
       "label": "speech",
       "level": "3",
@@ -1371,7 +1395,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for that intervention. In early July, there was a communication or a letter - which I can table here also - from the EACC to the Minister of Agriculture and Irrigation dated 2nd July, 2018, officially suspending the payment to farmers. Once again, it was not known to farmers that, actually, an official suspension was initiated by the EACC. The suspension, according to the EACC, was about pending investigations on who the real farmers were yet in this House, we had the privilege of seeing a report from the same Minister stating who actually delivered maize and who did not. Mr. Speaker, Sir, the pain of the farmer is what is disturbing those of us who come from the maize-growing areas, beginning from the fact that these are farmers who are not able to pay school fees for their children to the point that some of their children have lost admission to universities. I have witnessed some of them in tears because they are owed Kshs3 million by the National Cereals and Produce Board (NCPB), yet they cannot pay Kshs200,000 to a university. It is a very painful situation when you listen to a farmer declaring that they will never plant maize again. It was only on Monday, two days ago, when farmers held another meeting in Uasin Gishu County, where they were still pleading for intervention that they be paid what is due to them. Mr. Speaker, Sir, if what the Minister for Agriculture and Irrigation confessed is true; that the Ministry actually paid traders and not the farmers, what is extremely difficult in paying the farmers, so that the Minister sorts out the people that were paid by the NCPB? This is because it is clear that these facts are there. Therefore, when we are told that there is a clear suspension of payment from the EACC, we question whether there is a deliberate plan to frustrate these farmers from planting maize. As we are all aware, maize is a staple food in this country and we cannot do without it. We have listened to consumers of maize demanding for the price to go down, because this is a crop that they cannot do without. Mr. Speaker, Sir, it is extremely painful to observe what these farmers are going through. For the information of this House, planting of maize has dropped by about 50 per cent, because people could not afford to plant. We had very good rains. Therefore, those who planted maize will get a good crop. However, you may ask yourself what countries do with their staple food internationally. What do they do with crops that produce food for their people? One of the Big Four Agenda that we currently have as a Government is food security. How can we be talking about food security if the staple food of the nation is being threatened the way it is being threatened? Therefore, it is important that we go deep and look into this issue. Mr. Speaker, Sir, the reason we felt, with my co-sponsor, that we must bring this Motion to the Senate is the fact that agriculture is devolved. The only areas that are not devolved are agricultural policy and veterinary policy, otherwise agriculture is 100 per cent devolved. We know that the Committee of the National Assembly on Agriculture made an attempt to go round the country; they came back and now everything has gone down. The farmers have not been paid and deliveries have not been done. Mr. Speaker, Sir, we are aware that 50 per cent of the deliveries have just been done. We know that these are complicated issues and that is why it is necessary to investigate this issue in depth. We know that there are other issues that come up with the weather and the fact that the Customs Union in the East African Community (EAC) can also disallow movement of maize from Uganda or Tanzania to Kenya. We need to look at that issue also. However, while that is the case, the question that still arises is: When the NCPB put a price of Kshs3,200 per bag, was that for the farmer or for the trader who goes to buy produce in Kampala? Was that price for the Kenyan farmer or was it was meant for the farmer who goes to Dar-es-salaam to collect maize? These are issues that we feel require a lot of attention so that we can come up with policies that may save this country from embarrassment in the future. Mr. Speaker, Sir, it is true that farmers have made their plea to various offices in this land, and they are feeling completely helpless and frustrated. Liberalization of maize is something that may not be avoided, but the biggest question is: What do we do with our farmers? We know that the United Kingdom (UK) is one country which we adopted a lot of things from. To date, they subsidize their farmers and they protect their staple foods. The same also applies to the Unites States of America (USA) and most of the countries in the European Union (EU). Mr. Speaker, Sir, I know that we have raised the fact that if we have to attain food security, we must answer the question: What are the main drivers towards food security? For us to deal with the issue of food security, I dare say now that unless we take care of our farmers properly, we will not get anything. It is easy to assume that these farmers are getting subsidies and that, after all, they were given free fertilizer. However, if these farmers were getting anything that is profitable, we should see that in how they have grown and how they live. Mr. Speaker, Sir, days are gone when farmers were rich people. There were times in this country when we had something called the Minimum Guaranteed Returns (MGR). Sen. (Prof.) Ongeri knows that because it was in his days that Parliament said: \"If for any reason you lose a crop because of drought or flooding, there is MGR that the Government must pay you.\" This was wiped when we were told that everything is liberalized. During the structural adjustment programmes period in this country, a lot of things were changed. At that time, you could see a farmer behaving like somebody who has income. Now we are talking of farmers who have no MGR. They farm at their own risk to ensure that Kenyans feed and we have food security. Unless there is MGR, there is no way that anybody would want to risk their money. No wonder we are seeing coffee, sugarcane and avocado farming being done in Uasin Gishu and Trans Nzoia counties. What is the future of food security in this country? Unless we, as leaders, sit down in a sober way and discuss how we will ensure food security, it will be extremely difficult for us to ensure that. Currently, the farmers are also supported through a fund under the Agricultural Finance Corporation (AFC) as a loan. The shocking thing is that for those who took loans from AFC in 2017 and have not delivered their crops, the clock is ticking as far as the loans are concerned. The interests are increasing and nobody is stopping them, yet for the farmers who have not been paid by Government, nobody is saying that they will be paid interest on their money owed by the National Cereals and Produce Board (NCPB). In January, a few farmers were paid exactly for what they had delivered. That means that the farmers will make losses through the money that has not accrued any interest and at the same time, pay the AFC. It is very important that we do a thorough job, as the Senate, because agriculture is a devolved function. We need to investigate properly and come up with resolutions, as outlined in the Motion. We need to come up with resolutions that will enhance not only farming for purposes of food security, but also not take us there again. We should come out of it once and for all, so that our farmers do not lose hope, get discouraged, change their crops and destroy the crops that have been ensuring food security in this country. Mr. Speaker, Sir, there are many challenges facing the farmer in Kenya in terms of production, management and selling. I beg that this House supports this Motion, so that the Ad Hoc Committee can thoroughly investigate and come up with resolutions that will help us, as a House, to take charge of the agriculture sector. Farmers are feeling that we have left them alone and I agree that this House should have taken a greater role than the National Assembly. With those remarks, I beg to move and ask Sen. Murkomen to second."
     },
     {
-      "order": 115,
+      "order": 117,
       "id": "entry-821216",
       "label": "speech",
       "level": "3",
@@ -1383,7 +1407,7 @@
       "text": "Mr. Speaker, Sir, I would like to second this Motion. I congratulate Sen. (Prof.) Kamar and Sen. Wetangula for thinking through this Motion. Both of them come from maize growing counties, including myself and many other Senators whose names are included in the Motion. There is a crisis of monumental proportion. There is an injustice that is being meted on maize farmers. Maize farmers delivered their maize as from October last year and it is very sad that they are being caught in a crossfire between Government investigative agencies and departments of agriculture, including the one that deals with cereals. Mr. Speaker, Sir, when farmers delivered their maize, there was an understanding that they would be paid by December, so that by January this year, they would be in a position to take their children to school. Some wanted to have the opportunity to invest in other areas as they should. In fact, like Sen. (Prof.) Kamar has said, there are many farmers who never tilled farms this year because they did not have the money to buy farm inputs. There was a promise that these farmers would be paid. There are various categories of persons who supplied maize to the NCPB. The first category, as far as I am concerned, are those who supplied maize from their farms directly to the NCPB. The regulations did not say that they should supply maize either directly or indirectly. There is a second category of suppliers who mopped the maize from farmers in different areas, bought it from them, and paid the farmers. In some cases they even paid them before the period of harvesting ensued. Some of these farmers are the ones that you saw being maligned. Some of them are from Sen. (Prof.) Kamar's county and some from Trans Nzoia County. Some of them are people who are even known to me. Some even come from my own county. They have assisted farmers for over ten years. For example, if you are in a place called Kapcherop, it costs money to take the maize to the NCPB depot at Moi's Bridge. Therefore, if you are a farmer who has only one, two or three acres, it makes economic sense for you to sell the maize at a lesser price to another trader within that area, who could also be a farmer like you. That person would then deliver that maize to the NCPB. Therefore, we have a second category of farmers who are also traders. They have been assisting farmers for many years to deliver their maize to the NCPB depots either in Eldoret, Kitale, Moi's Bridge, Bungoma and other places in the country, including Nakuru. Mr. Speaker, Sir, we are told there is a third category of farmers, who supposedly have imported maize and delivered it to the NCPB. An argument is being made that there is corruption and delivery of maize by people who are buying maize from farmers from outside the country. Unfortunately, of the three categories, there is no individual in this Republic who has been arrested for importing maize and delivering it to the NCPB. What has happened? Unfortunately, there are farmers who deliver their maize directly to the depot and those who delivered after mopping them from farmers in their areas. They are now suffering from non-payment of their dues in the name of investigation on matters corruption. Mr. Speaker, Sir, I have a very serious concern. I have seen a letter from the Chief Executive Officer (CEO) of Ethics and Anti-Corruption Commission (EACC). The letter is written to the Cabinet Secretary in the Ministry of Agriculture and Irrigation. The letter tells them: \"If you pay those farmers, you will do so at your own risk because we are investigating what is going on in the NCPB.\" They can continue doing that investigation. However, it is not in doubt that poor farmers from Trans Nzoia, Bungoma, Uasin Gishu, Elgeyo-Marakwet and Nakuru counties delivered their maize to NCPB. Last year, they laboured and spent everything they had to till their small farms. They are now waiting inordinately for an investigation that is endless and their money that is being held y the Government is not earning any interest."
     },
     {
-      "order": 116,
+      "order": 118,
       "id": "entry-821219",
       "label": "scene",
       "level": "3",
@@ -1395,7 +1419,7 @@
       "text": "(Sen. M. Kajwang' consulted Sen. (Prof.) Kamar)"
     },
     {
-      "order": 117,
+      "order": 119,
       "id": "entry-821220",
       "label": "speech",
       "level": "3",
@@ -1407,7 +1431,7 @@
       "text": "I hope that Sen. M. Kajwang' will stop distracting the Chairperson of this Committee because this is a very serious matter. I want to urge Sen. (Prof.) Kamar to summon the Ethics and Anti-Corruption Commission (EACC) even before the ad hoc Committee is given 60 days to investigate. How is Kenya operating? I do not understand why an investigative authority tells a Government agency not to take any risk of paying anybody yet there are poor farmers waiting to be paid. Can they give an assurance to those farmers that their money which is being held by NCPB will continue accruing interest every day until they are paid? If that will not be guaranteed, they will suffer because investigation might take two or three years before it is concluded. I know how EACC works. They have investigations pending before them for the last six or seven years. Do they want to deny people legitimate payment of what they have earned? I know of people in this country who have supplied Government agencies goods worth millions of shillings, but they have never been paid in the name of those agencies being investigated. I saw a particular supplier crying on television. Suppliers of goods worth Kshs100,000, 300,000, 500,000, respectively, who were, probably, going to make a profit of Kshs10,000, 20,000 or 50,000, but they have not been paid. This is because an investigation agency put an injunction to any payment that would have been done to public agencies to people who genuinely supplied goods and services. Some of these people had taken loans to supply those goods and services. This House must come up with a lasting solution. Even if that solution means amending the law, so be it. We must make it abundantly clear that for the entire period that persons are not paid by Government agencies for supplying goods and services, their\n\nmoney accrues interest. I know of my neighbours and other people who are supposed to be paid Kshs200,000 or Kshs300,000, respectively. Maize farming is a risk by itself all over the world. If you read the World Trade Organization (WTO) agreement on agriculture, you will realize that agriculture as a trade is a unique area because it involves food security. That is why there are exceptions on the General Agreement on Trade and Tariffs (GATT) which makes an exception that for purpose of matters related to food security, you can discriminate, provide subsidies and protect farmers. That is why the President of the United States of America (USA) has put sanctions on China, Europe and renegotiated the North American Free Trade Agreement (NAFTA). His main intention is to look for better market for maize farmers in the USA. That is the same case with the European Union (EU). They subsidize their farmers. In fact, an EU cow is subsidized better than any human being that lives in this Republic. People take their agriculture so seriously. They protect their farmers. It is time that we discussed this matter urgently in this country. I want to urge Sen. (Prof.) Kamar to summon the EACC Chief Executive Officer, (CEO) to come before their Committee before they go to the field. All of us who have interest in protection of maize farmers will attend the session so as to listen to the legal basis that one can use to stop legitimate payment that is accrued for legitimate poor farmers. I have no problem with the fight against corruption. I am on record saying that we must continue supporting the fight against corruption. However, any person who is a lawyer in this great Republic will read and see that slowly, we are sliding back to violation of human rights. We are sliding back to property interest of the people of Kenya which is part of the rights of the people of Kenya. We now want to punish poor farmers in the name of investigation. Can it not be possible that those people be paid and any wrong people who will be paid be arrested?"
     },
     {
-      "order": 118,
+      "order": 120,
       "id": "entry-821223",
       "label": "scene",
       "level": "3",
@@ -1419,7 +1443,7 @@
       "text": "(The orange timer light lit up)"
     },
     {
-      "order": 119,
+      "order": 121,
       "id": "entry-821224",
       "label": "speech",
       "level": "3",
@@ -1431,7 +1455,7 @@
       "text": "I believe I still have some minutes, if I am not wrong unless the rules do not apply fairly. I suspect that I have an hour though I will not use all that time. This issue is urgent, painful and extremely important to the farmers of the Republic of Kenya. How we treat them as a Senate and Senate---"
     },
     {
-      "order": 120,
+      "order": 122,
       "id": "entry-821225",
       "label": "scene",
       "level": "3",
@@ -1443,7 +1467,7 @@
       "text": "(Sen. Haji consulted Sen. Sakaja)"
     },
     {
-      "order": 121,
+      "order": 123,
       "id": "entry-821226",
       "label": "speech",
       "level": "3",
@@ -1455,7 +1479,7 @@
       "text": "Mr. Speaker, Sir, protect me from Sen. Haji for I am unable to listen to myself. As I said, we must provide a solution. At this very juncture, I want to thank the Committee that was chaired by Sen. Mutula Kilonzo Jnr. for the job they did on the Solai Dam Tragedy. It was a fantastic job. Unfortunately, I was not here to make my contributions to that very important matter. The choice that we had on the Solai Dam issue was a choice between the rich and the poor. We, as a Senate, stand with the poor in this Republic. This is yet another chance for"
     },
     {
-      "order": 122,
+      "order": 124,
       "id": "entry-821228",
       "label": "speech",
       "level": "3",
@@ -1467,7 +1491,7 @@
       "text": "us to demonstrate through this Committee that we can stand with our poor farmers and acquit ourselves to be the House of the poor people of Kenya. Sen. M. Kajwang' is looking at me because he was also chairing another Committee that did extremely well. However, I do not want to preempt debate. I will wait until I see the weight of his investigation so as to see who he will side with. Is he with us, or with them? For now, I want to ask Sen. (Prof.) Kamar and Sen. Wetangula who have co- sponsored this very important Motion to move with speed. In another one month, I want to be told that the poor farmers have been paid their money. If there will be some delay, we want to hear a guarantee from the Government or the Government agency that is doing the investigation, that the farmers' money will attract the necessary interest. Failure to do so, we will have no choice as leaders from that region, but to move to court. In the same way, we will ensure that we enforce the contract that is existing between our farmers and the NCPB. I beg to move."
     },
     {
-      "order": 123,
+      "order": 125,
       "id": "entry-821229",
       "label": "speech",
       "level": "3",
@@ -1479,7 +1503,7 @@
       "text": "You beg to second. Thank you for observing time because you only have 15 minutes as a Seconder. You have kept time."
     },
     {
-      "order": 124,
+      "order": 126,
       "id": "entry-821230",
       "label": "speech",
       "level": "3",
@@ -1491,7 +1515,7 @@
       "text": "Yes, I beg to second."
     },
     {
-      "order": 125,
+      "order": 127,
       "id": "entry-821231",
       "label": "scene",
       "level": "3",
@@ -1503,7 +1527,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 126,
+      "order": 128,
       "id": "entry-821232",
       "label": "speech",
       "level": "3",
@@ -1515,7 +1539,7 @@
       "text": "Let us have Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 127,
+      "order": 129,
       "id": "entry-821233",
       "label": "speech",
       "level": "3",
@@ -1527,7 +1551,7 @@
       "text": "On a point of order Mr. Speaker, Sir."
     },
     {
-      "order": 128,
+      "order": 130,
       "id": "entry-821234",
       "label": "speech",
       "level": "3",
@@ -1539,7 +1563,7 @@
       "text": "What is your point of order, Sen. M. Kajwang'?"
     },
     {
-      "order": 129,
+      "order": 131,
       "id": "entry-821235",
       "label": "speech",
       "level": "3",
@@ -1551,7 +1575,7 @@
       "text": "Mr. Speaker, Sir, I rise pursuant to Standing Order No. 56 and move that the Motion before us be amended by adding the following two Senators to the Membership of the ad hoc Committee: (1) Sen. Omogeni (2) Sen. Shiyonga. Mr. Speaker, Sir, I can confirm that before coming up with this amendment, I have consulted with the Mover of the Motion and the leadership on the Senate Minority side of the House. This is just to make sure that we have a Select Committee of nine men and women who will be fully committed to delivering a report before the House within the 60 days that have been stated. Mr. Speaker, Sir, I beg to move the amendment."
     },
     {
-      "order": 130,
+      "order": 132,
       "id": "entry-821236",
       "label": "speech",
       "level": "3",
@@ -1563,7 +1587,7 @@
       "text": "Who is your seconder?"
     },
     {
-      "order": 131,
+      "order": 133,
       "id": "entry-821237",
       "label": "speech",
       "level": "3",
@@ -1575,7 +1599,7 @@
       "text": "Mr. Speaker, Sir, I second the amendment."
     },
     {
-      "order": 132,
+      "order": 134,
       "id": "entry-821238",
       "label": "speech",
       "level": "3",
@@ -1587,7 +1611,7 @@
       "text": "On a point of order, Mr. Speaker, Sir.You heard the Mover of the Motion saying that he consulted the Senateminority side. He did not consult the Senate majority side which is an important issue in so far as the composition and the ratio within the particular Committee. Pending that consultation, I am asking the Mover to withdraw his amendment for now. He can move it at any other time after he has done the necessary consultations."
     },
     {
-      "order": 133,
+      "order": 135,
       "id": "entry-821239",
       "label": "speech",
       "level": "3",
@@ -1599,7 +1623,7 @@
       "text": "Mr. Speaker, Sir, when Sen. M. Kajwang' said that he had consulted the minority leadership, he probably meant that he spoke to me. We raised this question yesterday and the question was; what role the leadership or the sponsors play as far as composition of Senate Committees and ad hoc Committees is concerned. The response we got was that, ideally, it is the sponsors who nominate and who are consulted. When Sen. M. Kajwang' spoke to me, it was just about information. He was just doing it \"For Your Information|\" (FYI). Otherwise, the sponsors are the ones who spoke to the numbers and how this should be done. This happened before in the Solai Dam tragedy Select Committee and, therefore, I do not think there is any exception. I think Sen. M. Kajwang' is in order to propose the amendment as he has done. I think it is an exception to have seven Members. The general rule is to have nine, but seven should be an exception to the rule. Mr. Speaker, Sir, unless otherwise, I think that we should maintain the tradition of having nine Members unless the Movers think we should have seven."
     },
     {
-      "order": 134,
+      "order": 136,
       "id": "entry-821240",
       "label": "speech",
       "level": "3",
@@ -1611,7 +1635,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 135,
+      "order": 137,
       "id": "entry-821241",
       "label": "speech",
       "level": "3",
@@ -1623,7 +1647,7 @@
       "text": "What is your point of order, Sen. Sakaja?"
     },
     {
-      "order": 136,
+      "order": 138,
       "id": "entry-821242",
       "label": "speech",
       "level": "3",
@@ -1635,7 +1659,7 @@
       "text": "Mr. Speaker, Sir, I just want to note that it is not out of order for any Committee to have seven Members. Our Standing Order No. 185 is clear that a Committee should have not less than seven and not more than nine Members. However, any Committee set up in this House must adhere to the ratios provided for of minority and majority sides, such that the two Members being added should be one from majority and one from minority, so as to maintain the balance. That is where the contention is. Consultation helps and I hope Sen. M. Kajwang would understand that, so that he can drop one of the names he has proposed and get one name from the majority side. Mr. Speaker, Sir, I notice that the proposed names in the Committee are from the producers, whereas, he should also get some from the consumers of this maize. Many of them are from my county. He can take one of the Senators in my County delegation and not me because the biggest consumer of maize is Nairobi. We have Sen. Omanga, Sen. Farhiya, Sen. Mugo and many others. So, it is not just about the producers, but the consumers must also be represented."
     },
     {
-      "order": 137,
+      "order": 139,
       "id": "entry-821243",
       "label": "speech",
       "level": "3",
@@ -1647,7 +1671,7 @@
       "text": "Order Members. Since the question has been seconded --- What is your agitation Senate Majority Leader? I will put the question and that can either be carried or defeated."
     },
     {
-      "order": 138,
+      "order": 140,
       "id": "entry-821244",
       "label": "scene",
       "level": "3",
@@ -1659,7 +1683,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 139,
+      "order": 141,
       "id": "entry-821245",
       "label": "speech",
       "level": "3",
@@ -1671,7 +1695,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 140,
+      "order": 142,
       "id": "entry-821246",
       "label": "speech",
       "level": "3",
@@ -1683,7 +1707,7 @@
       "text": "What is your point of order, Leader of Majority?"
     },
     {
-      "order": 141,
+      "order": 143,
       "id": "entry-821247",
       "label": "speech",
       "level": "3",
@@ -1695,7 +1719,7 @@
       "text": "Mr. Speaker, Sir, it is only fine for such a Motion to avoid the protracted kind of, back and forth and to stick with the tradition and provision of the Standing Orders; that a consultation be done. We do not want to have a back and forth and have a divisive vote on such a matter. The Mover, Sen. M. Kajwang' would just need to consider that suggestion given to him, make the necessary amendment and we proceed. If we continue like that, we can do a further amendment and proceed so that we do not get protracted on non-issues and get back to the real Motion."
     },
     {
-      "order": 142,
+      "order": 144,
       "id": "entry-821250",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1731,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 143,
+      "order": 145,
       "id": "entry-821251",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1743,7 @@
       "text": "What is your point of order Senator?"
     },
     {
-      "order": 144,
+      "order": 146,
       "id": "entry-821252",
       "label": "speech",
       "level": "3",
@@ -1731,7 +1755,7 @@
       "text": "Mr. Speaker, Sir, unless otherwise, the Movers of this Motion, and Sen. Wetangula is here---. I thought you were taking a bipartisan position on this matter, to the extent, therefore, that the question of majority and minority would not apply. Unless it is different and there are party positions in the matter which you have not informed us, then what Sen. Murkomen says applies; that we should have majority and minority. Mr. Speaker, Sir, It important, but since you have put the question, can we express our displeasure or otherwise."
     },
     {
-      "order": 145,
+      "order": 147,
       "id": "entry-821253",
       "label": "speech",
       "level": "3",
@@ -1743,7 +1767,7 @@
       "text": "The Floor is now open for discussion on the amendment. Yes, Leader of Majority."
     },
     {
-      "order": 146,
+      "order": 148,
       "id": "entry-821254",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1779,7 @@
       "text": "Mr. Speaker, Sir, I still think the right thing to do is to further amend the amendment by the Mover. If he wants to have more Members with the consultation we have talked about, we can have one person from this side and one from the other side so that we stop debating on this issue and go back to the main issue."
     },
     {
-      "order": 147,
+      "order": 149,
       "id": "entry-821255",
       "label": "speech",
       "level": "3",
@@ -1767,7 +1791,7 @@
       "text": "Mr. Speaker, Sir, I am not averse to the proposal by Sen. Murkomen because there is absolutely no doubt in my mind that this is a very important Select Committee. Having chaired Committees and knowing the numbers and the level of work required, it was my view that we probably go to the number of nine. My proposal has then resulted in the imbalance that has been cited by Sen. Sakaja. To avoid an argument around the ratios, I would be willing to even stand down my amendment to facilitate that discussion, but it has to be guided by procedure and Standing Orders. Therefore, if it is possible to vary it, I will do that so that we do not lose the spirit of the Select Committee that we are setting up. Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 148,
+      "order": 150,
       "id": "entry-821256",
       "label": "speech",
       "level": "3",
@@ -1779,7 +1803,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. This House is guided by traditions, usages and precedents, as it has always been said here. If we vary on this matter, especially the decision on this amendment to the Motion, it means that we will have to change the traditions and usage of what we have decided upon. By the standards and traditions of the House as it is, I think that the spirit of this matter is that every Senator has a specific interest because it is a matter of national importance. The spirit of Sen. M. Kajwang', this Motion has been co-sponsored by Sen. Wetangula and Sen. (Prof.) Kamar. Therefore, we need to have a bipartisan approach. However, we should be careful not to encroach on the traditions, usages and precedents of this House. Yesterday I was a victim of--- I would not want to revisit the decision or ruling that you made. However, what you ruled yesterday should also apply to what we are looking at today."
     },
     {
-      "order": 149,
+      "order": 151,
       "id": "entry-821257",
       "label": "speech",
       "level": "3",
@@ -1791,7 +1815,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 150,
+      "order": 152,
       "id": "entry-821258",
       "label": "speech",
       "level": "3",
@@ -1803,7 +1827,7 @@
       "text": "What is your point of order, Sen. (Prof.) Ongeri?"
     },
     {
-      "order": 151,
+      "order": 153,
       "id": "entry-821259",
       "label": "speech",
       "level": "3",
@@ -1815,7 +1839,7 @@
       "text": "Mr. Speaker, Sir, this is a very important Motion on the Floor of the House. In considering this Motion, I wish that the Leader of Majority would also listen, because this is an important Motion which concerns maize farmers. If you look at the geographical representation of maize growing areas, it is quite obvious that the Motion before the House is skewed. If we are talking in a bipartisan manner, it is important that this Motion be the way it is today in order to make it more inclusive. This is particularly so for those people who are also going through the same difficulties in getting their dues paid on time. Therefore, Mr. Deputy Speaker, Sir, this is a well thought out Motion and you cannot just take one section of the society in this country and constitute a select committee which is supposed to be looking at the overall issues within the Republic of Kenya. We are within our rights to insist that this Motion goes the way it is today because then, it takes into account the geographical representation of the maize growing areas, and not only one sector of the maize growing areas. Thank you, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 152,
+      "order": 154,
       "id": "entry-821260",
       "label": "speech",
       "level": "3",
@@ -1827,7 +1851,7 @@
       "text": "Thank you, Mr. Speaker, Sir. Having consulted the Mover of the Motion, I beg to now move a further amendment as follows. Mr. Speaker, Sir, I beg to move that the Motion be amended as follows:- By deleting the words \"Sen. Naomi Shiyonga \" and inserting in place thereof the words \"Sen. Mary Seneta.\" Thank you, Mr. Speaker, Sir. I request Sen. M. Kajwang' to second."
     },
     {
-      "order": 153,
+      "order": 155,
       "id": "entry-821261",
       "label": "scene",
       "level": "3",
@@ -1839,7 +1863,7 @@
       "text": "(Sen. M. Kajwang' spoke off record.)"
     },
     {
-      "order": 154,
+      "order": 156,
       "id": "entry-821262",
       "label": "speech",
       "level": "3",
@@ -1851,7 +1875,7 @@
       "text": "You are not on record, Senator!"
     },
     {
-      "order": 155,
+      "order": 157,
       "id": "entry-821263",
       "label": "speech",
       "level": "3",
@@ -1863,7 +1887,7 @@
       "text": "Mr. Speaker, Sir, I beg to Second."
     },
     {
-      "order": 156,
+      "order": 158,
       "id": "entry-821264-parenthesis-split-1-of-5",
       "label": "scene",
       "level": "3",
@@ -1875,7 +1899,7 @@
       "text": "(Question of the further amendment proposed)"
     },
     {
-      "order": 157,
+      "order": 159,
       "id": "entry-821264-parenthesis-split-2-of-5",
       "label": "scene",
       "level": "3",
@@ -1887,7 +1911,7 @@
       "text": "(Question, that the words to be left out be left out, put and agreed to)"
     },
     {
-      "order": 158,
+      "order": 160,
       "id": "entry-821264-parenthesis-split-3-of-5",
       "label": "scene",
       "level": "3",
@@ -1899,7 +1923,7 @@
       "text": "(Question, that the words to be inserted in place thereof be inserted, put and agreed to)"
     },
     {
-      "order": 159,
+      "order": 161,
       "id": "entry-821264-parenthesis-split-4-of-5",
       "label": "scene",
       "level": "3",
@@ -1911,7 +1935,7 @@
       "text": "(Question of the Motion as amended proposed)"
     },
     {
-      "order": 160,
+      "order": 162,
       "id": "entry-821264-parenthesis-split-5-of-5",
       "label": "scene",
       "level": "3",
@@ -1923,7 +1947,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 161,
+      "order": 163,
       "id": "entry-821265",
       "label": "speech",
       "level": "3",
@@ -1935,7 +1959,7 @@
       "text": "Sen. Mutula Kilonzo Jnr., you have the Floor."
     },
     {
-      "order": 162,
+      "order": 164,
       "id": "entry-821266",
       "label": "speech",
       "level": "3",
@@ -1947,7 +1971,7 @@
       "text": ".: Thank you, Mr. Speaker, Sir. This is a straight forward Motion. It is largely motivated by the fact that we will be in Uasin Gishu County in September, 2018, and I presume that maize farmers from where Sen. (Prof.) Margret Kamar and Sen. Moses Wetangula come from will want to question the issues raised here. This is a controversial subject and we urge hon. Members, whom we have great faith in, to get to the bottom of this issue and find the culprits. Those people who have taken away the staple food of Kenyans; the criminals who have turned maize farming into a cash cow and the people who have impoverished maize farmers should be brought to book. Mr. Speaker, Sir, I read a message by the Majority Leader, Sen. Murkomen, who, because of the frustrations he has had as a maize farmer, was planning to start planting avocadoes. I am aware that Sen. (Prof.) Margret Kamar has had similar issues about the storage of maize and, therefore, this is something that we must deal with now and in the future. We have had maize scandals for eternity and this is a way to put an end to it. In terms of maize prices, why should maize farmers get maize at Kshs1,150?"
     },
     {
-      "order": 163,
+      "order": 165,
       "id": "entry-821269",
       "label": "scene",
       "level": "3",
@@ -1959,7 +1983,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 164,
+      "order": 166,
       "id": "entry-821270",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1995,7 @@
       "text": "Order, hon. Members! Let us consult in low tones."
     },
     {
-      "order": 165,
+      "order": 167,
       "id": "entry-821271",
       "label": "speech",
       "level": "3",
@@ -1983,7 +2007,7 @@
       "text": ".: Thank you, Mr. Speaker, Sir. I expect that this Select Committee will interrogate this matter in detail in terms of fertilizer and planting of maize. I hope that the Mover of the Motion noticed that the sugar scandal was caused by a gazette notice. Is there another maize scandal in the gazette notice? One million metric tons of sugar was brought into this country and we lost a lot of money because of that gazette notice. Is there another scandal in this one? These are some of the things this county must investigate. Mr. Speaker, Sir, on maize storage, I remember that in the last session of Parliament, we approved a request by governors to manage the storage of grains as part of their agricultural mandate. Is this something we need to interrogate? I am told that our grain storage facilities are hired; that they are not managed by the National Cereals and Produce Board (NCPB). Is that fact or fiction? I am also told that maize dryers are only in the Rift Valley; is that fact or fiction? This is true to the extent that the aflatoxin you find in maize in lower Eastern is as a result of the absence of dryers. These facilities, ideally, ought to be available to all maize farmers all over the country and particularly in grain storage facilities. If these grain storage facilities are then being hired to politically connected individuals, is it not time that, first, we give them to counties and, second, we allow counties to start doing this themselves? Mr. Speaker, Sir, we have a glut of ndengu and other crops that have been planted during the last season. Therefore, in terms of addressing this matter, I would personally request that this Committee interrogates this matter in great detail. How much money is reserved, for example, for buying mbaazi and ndengu, such that there is a glut where Sen. Wambua is coming from? They are already complaining that they have too much food. Kitui County is complaining that it has too much food because of the rains. The national Government ought to have a specific reserve in terms of funding that ought to take care of produce other than maize. Mr. Speaker, Sir, food security is not just about planting; it is about storing. The story in the Bible of the seven years of plenty and the seven years of drought applies. After this glut that Kitui and Makueni counties are complaining about, there will be famine in Kitui, Makueni and Tana River, where there were floods. Can we sit aside and discuss this issue when we will be in Eldoret? Some kitty can be found to purchase this food and store it for a rainy day, because we will not have as much rain or, possibly, no rain in the next season. This is an urgent matter. Mr. Speaker, Sir, there was a complaint that we have too many ad hoc Committees. However, I do not think any Member sitting in this House will complain about an ad hoc committee on this particular issue of maize. It is a crisis and it has been a crisis. However, a crisis is supposed to be for a short period; how then can we have a crisis for eternity? This is a crisis ad infinitum! Is it due to mismanagement? Who are these people who brought maize from Uganda? Who are these people who are growing maize in Sen. Wetangula's county, Bungoma County, where land is not available? Those are the issues that ought to be interrogated. These people and their names ought to be made public and just like any other report that we have made, we should make sure that no stone is left unturned. We should protect the farmers of Kenya. Let this principle of Karl Marx of the \"haves\" and the \"have-nots\" in this country end. Food is an integral matter of development and it is still the highest wage earner to the Gross Domestic Product (GDP) in this country, yet we have mishandled it. I am happy that on the issue of coffee, we have found a method, because there are new rules and there is a new board. Sooner than later, the people who are uprooting coffee in Makueni will start planting it because it is going to make money. We are going to deal with the brokers. Can this Committee deal with maize brokers? Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 166,
+      "order": 168,
       "id": "entry-821274",
       "label": "speech",
       "level": "3",
@@ -1995,7 +2019,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I am sorry for coming in a little late. The distinguished Senator for Uasin Gishu County and I evolved this idea and I should have been here to second the Motion. However, I am told that it was ably seconded by the Majority Leader. We had gone with, among others, the Senator for Nyamira County to condole the family of the late Hon. Henry Obwocha, who was a colleague in the Seventh, Eighth and Ninth Parliaments. Mr. Speaker, Sir, as my colleagues have said, this Motion is very important for this country. This country is now so dependent on maize as the primary food supplement, that when there is no maize in the country, every homestead literally feels that there is lack of food, even when there are some alternatives like rice, chapati and others. Mr. Speaker, Sir, as Sen. (Prof.) Ongeri mentioned, this Motion would have ideally brought everybody on board. This is because even when we talk about the not very well watered parts of Ukambani, records show that when there is good rainfall, Ukambani produces 5.6 million bags of maize a year; which is substantial. This also happens in many other parts of the country. However, when talking about the grain basket of the country, a county like Trans Nzoia alone - where the distinguished Senator for Nairobi comes from - produces a third of the maize cereal of this country. Maize is also produced in the counties of Uasin Gishu, Bungoma, Kakamega, Kisii, Nyamira, Narok; you can count on end. In fact, Mr. Speaker, Sir, yesterday Sen. Seneta - and I am happy that she has been included in this Committee - came to me when I was talking to Sen. (Prof.) Kamar, and asked me why I had included Members from the Western region in this Committee and left out Kajiado County, where they do not grow maize but intend to grow maize. She also told me that they want to participate in making the field even before we start. The farmer in this country is the most ignored and ill-treated person that anybody can talk of. If you go to Kitale today - I do not know if my nephew, the Senator for Nairobi, has been to Kitale of late - there is a chain of lorries smuggling maize from Uganda into Kenya and delivering it to the National Cereals and Produce Board (NCPB) without following any procedures. Mr. Speaker, Sir, I was talking to Mr. Kipkorir Arap Menjo this afternoon; he is one of the most celebrated activists supporting maize farmers in the Rift Valley. He told me that there are still many farmers holding close to a million bags of maize from the last year's harvest in their granaries, because they cannot deliver it anywhere. This years' maize has already tasselled and is getting ready; everywhere you pass, you hear of machome na masambe . The new crop of maize will be ready for harvest in the next two months. The farmers will now have to empty their stores again in order to put in the new maize. To empty these stores, they will either throw away the maize or deliver it to the middlemen - whom Sen. Mutula Kilonzo Jnr. has been talking about - at a throwaway price. Mr. Speaker, Sir, I was talking to Sen. (Prof.) Kamar and I asked her where we went wrong. This is because we had public institutions in this country that protected and helped the farmer, from the beginning to the end of the chain. We had the Kenya Farmers Association (KFA), which was later turned into something called the Kenya Grain Growers Cooperation Union (KGGCU), which was then killed because some people wanted to take over its properties. We had the Agricultural Finance Corporation (AFC), which nobody hears about anymore; and we have the NCPB, which is completely mismanaged today. We also had the Kenya National Trading Corporation (KNTC), which supplied farmers with hardware implements. The farmer went through these institutions to get credit for input, ploughing and everything and eventually have his money paid by the NCPB around the chain and the balance given to him to go home. Mr. Speaker, Sir, today, the farmer lives in a nightmare situation. When you have a bumper harvest, you have nowhere to sell the crop. This country is a signatory to the Maputo Protocol that requires every African country to put 10 per cent of its budget as the bare minimum in agriculture for food security. My enquiry tells me that this year, the budget component for agriculture is 2.9 per cent. This is a violation of a protocol that we have signed, when our own Constitution says that every international instrument and treaty that we sign becomes part of our domestic law. So, we are obligated to honour it. Mr. Speaker, Sir, we have the Agricultural Finance Corporation (AFC) that extends credit to farmers. Farmers are being auctioned with their produce stuck in their granaries because they cannot sell it anywhere. All this has brought untold harm to farmers. I tabled here a report from the Cabinet Secretary (CS) for Agriculture, Livestock and Fisheries, Hon. Mwangi Kiunjuri, where he was talking of farmers in Bungoma County - where you and I come from - growing maize on 800 acres of land. You and I, know that in Bungoma County, the largest land holding that you can get to grow maize cannot be 100 acres. In fact, anybody with 100 acres of maize farm in Bungoma County is celebrated. Mr. Speaker, Sir, the NCPB is the agent through which the Government gives fertilizer subsidy. So, they are obligated to know if you have given fertilizer to the distinguished Senator for West Pokot County to plant maize on 100 acres, he cannot turn round and deliver maize grown on 800 acres without being asked questions. The NCPB has slept on its job and is not working. In Bungoma County, I have seen parts of the granaries of NCPB are now garages where people are repairing cars when famers cannot deliver maize anywhere. In perspective, Ronald Reagan who was a President of the United States of America (USA) once addressed an American caucus and said that he was very excited to learn that Third World countries would suffer severe food shortage. It excites an American President because Third World countries, including Kenya, were going to suffer severe food shortage. He then added: \"It means that we will feed them. Once we feed them, we will do anything with them\". You can imagine that kind of arrogance from our friends. True, whoever feeds you controls you. If you have no food in the home, even as a man who is the head of the family, you even feel afraid of going home. I have no doubt that this Motion will go through and the facts will come out in the enquiry that we will carry out. This House enjoys phenomenal confidence from the public. Kenyans believe in this Senate. They believe that we can crack and solve problems that we have. I encourage Members that the nine Members put in the Committee are only in observance of the Standing Orders. With your permission, when we are visiting counties to find out what is going on, any Member here can ask your office to allow him be part of the team that will visit the countryside. We want to know why a farmer in Kisii County suffers even more when he has a bumper harvest. Why a farmer in Uasin Gishu County has to walk to the streets of Eldoret Town and make violent statements in order to get the attention of the State to protect him as a farmer who feeds the country? In the Netherlands and Scandinavian countries, the farmer is the most respected and pampered person in society because he toils and moils from morning to evening to feed the rest. The white collar people who sit in offices sipping coffee and smoking away the whole afternoon must rely on that farmer in gumboots and overalls for their comfort. We want to restore the position of dignity, respect and confidence of the farmer in this country. Big farms are still found in Rift Valley. In the old days, we used to have colleagues who would finish university and they would tell us to stay in Nairobi City as they went home to help their fathers to manage farms. Today, nobody thinks that direction. If you ask some young men leaving university what they will do, they tell you that they will hustle. They do not even know the word \"hustle\" means stealing. The ageing parents are unable to run the farms because there is nothing to attract their children to remain on the farms and feed this nation. We want this Senate to stand in unison and patriotism to help the farmer in this country. I am encouraged that maize is being dealt with in this Motion. We have the ndengu problem in Eastern; the coffee problem which Sen. Ndwiga has been following; the pyrethrum problem in the Rift Valley where the crop is dead; and, many others. We, as the Senate, must put wealth in the hands of the people we represent in the counties. The other day I was thoroughly impressed when I met the distinguished Governor for West Pokot County. He told me that he has bought Sahiwal bulls that he will put in every single home in West Pokot County to improve the breed of cattle, so that in another four or five years, Pokots will be the biggest suppliers of beef cattle to the market in the country. We want that kind of positive thinking. The same Governor also told me that he has now embarked on growing at least a million seedlings of coffee every two years to turn West Pokot County into a major coffee growing and producing area. I encourage our governors to think in that direction. I have advised our Governor in Bungoma County to do the same. He must revive coffee, cotton and maize because we see how things are going. Agriculture is 100 per cent devolved function. That is why the theatre for discussion of this matter lies on this Floor. Whether your area grows maize or not, you will find that your people eat maize. Maize from Trans Nzoia is eaten in Kajiado, Narok and everywhere."
     },
     {
-      "order": 167,
+      "order": 169,
       "id": "entry-821285",
       "label": "scene",
       "level": "3",
@@ -2007,7 +2031,7 @@
       "text": "(Sen. Seneta walked into the Chamber)"
     },
     {
-      "order": 168,
+      "order": 170,
       "id": "entry-821286",
       "label": "speech",
       "level": "3",
@@ -2019,7 +2043,7 @@
       "text": "Sen. Seneta, welcome. You have been gladly included in this ad hoc Committee. I hope that you will put in the best of your industry to help this Committee make things work. Mr. Speaker, Sir, so that other Members can speak, I urge your office to support this Committee to go to the theatre where things are happening. We want to visit Kisii, Uasin Gishu, Trans Nzoia, Bungoma, Kakamega, Makueni, Machakos and Kitui counties and all areas where maize is grown and see and come face to face with the plight of farmers. That some of the farmers out there, are not committing suicide, we salute them because they suffer immensely."
     },
     {
-      "order": 169,
+      "order": 171,
       "id": "entry-821287-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2031,7 +2055,7 @@
       "text": "[The Speaker (Hon. Lusaka) left the Chair]"
     },
     {
-      "order": 170,
+      "order": 172,
       "id": "entry-821287-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2043,7 +2067,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar) in the Chair]"
     },
     {
-      "order": 171,
+      "order": 173,
       "id": "entry-821288",
       "label": "speech",
       "level": "3",
@@ -2055,7 +2079,7 @@
       "text": "Imagine, you go and borrow money, pledge your land as security to go and produce food to feed Kenyans. When you finish production, nobody buys your food. Why? It is because cartels, middle men and crooks go to Uganda, bring in cheap maize, they do not pay duty ---"
     },
     {
-      "order": 172,
+      "order": 174,
       "id": "entry-821289",
       "label": "scene",
       "level": "3",
@@ -2067,7 +2091,7 @@
       "text": "(The red light went off)"
     },
     {
-      "order": 173,
+      "order": 175,
       "id": "entry-821290",
       "label": "speech",
       "level": "3",
@@ -2079,7 +2103,7 @@
       "text": "Madam Temporary Speaker, could you add me two or three minutes? They go and bring maize from Uganda, evade duty and with corrupt officials of NCPB, they deliver this maize. The NCPBs were not constructed to give relief to a Tanzania or a Ugandan maize farmer, but for relief and storage of produce by the Kenyan maize farmer. Why are we bolstering the economies of our neighbours and killing our own economy? These are issues we must address. This Committee must address the issue of farm subsidies. We need to know how much is in the budget; how much fertiliser is purchased and how it is distributed to reach the ordinary farmer. We also need to know how the state intervenes to help the farmer fight, for example, the armyworms that invaded crops; how the state helps the farmer"
     },
     {
-      "order": 174,
+      "order": 176,
       "id": "entry-821292",
       "label": "speech",
       "level": "3",
@@ -2091,7 +2115,7 @@
       "text": "harvest the crop; how the state helps the farmer limit and reduce post-harvest losses that farmers suffer and above all, how the state helps the farmer deliver the produce and be paid on time so that they can also enjoy the fruits of their sweat. There are farmers out there who delivered maize to the NCPB silos. The Senate Majority Leader told us here that he delivered maize last year but he has not been paid. Some of us have even stopped growing maize because growing maize is a highway to bankruptcy. Nobody wants to consciously, annoyingly bankrupt themselves. Madam Temporary Speaker, everything will come out in the work of the Committee. I want to commit myself and yourself, as the co-sponsors of this Motion, that this Motion will help every single farmer who grows maize and the majority, if not all Kenyans, who consume maize meal daily. I beg to support this Motion. I hope that it will get an acknowledgement, support and applause from the whole House because we were brought here to protect the ordinary, helpless person who is under threat from cartels, fraudsters, criminals and faceless profiteers who walk around with briefcases and deliver nothing but earn so much at the expense of the farmers who deliver so much and earn nothing. I thank you."
     },
     {
-      "order": 175,
+      "order": 177,
       "id": "entry-821293",
       "label": "speech",
       "level": "3",
@@ -2103,7 +2127,7 @@
       "text": "Thank you very much, Madam Temporary Speaker. I want to begin by thanking the Senator for Uasin Gishu as well as the Senator for Bungoma for bringing this Motion. I have been on record at both the Senate Business Committee (SBC) as well as on the Floor of this House raising concern about the number of ad hoc committees that are setting up especially to look at issues that are squarely within the mandate of a committee. I realised that this might be an indictment of our own standing committees. Ideally, if you look at the mandate of the Committee on Agriculture, Livestock and Fisheries, it should be competent enough to have looked at this issue. Going forward, the House needs to be made aware that the Liaison Committee halved the budged of ad hoc committees. So, many of the issues can and should be competently prosecuted within the purview of the committees that we have. Agriculture is an important issue. I do not know what would be more important to the Committee on Agriculture, Livestock and Fisheries than the plight of our maize farmers. That is an issue that they should be front and centre on. I still support this particular Motion. Until the day we change our rules on the purview, breadth and width of what an ad hoc committee should look at, I support the setting up of this Committee on this issue because it is timely. By the time we come back from recess, we hope the Committee will have brought back its findings so that we discuss them in Uasin Gishu County; a county that many may not know gave us the name \"unga\". Many people may not know that \"unga\" is not a Kiswahili word. It actually stands for Uasin Gishu Grain Association. At that time, Uasin Gishu Grain Association millers came together and it is good that they gave us that name."
     },
     {
-      "order": 176,
+      "order": 178,
       "id": "entry-821294",
       "label": "speech",
       "level": "3",
@@ -2115,7 +2139,7 @@
       "text": "Point of order!"
     },
     {
-      "order": 177,
+      "order": 179,
       "id": "entry-821295",
       "label": "speech",
       "level": "3",
@@ -2127,7 +2151,7 @@
       "text": "There is a point of order by Sen. Faki."
     },
     {
-      "order": 178,
+      "order": 180,
       "id": "entry-821296",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2163,7 @@
       "text": "Bi. Spika wa Muda, neno \"unga\" limekuwa katika Kamusi ya Kiswahili tangu Karne ya 18. Je, ni sawa Seneta wa Nairobi kusema kwamba \"unga\" inamaanisha Uasin Gishu Grain Association? Unga si wa mahindi tu. Kuna unga wa wimbi, ndengu, ngano na hata unga wa nafaka zingine. Pia kuna unga wa mihogo unaotumiwa zaidi kupika ugali kule kwetu."
     },
     {
-      "order": 179,
+      "order": 181,
       "id": "entry-821297",
       "label": "speech",
       "level": "3",
@@ -2151,7 +2175,7 @@
       "text": "Thank you Senator. I know the Senator for Nairobi does not understand Kiswahili that much."
     },
     {
-      "order": 180,
+      "order": 182,
       "id": "entry-821298",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2187,7 @@
       "text": "Madam Temporary Speaker, I will not dwell on that. The one who knows Kiswahili has spoken but the Kiswahili word I know is \"posho\"."
     },
     {
-      "order": 181,
+      "order": 183,
       "id": "entry-821299",
       "label": "speech",
       "level": "3",
@@ -2175,7 +2199,7 @@
       "text": "On a point of order, Madam Temporary Speaker. Is it in order for the distinguished Senator for Mombasa County to mislead this House that \"unga\" is limited to flour when in fact UNGA also means United Nations General Assembly and it is generally acknowledged and accepted worldwide?"
     },
     {
-      "order": 182,
+      "order": 184,
       "id": "entry-821300",
       "label": "speech",
       "level": "3",
@@ -2187,7 +2211,7 @@
       "text": "Sen. Sakaja, please proceed."
     },
     {
-      "order": 183,
+      "order": 185,
       "id": "entry-821301",
       "label": "speech",
       "level": "3",
@@ -2199,7 +2223,7 @@
       "text": "Madam Temporary Speaker, I think it is poetic to use it to mean the grain that is grown largely in Uasin Gishu where we had Uasin Gishu Grain Association. I will have an opportunity to look at that 18th Century Kamusi that Sen. Faki is talking about. I am sure he will be more than glad to give it to us. Madam Temporary Speaker, this Committee will have to ask radical questions. As Sen. Wetangula pointed out, in as much as my home is in Nairobi and I was born and raised in the city, I come from Trans Nzoia County. In Trans Nzoia County, I have seen over the years the suffering and the level of poverty caused. In fact, in Trans Nzoia and the rest of the former Western Province, there are two crops that have caused poverty to millions. They are maize and sugarcane but they have created wealth to only tens or hundreds of people in this country. I hope that this Committee will do some thorough work and ask radical questions such as why farmers have not been paid. I have been reducing the amount of acreage that I grow maize in my farm because of the same reason Sen. Wetangula has talked about. In fact, I decided to shift to coffee and other horticultural crops because maize is no longer profitable to grow in this country. What will happen if many other people take that kind of thinking? It will reduce our food security in this country. Farmers are suffering. I remember when I was growing up, I used to spend long hours queuing outside the cereals board during school holidays waiting for us to get a turn to drive the tractor in order to deliver our maize. Sometimes we were told it will happen the following day or the day after and that still happens. So, it is not a crisis that has just started because it has been going on for many years. Today, in Trans Nzoia and Uasin Gishu, instead of taking an entire year growing maize, it is wise to invest in a store and that is what many people are engaging in. People have learnt to invest in stores. After farmers have harvested, they buy the maize cheaply because of the demands towards the end of the year and going to January for school fees and other reasons. The maize is stored and sold from March up to June for thrice or even four times the price it was bought. That way you make much money than the maize farmer. That is what has been happening for years. This Committee must also look into the issue of maize brokers. We need to ensure that at the time maize is being bought, value is not compromised to the farmer. The committee should look at the issue of the dwindling level of maize production in this country. In 2013, we produced 40.7 million bags of maize; in 2014, we had 39 million bags of maize; in 2015, it went down to 37.8 million bags and in 2017, we had 35.4 million bags. That was a reduction of 2.4 million bags of maize from the previous year. Madam Temporary Speaker, at the same time, the imports went up in an inordinately high amount. What is happening in this county? The amount of increase of imports should be commensurate with the reduction of the production of this maize. Is it a business to profiteer just a few people or are we looking at the farmers? Interestingly, at the same time, the production of beans went up by 16 per cent in the same period, so did the production of wheat at that point. I will ask the Senators, even as the Committee work goes on, to have a look at pages 119 and 120 of the Economic Survey - which is available to all the Senators - to see what has been happening over the years to our agricultural sector. It is a shame and something to cry about because farmers are really suffering. If anybody was to ask me today that they want to get into business of growing maize, I would tell them not to think about it because those of us growing maize are running away from it. What I used to get two to three years back is very different from now. Madam Temporary Speaker, I am glad, Sen. Wetangula has mentioned the issue of how the Agriculture Finance Cooperation (AFC) treats and interacts with farmers in helping grow this sector must be addressed. He knows very well since he was once the lawyer to my father that for many years, we were weighed down under the loans that had been paid but because of poor accounting and management at AFC--- Many times, my father's farm was in the newspaper being auctioned. The first thing I did when I became a Member of Parliament (MP) was to go and agree with them on how to pay off what I know was not supposed to be paid off. If I could do that as an MP in the 11th Parliament, what does an ordinary Kenyan go through when it comes to dealing with these institutions that are supposed to be helping the farmer and promoting agriculture, not suppressing it. Madam Temporary Speaker, interestingly, in Nairobi, we bear the brunt of shortage of maize. Unlike the rural areas, hunger in the urban area is worse because in the rural areas, you can get what we call ' gorogoro moja ama mbili' of maize from a neighbour and get going. In urban areas which is a concrete jungle, if you are not able to find money to buy food, then you sleep hungry. I am glad that we have been working with the County Government of Nairobi and the new Chief Executive Committee member and Chief Officer to make sure that we subsidise, whenever there is a shortage of maize or an issue of maize pricing. Instead of subsidising millers as it has been going on, in Nairobi County, you need to subsidise the posho mills. We have 253 p osho mills - I did that research the last time we had drought - where the bulk of Nairobians do not go to buy maize in Nakumatt or these supermarkets, in packets that is fortified and has been processed, they buy maize from posho mills where there is maize and has been grinded into flour. We need to subsidize and use those people as the correct value chain for unga to get to our people. Madam Temporary Speaker, more radical questions need to be asked; Why is it not possible for maize to be a factor of the economy? Is it that the demand is not there? We know it is there. Can we subsidize it heavily like it is done in other countries where staple food is realised? Why is it that the Government has to buy it? Why does the Government not buy potatoes and other produce that we see, in as much as maize is a staple food, and we need a certain quantity for food security? Why can we not start thinking outside the box so that we can redeem and emancipate the maize farmer in the Rift Valley, the sugar cane farmer in western Kenya through modern ways of looking at agriculture and factors of economic development? I want to challenge this Committee - the task on you is onerous and heavy - because the Senate has already gotten a good reputation of doing serious, thorough inquiries into issues thanks to the Select Committee on Solai Dam tragedy and the Ruaraka Committee which I am assuming their report is thorough since I have not looked at it and many other inquiries we have been dealing with, unlike our friends on the other side. Madam Temporary Speaker, this Committee has that task ahead of them, that, for once, we will get closure and practical solutions to our maize farmers. In as much as we want to address this in Uasin Gishu County, let that not be the goal but to give us far reaching solutions that will transform the farmer in this country. We must make sure, as a House, that the recommendations are protected and implemented. The issue of maize being imported into Kenya has continued to impoverish our farmers. As Sen. Wetangula has said, maize is imported from Uganda and other countries. We must understand why we are not able to produce enough. Secondly, these periods where duty free tax maize imports are allowed is inordinately longer than the period needed. This Committee must find out why that is happening and we want to hear names of who is behind the importation. Finally, this Committee should also look at the stalled Galana-Kulalu Project. At that time, most of us were hesitant, because we knew what it will do to other parts of the country that have been traditionally growing maize. We saw the kind of output that came from Galana-Kulalu Project, where I think close to a million acres, we got very little grains of maize yet millions of shillings went into that project. Let us understand what is going on, so that we can make sure that even as we increase maize production in other areas, we cushion those whose bedrock and only survival has been this crop. With those remarks, I wish to support and also urge you - because you sit in the Procedure and Rules Committee - that we agree on certain rules on how committees handle business supposed to be squarely within their mandate and what business ad hoc committees can look at. In the same vein, we are proposing that statements that are sought by Senators must be countywide or inter-county so that we do not duplicate what Members of County Assemblies are doing in the County Assemblies. In the same way, if a matter can squarely be handled by one committee, let us strengthen those committees so that you do not take away from others. I have seen Sen. Wambua, Sen. Wetangula and many others have lined up Motions proposing establishment of select committees. If we take Members from the traditional committees, we might find that the Committees, in which originally Members are in, might suffer a bit. I know by practice, because when I was in the Solai Dam Tragedy Committee, the Committee Chair of Labour and Social Welfare missed me for a while, so did the National Security, Defence and Foreign Relations Committee which I deputise, since five of us were in the Solai Dam Tragedy Committee. Let us make sure that work is done as quickly as possible and reduce our reliance on an ad hoc way of looking at these issues."
     },
     {
-      "order": 184,
+      "order": 186,
       "id": "entry-821310",
       "label": "speech",
       "level": "3",
@@ -2211,7 +2235,7 @@
       "text": "Thank you Senator. Let us have Sen. Cheruiyot. What is your point of order, Sen. Cherargei?"
     },
     {
-      "order": 185,
+      "order": 187,
       "id": "entry-821311",
       "label": "speech",
       "level": "3",
@@ -2223,7 +2247,7 @@
       "text": "Thank you Madam Temporary Speaker. I rise on a point of order under Standing Order No.100 on the limitation of debate. I appreciate that this is a matter of national importance and of great concern, but the interest is high. Madam Temporary Speaker, I request you to limit the time for Senators to speak to this Motion in order to accommodate more Senators, because I know all Senators take\n\nUgali"
     },
     {
-      "order": 186,
+      "order": 188,
       "id": "entry-821313",
       "label": "speech",
       "level": "3",
@@ -2235,7 +2259,7 @@
       "text": "in this House."
     },
     {
-      "order": 187,
+      "order": 189,
       "id": "entry-821314",
       "label": "speech",
       "level": "3",
@@ -2247,7 +2271,7 @@
       "text": "You have not given the complete proposal. I would like to urge Senators to avoid repetition and go straight to the point; it is true the list is very long. Let us limit ourselves to about five minutes, if possible. The Motion is popular and the screen is full. Senator for Kericho, proceed."
     },
     {
-      "order": 188,
+      "order": 190,
       "id": "entry-821315",
       "label": "speech",
       "level": "3",
@@ -2259,7 +2283,7 @@
       "text": "Madam Temporary Speaker, I would have complained, but fortunately or unfortunately, I have a cold therefore I do not intend to speak for long. I may run out my voice. I wanted to share my experience with the movers of this brilliant Motion; Sen. (Prof) Kamar and Sen. Wetangula, on a such well thought-out idea. This is as a result of the struggle we continue to see among our poor farmers and the contempt those in leadership continue to disregard them despite the fact that they do the donkey work in terms of feeding this nation. First, I want to share from a very informed perspective on some of the challenges that led us to consider this route. I know that other Members have asked whether select committees are beginning to eat into the space of work that is supposed to be otherwise done by our Standing Committees in this House. Sometimes, there are issues that are extremely pressing, urgent and also politically heavy, that you feel that only the concept of an ad hoc committee - like the one that is being proposed today - can sufficiently address those issues with the finality that they deserve. Secondly, Madam Temporary Speaker, I urge my colleagues who have been proposed to serve in this Committee to treat this matter with the seriousness that it deserves. It does not make sense for them to be included in an ad hoc committee and then fail to give all their energy and thoughts to it. I believe that by the time the Movers of this Motion sat down and drafted this idea, it was because of how deeply they felt about this issue which our farmers are facing. The truth of the matter is that we have treated our farmers in this country so badly; be they tea, maize or all the leading cash crop farmers. I am glad and happy to be part of the Twelfth Parliament, and particularly in the Senate, which is forming an ad hoc Committee to address the issues facing the tea sector. I know that very soon, we shall come back to the House with an extremely radical proposal that will take power back to farmers, and tea farmers in this country will be liberated forever. Madam Temporary Speaker, we recently had a meeting in this Chamber with the Presidential Task Force that was formed to look into the challenges in the coffee sector. I requested the gentleman leading the task force that once they are ready with the draft legislative proposal, they should hand it over to the Senate Committee on Agriculture, Livestock and Fisheries so that they bring it to this House, where we shall do justice to it and liberate the ever-suffering coffee farmers of this country. Madam Temporary Speaker, I believe that this Committee shall also do the work expected of them by the maize farmers of this country so that we can address the root cause of these challenges. That way we shall, for once and for all, forget this challenge that we continue to face year in, year out. Why would the National Cereals and Produce Board (NCPB) be centralized? First of all, it is unconstitutional, wrong and it even goes against the cardinal principle of common sense. The most obvious thing to do will be to devolve the functions and operations of the NCPB. This is so that if we were to ask the County Government of Uasin Gishu to give us a list of farmers so that we know how much produce to expect at the end of this financial year and how we shall pay them, we shall eliminate brokers and people who make the lives of farmers extremely difficult. However, because of other peculiar interests that are not material to the interest of farmers, people find it necessary to continue with this concept of centralizing everything. Madam Temporary Speaker, that is the reason why, if you read through our budget, you will find that more than Kshs90 billion has been allocated to the Ministry of Agriculture and Irrigation while we know, for sure, that agriculture is 100 per cent devolved constitutionally. What is this policy that is being formed using Kshs90 billion? What is this obsession with holding things here in Nairobi? That is why, on many occasions, you will hear me making contributions in this House that continue to question why we are forming agencies and domiciling them here in Nairobi. Nairobi, to me, speaks of all the ills and challenges that this country continues to face. We should decentralize all the headquarters of the national institutions, including the Agricultural Finance Corporation (AFC). Is there any reason why we want to have its headquarters in Nairobi while the Government can easily devolve it and send conditional grants for it to be run by our county governments? County governments know who the farmers are and they can easily do background checks on them to find out whether the amount of money borrowed is commensurate to the size of land they have; and whether it warrants the borrowing or not. However, because of the ills that have continued to dog this country for many years, people find it necessary to keep and manage things at the centre. This is despite the fact that 55 years down the line, we have proved that it is extremely difficult and impossible to succeed when we take that kind of approach. Madam Temporary Speaker, when the Committee finally retires to consider its report and bring a proposal to this House, that report would not be sufficient to address the challenges that our maize farmers face. I would be more comfortable with a legislative proposal that radically changes how farmers are compensated and paid in a timely manner. It is ridiculous that a person sitting in Nairobi in a comfortable and posh office can write a letter stating that maize farmers should not be paid because they are conducting investigations. What kind of nonsense is that? Between the Government and the farmers, who requires protection? Let us pay the farmers first and then investigate later. If you find that there is a farmer who was paid unjustifiably, you should then take them to court. Madam Temporary Speaker, we cannot punish all farmers in this country simply because some chap wants to sit down and appear to be working. They should have done the investigations in advance to establish whether what the NCPB was doing was legal or not. Therefore, a radical draft legislative proposal to this House from this Committee is the best way to go. If, at the end of this exercise this House produces a draft legislative proposal for tea, coffee and maize farmers, we shall have done great service to the Republic of Kenya. That will also give a good image to us, as the Senate, and the people will know that there is a difference between this Senate and any other institution in this country. Madam Temporary Speaker, with those many remarks, I beg to support this Motion. I wish this team success as they liberate the impoverished maize farmers of this country. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 189,
+      "order": 191,
       "id": "entry-821320",
       "label": "speech",
       "level": "3",
@@ -2271,7 +2295,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me an opportunity to add my voice to this important Motion. First, I begin by commending the Movers of this Motion, Sen. (Prof.) Kamar and Sen. Wetangula, because this Motion is important for the farmers in this country. Madam Temporary Speaker, Sen. Wetangula confirmed that Kenya is among the States parties that ratified the Maputo Declaration, which stated that 10 per cent of the national budget should go to farming. If Kenya implemented this, it will be stating that it stands with the farmers of this country. It is very important that the farmers of this country are protected and supported because they play a major role in the economy of this nation. They give all their energy, time and everything they have to farming. For most typical farmers out there in the counties, farming is the greatest investment that they have. Even as they invest in farming, they play an important constitutional role. Article 43(c) of the Constitution states that:- \"Every person has the right to be free from hunger and to have adequate food of acceptable quality\". Farmers, therefore, ensure that Kenyans are food secure. Madam Temporary Speaker, even the farmer is complying with the Sustainable Development Goal No.3, which is healthy living and wellbeing for all. There is no way the nation can be healthy without food. That is what the farmer of this country is doing. Therefore, it is imperative that farmers are given due protection and encouragement. It is clear that maize is a staple food in this country. In fact, in most families, if someone does not eat ugali during lunch time, they will do so in the evening or the following day or even thrice a week. That is the sweat of the family. It has come out clearly from the Movers of the Motion and the Senate Majority Leader that we have three categories of farmers. We have the real farmer who possesses an important factor of production, which is land. He possesses the land and does the donkey work. He will buy the fertilizer, till the land, plant and harvest the maize and store it. He will spend a lot of money to ensure that the maize is delivered to the people of this coun6try. However, it came out clearly that this farmer is frustrated. In some areas, they are not able to access the National Cereals and Produce Board (NCPB) and end up being stranded. Madam Temporary Speaker, the second category of farmers is the middlemen who are now softly referred to as traders. They facilitate the farmers to take their crops to the NCPB. The third category is the telephone farmer. If he has the money and the links, he will import the maize and take it to the NCPB directly. In this situation, the real farmer is frustrated because he is stuck with the maize and does not know what to do with it. This happened during the last harvest. Many farmers were stranded and did not know where to take their produce. There was a lot of maize that had been imported from neighbouring countries at a lower cost. Therefore, this made the local farmers to be stranded with their maize. They would go to the market only to realize that there was no one ready to buy their produce. There is a need to protect these farmers. We need to regulate the importation of duty free maize. When maize is imported duty free to the country, farmers who have their produce in stores do not know where to take it. So, there is a need to protect the indigenous farmers. This Senate must stand out to ensure that the common man is protected. Madam Temporary Speaker, the role that the farmer plays in socioeconomic development is very important. Therefore, when it comes to payment, there should be no question about it. There is need for the farmer to be paid once the maize has been delivered and accepted by the NCPB. They should not accept the maize in the first place if they are not ready to pay. It is wrong for the NCPB to accept the maize and thereafter say: \"There is an official letter that has been written by the Ethics and Anti-Corruption Commission (EACC) to officially suspend payment to the farmers\". It is insensitive and inhuman. It is only proper that the farmers, who had already delivered their produce to the NCPB are paid. When you go to the counties, you will find that the real farmers and the middlemen are known. Therefore, when the middlemen buy maize from the farmers, it is usually done under an agreement. In such a situation, it is okay because the middleman has consent from the farmers. However, the maize that goes to the NCPB should be paid unconditionally. Farming creates employment for many people. If the farmers in this country decide not to plant maize or sugar cane, they will be idle and frustrated. These are peasants who have been eking out a living from farming. They also have socio-economic needs. They have children to take to school and pay hospital bills. Therefore, there is need for the farmer to be protected in this country. Madam Temporary Speaker, there is need for the farmer to be encouraged. Every human being would want to be encouraged. One of the Senators talked about the Minimum Guaranteed Returns (MGR). There is need for that to come out clearly, so that the farmers know that as much as they contribute to the economy of this country, they are guaranteed that their input will not go to a loss. However, in a situation where the farmer spends a lot and does not get any output, this is very wrong. For example, right now, there are some farmers who still have maize from the previous harvest and very soon, they will be harvesting again. So, the farmers get stranded and do not know where to take their maize. It will be very unfortunate if farmers decided not to grow maize again. In as much as we are talking about liberalization of the maize subsector, it should not be at the expense of the farmer. There is need to ensure that NCPB buys all the produce from the farmers, so that they are encouraged to continue contributing to the development of this nation. Further, there is need for food security which the farmer is ensuring. This Committee should, therefore, be constituted with speed, so that it can arrest this situation and come up with recommendations that will help the farmers in this country. Madam Temporary Speaker, I support the Motion and thank you for this opportunity that you have given me."
     },
     {
-      "order": 190,
+      "order": 192,
       "id": "entry-821325",
       "label": "speech",
       "level": "3",
@@ -2283,7 +2307,7 @@
       "text": "Thank you, madam Temporary Speaker. From the outset, I want to thank the Senator for Uasin Gishu County, Sen. (Prof.) Kamar, and one of the prolific leaders of this nation, Sen. Wetangula, for this Motion which was long overdue. If it were not for maize, I would not be who I am today. Although I am not a large-scale farmer, I know the pain that comes with maize farming. The Committee on Justice Legal Affairs and Human Rights, which I Chair, met the Kenya Revenue Authority (KRA) and our main concern was an allegation regarding a ship that was still in the high seas. By time the Gazette notice expired, it had not been received at the Port of Mombasa. Those were the challenges we raised with the Kenya Revenue Authority (KRA). We also asked them what they did with maize issue. They told us they were working with multi-agencies in this country to stop its importation. Madam Temporary Speaker, as we talk about maize, there is the issue of milk powder and wheat from Tanzania. There seems to be a series of well-orchestrated schemes through gazette notices to strangle the farmer in this country. I appreciate the fact we grow maize in Mosop, Chesumei, Tinderet, Emgwen and Nandi Hills in Nandi County. Maize is also grown in other counties such as Kakamega, Vihiga and many other areas in this country. Madam Temporary Speaker, if there is no ugali on the menu, some people will not feel as if they have eaten. I can tell you this for free; if some people eat rice in the evening, that is just like an appetizer or a snack. However, when they have eaten ugali, you feel very nice. As a staple food, what does that mean? We must jealously protect the maize farmers in this country. North Rift and western Kenya are the sources of maize that is consumed by more 40 million Kenyans. I have seen the 2016 Strategic Plan for five years of NCPB which they want to roll out. Apparently, they know there are problems and how to fix them. I want to single out one of the issues in it that was meant for five years. One of the issues was that the NCPB does not offer competitive pricing. They were proposing to convert themselves into commercial entity known as Grain Corporation of Kenya (GCK). We need to restructure the NCPB to meet the demands of farmers. Two months ago, there were 984,102 bags worth of Kshs3 billion which had aflatoxin, therefore, not fit for human consumption. That is very sad. It shows an organisation that is running on mediocrity and lethargy. Madam Temporary Speaker, as we discuss the payment of farmers, we must restructure NCPB. The cartels have seized NCPB. We appreciate NCPB as an infrastructure across the country, but it is being run down. It is not working as Sen. Wetangula said. It is being used for other purposes. In Lessos, Chesumei, Kipkareni sub counties, there are NCPB infrastructures that are not being used for the purpose for which they were established. We have the necessary infrastructure, but lethargy is the problem. Madam Temporary Speaker, yesterday, the Ministry of Agriculture and Irrigation released Kshs1.4 billion. Interestingly, the CEO of the Ethics and Anti-Corruption Commission (EACC) is cautioning against the payment. Do these people want to pay farmers when they are dead and buried? Is this a case of dancing on the graves of farmers with their own pain that they have undergone? It is very unfortunate that EACC knows that Kshs1.4 billion that was released is not even sufficient to pay our farmers. However, they have the audacity to say; can you hold and do not pay. How are we operating in this country? These agencies work for the Government. If they need to do cautionary measures, they should sue, but allow the farmers to be paid promptly. Madam Temporary Speaker, our farmers' maize is ready. We are supposed to deliver it in the next two months to the same NCPB. Unfortunately, the same farmers whose crops are ready have not sold what is in their stores. Now we have cartels, middlemen and brokers yet the EACC has an audacity to stop the payments to small-scale farmers. Some are owed Kshs50,000 and Kshs20,000, respectively. Our farmers are struggling to manage blood pressure and diabetes as a result of frustrations. Others are at risk of heart attacks which might lead to stroke. Others are unable to service their loans which they borrowed to plant maize. Their children are no longer going to school. They are at home. Wives have run away from their husbands because there is nothing to eat in that house. It is so painful. Madam Temporary Speaker, it is sad to see Government agencies fighting each other instead of complimenting each other to ensure farmers are paid. What is hard for the EACC to know that Sen. Wetangula supplied maybe 5,000 maize bags? These are his details, bank account and pay the money unless the EACC and NCPB are telling us some people were planning to pay ghost farmers. We demand that the maize farmers across this country be paid immediately, so that they can service their loans and take their children back to school. We are entering into the season of national examinations. Many of the children are at home because of lack of school fees. Farmers cannot sustain themselves. Madam Temporary Speaker, the NCPB is synonymous with mediocrity and lethargy. We should even change the name NCPB to something like GCK or something else. They said if you want to kill a dog, you give it a bad name. Therefore, that is another issue. We need to make NCPB more competitive so that they push an agenda of commercial interest. I am aware that the strategic grain reserve storage is1.8 million metric tonnes. A million bags worth Kshs3 billion has been declared unfit for human consumption because of aflatoxin. How safe and fit for Kenyans is our 1.8 million metric tonnes that is meant for strategic grain reserve? Madam Temporary Speaker, if you do not take mercury in your sugar, you will take aflatoxin in your ugali . If you are not safe from that, you will get an accident. If you are not safe from that, cholera will kill you. It is very sad because of the Government agencies. I do not want to pre-empt a debate. I have seen the report that was tabled. Some heads must roll. The position you hold as a Cabinet Secretary, you hold on trust and on behalf of all of us. Let us make Kenya safe. I know all of us would wish to go to heaven. However, let not mercury in sugar, aflatoxin in our maize or non-payment of maize farmers send us to hell. Madam Temporary Speaker, as I conclude because I know most of my colleagues would want to contribute, I thank you and Sen. Wetangula for this Motion. Our concern is that our farmers should be paid promptly. In future, let us also avoid paying ghost farmers. The Cabinet Secretary for the Ministry of Agriculture, hon. Kiunjuri, must take personal responsibility and ensure farmers are paid promptly. We also need to have the inventory of all the supplies of the maize. We also need to see the list of farmers who supplied maize to the NCPB across this country. If this does not happen, and we are not threatening anybody, we will generously advise our farmers to stop growing maize. The country will go hungry. When you do not have a healthy country, then we will not create wealth in this country. It will mean that ugali that we enjoy in our homes will start disappearing slowly from the table. I call upon Senators that when it reaches to that point, let us ask questions. The Senate has been known to stand on the high pedestal of integrity when discharging its mandate. That is the same report that we would want to see the Committee provide which will be in the best interest of Kenyans. It will be the poor Kenyans against the cartels that are trying to bring down the lives of Kenyans in this country. I thank you."
     },
     {
-      "order": 191,
+      "order": 193,
       "id": "entry-821330",
       "label": "speech",
       "level": "3",
@@ -2295,7 +2319,7 @@
       "text": "Thank you, Senator. Could we hear from Sen. (Prof.) Ongeri?"
     },
     {
-      "order": 192,
+      "order": 194,
       "id": "entry-821331",
       "label": "speech",
       "level": "3",
@@ -2307,7 +2331,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to weigh in on a matter that is so critical and important in the maize growing regions. If you go through the journey of a farmer, it is a miserable journey. I must declare my interest; I am a maize growing farmer and the experience that one goes through is very painful, more so, our peasant farmers. From the ground breaking, the farmers struggle to find the machinery which can either be the orthodox machinery of oxen ploughing or the tractor and with escalation of fuel at its peak, the farmer starts with a loss right from the beginning. He builds up expectations and hope and at the end of the day, if he is given the right price by a Government entity in the name of National Cereals and Produce Board (NCPB), he should make ends meet and balance it out. However, in the process of reaching NCPB, there is frustration after frustration, headache after headache, thus this farmer is lost in his own country and within his own place of aboard. When he has been successful in weeding and nurturing the crop, there are these vagaries of diseases that arise, particularly the necrotizing disease of maize. The Government has taken so long to assist farmers overcome that challenge. Even when a farmer succeeds in overcoming that challenge, we see that they are being embarrassed and frustrated in their journey towards delivering whatever has been harvested to NCPB. One must remember that the Government of Kenya invested heavily in the establishment of the NCPB in order to support the farmers. The money that was spent there was taxpayers' money, yet an entity that is supposed to preserve food commodity in the name of maize is the first body to declare the maize to be full of aflatoxin. People do not understand the language of aflatoxins. Aflatoxin is basically a fungal infection. It is a fungal infection resulting in poor drying and poor storage. The first question that comes to mind is; where is this maize from? Is it from the Kenyan farmer or is it from outside? If it is from the Kenyan farmer, NCPB have the facility to dry up this maize and store it in a safe environment. Then how comes that this maize is declared aflatoxin bearing maize if it is in their store? It means that there is an element of maize which may not be grown within the confines of the Republic of Kenya. It is maize which has been hurriedly harvested elsewhere and brought in and that is why I have no mercy for cartels who come to stock NCPB depots with maize, thus denying the ordinary farmer an opportunity to deliver his crop. That is point number one. When this Committee finally settles down, they must query and find out what happened with this drying and storage facility which was put up using enormous resources of the Republic of Kenya. What has gone wrong with it? That is the first issue that this adhoc Committee should enquire. The second inquiry should be why they issue a license of imports when the farmer is just about to have a bumper harvest say that there is a deficit in the country, whereas, it is only a matter of a few days within which that deficit can be met by the local farmers. They then mandate the imports to this country, displacing the normal farmer; a faithful diligent farmer, who has spent time, energy and sweat to produce food for this nation as part of his patriotism, so as to increase food security basket in this country. The second thing that they should inquire into is the reason the agencies that give this import licenses conveniently time when the farmer is already expecting a bumper harvest. Having gone through all the stages of frustration, why are they being allowed to import? That is the third stage that this Committee must look at carefully. The fourth stage that this Committee should look at is what the role of the clerks and managers of these depots is. Are we seeing a high degree of corruption at this level that a small poor farmer has to struggle? I am speaking from experience. I have seen ordinary farmers who harvest in Kitale, send their maize to Moi's bridge and then spend 24, 48, 72hours or almost a week on the line to deliver their harvest, yet the fellow that was hired to provide transport keeps demanding for more money for having been kept long. Who bears that extra cost? These centres were meant to be immediate delivery centers such that one can transfer their cropthere. Who pays for that extra cost in terms of transport? It is the poor farmer. So where have you left the farmer? You have designated him to oblivion. That is what we mean when we say that this country is deliberately designating the farmer to oblivion. The Government then came up with a wonderful intervention and that is the one that I think this Committee should look at; the subsidy on fertilizers. They give the minimum prices that are allowed such that DAP is to cost Kshs1,800 and CAN is to cost Kshs1,500. However, when you go to the stores of NCPB, they ask you for a letter from the chief. Indeed, the chiefs do their job. They give you the license and when you bring it to the table, they will tell you that the stock that they have is for so-and-so and that they are waiting for a new consignment to come. When you look at the stock held back, it is in terms of thousands and thousands of tonnes, yet this simple farmer is denied access to the so-called subsidized fertilizer. This simple farmer is also being denied access to the so-called subsidised fertilizer. What does he do? That is an area you should inquire into thoroughly. Another area that this Committee should also look at thoroughly is the hybrid seed being provided to farmers for planting."
     },
     {
-      "order": 193,
+      "order": 195,
       "id": "entry-821336",
       "label": "scene",
       "level": "3",
@@ -2319,7 +2343,7 @@
       "text": "(The amber light went on)"
     },
     {
-      "order": 194,
+      "order": 196,
       "id": "entry-821337",
       "label": "speech",
       "level": "3",
@@ -2331,7 +2355,7 @@
       "text": "Madam Temporary Speaker, I request for three more minutes because I want to make a particular point here. On the hybrid maize, there are so many bogus - I want to use that word advisedly - companies that are deliberately carrying the maize and labelling it as tested hybrid maize. The ability and capacity of this seed to generate a good maize stock is wanting. How do we safeguard our farmers, yet we have research institutions in this country? These institutions are supposed to vet the right storage and seed variety, given the geographical regions. For example, the seeds to be used in Ukambani should be different from the ones used in high altitude areas. We have the 614 and 615 variety or the new seed variety that has come in the market. We have different varieties for short and long rains, et cetera . Farmer are left in a quagmire and do not know which seed to use. What does he then do? He just walks into the shamba or to somebody next door, picks the maize cob, looks at it, thinks it is healthy and plants it. What happens next? Sometimes they are told that if they plant a certain variety, they will get 20 to 30 bags of maize per acre. However, they end up getting six to eight bags per acre, or even less, after using that seed variety. What happens to that investment? The long and short of it is that the farmer has been taken for a ride. Madam Temporary Speaker, the Government that is asking us to consider food security as the fourth flagship programme in the Big Four Agenda. If that is the position and for us to support that element of food security, we should now do a generation of things. At the end of it, we need to completely overhaul seed production, storage, the functioning and the legal entity called the NCPB. Maybe the time has come to liberalise this business with the mind of keeping the simple farmer protected. Thank you, Madam Temporary Speaker. I felt that I needed to flag out the issues that need to be looked into. Later on, when the report is tabled here, we should then dissect it to see whether these objectives have been met or not. I beg to support."
     },
     {
-      "order": 195,
+      "order": 197,
       "id": "entry-821338",
       "label": "speech",
       "level": "3",
@@ -2343,7 +2367,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to support the formation of this ad hoc Committee to look into the issues of farmers. From the outset, I congratulate the current Cabinet Secretary and Principal Secretary in the Ministry of Agriculture and Irrigation, hon. Kiunjuri and Mr. Lesiyampe respectively, for saving this country from another wheat crisis. Madam Temporary Speaker, customs are very important for us to understand. The mandate of the yet to be established ad hoc Committee is to look at three important things. First, it is why farmers have delivered their produce to NCPB and have not been paid to date. This is a matter that I would like to address first so that we can go point by point as I make my argument. I hope that this Committee, while investigating this matter, will be thinking about a permanent solution that promotes devolution. Madam Temporary Speaker, there is no reason farmers in Kenya should be sending their produce to a centralised position. It is about time that we came up with proper legislation and programmes that encourage farmers to form cooperatives so that they can store their products and set their prices to ensure that this country can be food secure. When you travel across the world - and Brazil is a very good example - farmers there come together to form cooperatives. With these cooperatives, they bring all their produce together and set up their own silos, storage and can then dry their produce. Why it is that in the year 2018 in Kenya, which is about six years after devolution, we are still talking about a centralised organisation called the NCPB? We should now be talking about farmers in Narok County having their own private - and I emphasize on the word \"private\" - storage facilities. Madam Temporary Speaker, the big problem we have is the concept of the big government. Worldwide, big governments tend to be bureaucratic, inefficient, intrusive and, in most cases, corrupt. This issue of farmers not being paid is because of this notion of big government. Let us now try to advance into small government. Small governments are very efficient and most of them are believed to be flexible. That is why we are in this House. As the Senate, we should be working towards ensuring that we have full devolution. There is no reason why our farmers should be subjected to such conditions where a few people in Nairobi decide when or how much they will be paid. Madam Temporary Speaker, the biggest problem we have in this country is that, sometimes, even when we look into things, we do not look at the consequences. Anything that deals with duty is not something which the current CS of the Treasury would just come out and issue a gazette notice. This is something which is controlled by the customs union. For him to waive this duty, he has to meet with his other five counterparts from the East African Community to decide that it is now high time to do that because we have a crisis. Madam Temporary Speaker, when investigating this matter, I hope the Committee will look at the first Gazette notice, which was only meant to inform the general public. That was actually an issue under the East African Community Custom Management Act and not under the Kenyan act. The key issues here are very clear. The customs notice is clear; it says that it is to notify for general information. It then continues and says to the public that:- \"Pursuant to the power conferred to the cabinet secretary under section 114(2) of the East African community Custom Management Act 2004, in consequence of the declaration by the President and Commander-in-Chief of the Kenya Defence Forces of the national disaster through executive Order No.1 of 2017, duty shall be waived on certain products.\" During that time, the companies that were allowed to import duty free maize into this country are listed in this gazette notice. They were given 373,000 metric tonnes. The Act is clear and set out the period within which the duty free importation would take place. It says that it is six months and certain conditions have to be met. I am looking at the second task, which is the quantity of duty free maize imported into the country during the duty free window, which was to end in October, 2017 and why the period was extended. It is clear in the Act that the period can be extended up to 12 months. We, therefore, need to look at the issue of strategic grain reserve. Did we have enough maize in the country and did these people import the 373,000 metric tonnes of white and yellow maize during the stipulated period of six months before it was extended? These are the things that will guide this House when advising the current Cabinet Secretary (CS) of the National Treasury, so that when he meets his counterparts they can agree to look at these matters on a case by case basis. That is what the Act says. I hope that this Ad hoc Committee will extend its mandate to look at the entire grain reserve in the country. We need to establish how much we need to consume, for example, in Narok County, Trans Nzoia County, Nairobi County or Mombasa County, so that the Cabinet Secretary can advise, before a gazette notice is issued, that in Kenya our farmers can produce X amount of grain and, therefore, the only amount that we can allow for importation is X amount. When you look at the list of companies that were allowed to import maize duty free, you will see the variation in terms of the quantity that they were given to import. Some were given 36,000 metric tonnes and others 1,000 metric tons. So, we have to look in detail why they were given this time. As I said earlier, I want to congratulate Cabinet Secretary, Hon. Kiunjuri, and the Principal Secretary, Dr. Lesiyampe, for the action they took. Last week, the wheat farmers of Narok and Eldoret were concerned about a similar gazette notice that had been published by the East African Community (EAC), which gave a window for millers to import tax free wheat into this country. They had been allowed to import up to 30 million metric tonnes of wheat into this county. When the farmers started harvesting their wheat, the millers said that they were importing because it was expensive to buy from them. However, Hon. Kiunjuri, Dr. Dr. Lesiyampe and I met with the farmers and the millers. We set a condition that the millers must, first, mop out all the local wheat from the farmers before they import. These are the things that this Committee ought to look into. At times, when this window is opened, a farmer could have harvested and delivered his maize to NCPB. Therefore, this Committee should not restrict itself to looking at only the maize crisis. They have to interrogate the Cabinet Secretary for the National Treasury, so that they can agree. When the Cabinet Secretary extended the gazette notice, although the Act provides for him to do that---"
     },
     {
-      "order": 196,
+      "order": 198,
       "id": "entry-821343",
       "label": "speech",
       "level": "3",
@@ -2355,7 +2379,7 @@
       "text": "Order, Senator! Please, wind up."
     },
     {
-      "order": 197,
+      "order": 199,
       "id": "entry-821344",
       "label": "speech",
       "level": "3",
@@ -2367,7 +2391,7 @@
       "text": "Madam Temporary Speaker, I am looking at my clock and can see that I still have one minute. In summary, as I finalise, when the Committee will be looking at the extension, it will be important to ask a basic question as to whether the Cabinet Secretary, if he extended it in his own motion, he sought leave of his counterparts. We should not question things outside the law. We can come up with suggestions. If we have to amend the East African Community Customs Management Act, this Committee should be able to guide as in doing so. Since other Senators want to contribute to this Motion, I wish to end by saying that in terms of the challenges that are faced by farmers, I would encourage this Committee to find a way of advising the National Treasury. Since this House has been reduced to a rubberstamp, when it comes to the division or equitable share of revenue, we can establish if we can bring the farmers together and give them grants and loans to form private cooperatives. Additionally, we can see how these farmers can work with their county governments to set up clear databases and improve on the production of maize. We have seen many countries around the world producing a lot of maize. Why can we not do the same in this country? With those few remarks, I support."
     },
     {
-      "order": 198,
+      "order": 200,
       "id": "entry-821347",
       "label": "speech",
       "level": "3",
@@ -2379,7 +2403,7 @@
       "text": "Hon. Senators, I have three Senators and six minutes remaining before the Mover is asked to reply. I plead with you that you each take two minutes, so that the three of you have an opportunity to contribute to this Motion. Let us have Sen. Mary Yiane."
     },
     {
-      "order": 199,
+      "order": 201,
       "id": "entry-821348",
       "label": "speech",
       "level": "3",
@@ -2391,7 +2415,7 @@
       "text": "Thank You, Madam Temporary Speaker, for giving me a chance to contribute. First, I want to congratulate the co-sponsors of this Motion for proposing the formation of this Ad hoc Committee to look into the issue of maize. Because of the limited time given to us, I want to urge the proposed Committee to critically look into the system of production and the support that is given to these farmers. Every year we see a huge budget allocated to agriculture in terms of fertilizers and seeds. We would want to know how this system is done. Who are given the seeds and fertilizers and at what time are they given? It is sad that the small-scale farmers are denied all these opportunities even after the Government has allocated a lot of money to agriculture. It is sad that these farmers are producing food for this country, but cartels get the opportunity to import the same food, take it to NCPB and are paid before ordinary farmers from the productive areas. The proposed ad hoc Committee should also look into the payment system. How are these farmers supposed to be paid? Who is supposed to pay them and at what time? This will ensure that culprits are brought to book. There is no need for the Government to allocate money and it goes to the pockets of cartels, instead of the genuine maize farmers. The ad Hoc Committee should also engage the Ministry of Agriculture, Livestock and Fisheries with regard to why we import maize from outside the country, when we already have farmers who are producing it. We need to ask ourselves where the rain started beating us. Why is pain written all over the faces of genuine farmers in this country? Livestock farmers are complaining. When you talk of the coffee farmers---"
     },
     {
-      "order": 200,
+      "order": 202,
       "id": "entry-821349",
       "label": "speech",
       "level": "3",
@@ -2403,7 +2427,7 @@
       "text": "I will give the last three minutes to Sen. (Eng.) Hargura, Senator for Marsabit County."
     },
     {
-      "order": 201,
+      "order": 203,
       "id": "entry-821350",
       "label": "speech",
       "level": "3",
@@ -2415,7 +2439,7 @@
       "text": "Thank you, Madam Temporary Speaker. I would like to thank the two Senators who came up with this Motion which requires the Senate to establish an ad hoc Committee to investigate the maize situation in the country. Article 43(1)(c) of our Constitution on economic and social rights says that:- \"Every person has the right to be free from hunger, and to have adequate food of acceptable quality.\" That right has to be provided for by the Government. My expectation was that it is the Government to facilitate those who are in unfavourable climates to produce food. This is because, if a country cannot produce its own food to feed its people, it cannot claim to be sovereign from others. That is why we have the issue of the Strategic Grain Reserve (SGR). It is like we have the idea. We expect that the farmers need to be facilitated in terms of production and marketing. They should have ready markets. Madam Temporary Speaker, other countries actually subsidise production. They cushion their farmers against anything like overproduction or shortage. However, in our country, we are seeing a situation where the same Government is competing with its own farmers. Individuals are given licences to import duty free which, obviously, will be cheaper than what we are producing, especially when we are not assisted in the production. I urge the Committee to make sure that the issues that have been raised such as farmers not being paid, the issue of duty free maize, et cetera, are addressed. What needs to be done? Do we need the centralised NCPB? Agriculture being a devolved function and hence food production being devolved, it can be done easily at the county level."
     },
     {
-      "order": 202,
+      "order": 204,
       "id": "entry-821351",
       "label": "speech",
       "level": "3",
@@ -2427,7 +2451,7 @@
       "text": "Thank you, Senator. Hon. Senators, we have exhausted the time for contributions. However, the Mover will have a right to donate time to the remaining person on the screen, who is Sen. Orengo. So, may I call upon the co-sponsor of the Motion, Sen. Wetangula, to reply?"
     },
     {
-      "order": 203,
+      "order": 205,
       "id": "entry-821352",
       "label": "speech",
       "level": "3",
@@ -2439,7 +2463,7 @@
       "text": "Thank you, Madam Temporary Speaker. Before I respond, I have seen on the screen; the distinguished Senator for Siaya County is queuing to speak. I will donate to him five minutes or slightly above five minutes if he wishes, so that he can also contribute on the Motion. I know his county is also a maize growing area. Farmers there are also suffering just like farmers elsewhere."
     },
     {
-      "order": 204,
+      "order": 206,
       "id": "entry-821353",
       "label": "speech",
       "level": "3",
@@ -2451,7 +2475,7 @@
       "text": "Thank you. Proceed, Sen. Orengo."
     },
     {
-      "order": 205,
+      "order": 207,
       "id": "entry-821354",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2487,7 @@
       "text": "Madam Temporary Speaker, I wish to thank the Senator for Bungoma for donating five or so minutes of his time, so that I can say something about this. I fully support this Motion that is co-sponsored by Sen. (Prof.) Kamar together with the hon. Senator for Bungoma County. I just want to say two things. First, the issue of maize has been with us for a very long time. In fact, the formation of this ad hoc Parliamentary Committee is not the first one. During the first Government under the late President Jomo Kenyatta, there was a serious maize scandal in which many people ended up being prosecuted. A commission of inquiry was established. The late Minister Hon. Paul Ngei was sacked from the Cabinet. So, it is not something which is new. In subsequent years, other Parliaments have dealt with this issue. Madam Temporary Speaker, one thing that is important to bring out is that the western part of Kenya, particularly Bungoma, Kakamega, Trans Nzoia and parts of Uasin Gishu which can be considered as grain centres of the country seem to be suffering over these years. These, together with the problems which are facing the sugar sector in those parts of the country which includes Bungoma County, may need one to conclude that there is maybe a policy somewhere to try and ensure that this industries in the food sector which are very important - both sugar and maize - for purposes of meeting the food requirements of the country and in the economic life and activity in those areas. So, it is not just about maize, food farmers and livelihoods in the western parts of the country and those counties that I have mentioned. So, one fails to understand why over these years, this problem keeps recurring. I hope the Committee will come up with an overview as to why this is a perennial problem and come up with lasting solutions. For one thing, some of these problems are political. If you see the way these waivers are given over the years, especially for importation of sugar and maize, the people who normally get these licenses for importation, one can see clearly that in the last 10 years, there has been a policy to give it to millers both in the sugar and maize sector. However, if you do an analysis of those who actually get the large share of these waivers to import, they are people who are politically correct, so to speak. That needs to be looked at. Finally, if, as a country, we cannot have stability in food production and be food secure - being a third world nation and knowing the vagaries of the weather and the change in climate as has been pointed out in the Motion - we are not going in the right direction. I hope that when the Committee retires to write its report, it will not just be any one of these reports that have been written over the years. I think that they have an onerous duty because this is a problem that has occurred many times in the last 50 or so years. We need to look at the hand of the Government in this sector. How is it that in the coffee and tea sector, although there are problems there, they are not of the kind and magnitude that you find in the sugar and maize sector? One would want to think; are we better off with the Government getting out of this sector or farmers being given some kind of autonomy to organise themselves into Savings and Credit Co-operative Organizations (SACCOs) and import and sell, instead of giving it to the millers? This is because giving it to the millers who also mill the maize is like putting the whole food chain of importation, milling and marketing in the same hands. It is a serious thing that the food chain from milling to distribution and marketing remains in the same hands. Those who actually labour to produce the maize are left in circumstances where they cannot continue to have the confidence of growing maize and ensuring that the nation is fed. With those few remarks, I support and thank the Hon. Senator for Bungoma County."
     },
     {
-      "order": 206,
+      "order": 208,
       "id": "entry-821357",
       "label": "speech",
       "level": "3",
@@ -2475,7 +2499,7 @@
       "text": "Madam Temporary Speaker, I similarly donate two minutes for the distinguished Senator for West Pokot County before I reply."
     },
     {
-      "order": 207,
+      "order": 209,
       "id": "entry-821358",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2511,7 @@
       "text": "Madam Temporary Speaker, West Pokot is a producer of maize and the suffering that has been spoken about is really felt there. I hope that the ad hoc Committee will do a good job to get to the bottom of the issues. I know they may not address the issue of corruption but that is basically where the crux of the matter lies. It is the elephant in the room. In this country, for every situation, there is somebody who wants to benefit and farmers are the ones who suffer. Why do people hurt their own people? Why would you want to make money at the expense of thousands of people who voted for you, support you and keep you where you are? If we get to the bottom of that and answer some of the questions that I know they will be asking, I am hopeful that we will get a solution. The issue of Government subsidized fertiliser is another one. If you talk of subsidy, let there be sufficient quantities and it should not just be a favour to a few. Some farmers have to queue while others have to bribe to get services. Maize has to be protected in this country because it is our staple food. We should not allow maize to be imported. Importing maize from other countries and storing it as if it is from our country is in itself corruption. Ugandan maize is different from Kenyan maize because of the way they grow it and the seeds that they use. It happens because somebody wants to make a lot of money. I thank Sen. Wetangula for allowing me the two minutes. I support."
     },
     {
-      "order": 208,
+      "order": 210,
       "id": "entry-821359",
       "label": "speech",
       "level": "3",
@@ -2499,7 +2523,7 @@
       "text": "Sen. Wetangula, you have six minutes only."
     },
     {
-      "order": 209,
+      "order": 211,
       "id": "entry-821360",
       "label": "speech",
       "level": "3",
@@ -2511,7 +2535,7 @@
       "text": "Madam Temporary Speaker, first, I thank you personally for joining up with me to co-sponsor this Motion. In fact, it was your idea that we brought the Motion to this House which has received acclaim without any single dissent. It means that Senators in this august House are fully aware and conscious of the plight of the Kenyan farmer, particularly the maize farmer. The confidence that this House enjoys will require that the nine Members of this Committee will have to burn the midnight oil. We urge the Speaker and the Clerk to give the Committee competent clerks and researchers who can look at policy papers in terms of; how to manage subsidies in the sector; marketing the produce in the sector; how to finance the farmer and above all the plight of the farmer. Farmers have, in the quest to feed this nation, ended up paying a heavy price. They are auctioned not because they have recklessly spent money borrowed but because they have borrowed money to grow the crop and deliver to the cereals boards and not paid. These are farmers who are unable to take their children to school and lead a barely average life simply because they are not able to get just returns on their produce. It begs a serious question. In this country, 75 per cent of the workforce of Kenya is in the agricultural sector. If you want to create and sustain jobs and improve livelihoods, how can you ignore a sector that employs 75 per cent of your workforce? These are the serious questions that we have to ask ourselves. Above all, the distinguished Senator for West Pokot has raised an important point. Why would we want to allow maize from our neighbour - which is not even allowed in the East African protocol - to come and fill up our granaries when the manner in which they grow, harvest and even the post-harvest handling is not the same as ours? When you go Kitale, Eldoret or Bungoma, maize is flowing in from neighbouring countries. When you go to the Coast region or to the Loitokitok area, maize is flowing in from the neighbouring countries. This kind of convoluted corrupt practice must be brought to an end. Madam Temporary Speaker, as a Committee, we are going to carry the heavy expectations of our colleagues in this House and the people we represent. This is because out there, people want to see results and solutions. We must come up with recommendations - including but not limited to a possible legislation - to streamline subsidy management, the workings of the National Cereals and Produce Board (NCPB) and the Agriculture Finance Corporation (AFC), which are public entities enjoying public funds. The AFC was meant to give money to farmers for farming, yet we know that briefcase traders go there and take loans to hawk maize around! They are the ones bringing maize from our neighbours; they are the ones pretending to be delivering maize grown on 800 acres in my county, which does not exist! Madam Temporary Speaker, I hope that, as a Committee, we are going to breathe new life in the farmer. I stopped in your County of Eldoret and talked to an old man called Mr. Siele, who is a farmer in Cheplaskei. I sat with him to have a cup of tea in Eldoret and I saw tears welling in his eyes. He asked me: \"What can I do? I have been a farmer all my life; I borrowed money I cannot pay and I am now being foreclosed. It is not because I am lazy, reckless or that I mis-spent the money. I have sunk the money in the soil, I have produced food and delivered it for Kenyans yet nobody is paying me.\" That is the story of the Kenyan farmer. Madam Temporary Speaker, I want us to take this very seriously because if we can streamline the maize and the sugar sector--- As Sen. Orengo says, the tea and the dairy sectors are relatively stable, but they also need to be streamlined. This country is wealthy and can improve the lives of its people, if we really care. Finally, Madam Temporary Speaker, whenever there is a subsidy, is it an issue of the Cabinet Secretary for National Treasury just issuing gazette notices for every Tom, Dick and Harry to bring maize? In fact, I am told that whenever those gazette notices are issued, maize ships are already docked in Mombasa; they all mange this very well. If there is a shortage of maize, the institution that should be concerned about it is the NCPB, because they are the ones who manage our strategic grain reserves. They are, therefore, the ones who should tell the Government that our strategic grain reserves have gone low. The national Treasury should give us money to import maize. Should they make any profit; and they should not, because they should be given a duty-free status because it is going to feed the people of this country. We must also look at this issue. Madam Temporary Speaker, I congratulate all the Members for the positive comments they have made and the full support they have given to the Motion. I assure the House, on your behalf and on my behalf, as the sponsors of the Motion, that we shall live to the billing we have come to seek in the House. I beg to Move."
     },
     {
-      "order": 210,
+      "order": 212,
       "id": "entry-821363",
       "label": "speech",
       "level": "3",
@@ -2523,7 +2547,7 @@
       "text": "First, I would like to confirm that this Motion does not affect counties. Therefore, you can vote by acclamation."
     },
     {
-      "order": 211,
+      "order": 213,
       "id": "entry-821365",
       "label": "scene",
       "level": "3",
@@ -2535,7 +2559,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 212,
+      "order": 214,
       "id": "entry-821366",
       "label": "speech",
       "level": "3",
@@ -2547,7 +2571,7 @@
       "text": "Next Order! Hon. Senators, after consultations, we have deferred the following orders."
     },
     {
-      "order": 213,
+      "order": 215,
       "id": "entry-821368",
       "label": "heading",
       "level": "1",
@@ -2559,7 +2583,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 214,
+      "order": 216,
       "id": "entry-821369",
       "label": "heading",
       "level": "3",
@@ -2571,7 +2595,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO.13 OF 2018)"
     },
     {
-      "order": 215,
+      "order": 217,
       "id": "entry-821369-inserted-4c716f76-445b-4397-ac8b-90da0acce312",
       "label": "heading",
       "level": "1",
@@ -2583,7 +2607,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 216,
+      "order": 218,
       "id": "entry-821370-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "1",
@@ -2595,7 +2619,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 217,
+      "order": 219,
       "id": "entry-821370-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -2607,7 +2631,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 218,
+      "order": 220,
       "id": "entry-821371",
       "label": "heading",
       "level": "3",
@@ -2619,7 +2643,7 @@
       "text": "THE OFFICE OF THE COUNTY ATTORNEY BILL (SENATE BILLS NO.3 OF 2018)"
     },
     {
-      "order": 219,
+      "order": 221,
       "id": "entry-821372-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2631,7 +2655,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 220,
+      "order": 222,
       "id": "entry-821372-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -2643,7 +2667,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 221,
+      "order": 223,
       "id": "entry-821373",
       "label": "heading",
       "level": "3",
@@ -2655,7 +2679,7 @@
       "text": "THE FOOD SECURITY BILL (SENATE BILLS NO.12 OF 2017)"
     },
     {
-      "order": 222,
+      "order": 224,
       "id": "entry-821374-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2667,7 +2691,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 223,
+      "order": 225,
       "id": "entry-821374-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -2679,7 +2703,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 224,
+      "order": 226,
       "id": "entry-821375",
       "label": "heading",
       "level": "3",
@@ -2691,7 +2715,7 @@
       "text": "THE OFFICE OF THE COUNTY PRINTER BILL (SENATE BILLS NO.7 OF 2018)"
     },
     {
-      "order": 225,
+      "order": 227,
       "id": "entry-821376-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2703,7 +2727,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 226,
+      "order": 228,
       "id": "entry-821376-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -2715,7 +2739,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 227,
+      "order": 229,
       "id": "entry-821377",
       "label": "heading",
       "level": "3",
@@ -2727,7 +2751,7 @@
       "text": "THE ENERGY BILL (NATIONAL ASSEMBLY BILLS NO.50 OF 2017)"
     },
     {
-      "order": 228,
+      "order": 230,
       "id": "entry-821378-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2739,7 +2763,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 229,
+      "order": 231,
       "id": "entry-821378-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -2751,7 +2775,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 230,
+      "order": 232,
       "id": "entry-821379-split-selected-938ba85a-3415-44f3-b98b-cce52f12db50",
       "label": "heading",
       "level": "3",
@@ -2763,7 +2787,7 @@
       "text": "THE IMPEACHMENT PROCEDURE BILL"
     },
     {
-      "order": 231,
+      "order": 233,
       "id": "entry-821379-split-after-8d91342e-ae50-4878-9f69-f936e5c8b14a",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2799,7 @@
       "text": "(SENATE BILLS NO.15 OF 2018)"
     },
     {
-      "order": 232,
+      "order": 234,
       "id": "entry-821381",
       "label": "scene",
       "level": "3",
@@ -2787,7 +2811,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 233,
+      "order": 235,
       "id": "entry-821382",
       "label": "heading",
       "level": "1",
@@ -2799,7 +2823,7 @@
       "text": "MOTION"
     },
     {
-      "order": 234,
+      "order": 236,
       "id": "entry-821383",
       "label": "heading",
       "level": "3",
@@ -2811,7 +2835,7 @@
       "text": "EXTENSION OF TIME FOR THE COMMITTEE REVIEWING POLICY AND LEGISLATIVE FRAMEWORK ON THE FIGHT AGAINST CORRUPTION"
     },
     {
-      "order": 235,
+      "order": 237,
       "id": "entry-821384",
       "label": "speech",
       "level": "3",
@@ -2823,7 +2847,7 @@
       "text": "Sen. Cherargei:"
     },
     {
-      "order": 236,
+      "order": 238,
       "id": "entry-821385",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2859,7 @@
       "text": "Madam Temporary Speaker, I beg to move the following Motion:- THAT, AWARE that the Senate passed a Motion on \"Review of Policy and Legislative Framework on the Fight against Corruption\" by Sen. (Dr.) Isaac Mwaura on 31st May, 2018 and referred it to the Senate Standing Committee on Justice, Legal Affairs and Human Rights for consideration; APPRECIATING, that the duration accorded to the Committee to consider the Motion lapsed on 31st July, 2018; REGRETTING, that due to the heavy workload and sheer magnitude of the assignment, the Committee is yet to conclude its deliberations and table its report in the House and requires more time to conduct a further and thorough inquiry into matter; NOW THEREFORE, the Senate resolves to extend the duration by a further period of thirty (30) days to enable it conclude its work and table its report in the House. Madam Temporary Speaker, as you know, corruption is a serious issue in this country because it has eaten to every fabric in our society until it is now a national concern. I have seen breaking news that the former governor of this county, Gov. Evans Kidero, has been arrested on allegations of corruption. The Director of Public Prosecutions (DPP), Mr. Noordin Haji, is working overdrive. Nine more people will be arrested and they will enjoy their weekend behind bars. That is the zeal that we would want see on how corruption is being fought. The reason we need to extend the time is to ensure that we do the task thoroughly, with military precision and be meticulous, so that by the time we bring any legislative and policy changes, we do it spot on. This will enable us to give the necessary powers to the people who are fighting corruption, so that we do not use excitement to prosecute corruption. Madam Temporary Speaker, I want to call upon the Senators that when it comes to that time, they stand up to be counted. I know corruption will fight back. The spirit, commitment, religious zest and zeal that the Select Committee on the Solai Dam Tragedy has, is what we would want to see in every Senator. Sen. Olekina and Sen. Mutula Kilonzo Jnr. were the gallant members of that Committee. Therefore, we expect all the Senators to have the same spirit to fight this corruption which is eating our society. Finally, even as we review the laws and policies that are in place to fight corruption, we must change the habits if a former governor or government official have been arrested. Also, I encourage Kenyans in churches and mosques do not to be excited or enticed with ill-gotten wealth. When you exit, do so with all the blessings and not being followed around by the EACC and the DPP."
     },
     {
-      "order": 237,
+      "order": 239,
       "id": "entry-821387",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2871,7 @@
       "text": "I call upon Sen. Mutula Kilonzo Jnr. to second."
     },
     {
-      "order": 238,
+      "order": 240,
       "id": "entry-821388",
       "label": "speech",
       "level": "3",
@@ -2859,7 +2883,7 @@
       "text": "Thank you, Madam Temporary Speaker. If anybody in this country had doubts that the fight against corruption is real, there is no doubt. Somebody today asked whether the Director of Public Prosecutions (DPP) and the Directorate of Criminal Investigation (DCI) have added another agenda to Agenda Four (b) which is corruption. The work we are doing is important. Let me just say what the Chairman has not said in a very quick statement: We have actually learnt a lot in the process of interrogating this matter. Even the amount of money we gave the Kenya Revenue Authority has got a direct impact on the war against corruption. We were not aware. Madam Temporary Speaker, in our work that we are doing, we have discovered that some of the loopholes that are there in the law and are not being considered should come to the Floor. I have even proposed legislative amendments. Secondly, the Committee that is interrogating corruption - the multi-stakeholder meeting chaired by the Attorney-General, Mr. Kihara Kariuki, in fact, has requested to see us next week. They requested for more time to come and visit the Committee and give us their input so that we can all synchronize what we are doing. Our time has lapsed. Madam Temporary Speaker, this is an important subject. Therefore, I would like to support this Motion. In 30 days, we are going to do what the Solai Dam Committee did. We will uncover the snakes and bring the truth here so that this corruption---. We can do a death's door. This is the time to slay the dragon. The dragon has grown big, but it appears as if there are men and women of this country who are ready to slay the dragon for real. I support."
     },
     {
-      "order": 239,
+      "order": 241,
       "id": "entry-821389",
       "label": "scene",
       "level": "3",
@@ -2871,7 +2895,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 240,
+      "order": 242,
       "id": "entry-821390",
       "label": "speech",
       "level": "3",
@@ -2883,7 +2907,7 @@
       "text": "Proceed, Sen. Poghisio."
     },
     {
-      "order": 241,
+      "order": 243,
       "id": "entry-821391",
       "label": "speech",
       "level": "3",
@@ -2895,7 +2919,7 @@
       "text": "Madam Temporary Speaker, while I support extension of time for the significance of this particular Committee event, I also wish to propose that it is a very straight forward matter that does not require much debate. You may just ask the Mover to reply and we have the question put so that we do not have to deal with it. It is very important that this Committee completes its job. Thank you."
     },
     {
-      "order": 242,
+      "order": 244,
       "id": "entry-821392",
       "label": "speech",
       "level": "3",
@@ -2907,7 +2931,7 @@
       "text": "Thank you. Senators, I do not see any other request. So, may I request the Mover to reply."
     },
     {
-      "order": 243,
+      "order": 245,
       "id": "entry-821393",
       "label": "speech",
       "level": "3",
@@ -2919,7 +2943,7 @@
       "text": "Thank you, Madam Temporary Speaker. As Sen. Poghisio has said, this is a straightforward matter. Considering the weight of the fight against corruption, it is very crucial and important and also divine in this country. I thank the Senators and call upon them, that even if you are not part of the Committee, you can become a friend or come up with any ideas, opinions, views or amendments that you will need to propose. As a Committee, we will work overdrive to ensure all is captured and put into perspective. We will ensure we do a thorough job such that when we come back to the Senate with a report, the House will be in a position to take a very significant step in the fight against corruption in this country. I thank the Senators and everybody else who has had the opportunity to contribute. I beg to reply."
     },
     {
-      "order": 244,
+      "order": 246,
       "id": "entry-821396",
       "label": "speech",
       "level": "3",
@@ -2931,7 +2955,7 @@
       "text": "Thank you, Senator. This Motion does not affect counties; we will, therefore, vote by acclamation."
     },
     {
-      "order": 245,
+      "order": 247,
       "id": "entry-821397",
       "label": "scene",
       "level": "3",
@@ -2943,7 +2967,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 246,
+      "order": 248,
       "id": "entry-821398-speaker-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -2955,7 +2979,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 247,
+      "order": 249,
       "id": "entry-821398",
       "label": "speech",
       "level": "1",

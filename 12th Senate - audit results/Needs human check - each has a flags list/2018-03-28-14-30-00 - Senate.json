@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-03-28-14-30-00",
-  "exported_at": "2026-10-05T08:30:56.670Z",
+  "exported_at": "2026-10-08T20:56:05.127Z",
   "entries": [
     {
       "order": 1,
@@ -2260,7 +2260,7 @@
     },
     {
       "order": 189,
-      "id": "entry-786350",
+      "id": "entry-786350-split-selected-ae140415-23f0-43b7-b82a-03ae4133709f",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -2268,10 +2268,94 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "REGISTRATION AND PROVISION OF FACILITIES IN PRIMARY AND SECONDARY SCHOOLS DISAPPEARANCE OF PATIENT LEMELOI SHONKO FROM COPTIC HOSPITAL RAID BY ARMED BANDITS IN SUYIAN AREA, SAMBURU NORTH CONSTITUENCY DELAYS IN PROCESSING OF BIRTH CERTIFICATES ONGOING RECRUITMENT EXERCISE BY KDF VIOLENCE IN JAMHURI HIGH SCHOOL, NAIROBI SHOOTING OF RESIDENTS IN LUANDA MARKET, VIHIGA COUNTY COMPENSATION FOR PERSONS AFFECTED BY KETRACO HIGH VOLTAGE POWER LINE PROJECT"
+      "text": "REGISTRATION AND PROVISION OF FACILITIES IN PRIMARY AND SECONDARY SCHOOLS"
     },
     {
       "order": 190,
+      "id": "entry-786350-split-after-770105de-14a3-4f4e-adee-1ba013c1cd2d-split-selected-fc606821-f7c3-4c68-a9e4-3ea505c41e1b",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "DISAPPEARANCE OF PATIENT LEMELOI SHONKO FROM COPTIC HOSPITAL"
+    },
+    {
+      "order": 191,
+      "id": "entry-786350-split-after-770105de-14a3-4f4e-adee-1ba013c1cd2d-split-after-611356e4-cfd1-4348-bd04-0bbbcb286917-split-selected-fd3e6719-0847-4957-9659-bc407da7a088",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "RAID BY ARMED BANDITS IN SUYIAN AREA, SAMBURU NORTH CONSTITUENCY"
+    },
+    {
+      "order": 192,
+      "id": "entry-786350-split-after-770105de-14a3-4f4e-adee-1ba013c1cd2d-split-after-611356e4-cfd1-4348-bd04-0bbbcb286917-split-after-f3a1d491-5298-49ce-a895-cc2d99288629-split-selected-3568efbf-7a32-468b-8761-9474815ba9e5",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "DELAYS IN PROCESSING OF BIRTH CERTIFICATES"
+    },
+    {
+      "order": 193,
+      "id": "entry-786350-split-after-770105de-14a3-4f4e-adee-1ba013c1cd2d-split-after-611356e4-cfd1-4348-bd04-0bbbcb286917-split-after-f3a1d491-5298-49ce-a895-cc2d99288629-split-after-4709a0de-7df5-40af-8841-d135af145684-split-selected-946e60a9-4d1f-476b-a60d-41c2e58a7d1d",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "ONGOING RECRUITMENT EXERCISE BY KDF"
+    },
+    {
+      "order": 194,
+      "id": "entry-786350-split-after-770105de-14a3-4f4e-adee-1ba013c1cd2d-split-after-611356e4-cfd1-4348-bd04-0bbbcb286917-split-after-f3a1d491-5298-49ce-a895-cc2d99288629-split-after-4709a0de-7df5-40af-8841-d135af145684-split-after-510cea17-ae12-4f02-92c2-fc12dd81b8e0-split-selected-8618db4e-1a91-4d87-84c4-fa7440fd621f",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "VIOLENCE IN JAMHURI HIGH SCHOOL, NAIROBI"
+    },
+    {
+      "order": 195,
+      "id": "entry-786350-split-after-770105de-14a3-4f4e-adee-1ba013c1cd2d-split-after-611356e4-cfd1-4348-bd04-0bbbcb286917-split-after-f3a1d491-5298-49ce-a895-cc2d99288629-split-after-4709a0de-7df5-40af-8841-d135af145684-split-after-510cea17-ae12-4f02-92c2-fc12dd81b8e0-split-after-526aacf6-7bb2-4448-913b-128b6b458732-split-selected-ba528fa0-01c1-4dcb-9eba-fd5322f50474",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "SHOOTING OF RESIDENTS IN LUANDA MARKET, VIHIGA COUNTY"
+    },
+    {
+      "order": 196,
+      "id": "entry-786350-split-after-770105de-14a3-4f4e-adee-1ba013c1cd2d-split-after-611356e4-cfd1-4348-bd04-0bbbcb286917-split-after-f3a1d491-5298-49ce-a895-cc2d99288629-split-after-4709a0de-7df5-40af-8841-d135af145684-split-after-510cea17-ae12-4f02-92c2-fc12dd81b8e0-split-after-526aacf6-7bb2-4448-913b-128b6b458732-split-after-3b6fe6d6-91bd-4d15-a758-bbcf2a677553",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "COMPENSATION FOR PERSONS AFFECTED BY KETRACO HIGH VOLTAGE POWER LINE PROJECT"
+    },
+    {
+      "order": 197,
       "id": "entry-786351",
       "label": "scene",
       "level": "2",
@@ -2283,7 +2367,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 191,
+      "order": 198,
       "id": "entry-786352",
       "label": "heading",
       "level": "1",
@@ -2295,7 +2379,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 192,
+      "order": 199,
       "id": "entry-786354-split-selected-e9df7a0d-2460-4c4d-9d8a-a9fd70efe68b",
       "label": "heading",
       "level": "3",
@@ -2307,7 +2391,7 @@
       "text": "THE ASSUMPTION OF OFFICE OF THE COUNTY GOVERNOR BILL (SENATE BILLS NO. 1 OF 2018)"
     },
     {
-      "order": 193,
+      "order": 200,
       "id": "entry-786354-split-after-89639272-7c11-46c1-b856-715901da2811",
       "label": "speech",
       "level": "3",
@@ -2319,7 +2403,7 @@
       "text": "( Sen. Wamatangi on 8.03.2017 )"
     },
     {
-      "order": 194,
+      "order": 201,
       "id": "entry-786355",
       "label": "scene",
       "level": "3",
@@ -2331,7 +2415,7 @@
       "text": "(Resumption of Debate interrupted on 13.03.2018)"
     },
     {
-      "order": 195,
+      "order": 202,
       "id": "entry-786356",
       "label": "speech",
       "level": "3",
@@ -2343,7 +2427,7 @@
       "text": "With regard to that Order, I do not see Sen. Wamatangi who was supposed to reply. So, we defer it."
     },
     {
-      "order": 196,
+      "order": 203,
       "id": "entry-786357-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2355,7 +2439,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 197,
+      "order": 204,
       "id": "entry-786357-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -2367,7 +2451,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 198,
+      "order": 205,
       "id": "entry-786358",
       "label": "heading",
       "level": "3",
@@ -2379,7 +2463,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO.11 OF 2017)"
     },
     {
-      "order": 199,
+      "order": 206,
       "id": "entry-786359",
       "label": "scene",
       "level": "3",
@@ -2391,7 +2475,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 200,
+      "order": 207,
       "id": "entry-786361",
       "label": "heading",
       "level": "1",
@@ -2403,7 +2487,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 201,
+      "order": 208,
       "id": "entry-786362-split-selected-f377493a-5cad-408e-a303-9914eae88c1f",
       "label": "heading",
       "level": "3",
@@ -2415,7 +2499,7 @@
       "text": "ADOPTION OF REPORT OF THE WOMEN POLITICAL LEADERS ANNUAL GLOBAL SUMMIT"
     },
     {
-      "order": 202,
+      "order": 209,
       "id": "entry-786362-split-after-15b3adbd-4ce5-4d12-acc1-1a85a65e9e64",
       "label": "speech",
       "level": "3",
@@ -2427,7 +2511,7 @@
       "text": "THAT, this House adopts the Report of the Senate Delegation to the Women Political Leaders Annual Global Summit held in Reyjavik, Iceland from 28th -30th November, 2017, laid on the Table of the House on Wednesday, 14th February, 2018"
     },
     {
-      "order": 203,
+      "order": 210,
       "id": "entry-786363",
       "label": "scene",
       "level": "3",
@@ -2439,7 +2523,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 204,
+      "order": 211,
       "id": "entry-786364",
       "label": "speech",
       "level": "3",
@@ -2451,7 +2535,7 @@
       "text": "We will move to Order No. 12. Depending on the progress, the Chair will make determination on whether or not we are able to transact Order No. 13, 14 and 15 at an appropriate time. Next Order!"
     },
     {
-      "order": 205,
+      "order": 212,
       "id": "entry-786365",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2547,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I appreciate this chance to move this Motion. It is something I consider so passionate and important to me. Being in this House, this is a desire that I have had far too long---"
     },
     {
-      "order": 206,
+      "order": 213,
       "id": "entry-786366",
       "label": "speech",
       "level": "3",
@@ -2475,7 +2559,7 @@
       "text": "Order, Senator. You know you have served in this Senate for one and a half terms. This is one term and the last one, half. You start by moving the Motion. After that, you say all the other stories and things."
     },
     {
-      "order": 207,
+      "order": 214,
       "id": "entry-786367-split-before-80930a5a-26a8-467d-937c-5dbefcbae8a3",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2571,7 @@
       "text": "Mr. Deputy Speaker, Sir, I knew I would not escape your wrath. I apologise. Let me do the right thing."
     },
     {
-      "order": 208,
+      "order": 215,
       "id": "entry-786367-split-selected-399813c3-554e-4cec-8f51-57e61c53f36b",
       "label": "heading",
       "level": "3",
@@ -2499,7 +2583,7 @@
       "text": "ESTABLISHMENT OF AN AD-HOC COMMITTEE TO INQUIRE INTO THE CHALLENGES FACING  THE TEA SECTOR IN KENYA"
     },
     {
-      "order": 209,
+      "order": 216,
       "id": "entry-786367-split-after-790e7e2b-6e25-42f5-815c-d7f50a4fab07",
       "label": "speech",
       "level": "3",
@@ -2511,7 +2595,7 @@
       "text": "` Mr. Deputy Speaker, Sir, I beg to move the following Motion: THAT, AWARE that Kenya is the third leading producer of black tea in the world accounting for about 10 per cent of the total world tea production; COGNIZANT that tea contributes four per cent of Kenya's Gross Domestic Product (GDP) and 26 per cent of the country's export earnings; FURTHER AWARE THAT the tea industry in Kenya supports close to six hundred thousand small scale farmers and provides direct or indirect employment to over two million Kenyans; REALIZING that despite tea being Kenya's most important cash crop, the Kenyan tea farmers, who are mainly small scale farmers spread over fourteen counties, continue to receive a disproportionate return for the resources and time they put in tea production; FURTHER ACKNOWLEDGING that the sector continues to face numerous other challenges which require urgent intervention to ensure that this critical sector thrives for the benefit of our economy; CONCERNED that the current situation, if left unchecked, may lead to the collapse of this critical sector of Kenya's economy and great loss to the nation, investors and the Kenyan taxpayers; NOW, THEREFORE, the Senate resolves to establish a Select Committee to conduct an inquiry into the challenges facing the tea sector in Kenya and to submit a Report to the Senate within five months, with specific legislative and policy interventions to address the problems facing the tea sector in Kenya; AND FURTHER that the following Senators be appointed to the Select Committee:- 1. Sen. Irungu Kang'ata; 2. Sen. (Dr.) Christopher Lang'at; 3. Sen. Samson Cherargei; 4. Sen. Cleophas Malalah; 5. Sen. (Prof.) Sam Ongeri, EGH; 6. Sen. Njeru Ndwiga, EGH; 7. Sen. George Khaniri, MGH; 8. Sen. Aaron Cheruiyot; and, 9. Sen. Mercy Chebeni."
     },
     {
-      "order": 210,
+      "order": 217,
       "id": "entry-786370",
       "label": "scene",
       "level": "3",
@@ -2523,7 +2607,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) Left the Chair] [The Temporary Speaker (Sen. (Prof.) Kamar in the Chair]"
     },
     {
-      "order": 211,
+      "order": 218,
       "id": "entry-786371",
       "label": "speech",
       "level": "3",
@@ -2535,7 +2619,7 @@
       "text": "Madam Temporary Speaker, I had earlier on made my observation that if we are not careful, tea will then be the next pyrethrum in this country. We all remember that at one particular time, pyrethrum farmers were among the most celebrated agricultural practitioners in this country. Thanks to the mismanagement of the sector and people not speaking out at the right time, that sector collapsed and there are very few farmers. I cannot even recall a county that practices pyrethrum farming as their main stay. Tea farming has faced the same challenges. Watching the trend in the last 10 years, if we are not careful and if we do not speak up, we are soon going to have a near or total collapse of this extremely important and critical sector, which is the main stay of our economy. Madam Temporary Speaker, many are the times we attend seminars in hotels with very good headlines and themes. When you listen to the statistics that are given out by the Ministry of Agriculture Livestock and Fisheries and the Kenya Tea Development Association (KTDA); they tell you that tea is now, after tourism, the second leading foreign exchange earner in our country. They will also tell you that, last year, tea earned this country Ksh130 billion worth of Gross domestic product (GDP), which is four per cent of our nation's GDP. By any ordinary standards, these are rosy and extremely good statistics. Unfortunately, the same does not translate into earnings in the pockets of farmers. Most of these farmers wake up very early, leave everything behind and, on a daily basis, from Monday to Saturday; from very cold mornings up to late in the afternoon, they work and\n\ntoil in their tea farms. However, at the end of the year, when these beautiful statistics are being read out, these farmers do not feature anywhere. Madam Temporary Speaker, when you are given these statistics, one of the things they will not tell you is how much has ended up in the pockets of the tea farmers. It is a known fact that at the end of the day at 5.00 p.m., when the ships are about to dock off, a kilogramme of tea fetches Ksh300. Out of that amount, what end ups in the pocket of the farmer is hardly Ksh60 or Ksh70 per kilogramme at most. What a disproportionate earning distribution! The fact that the person who tills the land, takes care of the plant, plucks the tea and delivers it to the factory gets only 10, 20 or 30 per cent of the earnings at most is appalling. The bulk of the money ends up in between the chain. Madam Temporary Speaker, I know that there have been questions as to why a Motion to create an ad-hoc Committee is being brought at this time. That is why I have taken time to look into parliamentary work that has been done with regards to tea legislation from way back in the Ninth Parliament, when there was some intervention in 2008. I realised that just before that Bill - that had been worked on by a Member of Parliament (MP) - was tabled, the same cartels that we are trying to chase out of this industry organised and ensured that the Ministry of Agriculture, Livestock and Fisheries tabled a Government Bill. You will remember that under that dispensation back then, it was not possible for an individual or a private Member to sponsor another Bill if the government was already working on a Bill on a particular sector. There died the dream of that good gallant MP, who wanted to bring good legislation. Madam Temporary Speaker, I also looked at the works of this Senate. I remember that one afternoon during the last Parliament when the former Deputy Speaker and then Senator for Muranga, Hon. Kembi Gitura, moved and placed before this House a very generous report of investigations that had been done. It contained good statistics like the ones that have been placed before us here. Unfortunately, year after the other, earnings from tea do not reach the rightful owners. Therefore, I have sat down, spoken to each and every Member of the Senate who comes from tea growing counties and requested them to allow us to look into this issue. With utmost and tremendous respect, I want to thank Members of the Committee on Agriculture, Livestock and Fisheries. They also had their own concerns and they told me, 'Senator, this happens to fall within our mandate'. I have spoken to them individually and shared with them very interesting challenges that they will run into, that I feel the only way this can be addressed is if we went the way of forming an ad-hoc Committee. It is my sincere hope that they will allow us the leverage to, within five months, come back before this House and produce legislation and interventions that will reverse this extremely bad trend. Madam Temporary Speaker, I remember vividly that back in the day in the County I represent in this House - and our neighbors know this too -the French multi- national company, Peugeot, used to have a show room where they would sell brand new vehicles. Every December when farmers were paid their tea dividends, they would walk into that showroom and drive out with brand new vehicles. However today, you cannot find a tea farmer who can afford such luxury. It is unfortunate that we have allowed it to\n\nget to this level. It is my sincere hope that we shall reverse this and place tea farmers where they belong. Madam Temporary Speaker, our work is cut out for us. There are many things that we will listen to. It is my sincere hope that, together with other Senators whose names we have put forth to serve in this Committee, we shall call these people and get their views on, for example, the KTDA. We have so many questions to ask them. When we test their popularity or otherwise with tea farmers, the answers vary because there are those who feel that you are interfering with something that is already working. This is, however, for fear of a total collapse. Up to when shall we fear and say that if we touch this institution, tea farmers are going to suffer? Are we not subjecting ourselves to misery and hopelessness? Why do we look at ourselves, as leaders with such a low esteem, and feel that we cannot propose good solutions for this industry? Madam Temporary Speaker, it will be interesting for you to know that tea is among the most taxed commodities in this country. You will remember that, last week, we were given a response from the Ministry of Agriculture, Livestock and Fisheries. We were told that 32 to 38 tax units go directly to tea farmers, which is really unfortunate. We shall, therefore, request to have audience with the Ministry of Agriculture, Livestock and Fisheries and hear them out on whether we can negotiate and reduce some of these taxes so that we can send more money to farmers. That way, they can begin to enjoy the fruits they have been laboring for all these years. Madam Temporary Speaker, it is a known fact that if we are not careful - Sen. (Prof.) Ongeri and many other Senators who come from tea growing counties know this - very few people will be planting new crops of tea. In fact, many are the people who are stuck with tea bushes they do not know what to do with. They just retain these crops because they do not have an alternative. However, it is extremely difficult to find a new farmer saying, 'I want to become an investor in the tea sector' because of all these challenges. Multinationals have not been left out as I speak about this. The history is well known and clear that in counties like Kisii, Kericho and Nandi, many of these multinationals are occupying land that they never paid for. Many of these firms are owned by companies that come from our former colonial masters. To date, there is no compensation that goes to the evictees and the people that were pushed away from those firms, so that these multinationals can be set up. Occasionally, I get invites in my office, the office of the Senator of Kericho County, to the effect that Unilever or George Williamson are opening a classroom in X,Y,Z primary school. Out of the billions that they make and the free land, the only thing they can think about is to set up a small classroom here and there. We must begin to ask ourselves what is it that we can do, as leaders, so that we can speak for our people and get value for money. That is our land. These multinationals did not come with any land from their countries; they found it here. You will be shocked by the taxes they pay to our county governments. The other day the County Government of Kericho was acquiring a parcel of land from Unilever and they were charged Kshs10 million per acre, yet the land rates that they pay is shocking. It is only Kshs96 per acre, per year. However, when you tell them that\n\nyou want to make good use of this land, they will charge you exorbitantly. In fact, I am happy that now we are about to consider the Own-source Revenue Bill, where we will do fresh valuation of this land and so that these multinationals can pay taxes that are commensurate to the value of land that they occupy. It is my sincere hope that this Committee shall be granted the opportunity. We shall work and come back to this House with a proper report that will ensure that, at the end of it, the tea farmer will smile one more time and people can continue to enjoy their cup of tea knowing that the main people who have toiled for it are getting value for their money. Madam Temporary Speaker, with those very many remarks, I beg to move and call upon Sen. (Prof.) Ongeri to second."
     },
     {
-      "order": 212,
+      "order": 219,
       "id": "entry-786378",
       "label": "speech",
       "level": "3",
@@ -2547,7 +2631,7 @@
       "text": "Very well. Sen. (Prof.) Ongeri, you have the Floor. Sen."
     },
     {
-      "order": 213,
+      "order": 220,
       "id": "entry-786379",
       "label": "speech",
       "level": "3",
@@ -2559,7 +2643,7 @@
       "text": "Thank you, Madam Temporary Speaker. I stand to add my voice and second this Motion on the Establishment of an Ad Hoc Committee to look in to the affairs of tea industry. Such an important and crucial industry has languished in difficulties and frustrations because the returns that a farmer obtains from tea are paltry. Sen. Aaron Cheruiyot has already enumerated the enormous support that the tea industry contributes to our Gross Domestic Product (GDP). A contribution of 4 per cent of the GDP is not mean. If you look at it as a stand-alone element in the area of the agricultural produce, that contribution goes up to 26 per cent. If you look at the contribution of foreign exchange earnings from the tea industry alone, it goes up to 67 per cent of the earning of the hard foreign cash, which goes to sustain our Central Bank in terms of foreign exchange reserves. Who does that? It is the 600,000 small-scale farmers. What are the investments? It is only fair at this stage that I declare my interest that I am a tea farmer. Therefore, I should not be judged that I am being punitive because I am a tea farmer. What are the problems incurred by this small-scale farmer? The small-scale farmer has to till land but the fuel costs have gone up. After planting, it takes two or three years for you to start picking tea. There is also the question of fertilisers. You will also realise that the cost of fertilisers has gone up exponentially. Therefore, the farmer is at the mercy of those who produce fertilisers. Fortunately, a tea crop is not one of those crops that require applying agro-chemicals because it is pesticide free. Therefore, those who enjoy the end product enjoy the fragrance, beauty and aroma of the Kenyan tea. The farmer gets nothing in return. A farmer can pick tea for two or three years before he prunes to get another established crop. The cost of pruning has also gone up. It used to cost Kshs1 to prune a stem but the cost has gone up in some areas up to Kshs6, Kshs7 or Kshs8. Does a farmer get a corresponding price increase? The answer is no. So, the farmer remains stagnant and a very frustrated person. Recently they brought some subsidized fertilisers. Sometimes the fertilisers that come are of questionable quality because you apply fertiliser on tea crops and it just dampens the production. You do not get the kind of shootings that you would expect to get. The requirement is that you pick a leaf and a bud but multinational companies use machines that cut everything. Use of machines denies people employment opportunities. You will agree with me that small-scale farmers employ our young men and women who pick tea. There is also a rise in the amount of salaries. I am making this case because a farmer does not earn much. The Kenya Tea Development Agency (KTDA) manages 67 factories and they pay about Kshs15 to Kshs17 per a kilo of green tealeaves. Some multinationals pay between Kshs21 and Kshs27 for a kilo but they are fond of promising that \"there will be a bonus.\" We need to know how the bonus looks like. Let us look at what the bonus looks like. For example, if you come from Kiiru Factory, there is a sense of high quality tea. Farmers there are paid bonus of between Kshs32 to Kshs35 per kilogramme. Sen. Ndwiga will agree with me. However, for Kisii and Embu counties, the difference is very big. When the KTDA pays bonus, it is in the range of Kshs15 or Kshs20. Sometimes we are lucky to get Kshs35 or Kshs40 per kilogramme depending on which factory your tea was taken to and what kind of quality they maintained. Madam Temporary Speaker, when you add up the cost of production of green leaves and the daily payments per green leaf from the farmer, it is negative balance. The only thing that he looks forward to is the bonus that is paid in the month of September, October and November. As you have realized, when this bonus is around the corner, all elements who are anti-social flock around the farmers in order to deplete them of their earnings. They will, eventually, be left with nothing and go back to ground zero. This is a farmer who is contributing to the Gross Domestic Project (GDP) of this nation. This is a small-scale farmer who is creating employment opportunities for everybody. This is a small-scale farmer who is contributing towards the foreign currency reserve in this country. This is a farmer who is providing quality tea to the external market which they enjoy while saying, \"Kenyan tea is a good tea.\" This is a farmer who gets peanuts. There is a case for us to argue beyond just picking the green leaves. We must look at value addition; the blending and the packaging of this tea. As Sen. Cheruiyot said, this is a crop that fetches up to Kshs300 or Kshs400 when it is properly blended. This farmer is getting a paltry maximum Kshs27. So, the discrepancy is what we want to look at as ad hoc Select Committee and see how best a farmer can earn at least something sensible and credible to sustain him. This crop is sustaining livelihoods of many young farmers. Madam Temporary Speaker, I strongly root for this ad hoc Committee. If I had time I would have gone further to explain the level of frustrations famers get at the end of the month; like queuing at some of our KTDA factories. The KTDA has created a host of another 10 companies. However, the farmers have no clue whether those companies are making profit or not. He is not aware whether that profit is ploughed back to the factory itself so that he earns an extra cent. I stand here stating Kisii and Nyamira counties are major tea growers. Therefore, I am advocating on their behalf just as I am advocating on behalf of the rest of the other tea growing counties; that we need to add value to the crop which is so important and is highly ranked in the list of our export industry. I thank you and take the pleasure to second this Motion."
     },
     {
-      "order": 214,
+      "order": 221,
       "id": "entry-786383",
       "label": "scene",
       "level": "3",
@@ -2571,7 +2655,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 215,
+      "order": 222,
       "id": "entry-786384",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2667,7 @@
       "text": "Thank you Madam Temporary Speaker. I rise to support this Motion because tea, as it has been stated, is a major cash crop that adds to the Gross Domestic Product (GDP) in Kenya. It is unfortunate that there are many challenges that are bedeviling the tea sector. Since the Eighth or Ninth Parliament, many legislations have been put in place and at this point, we would wish to know what has been happening with those legislations that have been put up yet they have never seen the light of day. There are many pieces of legislations and I want to imagine that with this Committee, we shall establish one legislation that is going to bring a solution to this sector once and for all. If you look at the tea farmers you will mistake them for actually casual workers. They are actually slaves to whatever they have done with imagination that they are going to make money. When we were going to school in those early days, tea, in this case, was a very reliable crop, but of late, there are a lot of challenges; from the tea collection centres to the factory itself where the tea is being processed; to the transportation and eventually the sale of the tea. This Committee should be able to address--- As a tea growing farmer as Sen. (Prof.) Ongeri has said, I have faced many challenges. When it comes to plucking the tea, the farmers pluck it the whole day. Sometimes, the tea leaves are rejected and thrown out by the clerks at the buying and collection centres because of poor quality. We know that major companies would take any other tea and blend it with the quality tea from our small scale-farmers. Madam Temporary Speaker, in most countries, our black tea is being used as a raw material to make other teas. Many a times, you go to various places and you are given high quality tea yet those countries do not grow tea. They take our black tea and blend them with other substances to produce a high-quality tea. I am sure this Committee will look into the idea of adding value to the tea so that our farmers can receive their entitlement. The multinational companies are affecting the farmers. There are many middlemen that are coming up with factories. While somebody was imagining that the price of tea is Kshs27 per kilogramme, these middlemen are now buying at Kshs22 per kilogramme and there is no bonus for the farmers. I am sure these Members are going to look at these issues and come up with recommendations which will solve the problems that are bedeviling the tea subsector once and for all. Sen. Cheruiyot, I did my research in PhD on what is causing the low prices of tea. So, in the course of your investigations, you can consult me for some addition. Most of the Committee Members are from the tea growing areas and they are also affected. I support them. I am sure that at the end of these five months, they will come up with recommendations to address the challenges facing the tea subsector once and for all. I beg to support."
     },
     {
-      "order": 216,
+      "order": 223,
       "id": "entry-786385",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2679,7 @@
       "text": "Thank you. Proceed, Sen. Cherargei."
     },
     {
-      "order": 217,
+      "order": 224,
       "id": "entry-786386",
       "label": "speech",
       "level": "3",
@@ -2607,7 +2691,7 @@
       "text": "Thank you, Madam Temporary Speaker, for this opportunity. I know the tea subsector is facing a lot of crises at the moment. I am also privileged to be a Member of this Committee. I want to thank Sen. Cheruiyot for this bold initiative to ensure that we form an ad hoc Committee to look at this issue. I know the cartels in the tea sector are not excited about this, but I believe that this is the way to go. Personally, among other Senators, I come from a county which is a tea growing area, for instance, Aldai, Chesumei, Tinderet and Mosop sub-counties. The entire Nandi County is under tea growing. When you go to Nandi Hills Sub-county where we have multinational companies, the aura, the exuberance and the bubbling economic life in Nandi Hills Town has gone down. This is because of the so many problems that have been derailing the tea sector for quite some time. There are so many challenges and I want to agree with what most of my colleagues have said. The tea sector is very crucial and one of the interesting things about it is that it is one of the highest revenue earners for the country. However, what small- scale farmers contribute in this earning is not reflected. Madam Temporary Speaker, I agree that most of the multinational companies have nothing to show in terms of Corporate Social Responsibility (CSR). For example, I have never walked into any primary or secondary school in my country where the multinational companies have assisted in building a classroom. They only assist in building toilets. It is, therefore, very sad that what this country earns through revenues generated from tea farming cannot be reflected on the farmers. Madam Temporary Speaker, most of the land that these multinational companies have in our counties, they did not buy it, yet there is nothing tangible to show for it. Therefore, this Motion is timely. These companies do not conduct CSR because they do not value anything else within our counties. Most farmers have been subjected to the whims and wishes of these multinational companies. For example, some have tea buying centres somewhere, like in Kapsimotwa, Tinderet and Aldai; but the farmers there have not benefited anything from them. Madam Temporary Speaker, I am a maize farmer, but most of my family members are tea farmers. Tea farming is not profitable anymore. I agree with what Sen. Aaron said; that we used to have a Peugeot showroom in Eldoret. When farmers got their tea bonuses, they would just walk to the showroom and drive away in brand new cars. However, that is no longer the case. Therefore, I agree that this Motion is timely. I hope that the recommendations of the Committee will ensure that this issue is sorted out. Madam Temporary Speaker, my two last points are on the issue of employment. There is a crisis, especially in Kericho County, in terms of problems between parent companies and subsidiary companies. This Motion will assist in resolving some of those issues so that farmers can continue farming in a good environment and get value for their work. This will also help us to avoid the crisis we are seeing in Kericho County at the moment, where the parent factory wants to separate itself from the subsidiary factory. Those issues of farming should be resolved. Finally, Madam Temporary Speaker, there is an aspect in the tea sector, especially from the multinational companies, that is worrying us. When you go to a place like Taito in Nandi sub-county, the multinationals have started a habit of blacklisting most young people, especially in Nandi Hills Sub-county. They do this at the expense of ensuring that they fight off competition in terms of employment and turnover of the tea leaves that they get to their factories. They also blacklist the native communities so that they do not have answers to provide in terms of CSR. This is a way of intimidating farmers so that they cannot raise questions of quality service and payments, among other things. Madam Temporary Speaker, I agree that this is the way to go. I hope that this ad hoc Committee will come up with recommendations that will ensure that we have far reaching effects that will change the lives of tea farmers, be it in Kericho, Embu, Kisii or any county across the country. Madam Temporary Speaker, I beg to support."
     },
     {
-      "order": 218,
+      "order": 225,
       "id": "entry-786393",
       "label": "speech",
       "level": "3",
@@ -2619,7 +2703,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me the chance to add my voice together to those of other hon. Senators. Coming from Turkana County, I am not necessarily a tea grower. However, I want to contribute as a Kenyan. Tea is very important to Kenyan lives. I lived oversees for many years and can tell you that nothing is as good as a cup of Kenyan tea. We would go out to look for shops that sell Kenyan tea, knowing that it is first class Kenyan tea which is usually sent overseas. We would buy and brew a nice pot of tea, and enjoy it with a lot of relish. Madam Temporary Speaker, I also passed through Kericho County a number of times as a student on my way to Kisumu County and back. I always admired that 'carpet' of tea from a distance. I always felt I could dwell on it and have a nice time. So, I have had good experience with tea. Therefore, it makes me sad to hear that multinationals are taking advantage of our people and an industry that should be helping our people. It is a good idea that Sen. Cheruiyot brought this Motion, so that we can tighten loopholes, where multinationals are taking advantage of us. We want our own people to have advantage of what they produce and not people from outside. I know that they make a lot of money by selling that tea overseas. I would buy a kilo of Kenyan tea at so many dollars, and I know that they do not pay our people in dollars. So, they are taking advantage of our own people. This Committee should, therefore, tighten those loopholes and make this a useful crop for our people to have a decent living from the work they are putting in. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 219,
+      "order": 226,
       "id": "entry-786394",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2715,7 @@
       "text": "Thank you, Madam Temporary Speaker, for allowing me to also contribute to this important Motion. Most of the issues were mentioned very comprehensively by Sen. (Prof.) Ongeri, and I was so excited. However, I want to add that in spite of the tea sector being the pillar of the economy of this country, the farmer down there is suffering and needs to be rescued. Most of the small scale farmers in areas like Bomet, Kisii and Kericho counties grow tea on land that could be used to grow food crops. As a result, a number of children from these areas are malnourished. There is a lot of hunger and, perhaps, we also need to come up with another Motion for these people to be supported with relief food. This is because tea farming no longer enables them to buy food, yet they have used all their land to grow tea. This group of Members who have been proposed for this important mission should find out the issues facing the tea farmers. This is a very important step towards saving the situation. So far, most farmers in Bomet County have stopped picking tea because it is no longer economically viable. Some are even uprooting tea because of these issues. So, this Motion is timely and the Committee should conduct thorough investigations. Instead of coming up with recommendations, I would recommend that they come up with a Bill that will eventually become a legislation to support the farmers of this country sustainably. I support."
     },
     {
-      "order": 220,
+      "order": 227,
       "id": "entry-786397",
       "label": "speech",
       "level": "3",
@@ -2643,7 +2727,7 @@
       "text": "Madam Temporary Speaker, I would be happy if I had more time to talk on this hot subject. I believe that if tea farmers hear that I was here today supporting them--- This is because what is happening in the tea sector now is bullish. Those of us who grow tea - and I want to confess that I am a tea grower - can tell you that the pain that goes into growing tea, up to the moment where you get peanuts, is so great that not many people will enjoy that cup of tea. In fact, not many people who enjoy a cup of tea know what effort we put in to produce tea. It is very sad that in many tea growing areas, there is abject poverty. The areas used to be examples of prosperity in this country. Today, if you visit most of these tea growing areas you will be surprised that poverty has visited those places. It is extremely sad. That is why this Motion is important. It is time this House looked seriously at the real cause of the problems of the tea sector. Madam Temporary Speaker, previous Parliaments have been looking at the issue of tea. I know that Agriculture Committees, especially the one that I was involved in travelled everywhere with the aim of improving the sector. Even today, so many years later, we still have the same subject on our table. I believe that this time round, we will get to the bottom of the problem of this sector. Listening to my colleagues who have contributed earlier, it is true that there are myriad problems which affect the tea sector. I want us to be careful. There are those areas where we have Kenya Tea Development Authority (KTDA). Let us look at the small scale holders and KTDA. There are also those other places where we have the big companies that produce and process tea. The problems are different. In areas where we have big companies, the issue is land and what they do with it. In KTDA-managed factories, the myriad of problems are what they are doing with the tea. We have said time and again that we do not want to visit London and the first thing you see in a supermarket is English breakfast tea. There is not one bush of tea in the whole of Britain, but that is what you find. Why is it that today we cannot get into value addition? I agree with Sen. (Prof.) Ongeri. Why is it that we are throwing away our produce and giving other people to go and add value out there and our farmers end up with peanuts? These are some of the things that we are going to interrogate seriously this time round so that by the time we are through, our farmers will get what they should be getting. Madam Temporary Speaker, for those of us who know tea farmers, a woman wakes up in the morning sometimes with their children to go to pick tea. By the time they have delivered the tea, sometimes it is evening and the children cannot concentrate the following day in school. In most of these places, the education standards have also gone down drastically as a result of the standards in this sector not being properly organized. We want to relook at the entire process of tea from production and the way we process tea in our factories up to marketing. We want to seriously interrogate the marketing the tea."
     },
     {
-      "order": 221,
+      "order": 228,
       "id": "entry-786398",
       "label": "speech",
       "level": "3",
@@ -2655,7 +2739,7 @@
       "text": "(Sen. (Prof.) Kamar: Sen. Ndwiga, please, hold for a second, please. I direct under Standing Order 32 (2) that for the convenience of the Senate and the few contributors that would like to contribute, we extend the House for a further seven minutes so that we conclude the debate and the question."
     },
     {
-      "order": 222,
+      "order": 229,
       "id": "entry-786399",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2751,7 @@
       "text": "Thank you, Madam Temporary Speaker, for these few minutes to contribute to this Motion. I had given my undertaking to the distinguished Senator for Kericho when he was mooting the idea, that I would be here to support him. This is because tea production has for a long time been the main contributor to our economy. At one time it was the number one foreign exchange earner sharing from time to time the same slot with tourism and now floriculture and horticulture. The people who work in the tea sector and the management of the tea industry - as my colleagues before me have said - require a major surgery. This is because we have, on one hand the big corporates like James Finlay who have a seamless flow of management and profits - never mind how they exploit our poor workers - something the Committee will also have to look at. I speak this because whether you go to Kericho, Nandi Hills, Murang'a, Limuru or wherever, in all parts of the country, you find 60-70 per cent of the workers there are from the \" Mulembe nation\". I would want to see that everybody involved in the tea industry gets their just returns. Over-taxation is a problem. The other day, we saw a governor waking up in the morning and imposing heavy tax on tea passing through the Port of Mombasa. We need some synchrony in the taxation regime between the national and county governments so that the farmer is not hurt in the process. Madam Temporary Speaker, more importantly, the cartels that run Kenya Tea Development Agency (KTDA) are the ones that have caused a serious disadvantage and problems to the farmers. There is a group of people who have become a fixture in everything that happens in the tea industry. KTDA is supposed to help the farmer. It is an investment of the farmer. In the old days, farmers used to earn very good bonuses. You may recall the scandals that are always there when girls from Koinange Street are in Kericho, Nandi Hills or Kapsabet, when bonus is paid in order to 'help the farmers spend their money quickly'."
     },
     {
-      "order": 223,
+      "order": 230,
       "id": "entry-786400",
       "label": "scene",
       "level": "3",
@@ -2679,7 +2763,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 224,
+      "order": 231,
       "id": "entry-786401",
       "label": "speech",
       "level": "3",
@@ -2691,7 +2775,7 @@
       "text": "Now you cannot even talk about bonuses. It is peanuts. My friend Sen. Ndwiga has been in this industry for some time. You find that during campaigns, we kept on getting information that the bonuses paid in some parts of the country are completely different from others. You find that one part of the country is getting almost double what others are getting. This is not right because we do not have any empirical evidence that there is inferior tea from some parts of the country and superior tea from others. Why would KTDA then be paying differentiated bonuses to farmers? If you are paying a bonus, do so. If depression brings it to Kshs10 or Kshs20, you should pay everybody that. However, it does not make sense to pay a farmer in Kisii County Kshs8 and pay a farmer elsewhere Kshs6 or something like that. Madam Temporary Speaker, lastly, I encourage the Committee being formed; apart from looking at the troubles bedeviling the industry, the exploitation of the farmers, workers and the lack of value addition that Sen. Ndwiga has talked about, to also address the issue of the expansion of the industry. Since, there are hardly any new factories coming up, of tea. Madam Temporary Speaker, in Bungoma County where I come from, there was a research that was carried out 20 years ago to build 40 factories in Mt. Elgon. Perhaps those factories would have created employment and stopped these marauding youth from raiding and killing people. Every time they hear you have sold a goat or some bags of potatoes, they come for the money in the evening. If there were tea factories, they would be gainfully employed to do something else so that people can enjoy their hard earned money. Madam Temporary Speaker, I congratulate my distinguished friend and Senator for Kericho for thinking about the tea farmers and for bringing this Motion. The team he has put in place are all impeccable Senators who come from tea growing areas. I hope they will bisect and dissect these problems seriously and make recommendations that will help the farmers so that we have sanity in this industry. I beg to support."
     },
     {
-      "order": 225,
+      "order": 232,
       "id": "entry-786404",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2787,7 @@
       "text": "Sen. Cheruiyot, you promised you can respond in one and half minutes."
     },
     {
-      "order": 226,
+      "order": 233,
       "id": "entry-786405",
       "label": "speech",
       "level": "3",
@@ -2715,7 +2799,7 @@
       "text": "Madam Temporary Speaker, I will need less. I have heard the contributions of all the distinguished colleagues that have spoken to this matter. We will take into consideration and live up to the demands and the expectations of our colleagues. With those remarks, I beg to move."
     },
     {
-      "order": 227,
+      "order": 234,
       "id": "entry-786406",
       "label": "speech",
       "level": "3",
@@ -2727,7 +2811,7 @@
       "text": "Thank you Senators, may I now put the question. Hon. Senators, this Motion zeros in on the formation of the Committee. Thus, it is a House keeping matter and has nothing to do with counties and for that reason, we will vote by acclamation."
     },
     {
-      "order": 228,
+      "order": 235,
       "id": "entry-786407",
       "label": "scene",
       "level": "3",
@@ -2739,7 +2823,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 229,
+      "order": 236,
       "id": "entry-786408-speaker-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -2751,7 +2835,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 230,
+      "order": 237,
       "id": "entry-786408",
       "label": "speech",
       "level": "1",

@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-06-20-14-30-00",
-  "exported_at": "2026-10-05T08:01:08.183Z",
+  "exported_at": "2026-10-08T20:56:19.530Z",
   "entries": [
     {
       "order": 1,
@@ -1912,7 +1912,7 @@
     },
     {
       "order": 160,
-      "id": "entry-806458-uppercase-text-heading",
+      "id": "entry-806458-uppercase-text-heading-split-selected-fe140568-cf92-4e44-bc06-66b3dfb18d9c",
       "label": "heading",
       "level": "3",
       "cutout": false,
@@ -1920,10 +1920,22 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "LISTING OF NAROK COUNTY FARMERS IN CRB MANAGEMENT OF HEALTH SECTOR IN THE COUNTRY"
+      "text": "LISTING OF NAROK COUNTY FARMERS IN CRB"
     },
     {
       "order": 161,
+      "id": "entry-806458-uppercase-text-heading-split-after-d3b271ca-7067-4ce8-a10f-a63b6eff85aa",
+      "label": "heading",
+      "level": "3",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "MANAGEMENT OF HEALTH SECTOR IN THE COUNTRY"
+    },
+    {
+      "order": 162,
       "id": "entry-806459-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1935,7 +1947,7 @@
       "text": "(Statements Deferred)"
     },
     {
-      "order": 162,
+      "order": 163,
       "id": "entry-806459-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1947,7 +1959,7 @@
       "text": "(Resumption of Debate on Statements on Sugar)"
     },
     {
-      "order": 163,
+      "order": 164,
       "id": "entry-806460",
       "label": "speech",
       "level": "3",
@@ -1959,7 +1971,7 @@
       "text": "I will, therefore, allow a few more speakers. That, of course, does not mean that we will discuss this Statement the whole afternoon. We have to balance between the national interests involved in this matter with the need to handle all the items in the Order Paper today, including legislation. For your information, Sen. Madzayo, it is not obvious that you will have time to contribute on any matter. The fact that you have requested to contribute does not mean you will get to contribute. It depends on many factors including time. As I have already said, Statements under Standing Order No. 46 (2) (a), do not require comments from any other person other than the Senator making the Statement. The time of the Senator making the Statement is also restricted to a maximum of 10 minutes. So, Sen. Madzayo, being a Member who has been around for a while, you should have known better. In any case, assuming you want to speak, you are supposed to approach the Chair and explain yourself, rather than saying that you have requested to speak and so, you must speak. I will give three minutes to Sen. Ledama Olekina."
     },
     {
-      "order": 164,
+      "order": 165,
       "id": "entry-806463",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1983,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me an opportunity to comment on this important and sensitive matter. We must demystify why we have a problem in this country. If my memory serves me right, during an election period, there are goodies which are normally given out. Last May the Government gave out a window for people to import sugar illegally. One of the companies that imported sugar is called Rai Group, which imported 187,275 metric tonnes of sugar. When they imported this sugar, they stored it in a multiple Container Freight Station (CFS) or holding place, which originally stored clinker; a raw material used to produce cement. We are bringing poison into this country because our agencies have failed. When you import anything into this country, you go through a vigorous process. You issue an Import Declaration Form (IDF) and SGS, which certifies and gives a certificate of conformity that the item being imported into the country is safe. The Kenya Revenue Authority (KRA) has failed. If it had carried out due diligence, we will not have exposed Kenyans to the mess we are right now. Mr. Deputy Speaker, Sir, I am aware of another company called Darasa Investments whose containers or ship was confiscated in the port six months ago and the sugar is still lying there. If we want to fight corruption let us not be selective. Corruption is killing our people. When you store sugar where there is clinker, which is poisonous, you are killing Kenyans. The Government is unable to bail out Mumias Sugar Company. These sugar barons use every avenue to destroy the sugar industry in the country, so that they can import sugar. They collude with people in the National Treasury, KRA or Kenya Bureau of Standards (KEBS). We need to ask hard questions as we interrogate this matter. For example, why is it that Mumias Sugar is collapsing, yet the Government is not willing to relinquish its shareholding? Why not open it to the public or private inventors? Mr. Deputy Speaker, Sir, I support this Statement and hope---"
     },
     {
-      "order": 165,
+      "order": 166,
       "id": "entry-806464",
       "label": "speech",
       "level": "3",
@@ -1983,7 +1995,7 @@
       "text": "Thank you, Senator. I will now give a chance to Sen. Seneta."
     },
     {
-      "order": 166,
+      "order": 167,
       "id": "entry-806465",
       "label": "speech",
       "level": "3",
@@ -1995,7 +2007,7 @@
       "text": "Mr. Deputy Speaker, Sir, can I borrow 30 seconds?"
     },
     {
-      "order": 167,
+      "order": 168,
       "id": "entry-806466",
       "label": "speech",
       "level": "3",
@@ -2007,7 +2019,7 @@
       "text": "You have made your point."
     },
     {
-      "order": 168,
+      "order": 169,
       "id": "entry-806467",
       "label": "speech",
       "level": "3",
@@ -2019,7 +2031,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me---"
     },
     {
-      "order": 169,
+      "order": 170,
       "id": "entry-806468",
       "label": "speech",
       "level": "3",
@@ -2031,7 +2043,7 @@
       "text": "Order, Sen. Seneta. Just hold on for one minute. Sen. Olekina, I will add you 30 more seconds."
     },
     {
-      "order": 170,
+      "order": 171,
       "id": "entry-806471",
       "label": "speech",
       "level": "3",
@@ -2043,7 +2055,7 @@
       "text": "Thank you, for indulging me with the 30 seconds. It is important for Kenyans to realize that one per cent of the population - the sugar barons - is killing 99 per cent of the population. They are the people who are lining their pockets, using the 99 per cent of the population who buy sugar on a daily basis, to fund their illegal activities. I request the Committee that is handling this matter to take it up."
     },
     {
-      "order": 171,
+      "order": 172,
       "id": "entry-806472",
       "label": "speech",
       "level": "3",
@@ -2055,7 +2067,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me a chance to add my voice to the two Statements. Killing our sugar industry is like killing our economy. Importing contaminated sugar is an economic crime which is killing the Kenyan consumers. Since agriculture is a devolved function, I urge my colleagues in the Senate not to tire. We should stand with Kenyans and speak to this matter to the last man standing. We should also speak about the corruption at the National Cereals and Produce Board (NCPB) and the issues of contraband products that are coming into our country. We should not tire until we disband KEBS because it is not serving this country. I do not know why we are beating about the bush and refusing to say what is happening. Why should we chase lorries from Nairobi to Nyanza and Namanga? Why should we not speak to the authority that is supposed to check on these counterfeit products before they enter the country because they know what and where to check? All governors and Senators should speak to this. We should not beat about the bush. We should say that KEBS be dissolved today, and tomorrow we, start appointing a new one."
     },
     {
-      "order": 172,
+      "order": 173,
       "id": "entry-806473",
       "label": "speech",
       "level": "3",
@@ -2067,7 +2079,7 @@
       "text": "Let us have Sen. Faki. Sen. Faki: Asante Bw. Naibu Spika kwa kunipa fursa hii kuchangia taarifa ambayo imetolewa na ndugu yetu Seneta. Ni kweli kuwa sukari nyingi inayoletwa katika nchi ya Kenya inapitia katika bandari ya Mombasa. Ni kweli pia, kuwa mara ya mwisho sukari ililetwa na kuwekwa kwenye mabohari ambayo yako wazi na hutumika kwa kuweka clinker ambayo inatumika kutengeneza simiti. Hatari iliyoko ni kwamba Wakenya wengi ambao wametumia sukari hiyo wako katika hatari ya kupata ugonjwa wa Saratani kutokana na madini mabaya ambayo yako katika kemikali ya clinker ambayo inatumika kutengeneza simiti. Katika eneo la Owino-Uhuru Mombasa, nyumba nyingi na wakazi wameathirika kwa sababu ya vumbi inayotokana na ile clinker inayowekwa hapo ili kutengeneza simiti. Kuna shirika ambalo linaitwa Kenya Plant Health Inspectorate Service (KEPHIS) ambalo linahusika na kukagua vyakula vinavyo ingia katika nchi ya Kenya na vinavyo pelekwa nje ya Kenya. KEPHIS ina ofisi katika sehemu ambapo bidhaa zinaingilia na kutoka katika nchi ya Kenya. Ninashangaa kuona kwamba KEPHIS inaweza kuruhusu sukari ambayo inamadini ambayo yanadhuru binadamu kutumika katika nchi ya Kenya. Bw. Naibu Spika, tumeona mara kwa mara Serikali ya Kenya ikiomba kuongezewa muda ili kutekeleza maazimio ya COMESA kuhusiana na sukari inayoletwa katika nchi ya Kenya. Mpaka sasa, mbali na kwamba viwanda vinaendelea kufilisika, sukari bado inaletwa kutoka nchi zingine kama vile Brazil, ambayo ni kinyume na kanuni za nchi na Serikali inapoteza ushuru mkubwa kutokana na sukari hiyo ambayo inaingia katika nchi ya Kenya. Hii ina maana kuwa tutaendelea kuagiza sukari kutoka nchi za nje kwa miaka mingi inayokuja kwa sababu viwanda vyetu havijakuwa na uwezo wa kusiaga sukari ya kutosha ili kuwafaidi wananchi wa Kenya. Uagizaji wa sukari kutoka nje ni njia moj aambayo mabwanyenye wanajipatia fedha za urahisi kwa sababu sukari nyingi inayoletwa kutoka nchi za nje hailipiwi ushuru sawa sawa. Ndiyo maana wanaweza kuuza sukari kwa bei ya chini na sukari ya hapa nchini inauzwa kwa bei ya juu. Bw. Spika, hatuwezi kukosa kulaumu viwanda vya sukari kwa sababu kuna vingine ambavyo vimewahi kuleta sukari kutoka nje, wakaiweka katika mifuko yao ili kuiuza kama sukari ambayo imetengenezwa hapa nchini. Finally we have Sen. Pareno."
     },
     {
-      "order": 173,
+      "order": 174,
       "id": "entry-806479",
       "label": "speech",
       "level": "3",
@@ -2079,7 +2091,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for allowing me to contribute to this Statement. It is sad because it looks like every single day in this House; we are just talking about corruption, scandal after scandal and impunity upon impunity. We are losing this country. To pick up from where Sen. Mwangi left, we have killed our sugar industries and factories so that we import unhealthy sugar for the benefit of those who are doing it. I think it is time we rescued this country as the Senate. Very soon, we will have no country to rescue. From what is happening, this country will actually run away from us. Picking from where Sen. Mwangi left, I think it is time we invoked Article 94(4) of the Constitution. This Senate can oversight all officers inclusive of the President and his Deputy. Maybe it is time to impeach them. This country is running away from everybody; we cannot manage anything. They cannot manage this country. Mr. Deputy Speaker, Sir, my submission is that this Senate should rise to the occasion and save this country. Otherwise we are losing it and we can start by impeaching the Government of the day."
     },
     {
-      "order": 174,
+      "order": 175,
       "id": "entry-806480",
       "label": "scene",
       "level": "3",
@@ -2091,7 +2103,7 @@
       "text": "(TheDeputy Speaker consulted with the Clerk-at-the Table)"
     },
     {
-      "order": 175,
+      "order": 176,
       "id": "entry-806481",
       "label": "speech",
       "level": "3",
@@ -2103,7 +2115,7 @@
       "text": "Order, Senators. We have spent quite a bit of time on these two Statements for obvious reasons; that they raised important issues that are topical and of a national nature, as we speak. Therefore, hon. Senators, the two Statements; one by the Senator for Bungoma County - Sen. Wetangula, and the one by the Senator for Kakamega County - Sen. Malalah, relate to a general topical concern that is important to our economy, our country and by extension, to the lives of the people of Kenya in a large scale. In this regard, and considering the immense public interest in this matter relating to the importation of sugar that is laced with dangerous chemicals, I direct that two committees of this House, namely; the Senate Committee on Agriculture, Livestock and Fisheries and the Senate Committee on Tourism, Trade Industrialization, be seized of the matter as raised in the two statements, with a view to investigating the matters raised, and report to the Senate within 14 days from today. It is so ordered. I thank you."
     },
     {
-      "order": 176,
+      "order": 177,
       "id": "entry-806482",
       "label": "scene",
       "level": "3",
@@ -2115,7 +2127,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 177,
+      "order": 178,
       "id": "entry-806485",
       "label": "speech",
       "level": "3",
@@ -2127,7 +2139,7 @@
       "text": "Next Order! Let us go to Order No. 9."
     },
     {
-      "order": 178,
+      "order": 179,
       "id": "entry-806486",
       "label": "heading",
       "level": "3",
@@ -2139,7 +2151,7 @@
       "text": "BILL COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 179,
+      "order": 180,
       "id": "entry-806487",
       "label": "heading",
       "level": "3",
@@ -2151,7 +2163,7 @@
       "text": "THE NATIONAL FLAG, EMBLEMS AND NAMES (AMENDMENT) BILL (SENATE BILLS NO.8 OF 2017)"
     },
     {
-      "order": 180,
+      "order": 181,
       "id": "entry-806488",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2175,7 @@
       "text": "Order, Senators. We are not able to transact that Order because all that remains is division relating to the Committee of the Whole stage. I therefore defer that Order to tomorrow."
     },
     {
-      "order": 181,
+      "order": 182,
       "id": "entry-806489",
       "label": "scene",
       "level": "3",
@@ -2175,7 +2187,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 182,
+      "order": 183,
       "id": "entry-806490",
       "label": "heading",
       "level": "1",
@@ -2187,7 +2199,7 @@
       "text": "COMMITTEE OF THEWHOLE"
     },
     {
-      "order": 183,
+      "order": 184,
       "id": "entry-806491",
       "label": "scene",
       "level": "1",
@@ -2199,7 +2211,7 @@
       "text": "( Order for Committee read)"
     },
     {
-      "order": 184,
+      "order": 185,
       "id": "entry-806492",
       "label": "scene",
       "level": "1",
@@ -2211,7 +2223,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 185,
+      "order": 186,
       "id": "entry-806493",
       "label": "heading",
       "level": "2",
@@ -2223,7 +2235,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 186,
+      "order": 187,
       "id": "entry-806494",
       "label": "scene",
       "level": "2",
@@ -2235,7 +2247,7 @@
       "text": "[The Temporary Chairperson (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 187,
+      "order": 188,
       "id": "entry-806495",
       "label": "heading",
       "level": "3",
@@ -2247,7 +2259,7 @@
       "text": "THE ASSUMPTION OF OFFICE OF THE COUNTY GOVERNOR BILL (SENATE BILLS NO.1 OF 2018)"
     },
     {
-      "order": 188,
+      "order": 189,
       "id": "entry-806496",
       "label": "speech",
       "level": "3",
@@ -2259,7 +2271,7 @@
       "text": "Hon. Senators, we are doing the Committee of the Whole on the Assumption of Office of the County Governor Bill (Senate Bills No.1 of 2018)."
     },
     {
-      "order": 189,
+      "order": 190,
       "id": "entry-806497-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2271,7 +2283,7 @@
       "text": "Clause 3 and 4"
     },
     {
-      "order": 190,
+      "order": 191,
       "id": "entry-806497-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2283,7 +2295,7 @@
       "text": "(Question, that Clause 3 and 4 be part of the Bill proposed)"
     },
     {
-      "order": 191,
+      "order": 192,
       "id": "entry-806498",
       "label": "speech",
       "level": "5",
@@ -2295,7 +2307,7 @@
       "text": "Division will come at the end."
     },
     {
-      "order": 192,
+      "order": 193,
       "id": "entry-806499",
       "label": "heading",
       "level": "5",
@@ -2307,7 +2319,7 @@
       "text": "Clause 5"
     },
     {
-      "order": 193,
+      "order": 194,
       "id": "entry-806500",
       "label": "speech",
       "level": "5",
@@ -2319,7 +2331,7 @@
       "text": "It has an amendment. Proceed, Sen. Kinyua. Sen. Cherargei, are you are representing Sen. Kinyua? Go ahead."
     },
     {
-      "order": 194,
+      "order": 195,
       "id": "entry-806501-split-before-5cf832c3-f530-49f0-816d-102897554296",
       "label": "speech",
       "level": "5",
@@ -2331,7 +2343,7 @@
       "text": "Madam Temporary Chair, I beg to move: THAT Clause 5 of the Bill be amended - (a)by deleting Sub Clause (2) and substituting therefor the following new Sub Clause- (2) The Committee shall be an ad hoc committee and shall comprise - (a) the County Secretary who shall be the chairperson; (b) the officer in charge of legal matters in the county; (c) the chief officer in the department responsible for matters relating to county public service; (d) the chief officer in the department responsible for matters relating to information and communication; (e) the chief officer in the department responsible for matters relating to finance; (f) the chief officer in the department responsible for matters relating to culture and social services; (g) the County Commissioner; (h) a representative of the National Intelligence Service at the county level; (i) a representative of the National Police Service at the county level;"
     },
     {
-      "order": 195,
+      "order": 196,
       "id": "entry-806501-split-selected-4794a812-9492-49f5-af06-5c1834e39f5a",
       "label": "scene",
       "level": "5",
@@ -2343,7 +2355,7 @@
       "text": "(j) the Clerk of the County Assembly; (k) a representative of the Judiciary at the county level; and"
     },
     {
-      "order": 196,
+      "order": 197,
       "id": "entry-806501-split-after-2cd64193-2f9d-4cfd-b5b3-cb6cedecdf3a",
       "label": "speech",
       "level": "5",
@@ -2355,7 +2367,7 @@
       "text": "(l) two persons, one man and one woman nominated by the Governor-elect. (b) by deleting sub clause (4) and substituting therefor the following new sub clause-- (4) The members referred to in subsection 2(h) and (i) shall be the members serving as members of the County Policing Authority established under the National Police Service Act. (c)by inserting the following new sub clauses immediately after sub clause (4) - (4A) The members referred to in subsection 2(l) shall be nominated upon the declaration of the final results of the election of the Governor. (4B)The chairperson of the Committee shall convene the first meeting of the Committee thirty days before the date of the general elections. (4C)In the absence of the chairperson, the members of the Committee shall elect a chairperson from among the members appointed under subsections (2)(b) to (f) to preside over the meeting. (d) in the proposed new sub clause (7) by deleting the words \"section 16\" appearing at the end of the subsection and substituting therefor the words \"Section 21.\" I am standing in for the Chairperson of the Committee on Devolution and Intergovernmental Relations. I am also a Member of that Committee. I beg to move to amend Clause 5 (2) to provide the following: a) Replace the position of Principal Legal Advisor with the position of the officer in charge of legal matters in the county to ensure uniformity in all the counties; b) Inclusion of a representative from the National Intelligence Service (NIS) to assist in security matters relating to the swearing in; c) Inclusion of a representative of the Judiciary at the county level who will provide a link with the judicial officer required to preside over the swearing in; and d) Gender equity in two positions that are to be filled by two persons that are to be nominated by the governor-elect upon the declaration of the final results of the elections of the governor. The two persons will be expected to represent the interest of the governor-elect in the assumption of office. Madam Temporary Chair, on the same Clause 5, the Committee proposes to amend Clause 5 (4) of the Bill to provide that in the absence of the chairperson of the assumption committee, the members of the committee shall elect a chairperson from among members appointed under sub section 2 (b) to (f) to preside over the meeting. Clause 5 (7) provides that the term of office of the committee shall lapse upon the submission of the report of the committee to the County Assembly in accordance to Clause 16. The Committee proposes to amend this Clause for proper cross-referencing to refer to Clause 21 and not Clause 16 as indicated in the Bill."
     },
     {
-      "order": 197,
+      "order": 198,
       "id": "entry-806506",
       "label": "scene",
       "level": "5",
@@ -2367,7 +2379,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 198,
+      "order": 199,
       "id": "entry-806507",
       "label": "speech",
       "level": "5",
@@ -2379,7 +2391,7 @@
       "text": "Hon. Senators, Division will come at the end."
     },
     {
-      "order": 199,
+      "order": 200,
       "id": "entry-806508",
       "label": "heading",
       "level": "5",
@@ -2391,7 +2403,7 @@
       "text": "Clause 6"
     },
     {
-      "order": 200,
+      "order": 201,
       "id": "entry-806509",
       "label": "speech",
       "level": "5",
@@ -2403,7 +2415,7 @@
       "text": "Proceed, Sen. Cherargei."
     },
     {
-      "order": 201,
+      "order": 202,
       "id": "entry-806510",
       "label": "speech",
       "level": "5",
@@ -2415,7 +2427,7 @@
       "text": "Thank you, Madam Temporary Chair. I beg to move: THAT Clause 6 of the Bill be amended - (a) in sub clause (1) by - (i) deleting paragraph (b) and substituting therefor the following new paragraph - (b) ensure and coordinate the provision of security services to the Governor-elect; (ii) deleting paragraph (d) and substituting therefor the following new paragraph - (d) co-ordinate the briefings of the Governor-elect by the relevant county public officers including submission of the following information -- (i) an up to date assets register; (ii) an up to date register of liabilities; (iii) a complete list of all bank accounts and reconciled balances; (iv) a report of staff establishment per department; (v) a comprehensive report on county entities or corporations and agencies containing information outlined in (i) to (iv); (vi) a report of all ongoing projects including donor funded projects; (vii) an up to date report on all pending legal cases; and (viii) county source of funding. (iii) inserting the following new paragraph immediately after paragraph (f) (b) (fa) prepare the oath and the certificate of inauguration; and (b) by inserting the following new sub clause immediately after sub clause (2) -- (3) The information to be provided during the briefings referred to under Section 6(1) (d) shall be submitted in the form set out in the Second Schedule and shall be information for a period of up to thirty days before the date of the general elections. Clause 6 provides for the functions of the committee. The Committee proposes to amend Clause 6 as follows:- a) Paragraph 6 (1) (b) by imposing an obligation of the committee to ensure the coordination of the provision of security services of the governor-elect and ensure that protocol is observed; b) Paragraph 6 (1) (d) to lay a framework for the various briefings of the governor-elect by the relevant county public officers. This amendment provides a clear framework as outlined in the Second Schedule which is being proposed for inclusion in the Bill; and c) Insertion of the function of preparation of the oath and the certificate of inauguration by the committee. This is to avoid the confusion in preparation of an oath as was experienced in the last swearing in of the governors and to ensure uniformity across all counties."
     },
     {
-      "order": 202,
+      "order": 203,
       "id": "entry-806513",
       "label": "scene",
       "level": "5",
@@ -2427,7 +2439,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 203,
+      "order": 204,
       "id": "entry-806514",
       "label": "speech",
       "level": "5",
@@ -2439,7 +2451,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 204,
+      "order": 205,
       "id": "entry-806515",
       "label": "heading",
       "level": "5",
@@ -2451,7 +2463,7 @@
       "text": "Clause 7"
     },
     {
-      "order": 205,
+      "order": 206,
       "id": "entry-806516",
       "label": "speech",
       "level": "5",
@@ -2463,7 +2475,7 @@
       "text": "Sen. Cherargei, do you have an amendment?"
     },
     {
-      "order": 206,
+      "order": 207,
       "id": "entry-806517",
       "label": "speech",
       "level": "5",
@@ -2475,7 +2487,7 @@
       "text": "Thank you, Madam Temporary Chair. I beg to move: THAT Clause 7 of the Bill be amended by deleting sub clause (2) and substituting therefor the following new sub clause -- (2) The Committee may co-opt into a sub-committee established under subsection (1), not more than two persons whose knowledge and skills are necessary for the effective functioning of the Committee. There is no amendment there. Clause 7 gives the committee power to establish sub-committees for the better carrying out of its functions. Clause 7 (2) gives provision to the assumption committee to coopt into a sub- committee, an expert for effective functioning of the committee. The Committee proposes to amend this Clause to limit the number of persons to be coopted to two as the Bill is currently so. We are amending the number of people to be coopted as aligned in the Bill. It is silent on the number of people to be coopted to the two."
     },
     {
-      "order": 207,
+      "order": 208,
       "id": "entry-806520",
       "label": "scene",
       "level": "5",
@@ -2487,7 +2499,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 208,
+      "order": 209,
       "id": "entry-806521",
       "label": "speech",
       "level": "5",
@@ -2499,7 +2511,7 @@
       "text": "Division will come at the end."
     },
     {
-      "order": 209,
+      "order": 210,
       "id": "entry-806522-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2511,7 +2523,7 @@
       "text": "Clause 8"
     },
     {
-      "order": 210,
+      "order": 211,
       "id": "entry-806522-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2523,7 +2535,7 @@
       "text": "(Question, that Clause 8 be part of the Bill proposed)"
     },
     {
-      "order": 211,
+      "order": 212,
       "id": "entry-806523",
       "label": "speech",
       "level": "5",
@@ -2535,7 +2547,7 @@
       "text": "Division will come at the end."
     },
     {
-      "order": 212,
+      "order": 213,
       "id": "entry-806524",
       "label": "heading",
       "level": "5",
@@ -2547,7 +2559,7 @@
       "text": "Clause 9"
     },
     {
-      "order": 213,
+      "order": 214,
       "id": "entry-806525",
       "label": "speech",
       "level": "5",
@@ -2559,7 +2571,7 @@
       "text": "Proceed, Sen. Cherargei."
     },
     {
-      "order": 214,
+      "order": 215,
       "id": "entry-806526",
       "label": "speech",
       "level": "5",
@@ -2571,7 +2583,7 @@
       "text": "Thank you, Madam Temporary Chair. I beg to move:- THAT Clause 9 of the Bill be amended by inserting the word \"of\" immediately after the words \"results of the election.\" Clause 9 of the Bill has been redrafted to address a typographical error in the Clause as the word \"of\" is missing in the provision making it grammatically incorrect."
     },
     {
-      "order": 215,
+      "order": 216,
       "id": "entry-806527",
       "label": "scene",
       "level": "5",
@@ -2583,7 +2595,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 216,
+      "order": 217,
       "id": "entry-806528",
       "label": "speech",
       "level": "5",
@@ -2595,7 +2607,7 @@
       "text": "Division will come at the end."
     },
     {
-      "order": 217,
+      "order": 218,
       "id": "entry-806529-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2607,7 +2619,7 @@
       "text": "Clause 10"
     },
     {
-      "order": 218,
+      "order": 219,
       "id": "entry-806529-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2619,7 +2631,7 @@
       "text": "(Question, that Clause 10 be part of the Bill proposed)"
     },
     {
-      "order": 219,
+      "order": 220,
       "id": "entry-806530",
       "label": "speech",
       "level": "5",
@@ -2631,7 +2643,7 @@
       "text": "Division will come at the end."
     },
     {
-      "order": 220,
+      "order": 221,
       "id": "entry-806531",
       "label": "heading",
       "level": "5",
@@ -2643,7 +2655,7 @@
       "text": "Clause 11"
     },
     {
-      "order": 221,
+      "order": 222,
       "id": "entry-806532",
       "label": "speech",
       "level": "5",
@@ -2655,7 +2667,7 @@
       "text": "Amendment?"
     },
     {
-      "order": 222,
+      "order": 223,
       "id": "entry-806533",
       "label": "speech",
       "level": "5",
@@ -2667,7 +2679,7 @@
       "text": "Thank you, Madam Temporary Chair. I beg to move: THAT the Bill be amended by deleting Clause 11. Clause 11 provides for the inability of the governor or the deputy governor to assume office. The Bill provides that in the event that the governor-elect dies after being declared elected as governor, but before assuming office or he is an able to assume office, the deputy governor shall be sworn in as acting governor, and fresh elections held within 60 days after the death of the governor-elect."
     },
     {
-      "order": 223,
+      "order": 224,
       "id": "entry-806536",
       "label": "scene",
       "level": "5",
@@ -2679,7 +2691,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 224,
+      "order": 225,
       "id": "entry-806537",
       "label": "speech",
       "level": "5",
@@ -2691,7 +2703,7 @@
       "text": "Division will come at the end."
     },
     {
-      "order": 225,
+      "order": 226,
       "id": "entry-806538",
       "label": "heading",
       "level": "5",
@@ -2703,7 +2715,7 @@
       "text": "Clause 12"
     },
     {
-      "order": 226,
+      "order": 227,
       "id": "entry-806539",
       "label": "speech",
       "level": "5",
@@ -2715,7 +2727,7 @@
       "text": "Proceed, Sen. Cherargei."
     },
     {
-      "order": 227,
+      "order": 228,
       "id": "entry-806540",
       "label": "speech",
       "level": "5",
@@ -2727,7 +2739,7 @@
       "text": "Thank you, Madam Temporary Chair. I beg to move: THAT the Bill be amended by deleting Clause 12. Clause 12 provides for the assumption of the office of the governor by the deputy governor."
     },
     {
-      "order": 228,
+      "order": 229,
       "id": "entry-806541",
       "label": "scene",
       "level": "5",
@@ -2739,7 +2751,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 229,
+      "order": 230,
       "id": "entry-806542",
       "label": "speech",
       "level": "5",
@@ -2751,7 +2763,7 @@
       "text": "Division will come at the end."
     },
     {
-      "order": 230,
+      "order": 231,
       "id": "entry-806543",
       "label": "heading",
       "level": "5",
@@ -2763,7 +2775,7 @@
       "text": "Clause 13"
     },
     {
-      "order": 231,
+      "order": 232,
       "id": "entry-806544",
       "label": "speech",
       "level": "5",
@@ -2775,7 +2787,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT the Bill be amended by deleting Clause 13. Clause 13 of the Bill sets out instances where the Office of the Deputy Governor becomes vacant. So, it becomes part of the Bill."
     },
     {
-      "order": 232,
+      "order": 233,
       "id": "entry-806545",
       "label": "speech",
       "level": "5",
@@ -2787,7 +2799,7 @@
       "text": "It is deleted."
     },
     {
-      "order": 233,
+      "order": 234,
       "id": "entry-806546",
       "label": "speech",
       "level": "5",
@@ -2799,7 +2811,7 @@
       "text": "Yes, we are proposing to delete it."
     },
     {
-      "order": 234,
+      "order": 235,
       "id": "entry-806547",
       "label": "scene",
       "level": "5",
@@ -2811,7 +2823,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 235,
+      "order": 236,
       "id": "entry-806548",
       "label": "speech",
       "level": "5",
@@ -2823,7 +2835,7 @@
       "text": "The Division will be done at the end."
     },
     {
-      "order": 236,
+      "order": 237,
       "id": "entry-806549",
       "label": "heading",
       "level": "5",
@@ -2835,7 +2847,7 @@
       "text": "Clause 14"
     },
     {
-      "order": 237,
+      "order": 238,
       "id": "entry-806550",
       "label": "speech",
       "level": "5",
@@ -2847,7 +2859,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT the Bill be amended by deleting Clause 14. Clause 14 of the Bill provides a clear framework for the filling of a vacancy in the Office of the Deputy Governor. The Committee proposes that the Bill be amended by deleting Clause 14."
     },
     {
-      "order": 238,
+      "order": 239,
       "id": "entry-806551",
       "label": "scene",
       "level": "5",
@@ -2859,7 +2871,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 239,
+      "order": 240,
       "id": "entry-806553",
       "label": "speech",
       "level": "5",
@@ -2871,7 +2883,7 @@
       "text": "The Division will be done at the end."
     },
     {
-      "order": 240,
+      "order": 241,
       "id": "entry-806554",
       "label": "heading",
       "level": "5",
@@ -2883,7 +2895,7 @@
       "text": "Clause 15"
     },
     {
-      "order": 241,
+      "order": 242,
       "id": "entry-806555",
       "label": "speech",
       "level": "5",
@@ -2895,7 +2907,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT the Bill be amended by deleting Clause 15 and substituting therefor the following new clause - Swearing in 15. (1) The Committee shall publish, by notice in the Kenya ceremony.\n\nGazette\n\nand the county Gazette, the date, time and place for the conduct of the swearing-in ceremony. (2) The County Governor-elect shall be sworn-in on the first Thursday after the tenth day following the declaration of the final results of the election of the County Governor by the Commission. (3) The swearing-in of the County Governor-elect shall be conducted in a public ceremony before a High Court Judge."
     },
     {
-      "order": 242,
+      "order": 243,
       "id": "entry-806558",
       "label": "scene",
       "level": "5",
@@ -2907,7 +2919,7 @@
       "text": "Loud consultations) (Question of the amendment proposed)"
     },
     {
-      "order": 243,
+      "order": 244,
       "id": "entry-806559",
       "label": "speech",
       "level": "5",
@@ -2919,7 +2931,7 @@
       "text": "The Division will be done at the end."
     },
     {
-      "order": 244,
+      "order": 245,
       "id": "entry-806560",
       "label": "heading",
       "level": "5",
@@ -2931,7 +2943,7 @@
       "text": "Clause 16"
     },
     {
-      "order": 245,
+      "order": 246,
       "id": "entry-806561",
       "label": "speech",
       "level": "5",
@@ -2943,7 +2955,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT Clause 16 of the Bill be amended - (a) in sub clause (1) by deleting the words \"or affiration\" appearing immediately after the words \"subscribe to the oath\" and substituting therefor the words \"or affirmation\"; (b) by deleting sub clause (3) and substituting therefor the following new sub clause - (3) Upon taking or subscribing to the oath or affirmation under subsection (1), the County Governor shall sign a certificate of inauguration in the presence of the High Court Judge who conducts the swearing in ceremony under section 15."
     },
     {
-      "order": 246,
+      "order": 247,
       "id": "entry-806562",
       "label": "scene",
       "level": "5",
@@ -2955,7 +2967,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 247,
+      "order": 248,
       "id": "entry-806564",
       "label": "speech",
       "level": "5",
@@ -2967,7 +2979,7 @@
       "text": "The Division will be done at the end."
     },
     {
-      "order": 248,
+      "order": 249,
       "id": "entry-806565",
       "label": "heading",
       "level": "5",
@@ -2979,7 +2991,7 @@
       "text": "Clause 17"
     },
     {
-      "order": 249,
+      "order": 250,
       "id": "entry-806566",
       "label": "speech",
       "level": "5",
@@ -2991,7 +3003,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT Clause 17 of the Bill be amended in sub clause (1) by inserting the following new paragraph immediately after paragraph (a) -- (aa) the county coat of arms;"
     },
     {
-      "order": 250,
+      "order": 251,
       "id": "entry-806567",
       "label": "scene",
       "level": "5",
@@ -3003,7 +3015,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 251,
+      "order": 252,
       "id": "entry-806568",
       "label": "speech",
       "level": "5",
@@ -3015,7 +3027,7 @@
       "text": "The Division will be done at the end."
     },
     {
-      "order": 252,
+      "order": 253,
       "id": "entry-806569-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3027,7 +3039,7 @@
       "text": "Clauses 18-22"
     },
     {
-      "order": 253,
+      "order": 254,
       "id": "entry-806569-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3039,7 +3051,7 @@
       "text": "(Question, that Clauses 18, 19, 20, 21 and 22 be part of the Bill, proposed)"
     },
     {
-      "order": 254,
+      "order": 255,
       "id": "entry-806570",
       "label": "speech",
       "level": "5",
@@ -3051,7 +3063,7 @@
       "text": "The Division will be done at the end."
     },
     {
-      "order": 255,
+      "order": 256,
       "id": "entry-806571",
       "label": "heading",
       "level": "5",
@@ -3063,7 +3075,7 @@
       "text": "Clause 23"
     },
     {
-      "order": 256,
+      "order": 257,
       "id": "entry-806572-split-before-2c665bc9-506b-4380-87fb-6f16c726f31c",
       "label": "speech",
       "level": "5",
@@ -3075,7 +3087,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT Clause 23 of the Bill be amended - (a) in sub clause (2) by inserting the following new paragraphs immediately after paragraph (a) -- (aa) the applicant has failed to satisfy the confidentiality requirements to the Committee; or"
     },
     {
-      "order": 257,
+      "order": 258,
       "id": "entry-806572-split-selected-04af5718-3c7f-49fd-9ea8-5270bfc72948",
       "label": "scene",
       "level": "5",
@@ -3087,7 +3099,7 @@
       "text": "(ab) payment of the prescribed fee has not been made."
     },
     {
-      "order": 258,
+      "order": 259,
       "id": "entry-806572-split-after-028bb9fb-76b4-4d81-a37b-9b47ebfe92ee",
       "label": "speech",
       "level": "5",
@@ -3099,7 +3111,7 @@
       "text": "(b) in sub clause (3) by deleting the words \"subsection (2).\" appearing immediately after the words \"specified under\" and substituting therefor the words \"this section.\"."
     },
     {
-      "order": 259,
+      "order": 260,
       "id": "entry-806573",
       "label": "scene",
       "level": "5",
@@ -3111,7 +3123,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 260,
+      "order": 261,
       "id": "entry-806574",
       "label": "speech",
       "level": "5",
@@ -3123,7 +3135,7 @@
       "text": "The Division will be done at the end."
     },
     {
-      "order": 261,
+      "order": 262,
       "id": "entry-806576-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3135,7 +3147,7 @@
       "text": "Clauses 24 and 25"
     },
     {
-      "order": 262,
+      "order": 263,
       "id": "entry-806576-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3147,7 +3159,7 @@
       "text": "(Question, that Clauses 24 and 25 be part of the Bill, proposed)"
     },
     {
-      "order": 263,
+      "order": 264,
       "id": "entry-806577",
       "label": "speech",
       "level": "5",
@@ -3159,7 +3171,7 @@
       "text": "The Division will be done at the end."
     },
     {
-      "order": 264,
+      "order": 265,
       "id": "entry-806578",
       "label": "heading",
       "level": "5",
@@ -3171,7 +3183,7 @@
       "text": "New Clause 19A"
     },
     {
-      "order": 265,
+      "order": 266,
       "id": "entry-806579",
       "label": "speech",
       "level": "5",
@@ -3183,7 +3195,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT the Bill be amended by inserting the following new clause immediately after Clause 19 -- Swearing 19A. The provisions of this Act relating to the swearing in in of ceremony of a County Governor-elect shall apply, with the Deputy necessary modifications - Governor who (a) to the swearing in ceremony of a Deputy assumes Governor who assumes the office of the County office of Governor; or County (b) to the swearing in ceremony of a Deputy Governor. Governor who is nominated to fill in a vacancy in the office of the Deputy Governor upon assumption by the Deputy Governor of the office of the County Governor."
     },
     {
-      "order": 266,
+      "order": 267,
       "id": "entry-806580-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "5",
@@ -3195,7 +3207,7 @@
       "text": "(Question of the New Clause 19A proposed)"
     },
     {
-      "order": 267,
+      "order": 268,
       "id": "entry-806580-parenthesis-split-2-of-3",
       "label": "scene",
       "level": "5",
@@ -3207,7 +3219,7 @@
       "text": "(New Clause 19A read the First Time)"
     },
     {
-      "order": 268,
+      "order": 269,
       "id": "entry-806580-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "5",
@@ -3219,7 +3231,7 @@
       "text": "(Question, that New Clause 19A be read a Second Time, proposed)"
     },
     {
-      "order": 269,
+      "order": 270,
       "id": "entry-806581",
       "label": "speech",
       "level": "5",
@@ -3231,7 +3243,7 @@
       "text": "The Division will be done at the end."
     },
     {
-      "order": 270,
+      "order": 271,
       "id": "entry-806582",
       "label": "heading",
       "level": "5",
@@ -3243,7 +3255,7 @@
       "text": "New Clause 23A"
     },
     {
-      "order": 271,
+      "order": 272,
       "id": "entry-806583",
       "label": "speech",
       "level": "5",
@@ -3255,7 +3267,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT the Bill be amended by inserting the following new clause immediately after Clause 23 -- Funding. 23A. The funding for the assumption of office of a governor shall be borne by the respective county government."
     },
     {
-      "order": 272,
+      "order": 273,
       "id": "entry-806586-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "5",
@@ -3267,7 +3279,7 @@
       "text": "(Question of the New Clause 23A proposed)"
     },
     {
-      "order": 273,
+      "order": 274,
       "id": "entry-806586-parenthesis-split-2-of-3",
       "label": "scene",
       "level": "5",
@@ -3279,7 +3291,7 @@
       "text": "(New Clause 23A read the First Time)"
     },
     {
-      "order": 274,
+      "order": 275,
       "id": "entry-806586-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "5",
@@ -3291,7 +3303,7 @@
       "text": "(Question, that New Clause 23A be read a Second Time, proposed)"
     },
     {
-      "order": 275,
+      "order": 276,
       "id": "entry-806587",
       "label": "speech",
       "level": "5",
@@ -3303,7 +3315,7 @@
       "text": "The Division will be done at the end."
     },
     {
-      "order": 276,
+      "order": 277,
       "id": "entry-806588",
       "label": "heading",
       "level": "5",
@@ -3315,7 +3327,7 @@
       "text": "New Clause 24A"
     },
     {
-      "order": 277,
+      "order": 278,
       "id": "entry-806589",
       "label": "speech",
       "level": "5",
@@ -3327,7 +3339,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT the Bill be amended by inserting the following new clause immediately after Clause 24 -- Consequential 24A\n\n."
     },
     {
-      "order": 278,
+      "order": 279,
       "id": "entry-806591",
       "label": "speech",
       "level": "5",
@@ -3339,7 +3351,7 @@
       "text": "The Elections Act is amended in section 86 by inserting amendments. the following new subsection immediately after subsection (1) - No. 24 of 2011. (1A) Upon the nullification of an election of a county governor, the Commission shall upon receipt of certification under sub section (1), publish a notice in the Gazette within seven days - (1B) The notice referred to in subsection (2) shall - (a)indicate that the election of the county governor has been invalidated; and (b) announce the date for election of a county governor pursuant to Article 182(5) of the Constitution."
     },
     {
-      "order": 279,
+      "order": 280,
       "id": "entry-806592-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "5",
@@ -3351,7 +3363,7 @@
       "text": "(Question of the New Clause 24A proposed)"
     },
     {
-      "order": 280,
+      "order": 281,
       "id": "entry-806592-parenthesis-split-2-of-3",
       "label": "scene",
       "level": "5",
@@ -3363,7 +3375,7 @@
       "text": "(New Clause 24A read the First Time)"
     },
     {
-      "order": 281,
+      "order": 282,
       "id": "entry-806592-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "5",
@@ -3375,7 +3387,7 @@
       "text": "(Question, that New Clause 24A be read a Second Time, proposed)"
     },
     {
-      "order": 282,
+      "order": 283,
       "id": "entry-806593",
       "label": "speech",
       "level": "5",
@@ -3387,7 +3399,7 @@
       "text": "The Division will be done at the end\n\n."
     },
     {
-      "order": 283,
+      "order": 284,
       "id": "entry-806597-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3399,7 +3411,7 @@
       "text": "Schedule"
     },
     {
-      "order": 284,
+      "order": 285,
       "id": "entry-806597-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3411,7 +3423,7 @@
       "text": "(Question, that the Schedule be part of the Bill, proposed)"
     },
     {
-      "order": 285,
+      "order": 286,
       "id": "entry-806598",
       "label": "speech",
       "level": "5",
@@ -3423,7 +3435,7 @@
       "text": "The Division will be done at the end.\n\nNew Schedule"
     },
     {
-      "order": 286,
+      "order": 287,
       "id": "entry-806600",
       "label": "speech",
       "level": "5",
@@ -3435,7 +3447,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT the Bill be amended by- (a) renaming the existing schedule as the First Schedule; and (b) inserting the following new schedule immediately after the First Schedule --\n\nSECOND SCHEDULE"
     },
     {
-      "order": 287,
+      "order": 288,
       "id": "entry-806600-inserted-ac64e4fb-1c4d-45cb-bb3c-0652352e8ecf",
       "label": "heading",
       "level": "3",
@@ -3447,7 +3459,7 @@
       "text": "FORMAT FOR COUNTY INFORMATION"
     },
     {
-      "order": 288,
+      "order": 289,
       "id": "entry-806601",
       "label": "speech",
       "level": "3",
@@ -3459,7 +3471,7 @@
       "text": "A summary of assets currently held by the county government derived from up-to-date assets registers in conformity with the provisions of the Public Finance Management Act, 2012, the Public Finance Management (County Government) Regulations 2015 and Guidelines issued by the Public Sector Accounting Standards Board; the Public Procurement and Asset Disposal Act, 2015 and the Public Procurement Regulations 2006. Assets should include those inherited from the defunct local authorities, those transferred from the National Government and those acquired by the county government since 2013 including all assets that have disputes or outstanding unresolved matters. No. Category of Assets Quantity Status Ownership Remarks Documents 1. Land Categories (i) Residential estates (rental) (ii) Staff housing (iii) Office Blocks (iv) Learning institutions (v) Farm land (vi) Rented premises (vii) Undeveloped (viii) Others 2. Motor Vehicles 3. Plant and Equipment 4. Furniture and Fittings 5. ICT equipment, computers and computer accessories 6. Intangible assets (software) 7. Heritage and cultural assets 8. Biological assets 9. Investments 10. Debtors including outstanding imprests, salary advances, car loan, mortgages and any other recoverable and advances, unpaid rent (detailed listings to be attached)"
     },
     {
-      "order": 289,
+      "order": 290,
       "id": "entry-806608",
       "label": "speech",
       "level": "3",
@@ -3471,7 +3483,7 @@
       "text": "b. Land and buildings - indicate whether titles are available or not; c. Motor vehicles - indicate whether the log books are available or not; d. Plant and equipment - indicate whether the log books or certificates are available or not; and e. Intangible assets (software) - indicate whether contracts or licenses are available or not. 2. County Liabilities - Paragraph 1(d)(ii) Summary of liabilities currently owed by the county government derived from an up-to date schedule of liabilities. Supporting documents should be prepared and availed for scrutiny. No. Category of liabilities Amount Status Remarks 1. Loans and overdrafts (including accrued interest) 2. Creditors 3. Unremitted statutory deductions (including penalties 4. Unpaid personnel emoluments 5. Legal liabilities 6. Contingent liabilities 7. Any other"
     },
     {
-      "order": 290,
+      "order": 291,
       "id": "entry-806613",
       "label": "speech",
       "level": "3",
@@ -3483,7 +3495,7 @@
       "text": "Summary of all bank accounts and reconciled balances currently owned by the county government:- Bank statements and certificates must be availed. For Cash on hand a cash survey should be conducted. No. Account name Account No. Bank Amount Remarks\n\n1. 2. 3. 4. 5.\n\nSummary of human resource information of the county government derived from an up- to-date personnel records in conformity with the provisions of Constitution of Kenya (2010), County government Act 2012, Public Service (Values and Principles) Act 2015 and any other legislation and guidelines issued from time to time on human resource management in the public service. hit l w t s e Bil t t en n g st le a en ed m en o b y s p ce a erso W n ct ls em l rtm riz lish n a f P ilit g a rk a o b In tra b a u a . th a Male Female ria sio n su . o n n o ep u a en o a o isa a n em N D A Est V P C C N D M A R\n\n1. 2. 3. 4. 5."
     },
     {
-      "order": 291,
+      "order": 292,
       "id": "entry-806621",
       "label": "speech",
       "level": "3",
@@ -3495,7 +3507,7 @@
       "text": "Summary of Entities, Corporations and Agencies either partially or wholly owned by the County Government-"
     },
     {
-      "order": 292,
+      "order": 293,
       "id": "entry-806622",
       "label": "heading",
       "level": "3",
@@ -3507,7 +3519,7 @@
       "text": "No. Name of Function Shareholding Directorship Remarks Entity (%)"
     },
     {
-      "order": 293,
+      "order": 294,
       "id": "entry-806623",
       "label": "heading",
       "level": "3",
@@ -3519,7 +3531,7 @@
       "text": "1. 2. 3. 4. 5."
     },
     {
-      "order": 294,
+      "order": 295,
       "id": "entry-806624",
       "label": "speech",
       "level": "3",
@@ -3531,7 +3543,7 @@
       "text": "6. Ongoing/multiyear projects and donor funded projects in the County - Paragraph 1(d)(vi)"
     },
     {
-      "order": 295,
+      "order": 296,
       "id": "entry-806625",
       "label": "speech",
       "level": "3",
@@ -3543,7 +3555,7 @@
       "text": "Summary of all on ongoing/multiyear projects and donor funded projects in the County indicating whether the projects are active, stalled, abandoned, terminated or rescaled on the remarks column."
     },
     {
-      "order": 296,
+      "order": 297,
       "id": "entry-806626",
       "label": "speech",
       "level": "3",
@@ -3555,7 +3567,7 @@
       "text": "No. Project Source of Contract Expenditure to Implementation Remarks Funding Value Date Status (%)"
     },
     {
-      "order": 297,
+      "order": 298,
       "id": "entry-806627",
       "label": "heading",
       "level": "3",
@@ -3567,7 +3579,7 @@
       "text": "1. 2. 3. 4. 5."
     },
     {
-      "order": 298,
+      "order": 299,
       "id": "entry-806628",
       "label": "speech",
       "level": "3",
@@ -3579,7 +3591,7 @@
       "text": "7. Pending litigations - Paragraph 1(d)(vii)"
     },
     {
-      "order": 299,
+      "order": 300,
       "id": "entry-806629",
       "label": "speech",
       "level": "3",
@@ -3591,7 +3603,7 @@
       "text": "Summary of all cases where the county government is a party either as a plaintiff/applicant or defendant/respondent: - It should also include proceedings under alternative dispute resolution mechanism (ADR) and cases instituted by or against the Council of Governors. Specific details on each case number, place of suing, parties, advocates on record, relief sought, status, legal fees (paid and outstanding) and any other relevant information to be prepared and availed for scrutiny."
     },
     {
-      "order": 300,
+      "order": 301,
       "id": "entry-806630",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3615,7 @@
       "text": "No. Nature of Total No. No. of cases No. of cases Remarks Case of Cases where County is where County isthe Plaintiff the Defendant/ /Applicant Respondent"
     },
     {
-      "order": 301,
+      "order": 302,
       "id": "entry-806631",
       "label": "speech",
       "level": "3",
@@ -3615,7 +3627,7 @@
       "text": "1. 2. 3."
     },
     {
-      "order": 302,
+      "order": 303,
       "id": "entry-806633",
       "label": "heading",
       "level": "3",
@@ -3627,7 +3639,7 @@
       "text": "4. 5."
     },
     {
-      "order": 303,
+      "order": 304,
       "id": "entry-806634",
       "label": "speech",
       "level": "3",
@@ -3639,7 +3651,7 @@
       "text": "8. County Sources of Funding for Preceding Five Financial Years - Paragraph 1(d)(viii)."
     },
     {
-      "order": 304,
+      "order": 305,
       "id": "entry-806635",
       "label": "speech",
       "level": "3",
@@ -3651,7 +3663,7 @@
       "text": "Summary of all sources of funds for the preceding five financial years and the projections for the upcoming financial year:-"
     },
     {
-      "order": 305,
+      "order": 306,
       "id": "entry-806636",
       "label": "speech",
       "level": "3",
@@ -3663,7 +3675,7 @@
       "text": "No. Revenue FY FY FY FY 20....../ FY FY Remarks Source 20....../ 20....../ 20....../ 20......... 20....../ 20....../ 20......... 20......... 20........( (Actual) 20........( 20........( (Actual) (Actual) Actual) Actual) Actual)"
     },
     {
-      "order": 306,
+      "order": 307,
       "id": "entry-806637",
       "label": "speech",
       "level": "3",
@@ -3675,7 +3687,7 @@
       "text": "1. Equitable share 2. Conditional grants 3. Own source revenue 4. Unconditional grants 5. Development partners 6. Borrowings 7. Other sources"
     },
     {
-      "order": 307,
+      "order": 308,
       "id": "entry-806638-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "3",
@@ -3687,7 +3699,7 @@
       "text": "(Question of the New Schedule proposed)"
     },
     {
-      "order": 308,
+      "order": 309,
       "id": "entry-806638-parenthesis-split-2-of-3",
       "label": "scene",
       "level": "3",
@@ -3699,7 +3711,7 @@
       "text": "(New Schedule read the First Time)"
     },
     {
-      "order": 309,
+      "order": 310,
       "id": "entry-806638-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "3",
@@ -3711,7 +3723,7 @@
       "text": "(Question, that the New Schedule be read a Second Time, proposed)"
     },
     {
-      "order": 310,
+      "order": 311,
       "id": "entry-806639",
       "label": "speech",
       "level": "3",
@@ -3723,7 +3735,7 @@
       "text": "The Division will be done at the end."
     },
     {
-      "order": 311,
+      "order": 312,
       "id": "entry-806640-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3735,7 +3747,7 @@
       "text": "Clause 2, the Title and Clause 1"
     },
     {
-      "order": 312,
+      "order": 313,
       "id": "entry-806640-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3747,7 +3759,7 @@
       "text": "(Question, that Clause 2, the Title and Clause 1 be part of the Bill, proposed)"
     },
     {
-      "order": 313,
+      "order": 314,
       "id": "entry-806641-split-before-5571ba0f-2558-45e1-9f10-4a436fb4635e",
       "label": "speech",
       "level": "5",
@@ -3759,7 +3771,7 @@
       "text": "The Division will be done at the end. We now proceed to Order No. 11 so that we give progress together."
     },
     {
-      "order": 314,
+      "order": 315,
       "id": "entry-806641-split-selected-d4d67814-e5ce-4065-9119-daf882741713",
       "label": "heading",
       "level": "3",
@@ -3771,7 +3783,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) (NO.2) BILL"
     },
     {
-      "order": 315,
+      "order": 316,
       "id": "entry-806641-split-after-c4d57264-4daf-4743-aef7-7a46260b7463-split-selected-67a579e8-74d4-4e45-a5f8-848b4f272497",
       "label": "scene",
       "level": "3",
@@ -3783,7 +3795,7 @@
       "text": "(SENATE BILLS NO.7 OF 2017)"
     },
     {
-      "order": 316,
+      "order": 317,
       "id": "entry-806641-split-after-c4d57264-4daf-4743-aef7-7a46260b7463-split-after-c3b4572b-db06-48a1-96b0-d360ea654af0",
       "label": "speech",
       "level": "3",
@@ -3795,7 +3807,7 @@
       "text": "Hon. Senators, we are now considering The County Governments (Amendment) (No.2) Bill (Senate Bills No.7 of 2017)."
     },
     {
-      "order": 317,
+      "order": 318,
       "id": "entry-806645-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3807,7 +3819,7 @@
       "text": "Clauses 2 and 3"
     },
     {
-      "order": 318,
+      "order": 319,
       "id": "entry-806645-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3819,7 +3831,7 @@
       "text": "(Question, that Clauses 2 and 3 be Part of the Bill proposed)"
     },
     {
-      "order": 319,
+      "order": 320,
       "id": "entry-806646",
       "label": "speech",
       "level": "5",
@@ -3831,7 +3843,7 @@
       "text": "Hon. Senators, the Division will be at the end."
     },
     {
-      "order": 320,
+      "order": 321,
       "id": "entry-806647-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -3843,7 +3855,7 @@
       "text": "The Title and Clause 1"
     },
     {
-      "order": 321,
+      "order": 322,
       "id": "entry-806647-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3855,7 +3867,7 @@
       "text": "(Question that the Title and Clause 1 be part of the Bill proposed)"
     },
     {
-      "order": 322,
+      "order": 323,
       "id": "entry-806648",
       "label": "speech",
       "level": "3",
@@ -3867,7 +3879,7 @@
       "text": "Hon. Senators, the Division will be at the end. Proceed, Mover of The Assumption of Office of the County Governor Bill (Senate Bills No.1 of 2018)."
     },
     {
-      "order": 323,
+      "order": 324,
       "id": "entry-806649",
       "label": "speech",
       "level": "3",
@@ -3879,7 +3891,7 @@
       "text": "Madam Temporary Speaker, pursuant to Standing Order 142, I beg to move that the Committee of the Whole report progress on its consideration of the The Assumption of Office of the County Governor Bill (Senate Bills No.1 of 2018) and seek leave to sit again tomorrow."
     },
     {
-      "order": 324,
+      "order": 325,
       "id": "entry-806650-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3891,7 +3903,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 325,
+      "order": 326,
       "id": "entry-806650-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3903,7 +3915,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 326,
+      "order": 327,
       "id": "entry-806651",
       "label": "speech",
       "level": "3",
@@ -3915,7 +3927,7 @@
       "text": "Proceed, Mover of The County Governments (Amendment) (No.2) Bill (Senate Bills No.7 of 2017)."
     },
     {
-      "order": 327,
+      "order": 328,
       "id": "entry-806652",
       "label": "speech",
       "level": "3",
@@ -3927,7 +3939,7 @@
       "text": "Thank you, Madam Temporary Speaker. Pursuant to Standing Order 142, I beg to move that the Committee of the Whole reports progress on its consideration of the The County Governments (Amendment)(No.2) Bill (Senate Bills No.7 of 2017) and seeks leave to sit again tomorrow. Thank you, Madam Temporary Chairperson."
     },
     {
-      "order": 328,
+      "order": 329,
       "id": "entry-806653-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "3",
@@ -3939,7 +3951,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 329,
+      "order": 330,
       "id": "entry-806653-parenthesis-split-2-of-3",
       "label": "scene",
       "level": "3",
@@ -3951,7 +3963,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 330,
+      "order": 331,
       "id": "entry-806653-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "3",
@@ -3963,7 +3975,7 @@
       "text": "(The House Resumed)"
     },
     {
-      "order": 331,
+      "order": 332,
       "id": "entry-806656",
       "label": "scene",
       "level": "3",
@@ -3975,7 +3987,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) in the Chair]"
     },
     {
-      "order": 332,
+      "order": 333,
       "id": "entry-806657",
       "label": "heading",
       "level": "2",
@@ -3987,7 +3999,7 @@
       "text": "PROGRESS REPORTED"
     },
     {
-      "order": 333,
+      "order": 334,
       "id": "entry-806658",
       "label": "heading",
       "level": "3",
@@ -3999,7 +4011,7 @@
       "text": "THE ASSUMPTION OF OFFICE OF THE COUNTY GOVERNOR BILL (SENATE BILLS NO.1 OF 2018)"
     },
     {
-      "order": 334,
+      "order": 335,
       "id": "entry-806659",
       "label": "speech",
       "level": "3",
@@ -4011,7 +4023,7 @@
       "text": "Order, Senators! I think there are two Orders. We will start with the The Assumption of Office of the County Governor Bill (Senate Bills No.1 of 2018). Yes, proceed, Chairperson."
     },
     {
-      "order": 335,
+      "order": 336,
       "id": "entry-806660",
       "label": "speech",
       "level": "3",
@@ -4023,7 +4035,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to report progress; that the Committee of the Whole has considered The Assumption of Office of the County Governor Bill (Senate Bills No.1 of 2018) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 336,
+      "order": 337,
       "id": "entry-806661",
       "label": "speech",
       "level": "3",
@@ -4035,7 +4047,7 @@
       "text": "Yes, Mover?"
     },
     {
-      "order": 337,
+      "order": 338,
       "id": "entry-806662",
       "label": "speech",
       "level": "3",
@@ -4047,7 +4059,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the House do agree with the Committee on the said Report."
     },
     {
-      "order": 338,
+      "order": 339,
       "id": "entry-806663",
       "label": "speech",
       "level": "3",
@@ -4059,7 +4071,7 @@
       "text": "Who is seconding?"
     },
     {
-      "order": 339,
+      "order": 340,
       "id": "entry-806664",
       "label": "speech",
       "level": "3",
@@ -4071,7 +4083,7 @@
       "text": "Mr. Deputy Speaker, Sir, I ask the Senator for Nandi to Second the Report."
     },
     {
-      "order": 340,
+      "order": 341,
       "id": "entry-806665",
       "label": "speech",
       "level": "3",
@@ -4083,7 +4095,7 @@
       "text": "I second."
     },
     {
-      "order": 341,
+      "order": 342,
       "id": "entry-806666-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -4095,7 +4107,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 342,
+      "order": 343,
       "id": "entry-806666-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -4107,7 +4119,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 343,
+      "order": 344,
       "id": "entry-806667-split-before-e0ad3b4b-274a-439a-8646-9d5afd4e7d93",
       "label": "speech",
       "level": "3",
@@ -4119,7 +4131,7 @@
       "text": "We move to the next Order, which is The County Governments (Amendment)(No.2) Bill (Senate Bills No.7 of 2017). Where is the Chairperson? You have the Floor."
     },
     {
-      "order": 344,
+      "order": 345,
       "id": "entry-806667-split-selected-b0063c2c-3ccf-4d5c-8dae-2de06b322a02",
       "label": "heading",
       "level": "3",
@@ -4131,7 +4143,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) (NO.2) BILL"
     },
     {
-      "order": 345,
+      "order": 346,
       "id": "entry-806667-split-after-e34ab22e-ee42-4d06-bb4e-45dfb1c90577",
       "label": "speech",
       "level": "3",
@@ -4143,7 +4155,7 @@
       "text": "(SENATE BILLS NO.7 OF 2017)"
     },
     {
-      "order": 346,
+      "order": 347,
       "id": "entry-806668",
       "label": "speech",
       "level": "3",
@@ -4155,7 +4167,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to report progress; that the Committee of the whole House has considered The County Governments (Amendment) (No.2) Bill (Senate Bills No.7 of 2017) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 347,
+      "order": 348,
       "id": "entry-806669",
       "label": "speech",
       "level": "3",
@@ -4167,7 +4179,7 @@
       "text": "Yes, Mover?"
     },
     {
-      "order": 348,
+      "order": 349,
       "id": "entry-806670",
       "label": "speech",
       "level": "3",
@@ -4179,7 +4191,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the House - is it do or doth? - there is a debate about this---"
     },
     {
-      "order": 349,
+      "order": 350,
       "id": "entry-806671",
       "label": "speech",
       "level": "3",
@@ -4191,7 +4203,7 @@
       "text": "Order, Senator Mutula Kilonzo Jnr! Where is the debate?"
     },
     {
-      "order": 350,
+      "order": 351,
       "id": "entry-806672",
       "label": "speech",
       "level": "3",
@@ -4203,7 +4215,7 @@
       "text": "I have heard it from a very senior Member of this House, the former Attorney-General emeritus, that it is 'doth.'"
     },
     {
-      "order": 351,
+      "order": 352,
       "id": "entry-806673",
       "label": "speech",
       "level": "3",
@@ -4215,7 +4227,7 @@
       "text": "'Doth' is the traditional version; 'do' is modern; and both are right."
     },
     {
-      "order": 352,
+      "order": 353,
       "id": "entry-806674",
       "label": "speech",
       "level": "3",
@@ -4227,7 +4239,7 @@
       "text": "Mr. Deputy Speaker, Sir, let us do the modern times version, whereas 'doth' is 'do'. Mr. Deputy Speaker, Sir, I beg to move that the House do agree with the Committee on the said Report. I ask Sen. Wako to Second."
     },
     {
-      "order": 353,
+      "order": 354,
       "id": "entry-806675",
       "label": "speech",
       "level": "3",
@@ -4239,7 +4251,7 @@
       "text": "seconded."
     },
     {
-      "order": 354,
+      "order": 355,
       "id": "entry-806676",
       "label": "speech",
       "level": "3",
@@ -4251,7 +4263,7 @@
       "text": "Thank you. Sen. Mutula Kilonzo Jnr., ours is a House and process bound by customs and traditions. Therefore, when you have a choice between modernity and custom, you choose custom."
     },
     {
-      "order": 355,
+      "order": 356,
       "id": "entry-806677-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -4263,7 +4275,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 356,
+      "order": 357,
       "id": "entry-806677-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -4275,7 +4287,7 @@
       "text": "(Sen. Omogeni stood up)"
     },
     {
-      "order": 357,
+      "order": 358,
       "id": "entry-806678",
       "label": "speech",
       "level": "3",
@@ -4287,7 +4299,7 @@
       "text": "Sen. Omogeni, when the Chair indulges you, it does not include a leeway to pick water and greet people. It means you proceed with haste to your nearest point of settlement. Hon. Senators, I will now put the question."
     },
     {
-      "order": 358,
+      "order": 359,
       "id": "entry-806679",
       "label": "scene",
       "level": "3",
@@ -4299,7 +4311,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 359,
+      "order": 360,
       "id": "entry-806680",
       "label": "speech",
       "level": "3",
@@ -4311,7 +4323,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir. In the Senate, we do not have the confusion of the word \"doth\" or \"do.\" We stand guided by the Table. Could you direct that we either use \"doth\" or \"do\" because we cannot have both? If the custom is \"doth\", then we should use \"doth\" because we have no problem with saying \"doth\" the same way we do not have a problem with saying \"conscientiously.\" Your directions are important."
     },
     {
-      "order": 360,
+      "order": 361,
       "id": "entry-806681",
       "label": "speech",
       "level": "3",
@@ -4323,7 +4335,7 @@
       "text": "Sen. Mutula Kilonzo Jnr., what is out of order? Is it \"do\" or \"doth\"?"
     },
     {
-      "order": 361,
+      "order": 362,
       "id": "entry-806682",
       "label": "speech",
       "level": "3",
@@ -4335,7 +4347,7 @@
       "text": "Mr. Deputy Speaker, Sir, you pointed out to a very important issue on custom. I remember in the previous Senate, we used the word \"doth.\" I do not know at what point we changed the word to \"do.\" However, the Table officers here have been useful to us and we thank them for being useful all the time. However, we cannot do this without some form of direction. There must have been something that was done internally to change this to \"do.\" From where you, Sen. Wako and I come from, we love the word \"doth\" notwithstanding---"
     },
     {
-      "order": 362,
+      "order": 363,
       "id": "entry-806683",
       "label": "speech",
       "level": "3",
@@ -4347,7 +4359,7 @@
       "text": "Where do we come from?"
     },
     {
-      "order": 363,
+      "order": 364,
       "id": "entry-806684",
       "label": "scene",
       "level": "3",
@@ -4359,7 +4371,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 364,
+      "order": 365,
       "id": "entry-806685",
       "label": "speech",
       "level": "3",
@@ -4371,7 +4383,7 @@
       "text": "The profession where we take pride in being learned. We like those words. Maybe, there was a direction internally to change the wordings that are used here."
     },
     {
-      "order": 365,
+      "order": 366,
       "id": "entry-806686",
       "label": "speech",
       "level": "3",
@@ -4383,7 +4395,7 @@
       "text": "You are at liberty to use \"doth\" even when the letter reads \"do.\" The consequence is the same. That brings us to the end of that Order. Let us move to the next Order."
     },
     {
-      "order": 366,
+      "order": 367,
       "id": "entry-806687",
       "label": "heading",
       "level": "1",
@@ -4395,7 +4407,7 @@
       "text": "MOTION"
     },
     {
-      "order": 367,
+      "order": 368,
       "id": "entry-806688-split-selected-ec59f853-9244-4e50-abe2-5a49f0ec8c0b",
       "label": "heading",
       "level": "3",
@@ -4407,7 +4419,7 @@
       "text": "SITTINGS OF THE SENATE OUTSIDE PARLIAMENT BUILDINGS, NAIROBI"
     },
     {
-      "order": 368,
+      "order": 369,
       "id": "entry-806688-split-after-c0f82519-845b-42ab-bb87-cb44484e4885",
       "label": "speech",
       "level": "3",
@@ -4419,7 +4431,7 @@
       "text": "THAT, AWARE that the Senate of Kenya is established by Article 93 of the Constitution and its main role, as set out in Article 96 of the Constitution, is to represent and serve the interests of the counties and their governments; FURTHER AWARE that the Senate plays a critical role in the linkage of the devolved governments and the national government; NOTING that since its inception the Senate has held its sittings in Nairobi with its committees occasionally visiting the devolved governments on fact finding missions; COGNIZANT of the need to enhance the interaction between the Senate and county governments as a means of bringing the Senate closer to the counties and the general public; APPRECIATING the recommendation of the Senate Business Committee that a Sitting of the Senate be held away from the traditional premises in Parliament Buildings, Nairobi, in order to - i) provide an opportunity to members and staff of county assemblies to learn and borrow best practices from the Senate; ii) promote the role and work of the Senate; iii) highlight existing opportunities for people to get involved in the work of the Senate; and iv) develop and strengthen partnerships at the county level and enhance public awareness regarding the Business of the Senate. NOW THEREFORE, pursuant to Article 126 (1) of the Constitution and Standing Order 31 (1) of the Senate Standing Orders, the Senate resolves that its plenary and committees sittings be held in Uasin Gishu County from 26th to 28thSeptember, 2018."
     },
     {
-      "order": 369,
+      "order": 370,
       "id": "entry-806689-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -4431,7 +4443,7 @@
       "text": "(Sen. Kang'ata on 19.6.2018)"
     },
     {
-      "order": 370,
+      "order": 371,
       "id": "entry-806689-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -4443,7 +4455,7 @@
       "text": "(Resumption of Debate interrupted on 19.6.2018)"
     },
     {
-      "order": 371,
+      "order": 372,
       "id": "entry-806690",
       "label": "speech",
       "level": "3",
@@ -4455,7 +4467,7 @@
       "text": "Where is the Senate Majority Leader? This Motion was moved and replied to and the question was proposed. So, it is now open for Members to debate. I can see a request from Sen. Khaniri, but I cannot see him. Proceed, Sen. Cherargei."
     },
     {
-      "order": 372,
+      "order": 373,
       "id": "entry-806693",
       "label": "speech",
       "level": "3",
@@ -4467,7 +4479,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for this opportunity to support this Motion. From the outset, devolution brought a good thing in this country. Article 174 of the Constitution is about the objects of devolution while Article 10 is about national values and principles of governance. There is the essence of democracy, the rule of law, understanding the Constitution; Kenyans appreciate what it has created in various offices. This is important because the people from north rift will take pride to host the first sitting of this Senate outside the Parliament Buildings in Nairobi. We will also be happy because Uasin Gishu County is my neighbour. It is also in the north rift where we have Nandi, Trans Nzoia and Elgeyo-Marakwet County where our Senate Majority Leader is the Senator. It will be wonderful so that we also appreciate diverse culture and the ways of life of Kenyans because we are one nation, one people, but from different and diverse backgrounds. We are from different ethnic communities and backgrounds. When we go there, Senators should not leave without having a taste of \"energizer drink\". This is a famous name used by athletics legends of this world and even across the globe to mean mursik. Secondly, most of the issues that we will canvass, debate, discuss or engage in during our sitting in Uasin Gishu County should be those that concern that region. As we talk now, there are issues of National Cereals and Produce Board (NCPB). I am happy that farmers have appeared before various agencies that are concerned with agriculture including the Ministry and many parliamentary committees."
     },
     {
-      "order": 373,
+      "order": 374,
       "id": "entry-806696",
       "label": "scene",
       "level": "3",
@@ -4479,7 +4491,7 @@
       "text": "(There was a technical hitch)"
     },
     {
-      "order": 374,
+      "order": 375,
       "id": "entry-806697",
       "label": "speech",
       "level": "3",
@@ -4491,7 +4503,7 @@
       "text": "Proceed, Sen. Cherargei."
     },
     {
-      "order": 375,
+      "order": 376,
       "id": "entry-806698",
       "label": "speech",
       "level": "3",
@@ -4503,7 +4515,7 @@
       "text": "I do not know if somebody is switching off the microphone. It might be political sabotage."
     },
     {
-      "order": 376,
+      "order": 377,
       "id": "entry-806699",
       "label": "speech",
       "level": "3",
@@ -4515,7 +4527,7 @@
       "text": "Order, Sen. Cherargei! The Standing Orders prohibit you from imputing improper motives."
     },
     {
-      "order": 377,
+      "order": 378,
       "id": "entry-806700",
       "label": "speech",
       "level": "3",
@@ -4527,7 +4539,7 @@
       "text": "Mr. Deputy Speaker, Sir, I apologize."
     },
     {
-      "order": 378,
+      "order": 379,
       "id": "entry-806701",
       "label": "speech",
       "level": "3",
@@ -4539,7 +4551,7 @@
       "text": "Very well, proceed."
     },
     {
-      "order": 379,
+      "order": 380,
       "id": "entry-806702",
       "label": "speech",
       "level": "3",
@@ -4551,7 +4563,7 @@
       "text": "There is also the issue of farming. I want to say with a heavy heart that as farmers from north rift, it is important that a lot of key issues, especially concerning farming, form part of the discussions we will have in Uasin Gishu County. We have heard about maize issues. We need to ensure that we provide direction to the many residents who are majorly farmers from Uasin Gishu, Nandi, Kakamega, Bungoma, Vihiga, Kisumu and Kericho which is in the south rift because they are the people who toil and work hard to ensure that Kenyans do not go hungry. There are many issues not only concerning maize but also tea and sugar that we discussed. All these are emotive issues. Our sugar levels have been skyrocketing and that is why we are concerned that these issues must be handled. When we go there, let us discuss more of these issues that concerns north rift. I am not saying we exclude any other part of Kenya. However, I humbly request that we should go and discuss issues of farming. Most Senators here are farmers because they come from farming areas. When farming does not take place in the north rift, Kenyans will go hungry. Therefore, we appreciate the role that they play. I hope we will provide direction. There was a statement on sugar that you have directed to a committee and I hope by that time, the report will be ready. I also hope my report, courtesy of Sen. Isaac Mwaura on corruption, will be ready. Mr. Deputy Speaker, Sir, thirdly, in as much as farming is facing many problems, we need to agree as Senate, because under the Constitution, agriculture is one of the devolved functions. I appreciate the passion that all the Senators had towards the problems bedeviling the agricultural subsector must be dealt with. I am a Member of the ad hoc committee that was created by the Senate on the issue of problems affecting tea farmers in this country. We need to put it into perspective. When we have a sitting there, the people who will come and follow the proceedings are majorly farmers. We should take time and assure them that the legislative, policy framework and the reports of the House based on agriculture must be dealt with. We must give direction on this. Fourth, we have so many natural resources, I am aware of some in Migori County where our late brother, Sen. Ben Okello, came from and many other areas. I hope my petition which is undergoing your scrutiny on the issues and problems being faced by the people of Karebe Goldmine will at that time have reached fruition so that the people who come from that region will be fully aware of what we are discussing. I know there are many petitions that are lying before this House, which I hope at that time, they will be ready so that the petitions that have priority and concern especially Nandi County where I come from, where some of these issues like the Karebe Goldmine which we are facing in Chemelil/Chemase Ward must be addressed. This House has pronounced itself before on the Report of Talai Historical Injustices in Nandi County. I hope the reports on such petitions will be ready, such that the Karebe Goldmine issue which will come and the issues affecting the people of Nandi can be canvassed and debated upon. We expect the Senate in its wisdom to provide the necessary direction on some of these issues that are affecting farmers. There is also the issue of historical injustices. During the last Parliament, the Chair and many others worked tirelessly and burnt the midnight oil to ensure that the issues of historical injustices are dealt with. Mr. Deputy Speaker, Sir, I am happy that the Cabinet Secretary of Interior and Co-ordination of National Government, Dr. Fred Matiang'i, the Governor of Kisumu County, Prof. Anyang'-Nyong'o, who was formerly a Senator in this House, my Governor and Governor Stephen Sang, who was also a former Senator of Nandi County had a meeting yesterday in Nakuru with the council of elders and decided to take the route of Alternative Dispute Resolution (ADR) on the issue of boundaries. I know in Nandi, we had wanted to take over around two constituencies or seven towns so that we can increase our revenue there. But I agree that that issue needs ADR---"
     },
     {
-      "order": 380,
+      "order": 381,
       "id": "entry-806705",
       "label": "speech",
       "level": "3",
@@ -4563,7 +4575,7 @@
       "text": "Order! Did I hear you just say that you have intentions of taking over another county?"
     },
     {
-      "order": 381,
+      "order": 382,
       "id": "entry-806706",
       "label": "speech",
       "level": "3",
@@ -4575,7 +4587,7 @@
       "text": "My apologies, Mr. Deputy Speaker, Sir. I said we have developed an imagination of taking over seven counties---"
     },
     {
-      "order": 382,
+      "order": 383,
       "id": "entry-806707",
       "label": "speech",
       "level": "3",
@@ -4587,7 +4599,7 @@
       "text": "That is even worse!"
     },
     {
-      "order": 383,
+      "order": 384,
       "id": "entry-806708",
       "label": "speech",
       "level": "3",
@@ -4599,7 +4611,7 @@
       "text": "I apologize. I withdraw that part of the statement. I want to say on that line that I am happy that the boundary issue will be resolved. There are constitutional mechanisms that are being provided on how to address boundary issues. I hope by that time, the Senate will provide direction. I know the County Boundaries Bill is before this House, and I am happy it is being expedited to ensure that it comes to fruition such that by that time, we can have up to date information on such boundaries issues that maybe Kisumu, Nandi, Kakamega have, and those issues will be put in perspective and we ensure that we sort them out, once and for all. As I wind up, I request that those Senators who will not come, like my good friend, Sen. Mohammed Faki, Senator 001 and others including the Chair, will have time to go around our county---"
     },
     {
-      "order": 384,
+      "order": 385,
       "id": "entry-806709",
       "label": "speech",
       "level": "3",
@@ -4611,7 +4623,7 @@
       "text": "Order! Sen. Faki is not Senator 001. He could be the Senator for County No.001; there is a difference between the two."
     },
     {
-      "order": 385,
+      "order": 386,
       "id": "entry-806712",
       "label": "speech",
       "level": "3",
@@ -4623,7 +4635,7 @@
       "text": "Mr. Deputy Speaker, Sir, I stand guided on the same."
     },
     {
-      "order": 386,
+      "order": 387,
       "id": "entry-806713",
       "label": "speech",
       "level": "3",
@@ -4635,7 +4647,7 @@
       "text": "Proceed."
     },
     {
-      "order": 387,
+      "order": 388,
       "id": "entry-806716",
       "label": "speech",
       "level": "3",
@@ -4647,7 +4659,7 @@
       "text": "Mr. Deputy Speaker, Sir, I can see the Attorney-General emeritus wants to proceed with another matter so I will try and limit my discussion. Finally, I would request that the Chair and Senators from other regions, even Sen. Pareno, would have an opportunity to address the county assemblies. On my behalf, I would like to say that all the Senators will be welcome to Nandi County Assembly so that you can also engage the MCAs and build capacity for them in terms of oversight, how to do presentation and initiate legislation because they are the foot soldiers. They are the key people who ensure that they grease the engines of devolution and also that they do not oil in the wrong direction of corruption and also look in areas like my county where we are paying subscription fee to ensure the MCAs cut weight or apply lipstick or tattoos on our bodies. I think those should be provided but we should guide them in the appropriate direction. Mr. Deputy Speaker, Sir, I support."
     },
     {
-      "order": 388,
+      "order": 389,
       "id": "entry-806719",
       "label": "speech",
       "level": "3",
@@ -4659,7 +4671,7 @@
       "text": "Thank you, Sen. Cherargei. That is well put, except the expansionist ideas."
     },
     {
-      "order": 389,
+      "order": 390,
       "id": "entry-806720",
       "label": "speech",
       "level": "3",
@@ -4671,7 +4683,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for allowing me to contribute to this Motion. This is one very good idea from the Senate. The Senate sitting in counties is a statement. It is an outreach programme. We have so many counties, they cannot access the Senate easily. Reaching out to them by sitting in their counties would create an environment for proper engagement with the counties and the county management. At this particular moment when we are talking about building bridges; when the Senate sat and even had a Motion on the handshake and how we can build bridges in this country, this act of the Senate sitting out in the counties is in itself building bridges in this country. It will build bridges with the people and to the counties that we represent. Mr. Deputy Speaker, Sir, it will be a tool that can be used to reach out to the people. Apart from reaching out and engaging with the people, these regions have different needs and different issues with different counties. We will be able to pick out peculiar issues that will arise from each county in a better way than would be the case when we are sitting in Nairobi. Through this programme, we will engage in different ways with different counties because they have different needs and aspects of issues that they want the Senate to address. It will also boost the businesses of these counties. We used to have rotational sittings in the East African Legislative Asssembly (EALA). The Assembly used to rotate and sit in every partner state. The moment we landed in any partner state, that state would feel that the Assembly is there. So, in this particular aspect, if they declared a 24-hour economy like they did in Kakamega, I can assure you that these different aspects of businesses---"
     },
     {
-      "order": 390,
+      "order": 391,
       "id": "entry-806723",
       "label": "speech",
       "level": "3",
@@ -4683,7 +4695,7 @@
       "text": "Any particular details?"
     },
     {
-      "order": 391,
+      "order": 392,
       "id": "entry-806724",
       "label": "speech",
       "level": "3",
@@ -4695,7 +4707,7 @@
       "text": "Mr. Deputy Speaker, Sir, I am thinking about the food and tourism industries and the engagement in itself. The economy of a county will definitely be boosted when the Senate sits there. We need to be prepared for this. It will require a special budget because we do not want to go to one county and then say that we are short of funds to go to the next county. If we do so, the other counties will feel discriminated. I am sure that by the time the Senate Business Committee came up with this, they had thought about the budget that goes alongside it. I am sure that we will be able to implement it. I say this because there have been times when we want to do something as a Committee and we were told that the resources were lean. We do not want to hear that the resources are lean when it comes to sharing this circuit around the counties. If that will happen people will demand to know why we did not go to their counties. On a lighter note, as we were going round the East African Communities (EAC) states, at one point the Speaker of the East Africa Legislative Assembly (EALA) tried to stop the rotation and it became a big issue. Hearing from the people and engaging with them in the counties will become so exciting that stopping it will not be easy. When the Speaker of EALA tried to stop the rotation, she was impeached. She was from Uganda and it was sad, but that is what brought a lot of issues within the Assembly. Let us get prepared for it. The counties should also be ready for it. I am sure that it will be of mutual benefit to the counties and the Senate. Mr. Deputy Speaker, Sir, I support."
     },
     {
-      "order": 392,
+      "order": 393,
       "id": "entry-806725",
       "label": "speech",
       "level": "3",
@@ -4707,7 +4719,7 @@
       "text": "Thank, Sen. Pareno. I hope you were not implying similar consequences for the Speaker of the Senate if the sittings outside Nairobi are stopped once they are approved. I hope that was not the issue."
     },
     {
-      "order": 393,
+      "order": 394,
       "id": "entry-806726",
       "label": "speech",
       "level": "3",
@@ -4719,7 +4731,7 @@
       "text": "Mr. Deputy Speaker, Sir, that was not the intention. I was just sharing the experience that we had at EALA."
     },
     {
-      "order": 394,
+      "order": 395,
       "id": "entry-806727",
       "label": "speech",
       "level": "3",
@@ -4731,7 +4743,7 @@
       "text": "Which does not apply in this case."
     },
     {
-      "order": 395,
+      "order": 396,
       "id": "entry-806728",
       "label": "speech",
       "level": "3",
@@ -4743,7 +4755,7 @@
       "text": "Mr. Deputy Speaker, Sir, it might not apply here."
     },
     {
-      "order": 396,
+      "order": 397,
       "id": "entry-806729",
       "label": "speech",
       "level": "3",
@@ -4755,7 +4767,7 @@
       "text": "Does not apply in this case?"
     },
     {
-      "order": 397,
+      "order": 398,
       "id": "entry-806730",
       "label": "speech",
       "level": "3",
@@ -4767,7 +4779,7 @@
       "text": "Mr. Deputy Speaker, Sir, it does not apply."
     },
     {
-      "order": 398,
+      "order": 399,
       "id": "entry-806731",
       "label": "speech",
       "level": "3",
@@ -4779,7 +4791,7 @@
       "text": "Thank you, Senator. Sen. Wako."
     },
     {
-      "order": 399,
+      "order": 400,
       "id": "entry-806732",
       "label": "speech",
       "level": "3",
@@ -4791,7 +4803,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me the opportunity to speak on this very important Motion. In fact, we had discussed it in the Kamukunji. The Motion speaks for itself and the justification is there, which is, to provide an opportunity to Members and staff of county assemblies to learn and borrow best practices from the Senate, promote the role and work of the Senate et cetera. This are very noble objectives to which I subscribe."
     },
     {
-      "order": 400,
+      "order": 401,
       "id": "entry-806733-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -4803,7 +4815,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 401,
+      "order": 402,
       "id": "entry-806733-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -4815,7 +4827,7 @@
       "text": "[The Temporary Speaker (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 402,
+      "order": 403,
       "id": "entry-806734",
       "label": "speech",
       "level": "3",
@@ -4827,7 +4839,7 @@
       "text": "As Sen. Pareno, the incoming Madam Speaker, has just stated, I am aware that EALA has been going round all the capital cities of the five member States. This has made the activities of the East Africa Community (EAC) to be known by members of those countries. Before EALA began going round, we used to have the East African Court of Justice, which would also go round. Although the headquarters was in Nairobi, they felt that they must go round. They would go to Kampala and Dar es Salaam. Our own Court of Appeal of Kenya, which was the highest court then, had the policy of going round the provincial capitals, particularly Mombasa, Nakuru, Kisumu and Eldoret to hear cases. Therefore, the concept of rotating around in order for the institutions to be known on the ground on what they are doing is well grounded. I will not speak much on that one because I have a Bill to speak on. Madam Temporary Speaker, the way this Motion is crafted does not reflect the discussions that we had during the Kamukunji. This was not to be the only county that we will visit. It is crafted as if this Motion will only give permission for the Senate to sit in Uasin Gishu County from 24th t0 28th September, 2018. Once the Motion is passed and we go there, it will be the end of the matter. It will require another Motion again to go to other areas of Kenya. The spirit that I got when we attended the Kamukunji is that this should not be the only county to be visited, and you have given the example of the Speaker of EALA who tried to stop rotation. Here we are only permitting sittings in only one county outside Nairobi. We may easily be told that we cannot go anywhere else because of budgetary issues and so on. These things happen in Government. I want to give notice that I will be moving an amendment to this Motion. Voting should not take place until that amendment is in place. It will be an amendment to reflect the spirit of the Kamukunji, which will in effect say that during the term of this Senate, we ought to have sat in all the regions. It does not have to be all the counties, but at least in all the regions of Kenya. The Office of the Clerk and the House leadership should produce a paper on the issue of finance and other issues that pertain to it, to ensure that we have those meetings. The meeting in Eldoret will be precedence setting for it will be the first time when we will be doing it. From it we will know where we have succeeded and where we have failed. We will refine the process as we go along. In this Motion, however, there ought to be a clause saying that this Senate, during its lifetime, which is five years, up to August 2022, will have gone in all the regions of Kenya. In doing so, the Rift Valley can be divided into North Rift and South Rift and the same can apply to North Eastern. For Mombasa, we can talk of North and South and for Nyanza the Abagusii and the Abakuria may also want the Senate to meet in their areas. Those communities may also want to feel the impact of what the Senate is all about. They may also want to see what their able Senator and Senior Counsel, Sen. Omogeni, has been doing in Nairobi. With those few remarks, I support, but plead that we do not bring the Motion to a vote until I have had an opportunity to draft that amendment and include it in this Motion."
     },
     {
-      "order": 403,
+      "order": 404,
       "id": "entry-806737",
       "label": "speech",
       "level": "3",
@@ -4839,7 +4851,7 @@
       "text": "I want to inform you that you can give notice of the amendment to the Clerk in writing. That is what the rules require of you for that amendment to be considered."
     },
     {
-      "order": 404,
+      "order": 405,
       "id": "entry-806738",
       "label": "scene",
       "level": "3",
@@ -4851,7 +4863,7 @@
       "text": "(Sen. Wako spoke off record)"
     },
     {
-      "order": 405,
+      "order": 406,
       "id": "entry-806739",
       "label": "speech",
       "level": "3",
@@ -4863,7 +4875,7 @@
       "text": "You are not on record."
     },
     {
-      "order": 406,
+      "order": 407,
       "id": "entry-806740",
       "label": "speech",
       "level": "3",
@@ -4875,7 +4887,7 @@
       "text": "Madam Temporary Speaker, the Motion should be ready. I told Sen. Olekina, who happens to come from the Maasai community, to draft his amendments. He is not here. He told me he had begun drafting it. So, I am sure that tomorrow morning, I will be able to submit it to the Clerk. Thank you."
     },
     {
-      "order": 407,
+      "order": 408,
       "id": "entry-806741",
       "label": "speech",
       "level": "3",
@@ -4887,7 +4899,7 @@
       "text": "Sen. Halake Abshiro, the Floor is yours."
     },
     {
-      "order": 408,
+      "order": 409,
       "id": "entry-806742",
       "label": "speech",
       "level": "3",
@@ -4899,7 +4911,7 @@
       "text": "Thank you, Madam Temporary Speaker. I stand to support this Motion. My senior colleague has mentioned the need for these sittings to be rotational as opposed to being in one place. In line with the principle of the hard to reach places, after Uasin Gishu County - I do not know what the rationale for choosing the county was - we can start with the hard to reach counties of northern Kenya like Isiolo, Marsabit, Mandera, Moyale and Wajir where this Senate perhaps, needs to see what the people there go through and also in the spirit of making sure that we take services closer to Kenyans. That will auger well with the people. This is a good Motion, notwithstanding where we are starting from. We will definitely make sure that the Senate in execution of its mandate ensures that it is there for the people. With regard to the objects of this Motion, I am pleased that we have all the four objectives that are noble in as far as taking ourselves to the people is concerned. However, there is one thing that I feel my senior colleague who will be drafting the amendments has to add. This is with regard to accountability of the Senate to the people they serve. We have drafted this Motion as if we are the only ones who know everything and we will be imparting knowledge downstream, but I am sure that we will learn much more when we go to the counties. Perhaps, we will get a lot of intelligence from the counties that will help us to execute our mandate. So, an object could be added in the draft amendments that, the Senate's objective is to take itself before the people and to be accountable to the people who are its customers. The counties are our number one customers and we are there to protect them. Therefore, in addition to us providing opportunities for Members to promote the role and work of the Senate, highlight existing opportunities and develop and strengthen partnerships, we will also be putting ourselves out there to be accountable, questioned and ensure that we do not think that we are the only ones who can impart knowledge. This will make us humble and have an open mind to be accountable to the people. Going forward, I suggest that we start from some of these counties so that we help them to anticipate and create competition between counties, especially the far-flung counties. This is a timely Motion and I support it. There is nothing as good as somebody who has the mandate to protect devolution sitting in the devolved units and seeing things from the perspective of our counterparts downstream. This will ensure that we look after their interests and legislate from their perspective. Of importance - as I said - in the amendments, as an objective, we should add a clause purposing us to go to the counties as a sign of being accountable to the people. Thank you."
     },
     {
-      "order": 409,
+      "order": 410,
       "id": "entry-806745",
       "label": "speech",
       "level": "3",
@@ -4911,7 +4923,7 @@
       "text": "Let us have, Sen. (Dr.) Inimah Getrude Musuruve."
     },
     {
-      "order": 410,
+      "order": 411,
       "id": "entry-806746",
       "label": "speech",
       "level": "3",
@@ -4923,7 +4935,7 @@
       "text": "Thank you, Madam Temporary Speaker. I stand to add my voice to this noble Motion. The Motion is timely. It is time we said that devolution is not a baby anymore; it is now a grown-up child. It is a tool that we can use to reach out to the people. Having Senate meetings in different counties in the Republic is backed by the Constitution. Article one of the Constitution states clearly that all sovereign power belongs to the people of Kenya. When we take our sittings to the people, we will be affirming that power belongs to the people. We represent our constituencies indirectly, but when we go to the counties, we will now be giving them direct power because they will listen to us and we will listen to them. So, going there will have a big impact. Our Constitution stipulates clearly the role of the Senate. We represent the counties and we serve to protect their interests and governments. So, when we take our sittings to the counties, we are doing what the Constitution demands of us. When we do what the Constitution demands of us, in essence what we will be communicating is that, we are becoming servant leaders. That is what the President was calling upon all of us to be; servant leaders who are committed to work. When we go to the people and talk to them, we will strengthen this belief and they will see that we are committed to serve them. Madam Temporary Speaker, we are sitting here because we have been employed by the people of the counties that we represent because we want to deliver on our mandate when we go to counties. The people will see that we are serious and committed to our business. I like the proposed timing on this Motion for us to be in the counties. We will be in the first county, Uasin Gishu County, from 24th to 28th September, 2018. That will be ample time to listen to the issues of the counties and for them to appreciate that we are sincere in our leadership and as such, they will have faith in us. I want to suggest that as we plan to conduct our sittings in the counties, the contents of the Order Paper should address some of the core issues that affect the specific counties we will be visiting. Constituents will be happy if we do this. For example, we are planning to go to Uasin Gishu, if we have issues of maize as part of the Orders of the day, then during debate, constituents will appreciate that we are keen and we have their interests at heart. That is what this Senate does. Going to the counties will help us in a big way in our oversight role. We will listen to the problems people have and ask questions of accountability. We have had times when people travel from the counties to this House to listen to our proceedings and engage with us. It is expensive to travel to Nairobi, and therefore, the people who visit us are small groups. However, when we go to the counties, many Members of County Assemblies (MCAs) will come to listen to our debates and borrow a leaf from us and we will also learn from them. Going to the counties will be a good follow-up of the resolutions of the Legislative Summit we had in Mombasa. In that Summit, we looked at how we can engage with the county assemblies to ensure that devolution becomes a reality. So, when we go there, we will be stressing on what we agreed in Mombasa. Going to Mombasa for the Legislative Summit was not a waste of resources because of what is about to happen. We now want to meet the people, engage with them, feel them and understand them. We want to ensure that we deliver to the people of this Republic. Madam Temporary Speaker, people need to come and question us on pertinent issues. There is need to sensitise the people of that particular county so that they are aware that the Senate will have its sittings there. County assembly members should also be made aware that the Senate will sit in their chamber. This will enable them to organise themselves with the burning questions that they would like us to address. Madam Temporary Speaker, we have a commitment to serve the people of this Republic. We want to engage with people in the counties so that they know that we are determined to serve them. When we are in the North Rift, the Senate can address issues affecting other neighbouring counties such as Bungoma and Kakamega. We can do the same for the whole country. I believe when we go to the counties, our people will expect a lot from us. We have a mandate to deliver to the people of this nation and show them that we are here because of them. If it were not for them, we would not be here. They have the sovereign power in this Republic and we want to serve them diligently. It will not be a waste of resources for us to rotationally sit in all the counties. This is the only way counties will know that we are serious about serving them. They will be happy that we are engaging with them directly at the grassroots level. In some counties, maybe people have never had the opportunity to come to the Senate. When the Senate goes to the counties, it will be a boon for us in leadership. People will see us as going to them as their servants and that we want to lead them. I support this Motion."
     },
     {
-      "order": 411,
+      "order": 412,
       "id": "entry-806751",
       "label": "speech",
       "level": "3",
@@ -4935,7 +4947,7 @@
       "text": "Thank you, Madam Temporary Speaker. Let me also join my colleagues by going on record for supporting this historical Motion. We may take it for granted that the Senate is debating a Motion to hold sittings in one of our county headquarters. However, we have had Independence for over 50 years. However, the people of this country have never been privileged to see Members of either the Senate or the National Assembly sitting in the county headquarters. So, we must pride ourselves. I have stood to be on record that I was privileged to sit in the Senate that made this historical decision to hold sittings in one of our county headquarters. We really must applaud ourselves for having taken steps to actualise what is in Article 126 of the Constitution. I also want to be on record as saying that what we are doing is progressive and forward looking. I cannot wait for the moment when I will also be the host for the Senate sittings in my County of Nyamira. I, therefore, support the proposed amendments by my colleague, Sen. Wako, of moving an amendment to this Motion to make it one that supports sittings, if possible, in all county headquarters. People passed the 2010 Constitution because they wanted power devolved to the counties. They did not pass it to continue with the culture of power being exercised from Nairobi City County. It was so that we can devolve all the fruits that are enjoyed by the people who reside in the Capital City. I am extremely excited and I look forward to September when we will be able to engage with the people of Uasin Gishu County. Madam Temporary Speaker, I hope that our host Senator will earnestly begin a campaign of awareness for the people of Uasin Gishu County so that they can be enlightened on the provisions of Article 119 of the Constitution. Residents of that county can present petitions that touch on issues of that county to the Senate for debate. I am proud that one of the key highlights of this sitting is to ensure that the committees discharge business when we go to Uasin Gishu County. That will be a golden opportunity for the people of Uasin Gishu and the neighbouring counties to have a direct engagement with the Senate. They will interact and understand the benefits of Article 119 of the Constitution which allows them to bring petitions to the Senate and sit in committees which are now open to the public. Madam Temporary Speaker, I would have loved if this sitting was held in a county where we need not fly, but travel by road. Anybody who travels by road to their county headquarters knows the deplorable conditions of our roads. For example, from Nairobi City through Mai Mahiu to Narok County, potholes on those roads are now forming gullies. I was just wondering: Does the person who heads the Kenya National Highways Authority (KeNHA) feel proud to see our roads deteriorating to that state? Do they feel proud that they are there to provide service to the people of Kenya, when they cannot discharge a single task of repairing a pothole? Some of the things that happen in this country can never happen in other jurisdictions like the United States of America (USA). There is no way a country can have such a wonderful road that takes our visitors to the Maasai Mara, but we leave it to deteriorate to the level of forming gullies. This is a national road linking this country to our neighbouring country of Tanzania. I hope that we will get another opportunity to hold another sitting in one of the county headquarters where we will have to travel by road. That way, we can have a true feel of how Kenyans feel on the state of our roads which have deteriorated and I am sorry to say so. We should also borrow a leaf from what the governors have been doing for the last five years. The Council of Governors (CoG) has been holding the annual CoG conferences where the people get involved. Other than the idea of a 24 hour economy, these meetings have been used to showcase what other counties are doing. In the last meeting that they held, the Governor of Makueni County was applauded as he showcased the kind of growth that his county has experienced. Madam Temporary Speaker, Sir, I hope that our colleagues in county assemblies will borrow some good practices on the business and dealings of the Senate. Therefore, Madam Temporary, Speaker, this Motion deserves our support. I hope that as my colleague, Sen. Wako, has stated, this is something that will extend to other counties and that it will not be an event that will be applicable only to the sittings in Uasin Gishu County. Finally, Madam Temporary, Speaker, I hope that we shall also use this opportunity, as we go to Uasin Gishu County, to give a true effect on the handshake that we had between His Excellency the President and the Rt. Hon. former Prime Minister. We should use this opportunity to demonstrate to the people that we want to pursue an agenda of unity and nation building, where each and every Kenyan has a sense of belonging in building a nation. We should also build a country where we should not worry about our tribes, but look at ourselves as Kenyans who want to build one nation. I hope that my good friend, Sen. Wamatangi, will be there to shake hands with the people of Uasin Gishu County. While there, he should assure them that after the handshake, we want to move forward as a team and build a strong Kenya that our children and the children that will come after them will be proud of. Madam Temporary, Speaker, with those few remarks, I fully support this Motion."
     },
     {
-      "order": 412,
+      "order": 413,
       "id": "entry-806754",
       "label": "speech",
       "level": "3",
@@ -4947,7 +4959,7 @@
       "text": "Thank you, Madam Temporary, Speaker. I rise to support the Motion that this House adopts and proceeds to hold its sittings outside Parliament, with the first proposed sitting being in Uasin Gishu County. Madam Temporary, Speaker, when the first sitting of the Senate was convened in 2013, part of the proposals and questions that came from the public in the debate that ensued was why Senators should travel all the way from as far as Mandera, Kisumu and Tana River to come and sit in one House in Nairobi to deliberate the issues that affect the people in those places. In the debate we engaged in then, there were proposals that we should have a system where Members contribute even via video link. That tells us the importance with which members of the public hold this particular concept of having sittings within an area that is accessible to them. Madam Temporary, Speaker, without being repetitive, I would like to acknowledge the role of this House, as is well articulated in Article 96 of the Constitution. One would ask why this did not happen earlier than now. Why did we take so long to decide that it is time for us to take our services to the people, engage them and see what they are able to do? When we do that, we shall lift and understand the problems that affect the people right from where they happen. Madam Temporary, Speaker, I would like to be clear on this one issue because during the just concluded 2017 General Elections, less than 30 per cent of the 47 elected Senators who sat in the previous House found their way back to this House. I was one those that were lucky enough, and I thank God for that. One of the questions that persisted all the time we went around during our campaigns - even now when a Senator goes to the ground, people ask what our role is and the contribution we make to the national duty of law making and development. Those questions are hard to answer when the parameters of measuring the contribution of a Member of Parliament (MP) or an elected leader have been set. People want to know the number of projects that we have opened or the amount of money we give out in harambees and so forth. It is a good concept for the House to sit at the county level for members of the public to witness what we do. I would like to propose that these sittings be made a routine. They should not be exceptional to only a time when a Motion is brought before the House. At the time of making the Senate Calendar, after this realization, it should be a norm for the sittings of the Senate to happen outside this central sitting. We should maximize this. The Speakers Panel comprises of six Members which means that at any given time, we can hold six sittings in six different counties. For example, if a proposal to go around all the 47 counties was to be adopted, six Members of the Speaker's Panel would sit in each of the sittings. We would require less than eight sittings to do a whole House sitting within all the 47 counties. It does not have to be a big deal that requires a lot of over-planning for it to be a reality. Madam Temporary Speaker, as we hold these sittings, we should also know the value it will add to the counties. We should address the question of value. What will be the procedure for the first sitting so that we accommodate the views of MPs? Madam Temporary Speaker, if the Senate sits outside its usual place, the rules of the House will apply. Therefore, it is not possible for a MP to walk into this House and pose a question from the Speaker's Gallery. Now that we are taking the Senate to the members of the public for them to witness and participate, we should also know whether we will mandate Members of this House to do a forerun within their counties and collect not only views but possible issues and questions that they would ask especially the County of Uasin Gishu where we are starting. The Senator can then pose those questions during that sitting at either Statement or question time. This will make members of that county to feel that it is valuable for them to spend their time to witness the sitting. I say this so that these sittings are not deemed to be a spectacle for people to witness and see Sen. Wamatangi, Sen. Wako and others speak because I am sure they have seen us on television. What is the value proposition of this particular sitting? Mr. Temporary Speaker, Sir, I believe that if we have a formula of accommodating the views of members of the public, we would give it more value and give the members of the public more reason to want to participate. Since 2013 to date, more than Kshs1.6 trillion has been devolved to counties. The question one would ask is: What role this House has played to ensure that the money has found its way to the counties. During the first, second, third and fourth year of devolution, this House has its records that we stood for and by the counties almost to a fault. There were times when this House found itself right in the opposite side of the Government and the National Assembly. It is not only once, twice or thrice that Members of this House have had to go for mediation. This House has stood firm that more funds must go to the counties. In light of that background, look at what is happening in counties. It is on record that more than Kshs100 billion is reported to be in pending bills at county governments. That means that within those counties, traders, members of the public and business people who are within those counties have invested their money. They have gone and honoured the call to supply or give services to those counties and up to today, they have not been paid. That is notwithstanding the fact that some of those bills, as reported by the Auditor-General, are probably not genuine. However, part of those bills are genuine. Madam Temporary Speaker, one would ask what role the Senate has played centrally in ensuring that while we have devolved services, have we given members of the public the opportunity to participate at the county level, even within the supplies and provision of services. What role have we played in ensuring that county governments do not become centers of fleecing members of the public? I believe that by having those sittings, we can address some of those issues. In this sitting as Parliament, we also know that according to the adjustments that were made, the Committee on Implementation is no longer sitting. That means that without the Committee on Implementation most resolutions that this House has taken, and the ones we will take, will only be entrusted to the good nature of people, who are mandated or required to implement those decisions. We have decisions made by this House either through Bills or Motions that have not been followed up. When we go to the counties, probably, this is one of the key issues we would want to address at the county level. We would want to find out whether or not the Bills that we have passed in this House have been implemented in the counties. We would want to know whether we have been effective. Has what we have said here been followed up? That will be one way of ensuring that there is value in those sittings. Finally, the value and importance of the role that a Senator plays not only at the county level, but also at the national level cannot be gainsaid. However, sometimes the Senate is treated with jest and contempt, and this has not ended even after the second cycle of elections. This was evidenced even when we went to Kakamega during the Annual Devolution Conference. There were simmering differences, some of them unnecessary. That tells you that the value of this House and the role that a Senator plays has still not been appreciated. Madam Temporary Speaker, when we go to the counties, we should carry the spirit that we are not seeking to be appreciated as 'big' men or women, but for what we do and the value we attribute to the work we do at the counties. When we take this to the people, it will make more sense and meaning. During all the six years when we have had devolution, the one single elected legislator who has been closest to the people is a Senator. He has been appreciated by members of the public as having been a people's person amongst all the six people elected on the ballot during the elections. Madam Temporary Speaker, if amongst all the six there is one who has related well to the aspirations and wishes of the people at grassroots level, it is the Senator. As I support this Motion, I propose that we inject extra thoughts into it. However, let us not just take these sittings to the county to be seen that we have gone to the counties and once we leave that particular county, the people there will be saying: \"The Senators were not just here, but they sat, debated, and brought this effect. These are the changes and differences that were occasioned by the sitting of the Senate in this county.\" As we do that, it becomes a continuous arrangement. In future, it will not be a question of debate, seeking leave of the House, permission or discussing that we will be going to the people who already sent us here. It will be automatic and known that people expect us to act where they have issues that governors cannot deal with. If there is one office that Kenyans have a problem with, it is the governor's. Most governors, while having first posed as servants of the people, have become tyrants of the people. If you go to a governor's office, you find queues. It is the choice of somebody who was elected whom they are going to see. Secondly, there is the issue of making members of the public to come and invest their money in county governments. If you do not have what you have to pay to Caesar - 10 per cent - you cannot get any work. It is on record that most governors have become billionaires within the first six months of election. We have seen it in the media. There are media claims that there are governors who have even purchased yachts. Some have purchased palaces. Others have purchased big storey buildings within the first six months of elections. One would be asking: Where is the Senate's voice in most of these things? Why should we fight here to allocate Kshs314 billion to the counties within six months, only to find that a quarter of that money is stolen within the first year? Those must be the compelling reasons that will drive this House to the grassroots. I beg to support."
     },
     {
-      "order": 413,
+      "order": 414,
       "id": "entry-806761",
       "label": "speech",
       "level": "3",
@@ -4959,7 +4971,7 @@
       "text": "Proceed, Sen. Were."
     },
     {
-      "order": 414,
+      "order": 415,
       "id": "entry-806762",
       "label": "speech",
       "level": "3",
@@ -4971,7 +4983,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to move an amendment to this Motion that we delete the full stop after \"2018\" and insert a comma and also insert the following new paragraph:- \"THAT a programme of sittings outside the Parliament Buildings in Nairobi be drawn to ensure that such Sittings take place in all regions during the term of this Senate.\" I invite Sen. Shiyonga to second."
     },
     {
-      "order": 415,
+      "order": 416,
       "id": "entry-806763",
       "label": "speech",
       "level": "3",
@@ -4983,7 +4995,7 @@
       "text": "You are not making any justification for those amendments."
     },
     {
-      "order": 416,
+      "order": 417,
       "id": "entry-806764",
       "label": "speech",
       "level": "3",
@@ -4995,7 +5007,7 @@
       "text": "Madam Temporary Speaker, we need the programme for the sittings outside Nairobi to ensure continuity so that it is not just the North Rift that will benefit from all the good things the Senators have said as a result of moving our sittings to the counties. We should draw up a programme and know that a certain area expects the Senate to be in their region at a particular time. It will also promote the work of the Senate which is to protect county governments and county assemblies across the country. It will not just be a matter of Uasin Gishu County only, but the programme will give us a guarantee that all other regions of this country will have the privilege and right to have the Senate sitting in their regions. Therefore, this amendment is important for continuity purposes. I now invite Sen. Shiyonga to second."
     },
     {
-      "order": 417,
+      "order": 418,
       "id": "entry-806767",
       "label": "speech",
       "level": "3",
@@ -5007,7 +5019,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to support this Motion. It will be a historical for us to have our sittings outside Nairobi. Our sitting outside is not about the people, but it is all about the decisions and the policies which we will debate while there. Our county governments are very young. They have been in existence for the last six years. Therefore, it is very important that we strengthen them. When they come into reality with what we are doing and discussing here, then it will help them grow fast and adopt the agenda in their various counties. Madam Temporary Speaker, there are various amendments that we are doing in this Senate. There are also various Acts and Bills we have passed here to strengthen our county governments and devolution in this country. We want to spearhead devolution to greater heights. By sitting outside this building, it means we, as a Senate, are supporting devolution in a more positive way. The issue of transporting people from various counties to this central place or Nairobi will be very expensive. By allowing ourselves, as Senators, to go to different regions in this country, it will be one way of saving resources and enhancing interactions with our people. They will also have an opportunity to tell us what they think about us. This will be better than bringing them to Nairobi. While there, it will be good for us to invite pupils and students to listen to our debates. It will give these young ones morale so that when they are growing up, they know what type of leaders they will emulate. Madam Temporary Speaker, it is very important that we will sit outside Nairobi and interact with people in that county. They will have many issues to share with us. They will learn how to petition the Senate and so on. However, it will now be very easy for them to do this because they are used to the environment that we will interact with them. It will be very easy for these people in this particular region that we are going to have our sitting to interact with us and pass their views or facts to us. This will enable us help and develop the functions that this Senate is mandated to do. Thank you, Madam Temporary Speaker. I support."
     },
     {
-      "order": 418,
+      "order": 419,
       "id": "entry-806768",
       "label": "scene",
       "level": "3",
@@ -5019,7 +5031,7 @@
       "text": "(Question of amendment proposed)"
     },
     {
-      "order": 419,
+      "order": 420,
       "id": "entry-806769",
       "label": "speech",
       "level": "3",
@@ -5031,7 +5043,7 @@
       "text": "Thank you, Madam Temporary Speaker, for allowing me to add my voice to this very important Motion on sitting of the Senate outside the Parliament Buildings in Nairobi. Many of our important sittings have always been in Nairobi and the people at the grassroots need our presence."
     },
     {
-      "order": 420,
+      "order": 421,
       "id": "entry-806770",
       "label": "speech",
       "level": "3",
@@ -5043,7 +5055,7 @@
       "text": "Order, Senator! Hon. Senators, I now defer the rest of the business to be listed in tomorrow's Order Paper."
     },
     {
-      "order": 421,
+      "order": 422,
       "id": "entry-806771",
       "label": "heading",
       "level": "1",
@@ -5055,7 +5067,7 @@
       "text": "BILLS\nSecond Readings"
     },
     {
-      "order": 422,
+      "order": 423,
       "id": "entry-806773-split-selected-932d1b90-6f96-47a0-ab62-1a47d366e714",
       "label": "heading",
       "level": "3",
@@ -5067,7 +5079,7 @@
       "text": "THE PUBLIC PARTICIPATION BILL (SENATE BILLS NO.4 OF 2018)"
     },
     {
-      "order": 423,
+      "order": 424,
       "id": "entry-806773-split-after-0c2a337b-896f-46de-9566-a6292446266d-split-selected-f19f0b6b-9ec3-4a46-804f-999786b7f92e",
       "label": "heading",
       "level": "3",
@@ -5079,7 +5091,7 @@
       "text": "THE DISASTER RISK MANAGEMENT BILL (SENATE BILLS NO.8 OF 2018)"
     },
     {
-      "order": 424,
+      "order": 425,
       "id": "entry-806773-split-after-0c2a337b-896f-46de-9566-a6292446266d-split-after-b89cddf3-3fdc-4a6b-945a-abfac7035b6f-split-selected-63330200-bcd6-496f-9ac1-3dec40aa5a6a",
       "label": "heading",
       "level": "3",
@@ -5091,7 +5103,7 @@
       "text": "THE RETIREMENT BENEFITS (DEPUTY PRESIDENT AND DESIGNATED STATE OFFICERS) (AMENDMENT) BILL"
     },
     {
-      "order": 425,
+      "order": 426,
       "id": "entry-806773-split-after-0c2a337b-896f-46de-9566-a6292446266d-split-after-b89cddf3-3fdc-4a6b-945a-abfac7035b6f-split-after-4c916862-c980-4923-83a9-ae4cfe43d1e1-split-before-e7e0590d-6daa-4fde-bf53-6bcc63d6c0fb",
       "label": "speech",
       "level": "3",
@@ -5103,7 +5115,7 @@
       "text": "(SENATE BILLS NO.2 OF 2018)"
     },
     {
-      "order": 426,
+      "order": 427,
       "id": "entry-806773-split-after-0c2a337b-896f-46de-9566-a6292446266d-split-after-b89cddf3-3fdc-4a6b-945a-abfac7035b6f-split-after-4c916862-c980-4923-83a9-ae4cfe43d1e1-split-selected-fb67d969-ac2f-4d2c-8e5d-302bf942e49e",
       "label": "heading",
       "level": "3",
@@ -5115,7 +5127,7 @@
       "text": "THE COUNTY STATISTICS BILL (SENATE BILLS NO. 9 OF 2018)"
     },
     {
-      "order": 427,
+      "order": 428,
       "id": "entry-806773-split-after-0c2a337b-896f-46de-9566-a6292446266d-split-after-b89cddf3-3fdc-4a6b-945a-abfac7035b6f-split-after-4c916862-c980-4923-83a9-ae4cfe43d1e1-split-after-a9a21d8e-da91-4e03-8f8f-945c8031b335-split-selected-a73b340d-1a1f-4f01-a687-0ab5630320f4",
       "label": "heading",
       "level": "3",
@@ -5127,7 +5139,7 @@
       "text": "THE PHYSICAL PLANNING BILL (NATIONAL"
     },
     {
-      "order": 428,
+      "order": 429,
       "id": "entry-806773-split-after-0c2a337b-896f-46de-9566-a6292446266d-split-after-b89cddf3-3fdc-4a6b-945a-abfac7035b6f-split-after-4c916862-c980-4923-83a9-ae4cfe43d1e1-split-after-a9a21d8e-da91-4e03-8f8f-945c8031b335-split-after-2682fbb8-886f-4ec1-8f71-5e54cafcd396-split-selected-1277c28e-581f-46f3-9ea3-3cf31789a5af",
       "label": "heading",
       "level": "3",
@@ -5139,7 +5151,7 @@
       "text": "ASSEMBLY BILLS NO.34 OF 2017)"
     },
     {
-      "order": 429,
+      "order": 430,
       "id": "entry-806773-split-after-0c2a337b-896f-46de-9566-a6292446266d-split-after-b89cddf3-3fdc-4a6b-945a-abfac7035b6f-split-after-4c916862-c980-4923-83a9-ae4cfe43d1e1-split-after-a9a21d8e-da91-4e03-8f8f-945c8031b335-split-after-2682fbb8-886f-4ec1-8f71-5e54cafcd396-split-after-b6a98289-e5e6-4704-843b-25958e418852-split-selected-b7ff93ba-3710-4b73-a9e3-a99e2b7838c7",
       "label": "heading",
       "level": "3",
@@ -5151,7 +5163,7 @@
       "text": "THE IRRIGATION BILL (NATIONAL ASSEMBLY BILLS NO. 46 oF 2017)"
     },
     {
-      "order": 430,
+      "order": 431,
       "id": "entry-806773-split-after-0c2a337b-896f-46de-9566-a6292446266d-split-after-b89cddf3-3fdc-4a6b-945a-abfac7035b6f-split-after-4c916862-c980-4923-83a9-ae4cfe43d1e1-split-after-a9a21d8e-da91-4e03-8f8f-945c8031b335-split-after-2682fbb8-886f-4ec1-8f71-5e54cafcd396-split-after-b6a98289-e5e6-4704-843b-25958e418852-split-after-477ffb02-1f22-4915-9203-f70f4cad4c3f",
       "label": "heading",
       "level": "3",
@@ -5163,7 +5175,7 @@
       "text": "THE KENYA ROADS BILL (NATIONAL ASSEMBLY BILLS NO. 47 OF 2017)"
     },
     {
-      "order": 431,
+      "order": 432,
       "id": "entry-806774",
       "label": "scene",
       "level": "3",
@@ -5175,7 +5187,7 @@
       "text": "(Bills deferred)"
     },
     {
-      "order": 432,
+      "order": 433,
       "id": "entry-806775",
       "label": "heading",
       "level": "1",
@@ -5187,7 +5199,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 433,
+      "order": 434,
       "id": "entry-806776-split-selected-f1692fbb-3a41-4df1-bd4c-d0a985a692a3",
       "label": "heading",
       "level": "3",
@@ -5199,7 +5211,7 @@
       "text": "REGISTRATION OF PERSONS WITH DISABILITIES"
     },
     {
-      "order": 434,
+      "order": 435,
       "id": "entry-806776-split-after-ee1752f6-745b-42a7-806e-50eb7a3e98d3",
       "label": "speech",
       "level": "3",
@@ -5211,7 +5223,7 @@
       "text": "THAT, AWARE that the National Council for Persons with Disabilities was established through the Persons with Disabilities Act, 2003; FURTHER AWARE that registration of persons living with disabilities is a function of the National Council for Persons with Disabilities; ALSO AWARE that persons living with disabilities are estimated to be about 10 per cent of any given population;"
     },
     {
-      "order": 435,
+      "order": 436,
       "id": "entry-806778",
       "label": "speech",
       "level": "3",
@@ -5223,7 +5235,7 @@
       "text": "COGNIZANT that for purposes of registration of persons living with disability, it is a mandatory requirement for one to undergo medical examination by a registered medical officer in a registered and certified health facility; CONCERNED that of the nearly 4 million Kenyans living with disabilities who reside in Kenya, there is a very small fraction of the number which is duly registered; AWARE that medical services are now a devolved function; FURTHER CONCERNED that without proper registration, many persons living with disabilities are denied services because they lack the necessary proof of disability; ALSO CONCERNED that owing to lack of accurate data on persons living with disabilities, the government at both levels cannot plan properly for this category of people; NOW THEREFORE, the Senate calls upon the National Council for Persons with Disabilities in collaboration with Ministry of East African Community, Labour and Social Protection and county governments, to carry out a nationwide registration of all persons living with disabilities in order to determine their exact population to facilitate effective service for this marginalized group of our society."
     },
     {
-      "order": 436,
+      "order": 437,
       "id": "entry-806779",
       "label": "scene",
       "level": "3",
@@ -5235,7 +5247,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 437,
+      "order": 438,
       "id": "entry-806780-split-selected-81e651ee-f07c-4d3d-9eae-d04a0c83c52a",
       "label": "heading",
       "level": "3",
@@ -5247,7 +5259,7 @@
       "text": "FRAMEWORK TO PERMANENTLY ADDRESS EFFECTS OF FLOODS"
     },
     {
-      "order": 438,
+      "order": 439,
       "id": "entry-806780-split-after-8b157932-9529-4db1-a3fb-fa4c0cec8fc7",
       "label": "speech",
       "level": "3",
@@ -5259,7 +5271,7 @@
       "text": "THAT, aware that several days of heavy rains recently have caused severe flooding in many parts of the country, resulting in multiple deaths and devastating damage to property and infrastructure; NOTING with concern that, whenever Kenya experiences periods of severe drought, torrential rains usually follow; CONCERNED that year in year out, the challenge of floods continues to recur, leading to loss of human and animal life, displacement of people and wanton destruction of property; COGNIZANT that the number of Kenyans needing emergency food aid as a result of displacement caused by the current floods continues to rise by the day, and that the floods have also washed away many bridges and destroyed roads in many parts of Kenya; ALSO CONCERNED that no effective measures, such as improved storm water harvesting, proper drainage infrastructure and preventing the destruction of riparian reserves and natural water courses, to mitigate and/or provide a lasting solution to the menace of flooding, have been taken;"
     },
     {
-      "order": 439,
+      "order": 440,
       "id": "entry-806782",
       "label": "speech",
       "level": "3",
@@ -5271,7 +5283,7 @@
       "text": "NOW THEREFORE, the Senate calls upon the national Government to develop a lasting framework to permanently address the challenge of effects of floods by, among other things:- (i) developing and enforcing regulations for preventing the obstruction of riparian reserves and natural water courses; and (ii) preventing and regulating the construction of informal settlements and ensuring prevention of construction on low lying areas and flood plains. And further that the relevant government agency to execute this task submits a report to the Senate within three months of the adoption of this Motion."
     },
     {
-      "order": 440,
+      "order": 441,
       "id": "entry-806783",
       "label": "scene",
       "level": "3",
@@ -5283,7 +5295,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 441,
+      "order": 442,
       "id": "entry-806784-split-selected-c930d4b6-ec01-441e-9f14-dcea302dbd6d",
       "label": "heading",
       "level": "3",
@@ -5295,7 +5307,7 @@
       "text": "THE STATUS OF EDUCATION IN NORTHERN KENYA"
     },
     {
-      "order": 442,
+      "order": 443,
       "id": "entry-806784-split-after-46206695-2543-4e66-b781-b5c941ddeafb",
       "label": "speech",
       "level": "3",
@@ -5307,7 +5319,7 @@
       "text": "THAT, AWARE that Article 43 (f) of the Constitution of Kenya stipulates that every person has the right to education, and Article 53(1)(b) provides that every child has the right to free and compulsory basic education; ALSO AWARE that education is a basic need and a tool for intellectual empowerment and social-political development; FURTHER AWARE that education is a shared function between the National and the county levels of Government with the National Government being responsible for primary, secondary and higher education while the county government is responsible for preprimary education, village polytechnics and home craft centers; COGNISANT that both levels of Government complement each other in promoting sustainable education; CONCERNED that the intake, uptake and quality of education in the Northern Kenya have adversely been affected owing to discrepancies in public resources allocation, insecurity, skewed staffing and teacher training in the region; FURTHER CONCERNED that both the school completion rate and the national examination outcomes in region are poor and that the number of students from Northern Kenya who qualify for core courses in universities, colleges, technical schools and village polytechnics is minimal compared to other parts of the country; NOTING WITH CONCERN that due to insecurity and other related concerns, the Teachers Service Commission (TSC) which is the body responsible for the employment and deployment of teachers, has in the recent past, taken steps to transfer non-local teachers from the northern region of Kenya to other parts of the country;"
     },
     {
-      "order": 443,
+      "order": 444,
       "id": "entry-806786",
       "label": "speech",
       "level": "3",
@@ -5319,7 +5331,7 @@
       "text": "CONCERNED THAT, the transfers have led to shortage of skilled teachers which has been a major cause of the dismal performance in examinations in schools in the region; NOW THEREFORE, the Senate resolves to task the Standing Committee on Education to conduct an inquiry into the challenges facing the education sector in Northern Kenya with a view to- 1. evaluating the effect of the teacher transfers from the region and recommending to the Ministry of Education, policy measures to address the challenge; 2. evaluating the status of the education infrastructure in the region and proposing solutions to mitigate the current and looming challenges; 3. proposing mechanisms for enhanced resource allocation at both levels of government to facilitate improved education facilities; and 4. assessing school intake compared completion levels in the region in order to ascertain the impact of the challenges facing the schools and how these disadvantages the region compared to other parts of Kenya and proposing ways of addressing the challenges. And that the Committee submits a report to the Senate within three months of adoption of this Motion by the Senate."
     },
     {
-      "order": 444,
+      "order": 445,
       "id": "entry-806787",
       "label": "scene",
       "level": "3",
@@ -5331,7 +5343,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 445,
+      "order": 446,
       "id": "entry-806788-split-selected-ef133fa3-6611-473e-a094-b47e14fba62b",
       "label": "heading",
       "level": "3",
@@ -5343,7 +5355,7 @@
       "text": "ADOPTION OF REPORT ON  THE FIRST EXTRAORDINARY SESSION OF THE FP-ICGLR IN KINSHASA, DRC"
     },
     {
-      "order": 446,
+      "order": 447,
       "id": "entry-806788-split-after-5779254e-5636-4829-afcb-9f91a4eda3f6",
       "label": "speech",
       "level": "3",
@@ -5355,7 +5367,7 @@
       "text": "THAT, this House adopts the Report of the proceedings of the First Extraordinary Session of the Plenary Assembly of the Forum of Parliaments of Member States of the International Conference on the Great Lakes Region (FPICGLR) held in Kinshasa, Democratic Republic of Congo from 19th - 20th March, 2018, laid on the Table of the Senate on Tuesday, 15th May, 2018."
     },
     {
-      "order": 447,
+      "order": 448,
       "id": "entry-806789",
       "label": "scene",
       "level": "3",
@@ -5367,7 +5379,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 448,
+      "order": 449,
       "id": "entry-806790-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -5379,7 +5391,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 449,
+      "order": 450,
       "id": "entry-806790",
       "label": "speech",
       "level": "1",

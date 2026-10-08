@@ -1,10 +1,10 @@
 2018-05-09-14-30-00 - Senate: 2 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
 
-1. block 131 [scene]
+1. block 132 [scene]
    Couldn't find this text in the PDF. Check it against the PDF.
    Text: "(Statement differed)"
 
-2. block 229, PDF p.25 [speech | (Sen. (Prof.) Kindiki)]
+2. block 230, PDF p.25 [speech | (Sen. (Prof.) Kindiki)]
    PDF shows a new speaker ('Sen. Were') starting inside this block: "Thank you, Mr. Deputy Speaker, Sir.  I welcome the Busia del...". May need a split.
    Text: "Asante, Seneta. Let us have Sen. Were. Sen. Were: Thank you, Mr. Deputy Speaker, Sir. I welcome the Busia dele"
 

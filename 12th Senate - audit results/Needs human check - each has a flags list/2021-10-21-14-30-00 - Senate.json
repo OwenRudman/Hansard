@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-10-21-14-30-00",
-  "exported_at": "2026-10-05T08:10:24.766Z",
+  "exported_at": "2026-10-08T20:57:31.205Z",
   "entries": [
     {
       "order": 1,
@@ -10552,7 +10552,7 @@
     },
     {
       "order": 880,
-      "id": "entry-1118864",
+      "id": "entry-1118864-split-selected-54c50f8a-f712-405c-9aac-f38267a993fb",
       "label": "heading",
       "level": "2",
       "cutout": false,
@@ -10560,10 +10560,22 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "STATE OF POLICE STATIONS IN THE COUNTRY YOUTH AND SPECIAL GROUPS ACCESS TO GOVERNMENT PROCUREMENT OPPORTUNITIES PROGRAMME"
+      "text": "STATE OF POLICE STATIONS IN THE COUNTRY"
     },
     {
       "order": 881,
+      "id": "entry-1118864-split-after-22c68639-5ee9-4950-9f0a-e0d569a4fa82",
+      "label": "heading",
+      "level": "2",
+      "cutout": false,
+      "original_label": "",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "YOUTH AND SPECIAL GROUPS ACCESS TO GOVERNMENT PROCUREMENT OPPORTUNITIES PROGRAMME"
+    },
+    {
+      "order": 882,
       "id": "entry-1118865",
       "label": "scene",
       "level": "2",
@@ -10575,7 +10587,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 882,
+      "order": 883,
       "id": "entry-1118866",
       "label": "heading",
       "level": "1",
@@ -10587,7 +10599,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 883,
+      "order": 884,
       "id": "entry-1118867",
       "label": "heading",
       "level": "2",
@@ -10599,7 +10611,7 @@
       "text": "THE KENYA CITIZENSHIP AND IMMIGRATION (AMENDMENT) BILL (SENATE BILLS NO. 33 OF 2021)"
     },
     {
-      "order": 884,
+      "order": 885,
       "id": "entry-1118868",
       "label": "scene",
       "level": "2",
@@ -10611,7 +10623,7 @@
       "text": "(Committee of The Whole Deferred)"
     },
     {
-      "order": 885,
+      "order": 886,
       "id": "entry-1118869",
       "label": "heading",
       "level": "2",
@@ -10623,7 +10635,7 @@
       "text": "THE LAW OF SUCCESSION (AMENDMENT) BILL (SENATE BILLS NO. 15 OF 2021)"
     },
     {
-      "order": 886,
+      "order": 887,
       "id": "entry-1118870",
       "label": "scene",
       "level": "2",
@@ -10635,7 +10647,7 @@
       "text": "(Committee of The Whole Deferred)"
     },
     {
-      "order": 887,
+      "order": 888,
       "id": "entry-1118871",
       "label": "heading",
       "level": "2",
@@ -10647,7 +10659,7 @@
       "text": "THE LIFESTYLE AUDIT BILL (SENATE BILLS NO. 36 OF 2021)"
     },
     {
-      "order": 888,
+      "order": 889,
       "id": "entry-1118872",
       "label": "scene",
       "level": "2",
@@ -10659,7 +10671,7 @@
       "text": "(Committee of The Whole Deferred)"
     },
     {
-      "order": 889,
+      "order": 890,
       "id": "entry-1118873",
       "label": "heading",
       "level": "2",
@@ -10671,7 +10683,7 @@
       "text": "THE NATURAL RESOURCES (BENEFIT SHARING) BILL (SENATE BILLS NO. 25 OF 2020)"
     },
     {
-      "order": 890,
+      "order": 891,
       "id": "entry-1118875",
       "label": "scene",
       "level": "2",
@@ -10683,7 +10695,7 @@
       "text": "(Committee of The Whole Deferred)"
     },
     {
-      "order": 891,
+      "order": 892,
       "id": "entry-1118876",
       "label": "heading",
       "level": "1",
@@ -10695,7 +10707,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 892,
+      "order": 893,
       "id": "entry-1118877",
       "label": "heading",
       "level": "3",
@@ -10707,7 +10719,7 @@
       "text": "RESCINDING THE RESOLUTION OF THE SENATE ON APPROVAL OF SENATORS TO SERVE IN THE COMMITTEE OF POWERS AND PRIVILEGES"
     },
     {
-      "order": 893,
+      "order": 894,
       "id": "entry-1118878",
       "label": "speech",
       "level": "3",
@@ -10719,7 +10731,7 @@
       "text": "THAT, pursuant to Standing Order 58(2)(a) the Senate rescinds its resolution made on Thursday, 16th September, 2021 on the approval of Senators to serve in the Committee of Powers and Privileges."
     },
     {
-      "order": 894,
+      "order": 895,
       "id": "entry-1118879",
       "label": "scene",
       "level": "3",
@@ -10731,7 +10743,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 895,
+      "order": 896,
       "id": "entry-1118880",
       "label": "heading",
       "level": "3",
@@ -10743,7 +10755,7 @@
       "text": "APPROVAL OF SENATORS TO SERVE IN STANDING COMMITTEES"
     },
     {
-      "order": 896,
+      "order": 897,
       "id": "entry-1118881",
       "label": "speech",
       "level": "3",
@@ -10755,7 +10767,7 @@
       "text": "THAT, NOTWITHSTANDING, the resolutions of the Senate made on 14th December, 2017; 14th February, 2018; 21st February, 2018; 21st November, 2018; 20th March, 2019; 19th June, 2019; 28th April, 2020; and 24th June, 2020 on the approval of Senators to serve in various Standing Committees of the Senate, and pursuant to Standing Orders189, 218, and the Second Schedule to the Standing Orders, the Senate approves the following Senators nominated by the Senate Business Committee to serve in Standing Committees of the Senate as follows - (i) Standing Committee on Energy"
     },
     {
-      "order": 897,
+      "order": 898,
       "id": "entry-1118882",
       "label": "speech",
       "level": "3",
@@ -10767,7 +10779,7 @@
       "text": "Sen. Haji Abdul Mohammed, MP to serve as a Member. (ii) Standing Committee on Justice, Legal Affairs and Human Rights"
     },
     {
-      "order": 898,
+      "order": 899,
       "id": "entry-1118883",
       "label": "speech",
       "level": "3",
@@ -10779,7 +10791,7 @@
       "text": "Sen. Isaac Ngugi Githua, MP to serve as a Member. (iii) Standing Committee on National Security, Defence and"
     },
     {
-      "order": 899,
+      "order": 900,
       "id": "entry-1118884",
       "label": "speech",
       "level": "3",
@@ -10791,7 +10803,7 @@
       "text": "Foreign Relations"
     },
     {
-      "order": 900,
+      "order": 901,
       "id": "entry-1118885",
       "label": "speech",
       "level": "3",
@@ -10803,7 +10815,7 @@
       "text": "Sen. Gideon Moi, CBS, MP to serve as a Member."
     },
     {
-      "order": 901,
+      "order": 902,
       "id": "entry-1118886",
       "label": "scene",
       "level": "3",
@@ -10815,7 +10827,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 902,
+      "order": 903,
       "id": "entry-1118887",
       "label": "heading",
       "level": "3",
@@ -10827,7 +10839,7 @@
       "text": "ADOPTION OF THE REPORT ON THE STATUS OF KENYA'S STOCK OF PUBLIC DEBT"
     },
     {
-      "order": 903,
+      "order": 904,
       "id": "entry-1118888",
       "label": "speech",
       "level": "3",
@@ -10839,7 +10851,7 @@
       "text": "THAT, the Senate adopts the Report of the Standing Committee on Finance and Budget on the Status of Kenya's Stock of Public Debt, laid on the Table of the Senate on Thursday, 14th October, 2021."
     },
     {
-      "order": 904,
+      "order": 905,
       "id": "entry-1118889",
       "label": "scene",
       "level": "3",
@@ -10851,7 +10863,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 905,
+      "order": 906,
       "id": "entry-1118890",
       "label": "heading",
       "level": "1",
@@ -10863,7 +10875,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 906,
+      "order": 907,
       "id": "entry-1118893",
       "label": "heading",
       "level": "3",
@@ -10875,7 +10887,7 @@
       "text": "THE HERITAGE AND MUSEUM BILL (SENATE BILLS NO. 22 OF 2021)"
     },
     {
-      "order": 907,
+      "order": 908,
       "id": "entry-1118894",
       "label": "scene",
       "level": "3",
@@ -10887,7 +10899,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 908,
+      "order": 909,
       "id": "entry-1118895",
       "label": "speech",
       "level": "3",
@@ -10899,7 +10911,7 @@
       "text": "Hon. Senators, I will now allow the statement of the Senate Majority Leader on business of the Senate for the coming week to be read by a Member of the Senate Business Committee before we move the Motion for Adjournment on Order No.30. Sen. Mutula Kilonzo Jnr., kindly read the Statement and then move the Motion for Adjournment."
     },
     {
-      "order": 909,
+      "order": 910,
       "id": "entry-1118896",
       "label": "heading",
       "level": "1",
@@ -10911,7 +10923,7 @@
       "text": "STATEMENT"
     },
     {
-      "order": 910,
+      "order": 911,
       "id": "entry-1118897",
       "label": "heading",
       "level": "2",
@@ -10923,7 +10935,7 @@
       "text": "BUSINESS FOR THE WEEK COMMENCING TUESDAY, 2ND NOVEMBER, 2021"
     },
     {
-      "order": 911,
+      "order": 912,
       "id": "entry-1118898",
       "label": "speech",
       "level": "2",
@@ -10935,7 +10947,7 @@
       "text": "Madam Deputy Speaker, allow me to read the Statement by the Senate Majority Leader on the business of the Senate for the week commencing 2nd November 2021 pursuant to Standing Order 52(1). Before I proceed with the Statement, allow me to highlight that there are seven Bills scheduled in today's Supplementary Order Paper from Orders 9 to 15 which are pending Division at the Second Reading stage. Following consultations between the Senate Majority and Minority, we propose that the Bills proceed to the Committee of the Whole after passing the Second Reading stage. As such, the Supplementary Order Paper has been prepared to provide for the same. After the Second Readings, I urge the respective Movers of Bills listed at Committee of the Whole, as well as Committee Chairpersons and individual Senators who have filed amendments, to be in the Chamber to facilitate a smooth transition to the next stage. I also urge all Hon. Senators to avail themselves physically and virtually for the divisions to make a determination on all the Bills listed in the Supplementary Order Paper. As Hon. Senators may be aware, the Senate will proceed on recess at the rise of the Senate today, Thursday, 21st October, 2021, for a one-week recess, pursuant to the Senate Calendar. The Senate will thereafter resume its sittings on Tuesday, 2nd November, 2021. On that day, the Senate Business Committee will meet to consider and approve the business for the week. Subject to approval by the Committee, the Senate will consider Bills at the Second Reading stage, Bills at the Committee of the Whole stage and Motions on reports filed by Select Committees. The Senate will also continue with business that may not be concluded in today's Order Paper. On Wednesday, 3rd November, 2021, the Senate will consider business that will not be concluded on Tuesday 2nd November, 2021, while on Thursday, 4th November, 2021, the Senate will consider business that will not be concluded on Tuesday 2nd and Wednesday, 3rd November, 2021, respectively, and any other business scheduled by the Senate Business Committee, including Petitions and Statements. Madam Deputy Speaker, the following is an outlook of business to be expected the week commencing 2nd November, 2021- (1) Committee of the Whole on the following Bills - (a) The Co-operative Societies (Amendment) Bill (Senate Bills No. 11 of 2020); (b) The County Vocational Education and Training Bill (Senate Bills No. 6 of 2021); (c) The Start-Up Bill (Senate Bills No. 1 of 2021); (d) The Street Vendors (Protection of Livelihood) Bill (Senate Bills No. 7 of 2021); (e) The Prompt Payment Bill (Senate Bills No. 16 of 2021); and (d) The Kenyan Sign Language Bill (Senate Bills No. 5 of 2021). (2) Second Reading of the following Bills - (a) The County Oversight and Accountability Bill (Senate Bills No. 17 of 2021); (b) The Intergovernmental Relations (Amendment) Bill (Senate Bills No. 37 of 2021); (c) The Alternative Dispute Resolution Bill (Senate Bills No. 34 of 2021); (d) The County Governments (Amendment) Bill, (Senate Bills No. 38 of 2021); (e) The National Cohesion and Peace Building Bill (Senate Bills No. 19 of 2021); (f) The Preservation of Human Dignity and Protection of Economic and Social (g) Rights Bill (Senate Bills No. 21 of 2021); (h) The Sports (Amendment) Bill (Senate Bills No. 40 of 2021); (i) The Elections (Amendment) Bill (Senate Bills No. 42 of 2021); (j) The Elections (Amendment) (No.2) Bill (Senate Bills No. 43 of 2021); and (k) The Special Needs Education Bill (Senate Bills No. 44 of 2021); (3) Motions on - (a) Fast Tracking Cultural Developments in Counties; (b) Recognizing and appreciating the elderly by county governments; (c) First, Second and Third Progress reports on the COVID-19 situation in the country; (d) Parking charges in public institutions offering essential services; (e) Report of the Parliament of Kenya Delegation to the 141st Assembly of the Inter-Parliamentary Union (IPU) and Related Meetings, held in Belgrade, Serbia from 13th to 17th October, 2019; (f) Report of the Third Ordinary Session of the 5th Parliament of the Pan - African Parliament held from 7th to 18th October, 2019, in Midrand, South Africa; (g) Report of the Standing Committee on Health on inquiry into allegations of irregularities by the Kenya Medical Supplies Authority in procurement of pharmaceutical equipment; (h) Report of the Standing Committee on Health on the alleged negligence by the Kenyatta National Hospital in the medical case of the late (Prof.) Ken Walibora; (i) Integrating climate education into school curriculum at all levels; and (j) Promotion of mental health facilities for mothers. Madam Deputy Speaker, I take this opportunity to applaud Standing Committees for their efforts in processing filed statements and petitions referred to them. However, there still remains a high number of Petitions pending conclusion. I urge respective Standing Committees to use the coming recess period to consider and table reports on all outstanding Petitions as required under Standing Order No. 232(2). I thank you and hereby lay the Statement on the Table of the Senate."
     },
     {
-      "order": 912,
+      "order": 913,
       "id": "entry-1118905",
       "label": "scene",
       "level": "2",
@@ -10947,7 +10959,7 @@
       "text": "(Sen. Mutula Kilonzo Jnr. laid the document on the Table)"
     },
     {
-      "order": 913,
+      "order": 914,
       "id": "entry-1118906",
       "label": "speech",
       "level": "2",
@@ -10959,7 +10971,7 @@
       "text": "Thank you, Senator. The Clerk can now read the last Order."
     },
     {
-      "order": 914,
+      "order": 915,
       "id": "entry-1118907",
       "label": "heading",
       "level": "1",
@@ -10971,7 +10983,7 @@
       "text": "MOTION FOR ADJOURNMENT"
     },
     {
-      "order": 915,
+      "order": 916,
       "id": "entry-1118908",
       "label": "heading",
       "level": "3",
@@ -10983,7 +10995,7 @@
       "text": "ADJOURNMENT OF THE SENATE PURSUANT TO THE APPROVED CALENDAR FOR THE 2021 SESSION"
     },
     {
-      "order": 916,
+      "order": 917,
       "id": "entry-1118909",
       "label": "speech",
       "level": "3",
@@ -10995,7 +11007,7 @@
       "text": "Sen. Farhiya on behalf of the Senate Majority Leader."
     },
     {
-      "order": 917,
+      "order": 918,
       "id": "entry-1118910",
       "label": "speech",
       "level": "3",
@@ -11007,7 +11019,7 @@
       "text": "Thank you, Madam Deputy Speaker, I beg to Move- THAT, pursuant to Standing Order Nos. 28 and 29, the Senate do adjourn until Tuesday, 2nd November, 2021. As you are aware, Senators are tired. They need to visit their constituents in the county. This is a well-deserved break. Also, Committees need to take this time to expedite any pending business. I ask Sen. Mutula Kilonzo Jnr. to second."
     },
     {
-      "order": 918,
+      "order": 919,
       "id": "entry-1118911",
       "label": "speech",
       "level": "3",
@@ -11019,7 +11031,7 @@
       "text": "Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 919,
+      "order": 920,
       "id": "entry-1118912",
       "label": "speech",
       "level": "3",
@@ -11031,7 +11043,7 @@
       "text": "I rise to second. I do not think that there is much to say, except that we all need a break. Thank you very much."
     },
     {
-      "order": 920,
+      "order": 921,
       "id": "entry-1118914",
       "label": "scene",
       "level": "3",
@@ -11043,7 +11055,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 921,
+      "order": 922,
       "id": "entry-1118915",
       "label": "speech",
       "level": "3",
@@ -11055,7 +11067,7 @@
       "text": "Sen. (Prof.) Kindiki."
     },
     {
-      "order": 922,
+      "order": 923,
       "id": "entry-1118916",
       "label": "speech",
       "level": "3",
@@ -11067,7 +11079,7 @@
       "text": "Thank you, Madam Deputy Speaker. I wish the Senators a happy recess. I support."
     },
     {
-      "order": 923,
+      "order": 924,
       "id": "entry-1118918",
       "label": "speech",
       "level": "3",
@@ -11079,7 +11091,7 @@
       "text": "There being no other Member wishing to contribute, I would also like to thank the Members for a job well done this afternoon. We have worked really hard to make sure that all the six Bills go through the two stages. That was really commendable. I wish you well as you go on your recess."
     },
     {
-      "order": 924,
+      "order": 925,
       "id": "entry-1118920",
       "label": "heading",
       "level": "1",
@@ -11091,7 +11103,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 925,
+      "order": 926,
       "id": "entry-1118921",
       "label": "speech",
       "level": "1",
