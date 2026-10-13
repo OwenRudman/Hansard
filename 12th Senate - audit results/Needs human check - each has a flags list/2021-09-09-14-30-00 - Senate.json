@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-09-09-14-30-00",
-  "exported_at": "2026-10-07T22:21:45.746Z",
+  "exported_at": "2026-10-13T18:57:46.007Z",
   "entries": [
     {
       "order": 1,
@@ -2788,6 +2788,18 @@
     },
     {
       "order": 233,
+      "id": "entry-1098930-inserted-4999a3bb-c4d7-495a-9725-fdf16ccdd5e6",
+      "label": "deleted",
+      "level": "2",
+      "cutout": false,
+      "original_label": "heading",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "OPERATIONS OF MURANG’A COUNTY CREAMERIES"
+    },
+    {
+      "order": 234,
       "id": "entry-1098931",
       "label": "scene",
       "level": "2",
@@ -2799,7 +2811,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 234,
+      "order": 235,
       "id": "entry-1098932-split-before-ee5ac6d9-d3bb-49a3-9a80-29114b4c93c6",
       "label": "speech",
       "level": "2",
@@ -2811,7 +2823,7 @@
       "text": "I also defer the Statement by Sen. Kwamboka from the Standing Committee on National Security, Defence and Foreign Relations regarding alleged discrimination, enforcement of the nationwide curfew for containment of the Covid-19 pandemic. I do not see the Senator."
     },
     {
-      "order": 235,
+      "order": 236,
       "id": "entry-1098932-split-selected-303d378b-3ff5-4fba-9a8e-1c0f0b3df4e1",
       "label": "heading",
       "level": "2",
@@ -2823,7 +2835,7 @@
       "text": "ALLEGED DISCRIMINATIVE ENFORCEMENT OF THE NATIONWIDE CURFEW"
     },
     {
-      "order": 236,
+      "order": 237,
       "id": "entry-1098933",
       "label": "scene",
       "level": "2",
@@ -2835,7 +2847,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 237,
+      "order": 238,
       "id": "entry-1098934",
       "label": "speech",
       "level": "2",
@@ -2847,7 +2859,7 @@
       "text": "The next statement by Sen. Wambua has already been done. We move to the next Order."
     },
     {
-      "order": 238,
+      "order": 239,
       "id": "entry-1098936",
       "label": "heading",
       "level": "1",
@@ -2859,7 +2871,7 @@
       "text": "MOTION"
     },
     {
-      "order": 239,
+      "order": 240,
       "id": "entry-1098937",
       "label": "heading",
       "level": "3",
@@ -2871,7 +2883,7 @@
       "text": "ADOPTION OF REPORT ON THE PUBLIC FINANCE MANAGEMENT (SINKING FUND) GUIDELINES, 2021"
     },
     {
-      "order": 240,
+      "order": 241,
       "id": "entry-1098938",
       "label": "speech",
       "level": "3",
@@ -2883,7 +2895,7 @@
       "text": "THAT, the Senate adopts the Report of the Sessional Committee on Delegated Legislation on the Consideration of the Public Finance Management (Sinking Fund) Guidelines, 2021 laid on the Table of the Senate on Wednesday, 8th September, 2021, and that pursuant to Section 18 of the Statutory Instruments Act, Section 205 of the Public Finance Management Act, and Standing Order 221(4)(b), annuls in its entirety, the Public Finance Management (Sinking Fund) Guidelines, 2021."
     },
     {
-      "order": 241,
+      "order": 242,
       "id": "entry-1098939",
       "label": "scene",
       "level": "3",
@@ -2895,7 +2907,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 242,
+      "order": 243,
       "id": "entry-1098940",
       "label": "heading",
       "level": "1",
@@ -2907,7 +2919,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 243,
+      "order": 244,
       "id": "entry-1098942",
       "label": "heading",
       "level": "3",
@@ -2919,7 +2931,7 @@
       "text": "THE PUBLIC PRIVATE PARTNERSHIP BILL (NATIONAL ASSEMBLY BILLS NO.6 OF 2021)"
     },
     {
-      "order": 244,
+      "order": 245,
       "id": "entry-1098943",
       "label": "scene",
       "level": "3",
@@ -2931,7 +2943,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 245,
+      "order": 246,
       "id": "entry-1098944",
       "label": "heading",
       "level": "1",
@@ -2943,7 +2955,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 246,
+      "order": 247,
       "id": "entry-1098945",
       "label": "heading",
       "level": "3",
@@ -2955,7 +2967,7 @@
       "text": "THE COUNTY HALL OF FAME BILL (SENATE BILLS NO. 9 OF 2021)"
     },
     {
-      "order": 247,
+      "order": 248,
       "id": "entry-1098946",
       "label": "scene",
       "level": "3",
@@ -2967,7 +2979,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 248,
+      "order": 249,
       "id": "entry-1098947",
       "label": "heading",
       "level": "1",
@@ -2979,7 +2991,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 249,
+      "order": 250,
       "id": "entry-1098948",
       "label": "heading",
       "level": "3",
@@ -2991,7 +3003,7 @@
       "text": "THE DISASTER RISK MANAGEMENT BILL (SENATE BILLS NO. 14 OF 2021)"
     },
     {
-      "order": 250,
+      "order": 251,
       "id": "entry-1098949-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3003,7 +3015,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 251,
+      "order": 252,
       "id": "entry-1098949-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -3015,7 +3027,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 252,
+      "order": 253,
       "id": "entry-1098950",
       "label": "heading",
       "level": "3",
@@ -3027,7 +3039,7 @@
       "text": "THE HEALTH (AMENDMENT) BILL (SENATE BILLS NO. 26 OF 2020)"
     },
     {
-      "order": 253,
+      "order": 254,
       "id": "entry-1098951",
       "label": "scene",
       "level": "3",
@@ -3039,7 +3051,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 254,
+      "order": 255,
       "id": "entry-1098953",
       "label": "heading",
       "level": "1",
@@ -3051,7 +3063,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 255,
+      "order": 256,
       "id": "entry-1098954",
       "label": "heading",
       "level": "2",
@@ -3063,7 +3075,7 @@
       "text": "THE MENTAL HEALTH (AMENDMENT) BILL (SENATE BILLS NO. 28 OF 2020)"
     },
     {
-      "order": 256,
+      "order": 257,
       "id": "entry-1098955",
       "label": "scene",
       "level": "2",
@@ -3075,7 +3087,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 257,
+      "order": 258,
       "id": "entry-1098956",
       "label": "heading",
       "level": "1",
@@ -3087,7 +3099,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 258,
+      "order": 259,
       "id": "entry-1098957",
       "label": "heading",
       "level": "2",
@@ -3099,7 +3111,7 @@
       "text": "THE BASIC EDUCATION BILL (SENATE BILLS NO. 4 OF 2021)"
     },
     {
-      "order": 259,
+      "order": 260,
       "id": "entry-1098958",
       "label": "scene",
       "level": "2",
@@ -3111,7 +3123,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 260,
+      "order": 261,
       "id": "entry-1098959",
       "label": "heading",
       "level": "1",
@@ -3123,7 +3135,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 261,
+      "order": 262,
       "id": "entry-1098960",
       "label": "heading",
       "level": "2",
@@ -3135,7 +3147,7 @@
       "text": "THE COUNTY LICENSING (UNIFORM PROCEDURES) BILL (SENATE BILLS NO. 32 OF 2020)"
     },
     {
-      "order": 262,
+      "order": 263,
       "id": "entry-1098961",
       "label": "scene",
       "level": "2",
@@ -3147,7 +3159,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 263,
+      "order": 264,
       "id": "entry-1098962",
       "label": "heading",
       "level": "1",
@@ -3159,7 +3171,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 264,
+      "order": 265,
       "id": "entry-1098963",
       "label": "heading",
       "level": "2",
@@ -3171,7 +3183,7 @@
       "text": "THE SALARIES AND REMUNERATION COMMISSION (AMENDMENT) BILL (SENATE BILLS NO. 31 OF 2020)"
     },
     {
-      "order": 265,
+      "order": 266,
       "id": "entry-1098964",
       "label": "scene",
       "level": "2",
@@ -3183,7 +3195,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 266,
+      "order": 267,
       "id": "entry-1098965",
       "label": "speech",
       "level": "2",
@@ -3195,7 +3207,7 @@
       "text": "Next Order."
     },
     {
-      "order": 267,
+      "order": 268,
       "id": "entry-1098966",
       "label": "heading",
       "level": "1",
@@ -3207,7 +3219,7 @@
       "text": "MOTION"
     },
     {
-      "order": 268,
+      "order": 269,
       "id": "entry-1098967",
       "label": "heading",
       "level": "3",
@@ -3219,7 +3231,7 @@
       "text": "PROVISION OF COLOSTOMY BAGS TO COLON CANCER PATIENTS AND SURVIVORS IN COUNTY HOSPITALS"
     },
     {
-      "order": 269,
+      "order": 270,
       "id": "entry-1098968",
       "label": "speech",
       "level": "3",
@@ -3231,7 +3243,7 @@
       "text": "THAT, AWARE THAT the colon is part of the digestive system with a major role in the absorption of water, minerals and elimination of waste; FURTHER AWARE THAT colon cancer can cause serious blockage of the colon that may necessitate removal of parts of the colon, the entire colon or the entire colon and the rectum;"
     },
     {
-      "order": 270,
+      "order": 271,
       "id": "entry-1098970",
       "label": "speech",
       "level": "3",
@@ -3243,7 +3255,7 @@
       "text": "COGNIZANT THAT persons who have gone through ileostomy, colostomy and urostomy need to use a bag to empty their wastes for the rest of their lives post-surgery; CONCERNED THAT urine bags, adult diapers, artificial breasts, colostomy or ileostomy bags are not listed as goods exempt from tax or zero rated in the First and Second Schedules of the VAT Act 2013, and therefore attract 16 per cent value added tax and customs duty; ACKNOWLEDGING THAT Article 43(1a) of Constitution of Kenya states that everyone has a right to the highest attainable standards of health, and health is a devolved function and therefore under the mandate of the county governments; NOW THEREFORE, the Senate calls upon the Ministry of Health and) in partnership with the Council of Governors to: 1. create and maintain a register of all the colon cancer patients and survivors in county hospitals, including the biodata of the histology of the patients; 2. provision of colostomy bags for those who are permanent users; 3. include the purchase of palliative care products in the health budgets of all county governments; 4. ensure all county hospitals stock these palliative care products to enable increased access and lower commercial prices; and 5. engage the Treasury and Kenya Revenue Authority (KRA) to waive taxes on long-term health consumables such as colostomy bags, prosthesis and others in the upcoming budgetary cycle to ease the burden on Kenyans."
     },
     {
-      "order": 271,
+      "order": 272,
       "id": "entry-1098971",
       "label": "scene",
       "level": "3",
@@ -3255,7 +3267,7 @@
       "text": "(Sen. (Dr.) Musuruve on 8.9.2021)"
     },
     {
-      "order": 272,
+      "order": 273,
       "id": "entry-1098972",
       "label": "scene",
       "level": "3",
@@ -3267,7 +3279,7 @@
       "text": "(Resumption of debate interrupted on 8.9.2021)"
     },
     {
-      "order": 273,
+      "order": 274,
       "id": "entry-1098973",
       "label": "speech",
       "level": "3",
@@ -3279,7 +3291,7 @@
       "text": "You had started to move. You still have 18 minutes."
     },
     {
-      "order": 274,
+      "order": 275,
       "id": "entry-1098974",
       "label": "speech",
       "level": "3",
@@ -3291,7 +3303,7 @@
       "text": "Madam Temporary Speaker, thank you very much for giving me this opportunity to continue with this Motion on provision of colostomy bags to cancer patients. As a cancer survivor, I am talking on behalf of millions of Kenyans who are suffering. They are just isolated and there is no one to help them. Some of them end up suffering until they are just buried without any assistance. This Motion is seeking for the county government to identify persons who are suffering from colon cancer in their counties; have a register for them and see points of intervention and how to help them in their suffering. Madam Temporary Speaker, I am also seeking in this Motion for the county governments to also put in the county budgets some amount of money that will go towards helping people suffering from cancer, especially there are those who have and walk with colostomy bags wherever they go because part of their intestines have been cut off. We know very well the role that the intestines play in our bodies. Every day when we wake up, some people take a cup of tea and others fruits and all that. We need to eat for our bodies to remain healthy. Even as our bodies remain healthy, there are some waste that need to be excreted for a balanced digestive system. However, those people who have colostrum cancer, some of them their intestines have been cut off. They are not even able to do the normal things that everybody else does. Madam Temporary Speaker, they must walk with their colostomy bags. When you are talking of colostomy bags, they are damn expensive. They are way out of the reach of the common person. As I stand here as a cancer survivor, I am speaking about the common person; the mwananchi who is really suffering and does not know what to do. Some of these survivors who had colon cancer need to keep changing their colostomy bags. When it comes to real-time situation after eating after some hours in a day or two days, the body has to excrete the waste. If the body does not do that, it becomes fatigued. The waste also goes to other parts of the body instead of being excreted. People get diseases and all that. I want us to feel the plight of these cancer patients who are suffering and have no way out. Madam Temporary Speaker, when it comes to provision of these bags, nobody comes in to aid those cancer patients who are always walking around with their bags. There is need for Kenya Revenue Authority (KRA) to also intervene and waive the taxes that come along with health devices such as colostomy bags. They should not be taxed at all. Even for prostatitis, they should not be taxed so that they are affordable to the common man. It is unfortunate that sometimes we do not remember the declarations that Kenya signed like the Abuja Declaration. That 15 per cent of money should go to health. Sometimes we forget these declarations. I am speaking about an issue that can affect everyone. Everyone is a candidate of cancer. Nobody can say that someone was too careless with his life and he got cancer. I am talking about a Motion that is going to help you, me and all Kenyans. Millions of Kenyans are suffering. Madam Temporary Speaker, when it comes to palliative drugs, they are also very expensive. Sometimes you will find that cancer patients want the drugs but they are not able to access the drugs because they are so expensive. Palliative drugs should be exempted from tax 100 per cent. Apart from that, they should be available in hospitals. Sometimes you find cancer patients like someone has colon cancer and all the pains. However, they do not have the palliative drugs. There is need for the county governments to ensure that these drugs are absolutely free so that we defend our constitutional requirement. Article 43 demands that everyone has a right to the highest standards of health. We must do something as a Senate. Madam Temporary Speaker, as I speak here, I feel the pain of those cancer patients who are permanently walking with colostomy bags. Many people walk with these colostomy bags but nobody has aired this issue. Even Napoleon Bonaparte himself was a user of colostomy bag. He died of stomach cancer. I am speaking about an issue that we must look for ways and means of legislating so that cancer patients especially those who wear colostomy bags are helped. Some of these patients and I was able to interact with one. He told me that it is unfortunate that he changes the colostomy bags maybe in a day even three or four times. If they are not changed, you can imagine what goes on. When it comes to excretion, it is normal. If you do not excrete, it means there is something wrong with you. Madam Temporary Speaker, there are organs of the body that actually do this function. The lungs, skin and colon are very important in excretion. If someone is not able to excrete the waste matter, it means that it goes back to his body. He is not even comfortable then he will be diseased. This is something we can rectify. When it comes to the use of colostomy bags, they should not be ridiculed. They need to be understood. There is need for awareness about even the use of colostomy bags. Even in county governments, the county executives should ensure that even in their budgets, they do not only have money set aside for medical equipment without touching the issue of cancer. Madam Temporary Speaker, people with cancer are never followed. Nobody ever makes a follow-up to see how they are getting on. Even the active cancer patients, no one makes a follow up. However, when somebody dies, you will just hear that he fought a good fight. He was brave. No one wants to be brave and no one wants to fight a fight. There is no fight. When you are in the land of the living you behave as the living. There is need for intervention so that those who use colostomy bags are helped during their time in life. They have a right to health. When you talk about issues of health, it touches on Sustainable Development Goals (SDG) 3 that talks about good health. We cannot talk about Vision 2030 and health if we are forgetting a big chunk of people that have cancer. Madam Temporary Speaker, my humble request as I move this Motion is that county governments should implement the Constitution requirement of ensuring that everyone is health because health is a mandatory requirement. They ensure also that palliative care is given. They even ensure that there is a register for those who have cancer. I want to say on the Floor of this House that it is very unfortunate. When it comes to active cancer patients and cancer survivors, there are so many Non-governmental Organisations (NGOs) that deal with cancer. Some of them are even briefcase NGOs. However, if you are a real cancer patient and you go to them, they will not help you. If you want chemotherapy, they will not help you. However, they will earn a lot of money. Some of them are even donor-funded and they get a lot of money. When it comes to supporting the real cancer patient who needs to be supported, they do not do so. Madam Temporary Speaker, I know some Non-Governmental Organisations (NGOs) wait even for someone to die. They say that this is a foundation in honour of so and so who had cancer. All that, but your family does not benefit. The money goes to them. It is time NGOs stopped being canning and stop gambling with the lives of people. We should never say when someone has died of cancer that she fought a good fight or she really braved. We need to intervene at the time when somebody is alive and see how to help that person. We want our citizens to be productive. Even those who are cancer survivors, they need to be productive. They can only be productive if we implement the Constitution requirement of ensuring that everyone's health is catered for. Madam Temporary Speaker, there is need also to do a county audit to see how do county executives deal with the issue of cancer. A lot of money is even taken to counties to deal with cancer. However, when you come across the real cancer patients, you find that nobody is helping them. On my phone I always receive a message from a cancer survivor like me who is going through pain. She is always asking for money for drugs and all that because of the pains she is going through. However, there is money that has been sent somewhere to help her. There is money in the counties and even nationally. Sometimes even nationally you just see people talking about cancer awareness. They get a lot of money on behalf of these people who are suffering. It is time people stopped using others as rubberstamps. Madam Temporary Speaker, my fair request is that there is need for an audit to find out what counties do about cancer patients. The real cancer survivors should be brought on board. Some of these people just have white elephants where they say, we are doing this for cancer. We have screening, but if you go to them, they will not help you. I am saying from an informed perspective. Even as a cancer survivor, I have done so many cancer awareness activities in this country. Even from the time I was a lecturer, I was aware that I also have a constituent as a cancer survivor. I used my money to do all these things. When you approach these NGOs, they will not support you, but they will want you to be part of them so that they use you as a rubberstamp. We are helping the Musuruve Foundation. I do not want to be used as a rubberstamp. I have my brains. I am speaking for a group that is not remembered. Madam Temporary Speaker, I suggest that as this Motion goes to the Floor, I hope my fellow Senators will support me. As they support me, let the concerned authorities do what is actually meaningful and humane. I call upon Sen. Wambua to second me in this Motion."
     },
     {
-      "order": 275,
+      "order": 276,
       "id": "entry-1098983",
       "label": "speech",
       "level": "3",
@@ -3303,7 +3315,7 @@
       "text": "Sen. Wambua, proceed."
     },
     {
-      "order": 276,
+      "order": 277,
       "id": "entry-1098984",
       "label": "speech",
       "level": "3",
@@ -3315,7 +3327,7 @@
       "text": "Madam Temporary Speaker, thank you. Looking at the time, I do not have a lot of time to second this very important Motion. However, I will spend the time that I have as wisely as I can to make sure that I am able to second within the constraints of the time that I have. I will begin by thanking and congratulating Sen. (Dr.) Musuruve for bringing this Motion to the Floor of this august House. She has distinguished herself as a leader in this country who really fights for the rights of the less privileged and vulnerable in society. Madam Temporary Speaker, as I support this Motion because it is a straightforward Motion that should attract the support of all Senators in this House and all stakeholders in the health sector. This is because health is listed as a basic human right under Article 3 of our Constitution on economic and social rights; that every Kenyan has a right to access the highest standards of health attainable in this country. The provision of colostomy bags in hospitals across this country has been made impossible and inaccessible to a lot of people because of the cost of the bags. One of the major factors that make these bags and other items in the health sector very expensive is the issue of the Value Added tax (VAT). I do not even understand why Government would want to tax appliances or items like these that are supposed to go helping the vulnerable in society. Madam Temporary Speaker, the place to start would be even in support of this Motion is to ask the Government to zero rate taxes. It is not just colostomy bags, but other items needed by cancer and other patients, including urine bags and artificial breast. By just that act of reducing or zero rating these items, the costs would go very low. They would become not just accessible, but affordable to a great majority of patients. One of the other things that I would ask Sen. (Dr.) Musuruve to look into is even on the titling of the Motion itself. This is because she is talking about colostomy bags to cancer patients and survivors in county hospitals. I know where she is coming from. She is coming from a position that health is a devolved function. When we legislate then we have our counties in mind. However, if we can just have provision of colostomy bags to colon cancer patients and survivors without limiting ourselves to county hospitals--- Madam Temporary Speaker, we have other extra county hospitals where we have cancer patients. We have colon cancer patients in national hospitals and referral and teaching hospitals. If we will provide colostomy bags to colon cancer patients in county hospitals, then we should also provide the same in national referral and teaching hospitals. That is one thing I would want to see happening in this country. Secondly, I want to really emphasize on the issue of creating and maintaining a database to know the number of colon cancer patients that we have in this country and the stages. This is important to both levels of government. National Government is for purposes of formulating policy on how to deal with cancer patients across the country. That is a standard measure on how to address ourselves as a nation to colon cancer patients. Madam Temporary Speaker, to the county governments for purposes of knowing what kind of medications at what level they need to procure. Even how are they going to engage with partners outside the country in the provision of healthcare for cancer patients? That database is very important. This database should be available for all sectors and categories of illnesses in our country. One of the reasons why we have a problem in procurement of drugs in many hospitals especially the county hospitals is because they do not even have a database of knowing what kind of medication or drugs they are supposed to buy to respond to various kinds of diseases and illnesses in their counties. Madam Temporary Speaker, you realise in a county like Kitui where we have many snakebite cases, the County Government of Kitui should have a database for that kind of challenge. This is so that when they are procuring their drugs, they know that they need this volume of drugs to deal with snakebites. A county like Elgeyo Marakwet where there are no snakebites may not spend as much in terms of procuring snakebite drugs for their patients. This database is important for the prevalent illnesses and diseases that we deal with across our counties to help the national Government to formulate a standard policy for all the hospitals and in helping county governments to make decisions on procurement of drugs. They should also be assisted in recruitment of personnel who include medics. What cadres do they need to deal with and the challenges that they face? Madam Temporary Speaker, in conclusion, one of the things that I have admired with Sen. (Dr.) Musuruve, as I said when I was starting, is her commitment and drive in addressing issues."
     },
     {
-      "order": 277,
+      "order": 278,
       "id": "entry-1098989",
       "label": "speech",
       "level": "3",
@@ -3327,7 +3339,7 @@
       "text": "Just for information, when you said you were pressed for time and you thought you did not have it, after looking at our Standing Orders, you have enough time. Therefore, you should not press yourself to conclude if you still have much to say. You were entitled to a total of 15 minutes from the time you started."
     },
     {
-      "order": 278,
+      "order": 279,
       "id": "entry-1098990",
       "label": "speech",
       "level": "3",
@@ -3339,7 +3351,7 @@
       "text": "Thank you, Madam Temporary Speaker. In that case, I will say a little more about this Motion. Let me first conclude my train of thoughts on the issue of the commitment and focus that Sen. (Dr.) Musuruve brings to the Floor of this House, especially issues that affect the less privileged and people living with disabilities. It is really admirable that she has been a real champion. For the PWDs, they have found a real champion in the person and character of Sen. (Dr.) Musuruve. On this issue of the provision of colostomy bags to colon cancer patients and survivors, colon cancer has continued to claim many lives in this country. Personally, I lost a relative to colon cancer. As Sen. (Dr.) Musuruve said when moving the Motion, part of the colon is removed because that is part of the treatment. It makes life a bit bearable for the patient. The least you want to do with a colon cancer patient is to have them worry about the sickness and the cost of treatment. That is actually being unfair to those patients. Madam Temporary Speaker, so, in line with this Motion, both the national Government and county governments through this Senate can come up with a policy, apart from just zero-rating or removing Value Added Tax (VAT) on colostomy bags, to ensure that the bags are available in all our facilities. There is this talk about affordability of medical care in this country and other parts of this region. It is one thing for medical care, equipment and items to be affordable and a completely different thing for those items to be available. As we move towards making colostomy bags affordable, we should also ensure that they are equally accessible and available in every part of this country. As the Senator has said, anyone can get colon cancer. It is not hereditary or a lifestyle disease. It is a disease that anyone anywhere in this country can get. Madam Temporary Speaker, with those few remarks, I support the Motion for the provision of colostomy bags to colon cancer patients and survivors in county hospitals. I thank you."
     },
     {
-      "order": 279,
+      "order": 280,
       "id": "entry-1098991",
       "label": "scene",
       "level": "3",
@@ -3351,7 +3363,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 280,
+      "order": 281,
       "id": "entry-1098993",
       "label": "speech",
       "level": "3",
@@ -3363,7 +3375,7 @@
       "text": "Sen. Cherargei, proceed."
     },
     {
-      "order": 281,
+      "order": 282,
       "id": "entry-1098994",
       "label": "speech",
       "level": "3",
@@ -3375,7 +3387,7 @@
       "text": "Thank you, Madam Temporary Speaker. From the onset, I congratulate Sen. (Dr.) Musuruve. Of late she is overworking in representing the people living with disabilities. I want to start from where the Motion has quoted Article 43 of the Constitution that provides for economic and social rights. You know very well that one of the basic rights in the celebrated Bill of Rights Chapter IV of the Constitution is access to affordable healthcare services in this country, including reproductive health. This Motion has come at a better time. We know that every time you are in the village, most of the funerals we attend are because of cancer. People have suffered because of cancer. Therefore, the unfortunate sad reality about cancer is that most of the time people die because of late diagnosis. Madam Temporary Speaker, therefore chemotherapy comes late and it becomes a big challenge. Families use a lot of money to try and treat the cancer patients. Unfortunately, the patient may die leaving the family poorer than they were. I support the provision of colostomy bags to colon cancer patients and survivors in county hospitals. Under Article 27 in the Constitution 2010 of Kenya, human dignity forms our basis of the Bill of Rights. The fact that you can provide these colostomy bags for the people is very important."
     },
     {
-      "order": 282,
+      "order": 283,
       "id": "entry-1098995",
       "label": "speech",
       "level": "3",
@@ -3387,7 +3399,7 @@
       "text": "Order. Sen. Cherargei, you will have a balance of 13 minutes when this matter comes up next on the Order Paper."
     },
     {
-      "order": 283,
+      "order": 284,
       "id": "entry-1098996",
       "label": "heading",
       "level": "1",
@@ -3399,7 +3411,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 284,
+      "order": 285,
       "id": "entry-1098997",
       "label": "speech",
       "level": "1",

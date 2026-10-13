@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-10-03-14-30-00",
-  "exported_at": "2026-10-08T21:35:02.342Z",
+  "exported_at": "2026-10-13T18:57:39.452Z",
   "entries": [
     {
       "order": 1,
@@ -5788,6 +5788,18 @@
     },
     {
       "order": 483,
+      "id": "entry-838327-inserted-cc06cddd-6d27-4bb2-a755-7205c988197d",
+      "label": "deleted",
+      "level": "3",
+      "cutout": false,
+      "original_label": "heading",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "IMPROVEMENT OF KENYA’S RANKING IN WORLD TRAVEL  AND TOURISM COMPETITIVENESS INDEX"
+    },
+    {
+      "order": 484,
       "id": "entry-838329",
       "label": "speech",
       "level": "3",
@@ -5799,7 +5811,7 @@
       "text": "COGNIZANT that in the next 10 years every industry will be changed by technology; ALSO AWARE that Kenya Tourism Board has partnered with Google, Safaricom, Kenya Wildlife Service and Tourism Finance Corporation to create new digital content for local tourism; CONCERNED that Kenya tourism industry's potential is underutilized; AWARE that Kenya's position in World Economic Forum's Travel &amp; Tourism Competitiveness Index Ranking is 80 out of 136 in 2017, having improved by two points from 2015, while having currently the lowest score in cultural resources and business travel with 1.6 points out of 7; FURTHER CONCERNED that majority of the solutions proposed by the tourism agenda are brick and mortar type and not addressing the trends; noting that in less than two years, the share of online booking globally has grown from 9 per cent to almost 33 per cent and the lucrative and fast-growing segment of business tourism; ALSO CONCERNED that Kenya will continue to attract only beach and park type tourists ignoring the large number of conference and business travelers, who largely never leave Nairobi and are offered minimal exposure to Kenya; NOW THEREFORE, the Senate calls upon the Ministry of Tourism to approach tourism sector with modern innovation and implement tangible, measurable and impactful solutions, resulting in improvement of Kenya's ranking in the World Economic Forum Travel &amp; Tourism Competitiveness Index 2019 by 6 positions and improve the lowest score of cultural resources and business travel by 1 point."
     },
     {
-      "order": 484,
+      "order": 485,
       "id": "entry-838330",
       "label": "speech",
       "level": "3",
@@ -5811,7 +5823,7 @@
       "text": "Hon. Senators, I defer Order No.19 to tomorrow."
     },
     {
-      "order": 485,
+      "order": 486,
       "id": "entry-838331",
       "label": "scene",
       "level": "3",
@@ -5823,7 +5835,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 486,
+      "order": 487,
       "id": "entry-838332-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -5835,7 +5847,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 487,
+      "order": 488,
       "id": "entry-838332-split-before-60ec08e1-bd2f-48fc-8c96-c6111d099293",
       "label": "speech",
       "level": "1",
@@ -5847,7 +5859,7 @@
       "text": "Hon. Senators, having concluded the Business on the Order Paper, the Senate, therefore, stands adjourned until tomorrow, Thursday, 4th October, 2018 at 2.30 p.m. The Senate rose at 5.42 p.m."
     },
     {
-      "order": 488,
+      "order": 489,
       "id": "entry-838332-split-selected-83bff018-8bf8-4222-ae08-0c894a019b1c",
       "label": "deleted",
       "level": "1",

@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-03-21-14-30-00",
-  "exported_at": "2026-10-08T21:34:35.990Z",
+  "exported_at": "2026-10-13T18:57:28.037Z",
   "entries": [
     {
       "order": 1,
@@ -3400,6 +3400,18 @@
     },
     {
       "order": 284,
+      "id": "entry-782812-inserted-c26c75f0-2618-43da-bbef-0163338304fd",
+      "label": "deleted",
+      "level": "2",
+      "cutout": false,
+      "original_label": "heading",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "DELAY IN UPGRADING THE LAMU–GARSEN ROAD"
+    },
+    {
+      "order": 285,
       "id": "entry-782813-split-before-d4b40b89-4608-47d4-ba54-505ce7e82930",
       "label": "speech",
       "level": "2",
@@ -3411,7 +3423,7 @@
       "text": "What is it Sen. (Eng.) Kirinyaga Ephraim Mwangi Maina, Nyeri County?"
     },
     {
-      "order": 285,
+      "order": 286,
       "id": "entry-782813-split-selected-bdb3ec80-39be-40fc-b4c3-f3f537243b18",
       "label": "heading",
       "level": "2",
@@ -3423,7 +3435,7 @@
       "text": "DESTRUCTION OF FORESTS IN KENYA"
     },
     {
-      "order": 286,
+      "order": 287,
       "id": "entry-782814",
       "label": "speech",
       "level": "2",
@@ -3435,7 +3447,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. Thank you for starting with the name Kirinyaga. It is the original name of Mt. Kenya. I just want to share with my friend, Sen. Ndwiga on this question regarding the deforestation in this country. In his answer which he has said he can bring next week, I would wish him to go into the serious issue that we have witnessed in this country of cutting down trees and what we are going to do right away. There are measures which are being done, but this matter is more or less becoming national because of the importance of this matter in this country. Consequently, I wish that the question comes back on Wednesday for him to have more time."
     },
     {
-      "order": 287,
+      "order": 288,
       "id": "entry-782815",
       "label": "speech",
       "level": "2",
@@ -3447,7 +3459,7 @@
       "text": "Proceed, Sen. Ndwiga."
     },
     {
-      "order": 288,
+      "order": 289,
       "id": "entry-782816",
       "label": "speech",
       "level": "2",
@@ -3459,7 +3471,7 @@
       "text": "Mr. Deputy Speaker, Sir, we will give the Statement on Tuesday. At least I have an idea that the Chairperson will be back."
     },
     {
-      "order": 289,
+      "order": 290,
       "id": "entry-782817-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -3471,7 +3483,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 290,
+      "order": 291,
       "id": "entry-782817-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -3483,7 +3495,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 291,
+      "order": 292,
       "id": "entry-782818-split-before-06912796-0ae3-4846-84fa-78232db855f3",
       "label": "speech",
       "level": "2",
@@ -3495,7 +3507,7 @@
       "text": "Congratulations, Sen. Ndwiga, finally. Very well. Senators, we have a few minutes. I will use those few minutes of the Statement hour which we have used so well. I hope we can be doing this as a tradition. The Statements should run between 2.30 p.m. to 3.30 p.m. or thereabout so that we balance between Statements and other businesses of the House which are equally important. We would want to use the few minutes we have to revisit Statement (k) by the Chairperson of Committee on Energy; Sen. (Eng.) Kirinyaga Maina Ephraim of Nyeri County. What was the direction, Sen. Wambua?"
     },
     {
-      "order": 292,
+      "order": 293,
       "id": "entry-782818-split-selected-3925e5b4-0a7f-4d8b-9f09-c1b6b41a349a",
       "label": "heading",
       "level": "2",
@@ -3507,7 +3519,7 @@
       "text": "COAL EXPLORATION AT MUI BASIN, KITUI COUNTY"
     },
     {
-      "order": 293,
+      "order": 294,
       "id": "entry-782821",
       "label": "speech",
       "level": "2",
@@ -3519,7 +3531,7 @@
       "text": "Mr. Deputy Speaker, Sir, I just received the response from the Senator for Nyeri County right now. It is a fairly detailed Statement. I will need time to go through it."
     },
     {
-      "order": 294,
+      "order": 295,
       "id": "entry-782822",
       "label": "speech",
       "level": "2",
@@ -3531,7 +3543,7 @@
       "text": "I direct that the Statement be issued tomorrow."
     },
     {
-      "order": 295,
+      "order": 296,
       "id": "entry-782823",
       "label": "scene",
       "level": "2",
@@ -3543,7 +3555,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 296,
+      "order": 297,
       "id": "entry-782824",
       "label": "speech",
       "level": "2",
@@ -3555,7 +3567,7 @@
       "text": "What is it Sen. (Eng.) Maina?"
     },
     {
-      "order": 297,
+      "order": 298,
       "id": "entry-782825",
       "label": "speech",
       "level": "2",
@@ -3567,7 +3579,7 @@
       "text": "Mr. Deputy Speaker, Sir, we have discussed this question with the particular Senator asking this question twice or thrice. I would wish to sit down with him even before coming to the House and see his concerns so that we get rid of this question once and for all."
     },
     {
-      "order": 298,
+      "order": 299,
       "id": "entry-782826-split-before-6f8d5e58-0232-42c6-9a94-70fab2b9d727",
       "label": "speech",
       "level": "2",
@@ -3579,7 +3591,7 @@
       "text": "Why should you not do that? It is now an order that you sit down with the Senator for Kitui County. The last one is the Statement by the Chairperson of the Committee on National Security, Defense and Foreign Relations which was requested by Sen. Outa. I am told that the Statement is now here."
     },
     {
-      "order": 299,
+      "order": 300,
       "id": "entry-782826-split-selected-f0f19d5c-c591-4758-b3a3-0eb41dc086c1",
       "label": "heading",
       "level": "2",
@@ -3591,7 +3603,7 @@
       "text": "ALLEGED KILLING OF DEMONSTRATORS IN AHERO TOWN, KISUMU COUNTY"
     },
     {
-      "order": 300,
+      "order": 301,
       "id": "entry-782826-split-after-2ffcd0f6-687d-4586-ad49-58a389b1defe",
       "label": "speech",
       "level": "2",
@@ -3603,7 +3615,7 @@
       "text": "Sen. Outa, have you gone through the Statement?"
     },
     {
-      "order": 301,
+      "order": 302,
       "id": "entry-782827",
       "label": "speech",
       "level": "2",
@@ -3615,7 +3627,7 @@
       "text": "Yes, Mr. Deputy, Speaker, Sir."
     },
     {
-      "order": 302,
+      "order": 303,
       "id": "entry-782828",
       "label": "speech",
       "level": "2",
@@ -3627,7 +3639,7 @@
       "text": "Can the Chairperson proceed to summarize the Statement?"
     },
     {
-      "order": 303,
+      "order": 304,
       "id": "entry-782829",
       "label": "speech",
       "level": "2",
@@ -3639,7 +3651,7 @@
       "text": "He can, Mr. Speaker, Sir."
     },
     {
-      "order": 304,
+      "order": 305,
       "id": "entry-782830",
       "label": "speech",
       "level": "2",
@@ -3651,7 +3663,7 @@
       "text": "Proceed, Chairperson, in your usual style."
     },
     {
-      "order": 305,
+      "order": 306,
       "id": "entry-782831",
       "label": "speech",
       "level": "2",
@@ -3663,7 +3675,7 @@
       "text": "Mr. Deputy Speaker, Sir, better than the usual style. This is a matter regarding killings of demonstrators in Ahero, Kisumu County. It is a matter that happed in respect to the post-election skirmishes that we had. I have discussed with the Senator for Kisumu County. There are only three city Senators in this House. We have agreed that for the sake and in the spirit of reconciliation that was signaled by the handshake of His Excellency Uhuru Kenyatta and His Excellency Raila Odinga, we can consolidate this with the Statement I sought yesterday that speaks generally about what we can do for each and every Kenyan who was affected in one way or another by the post-election skirmishes. The Senator can confirm that we have agreed to do that so that we do not unnecessarily open up old wounds, but still get justice for Kenyans who were hurt in Nairobi, Kisumu and many other parts of the Country. I await your direction on this."
     },
     {
-      "order": 306,
+      "order": 307,
       "id": "entry-782834",
       "label": "speech",
       "level": "2",
@@ -3675,7 +3687,7 @@
       "text": "Is that the position, Sen. Outa?"
     },
     {
-      "order": 307,
+      "order": 308,
       "id": "entry-782835",
       "label": "speech",
       "level": "2",
@@ -3687,7 +3699,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I am also a Member of the Senate Committee on National Security, Defence and Foreign Relations. We had agreed with the Chairperson that we will not only pursue this for the people who were killed in Ahero, but in the entire nation. This is because that 'golden handshake' must mean something for people who lost their lives and property. Therefore, we want to give His Excellency President Uhuru Kenyatta and His Excellency Raila Amolo Odinga this chance to bring the country together. Thank you, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 308,
+      "order": 309,
       "id": "entry-782836",
       "label": "speech",
       "level": "2",
@@ -3699,7 +3711,7 @@
       "text": "Very well. Order Senators. I have a communication to make regarding a visiting delegation from Kivuthini Secondary School in Makueni County."
     },
     {
-      "order": 309,
+      "order": 310,
       "id": "entry-782837",
       "label": "scene",
       "level": "2",
@@ -3711,7 +3723,7 @@
       "text": "(Applause and loud consultations)"
     },
     {
-      "order": 310,
+      "order": 311,
       "id": "entry-782838",
       "label": "speech",
       "level": "2",
@@ -3723,7 +3735,7 @@
       "text": "Order Senators! Order! The Senator of Makueni County should be more interested in order so that the Communication can be issued in extenso."
     },
     {
-      "order": 311,
+      "order": 312,
       "id": "entry-782839",
       "label": "speech",
       "level": "2",
@@ -3735,7 +3747,7 @@
       "text": "I am most obliged, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 312,
+      "order": 313,
       "id": "entry-782840",
       "label": "heading",
       "level": "1",
@@ -3747,7 +3759,7 @@
       "text": "COMMUNICATION FROM THE CHAIR"
     },
     {
-      "order": 313,
+      "order": 314,
       "id": "entry-782841",
       "label": "heading",
       "level": "2",
@@ -3759,7 +3771,7 @@
       "text": "VISITING DELEGATION FROM KIVUTHINI SECONDARY SCHOOL, MAKUENI COUNTY"
     },
     {
-      "order": 314,
+      "order": 315,
       "id": "entry-782842",
       "label": "speech",
       "level": "2",
@@ -3771,7 +3783,7 @@
       "text": "Hon. Senators, I would like to acknowledge the presence in the Public Gallery this afternoon of visiting students and teachers from Kivuthini Secondary School, in Makueni County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them and on behalf of the Senate and on my own behalf, wish them a fruitful visit. I thank you."
     },
     {
-      "order": 315,
+      "order": 316,
       "id": "entry-782843",
       "label": "scene",
       "level": "2",
@@ -3783,7 +3795,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 316,
+      "order": 317,
       "id": "entry-782844-split-before-8c64e8c2-b7d3-4682-9c9d-d275c68ad6b7",
       "label": "speech",
       "level": "2",
@@ -3795,7 +3807,7 @@
       "text": "Hon. Senators, I have another communication regarding a message from the National Assembly relating to the passage of the Division of Revenue Bill (National Assembly Bill No.7 of 2018)."
     },
     {
-      "order": 317,
+      "order": 318,
       "id": "entry-782844-split-selected-252d7731-94c6-4426-a7ed-8bd70cd8b883",
       "label": "heading",
       "level": "1",
@@ -3807,7 +3819,19 @@
       "text": "MESSAGE FROM THE NATIONAL ASSEMBLY"
     },
     {
-      "order": 318,
+      "order": 319,
+      "id": "entry-782844-inserted-8d3f3a06-2f05-49ea-9f54-8f5b521d1545",
+      "label": "deleted",
+      "level": "1",
+      "cutout": false,
+      "original_label": "heading",
+      "speaker": "",
+      "speaker_title": "",
+      "reviewed": true,
+      "text": "MESSAGE FROM THE NATIOAL ASSEMBLY"
+    },
+    {
+      "order": 320,
       "id": "entry-782846-split-selected-1b44bf37-edae-4d5f-a1d2-ab7728984d65",
       "label": "heading",
       "level": "2",
@@ -3819,7 +3843,7 @@
       "text": "PASSAGE OF DIVISION OF REVENUE BILL"
     },
     {
-      "order": 319,
+      "order": 321,
       "id": "entry-782846-split-after-3c250d5d-b533-4e96-a97e-dc24bb590807",
       "label": "speech",
       "level": "2",
@@ -3831,7 +3855,7 @@
       "text": "(NATIONAL ASSEMBLY BILL NO. 7 OF 2018) Hon. Senators, I wish to report to the Senate that pursuant to Standing Order No. 41(3) and (4), I have received the following Message from the Speaker of the National Assembly regarding the passage by the National Assembly of the Division of Revenue Bill (National Assembly Bill No. 7 of 2018). \"Pursuant to the provisions of Standing Order No. 41 and 142 of the National Assembly, I hereby convey the following message. WHEREAS the Division of Revenue Bill (National Assembly Bill No.7 of 2018) was published vide Kenya Gazette Supplement No.18 of 6th March, 2018, to provide for the equitable division of revenue raised nationally between the National and county Governments in the 2018/2019 Financial Year; WHEREAS on 15th and 20th March, 2018, the National Assembly considered and passed the said Bill without amendments and in the form attached hereto; NOW, THEREFORE, in accordance with the provisions of Article 110(4) of the Constitution and Standing Order No.41 of the National Assembly Standing Orders, I hereby refer the Bill to the Senate for consideration.\" Hon. Senators, Standing Order No.151 requires that a Bill which originates in the National Assembly be proceeded with by the Senate in the same manner as a Bill introduced in the Senate by way of First Reading in accordance with Standing Order No. 133. I, therefore, direct that the Division of Revenue Bill (National Assembly Bill No. 7 of 2018) be read a First Time tomorrow, Thursday 22nd March, 2018. Thank you."
     },
     {
-      "order": 320,
+      "order": 322,
       "id": "entry-782847",
       "label": "scene",
       "level": "2",
@@ -3843,7 +3867,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 321,
+      "order": 323,
       "id": "entry-782848",
       "label": "speech",
       "level": "2",
@@ -3855,7 +3879,7 @@
       "text": "Hon. Senators, that brings us to the end of the Statement hour. Next Order."
     },
     {
-      "order": 322,
+      "order": 324,
       "id": "entry-782849",
       "label": "heading",
       "level": "1",
@@ -3867,7 +3891,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 323,
+      "order": 325,
       "id": "entry-782851",
       "label": "heading",
       "level": "3",
@@ -3879,7 +3903,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO. 11 OF 2017)"
     },
     {
-      "order": 324,
+      "order": 326,
       "id": "entry-782852-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3891,7 +3915,7 @@
       "text": "(Sen. Murkomen on 15.3.2018)"
     },
     {
-      "order": 325,
+      "order": 327,
       "id": "entry-782852-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3903,7 +3927,7 @@
       "text": "(Resumption of Debate interrupted on 20.3.2018)"
     },
     {
-      "order": 326,
+      "order": 328,
       "id": "entry-782854",
       "label": "speech",
       "level": "3",
@@ -3915,7 +3939,7 @@
       "text": "The Mover was to reply. Where is the Senate Majority Leader?"
     },
     {
-      "order": 327,
+      "order": 329,
       "id": "entry-782855",
       "label": "speech",
       "level": "3",
@@ -3927,7 +3951,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I thank my colleagues for their immense contributions to this Bill. I have listened and noted the concerns raised. I have particularly appreciated the contributions of Sen. Mutula Kilonzo Jnr., who believes that my Bill was borrowed word for word by the Supreme Court of Kenya in their advisory opinion. In essence, this is an endorsement of the Bill. I do not want to doubt whether the Judges at the court borrowed, or whether we were of the same mind. Everybody knows that the Bill was in the public domain more than three months before the decision of the Supreme Court of Kenya came out. Therefore, there is a possibility that we borrowed from each other. If not, it is even better that my thinking is synonymous to that of the Judges of the court."
     },
     {
-      "order": 328,
+      "order": 330,
       "id": "entry-782856",
       "label": "scene",
       "level": "3",
@@ -3939,7 +3963,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 329,
+      "order": 331,
       "id": "entry-782857",
       "label": "speech",
       "level": "3",
@@ -3951,7 +3975,7 @@
       "text": "Mr. Deputy Speaker, Sir, that chapter on the replacement of deputy governors has received validation at the highest office. However, I agree with Sen. Mutula Kilonzo Jnr. that there is a trend that is developing in the courts. The Constitution makes it clear that Judges must purposively interpret the Constitution as a living document so as to give it meaning and to develop it. I do not think this purposive interpretation of the Constitution, or what the Americans call the 'living tree approach,' can extend to a situation of outright law making by the Bench. This is where you find a Judge sitting to draft the period within which a Bill or a Motion should remain in a county assembly; up to a point where they say 14 or 60 days. That will be stretching the provisions on interpretation of the Constitution too far and encroaching on the responsibilities of Parliament. That is why this Bill does not agree with the 60 days proposed by the Supreme Court of Kenya. The motion should remain within 14 days in the county assembly before approval. Mr. Deputy Speaker, Sir, the chapter on County Public Service Boards (CPSBs) was the work of our Committee in the last Parliament. There was a desire that the CPSBs must be made as independent as possible from Executive interference. In the Bill, we are proposing that a selection panel for the members of the CPSB and the county secretary should contain persons nominated by the Law Society of Kenya (LSK), the Institute of Certified Public Accountants of Kenya (ICPAK) and so on, and so forth. Having relooked at it, it is now clear that this will create a terrible bureaucracy. This is because in a situation where, for example, the county of Mandera wants to replace their CPSB members, they have to write to the LSK in Nairobi to nominate someone to go and sit there. Even if that person is within Mandera, in my view it is creating unnecessary bureaucracy. I am proposing that, at the Committee Stage, that chapter be amended accordingly. The Act now allows the governor to nominate the selection panel but, perhaps he should be guided that the panel should include an advocate of the High Court, an accountant and an expert in human resource matters. The governors can then appoint these members from where they are. The checks will be the fact that those names will be approved by the county assemblies so that there are two levels of checks and balances. Mr. Deputy Speaker, Sir, it is assumed that the reason you are picking an advocate is that they take seriously their oath of office, protection of the Constitution and the desire to protect the law. Consequently, they can take that knowledge to the selection panel. The same applies to the accountants and human resource practitioners. In their professional work they take seriously the opportunity to ensure that the independence of persons who will serve in County Public Service Board (CSPB) is achieved. That is an area that concerns each one of us. Many governors, who were elected for the first time in the last general election of 8th August, 2017, have sacked public servants at the county level. They have forced some of them to leave the CSPB and frustrated their efforts. When we drafted the County Governments Act, we thought that we were replicating what is in the national Government in terms of national public service at the county level and guaranteed the independence of the CPSBs."
     },
     {
-      "order": 330,
+      "order": 332,
       "id": "entry-782860",
       "label": "scene",
       "level": "3",
@@ -3963,7 +3987,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 331,
+      "order": 333,
       "id": "entry-782861",
       "label": "speech",
       "level": "3",
@@ -3975,7 +3999,7 @@
       "text": "Mr. Deputy Speaker, Sir, I request your attention; I cannot even hear myself. There is a lot of noise behind me, which is against the Standing Orders."
     },
     {
-      "order": 332,
+      "order": 334,
       "id": "entry-782862",
       "label": "speech",
       "level": "3",
@@ -3987,7 +4011,7 @@
       "text": "(Sen. (Prof.) Kindiki: Whose attention are you looking for; mine or the Senators'?"
     },
     {
-      "order": 333,
+      "order": 335,
       "id": "entry-782863",
       "label": "speech",
       "level": "3",
@@ -3999,7 +4023,7 @@
       "text": "I am requesting that I be given ample time to present my reply."
     },
     {
-      "order": 334,
+      "order": 336,
       "id": "entry-782864",
       "label": "speech",
       "level": "3",
@@ -4011,7 +4035,7 @@
       "text": "Have you been prevented?"
     },
     {
-      "order": 335,
+      "order": 337,
       "id": "entry-782865",
       "label": "speech",
       "level": "3",
@@ -4023,7 +4047,7 @@
       "text": "Mr. Deputy Speaker, Sir I am listening to a very serious conversation behind me; I cannot concentrate."
     },
     {
-      "order": 336,
+      "order": 338,
       "id": "entry-782866",
       "label": "speech",
       "level": "3",
@@ -4035,7 +4059,7 @@
       "text": "(Sen. (Prof.) Kindiki: Then it is not my attention that you are looking for. What you are looking for is my direction that there be order. Order Senators!"
     },
     {
-      "order": 337,
+      "order": 339,
       "id": "entry-782867",
       "label": "scene",
       "level": "3",
@@ -4047,7 +4071,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 338,
+      "order": 340,
       "id": "entry-782868",
       "label": "speech",
       "level": "3",
@@ -4059,7 +4083,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I not only needed your attention, but also the Senators. There is a phenomenon that is growing. My fear is that the precedent being set by the second tier of governors, for lack of a better word - those who succeeded the founding governors--- The idea of going to the counties and beginning to sack the public servants, from the CSPB and all other institutions, creates a very bad precedent. I hope the Committee Chaired by---"
     },
     {
-      "order": 339,
+      "order": 341,
       "id": "entry-782869",
       "label": "scene",
       "level": "3",
@@ -4071,7 +4095,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 340,
+      "order": 342,
       "id": "entry-782871",
       "label": "speech",
       "level": "3",
@@ -4083,7 +4107,7 @@
       "text": "(Sen. Prof.) Kindiki): Order! Order, Sen. (Eng.) Mahamud! You are an experienced legislator. I do not want to describe what I am seeing. Sen. Cherargei, this is the Senate; I do not want to say what it is not."
     },
     {
-      "order": 341,
+      "order": 343,
       "id": "entry-782872",
       "label": "speech",
       "level": "3",
@@ -4095,7 +4119,7 @@
       "text": "Mr. Deputy Speaker, Sir, although Sen. (Eng.) Mahamud is experienced, he is new in this House. Am I in order to say that, perhaps, he needs further induction? That is on a light note."
     },
     {
-      "order": 342,
+      "order": 344,
       "id": "entry-782873",
       "label": "scene",
       "level": "3",
@@ -4107,7 +4131,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 343,
+      "order": 345,
       "id": "entry-782874",
       "label": "speech",
       "level": "3",
@@ -4119,7 +4143,7 @@
       "text": "Since his Motion is next, he could be consulting on it. This is something that I hope the Committee on Labour and Social Welfare, chaired by Sen. Sakaja can look at. If you visit many counties where new governors took office, there are a lot of complaints about how public servants are being treated at the county level. We need to ask ourselves whether we are achieving the independence that was desired in the CPSB, so that it can run normally. Even with the bureaucracy that comes with political changes, it should remain to be lean and the county public servants are protected from the changes that have occurred in the political circle. Mr. Deputy Speaker, Sir, in this Bill we have detailed prescriptions on how equity should be achieved in a county. It also provides for how equitable distribution of jobs and protection of communities that are less than 30 per cent of the county will be achieved. The Bill is very detailed on that issue. Sen Sakaja spoke to the issue of independence of the speaker's office and the requirement that it should remain 75 per cent. Even in this House the Speaker can only be removed by a two-thirds majority. Thus, we are trying to equalise the tradition and the practice in the Commonwealth on the standards of protection of the office of the speaker. I understand that in the counties, speakers and deputy speakers can easily be removed on very flimsy grounds. The standards in the last term were very low. By this time in the last term, the discussion around impeachment of governors was very high. I can see that the impeachment of governors and removal of speakers has been slowed. We will monitor this phenomenon in the next one year. It could be because governors have become more careful. In fact, let me bring to the attention of this House a very important decision that was made by the Supreme Court. It said that courts must not interfere with the processes of impeachment when they are still running. It was in the case of Gov. Wambora. That was the same argument we made on the Floor of this House and some characters in the media were castigating us. I do not want to say that one of us was there and is now sitting in this House. We are being told that if you criticise a decision of the court outside the court, that is contempt because of ignorance. When I was teaching at the University it was always about a critique of decisions of courts of 1940s. We would criticise from Lord Denning to the current judges and there is nothing wrong with that. You would either criticise by writing an article in a revered journal, teaching in class or by a discourse in public space. Those of us who were here criticised decisions of the court in how they were being misused to put a ground lock on a political process. I kept saying here that in the impeachment process, the articles of impeachment are prepared at the county assembly, but the trial takes place in this House. This is where we will find out whether there was due process at the county assembly and the governor was afforded an opportunity to be heard. We gave all the four governors who came here an opportunity to be heard in this House. Some were convicted or impeached and some were released. The decision is very important for us to note in this House and, if possible, be captured to improve the process of impeachment in terms of the rules and regulations that deal with matters of impeachment. Perhaps, the reason there are no impeachments now is because the decisions we made last term made the new governors to take their jobs seriously and protect themselves from acts that might lead to impeachment. Nevertheless, there is a lot of corruption and misuse of public funds that still goes on in the counties. So, there is also a possibility that the governors and the MCAs have come into a closer relationship. That is subject to investigation. I am just saying there is a possibility; I do not want to cast aspersions because I cannot cite a specific county. I want to emphasise that the part on the CPSB and removal of speakers and deputy speakers is well captured. We are willing to listen to any other proposals that may come in before amendment. With the advice of the Supreme Court, there is nothing that stops the Governor of Nairobi and the Governor of Nyeri from proceeding at the moment with the replacement of the deputy governors. However, if they want to have the detailed procedure that is in this law, I am very proud that the proposals we have made here are agreeable to the Supreme Court. Mr. Deputy Speaker, Sir, I still have many minutes to prosecute this matter. However, I see Senators are impatient because they want to transact the next business of the House. I beg to move and request that the question be put at a time that will be decided by you."
     },
     {
-      "order": 344,
+      "order": 346,
       "id": "entry-782877",
       "label": "speech",
       "level": "3",
@@ -4131,7 +4155,7 @@
       "text": "It is so ordered. The Senate Majority Leader, there is a difference between moving a Motion and replying to the Motion. As a responsible Member of the House, I will urge you, your counterpart the Senate Minority Leader and any other Senator as your Chair, that even when you have a full hour, sometimes, you can help the House to make progress and avoid backlog of business by trying to use less time. You are, of course, entitled to the minutes as provided for in the Standing Orders. However, sometimes you can forego your entitlement for the greater good of the House. The Senate Majority Leader, I have not said you have misused your time."
     },
     {
-      "order": 345,
+      "order": 347,
       "id": "entry-782878",
       "label": "scene",
       "level": "3",
@@ -4143,7 +4167,7 @@
       "text": "(Putting of the Question on the Bill deferred)"
     },
     {
-      "order": 346,
+      "order": 348,
       "id": "entry-782879",
       "label": "speech",
       "level": "3",
@@ -4155,7 +4179,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 347,
+      "order": 349,
       "id": "entry-782880",
       "label": "speech",
       "level": "3",
@@ -4167,7 +4191,7 @@
       "text": "What is it, Senate Majority Leader?"
     },
     {
-      "order": 348,
+      "order": 350,
       "id": "entry-782881",
       "label": "speech",
       "level": "3",
@@ -4179,7 +4203,7 @@
       "text": "Mr. Deputy Speaker, Sir, there has been conflicting rulings on what to say when replying to a Motion. Sometimes at the end of replying to a Motion, I said, \"I beg to reply.\" The Speaker then told me: \"You do not say \"I beg to reply, but you say \"I beg to move even when you are replying.\""
     },
     {
-      "order": 349,
+      "order": 351,
       "id": "entry-782884",
       "label": "speech",
       "level": "3",
@@ -4191,7 +4215,7 @@
       "text": "Order, the Senate Majority Leader! There is no conflict at all. I made the remark that there is a difference between moving a Motion and replying to it in terms of time you take. You are expected to take more time when moving, but when you are replying you can summarise and highlight some salient points. In terms of what you do, you move at the beginning and you move at the end."
     },
     {
-      "order": 350,
+      "order": 352,
       "id": "entry-782885",
       "label": "speech",
       "level": "3",
@@ -4203,7 +4227,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 351,
+      "order": 353,
       "id": "entry-782886",
       "label": "speech",
       "level": "3",
@@ -4215,7 +4239,7 @@
       "text": "What is it, Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 352,
+      "order": 354,
       "id": "entry-782887",
       "label": "speech",
       "level": "3",
@@ -4227,7 +4251,7 @@
       "text": "Mr. Deputy Speaker, Sir, I have been listening to the conversation between yourself and the Senate Majority Leader ---"
     },
     {
-      "order": 353,
+      "order": 355,
       "id": "entry-782888",
       "label": "speech",
       "level": "3",
@@ -4239,7 +4263,7 @@
       "text": "Order! Senator, it is not a conversation. These are proceedings of the House."
     },
     {
-      "order": 354,
+      "order": 356,
       "id": "entry-782889",
       "label": "scene",
       "level": "3",
@@ -4251,7 +4275,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 355,
+      "order": 357,
       "id": "entry-782890",
       "label": "speech",
       "level": "3",
@@ -4263,7 +4287,7 @@
       "text": "Sorry, Mr. Deputy Speaker, Sir. From the directions you have been giving to the Senate Majority Leader, will I be in order to say that you need to induct him to his seat?"
     },
     {
-      "order": 356,
+      "order": 358,
       "id": "entry-782891",
       "label": "speech",
       "level": "3",
@@ -4275,7 +4299,7 @@
       "text": "You would be out of order, Senator, because it is not in the Standing Orders to induct the Senate Majority Leader."
     },
     {
-      "order": 357,
+      "order": 359,
       "id": "entry-782892",
       "label": "speech",
       "level": "3",
@@ -4287,7 +4311,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 358,
+      "order": 360,
       "id": "entry-782893",
       "label": "speech",
       "level": "3",
@@ -4299,7 +4323,7 @@
       "text": "What is it, Senate Majority Leader?"
     },
     {
-      "order": 359,
+      "order": 361,
       "id": "entry-782894",
       "label": "speech",
       "level": "3",
@@ -4311,7 +4335,7 @@
       "text": "Mr. Deputy Speaker, Sir, let it be known because the country is watching--- According to the standing orders, I am entitled to use 60 minutes to move this Motion and 30 minutes to reply to it. However, you said, you were requesting that in situations where we have a lot of business on the Order Paper, I be considerate and use less time. However, that does not mean I do not know that I am entitled to 60 minutes to move a Motion and 30 minutes to reply to it."
     },
     {
-      "order": 360,
+      "order": 362,
       "id": "entry-782895",
       "label": "speech",
       "level": "3",
@@ -4323,7 +4347,7 @@
       "text": "Very well, the Senate Majority Leader. My earlier ruling still that there is no standing order requiring the Senate Majority Leader to be inducted still stands."
     },
     {
-      "order": 361,
+      "order": 363,
       "id": "entry-782896",
       "label": "speech",
       "level": "3",
@@ -4335,7 +4359,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 362,
+      "order": 364,
       "id": "entry-782897",
       "label": "speech",
       "level": "3",
@@ -4347,7 +4371,7 @@
       "text": "What is it, Sen. Wako with a \"K\"?"
     },
     {
-      "order": 363,
+      "order": 365,
       "id": "entry-782898",
       "label": "speech",
       "level": "3",
@@ -4359,7 +4383,7 @@
       "text": "Mr. Deputy Speaker, Sir, will I be in order, taking in to account the directives that you have just given, to propose to the Procedure and Rules Committee to consider reducing the time for replying to a Motion to 20 minutes rather than half an hour so that it is in tandem with what you have ruled? However, we leave the moving time of a Motion to one hour because there are some Bills that require a whole hour to move. Will I be in order?"
     },
     {
-      "order": 364,
+      "order": 366,
       "id": "entry-782899",
       "label": "speech",
       "level": "3",
@@ -4371,7 +4395,7 @@
       "text": "You will be in order, but you know what you are supposed to do beyond what you have proposed. Please, proceed accordingly. Next order!"
     },
     {
-      "order": 365,
+      "order": 367,
       "id": "entry-782900",
       "label": "heading",
       "level": "1",
@@ -4383,7 +4407,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 366,
+      "order": 368,
       "id": "entry-782901",
       "label": "heading",
       "level": "3",
@@ -4395,7 +4419,7 @@
       "text": "THE ASSUMPTION OF OFFICE OF THE COUNTY GOVERNOR BILL (SENATE BILLS NO. 1 OF 2018)"
     },
     {
-      "order": 367,
+      "order": 369,
       "id": "entry-782902-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -4407,7 +4431,7 @@
       "text": "(Sen. Wamatangi on 8.3.2018)"
     },
     {
-      "order": 368,
+      "order": 370,
       "id": "entry-782902-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -4419,7 +4443,7 @@
       "text": "(Resumption of Debate interrupted on 13.3.2018)"
     },
     {
-      "order": 369,
+      "order": 371,
       "id": "entry-782903",
       "label": "speech",
       "level": "3",
@@ -4431,7 +4455,7 @@
       "text": "The Senate Majority Leader, that order is subject to a division. Do we have the requisite numbers to take division or can we defer it in our usual tradition?"
     },
     {
-      "order": 370,
+      "order": 372,
       "id": "entry-782904",
       "label": "speech",
       "level": "3",
@@ -4443,7 +4467,7 @@
       "text": "Mr. Deputy Speaker, Sir, I request it be deferred for two reasons. First, we cannot ascertain exactly whether we have the requisite number. Secondly, we allow for consultation between the majority and minority sides so that we have a unanimous decision when we vote. I request that we defer that order to tomorrow, so that I can consult with my colleague in the minority side, taking into consideration the changes that occurred in their leadership."
     },
     {
-      "order": 371,
+      "order": 373,
       "id": "entry-782905",
       "label": "speech",
       "level": "3",
@@ -4455,7 +4479,7 @@
       "text": "The second reason, Senate Majority Leader, has to be your reason. The first one is inelegant. It is not true to say we cannot ascertain the number. We can ascertain it. However, if your argument is that you need to consult, maybe I can listen to that. Therefore, can you abandon the first reason?"
     },
     {
-      "order": 372,
+      "order": 374,
       "id": "entry-782906",
       "label": "speech",
       "level": "3",
@@ -4467,7 +4491,7 @@
       "text": "Mr. Deputy Speaker, Sir, when I said I was not sure of the numbers, someone was doing the headcount. We have 21 delegations. There is nothing in the Standing Orders which says we cannot vote if we have 21 delegations. However, in the tradition of this House, it will be good if we can vote when we have enough delegations. Mr. Deputy Speaker, Sir, it was you who ruled in this House that it will be necessary for the minority and majority sides to consult. I promised yesterday that I will be consulting with the new Senate Minority Leader. So, if you give me time because he is still settling in the office, I will consult with him, together with the Minority Whip and the minority side team so that by tomorrow we will be ready to put it to vote."
     },
     {
-      "order": 373,
+      "order": 375,
       "id": "entry-782907",
       "label": "speech",
       "level": "3",
@@ -4479,7 +4503,7 @@
       "text": "That is so ordered."
     },
     {
-      "order": 374,
+      "order": 376,
       "id": "entry-782908",
       "label": "scene",
       "level": "3",
@@ -4491,7 +4515,7 @@
       "text": "(Putting of the question on the Bill deferred)"
     },
     {
-      "order": 375,
+      "order": 377,
       "id": "entry-782909",
       "label": "speech",
       "level": "3",
@@ -4503,7 +4527,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 376,
+      "order": 378,
       "id": "entry-782910",
       "label": "speech",
       "level": "3",
@@ -4515,7 +4539,7 @@
       "text": "What is it, Sen. Zani?"
     },
     {
-      "order": 377,
+      "order": 379,
       "id": "entry-782911",
       "label": "speech",
       "level": "3",
@@ -4527,7 +4551,7 @@
       "text": "Mr. Deputy Speaker, Sir. Will I be in order to confirm what the voting status is for nominated Senators in this House? We are Members of delegations. In the Eleventh Parliament, we had the process of letters being done that would allow for votes to take place. Now we want to ascertain the number of votes from counties, are we able to do that the way we did it in the Eleventh Parliament? Has that process happened and has it been dispensed with?"
     },
     {
-      "order": 378,
+      "order": 380,
       "id": "entry-782912",
       "label": "speech",
       "level": "3",
@@ -4539,7 +4563,7 @@
       "text": "Thank you, Sen. Zani. The rules are clear about voting. The information that has been received is in consonance with the rules which are that, nominated Senators can vote on behalf of the head of delegation on delegation, but when delegation has been done. So, the rules have not changed."
     },
     {
-      "order": 379,
+      "order": 381,
       "id": "entry-782913",
       "label": "speech",
       "level": "3",
@@ -4551,7 +4575,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 380,
+      "order": 382,
       "id": "entry-782914",
       "label": "speech",
       "level": "3",
@@ -4563,7 +4587,7 @@
       "text": "What is it, Sen. Wako with a \"K\"?"
     },
     {
-      "order": 381,
+      "order": 383,
       "id": "entry-782915",
       "label": "speech",
       "level": "3",
@@ -4575,7 +4599,7 @@
       "text": "Mr. Deputy Speaker, Sir, I suggest that you distinguish me and Sen. Waqo with a \"Q\" by just saying: \"Senator number one and the other one Sen. Waqo.\" Then there will be no confusion ---"
     },
     {
-      "order": 382,
+      "order": 384,
       "id": "entry-782916",
       "label": "scene",
       "level": "3",
@@ -4587,7 +4611,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 383,
+      "order": 385,
       "id": "entry-782917",
       "label": "speech",
       "level": "3",
@@ -4599,7 +4623,7 @@
       "text": "Order, Senator! That is subject to many things."
     },
     {
-      "order": 384,
+      "order": 386,
       "id": "entry-782918",
       "label": "speech",
       "level": "3",
@@ -4611,7 +4635,7 @@
       "text": "Mr. Deputy Speaker, Sir, will I be in order to congratulate the Senate Majority Leader who for the first time has requested to postpone an issue because he wants to consult the Leader of Minority? It is the first time I have heard this. We should congratulate that new spirit and hold him to it for the entire five year period. We must carry out our functions in this House in the spirit of consultations and consensus, if possible. The Whip will, of course, be there to ensure this happens."
     },
     {
-      "order": 385,
+      "order": 387,
       "id": "entry-782919",
       "label": "speech",
       "level": "3",
@@ -4623,7 +4647,7 @@
       "text": "On a point of Order!"
     },
     {
-      "order": 386,
+      "order": 388,
       "id": "entry-782920",
       "label": "speech",
       "level": "3",
@@ -4635,7 +4659,7 @@
       "text": "I do not know what is out of order because when you rise on a point of order, you are supposed to first of all declare on what Standing Order you are rising and then proceed to say what is out of order or alternatively if there is a grey area where you need guidance from the Chair. In that connection, what is it, Senate Majority Leader? Do you have problems with consultations?"
     },
     {
-      "order": 387,
+      "order": 389,
       "id": "entry-782921",
       "label": "speech",
       "level": "3",
@@ -4647,7 +4671,7 @@
       "text": "Mr. Deputy Speaker, Sir, I want it to go on record that this is not the first time for the Senate Majority Leader to say he would like to consult the Senate Minority Leader. You did it several times in the previous Parliament and Sen. Wako should have remembered that. This might be the first time in this Parliament and there are reasons to discuss things that happen in this world including handshakes."
     },
     {
-      "order": 388,
+      "order": 390,
       "id": "entry-782922",
       "label": "speech",
       "level": "3",
@@ -4659,7 +4683,7 @@
       "text": "Very well. Let us go to the next Order."
     },
     {
-      "order": 389,
+      "order": 391,
       "id": "entry-782924",
       "label": "heading",
       "level": "1",
@@ -4671,7 +4695,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 390,
+      "order": 392,
       "id": "entry-782925",
       "label": "heading",
       "level": "3",
@@ -4683,7 +4707,7 @@
       "text": "THE NATIONAL FLAG, EMBLEMS AND NAMES (AMENDMENT) BILL (SENATE BILLS NO.8 OF 2017)"
     },
     {
-      "order": 391,
+      "order": 393,
       "id": "entry-782926-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -4695,7 +4719,7 @@
       "text": "(Sen. Mutula Kilonzo Jnr. on 20.3.2018)"
     },
     {
-      "order": 392,
+      "order": 394,
       "id": "entry-782926-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -4707,7 +4731,7 @@
       "text": "(Resumption of Debate interrupted on 20.3.2018)"
     },
     {
-      "order": 393,
+      "order": 395,
       "id": "entry-782927",
       "label": "speech",
       "level": "3",
@@ -4719,7 +4743,7 @@
       "text": "Sen. (Prof.) Ongeri had 14 minutes left when debate on this Bill was interrupted yesterday. So Sen. (Prof.) Ongeri, you have the Floor."
     },
     {
-      "order": 394,
+      "order": 396,
       "id": "entry-782928",
       "label": "speech",
       "level": "3",
@@ -4731,7 +4755,7 @@
       "text": "Mr. Deputy Speaker, Sir, yesterday I indicated and emphasised how important and how emotional it can be to see the National Flag flying on special occasions. I indicated that I had the opportunity of being the Chairman of the Amateur Athletics Association of Kenya (AAAK) and every time we went to compete internationally, Kenya romped for first position taking gold. On many occasions, we swept the floor in Steeplechase because we could win gold, silver and bronze. Such occasions were so emotive that everybody, regardless of the ethnic background, joined singing \"Harambee Kenya!\" because of the excitement. Therefore, the embodiment of the National Flag and emblem during public holidays is a befitting act that we can perform. When our Rugby Sevens team wins, I see a lot of flags flying and that is the spirit of patriotism. When athletes win, a lot of flags fly, a sign of patriotism and when Harambee Stars performs well, there is patriotism in flying the flag. Therefore, this must percolate and permeate to Kenyans so that they understand what their flag means. Of course they should not misuse it against the authority but they can use it for the benefit of mobilising the populations and people to know that they belong to the Republic of Kenya. It is a spirit of oneness that this Act aims to create. I am happy the Mover of the Bill thought very carefully that it is important that we have this Act to allow us fly flags during public holidays. That is a sign of patriotism. People should be allowed to display the National Flag whether they are in a private building or anywhere else."
     },
     {
-      "order": 395,
+      "order": 397,
       "id": "entry-782929-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -4743,7 +4767,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 396,
+      "order": 398,
       "id": "entry-782929-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -4755,7 +4779,7 @@
       "text": "[The Temporary Speaker (Sen. Lelegwe) in the Chair]"
     },
     {
-      "order": 397,
+      "order": 399,
       "id": "entry-782930",
       "label": "speech",
       "level": "3",
@@ -4767,7 +4791,7 @@
       "text": "When Americans do well in the Super Bowl, they fly flags everywhere. Why not Kenyans? We are super in many ways. We are super culturally, athletics-wise and many other sports and we have proved it. Even in reaching an agreement where there was a wonderful handshake, that should have called for the hoisting of the flag in private residences and public buildings because that was a sign of goodwill; that peace and tranquility is finally finding its doors within the borders of Kenya. It is an important resource that we must harness, accept and use. Without using it, we end up in dilly-dallying on issues that are very parochial and hinder this nation from moving forward. We should desist from issues that divide us and issues that can never build a lasting solution. Our focus should be on how to cement relations between one group of people and another and one ethnic group and another. We should use cultural events to do this. When I was the Minister for Education, one of the events I enjoyed was the Kenya schools music and drama festivals because they were rich in Kenyan repertoire. In other words, Kenyans expressed themselves in their deep cultural way and that brought together many other groups. I was curious to know whether the students who performed cultural events belonged to those ethnic groups but that was not the case. They belonged to other ethnic groups but had mastered cultural songs of other communities that you could not distinguish whether they were from Somali or Kisii communities. It is fulfilling when you get a Kisii singing a Somali song in a cultural way and bringing out the richness of that song during music and drama festivals. You feel that you are one nation, one people, and one country. That is the spirit that we must inculcate in our young people. If we do not do so, we should not blame the digital world because our young people are lost in other games within the digital world. Therefore, they have forgotten the basic foundation of unity and togetherness laid by our forefathers and foremothers. No wonder our National Anthem talks about unity of purpose and unity of being together and being nationals who are proud of being in their own country. This is an important Bill and I urge that we support it because it augurs well for this nation. It could not have come at a better time than now when we are seeing a new spirit and when you have a new spirit, it comes with new thinking, realignment, movement and approach. Kenyans should not feel scared to even fly a flag during a national holiday but they are scared that if they do so, somebody along the road would tell them that they have broken the law. We must demystify that. You are not breaking any law by flying the flag but expressing that you are a Kenyan. That is the spirit we want to plant in our young people. I told you that I was proud when I hosted Kenya Independence Day Celebrations in Dombivli and the Kenya fly was flying high. The Governor of Maharashtra State was in attendance representing the Government of the Republic of India. It gave me a moment of satisfaction that I was a Kenyan. When I came back, I used my energy and effort to ensure that this nation grows in a manner that is acceptable and which is beneficial to the people of Kenya. Mr. Speaker, Sir, with those few remarks, I commend The National Flag, Emblems and Names (Amendment) Bill, 2017. I expect my colleagues, including the seniors who are here, to support this Bill because it is good. It engineers the people of Kenya to think in one direction for the common good of this nation. With those few remarks, I support the Bill."
     },
     {
-      "order": 398,
+      "order": 400,
       "id": "entry-782933",
       "label": "speech",
       "level": "3",
@@ -4779,7 +4803,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I rise to support The National Flag, Emblems and Names (Amendment) Bill (Senate Bills No.8 of 2017). I support this Bill because of its intention. It seeks to amend an Act of Parliament that was enacted in 1963 to allow Kenyans to fly the flag in private or public premises on public holidays. Currently, you will find businessmen flying the flag on public holidays. I am not sure under what authority, but the existing Act says that the Minister may authorize that. You rarely find private citizens hoisting, lowering or dropping the flag round their homes when it is a public holiday. Mr. Temporary Speaker, as was stated by the Mover of this Bill, in the United States of America (USA) and several other countries, the level of patriotism, loyalty and sense of identity with the national flag is such that homes are dressed with the national flag even when it is not a public holiday. In fact, you will find the national flag being a piece of decoration in homes and it is not just for the decorative value, but for the patriotic value. As you know, in the USA, there has been a great debate over the use of certain flags that were used previously and that has brought out some fault lines in the American politics. Mr. Temporary Speaker, Sir, a flag is important as a speaker who was with us yesterday told us. He said that nations are imagined through various ways and one of them is through their flags. Many people do not know that the use of the national flag is restricted. I wear lapel pin with the colours of the national flag. Mr. Temporary Speaker, you wear a lapel pin with the national flag. You might ask yourself whether you are doing it rightfully or wrongfully because the Act of 1963 places restrictions on the use of the national flag. Many people do not know that the use of certain names is restricted. If you look at the primary Act that this Bill seeks to amend, you will find that the use of the word\n\n'Nyayo''Jamhuri'\n\nand 'Madaraka' is restricted. Even the use of the name of the President is restricted. You must get authority from the Minister to use the name of the President even though you are using that name probably for commercial purposes and for promotion of things beyond the ordinarily. Having been born around the time when President Moi took over power, I was called ' Nyayo' when I was growing up. That is a name that I am still called when I go to the village. You will find some people who do not want to recognize that I am the Senator for Homa Bay County calling me ' Nyayo. They still want to call me ' Nyayo .' That could probably have been a criminal offence going by the Act of 1963 because certain names are not supposed to be used. Thankfully, I am not using the name ' Nyayo' to make money or promote business. Mr. Temporary Speaker, Sir, the primary Act says that if you are found guilty, you can serve a jail term of six months or be fined Kshs5,000, or both. That brings me to the question; why do we even need The National Flag, Emblems and Names Act that Sen. Mutula Kilonzo Jnr. is proposing to amend? The preamble of the Act says: \"It is an Act of Parliament to prevent improper use of the national flag and certain emblems, names, words and likenesses for professional and commercial purposes and to prohibit display of certain flags.\" So, the intention of this Act is to prevent and to prohibit improper use of the national flag. We may need to ask ourselves whether in so doing, we will also be limiting certain rights that are given to Kenyans in the current Constitution. Before we enacted the Constitution of Kenya 2010, I am not sure where one would go to, to get the\n\nspecifications of the national flag. The National Flag, Emblems and Names Act provides the specifications for the national flag; the dimensions, the colours of black, red and white; how wide it should be; the depth and pantone of the colours. However, that is now in the Constitution. Mr. Temporary Speaker, Sir, in the schedule of the Constitution, you will get the specifications of the flag, the words of the national anthem, a description of the Coat of Arms and the national seal. The only thing that you will not get in the Constitution is something that is in the Act that is called the Armorial Ensign . I am not sure what that is. If you look at the English that describes the Armorial Ensign in the Mother Act, I am not sure whether that is English. I will not try to read to it. Look at the mother Act and see how Armorial Ensign is defined. I urge the Senator for Makueni County who sought to amend this Act, that he should also move an amendment to that description of Armorial Ensign because I do not understand it. It is written in a language that must be very archaic English. Mr. Temporary Speaker, we must make up our minds whether we want to keep that Act or whether the Constitution of Kenya 2010 takes care of some of the things that that Act was meant to take care of. The other thing that is not in the Constitution is the score of the national anthem; the musical score which is a self-annotation theme on how the national anthem should be played. We have a beautiful national anthem. It is also limited by this Act. I hope that when looking at these amendments, we will also make it possible for Kenyans to use the national anthem anytime and everywhere without limitations. We need to ask ourselves whether the parent Act limits the use of the national anthem because that is an expression of patriotism. Sen. (Prof.) Ongeri talked about his adventures in athletics. Every time the Kenya National Anthem is played in international fora, we get feedback and we are told we have got a wonderful national anthem; the tune, the tone and the way it flows. It is beautiful. There should not be an Act of Parliament whose job is to stop us, prevent or prohibits us from taking pride in our national anthem, taking pride in our flag and emblems. Certainly, the use of those national assets for commercial purposes must be outlawed. However, in pursuit of patriotism or genuine love for the love of the nation, we do not need an Act of Parliament that prohibits that. Mr. Temporary Speaker, Sir, as you look at this Act, I also want to challenge the Mover, the Senator for Makueni County, who is a very good lawyer, that there is a provision in the mother Act that gives the Attorney General the power to authorize prosecution for violations of this Act. I thought that that power went away. The power of the Attorney General to decide who should be prosecuted went away when the Attorney General Emeritus, Sen. Wako, gladly handed to the nation the Constitution of Kenya 2010. That is something that we need to deal with. If you are keeping the mother Act, then that provision should also be done away with because the Director of Public Prosecutions (DPP) is not under the control of the Attorney General anymore as was the case in the past. I wish to propose that as this Bill moves in subsequent stages, we will get the opportunity to put into place some of these amendments. However, the proposals by Sen.\n\nMutula Kilonzo Jnr. are pragmatic. These are the proposals of a man who is truly proud of his nation and who really wants to use his national symbols to demonstrate that pride. The National Flag, Emblems and Names (Amendment) Bill (Senate Bill No.8 of 2017) is only about four pages and so it would be unfair to take 15 minutes to debate a four-page Bill. Thank you and I support."
     },
     {
-      "order": 399,
+      "order": 401,
       "id": "entry-782942",
       "label": "speech",
       "level": "3",
@@ -4791,7 +4815,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I rise to support the amendments. This is one of those Bills that lapsed in the last Parliament for I remember discussing it in the National Assembly and it is important that we expedite it. In fact, while still on that issue, we need to do something to this House because it appears that we have very few Bills and we are engaging in Statements as if a lot of the work of this Senate is on Statements. The core business of Members is to pass legislation because no matter how good the Statements are - I am not trying to belittle them since they are owed to the Members - they do not enforce anything as such. We may have all the answers but what will really last forever is the amount of Bills that we will pass. As per our last discussion during the induction, we had 90 Bills that we can revive going forward. There are so many areas of legislation. Anyway, that is a discussion for another day, though it will be good if we amend the Standing Orders to have a sitting every Wednesday for us to canvass as many Statements as possible. On the issue of National Emblems, especially the flag, it is usually very exciting to see our flag being hoisted when we win a race as a country. One usually gets excited when outside the country and they find someone wearing a wristband with the flag of the country, yet some of the people that we come across doing so are not even Kenyans. Some of them are tourists who came here and fell in love with our country. The fact that the flag has been associated with the Government makes it very rare for one to use such colours when they are campaigning and this even applies to politics. In fact, if you want to lose an election, the best way to go is to put on your posters the national flag colours. This even applies to those who are from the party that is actually forming the Government of the day for there is a way in which the restriction of the use of the national colours has actually stigmatized the very use of those colours. If one uses those colours, they will be associated with the Government. That is not good for we are supposed to be proud of our own heritage since the national flag unites us. It is very symbolic and has a lot of meaning. The black at the top represents the people, white calls for peace, red symbolizes the struggle and green represents our very fertile grounds. These are things that we are supposed to be proud of for when you look around, there are countries that seem to be copying our own flag. For example, the only difference between our national flag and that of South Sudan is the blue at the corner. We are supposed to make this free and available to Kenyans and it should not be restricted to Government officials alone. Everybody is aware of how communities celebrate if one of their own sons and daughters is able to fly a flag; in this case having a ministerial position. The restricted use of the national flag is a manifestation of the lack of patriotism in this country. The fact that a flag can be seen to be for citizens who are pro-government is really telling. We have to use the national flag as a way of rekindling our nationhood and patriotism because when people do not care about the State or nation, they are then able to participate in the very defeat of the endeavors to strengthen that very nation, thus the amendments to this Act are very timely. Indeed, I think that they are going to go a long way in ensuring that we embrace one another. I would want to give examples of places where a good number of us have visited. In a place like America, people hoist the American flag even on their houses and it is fine and every Government institution there has their own flag. When you come to our offices, I doubt if there are many of us who have a flag and if you are to be found to be one of those people, the first question somebody will ask you is 'are you government'? It is something that we need to move away from. Obviously, we have our own challenges but at the same time, we have got to focus on our unity. I would want to imagine that with the passage of this Bill, we will see people making dresses and having all forms of attires carrying the flag of this country with them. Indeed, with the passage of the Bill, I hope that Kenyans will also have time to reflect on the new-found unity or cooperation between His Excellency President Uhuru Kenyatta and the Rt. Hon. Raila Odinga. I pray that we will also find time to reflect on what went wrong with our nationhood because if we do not interrogate this question, we will always sabotage ourselves. It will not matter if we have made progress in terms of infrastructure because we can have the hardcore development of tall buildings but still have a divided and disunited country. That way, we will not move forward. We also have to find new ways of uniting us such as sports; soccer and athletics, for people to know the true meaning of this country. We have a lot that we can enumerate from Article 10 of the Constitution about national values and principles on the promotion of our national heritage and culture because in each and every one of us and, indeed, across the country, there is some \"Kenyanness \" in us. There is that which distinguishes us from other countries and it is signified by this flag and many other national emblems and symbols. I support."
     },
     {
-      "order": 400,
+      "order": 402,
       "id": "entry-782945",
       "label": "speech",
       "level": "3",
@@ -4803,7 +4827,7 @@
       "text": "Thank you Mr. Temporary Speaker, Sir. I stand right from the onset to support this Bill. The whole idea of the way we handle the matters of the flag has a lot to do with our history; the way we grew up and the way we have learnt to behave within a certain context. For example, in many communities and in many places, when the flag was being hoisted, you had to stand at attention and if you moved, you would be stopped. You had to raise it up in a certain way and salute. I think this is what gave this impression. The revering of the flag in this way was not bad because in itself, it is meant to show the respect of the flag though I think that we went too far with the agenda of respect and missed the aspect of patriotism. For many children, they have not learnt to identify with that flag. When I was in primary school, at the Star of the Sea School, Mombasa, we would first hoist the flag and then sing all the three stanzas of the National Anthem. We knew how to sing the National Anthem both in English and Kiswahili. The other day when we were having our meeting of the Committee on Education, we told ourselves that, 'if you pick a standard Kenyan young boy or girl and asked them to sing all the stanzas of the National Anthem in Kiswahili, they might stumble'. We were looking at the curriculum and education and asking ourselves what went wrong; what happened to our values of patriotism? A country like America, when they were at the spot where we are in Kenya, they fully incorporated this rite from very early ages. You will find that an American will stand and say \"I am proud to be an American.\" That is what we need to do as Kenyans; we need to stand and not only say it, but also feel it. We just do not need to wear the bangles to represent that we are Kenyans, but we need to feel that we are Kenyans. We feel like this, especially in the instances when we have been out of the country. I remember when I was an International Fellowship Programme (IFP) Scholar and we would have delegations of various students from various places, the first thing that was used to identify us, was our respective flags. The feeling of pride that came when our respective flags were raised was a very high level of appreciation, respect, association and love for the country. Therefore, there is significance in the flag and how it is operationalised in our lives. Therefore, Mr. Temporary Speaker, Sir, we need to move the amendments as this Bill suggests. This is so that we can move to the point where we can both revere the flag and also use it as a symbol of understanding of who we are. Sometimes when we have gone as delegations to other countries, you will find that it is standard, for example, for a Senator to have the flag of their party and, specifically, the flag of their country on the table. Some will wear it on the lapel, but you will have that flag even on the table. Those flags will be given out to everybody. This feeling is reducing because some time back in the 1960s, you would not handle the flag and wave it, for example, when you were cheering a team. However, we have seen changes where it is now possible for you to do that. You can now waive it and show your appreciation by doing that in a particular way. Therefore, this amendment is very critical. It is a small part of a bigger Bill that was discussed in the Eleventh Parliament that talked about the importance of the national flag, the emblems and the names, which were very critical. This Bill is important because we need to move away from the presumption that we are looking at our flag, but we are looking at it as something which is very distant and which we cannot bring closer to us. We need to get our young people to understand that the closer they are to the flag, the better understanding they have of it, which makes it even more important for them to be patriots. This is also linked to the way we handle the flag during national days. It is a symbol of unification that brings us together and, therefore, we need to climb down from that high tower to the lower tower, where we can handle the smaller flags with our children so as to celebrate what is really going on."
     },
     {
-      "order": 401,
+      "order": 403,
       "id": "entry-782948-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -4815,7 +4839,7 @@
       "text": "[The Temporary Speaker (Sen. Lelegwe) left the Chair]"
     },
     {
-      "order": 402,
+      "order": 404,
       "id": "entry-782948-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -4827,7 +4851,7 @@
       "text": "[The Temporary Speaker (Sen. Malalah) in the Chair]"
     },
     {
-      "order": 403,
+      "order": 405,
       "id": "entry-782951",
       "label": "speech",
       "level": "3",
@@ -4839,7 +4863,7 @@
       "text": "Mr. Temporary Speaker, Sir, Sen. Mwaura spoke about what divides us. We cannot move away from that history without addressing it, because that will also give us a sense of unity. What divides us is not unknown; it is very clear and very well known. These are issues of historical injustices and inequalities, for example, even in the job market. All these issues that divide Kenyans have to be put on the table and discussed. In as much as we are part and parcel of various parties and coalitions, we need to put this issue on the table, discuss it and the solutions shall be found. When we talk about inequality, it is not a characteristic that is unique to Kenya; all countries have issues of inequalities, including the developed ones. If you look at British history, you will find that they talk about their inequalities, for example, between the middle and the higher classes. For example, the findings in the educational field found that most of the working class in the United Kingdom (UK) will not go to university, even when they have a chance to do that; but the middle class will proceed to university. This is a big educational discourse that they have been discussing for the last ten years. They put it on the table and discussed it as an issue, and nobody asked: \"Which coalition or party are you coming from?\" or \"why are you discussing it this way?\" It is an issue and it will remain an issue and for as long as it is not solved, it will not bring the unity that we seek so much in this country. We need to get to a point where we can have our leadership put the issues on the table and discuss them substantially. The other amendment in this Bill at Clause 5 and 6 is just to change the terminology, for instance, from \"Minister,\" which was used at that time, to replace it with \"Cabinet Secretary.\" This is very important so that it can actually be contextualised. Mr. Temporary Speaker, Sir, as I wind up, I just want to encourage that even as we try to get to the level where we can identify with the flag, we have to be very careful that we do not get to the levels of disrespecting it, because that will be very dangerous. This is the sort of thinking that made people get a little bit worried, for example, when we were talking about the national dress. Supposing, in the national dress, somebody starts with a green colour on top and then with a black colour at the bottom, what will that mean? Or, for example, if we put the flag upside down while handling it, what will that mean and what will the penalty for that be? The flag is a symbol which holds us together as a country and we respect it. So, even as we cascade downwards to try to bring it to the level where any Kenyan can access it with the values of patriotism that it brings, it remains very important that the respect for the flag is upheld. This is because any Kenyan identifies with the Kenyan flag and is proud to be a member of this country because through it, we feel that we are Kenyans and we are in the right place. The flag also creates the hope that is so desired in this country. Thank you, Mr. Temporary Speaker, Sir. I beg to support."
     },
     {
-      "order": 404,
+      "order": 406,
       "id": "entry-782952",
       "label": "speech",
       "level": "3",
@@ -4851,7 +4875,7 @@
       "text": "Thank you. Proceed, Sen. Olekina."
     },
     {
-      "order": 405,
+      "order": 407,
       "id": "entry-782953",
       "label": "speech",
       "level": "3",
@@ -4863,7 +4887,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I rise to support this Bill. I have gone through it and one of the questions that came to mind is; what does the flag really represent? In my view, the flag represents a living country and because of that, it means that when you have a flag, you should fly that flag at any time you desire. Mr. Temporary Speaker, Sir, we are so divided in this country. We care so much about our tribes; I am a Maasai, someone else is a Luhya, et cetera . The only thing that really brings us together is the national Anthem and the flag which, in my view, really represents and sends a great message that Kenya is, indeed, a living country. Mr. Temporary Speaker, Sir, I have looked at the amendments that have been proposed by Sen. Mutula Kilonzo Jnr. in this Bill. I would go further and add that we should not be restricted to flying the flag only during the holidays and national days. We need to ask ourselves the format in which we should fly this flag. I should be able to fly this flag at any time in my home. However, only on national days or holidays is where we emphasise and bring in our Coat of Arms. There is really no reason why we should not fly the flag 24 hours a day. I know that people talk about the times of flying the flag, and I would like Sen. Mutula Kilonzo Jnr. to think about extending it further in these amendments to allow people to fly the flag throughout the day. We should then add other conditions to be observed. For instance, we know that the time that the flag has to come down is normally designed to be 6.00 p.m. However, in this case, if we can illuminate that flag, then we should be given an opportunity to fly it for 24 hours. Mr. Temporary Speaker, Sir, the big question is when should we fly this flag? It is not whether we should be allowed to fly it on certain days. Every Kenyan who feels patriotic about his country should be proud of it. I lived in the United States of America (USA) for over 17 years and the only way that you could identify a Kenyan when you go to another neighbourhood is where you will find a flag. In the USA, people feel so patriotic that every home has a flag outside. That should, therefore, be extended to this country as well. We now ask ourselves these questions; what times should we fly this flag and under which conditions? What emphasis should we put? We have our Coat of Arms which is not in any apparel or any other flag that is flown out there. However, on national days, let us emphasize this flag; let us put the Coat of Arms on it and show people that we are truly patriotic and that we are able to display the difference. Mr. Temporary Speaker, Sir, if you go to other countries, you will find that people always have a flag even in their cars. When a patriotic effect is desired, this is when you will see people flying the flags even during holidays such as Christmas and on national holidays. I have no problem with changing a name from 'Minister' to 'Cabinet Secretary'. That is welcome. On the second amendment that seeks to introduce a New Section 4B, I would request that this be extended. Every Kenyan should be allowed to fly a flag at any given time that they chose to do so. However, we should put a distinction, for example, during national days we should fly a flag and we add the Coat of Arms to it. This is a short Bill and I will not belabour my point. I would like to request the Mover of this Bill to think about extending further by adding the time when the flag should be flown and put a distinction. If it is flown at night, let it be illuminated. Let everyone who is passing there see that this is indeed the Kenyan flag that we are proud of. As I conclude, when we display the flag, we have to emphasize that it should never touch the ground. In most cases, when you attend national day celebrations, you will find the tents covered with a flag touching the ground. A flag should never touch anything beneath it. This is what shows that Kenya is indeed a living country. Mr. Temporary Speaker, Sir, with those few remarks, I beg to support."
     },
     {
-      "order": 406,
+      "order": 408,
       "id": "entry-782958",
       "label": "scene",
       "level": "3",
@@ -4875,7 +4899,7 @@
       "text": "(Interruption of debate on the Bill)"
     },
     {
-      "order": 407,
+      "order": 409,
       "id": "entry-782959",
       "label": "heading",
       "level": "1",
@@ -4887,7 +4911,7 @@
       "text": "COMMUNICATION FROM THE CHAIR"
     },
     {
-      "order": 408,
+      "order": 410,
       "id": "entry-782960",
       "label": "heading",
       "level": "2",
@@ -4899,7 +4923,7 @@
       "text": "VISITING DELEGATION FROM MEDINA HIGH SCHOOL, NAIROBI COUNTY"
     },
     {
-      "order": 409,
+      "order": 411,
       "id": "entry-782961",
       "label": "speech",
       "level": "2",
@@ -4911,7 +4935,7 @@
       "text": "Hon. Senators, I would like to acknowledge the presence in the Public Gallery, this afternoon, of visiting students and teachers from Medina High School, Nairobi County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them. On behalf of the Senate and my own behalf, I wish them a fruitful visit. I thank you."
     },
     {
-      "order": 410,
+      "order": 412,
       "id": "entry-782962",
       "label": "scene",
       "level": "2",
@@ -4923,7 +4947,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 411,
+      "order": 413,
       "id": "entry-782963",
       "label": "speech",
       "level": "2",
@@ -4935,7 +4959,7 @@
       "text": "Proceed, Sen. Pareno Judith Ramaita."
     },
     {
-      "order": 412,
+      "order": 414,
       "id": "entry-782964",
       "label": "speech",
       "level": "2",
@@ -4947,7 +4971,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 413,
+      "order": 415,
       "id": "entry-782965",
       "label": "speech",
       "level": "2",
@@ -4959,7 +4983,7 @@
       "text": "On a point of order, Mr. Temporary Speaker, Sir. Would I be in order to request for a few minutes to welcome the young men and women, especially as we discuss such an important amendment to this Bill, touching on our patriotism? Could I proceed to welcome them?"
     },
     {
-      "order": 414,
+      "order": 416,
       "id": "entry-782966",
       "label": "speech",
       "level": "2",
@@ -4971,7 +4995,7 @@
       "text": "Proceed."
     },
     {
-      "order": 415,
+      "order": 417,
       "id": "entry-782967",
       "label": "speech",
       "level": "2",
@@ -4983,7 +5007,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. We are really proud to see the young boys in the Gallery this afternoon. We wish them the best in their school work and all that they do. We are happy they are here this afternoon when we are in the process of discussing an amendment to the National Flag, Emblems and Names (Amendment) Bill, 2017. We are talking about the importance of revering our flag and using it as a sense of identity for ourselves as Kenyans. They will follow a bit of this debate and as they go back, they will explain to their colleagues who did not come, what the Senate does and how we are here to protect the counties as we proceed with this work."
     },
     {
-      "order": 416,
+      "order": 418,
       "id": "entry-782968",
       "label": "speech",
       "level": "2",
@@ -4995,7 +5019,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I wish to extend a warm welcome to the boys from Medina High School. I notice that the Senator for Nairobi County, Sen. Sakaja, is not here. However, on his behalf, because he is a good friend of mine, I wish to take on that role and welcome the boys. Mr. Temporary Speaker, Sir, even though I am a Senator representing Homa Bay County, I started my education in Homa Bay County, but continued it in Nairobi County. I went to Rabai Road Primary School in Jericho, Langata Road Primary School, next to Weston Hotel and proceeded to Lenana School in Nairobi. So, I understand the challenges that boys and girls go through when studying in this City. I want to encourage the boys because a lot of effort has been put in promoting the girl-child to an extent that one Member of this honourable House, Sen. Cheruiyot, has come out as a defender of the girl-child, forgetting his own gender."
     },
     {
-      "order": 417,
+      "order": 419,
       "id": "entry-782971",
       "label": "scene",
       "level": "2",
@@ -5007,7 +5031,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 418,
+      "order": 420,
       "id": "entry-782972",
       "label": "speech",
       "level": "2",
@@ -5019,7 +5043,7 @@
       "text": "Mr. Temporary Speaker, Sir, we have 47 leaders elected to look into the interests of women, forgetting that the 47 Senators elected here also have women as their constituents. The Members of the National Assembly also have women as their constituents. However, we have seen it important to look into issues of women and the girl-child, that we have created special seats for their promotion. I am sure that the boys from Medina High School study Physics and there is something called approaching speed. When a vehicle is approaching another vehicle that is stationary, at some point the approaching vehicle will overtake. That is the situation. The girl-child is an approaching vehicle and the boy-child is a stationary vehicle. As Members of Parliament, we must ensure that as the girl-child moves, the boy-child also moves. I assure the boys that despite Sen. Cheruiyot's love for the girl-child, we also love the boy-child and will do everything possible to ensure that they succeed in school and later on in life"
     },
     {
-      "order": 419,
+      "order": 421,
       "id": "entry-782973",
       "label": "speech",
       "level": "2",
@@ -5031,7 +5055,7 @@
       "text": "Thank you for your encouraging words. We will now go on with our debate. Proceed, Hon. Pareno Judith."
     },
     {
-      "order": 420,
+      "order": 422,
       "id": "entry-782974",
       "label": "scene",
       "level": "2",
@@ -5043,7 +5067,7 @@
       "text": "(Resumption of debate on the Bill)"
     },
     {
-      "order": 421,
+      "order": 423,
       "id": "entry-782975",
       "label": "speech",
       "level": "2",
@@ -5055,7 +5079,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I also join my colleagues in welcoming Medina Boys High School to the Senate. I am sure that after listening to the debate on the National Flag, Emblems and Names (Amendment) Bill, they will leave this Senate feeling patriotic and take the message home. Madam Temporary Speaker, I rise to support this very important Bill on flags and emblems. I thank the hon. Sen. Mutula Kilonzo Jnr. for coming up with this patriotic Bill. This Bill brings a sense of nationalism, patriotism and belonging."
     },
     {
-      "order": 422,
+      "order": 424,
       "id": "entry-782976",
       "label": "scene",
       "level": "2",
@@ -5067,7 +5091,7 @@
       "text": "(Sen. Cheruiyot consulted loudly)"
     },
     {
-      "order": 423,
+      "order": 425,
       "id": "entry-782977",
       "label": "speech",
       "level": "2",
@@ -5079,7 +5103,7 @@
       "text": "Order, Sen. Cheruiyot! Consult in low tones. Proceed, Sen. Pareno."
     },
     {
-      "order": 424,
+      "order": 426,
       "id": "entry-782980",
       "label": "speech",
       "level": "2",
@@ -5091,7 +5115,7 @@
       "text": "Mr. Temporary Speaker, Sir, this Bill could not have come at a better time. It is good that it has come at this particular time when we are speaking about reconciling as a country and going back to the feeling of being Kenyan by taking advantage of what we saw on the 9th March, 2018 between our two leaders; 'the people's president' and the President of the Republic of Kenya. This is a Bill that sets the tone for this sort of reconciliation that we about to undertake as a country. At one point, there was a saying that was synonymous with some of us. We kept saying: \" Tunajihurumia kuwa Wakenya\" instead of saying, \" tunajivunia kuwa Wakenya. However, today, with this sort of Bill and the move to build bridges to a new Kenya, we can comfortably say: Tunajivunia kuwa Wakenya. Mr. Temporary Speaker, Sir, we stand a chance to rebrand this country through this patriotic and noble Bill. You can imagine how these youngsters will feel if they are told that any Kenyan can actually apply, through this Bill, to fly the Kenyan flag. One feels proud, patriotic and a sense of ownership. I think it was okay for us to stay for over 50 years down the line without opening up for flags to be flown as a way to rebrand ourselves. As we went round some of the partner states in the East African Community (EAC) - I always keep referring to this because we interacted with the EAC citizens - we were told that Kenyans are very aggressive and corrupt. Some of the partner states fear us. However, I can assure you that with this kind of Bill, we are likely to rebrand ourselves within ourselves. It is a Bill for Kenyans and by Kenyans to bring back the sense of ownership and patriotism. Mr. Temporary Speaker, Sir, I feel like we are setting in place a new Kenya; maybe, the third liberation. We had the first liberation from colonialists. The second liberation came when we swore to a new Constitution. We are now building bridges to have a new nation called Kenya. I welcome this new initiative of making citizens feel that they are part and parcel of what is going on in this country. We can pass on this liberation baton, through this flag, to every citizen in this country. I beg to support this Bill."
     },
     {
-      "order": 425,
+      "order": 427,
       "id": "entry-782981",
       "label": "speech",
       "level": "2",
@@ -5103,7 +5127,7 @@
       "text": "Thank you. Sen. Wako Sitswila Amos, Busia County."
     },
     {
-      "order": 426,
+      "order": 428,
       "id": "entry-782982",
       "label": "speech",
       "level": "2",
@@ -5115,7 +5139,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. It is Sitswila Amos Wako, in that order. First of all, I welcome the boys from Medina Schools. The house which I have built is called Medina House. I love the name \"Medina.\" Therefore, you are in a school with a very good name. It is now up to you to live up to the good name of Medina; a place where I believe Prophet Mohammed went at some stage in his pilgrimages. Mr. Temporary Speaker, Sir, we are discussing a very important Bill. It was one of the first Bills to be passed as soon as we got Independence. This is Chapter 99 of the Laws of Kenya. It was passed in 1963. It is no wonder that it had provisions to ensure utmost respect towards the national flag and emblems. At that time, we had just become a new State and maybe people had not recognised the importance of the flag. Therefore, the Act has served its purpose. Kenyans today know the importance of the national flag and our National Anthem. In fact, as soon as the National Anthem in sung, it becomes like a prayer. I congratulate Sen. Mutula Kilonzo Jnr., for having thought of making some amendments to ensure that there is some room for other people to also fly this flag and that it is not confined to one place. At the very outset, I support the provisions of Clause 4(b), which now extends the displaying of the national flag to any private residence, place of work or business. He has gone further to state that \"provided that the display of the national flag does not undermine the authority or reputation of the State.\" Mr. Temporary Speaker, Sir, he added that phraseology by way of emphasis. Although it was not necessary for him to add it in view of the clear provisions of the main Act in Clause 2(b), which preserves the decorum and respect for the national flag. If you violate it, you commit an offence. To me, that would have been enough. However, it is good to emphasize when you are now bringing in a new provision, so that people do not think that you are also diluting the respect which we ought to give the national flag. I do not think it was also necessary to have the amendments which touch on \"where the Minister appears, you have Cabinet Secretary (CS)\", in this legislation. As soon as the new Constitution was passed, there ought to have been miscellaneous amendments which say that in any law in Kenya, whenever the word \"Minister\" appears; it should now read \"Cabinet Secretary (CS).\" That would have applied automatically in all legislations. To me, there is no harm in having it here. However, that would have been provided earlier so that we do not have it any time we consider an amendment to a legislation we say: \"Whenever Minister appears, put Cabinet Secretary (CS).\" That is a bit tedious from the drafting point of view. Mr. Temporary Speaker, Sir, I would have also preferred if Sen. Mutula Kilonzo Jnr. mentioned who should fly the flag. He has just confined himself to buildings, residences and so on. Who else should fly the flag? Currently, under Clause 4(a), it is only the President, the Deputy President, the Chief Justice, the Cabinet Secretaries, the Speaker of the National Assembly and the Speaker of the Senate; diplomats of foreign missions can fly their national flags. The way it is currently drafted is so much weighted in favour of the Executive. The President, Deputy President, CSs - they could be 20 because, at one time, we had 40, are all members of the Executive. The impression it gives is that, somehow, the Executive is superior to the Legislature. In the Legislature, it is only the Speaker who can fly a flag. Somehow, the Executive is superior to the Judiciary because in the Judiciary, it is only the Chief Justice who can fly the flag. I may have to propose an amendment to this so that we widen it. Anybody can fly the flag, but maybe we should go step by step. It is normally said that the Chairpersons of Committees of Parliament - both the National Assembly and Senate - are equivalent to CSs."
     },
     {
-      "order": 427,
+      "order": 429,
       "id": "entry-782985",
       "label": "scene",
       "level": "2",
@@ -5127,7 +5151,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 428,
+      "order": 430,
       "id": "entry-782988",
       "label": "speech",
       "level": "2",
@@ -5139,7 +5163,7 @@
       "text": "They are people who answer questions here; a job that used to be done by Ministers before. We are told we are equivalent to CSs in Government. Why can Members of Committees also not fly the flag? Mr. Temporary Speaker, Sir, I know each governor has his own flag. Our Constitution is about unity in diversity. We have allowed governors to fly their own flags. However, given the impression that they can secede or they can leave, we need to emphasize that aspect of the unity of the country. There is no harm in governors flying their own flags and the national flag to show we are united as a country called Kenya. I would like that issue of governors flying the national flag and their own flags to be considered. Mr. Temporary Speaker, Sir, for the Chief Justice, there will be no harm. I do not see why the Deputy Chief Justice cannot also fly a flag. I do not see why the Deputy Speakers of both the Senate and the National Assembly cannot also fly a flag. In other words, it should not be that only the main people in the executive are the people who can fly flags to give the impression that, for example, a Cabinet Secretary is like a Chief Justice or a Speaker who also flies a flag. These people are above. To the extent that Cabinet Secretaries are flying flags, let us also extend the same honor to the Deputy Chief Justice, Deputy Speakers of the Senate and National Assembly and the Chairpersons of the Committees and so on. Mr. Temporary Speaker, Sir, maybe the Senator number one also who has been around for a while should fly the national flag---"
     },
     {
-      "order": 429,
+      "order": 431,
       "id": "entry-782989",
       "label": "scene",
       "level": "2",
@@ -5151,7 +5175,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 430,
+      "order": 432,
       "id": "entry-782990",
       "label": "speech",
       "level": "2",
@@ -5163,7 +5187,7 @@
       "text": "Mr. Temporary Speaker, Sir, if we say that it may not be possible for everybody to fly the national flag at this point in time, I do not see why we cannot extend that honour to every person to fly it on a national day. Let everybody be patriotic and enjoy the day. On other days, it may be that the flag is identified with the status of the office of somebody; that if everybody flies a flag, the traffic police may be confused as to who is who. We still need that distinction to be there. Mr. Temporary Speaker, Sir, I support Mutula Kilonzo Jnr's Bill. I request him to extend it in the way we have suggested. That may be too much, but he can propose amendments at the Committee Stage where he thinks is appropriate so that we do away with the feeling which was there at Independence; that unless we have some draconian laws to protect the national anthem, it may be misused. With those few remarks, I support."
     },
     {
-      "order": 431,
+      "order": 433,
       "id": "entry-782991",
       "label": "speech",
       "level": "2",
@@ -5175,7 +5199,7 @@
       "text": "Thank you. That was quite elaborate. Proceed, Sen. Masitsa Naomi Shiyonga for Kakamega Delegation."
     },
     {
-      "order": 432,
+      "order": 434,
       "id": "entry-782992",
       "label": "speech",
       "level": "2",
@@ -5187,7 +5211,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me this opportunity to support The National Flag, Emblems and Names (Amendment) Bill (Senate Bills No.8 of 2017). I commend Sen. Mutula Kilonzo Jnr. for bringing this Bill to the Floor of the House. It is an important Bill. In fact, this Bill embraces the spirit of togetherness and patriotism. It reminds us, as Kenyans, where our forefathers have brought us from and the good fight they fought to liberate us from the colonialists. It is a good way of reminding the next generations of the peace that God gave us through the national flag which has all the four colors with meanings that we need to embrace. Flying the national flag on our residences and premises reminds us about inclusivity that we need as Kenyans. It spells to us that however much we are diversified by ethnicities; we still remain together as one nation and one people. I thank Sen. Mutula Kilonzo Jnr. because in this Bill, we need to have restrictions especially where we may have those people who will misuse this flag, for example, the AlShabaab . They want to fight the peace that comes with the national flag. We need to restrict them because the national flag might be misused like we have seen in past events where they are taking the flag and inputting it to some police stations that they have destroyed or fighting against. We need to look at the national flag as one that gives us a holy nation that has togetherness and patriotism. We need to propel it to the next generation like the one represented in this House by the Medina School. We need to teach our children about the importance of the national flag. When we are flying this flag, we need to look at it and remind ourselves of the freedom that comes with it and all the meaning that our forefathers had for the same. Thank you, Mr. Temporary Speaker, Sir. I support."
     },
     {
-      "order": 433,
+      "order": 435,
       "id": "entry-782995",
       "label": "speech",
       "level": "2",
@@ -5199,7 +5223,7 @@
       "text": "Thank you. Lastly, we shall have Sen. (Eng.) Hargura Godana from Marsabit County."
     },
     {
-      "order": 434,
+      "order": 436,
       "id": "entry-782996",
       "label": "speech",
       "level": "2",
@@ -5211,7 +5235,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I thank Sen. Mutula Kilonzo Jnr. for coming up with this amendment Bill. As it has been said rightly by Sen. Amos Wako, this law was enacted a long time when we were growing as a nation. However, now we have matured and we can treat our signs or emblems maturely. Already Kenyans are identifying themselves with the national emblem. That is why you could see them flying the flag during national functions or major tournaments against other countries as a sign of patriotism. It is better they are allowed but it is legislated. That is what this Bill is seeking to achieve. Kenyans should be allowed legislatively to fly the flag with caution so that we do not water down what these symbols mean. It is a sign of our sovereignty and national unity, but we have to treat them with dignity. It is good to allow it legislatively but caution the citizenry to treat these emblems in a dignified manner."
     },
     {
-      "order": 435,
+      "order": 437,
       "id": "entry-782997",
       "label": "speech",
       "level": "2",
@@ -5223,7 +5247,7 @@
       "text": "Thank you. At this juncture, I invite the Mover to reply, then we end that order there."
     },
     {
-      "order": 436,
+      "order": 438,
       "id": "entry-782998",
       "label": "speech",
       "level": "2",
@@ -5235,7 +5259,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I thank my fellow Senators and colleagues for their contribution to this Bill. I have listened to all the comments and they are positive. Sen. Olekina proposes, and I agree, that the flag should be flown all the time. Although I have no objection to it, the idea was to make sure that during the national holidays everybody has an opportunity to fly the national flag. Mr. Temporary Speaker, Sir, Sen. Wako proposed that governors, deputy speakers, the Chief Justice, the Deputy Chief Justice and chairpersons of committees fly flags; again, I have no objection. The only problem is that this brought so much controversy in the last Senate that there was a lot of push and pull about who should fly a flag. Mr. Temporary Speaker, Sir, that is the reason I have said that the flag has been abused because of the contention raised by the various Senators including Sen. Wako. If the Chief Justice of Kenya can fly a flag, then the Deputy Chief Justice who acts as the Chief Justice in the absence of the Chief Justice should fly a flag. Similarly, there is no reason why the Speaker of the Senate should fly a flag and the Deputy Speaker of the Senate does not fly a flag. Strictly speaking, in law they enjoy the same position. However, I am glad. Sen. Murkomen contributed and I have done a research to help me respond to the issues raised by Sen. M. Kajwang'. The initial proposal by the late Tom Mboya was not to restrict the flying of the national flag by the citizenry. The restriction was introduced by the late Hon. Mbiyu Koinange from special instructions issued by the Cabinet. That is where we went wrong. We restricted flags to be used by a certain category of people. Sen. Wako was our Attorney-General for 27 years. When I was in high school, I used to admire his Mercedes Benz which had a flag. I do not know why he wants to fly a flag now. Mr. Temporary Speaker, Sir, it does not make sense that the Executive flies a flag as if they enjoy some supernatural powers above any other citizen. To make the point and drive it home, would it not be nice to drive in the cities in Kisumu, Lamu, Moyale on boats and bodabodas where everybody flies the correct flag with so much pride? That would make this country feel great. I am happy about the comments made by Sen. Sakaja when we were speaking to the group that was talking to us about terrorism. We said: \"How can we actually think that one day we are going to fight an aggressor when the country is so divided?\" I said that the drafters of this Constitution thought that the symbol of national unity should be the Presidency. I said the presidency has split this country so much, that you wonder why all of us are clamouring for it. Be that as it may, I long for the day that every Kenyan will be able to fly the flag as Sen. Olekina says. I am not certain about the flag touching the ground. This is because the way they do it on official premises sometimes the flags end up all over the ground and doing things that are not allowed. However, to imagine that somebody sitting in an office as a Cabinet Secretary (CS) must authorise a commercial premise to fly a flag is an anathema to the unity of this country. Lastly, I thank all my colleagues who participated in this. However, before I finish, I came across some of the issues that led to the prohibitions introduced in 1964 to this Bill on flying of flags. There were concerns about how many flags we had in the country and that people would fly flags in other places that are not necessary. In my research, I found that there was fear that those people who were opposed to independence would fly flags even in places like toilets. Those inhibitions no longer exist since we are one. The \"handshake\" and others have proved that we are so, irrespective of our political differences. I mentioned yesterday that the Kenya African Democratic Union (KADU) and the Kenya African National Union (KANU) agreed on the colours of the flag. Someone mentioned the colours of the flag here because it was the proposal of the late hon. Ronald Ngala that the flag should reflect the colours of KANU. I beg to reply."
     },
     {
-      "order": 437,
+      "order": 439,
       "id": "entry-783003",
       "label": "scene",
       "level": "2",
@@ -5247,7 +5271,7 @@
       "text": "(The Temporary Speaker consulted with the Clerks-at-the -Table)"
     },
     {
-      "order": 438,
+      "order": 440,
       "id": "entry-783004",
       "label": "speech",
       "level": "2",
@@ -5259,7 +5283,7 @@
       "text": "Thank you. Next Order. I think Sen. Mutula Kilonzo Jnr. should request for the deferring or the putting of the question."
     },
     {
-      "order": 439,
+      "order": 441,
       "id": "entry-783005",
       "label": "speech",
       "level": "2",
@@ -5271,7 +5295,7 @@
       "text": "Thank you Mr. Temporary speaker, Sir. It slipped my mind. I beg that under Standing Order No. 55(3) we defer the putting of the question to a later date to be assigned by you."
     },
     {
-      "order": 440,
+      "order": 442,
       "id": "entry-783006",
       "label": "speech",
       "level": "2",
@@ -5283,7 +5307,7 @@
       "text": "I direct that we defer the putting of the question to next week on Wednesday."
     },
     {
-      "order": 441,
+      "order": 443,
       "id": "entry-783007",
       "label": "scene",
       "level": "2",
@@ -5295,7 +5319,7 @@
       "text": "(Putting of the question on the Bill deferred)"
     },
     {
-      "order": 442,
+      "order": 444,
       "id": "entry-783008",
       "label": "speech",
       "level": "2",
@@ -5307,7 +5331,7 @@
       "text": "Let us have the Senate Majority Leader."
     },
     {
-      "order": 443,
+      "order": 445,
       "id": "entry-783009",
       "label": "heading",
       "level": "1",
@@ -5319,7 +5343,7 @@
       "text": "Second reading"
     },
     {
-      "order": 444,
+      "order": 446,
       "id": "entry-783010",
       "label": "heading",
       "level": "3",
@@ -5331,7 +5355,7 @@
       "text": "THE FOOD SECURITY BILL (SENATE BILLS NO. 12 OF 2017)"
     },
     {
-      "order": 445,
+      "order": 447,
       "id": "entry-783012",
       "label": "speech",
       "level": "3",
@@ -5343,7 +5367,7 @@
       "text": "Thank you, Mr. TemporarySpeaker, Sir. I have consulted you and my colleagues and we have agreed that we defer that order to a day to be determined in the Standing Orders so that we can go to the next business."
     },
     {
-      "order": 446,
+      "order": 448,
       "id": "entry-783013-split-before-15eb7e4c-6bfa-4cc3-87b4-edf9307d91f5",
       "label": "speech",
       "level": "3",
@@ -5355,7 +5379,7 @@
       "text": "I direct that we defer this order to tomorrow."
     },
     {
-      "order": 447,
+      "order": 449,
       "id": "entry-783013-split-selected-2f6a7188-ce69-4f25-a90e-73e2373ff6c5",
       "label": "scene",
       "level": "3",
@@ -5367,7 +5391,7 @@
       "text": "( Bill Deferred )"
     },
     {
-      "order": 448,
+      "order": 450,
       "id": "entry-783013-split-after-47880ff5-105a-482b-98e9-c18b2b0203fd",
       "label": "speech",
       "level": "3",
@@ -5379,7 +5403,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 449,
+      "order": 451,
       "id": "entry-783014",
       "label": "heading",
       "level": "1",
@@ -5391,7 +5415,7 @@
       "text": "MOTION"
     },
     {
-      "order": 450,
+      "order": 452,
       "id": "entry-783015",
       "label": "heading",
       "level": "3",
@@ -5403,7 +5427,7 @@
       "text": "ADOPTION OF REPORT ON SENATE NOMINEES TO SRC"
     },
     {
-      "order": 451,
+      "order": 453,
       "id": "entry-783016",
       "label": "speech",
       "level": "3",
@@ -5415,7 +5439,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to move the following Motion:- THAT, pursuant to Article 230(2) (b) (vii) of the Constitution and Section 7(1) and (2) of the Salaries and Remuneration Commission Act, the Senate adopts the Report of the Standing Committee on Finance and Budget on the Senate nominees, on behalf of the county governments, to the position of Member of the Salaries and Remuneration Commission, laid on the Table of the House on Tuesday, 20th March, 2018. Mr. Temporary Speaker, Sir, the Salaries and Remuneration Commission (SRC) is established under Article 230 of the Constitution and is mandated to set, regulate and review the remuneration and benefits of State officers; and advice the national and country Governments on the remuneration and benefits of public officers. Among bodies that are supposed to nominate Members to that Commission is the Senate on behalf of the county governments. Pursuant to Article 96 of the Constitution, the Senate serves to represent the counties and to protect their interest and governments. In this regard, the Constitution has assigned the Senate various functions that are geared towards the protection and interest of the counties and their government. One such role is provided under Article 232 (b) (vii) which requires the Senate to nominate the Commissioner to the SRC on behalf of the county governments. Mr. Temporary Speaker, Sir, the role of the Senate in nominating a Commissioner to the SRC is, therefore, of utmost importance as matters touching on the remuneration of State and public officers have a direct impact on realization of devolution. Under Articles 250(b) and 250(6) (a) of the Constitution, members of the Independent Commissions, unless ex-officio, serve for a one non-renewable term of six years. In this regard, the first SRC came to effect on 19th December, 2011 and lapsed on 15th December, 2017. Consequently, under Article 230(2) (b) (vii) of the Constitution, the Senate was required to nominate a Commissioner to SRC on behalf of the county government. This is the first time the Senate has undertaken the nomination exercise, as the first Commission was appointed prior to the composition of the Senate under the new Constitution. Mr. Temporary Speaker, Sir, pursuant to Section 7(2) of the SRC Act, on 11th January, 2018 the Senate advertised for the position of nominees of the Senate on behalf of the county governments to the SRC. Interested persons were invited to make their applications not later than 2nd February, 2018 at 5.00p.m. At the close of the application period, a total of 80 applicants submitted their applications. Pursuant to Standing Order No. 66(b) and the communication from the Chairperson issued in plenary sitting on 14th February, 2018, the matter was referred to the Senate Committee on Finance and Budget. The Committee was mandated to consider the applications received, interview the qualified applicants and propose to the House for consideration, the names of two persons of the opposite gender so qualified. Mr. Temporary Speaker, Sir, the long list of the 80 applicants was published in the Daily Nation and the Standard newspapers on 20th February, 2018. Thereafter, the Committee in its sittings on 27th and 28th February, 2018, shortlisted 42 candidates that qualified. The shortlist was also published in the Daily Nation and the Standard newspapers on 2nd March, 2018. The Committee interviewed the shortlisted applicants on Monday 12th, Tuesday 13th and Wednesday 14th of March, 2018. Forty applicants appeared before the Committee, while two were unable to attend. Mr. Temporary Speaker, Sir, to ensure objectivity and consistency, the Committee developed an interviewing tool, score sheet and interviewing process in the following areas. Academic and provisional qualifications; technical proficiencies and competencies; leadership and integrity; general knowledge and current affairs; and, finally, presentation skills and demeanor. After the close of the interviews, the Committee retreated on 15th and 16th March, 2018, to consider the results of the interview and to write a report. Mr. Temporary Speaker, Sir, the Committee also noted a lot of discrepancies within the Salaries and Remuneration Commission (SRC) Act. We have proposed some amendments to the Act and we will be spearheading them in due cause. We noted that the expiry term of the Commissioners is not listed as a ground for vacancy in the commission or for the Chairperson. As such, the nation is not expressly required to be notified of the vacancy resulting from expiry of the term through a gazette notice within 14 days, as provided for vacancies arising from the circumstances contemplated under Section 9(1) of the SRC Act, 2012. In this regard, when the current vacancies arose in the membership of the Commission, no gazette notice was issued so as to trigger simultaneous nomination processes by all bodies required to nominate commissioners to the SRC. Each body took note of the vacancies and commenced their process in their own time. We will be bringing some amendments to this House in due course. The Committee thus observed the need to amend the law to clearly specify the timelines for the nomination process to ensure that the vacancies are filled as soon as possible or, perhaps, that the selection processes commences a few months before the expiry of the term of the existing commissioners. The Committee resolved to sponsor an appropriate amendment to the Act and the proposed amendments are attached to the report at Annex 8. Mr. Temporary Speaker, Sir, pursuant to the mandate of the Senate Under Article 230(2)(b)(vii) of the Constitution and Section 72 of the Salaries and Remuneration Act, the Committee recommends the following two persons for consideration for nomination to the position of member of SRC. We had very good candidates but we picked these two. It is now up to the House to adopt the names or do otherwise. The names are Margaret Sawe, a female; and Prof. Gitile Naituli. With those remarks, Mr. Temporary Speaker, Sir, I beg to move and ask Sen. Mutula Kilonzo Jnr. to Second."
     },
     {
-      "order": 452,
+      "order": 454,
       "id": "entry-783021",
       "label": "speech",
       "level": "3",
@@ -5427,7 +5451,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I rise to Second the Motion on the Report of the Standing Committee on Finance and Budget on the nominees by the Senate on behalf of the county governments to the SRC. The Chairman has gone into great lengths about the details of what we have done. Generally, we identified legal lacunae existing in terms of filling of the vacancies. In our usual energy and style, we have attached the proposed amendments to Section7 and 9 of the SRC Act. Mr. Temporary Speaker, Sir, we have also observed that although the law requires that we get clearances by the Ethics and Anti-Corruption Commission(EACC), what actually happens is that people fill in forms but you do not get any clearance by the EACC. In fact, you cannot get any clearance by the EACC. So, there are two possibilities; either this particular Section 12(a) of the Leadership and Integrity Act is superfluous and, therefore, unnecessary; or, alternatively, there needs to be an amendment to show that a person has complied with Section 12(a) of the Leadership and Integrity Act by submitting a form. I say this because if you request for clearance from the Higher Educations Loans Board (HELB), the Credit Reference Bureau(CRB), the Kenya Revenue Authority(KRA) and the Directorate of Criminal Investigations (DCI), they will issue them. However, our work was impeded by the lack of any clearance given by the EACC. I cannot, therefore, stand and say that any of these candidates have complied to that extent. Mr. Temporary Speaker, Sir, we sat and interviewed candidates for a long time. This was the first interview that this Senate has done. The criteria on how we will come up with a candidate were developed by the secretariat of the Senate. I must take this opportunity to thank the team we were working with for developing a clear structure on how we will grade these candidates. In the spirit of access to information, all the marks awarded, the reservations we have about these candidates and any memo received about candidates are available for any person to interrogate and check. Therefore, our deliberations and the resolutions have been made carefully without leaving any comma; without crossing any 't' or dotting any 'i.' I am proud of this Committee. Mr. Temporary Speaker, Sir, I want to say this because I have been hearing rumors. The Chairman of the Committee stood with this Committee. He made sure that for the first interview we have done, we complied with the law. Colleague Senators, any person who came to us did not pass anything; we only shortlisted the candidates. Otherwise then, there was no reason to interview them. We only graded these candidates the minute they appeared before us on the criteria of whether they are qualified to become Commissioners. We looked at their educational background and compliance with Section 5(b), which requires that this person has 10 years of experience in the various fields as articulated in the Act. We asked them to tell us why they felt they are qualified for this job; we asked them to show us the relevance of their educational background; and we also asked to prove that they have ten years' experience in any or all of the fields in Section 5. In making this determination, we used the lenses of the law only. It was a unanimous decision and there was no dissenting opinion. Mr. Temporary Speaker, Sir, we bothered ourselves so that we could project the good image of the Senate out there in the public. We have included the marks we graded and the qualifications, including the question marks about the candidates. This includes even the one who emerged the winner because we were unable to resolve the question as to whether the candidate who got the most marks - who is a former colleague of mine, hon. Isaac Melly - had qualified in terms of the 10 years' experience. Our resolve was unanimous; he did not meet the criteria based on the interview he came for. Therefore, I stand here to say I am a proud Senator for setting the precedent for a good job. Let me tell you why I am proud again, Mr. Temporary Speaker, Sir. The candidate who ended up being the first one, is a lady. She had pure qualifications!"
     },
     {
-      "order": 453,
+      "order": 455,
       "id": "entry-783025",
       "label": "scene",
       "level": "3",
@@ -5439,7 +5463,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 454,
+      "order": 456,
       "id": "entry-783026",
       "label": "speech",
       "level": "3",
@@ -5451,7 +5475,7 @@
       "text": "That is what I am talking about; ladies can get jobs in this country on merit. We must defend that, that we did not gerrymander anything to ensure that the candidate who was finally voted by the Committee as first, was either a relative of a Committee Member; or she came from a certain corner of the Republic; or that she was of a certain political persuasion or spoke better than the rest. No! It was on merit. If this Senate wants to prove that it is the protector of counties and merits, you will follow merits. If you use any other criteria, it will be one to satisfy another sector of this country; it will not be merit for women; it will be something else. Mr. Temporary Speaker, Sir, we received applications from very qualified people, and I can mention them. Magara is here, he is our colleague and we know him; he is very qualified. There was also Rachel Ameso Amolo, who garnered 74 per cent. If you look at the marks, the difference was very little. This is because I did not check what the colleague who was seated next to me was grading and they did not check what I was grading. So, they did not know what I graded and I do not know what they graded. When we sat in the Committee, our final results came in codes. I actually do not know what the Chairperson graded for any of the candidates. I do not know what Sen. Cheruiyot or any other Member of the Committee graded any candidate; whether or not they liked them. The amount of clarity of thought and intellect put into this work will go down in history by setting precedent of how to do a good job. In the case of our colleagues, including the Senator, who was my colleague, I said that we must declare our interest because we were bound to look favourably at him without looking at merit. That is why we needed to be a little more cautious than any other candidate. At some point in the interviews, it was disappointing, because many people did not know why they applied for this job. But what disappointed me most is the gentleman who was representing this category under the Act. They issued a report up to 2012; it is available in the Senate. When he was asked whether he bothered to deal with the Senators or the Members of the National Assembly, he said: \"No, I did not bother to talk to these people.\" When he was asked why, he said: \"It is because I found that they were making a lot of noise. So, I never bothered\". So, for the period this gentleman served as a representative of the Senate, he never bothered to deal with the constituency which elected him. We cannot afford to repeat that mistake. We made sure that we asked these candidates: \"Who is your constituency? Will you agree with the rest of the Commissioners when the Senate does not agree with you or the county governments which you represent? What will you do if you find yourself in crosshairs with the rest of the Commission?\" The candidates who we have finally listed in this Report in order, with the qualifications and without those qualifications, are the candidates who satisfied the Committee of nine Members, except two who did not sign because they were absent. If it comes to county governments at the Salaries and Remuneration Commission (SRC), they will represent their interests. The SRC is just not about salaries; it is about fair remuneration for fair work done. That is what the law requires.\n\nThe candidates who have satisfied this criterion are here. Therefore, I support the Report of the Committee, having been a Member who sat painlessly for so long to find the correct candidate. I beg to support."
     },
     {
-      "order": 455,
+      "order": 457,
       "id": "entry-783029",
       "label": "scene",
       "level": "3",
@@ -5463,7 +5487,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 456,
+      "order": 458,
       "id": "entry-783030",
       "label": "speech",
       "level": "3",
@@ -5475,7 +5499,7 @@
       "text": "On a point of order, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 457,
+      "order": 459,
       "id": "entry-783031",
       "label": "speech",
       "level": "3",
@@ -5487,7 +5511,7 @@
       "text": "What is your point of order, Sen. (Dr.) Zani?"
     },
     {
-      "order": 458,
+      "order": 460,
       "id": "entry-783032",
       "label": "speech",
       "level": "3",
@@ -5499,7 +5523,7 @@
       "text": "Mr. Temporary Speaker, Sir, I was trying to attract your attention before you move too far. Is it in order for Sen. Mutula Kilonzo Jnr. to support the Motion instead of seconding it for the record of this Senate?"
     },
     {
-      "order": 459,
+      "order": 461,
       "id": "entry-783033",
       "label": "speech",
       "level": "3",
@@ -5511,7 +5535,7 @@
       "text": "Hon. Senator, by the mere fact that he has contributed after the Mover, it is presumed that he has seconded the Motion because he was invited to second. The Motion is open for debate. Let us start with Hon. Sen. Omogeni Erick Okong'o, the Senator for Nyamira County."
     },
     {
-      "order": 460,
+      "order": 462,
       "id": "entry-783034",
       "label": "speech",
       "level": "3",
@@ -5523,7 +5547,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. First, I want to register my appreciation to the Standing Committee on Finance and Budget, chaired by my good friend, Eng. Mohamed, for a job well done. The assignment given to this Committee was very tedious. I have gone through the Report and, in total, they received 80 applications. Sieving through 80 applications is not a small job. From that, they came up with a shortlist of 42 candidates, whom they interviewed and rated from number 1to 40. I note that two candidates did not show up for the interview. We cannot overemphasize the importance that the SRC plays in this country. We know that under Article 230 (4) (a) of the Constitution, that is the Commission that advises the national and county governments on remuneration. Therefore, the representative that this Senate picks is one who must represent the interests of the county governments. So, we cannot overemphasize the critical role played by this Commission. Having said those kind words for the Standing Committee on Finance and Budget, there are issues that come out and raise serious questions on the final recommendations of this Committee to this House. We know that this country enacted a new Constitution in 2010. We have our national values under Article 10 of our Constitution, where we must have transparency and accountability. We also know about Chapter Six of the Constitution. I have read the Report and it says that the candidates being recommended comply with Chapter Six of the Constitution. I am speaking as a former Chair of the Ethics and Anti-Corruption Commission (EACC). We know that under Article 73 of our Constitution appointments or recommendations for appointments to key offices should not depict any favourism or improper motives. It should be fair and on account of who is best qualified for that job. Mr. Temporary Speaker, Sir, I have read through the Report that has been moved by the Chairperson. If you go through the entire Report, the Committee from the onset knew what task they had at hand. They knew the minimum qualifications that candidates who were being invited for interview had to meet. If you go to page 15 of the Report - I wish I could have said this when the Senator for Makueni County was here - it says that the Committee, when developing the criteria for shortlisting, was careful to ensure that the candidates complied with the provisions of the Constitution and the Act. Then, if you go to page 16 of the Report, they have clearly stated that the Committee unanimously agreed that they develop criteria for shortlisting candidates. Under Paragraph 35, one of the criteria that was developed by the Committee, was to ascertain whether a candidate had knowledge and, at least, 10 years' experience in those areas that the Act has set out. That includes public management, human resource and others. It is through that criterion that the Committee was able to shortlist 42 candidates. So, the honourable Senator for Makueni who has seconded this report cannot come to the House to tell us that in their final recommendation, they may have considered issues of ten years' experience because that was a criterion that was before the Committee before they shortlisted the candidates. I have perused the report which is before the House and noticed that they recommend Margaret Sawe and Professor Joseph Naituli to be appointed. When you go to page 21 of the report, the person rated as having scored the highest marks got 78 per cent and there were 80 candidates. This must be somebody who served in this House because the title there is Senator. I am at a loss to understand why the Committee left out a person who scored the highest marks and rated as number one. The person went through the rigorous criterion that was set by the Committee but his name was left out in favour of somebody who was rated number two. I am speaking as somebody who has been a victim of unfair practices when picking candidates who have undergone rigorous interview process. In 2011, I applied to be the Chair of the Ethics and Anti-Corruption Commission (EACC). I went through an interview and I was rated the top candidate but the people who were tasked with picking suitable candidates for that position settled for somebody who was number three. That is unfair. When I saw that the Committee left out candidate number one and settled for number two, I felt that we are not being fair to people who offer themselves to occupy public positions, not because of whom they know but because they meet the minimum requirements, having been submitted to an interview and emerging top. I want to go on record that unless the Committee gives a very convincing reason, this House should consider sending this report back to the Committee to explain to us why the person who emerged number one has been left out. I am reading some mischief in this report. I have gone through it from page one to the last page and the Curriculum Vitae (CV) of the person who was number one has not been annexed so that this House can also interrogate it. Looking at the CV of the candidate, are we convinced by the report of the Committee that he does not have the ten years' experience? This House is not just here to receive reports and endorse them. We are here to ensure that reports that come to the House are interrogated and that there is fairness and the Constitution has been followed. So, in as much as the Committee has done a good report, I have my doubts as to whether there has been fairness to the candidate who was number one. I strongly object that unless we are given a convincing explanation, this report should go back to the Committee to consider whether they should amend it and bring names with top candidates or have an adequate explanation that is convincing to the House. With those remarks, I oppose this report."
     },
     {
-      "order": 461,
+      "order": 463,
       "id": "entry-783039",
       "label": "speech",
       "level": "3",
@@ -5535,7 +5559,7 @@
       "text": "Thank you. Next is honourable Mwaura Isaac. Now we can proudly refer to you as \"Senator from somewhere\"."
     },
     {
-      "order": 462,
+      "order": 464,
       "id": "entry-783040",
       "label": "scene",
       "level": "3",
@@ -5547,7 +5571,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 463,
+      "order": 465,
       "id": "entry-783041",
       "label": "speech",
       "level": "3",
@@ -5559,7 +5583,7 @@
       "text": "Thank you very much Mr. Temporary Speaker, Sir. Indeed, I am Senator from somewhere but not somewhere between some bedroom and a police station and, definitely, I am not the Minority Leader for nowhere. I am proudly glad that I am a nominated Senator for Persons with Disabilities (PwDs). The former Senate Minority Leader became an MP having been nominated by Kenya African National Union (KANU). So, he should know better that we are leaders in our own rights."
     },
     {
-      "order": 464,
+      "order": 466,
       "id": "entry-783042",
       "label": "speech",
       "level": "3",
@@ -5571,7 +5595,7 @@
       "text": "Go straight to the point, Senator!"
     },
     {
-      "order": 465,
+      "order": 467,
       "id": "entry-783043",
       "label": "speech",
       "level": "3",
@@ -5583,7 +5607,7 @@
       "text": "Mr. Temporary Speaker, Sir, I rise to oppose this report. I am at pains to oppose it because I am the Vice Chair of the Committee. We sat and gave the candidates the marks that they deserved. I oppose because I have not signed it. So, I am not part and parcel of this report."
     },
     {
-      "order": 466,
+      "order": 468,
       "id": "entry-783044",
       "label": "speech",
       "level": "3",
@@ -5595,7 +5619,7 @@
       "text": "Point of order!"
     },
     {
-      "order": 467,
+      "order": 469,
       "id": "entry-783045",
       "label": "speech",
       "level": "3",
@@ -5607,7 +5631,7 @@
       "text": "What is your point of order, Sen. (Prof.) Ongeri?"
     },
     {
-      "order": 468,
+      "order": 470,
       "id": "entry-783046",
       "label": "speech",
       "level": "3",
@@ -5619,7 +5643,7 @@
       "text": "Mr. Temporary Speaker, Sir, is Sen. Mwaura in order to oppose the report when it says that the decision was unanimous? Which report shall we accept?"
     },
     {
-      "order": 469,
+      "order": 471,
       "id": "entry-783047",
       "label": "speech",
       "level": "3",
@@ -5631,7 +5655,7 @@
       "text": "Mr. Temporary Speaker, Sir, the report was not unanimous. If you look at it, you will realise that my signature is not there. So, it was not unanimous. It may have been a unanimous decision by those who were there but I am not part of it."
     },
     {
-      "order": 470,
+      "order": 472,
       "id": "entry-783048",
       "label": "speech",
       "level": "3",
@@ -5643,7 +5667,7 @@
       "text": "On a point of order, Mr. Temporary Speaker, Sir. The Chair and Vice Chair of a committee are almost inseparable. The Chair of the Committee on Finance and Budget has read the report of the Committee. Is it in order for the Vice Chair of the same committee to rise and oppose when he had an opportunity to do that within the Committee? He is the Vice Chair of the committee, unless he wants to be an ordinary Member. He cannot come here and oppose his Chair on the Floor."
     },
     {
-      "order": 471,
+      "order": 473,
       "id": "entry-783049",
       "label": "speech",
       "level": "3",
@@ -5655,7 +5679,7 @@
       "text": "I think Sen. Mwaura is contributing in his capacity as a Member of the Senate, representing PwDs and not as a Vice Chair of the Committee. Therefore he is in order. Sen. Mwaura, you can proceed."
     },
     {
-      "order": 472,
+      "order": 474,
       "id": "entry-783050",
       "label": "speech",
       "level": "3",
@@ -5667,7 +5691,7 @@
       "text": "Thank you, the great leader from Kakamega. Mr. Temporary Speaker, Sir, I rise to oppose the recommendations of the Committee for the following reasons. First, we were inundated with applications of Kenyans who rightfully felt that they qualified to serve in the SRC to represent the counties and the Senate. We had 80 applications out of which we shortlisted 42 candidates. By the time we shortlisted them, all of them had met the minimum qualifications for shortlisting. In fact, because of the large number of candidates, we thought that we needed to shortlist again if at all that would suffice. However it was none other than Sen. Mutula Kilonzo Jnr. - I wish he was here - who said that there is no other criterion that would further reduce the number of the people who were shortlisted. We went ahead and each and every Senator ranked each and every candidate. In fact, at that time, we were not to do the totals after having interviewed a candidate. Mr. Temporary Speaker, Sir, many candidates of great repute and who have served this country in various capacities presented themselves for the interview. It was extremely difficult to rank them without necessarily giving them marks that would be far much at variance. I want to commend the ladies who appeared before us. Many of them performed very well. If you look at the list, I have indicated the candidate who got the highest marks because he deserved it. However, I am at pains to look at the report in which we ranked the best candidate. This is a young man with all the relevant qualifications. However, later on, a new criterion was introduced so as to question his 10 years' experience. I asked a number of questions: Is it because the best candidate, Sen. Melly, is a young person? What is it that would be considered to be relevant experience? What better experience can there be other than representing the people of Uasin Gishu County for five years in this august House? Are we saying that we who are currently serving in this House, that whatever experience we are getting here is irrelevant for us to occupy any other public office? I beg to differ. We must look at this issue objectively. We, as politicians, know very well that some people can be good in theory, but poor in practice. There has been a lot of push and pull between the Salaries Remuneration Commission (SRC) and the Parliamentary Service Commission (PSC) which is our employer and by extension the people of Kenya. We need someone---"
     },
     {
-      "order": 473,
+      "order": 475,
       "id": "entry-783053",
       "label": "speech",
       "level": "3",
@@ -5679,7 +5703,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. Is it in order to continue listing to Sen. Mwaura who was a Member of the Committee and yet Standing Order No.207 (4) says:- \"A Select Committee shall adopt its report in a meeting attended by a majority of its members. (5) A report having been adopted by a majority of Senators, a Minority of the Dissenting Report may be appended to the report by any member or members of the committee.\" Mr. Temporary Speaker, Sir, this is a Member from that Committee who does not have a minority report that is appended. Is it in order to continue to allow him to contribute to that?"
     },
     {
-      "order": 474,
+      "order": 476,
       "id": "entry-783054",
       "label": "speech",
       "level": "3",
@@ -5691,7 +5715,7 @@
       "text": "Hon. Senator, you are out of order because I had already ruled on that matter. The Senator was contributing in his own capacity as a Senator representing the People Living with Disability (PLWD). Sen. Mwaura, I direct that you conclude. The subsequent Senators who will contribute, I shall limit you to two minutes."
     },
     {
-      "order": 475,
+      "order": 477,
       "id": "entry-783055",
       "label": "speech",
       "level": "3",
@@ -5703,7 +5727,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for the ruling. I wish to ask this House to objectively look at this report and determine the people who are recommended are actually the people who performed the best during the interviews. If you look at the issue of regions it does not matter. If the best candidates came from the same region, so be it. We need a man and a woman to recommend for further appointment. Therefore, it is not a question of gender. Otherwise, this will mean that all ladies were competing against themselves and all the men were competing against themselves. So, if Margaret Sawe was number one as a woman, she will still be number one as a lady. I rise to oppose this report. The Temporary Speaker (Sen. Malalah): Sen. Sitswila Amos Wako, Busia County."
     },
     {
-      "order": 476,
+      "order": 478,
       "id": "entry-783056",
       "label": "speech",
       "level": "3",
@@ -5715,7 +5739,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for getting my names right in the order in which they should be pronounced. I only have two minutes. It is, indeed, a bad spectacle so see the Chairman and Vice-Chairman disagreeing on a report without having the minority report. This shows that there could have been no unanimity. However, my concern is paragraph 35. It is important to bear it in mind. It says that:- \"In the circumstances, the Committee unanimously agreed that it would consider the following criteria for purposes of shortlisting exercise.\" Criterion No.2 says:- \"Whether the applicant has knowledge and at least 10 years' experience.\" Mr. Temporary Speaker, Sir, there are Members who are experienced with this process. There were 80 applicants and who were shortlisted to 42. Normally, when shortlisting, the first thing to consider is whether they have the requisite qualifications as advertised."
     },
     {
-      "order": 477,
+      "order": 479,
       "id": "entry-783057",
       "label": "scene",
       "level": "3",
@@ -5727,7 +5751,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 478,
+      "order": 480,
       "id": "entry-783058",
       "label": "speech",
       "level": "3",
@@ -5739,7 +5763,7 @@
       "text": "The mere fact that Sen. Melly was shortlisted, it shows that the Committee was satisfied that he had met the requisite qualifications, which include at least 10 years' experience. However, when it comes to the summary, they did not make a remark in respect of Sen. Melly, that 10 years' experience was not established. This is not explained nor do we have the Curriculum Vitae (CV) of Sen. Melly. Therefore, this House is not in a position to judge what happened and what marks have been given. Before we finalize with it, we want this to be done. I support my senior here that we need to refer this report back to the Committee so that they clarify. Mr. Temporary Speaker, Sir, in conclusion, I want to emphasize the importance of the Committee on Finance and Budget on Nominees to the Position of Member of the Salaries and Remuneration Commission. The SRC is a very important institution. The Senate has suffered in terms of its terms of service because of this SRC. When the last SRC was constituted, the Senate did not have a say as to the membership. So, there was no knowledge on our working conditions which would entitle us to a fair remuneration. We talked to Ms. Serem and she said the Members of the National Assembly told them that we do not have work and, in fact, we should be earning less than Members of the National Assembly. To her, the fact that we were put at par with Members of the National Assembly was in itself a favour to us. Now that we have this opportunity, we shall inform the Committee that we need a person or persons in SRC who can really appreciate the work of the county governments, the Senate and the provisions of devolution within the constitutional structure. We do need sympathetic ears here, but also fair remuneration for work done. We need a person in that commission to appreciate the work that the Senators do. For example, in Busia County, I have seven constituencies to look after. Yet I am supposed to earn the same salary as the Member of National Assembly of each of those constituencies. In fact, the people regard Senators as the fathers of the county and every problem comes to us to solve. We need to have a person in this commission who understands our challenges. My question is; as the report goes back, when they were developing the criteria, did they take into account whether these candidates fully understood and appreciated the work of governors, country governments and Senators? A candidate can have all those qualifications, but not fully understand what we do here. So, when the report goes back, please, consider that and we want a full report on this."
     },
     {
-      "order": 479,
+      "order": 481,
       "id": "entry-783061",
       "label": "speech",
       "level": "3",
@@ -5751,7 +5775,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. There is a mood in the House and it is coming out clearly that this Report needs to be either amended or sent back to the Committee. We are recruiting on behalf of county governments and if I was doing that, I would look for someone who understands devolution, counties and how they operate. I would look for someone who understands Parliament and particularly the role of the Senate in protecting the interests of counties. I would look for someone who understands the challenges that the SRC has gone through in the last six years and how that affected them. I would look for someone who complies with Chapter Six of the Constitution on Leadership and Integrity, and with the right academic qualifications and then I will look for experience. On page 21 of 26, number one is Sen. Isaac Melly, then when you go back to page 7 of 76, the name of Sen. Isaac Melly is missing. You wonder whether it was electronic or manual transmission. On one hand, Sen. Melly is number one and on the other hand, Sen. Melly has disappeared. We must ask this question on behalf of the youth of Kenya. If you look at all the young people in their thirties in that list, the Committee has said that they do not have relevant experience or ten years' experience. We must also question this thing of experience, what does it mean? We have people who have been in the same position for forty years, doing the same thing day in, day out. Is that the kind of experience that we need? Does experience only mean when you are employed? What about the millions of young men and women who we have failed to get jobs for many years? When will they ever be able to get that experience? I oppose this Motion and what we have seen in the Committee which is led by a very able Chairperson. I sympathize with him because he is a good man with a good heart but with a rebellious Vice-Chairperson."
     },
     {
-      "order": 480,
+      "order": 482,
       "id": "entry-783064",
       "label": "scene",
       "level": "3",
@@ -5763,7 +5787,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 481,
+      "order": 483,
       "id": "entry-783065",
       "label": "speech",
       "level": "3",
@@ -5775,7 +5799,7 @@
       "text": "Mr. Temporary Speaker, Sir, we are setting a very dangerous precedent. I am a Chairperson of a Committee and I do not look forward to the day when my Vice- Chairperson will come and contradict me on the Floor of the House. To save this, I know the Chairperson and the Vice-Chairperson are equally very good men and they are able to sit down and agree. If you do not amend this Report on the Floor, then we will send it back to the Chairperson so that the person who qualified as reflected on page 21 of 26 is indeed the person this House will recommend."
     },
     {
-      "order": 482,
+      "order": 484,
       "id": "entry-783066",
       "label": "speech",
       "level": "3",
@@ -5787,7 +5811,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me an opportunity to contribute to this Motion. I have had an opportunity to peruse the Report which was Tabled by the Chairperson of the Committee on Finance and Budget, and I am perplexed. It seems that ageism is pervasive and entrenched in our society. When I look at it, I am shocked. A young man with a promising future, scored 78 and then there is a remark that he does not have ten years' experience. This really shocks me because I listened to my dear friend and able Senator who seconded this Motion, Sen. Mutula Kilonzo Jnr., and he said one thing; that they looked at merit. Where else is merit if when you score the highest, then the Committee says you do not have ten years' experience? Poor Melly will not ask his mother to put him back in the stomach and get him out ten years earlier. This Report is terrible and I would like to request the Committee---"
     },
     {
-      "order": 483,
+      "order": 485,
       "id": "entry-783067",
       "label": "speech",
       "level": "3",
@@ -5799,7 +5823,7 @@
       "text": "Senator, is it the stomach or the womb?"
     },
     {
-      "order": 484,
+      "order": 486,
       "id": "entry-783068",
       "label": "scene",
       "level": "3",
@@ -5811,7 +5835,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 485,
+      "order": 487,
       "id": "entry-783069",
       "label": "speech",
       "level": "3",
@@ -5823,7 +5847,7 @@
       "text": "Thank you for that clarification, Mr. Temporary Speaker, Sir. I would like to urge the Committee to look at this Report again. I listened carefully to what Sen. Mutula Kilonzo Jnr. said. He said that none of them shared the results on how they graded the candidates. If that is the truth, then the person who should be recommended to represent us in the SRC is none other than Sen. Kipkemboi Melly. Last year or two years ago, someone who is close to me scored the highest marks in an interview, but just because he came from somewhere else --- One Tukei Olekina, scored 76 points and emerged as the top candidate, but his name was not forwarded. It is about time that this House supports merit rather than entitlement. If the second or the third person were more entitled, then they should have had merit to support it. Mr. Temporary Speaker, Sir, where did this pervasive sense of entitlement in our nominations come from? How did it get into all our processes? We must support merit. If we are not going to discriminate Sen. Isaac Kipkemboi Melly because of his age, then by all means, the Committee should go back and look at this report. If they feel the need to amend that law to give this young man an opportunity to fully represent us, so be it. The ten-year experience that is stated means that the youth will always enjoy the phrase that they are the future leaders yet when given an opportunity to lead, they are discriminated based on their age. I oppose this report and urge the Chairperson of this Committee to have a look at it. I would also like to encourage my dear brother and Senator from somewhere to go back and if they will not agree, to ensure that he also attaches his dissenting opinion on this issue so that when this House is looking at this report, they can consider everything. It is high time the Senate stood firm and rewarded merit. It does not matter where one comes from. With those few remarks, I oppose this report."
     },
     {
-      "order": 486,
+      "order": 488,
       "id": "entry-783072",
       "label": "speech",
       "level": "3",
@@ -5835,7 +5859,7 @@
       "text": "Thank you Sen. Olekina. Please proceed, Sen. Madzayo."
     },
     {
-      "order": 487,
+      "order": 489,
       "id": "entry-783073",
       "label": "speech",
       "level": "3",
@@ -5847,7 +5871,7 @@
       "text": "Asante Bw. Spika wa Muda. Jambo la kwanza, nasimama kupinga ripoti hii. Tunaelewa kwamba katika maisha ya binadamu, urefu, ufupi na miaka ya kuishi katika ulimwengu ni ya Mwenyezi Mungu. Katika maisha, huwezi hata kidogo kumbaguwa mtu kwa sababu yeye ni mfupi au mrefu. Hayo ni majaliwa ya Mwenyezi Mungu. Tukiangalia ripoti, tunaona kwamba Sen. Melly ni kijana mdogo sana. Lakini, kuwa kijana haimaanishi hana akili na ndio maana aliitwa katika mahojiano na baada ya hayo, mwenyekiti, naibu wake na kamati nzima tunayoifahamu na tuliipa jukumu hilo walimualika na baadaye wakahakikisha ameibuka mshindi. Hivi leo ni jambo la kusikitisha kabisa kuona katika Seneti, mmoja wetu ambaye amefuzu anatengwa kwa sababu ya umri wake. Watu wa Kaunti ya Uasin Gishu mwaka wa 2013, katika maeneo ya Bunge saba yaliyoko katika kaunti hiyo, walimchagua kijana mdogo kuja hapa na akafanya kazi miaka mitano bila kushindwa. Jambo kuu ni kwamba tusimtoe Sen. Melly kwa sababu yeye ni mfupi, miaka yake haijatosha au pengine ni mrefu. Kama mtu ameibuka wa kwanza katika mahojiano, ni haki hata mbele ya Mwenyezi Mungu apewe kazi hiyo. Haijalishi Sen. Melly ni mdogo ama mkubwa; haki yake apewe."
     },
     {
-      "order": 488,
+      "order": 490,
       "id": "entry-783074",
       "label": "scene",
       "level": "3",
@@ -5859,7 +5883,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 489,
+      "order": 491,
       "id": "entry-783075",
       "label": "speech",
       "level": "3",
@@ -5871,7 +5895,7 @@
       "text": "Maoni yangu ya mwisho, nataka bwana Chairman ---"
     },
     {
-      "order": 490,
+      "order": 492,
       "id": "entry-783076",
       "label": "speech",
       "level": "3",
@@ -5883,7 +5907,7 @@
       "text": "What is your point of order Sen. (Dr) Kabaka?"
     },
     {
-      "order": 491,
+      "order": 493,
       "id": "entry-783077",
       "label": "scene",
       "level": "3",
@@ -5895,7 +5919,7 @@
       "text": "(Sen. (Dr.) Kabaka spoke off record)"
     },
     {
-      "order": 492,
+      "order": 494,
       "id": "entry-783078",
       "label": "speech",
       "level": "3",
@@ -5907,7 +5931,7 @@
       "text": "I have seen an intervention from you. Okay. Sen. Cheruiyot, what is your point of order?"
     },
     {
-      "order": 493,
+      "order": 495,
       "id": "entry-783079",
       "label": "speech",
       "level": "3",
@@ -5919,7 +5943,7 @@
       "text": "Mr. Temporary Speaker, Sir, I am sorry to interrupt the remarks of my colleague and friend. However, I just felt that it is important that we inform this House, as Members of the Committee, that it is not that Sen. Melly did not have ten years' experience. It was a contestation whether part of his ten years' experience qualifies as financial management experience. He has five years' experience as a Senator and five years' experience as a Dean of Students, which when it came to the Committee, brought a debate as to whether that passes for experience as a financial manager. So, it is important for Members to note that as we contribute. Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 494,
+      "order": 496,
       "id": "entry-783082",
       "label": "speech",
       "level": "3",
@@ -5931,7 +5955,7 @@
       "text": "Sen. Cheruiyot, that was not a point of order. You have just used a short cut. Proceed, Sen. Madzayo."
     },
     {
-      "order": 495,
+      "order": 497,
       "id": "entry-783083",
       "label": "speech",
       "level": "3",
@@ -5943,7 +5967,7 @@
       "text": "Nashukuru, Bw. Spika wa Muda. Unaweza kuona kwamba kijana kama Sen. Cheruiyot anaweza kuleta maoni kama hayo. Namshukuru kwa sababu ameweza kutueleza sote hapa ndani ya Seneti. La mwisho, Bw. Spika wa Muda, ni kumuomba Mwenyekiti wa Kamati hii achukue ripoti yake. Nyumba hii ya Seneti iko na uwezo wa kuchukua hatua hiyo hivi sasa na kugeuza repoti hii ili tuidhinishe yule ambaye amekuwa wa kwanza katika mahojiano hayo. Tunaweza kumtuma Mwenyekiti aende huko, akae na aregeshe ripoti hii hapa akisema ya kwamba Sen. Melly ndiye amechukua nafasi ya kwanza. Asante sana, Bw. Spika wa Muda."
     },
     {
-      "order": 496,
+      "order": 498,
       "id": "entry-783084",
       "label": "scene",
       "level": "3",
@@ -5955,7 +5979,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 497,
+      "order": 499,
       "id": "entry-783085",
       "label": "speech",
       "level": "3",
@@ -5967,7 +5991,7 @@
       "text": "Thank you. Proceed, Sen. (Dr.) Langat."
     },
     {
-      "order": 498,
+      "order": 500,
       "id": "entry-783086",
       "label": "speech",
       "level": "3",
@@ -5979,7 +6003,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I also rise to oppose this particular Motion. This is based on the fact that Sen. Melly is 39 years old and he was first employed in Moi University at the age of 24 years. It means that he has been working for fifteen years. What do we call that if you wanted experience? Records show that this man, Sen. Melly--- I support what Sen. Mutula Kilonzo Jnr. was saying; that they scrutinised the marks and they were awarding privately. It is only during the 'editing' period, that they were able to know who won. So, that one showed us that he had 78 marks. Mr. Temporary Speaker, Sir, I have attended several interviews and I know that to score one mark ahead of somebody is not very simple. The media is watching us from all over the world and they are seeing that we are denying somebody with 78 marks an opportunity. We are denying him that opportunity simply because of an afterthought that experience was a requirement after shortlisting and after scoring marks in the interview. Thereafter, you start thinking; why can we not bring in the idea of experience to limit this particular youth from growing his experience? Mr. Temporary Speaker, Sir, during the time I was working in the university, we would go for assessment in other places and we could see teachers, during teaching practice, even performing better than those who have been teaching for 30 years. That is why we questioned experience and replaced it with research. Research and abilities of a person are very important in innovation more than experience. So, if we always stick to experience, we must question; is it experience doing mediocrity or in doing what? That is what is very important."
     },
     {
-      "order": 499,
+      "order": 501,
       "id": "entry-783089",
       "label": "scene",
       "level": "3",
@@ -5991,7 +6015,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 500,
+      "order": 502,
       "id": "entry-783090",
       "label": "speech",
       "level": "3",
@@ -6003,7 +6027,7 @@
       "text": "So, this House should amend this report. I am also afraid that taking it back to the Committee might bring us another problem. We should amend it here and make our recommendation as a honorary House of the Senate, in the Republic of Kenya. I totally oppose this Motion. Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 501,
+      "order": 503,
       "id": "entry-783091",
       "label": "scene",
       "level": "3",
@@ -6015,7 +6039,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 502,
+      "order": 504,
       "id": "entry-783092",
       "label": "speech",
       "level": "3",
@@ -6027,7 +6051,7 @@
       "text": "Thank you. Proceed, Sen. (Prof.) Ongeri."
     },
     {
-      "order": 503,
+      "order": 505,
       "id": "entry-783093",
       "label": "speech",
       "level": "3",
@@ -6039,7 +6063,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. Merit, merit and merit must be the substantive position one must take."
     },
     {
-      "order": 504,
+      "order": 506,
       "id": "entry-783094",
       "label": "scene",
       "level": "3",
@@ -6051,7 +6075,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 505,
+      "order": 507,
       "id": "entry-783095",
       "label": "speech",
       "level": "3",
@@ -6063,7 +6087,7 @@
       "text": "I have been thoroughly constrained to append my signature to first class honours person being put out of contestation. In other words, if truly Sen. Meli scored 78 marks and I am one of those professors who have adjudicated those marks. I have cautiously looked at the criteria whether the applicant holds a degree from the University of Nairobi (UON) in accordance with page 16 and he does. I have weighted the marks for that candidate and also looked at whether he has knowledge and at least ten years' experience in either public management---. Someone who has been in this House has been able to do public management and human resource management. The most difficult thing for a politician is to handle human beings at the constituency or the county levels. In terms of that criteria, he qualifies. With regard to the question whether he has experience in finance and administration, the whole purpose of a Senator is to oversight the county on matters of finances. I do not know of the other experience that is required from this individual. He has also been a lawmaker. Therefore, he has knowledge of labour laws. Mr. Temporary Speaker, Sir, if we are going for criteria and merit, then the list before us is not the one we should consider until they have included the one who scored 78 marks which, to me, is a first class honours marks. I will not be comfortable without his name here. As an elder and a man of experience, that it is a wrong move to justify an appointment of somebody who does not merit the appointment. I oppose the name put before us and look forward to either the Committee bringing a fresh name or amending this report here and now."
     },
     {
-      "order": 506,
+      "order": 508,
       "id": "entry-783096",
       "label": "speech",
       "level": "3",
@@ -6075,7 +6099,7 @@
       "text": "I want to notify the House that we are remaining with 15 minutes. Therefore, in your valedictory remarks, you need to be concluding. I will later on invite the Senate Majority Leader to contribute. In the meantime, we shall have Sen. Seneta Mary Yiane."
     },
     {
-      "order": 507,
+      "order": 509,
       "id": "entry-783099",
       "label": "speech",
       "level": "3",
@@ -6087,7 +6111,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me a chance to add my voice to this Motion. From the onset, I oppose this Report."
     },
     {
-      "order": 508,
+      "order": 510,
       "id": "entry-783100",
       "label": "scene",
       "level": "3",
@@ -6099,7 +6123,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 509,
+      "order": 511,
       "id": "entry-783101",
       "label": "speech",
       "level": "3",
@@ -6111,7 +6135,7 @@
       "text": "I also congratulate the Committee for having sat and listened to Kenyans from different counties. Mr. Temporary Speaker, Sir, if I am not wrong, according to the Constitution, the mandate of this House is to look into county budgets. I have heard that former Sen. Melly sat in this House for five years going through county budgets and allocations. He interacted with different institutions, including those he had to oversight in the Committee. Therefore, he has the necessary knowledge on finances. In one of the sections of this report, we are told the Committee sat and did their analysis and decided to use average scores in determining the suitable candidate. They rated former Sen. Melly as the best candidate. However, in the last parts of the process, they denied him a chance because of technicalities. We, as a House, should always be guided by merit when considering individuals for appointments to serve in various institutions. I also urge my colleagues to look at these appointments in terms of equality. It is important to give all tribes and genders equal chances to serve in this institution. I congratulate the Committee because they rated and considered those ladies who sat in the interview on merit. Finally, I oppose this Report not because Sen. Melly was a Member of this House, but because he was rated first and not given a fair chance to represent us in that institution. We know that the SRC had many challenges especially in trying to harmonise salaries. Therefore, it needs people with diverse knowledge in terms of different institutions, to be able to look at ways of harmonizing salaries. I oppose."
     },
     {
-      "order": 510,
+      "order": 512,
       "id": "entry-783102",
       "label": "speech",
       "level": "3",
@@ -6123,7 +6147,7 @@
       "text": "I invite Sen. Omogeni."
     },
     {
-      "order": 511,
+      "order": 513,
       "id": "entry-783103",
       "label": "speech",
       "level": "3",
@@ -6135,7 +6159,7 @@
       "text": "Mr. Temporary Speaker, Sir, it is normally said that ishara ya mvua ni mawingu. Having listened to the contributions ---"
     },
     {
-      "order": 512,
+      "order": 514,
       "id": "entry-783106",
       "label": "speech",
       "level": "3",
@@ -6147,7 +6171,7 @@
       "text": "On a point of order, Mr. Temporary Speaker, Sir. After listening, I can see that the mood is just right. Looking at the time, I would want to invite you to put the question, so that we amend this Report. We need to conclude this matter today. Am I in order?"
     },
     {
-      "order": 513,
+      "order": 515,
       "id": "entry-783107",
       "label": "speech",
       "level": "3",
@@ -6159,7 +6183,7 @@
       "text": "First of all, in the interest of time, I would like to invoke Standing Order No.31 (2) which reads: \"Unless for the convenience of the Senate, the Speaker or the Chairperson (as the case may be) directs earlier or later interruption of business, at 6.30 p.m. the Speaker or the Chairperson of Committees shall interrupt the business then under consideration and if the Senate is in Committee, the Chairperson shall leave the Chair and report progress and ask for leave to sit again.\" I, therefore, use my discretion to extend the Sitting time until this matter is completed. Senate Majority Leader, proceed."
     },
     {
-      "order": 514,
+      "order": 516,
       "id": "entry-783110",
       "label": "speech",
       "level": "3",
@@ -6171,7 +6195,7 @@
       "text": "Mr. Temporary Speaker, Sir, the reason Sen. Omogeni was being interrupted is because he cannot speak twice on the same matter. So, with your permission - having talked to you - I would like to move an amendment. I beg to move:- THAT, the Report be adopted, subject to deleting the tables appearing at Paragraph 17 and 57 on Page 7 and 23 respectively, and substituting therefor the following table:- (1) Sen. Isaac Kipkemoi Melly, 39 years, Uasin Gishu County - 78 (2) Ms. Margaret Sawe, Nandi County - 75 Mr. Temporary Speaker, Sir, having listened to the contribution of Members, I am moving this amendment to give an opportunity to Sen. Melly, whom the law says, one must have qualification of at least 10 years in public management. Public management is a nebulous concept; it is anything and everything that you have been dealing with in public life. Having interacted with Sen. Melly here, he has worked in the public service since he was employed in the University of Eldoret in 2003. From there, he joined Mt. Kenya University where he worked as a Dean of Students and then, had another five grueling years of politics - a great experience that each one of us has here. Therefore, we are bringing this name so that we can adopt the Report as it is. I do not want to fault the Chairperson because they might have been confused by the second paragraph that says: \"Experience in human resource\". However, there was one that says; \"public management\", which is everything and anything. Secondly, one would question if this list has regional and ethnic balance. I want to put it on record, so that no one worries about it. There is only one person who will be approved from the list. Since Sen. Melly is number one, we believe he is the one who will be approved from the list that comes from the Senate. We do not have to worry that the name accompanies another person from the same region because two positions are not available; it is only one position. That is why I request my colleagues that we adopt this amendment. Mr. Temporary Speaker, Sir, since we have the numbers and time has far much moved, I request that this amendment be seconded by Sen. Pareno."
     },
     {
-      "order": 515,
+      "order": 517,
       "id": "entry-783111",
       "label": "speech",
       "level": "3",
@@ -6183,7 +6207,7 @@
       "text": "Mr. Temporary Speaker, Sir, I rise to second that amendment. It definitely goes down to put what we have said in this Senate. It affirms the spirit of this Senate. Definitely, that amendment will go a long way to state how serious we are when it comes to our business. If we could adopt that, it would set the tone that we want in this Senate. If we take it back to the Committee to discuss and reopen the matter, we might not achieve our purpose. I second because this Senate is not a rubber-stamping body. This Senate is supposed to scrutinize and receive reports, not just to look at them but to do what is required of us. We have done justice. I support this amendment."
     },
     {
-      "order": 516,
+      "order": 518,
       "id": "entry-783113",
       "label": "scene",
       "level": "3",
@@ -6195,7 +6219,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 517,
+      "order": 519,
       "id": "entry-783114",
       "label": "speech",
       "level": "3",
@@ -6207,7 +6231,7 @@
       "text": "I open up the matter for debate. I welcome Sen. Faki from Mombasa County."
     },
     {
-      "order": 518,
+      "order": 520,
       "id": "entry-783115",
       "label": "speech",
       "level": "3",
@@ -6219,7 +6243,7 @@
       "text": "Asante, Bwana Spika wa muda. Ripoti iko sawa isipokuwa mapendekezo yake ndio yalikuwa yanatatiza waheshimiwa Maseneta. Ripoti hii inaeleza kwamba wa kwanza katika majadiliano alikuwa ni Sen. Isack Kipkemboi Melly ambaye alipata alama 78. Ripoti hii inatilia maanani uzoefu wake wa awali. Kwa kizungu inaitwa experience. Kwa Kiswahili tunasema 'uzoefu wa awali.' Kwa hivyo, uzoefu wake wa awali ulitiliwa maanani kwamba alikuwa amefanya kazi kama msimamizai wa maswala ya wanafunzi katika chuo kikuu na pia amekuwa Seneta kwa wa miaka mitano. Ijapokuwa ripoti inasema kuwa ana uzoefu wa awali wa miaka kumi kwa mambo ya fedha ilivyotakikana na Section 5 (2) (b), aliweza kuwashinda wenzake kwa alama tatu. Kwa hivyo, inaonekana kwamba huyu ni mwerevu. Tunaweza kumuita kwa kiingereza genius kulingana na mahojiano yaliyofanyika. Bwana, Spika wa muda, naunga mkono kwamba tubadilishe majina ya Sen. Isack Kipkemboi Melly na Bi. Margaret Sawe wakubaliwe kama washindani kwa nafasi hii ya mwakilishi wa kaunti katika Salaries and Remuneration Commission (SRC)."
     },
     {
-      "order": 519,
+      "order": 521,
       "id": "entry-783118",
       "label": "speech",
       "level": "3",
@@ -6231,7 +6255,7 @@
       "text": "Hon. Senators, there being no other person willing to contribute, I put the question. This is a matter affecting counties because the representatives are supposed to represent the county governments. Since we have quorum for that, we rule that the Bell be rung for three minutes. Thereafter, we shall vote."
     },
     {
-      "order": 520,
+      "order": 522,
       "id": "entry-783119",
       "label": "scene",
       "level": "3",
@@ -6243,7 +6267,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 521,
+      "order": 523,
       "id": "entry-783120",
       "label": "speech",
       "level": "3",
@@ -6255,7 +6279,7 @@
       "text": "I order the Doors to be closed and the Bars drawn."
     },
     {
-      "order": 522,
+      "order": 524,
       "id": "entry-783121",
       "label": "scene",
       "level": "3",
@@ -6267,7 +6291,7 @@
       "text": "(The Doors were closed and the Bars were drawn)"
     },
     {
-      "order": 523,
+      "order": 525,
       "id": "entry-783122",
       "label": "speech",
       "level": "3",
@@ -6279,7 +6303,7 @@
       "text": "Order, hon. Senators. It is not possible to input the table in the Amendment for purposes of electronic voting. I, therefore, rule that we shall vote the manual way. I request the Senate Majority Leader to give us two Tellers who will oversee this exercise. Sen. (Dr.) Langat for Bomet County will be the Teller for the Majority side, while Sen. Kwamboka will be the Teller for the Minority side. The voting can start."
     },
     {
-      "order": 524,
+      "order": 526,
       "id": "entry-783122-uppercase-text-heading",
       "label": "heading",
       "level": "3",
@@ -6291,7 +6315,7 @@
       "text": "DIVISION ROLL CALL VOTING"
     },
     {
-      "order": 525,
+      "order": 527,
       "id": "entry-783123",
       "label": "scene",
       "level": "3",
@@ -6303,7 +6327,7 @@
       "text": "(Question, that the Report of the Committee on Finance and Budget on the nominee to the SRC be amended as proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 526,
+      "order": 528,
       "id": "entry-783127",
       "label": "other",
       "level": "3",
@@ -6315,7 +6339,7 @@
       "text": "AYES:"
     },
     {
-      "order": 527,
+      "order": 529,
       "id": "entry-783128",
       "label": "other",
       "level": "3",
@@ -6327,7 +6351,7 @@
       "text": "Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi, County; Sen. (Dr.) Kabaka, Machakos County; Sen. Kajwang' M., Homa Bay County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita- Taveta County; Sen. Ndwiga, Embu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Seneta, Kajiado County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; Sen. Wario, Tana River County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 528,
+      "order": 530,
       "id": "entry-783129",
       "label": "speech",
       "level": "3",
@@ -6339,7 +6363,7 @@
       "text": "Sen. (Dr. Langat)\n\nNOES:"
     },
     {
-      "order": 529,
+      "order": 531,
       "id": "entry-783131",
       "label": "speech",
       "level": "3",
@@ -6351,7 +6375,7 @@
       "text": "Nil"
     },
     {
-      "order": 530,
+      "order": 532,
       "id": "entry-783132",
       "label": "speech",
       "level": "3",
@@ -6363,7 +6387,7 @@
       "text": "Sen. Kwamboka"
     },
     {
-      "order": 531,
+      "order": 533,
       "id": "entry-783133",
       "label": "speech",
       "level": "3",
@@ -6375,7 +6399,7 @@
       "text": "Speaker (Sen. Malalah): Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n25\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n0 The \"Ayes\" have it."
     },
     {
-      "order": 532,
+      "order": 534,
       "id": "entry-783140-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -6387,7 +6411,7 @@
       "text": "(Question carried by 25 votes to 0)"
     },
     {
-      "order": 533,
+      "order": 535,
       "id": "entry-783140-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -6399,7 +6423,7 @@
       "text": "(Question of the Motion as amended proposed)"
     },
     {
-      "order": 534,
+      "order": 536,
       "id": "entry-783141",
       "label": "speech",
       "level": "3",
@@ -6411,7 +6435,7 @@
       "text": "I therefore order that the doors be opened and the Bars withdrawn."
     },
     {
-      "order": 535,
+      "order": 537,
       "id": "entry-783142",
       "label": "scene",
       "level": "3",
@@ -6423,7 +6447,7 @@
       "text": "(The doors were opened and the Bars withdrawn)"
     },
     {
-      "order": 536,
+      "order": 538,
       "id": "entry-783143",
       "label": "speech",
       "level": "3",
@@ -6435,7 +6459,7 @@
       "text": "In the interest of time, I call upon the Mover of the Motion to reply."
     },
     {
-      "order": 537,
+      "order": 539,
       "id": "entry-783144",
       "label": "speech",
       "level": "3",
@@ -6447,7 +6471,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to reply. I thank Members for their contributions to the Motion. Normally a committee makes a report which belongs to the House and we agree with the amendments. We did our best, save for the comment which was sneaked in by the secretariat. We do not know what to do about it but they have made our work easy."
     },
     {
-      "order": 538,
+      "order": 540,
       "id": "entry-783145",
       "label": "speech",
       "level": "3",
@@ -6459,7 +6483,7 @@
       "text": "(Sen. Malalah) I will now put the Question. Since this matter affects counties, we will vote again on the same. I therefore order the Division Bell to be rung for one minute."
     },
     {
-      "order": 539,
+      "order": 541,
       "id": "entry-783146",
       "label": "scene",
       "level": "3",
@@ -6471,7 +6495,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 540,
+      "order": 542,
       "id": "entry-783148",
       "label": "heading",
       "level": "3",
@@ -6483,7 +6507,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 541,
+      "order": 543,
       "id": "entry-783150",
       "label": "scene",
       "level": "3",
@@ -6495,7 +6519,7 @@
       "text": "(Question of the Adoption of the Report of the Finance and Budget Committee on Nominees of Member to the SRC as amended, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 542,
+      "order": 544,
       "id": "entry-783151",
       "label": "other",
       "level": "3",
@@ -6507,7 +6531,7 @@
       "text": "AYES:"
     },
     {
-      "order": 543,
+      "order": 545,
       "id": "entry-783152",
       "label": "other",
       "level": "3",
@@ -6519,7 +6543,7 @@
       "text": "Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Farhiya, Nairobi County; Sen. Faki, Mombasa County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Dr.) Lang'at, Bomet County; Sen. Linturi, Meru County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. Murkomen, Elgeyo Marakwet County; Sen. Mwaruma, Taita Taveta County; Sen. Nderitu, Laikipia County; Sen. Ndwiga, Embu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Seneta, Kajiado County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; Sen. Wario, Tana River County; and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 544,
+      "order": 546,
       "id": "entry-783153",
       "label": "speech",
       "level": "3",
@@ -6531,7 +6555,7 @@
       "text": "Sen. (Dr.) Lang'at\n\nNOES"
     },
     {
-      "order": 545,
+      "order": 547,
       "id": "entry-783155",
       "label": "speech",
       "level": "3",
@@ -6543,7 +6567,7 @@
       "text": ": Nil"
     },
     {
-      "order": 546,
+      "order": 548,
       "id": "entry-783156",
       "label": "speech",
       "level": "3",
@@ -6555,7 +6579,7 @@
       "text": "Sen. Kwamboka"
     },
     {
-      "order": 547,
+      "order": 549,
       "id": "entry-783157",
       "label": "speech",
       "level": "3",
@@ -6567,7 +6591,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n26\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n0 The \"Ayes\" have it."
     },
     {
-      "order": 548,
+      "order": 550,
       "id": "entry-783164-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "3",
@@ -6579,7 +6603,7 @@
       "text": "(Question carried by 26 votes to nil)"
     },
     {
-      "order": 549,
+      "order": 551,
       "id": "entry-783164-parenthesis-split-2-of-3",
       "label": "scene",
       "level": "3",
@@ -6591,7 +6615,7 @@
       "text": "(Question of the Motion as amended put and agreed to)"
     },
     {
-      "order": 550,
+      "order": 552,
       "id": "entry-783164-parenthesis-split-3-of-3",
       "label": "heading",
       "level": "3",
@@ -6603,7 +6627,7 @@
       "text": "Resolved accordingly:"
     },
     {
-      "order": 551,
+      "order": 553,
       "id": "entry-783165",
       "label": "speech",
       "level": "3",
@@ -6615,7 +6639,7 @@
       "text": "THAT, pursuant to Article 230(2) (b) (vii) of the Constitution and Section 7(1) and (2) of the Salaries and Remuneration Commission Act, the Senate adopts the Report of the Standing Committee on Finance and Budget on the Senate nominees, on behalf of the county governments, to the position of Member of the Salaries and Remuneration Commission, laid on the Table of the House on Tuesday, 20th March, 2018; subject to deleting the tables appearing at Paragraph 17 and 57 on Page 7 and 23 respectively, and substituting therefor the following table:- (1) Sen. Isaac Kipkemoi Melly, 39 years, Uasin Gishu County - 78"
     },
     {
-      "order": 552,
+      "order": 554,
       "id": "entry-783167",
       "label": "speech",
       "level": "3",
@@ -6627,7 +6651,7 @@
       "text": "(2) Ms. Margaret Sawe, Nandi County - 75"
     },
     {
-      "order": 553,
+      "order": 555,
       "id": "entry-783168-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -6639,7 +6663,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 554,
+      "order": 556,
       "id": "entry-783168",
       "label": "speech",
       "level": "1",

@@ -85,8 +85,9 @@ def apply(out, pdf_for):
             if ins is not None: remove.add(ins)
         new, newpos, newhead = [], {}, []
         for i, e in enumerate(E):
-            if i in remove:
-                newpos[i + 1] = None; continue
+            if i in remove:   # the editor's X: keep the misplaced copy as a deleted block, never drop it
+                b = dict(e); b['original_label'] = b['original_label'] or b['label']; b['label'] = 'deleted'; b['level'] = ''
+                newpos[i + 1] = len(new) + 1; new.append(b); continue
             newpos[i + 1] = len(new) + 1
             if i not in splits:
                 new.append(e); continue
