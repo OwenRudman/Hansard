@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2019-03-12-14-30-00",
-  "exported_at": "2026-10-05T08:03:14.248Z",
+  "exported_at": "2026-10-13T17:31:46.229Z",
   "entries": [
     {
       "order": 1,
@@ -2460,106 +2460,10 @@
       "speaker": "Rose Nyamunga Ogendo",
       "speaker_title": "(The Temporary Chairperson)",
       "reviewed": true,
-      "text": "Clause 3 of the Bill be amended― (a) by deleting subclause (3) and substituting therefor the following new subclause― (3) The Council shall consist of--"
+      "text": "Clause 3 of the Bill be amended― (a) by deleting subclause (3) and substituting therefor the following new subclause― (3) The Council shall consist of--\n\n(a) a Chairperson, who shall be appointed by the President;\n\n(b) the Principal Secretary for the time being responsible for matters related to agriculture or a representative; (c) the Principal Secretary for the time being responsible for matters related to finance or a representative;\n\n(d) one person nominated by the Council of Governors;\n\n(e) the Director-General of Agriculture and Food Authority or representative; (f) the chief executive officer of the Council who shall be an ex-officio member;\n\n(g) one person nominated by the Kenya Farmers Association;\n\n(h) one person nominated by Kenyan members of the Eastern Africa Grain Council;\n\n(i) one person nominated by Kenya Bankers Association; and\n\n(j) one person nominated by the Kenya Warehouse Operators Association.\" (b) by deleting subclause (5) and substituting thereof with the following subclause─ (5) A person shall be qualified for appointment as chairperson of the Board if such a person-- (a) is a citizen of Kenya; (b) meets the requirements of leadership and integrity set out in Chapter 6 of the Constitution; (c) holds relevant academic and professional qualifications including auniversity degree in a relevant field; and (d) has at least eight years' experience in-- (i) agriculture; (ii) finance; (iii)business; (iv) law; (v) procurement; or (vi) administration. (c) in subclause (9), by─ (i) inserting the words, \"in contravention of the Public Officer Ethics Act and any other relevant law\" immediately after the word \"office\" in paragraph (c); (ii) deleting the words \"in the opinion of the Council\" appearing in paragraph (e); (iii)deleting paragraph (g) and substituting therefor with the following paragraph─ \"(g) conviction of an offence and sentenced to six months imprisonment without an option of a fine.\""
     },
     {
       "order": 206,
-      "id": "entry-883445-split-selected-366eb11e-a709-411f-a7fa-767c0d374a04",
-      "label": "scene",
-      "level": "5",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(a) a Chairperson, who shall be appointed by the President;"
-    },
-    {
-      "order": 207,
-      "id": "entry-883445-split-after-a7945b9d-1a8f-4e17-9c8c-baaeab6306b9-split-before-63ad3d18-0810-44e5-937c-465095954b12",
-      "label": "speech",
-      "level": "5",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": "(b) the Principal Secretary for the time being responsible for matters related to agriculture or a representative; (c) the Principal Secretary for the time being responsible for matters related to finance or a representative;"
-    },
-    {
-      "order": 208,
-      "id": "entry-883445-split-after-a7945b9d-1a8f-4e17-9c8c-baaeab6306b9-split-selected-b3477e5c-85b6-4fbf-84e0-a8422f2da7b0",
-      "label": "scene",
-      "level": "5",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(d) one person nominated by the Council of Governors;"
-    },
-    {
-      "order": 209,
-      "id": "entry-883445-split-after-a7945b9d-1a8f-4e17-9c8c-baaeab6306b9-split-after-524f37b5-780a-46cf-b373-744dbcf425e3-split-before-e5837f22-d901-4b62-a870-233d518dfb72",
-      "label": "speech",
-      "level": "5",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": "(e) the Director-General of Agriculture and Food Authority or representative; (f) the chief executive officer of the Council who shall be an ex-officio member;"
-    },
-    {
-      "order": 210,
-      "id": "entry-883445-split-after-a7945b9d-1a8f-4e17-9c8c-baaeab6306b9-split-after-524f37b5-780a-46cf-b373-744dbcf425e3-split-selected-ec4bb880-dccd-44a9-8cf3-9d6e0824ab54",
-      "label": "scene",
-      "level": "5",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(g) one person nominated by the Kenya Farmers Association;"
-    },
-    {
-      "order": 211,
-      "id": "entry-883445-split-after-a7945b9d-1a8f-4e17-9c8c-baaeab6306b9-split-after-524f37b5-780a-46cf-b373-744dbcf425e3-split-after-1ab4bbaa-74d9-4e3b-89e8-b327ef3443c1-split-before-68e1adb7-1d0a-445e-9f87-ca4b5cff198c",
-      "label": "speech",
-      "level": "5",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": "(h) one person nominated by Kenyan members of the Eastern Africa Grain Council;"
-    },
-    {
-      "order": 212,
-      "id": "entry-883445-split-after-a7945b9d-1a8f-4e17-9c8c-baaeab6306b9-split-after-524f37b5-780a-46cf-b373-744dbcf425e3-split-after-1ab4bbaa-74d9-4e3b-89e8-b327ef3443c1-split-selected-c7c5a586-eb0e-4312-a274-ee2fa40438cd",
-      "label": "scene",
-      "level": "5",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(i) one person nominated by Kenya Bankers Association; and"
-    },
-    {
-      "order": 213,
-      "id": "entry-883445-split-after-a7945b9d-1a8f-4e17-9c8c-baaeab6306b9-split-after-524f37b5-780a-46cf-b373-744dbcf425e3-split-after-1ab4bbaa-74d9-4e3b-89e8-b327ef3443c1-split-after-bf1a62bb-f8b8-432a-9d92-627a8773ebef",
-      "label": "speech",
-      "level": "5",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": "(j) one person nominated by the Kenya Warehouse Operators Association.\" (b) by deleting subclause (5) and substituting thereof with the following subclause─ (5) A person shall be qualified for appointment as chairperson of the Board if such a person-- (a) is a citizen of Kenya; (b) meets the requirements of leadership and integrity set out in Chapter 6 of the Constitution; (c) holds relevant academic and professional qualifications including auniversity degree in a relevant field; and (d) has at least eight years' experience in-- (i) agriculture; (ii) finance; (iii)business; (iv) law; (v) procurement; or (vi) administration. (c) in subclause (9), by─ (i) inserting the words, \"in contravention of the Public Officer Ethics Act and any other relevant law\" immediately after the word \"office\" in paragraph (c); (ii) deleting the words \"in the opinion of the Council\" appearing in paragraph (e); (iii)deleting paragraph (g) and substituting therefor with the following paragraph─ \"(g) conviction of an offence and sentenced to six months imprisonment without an option of a fine.\""
-    },
-    {
-      "order": 214,
       "id": "entry-883447",
       "label": "scene",
       "level": "5",
@@ -2571,7 +2475,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 215,
+      "order": 207,
       "id": "entry-883448",
       "label": "speech",
       "level": "5",
@@ -2583,7 +2487,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 216,
+      "order": 208,
       "id": "entry-883449",
       "label": "heading",
       "level": "5",
@@ -2595,7 +2499,7 @@
       "text": "Clause 4"
     },
     {
-      "order": 217,
+      "order": 209,
       "id": "entry-883450",
       "label": "speech",
       "level": "5",
@@ -2607,7 +2511,7 @@
       "text": "Clause 4 of the Bill be amended-- (a) in paragraph (a) by inserting the word \"produced\" immediately after the word \"commodities\"; (b) by inserting the following new paragraphs immediately after paragraph (j)─ (ja) in accordance with the provision of this Act, suspend operations of warehouse operators, inspectors, weighers, graders or other service providers operating under the Act for contravention of the Act; (jb) issue, suspend or revoke registration or licenses issued under the Act;"
     },
     {
-      "order": 218,
+      "order": 210,
       "id": "entry-883451-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "5",
@@ -2619,7 +2523,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 219,
+      "order": 211,
       "id": "entry-883451-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "5",
@@ -2631,7 +2535,7 @@
       "text": "Clauses 5-8"
     },
     {
-      "order": 220,
+      "order": 212,
       "id": "entry-883452",
       "label": "scene",
       "level": "5",
@@ -2643,7 +2547,7 @@
       "text": "(Question that Clauses 5-8 be part of the Bill proposed)"
     },
     {
-      "order": 221,
+      "order": 213,
       "id": "entry-883453",
       "label": "speech",
       "level": "5",
@@ -2655,7 +2559,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 222,
+      "order": 214,
       "id": "entry-883455",
       "label": "heading",
       "level": "5",
@@ -2667,7 +2571,7 @@
       "text": "Clause 9"
     },
     {
-      "order": 223,
+      "order": 215,
       "id": "entry-883456",
       "label": "speech",
       "level": "5",
@@ -2679,7 +2583,7 @@
       "text": "Clause 9 of the Bill be amended in subclause (3) by deleting paragraph (a) and substituting therefor the following new paragraph- \"(a) holds a relevant university degree from a recognized university in Kenya.\""
     },
     {
-      "order": 224,
+      "order": 216,
       "id": "entry-883457",
       "label": "scene",
       "level": "5",
@@ -2691,7 +2595,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 225,
+      "order": 217,
       "id": "entry-883458",
       "label": "speech",
       "level": "5",
@@ -2703,7 +2607,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 226,
+      "order": 218,
       "id": "entry-883459",
       "label": "heading",
       "level": "5",
@@ -2715,7 +2619,7 @@
       "text": "Clause 10"
     },
     {
-      "order": 227,
+      "order": 219,
       "id": "entry-883460",
       "label": "speech",
       "level": "5",
@@ -2727,7 +2631,7 @@
       "text": "Clause 10 of the Bill be amended by inserting the words \"a company secretary and\" immediately after word \"employ\"."
     },
     {
-      "order": 228,
+      "order": 220,
       "id": "entry-883461",
       "label": "scene",
       "level": "5",
@@ -2739,7 +2643,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 229,
+      "order": 221,
       "id": "entry-883462",
       "label": "speech",
       "level": "5",
@@ -2751,7 +2655,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 230,
+      "order": 222,
       "id": "entry-883463",
       "label": "heading",
       "level": "5",
@@ -2763,7 +2667,7 @@
       "text": "Clause 11"
     },
     {
-      "order": 231,
+      "order": 223,
       "id": "entry-883464",
       "label": "speech",
       "level": "5",
@@ -2775,7 +2679,7 @@
       "text": "Clause 11 of the Bill be amended─ (a) by renumbering the existing clause as subclause (1); (b) by inserting the following new subclause immediately after subclause (1) -- (2) The Council shall publish the names of persons engaged as experts under subsection (1), in the gazette ."
     },
     {
-      "order": 232,
+      "order": 224,
       "id": "entry-883465",
       "label": "scene",
       "level": "5",
@@ -2787,7 +2691,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 233,
+      "order": 225,
       "id": "entry-883466",
       "label": "speech",
       "level": "5",
@@ -2799,7 +2703,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 234,
+      "order": 226,
       "id": "entry-883467",
       "label": "heading",
       "level": "5",
@@ -2811,7 +2715,7 @@
       "text": "Clauses 12 to 15 (Question that Clauses 12 to 15 be part of the Bill proposed) Clause 16"
     },
     {
-      "order": 235,
+      "order": 227,
       "id": "entry-883468",
       "label": "speech",
       "level": "5",
@@ -2823,7 +2727,7 @@
       "text": "Clause 16 of the Bill be amended in subclause (5) by inserting the word \"annual\" immediately before the word \"report\"."
     },
     {
-      "order": 236,
+      "order": 228,
       "id": "entry-883469",
       "label": "scene",
       "level": "5",
@@ -2835,7 +2739,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 237,
+      "order": 229,
       "id": "entry-883471",
       "label": "speech",
       "level": "5",
@@ -2847,7 +2751,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 238,
+      "order": 230,
       "id": "entry-883472",
       "label": "heading",
       "level": "5",
@@ -2859,7 +2763,7 @@
       "text": "Clause 17"
     },
     {
-      "order": 239,
+      "order": 231,
       "id": "entry-883473",
       "label": "speech",
       "level": "5",
@@ -2871,7 +2775,7 @@
       "text": "Clause 17 of the Bill be amended─ (a) by deleting subclause (3) and substituting therefore the following new clause─ \"(3) The County Executive Committee member may─ (a) issue a license where the applicant meets all the requirements set out in the prescribed regulations; (b) decline to issue a license for the conduct of a warehouse where the County Executive Committee member establishes that─ (i) the warehouse is not suitable for the proper storage of agricultural commodities; (ii) the operator is incompetent to conduct such warehouse in accordance with this Act and the regulations made hereunder; or (iii)there is any other sufficient reason within the purposes of Act for not issuing such licenses. (b) by inserting the following new subclause immediately after subclause (4) ─ (4A) A person who operates a warehouse under the Warehouse Receipts System without a license issued by the county executive committee commits an offence."
     },
     {
-      "order": 240,
+      "order": 232,
       "id": "entry-883474-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "5",
@@ -2883,7 +2787,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 241,
+      "order": 233,
       "id": "entry-883474-parenthesis-split-2-of-3",
       "label": "heading",
       "level": "5",
@@ -2895,7 +2799,7 @@
       "text": "Clauses 18 to 20"
     },
     {
-      "order": 242,
+      "order": 234,
       "id": "entry-883474-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "5",
@@ -2907,7 +2811,7 @@
       "text": "(Question that Clauses 18 to 20 be part of the Bill proposed)"
     },
     {
-      "order": 243,
+      "order": 235,
       "id": "entry-883475",
       "label": "speech",
       "level": "5",
@@ -2919,7 +2823,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 244,
+      "order": 236,
       "id": "entry-883476",
       "label": "heading",
       "level": "5",
@@ -2931,7 +2835,7 @@
       "text": "Clause 21"
     },
     {
-      "order": 245,
+      "order": 237,
       "id": "entry-883477",
       "label": "speech",
       "level": "5",
@@ -2943,7 +2847,7 @@
       "text": "Clause 21 of the Bill be amended─ (a) in subclause (4) by inserting the words \"and shall be liable on conviction to a fine not exceeding a hundred thousand shillings or imprisonment for a term not exceeding three years, or both\" immediately after the word \"offence\"; (b) in subclause (5)─ (i) by deleting the word \"or\" appearing immediately before he word \"graders\"; (ii) by inserting the words \"or other service providers\" immediately after the word\"graders\"; and (c) by inserting the following new subclause immediately after subclause (8) ─ \"(8A) The Council shall maintain a database which shall be availed for inspection by any person upon application pursuant to Article 35 of the Constitution.\""
     },
     {
-      "order": 246,
+      "order": 238,
       "id": "entry-883479",
       "label": "scene",
       "level": "5",
@@ -2955,7 +2859,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 247,
+      "order": 239,
       "id": "entry-883480",
       "label": "speech",
       "level": "5",
@@ -2967,7 +2871,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 248,
+      "order": 240,
       "id": "entry-883481-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2979,7 +2883,7 @@
       "text": "Clauses 22"
     },
     {
-      "order": 249,
+      "order": 241,
       "id": "entry-883481-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2991,7 +2895,7 @@
       "text": "(Question that Clause 22 be part of the Bill proposed)"
     },
     {
-      "order": 250,
+      "order": 242,
       "id": "entry-883482",
       "label": "heading",
       "level": "5",
@@ -3003,7 +2907,7 @@
       "text": "Clause 23"
     },
     {
-      "order": 251,
+      "order": 243,
       "id": "entry-883483",
       "label": "speech",
       "level": "5",
@@ -3015,7 +2919,7 @@
       "text": "Clause 23 the Bill be amended─ (a) by deleting the words \"Warehouse Receipts Appeals Committee\" wherever they appear and substituting therefor the words \"Warehouse Receipts System Dispute Resolution Committee\"; (b) in subclause (1) by inserting the following new paragraph immediately after paragraph (d)-- (da) complaints by registered, licensed or other persons operating under this Act; (c) in subclause (2) by─ (i) deleting paragraph (a) and substituting thereof with the following paragraph─ (a) a chairperson appointed by the Cabinet Secretary who shall be an advocate of not less than seven years standing and with experience in dispute resolution; and (ii) deleting the word \"adjudication\" in paragraph (b) and substituting thereof with the word \"resolution\". (d) in subclause (4) by deleting the words \"Appeals Committee\" and substituting therefor the words \"Dispute Resolution Committee\"."
     },
     {
-      "order": 252,
+      "order": 244,
       "id": "entry-883484",
       "label": "scene",
       "level": "5",
@@ -3027,7 +2931,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 253,
+      "order": 245,
       "id": "entry-883485",
       "label": "speech",
       "level": "5",
@@ -3039,7 +2943,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 254,
+      "order": 246,
       "id": "entry-883486",
       "label": "heading",
       "level": "5",
@@ -3051,7 +2955,7 @@
       "text": "Clause 24"
     },
     {
-      "order": 255,
+      "order": 247,
       "id": "entry-883487",
       "label": "speech",
       "level": "5",
@@ -3063,7 +2967,7 @@
       "text": "Clause 24 of the Bill be deleted and substituted thereof with the following new clause-- Grading and weighing of agricultural products.\n\n24.\n\n(1) A licensed warehouse operator shall ensure commodities stored in a licensed agricultural warehouse meet the standards\n\npublished by the Kenya Bureau of Standards and are weighed using equipment certified in accordance with laws related to weights and measures. (2) The grading of agricultural commodities shall be undertaken by agricultural commodity graders certified by a mandated institution. (3) The Council shall provide guidelines on the minimum qualifications and competencies required of graders and weighers."
     },
     {
-      "order": 256,
+      "order": 248,
       "id": "entry-883491",
       "label": "scene",
       "level": "5",
@@ -3075,7 +2979,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 257,
+      "order": 249,
       "id": "entry-883492",
       "label": "speech",
       "level": "5",
@@ -3087,7 +2991,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 258,
+      "order": 250,
       "id": "entry-883493",
       "label": "heading",
       "level": "5",
@@ -3099,7 +3003,7 @@
       "text": "Clause 25"
     },
     {
-      "order": 259,
+      "order": 251,
       "id": "entry-883494",
       "label": "speech",
       "level": "5",
@@ -3111,7 +3015,7 @@
       "text": "Clause 25 of the Bill be deleted and substituted thereof with the following new clause-- Inspection of stored products. 25\n\n.\n\n(1) The Chief Executive Officer, appointed Council Inspectors or\n\nauthorized officers of the Council may inspect any agricultural\n\ncommodity stored in a licensed warehouse and records relating to warehouse receipts where its considered necessary. (2) The Council shall appoint and gazette inspectors who shall exercise such powers in accordance with regulations made under this Act."
     },
     {
-      "order": 260,
+      "order": 252,
       "id": "entry-883499",
       "label": "scene",
       "level": "5",
@@ -3123,7 +3027,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 261,
+      "order": 253,
       "id": "entry-883500",
       "label": "speech",
       "level": "5",
@@ -3135,7 +3039,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 262,
+      "order": 254,
       "id": "entry-883501-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3147,7 +3051,7 @@
       "text": "Clauses 26"
     },
     {
-      "order": 263,
+      "order": 255,
       "id": "entry-883501-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3159,7 +3063,7 @@
       "text": "(Question that Clause 26 be part of the Bill proposed)"
     },
     {
-      "order": 264,
+      "order": 256,
       "id": "entry-883502",
       "label": "heading",
       "level": "5",
@@ -3171,7 +3075,7 @@
       "text": "Clause 27"
     },
     {
-      "order": 265,
+      "order": 257,
       "id": "entry-883503",
       "label": "speech",
       "level": "5",
@@ -3183,7 +3087,7 @@
       "text": "Clause 27 of the Bill be amended by inserting the words, \"insurance contracts, professional indemnities, warehouse receipts registry\" immediately after the words \"examine all\""
     },
     {
-      "order": 266,
+      "order": 258,
       "id": "entry-883504",
       "label": "scene",
       "level": "5",
@@ -3195,7 +3099,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 267,
+      "order": 259,
       "id": "entry-883505",
       "label": "speech",
       "level": "5",
@@ -3207,7 +3111,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 268,
+      "order": 260,
       "id": "entry-883506-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3219,7 +3123,7 @@
       "text": "Clauses 28 to 29"
     },
     {
-      "order": 269,
+      "order": 261,
       "id": "entry-883506-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3231,7 +3135,7 @@
       "text": "(Question that Clauses 28 to 29 be part of the Bill proposed)"
     },
     {
-      "order": 270,
+      "order": 262,
       "id": "entry-883507",
       "label": "heading",
       "level": "5",
@@ -3243,7 +3147,7 @@
       "text": "Clause 30"
     },
     {
-      "order": 271,
+      "order": 263,
       "id": "entry-883508",
       "label": "speech",
       "level": "5",
@@ -3255,7 +3159,7 @@
       "text": "Clause 30 of the Bill be amended by inserting the following new subclause immediately after subclause (1)─ \"(1A) The Central Registry shall have the necessary infrastructure to link it with a centraldepository of a commodities exchange licensed by the Capital Markets Authority.\""
     },
     {
-      "order": 272,
+      "order": 264,
       "id": "entry-883509",
       "label": "scene",
       "level": "5",
@@ -3267,7 +3171,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 273,
+      "order": 265,
       "id": "entry-883510",
       "label": "speech",
       "level": "5",
@@ -3279,7 +3183,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 274,
+      "order": 266,
       "id": "entry-883511",
       "label": "heading",
       "level": "5",
@@ -3291,7 +3195,7 @@
       "text": "Clause 31"
     },
     {
-      "order": 275,
+      "order": 267,
       "id": "entry-883512",
       "label": "speech",
       "level": "5",
@@ -3303,7 +3207,7 @@
       "text": "Clause 31 of the Bill be amended in-- (a) subclause (2), by deleting the words \"issue a warehouse receipt\" and substitute thereof with the words, \"issue a warehouse replacement receipt\"; (b) subclause (3) by deleting the word \"duplicate\" and substituting thereof with the word \"replacement\"; and (c) subclause (4), by deleting the word \"deals\" immediately after the word \"person\" and substituting therefor the word \"who\"."
     },
     {
-      "order": 276,
+      "order": 268,
       "id": "entry-883513",
       "label": "scene",
       "level": "5",
@@ -3315,7 +3219,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 277,
+      "order": 269,
       "id": "entry-883514",
       "label": "speech",
       "level": "5",
@@ -3327,7 +3231,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 278,
+      "order": 270,
       "id": "entry-883515",
       "label": "heading",
       "level": "5",
@@ -3339,7 +3243,7 @@
       "text": "Clause 32"
     },
     {
-      "order": 279,
+      "order": 271,
       "id": "entry-883516",
       "label": "speech",
       "level": "5",
@@ -3351,7 +3255,7 @@
       "text": "Clause 32 of the Bill be amended by deleting the word \"duplicate\" and substituting with the word \"replacement\"."
     },
     {
-      "order": 280,
+      "order": 272,
       "id": "entry-883517",
       "label": "scene",
       "level": "5",
@@ -3363,7 +3267,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 281,
+      "order": 273,
       "id": "entry-883518",
       "label": "speech",
       "level": "5",
@@ -3375,7 +3279,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 282,
+      "order": 274,
       "id": "entry-883519-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3387,7 +3291,7 @@
       "text": "Clauses 33 to 38"
     },
     {
-      "order": 283,
+      "order": 275,
       "id": "entry-883519-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3399,7 +3303,7 @@
       "text": "(Question that Clauses 33 to 38 be part of the Bill proposed)"
     },
     {
-      "order": 284,
+      "order": 276,
       "id": "entry-883521",
       "label": "heading",
       "level": "5",
@@ -3411,7 +3315,7 @@
       "text": "Clause 39"
     },
     {
-      "order": 285,
+      "order": 277,
       "id": "entry-883522",
       "label": "speech",
       "level": "5",
@@ -3423,7 +3327,7 @@
       "text": "Clause 39 of the Bill amended by deleting the phrase \"section 35\" and substituting therefor with the phrase \"section 38\"."
     },
     {
-      "order": 286,
+      "order": 278,
       "id": "entry-883523",
       "label": "scene",
       "level": "5",
@@ -3435,7 +3339,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 287,
+      "order": 279,
       "id": "entry-883524",
       "label": "speech",
       "level": "5",
@@ -3447,7 +3351,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 288,
+      "order": 280,
       "id": "entry-883525-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3459,7 +3363,7 @@
       "text": "Clause 40"
     },
     {
-      "order": 289,
+      "order": 281,
       "id": "entry-883525-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3471,7 +3375,7 @@
       "text": "(Question that Clause 40 be part of the Bill proposed)"
     },
     {
-      "order": 290,
+      "order": 282,
       "id": "entry-883526",
       "label": "heading",
       "level": "5",
@@ -3483,7 +3387,7 @@
       "text": "Clause 41"
     },
     {
-      "order": 291,
+      "order": 283,
       "id": "entry-883527",
       "label": "speech",
       "level": "5",
@@ -3495,7 +3399,7 @@
       "text": "Clause 41 of the Bill be amended-- (a) by deleting the words \"in a case where endorsement is essential for negotiation\" appearing in subclause (1); (b) in subclause (2) by deleting the words \"In a case where it is essential that a warehouse receipt should be endorsed before it is transferred, that\" and substituting therefor the word \"A\"."
     },
     {
-      "order": 292,
+      "order": 284,
       "id": "entry-883528",
       "label": "scene",
       "level": "5",
@@ -3507,7 +3411,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 293,
+      "order": 285,
       "id": "entry-883529",
       "label": "speech",
       "level": "5",
@@ -3519,7 +3423,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 294,
+      "order": 286,
       "id": "entry-883530-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3531,7 +3435,7 @@
       "text": "Clause 42"
     },
     {
-      "order": 295,
+      "order": 287,
       "id": "entry-883530-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3543,7 +3447,7 @@
       "text": "(Question that Clauses 42 be part of the Bill proposed)"
     },
     {
-      "order": 296,
+      "order": 288,
       "id": "entry-883531",
       "label": "heading",
       "level": "5",
@@ -3555,7 +3459,7 @@
       "text": "Clause 43"
     },
     {
-      "order": 297,
+      "order": 289,
       "id": "entry-883532",
       "label": "speech",
       "level": "5",
@@ -3567,7 +3471,7 @@
       "text": "Clause 43 of the Bill be deleted and substituted thereof with the following new clause-- Issuing of fraudulent warehouse receipts. 43. A warehouse operator, or any officer, agent, or employee of a warehouse operator, who issues or aids in issuing a receipt knowing the goods for which such receipt is issued have not been actually received by such warehouse operator, or are not under his actual control at the time of issuing such receipt, commits an offence and is liable on conviction to a term of imprisonment not exceeding ten years or a fine not exceeding ten million Kenya shillings, or to both."
     },
     {
-      "order": 298,
+      "order": 290,
       "id": "entry-883534",
       "label": "scene",
       "level": "5",
@@ -3579,7 +3483,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 299,
+      "order": 291,
       "id": "entry-883535",
       "label": "speech",
       "level": "5",
@@ -3591,7 +3495,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 300,
+      "order": 292,
       "id": "entry-883536",
       "label": "heading",
       "level": "5",
@@ -3603,7 +3507,7 @@
       "text": "Clause 44"
     },
     {
-      "order": 301,
+      "order": 293,
       "id": "entry-883537",
       "label": "speech",
       "level": "5",
@@ -3615,7 +3519,7 @@
       "text": "Clause 44 of the Bill be deleted and substituted thereof with the following new clause─ Issuing of receipts with false information. 44. A warehouse operator, or any officer, agent, or employee of a warehouse operator, who fraudulently issues or knowingly facilitates the fraudulent issuing of a receipt for goods based on a false statement or a false statement to the effect that the warehouse is licensed under this Act or the goods are insured if they are not so insured or fails to disclose such fact, commits an offence and is liable on conviction a fine not exceeding ten million Kenya shillings or to a term of imprisonment not exceeding ten years, or both."
     },
     {
-      "order": 302,
+      "order": 294,
       "id": "entry-883538",
       "label": "scene",
       "level": "5",
@@ -3627,7 +3531,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 303,
+      "order": 295,
       "id": "entry-883539",
       "label": "speech",
       "level": "5",
@@ -3639,7 +3543,7 @@
       "text": "Division will be at the end\n\nClause 45\n\nClause 45 of the Bill be deleted and substituted thereof with the following new clause─ Unlawful issuing of duplicate receipts. 45. A warehouse operator or any officer, agent, or employee of a warehouse operator, who issues or facilitates the issuing of a duplicate or additional negotiable receipt for goods knowing that a former negotiable receipt for the same goods or any part of them is outstanding and not cancelled, without plainly placing upon the face thereof the word \"Replacement\", commits an offence and is liable on conviction to a fine not exceeding ten million Kenya shillings or a term of imprisonment not exceeding ten years, or both."
     },
     {
-      "order": 304,
+      "order": 296,
       "id": "entry-883542",
       "label": "scene",
       "level": "5",
@@ -3651,7 +3555,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 305,
+      "order": 297,
       "id": "entry-883543",
       "label": "speech",
       "level": "5",
@@ -3663,7 +3567,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 306,
+      "order": 298,
       "id": "entry-883544-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3675,7 +3579,7 @@
       "text": "Clauses 46 to 47"
     },
     {
-      "order": 307,
+      "order": 299,
       "id": "entry-883544-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3687,7 +3591,7 @@
       "text": "(Question that Clauses 46 to 47 be part of the Bill proposed)"
     },
     {
-      "order": 308,
+      "order": 300,
       "id": "entry-883545",
       "label": "heading",
       "level": "5",
@@ -3699,7 +3603,7 @@
       "text": "Clause 48"
     },
     {
-      "order": 309,
+      "order": 301,
       "id": "entry-883546",
       "label": "speech",
       "level": "5",
@@ -3711,7 +3615,7 @@
       "text": "Clause 48 of the Bill be amended by deleting the word \"one\" and substituting therefor the word \"three\"."
     },
     {
-      "order": 310,
+      "order": 302,
       "id": "entry-883547",
       "label": "scene",
       "level": "5",
@@ -3723,7 +3627,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 311,
+      "order": 303,
       "id": "entry-883548",
       "label": "speech",
       "level": "5",
@@ -3735,7 +3639,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 312,
+      "order": 304,
       "id": "entry-883549-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3747,7 +3651,7 @@
       "text": "Clause 49"
     },
     {
-      "order": 313,
+      "order": 305,
       "id": "entry-883549-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3759,7 +3663,7 @@
       "text": "(Question that Clause 49 be part of the Bill proposed)"
     },
     {
-      "order": 314,
+      "order": 306,
       "id": "entry-883550",
       "label": "heading",
       "level": "5",
@@ -3771,7 +3675,7 @@
       "text": "Clause 50"
     },
     {
-      "order": 315,
+      "order": 307,
       "id": "entry-883551",
       "label": "speech",
       "level": "5",
@@ -3783,7 +3687,7 @@
       "text": "Clause 50 of the Bill be amended by deleting the word \"shall\" and substituting therefor the word \"may\"."
     },
     {
-      "order": 316,
+      "order": 308,
       "id": "entry-883552",
       "label": "scene",
       "level": "5",
@@ -3795,7 +3699,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 317,
+      "order": 309,
       "id": "entry-883553",
       "label": "speech",
       "level": "5",
@@ -3807,7 +3711,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 318,
+      "order": 310,
       "id": "entry-883554",
       "label": "heading",
       "level": "5",
@@ -3819,7 +3723,7 @@
       "text": "Schedule"
     },
     {
-      "order": 319,
+      "order": 311,
       "id": "entry-883555",
       "label": "speech",
       "level": "5",
@@ -3831,7 +3735,7 @@
       "text": "The Schedule to the Bill amended- (a) in paragraph 1 by deleting subparagraph (4) and substituting therefor the following new subparagraph-- (4) A meeting shall be presided over by the chairperson or in the absence of the chairperson, the members present shall appoint one of their members to preside at the meeting. (b) in paragraph (2) by deleting the word \"three\" in sub-paragraph (2) and substituting thereof with the word \"five\"."
     },
     {
-      "order": 320,
+      "order": 312,
       "id": "entry-883556",
       "label": "scene",
       "level": "5",
@@ -3843,7 +3747,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 321,
+      "order": 313,
       "id": "entry-883557",
       "label": "speech",
       "level": "5",
@@ -3855,7 +3759,7 @@
       "text": "Division will be at the end We have finished considering the amendments to the Bill. I call upon the Mover to reply."
     },
     {
-      "order": 322,
+      "order": 314,
       "id": "entry-883558",
       "label": "speech",
       "level": "5",
@@ -3867,7 +3771,7 @@
       "text": "Madam Temporary Chairperson, I beg to move that the Committee do report to the Senate its consideration of the National Assembly amendments to The Warehouse Receipts System Bill (Senate Bills No. 10 of 2017) and its rejection thereof."
     },
     {
-      "order": 323,
+      "order": 315,
       "id": "entry-883559",
       "label": "scene",
       "level": "5",
@@ -3879,7 +3783,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 324,
+      "order": 316,
       "id": "entry-883560",
       "label": "scene",
       "level": "5",
@@ -3891,7 +3795,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 325,
+      "order": 317,
       "id": "entry-883561",
       "label": "scene",
       "level": "5",
@@ -3903,7 +3807,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 326,
+      "order": 318,
       "id": "entry-883562",
       "label": "scene",
       "level": "5",
@@ -3915,7 +3819,7 @@
       "text": "[The Temporary Speaker (Sen. Halake) in the Chair]"
     },
     {
-      "order": 327,
+      "order": 319,
       "id": "entry-883563",
       "label": "speech",
       "level": "5",
@@ -3927,7 +3831,7 @@
       "text": "Proceed, Chairperson."
     },
     {
-      "order": 328,
+      "order": 320,
       "id": "entry-883564",
       "label": "speech",
       "level": "5",
@@ -3939,7 +3843,7 @@
       "text": "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered and rejected the National Assembly amendments to The Warehouse Receipts System Bill (Senate Bills No. 10 of 2017)."
     },
     {
-      "order": 329,
+      "order": 321,
       "id": "entry-883565",
       "label": "speech",
       "level": "5",
@@ -3951,7 +3855,7 @@
       "text": "Proceed, Mover."
     },
     {
-      "order": 330,
+      "order": 322,
       "id": "entry-883566",
       "label": "speech",
       "level": "5",
@@ -3963,7 +3867,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee on the said report and I ask Sen. (Rev.) Waqo to second."
     },
     {
-      "order": 331,
+      "order": 323,
       "id": "entry-883567",
       "label": "speech",
       "level": "5",
@@ -3975,7 +3879,7 @@
       "text": "Madam Temporary Speaker, I want to congratulate you and second the report."
     },
     {
-      "order": 332,
+      "order": 324,
       "id": "entry-883568",
       "label": "scene",
       "level": "5",
@@ -3987,7 +3891,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 333,
+      "order": 325,
       "id": "entry-883569",
       "label": "speech",
       "level": "5",
@@ -3999,7 +3903,7 @@
       "text": "Hon Senators, pursuant to Standing Order No.152, I recommit the Bill for Division at the Committee of the Whole."
     },
     {
-      "order": 334,
+      "order": 326,
       "id": "entry-883570",
       "label": "heading",
       "level": "1",
@@ -4011,7 +3915,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 335,
+      "order": 327,
       "id": "entry-883571",
       "label": "scene",
       "level": "1",
@@ -4023,7 +3927,7 @@
       "text": "(Order for Committee read\n\n)"
     },
     {
-      "order": 336,
+      "order": 328,
       "id": "entry-883573",
       "label": "scene",
       "level": "1",
@@ -4035,7 +3939,7 @@
       "text": "[The Temporary Speaker(Sen. Halake) left the Chair]"
     },
     {
-      "order": 337,
+      "order": 329,
       "id": "entry-883574",
       "label": "heading",
       "level": "2",
@@ -4047,7 +3951,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 338,
+      "order": 330,
       "id": "entry-883575",
       "label": "scene",
       "level": "2",
@@ -4059,7 +3963,7 @@
       "text": "[The Temporary Chairperson (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 339,
+      "order": 331,
       "id": "entry-883576",
       "label": "heading",
       "level": "3",
@@ -4071,7 +3975,7 @@
       "text": "THE WAREHOUSE RECEIPTS SYSTEM BILL (SENATE BILLS NO. 10 OF 2017)"
     },
     {
-      "order": 340,
+      "order": 332,
       "id": "entry-883577",
       "label": "scene",
       "level": "3",
@@ -4083,7 +3987,7 @@
       "text": "(Consideration of the National Assembly amendments)"
     },
     {
-      "order": 341,
+      "order": 333,
       "id": "entry-883578",
       "label": "speech",
       "level": "3",
@@ -4095,7 +3999,7 @@
       "text": "Hon. Senators, we are ready to do the Division. Kindly log in. You can now vote. Assisted voters to approach the Clerks at-the-Table."
     },
     {
-      "order": 342,
+      "order": 334,
       "id": "entry-883580",
       "label": "heading",
       "level": "6",
@@ -4107,7 +4011,7 @@
       "text": "DIVISION"
     },
     {
-      "order": 343,
+      "order": 335,
       "id": "entry-883581",
       "label": "scene",
       "level": "6",
@@ -4119,7 +4023,7 @@
       "text": "(The Division on the National Assembly amendments to the Warehouse Receipts System Bill was nullified by the Speaker. Consequently, the results of the purported voting were expunged from the record of the House proceedings by the order of the Speaker)"
     },
     {
-      "order": 344,
+      "order": 336,
       "id": "entry-883582",
       "label": "heading",
       "level": "1",
@@ -4131,7 +4035,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 345,
+      "order": 337,
       "id": "entry-883583",
       "label": "scene",
       "level": "1",
@@ -4143,7 +4047,7 @@
       "text": "(Order of the Committee read)"
     },
     {
-      "order": 346,
+      "order": 338,
       "id": "entry-883584",
       "label": "scene",
       "level": "1",
@@ -4155,7 +4059,7 @@
       "text": "[The Temporary Speaker (Sen. Halake) left the Chair]"
     },
     {
-      "order": 347,
+      "order": 339,
       "id": "entry-883585",
       "label": "heading",
       "level": "2",
@@ -4167,7 +4071,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 348,
+      "order": 340,
       "id": "entry-883586",
       "label": "scene",
       "level": "2",
@@ -4179,7 +4083,7 @@
       "text": "[The Temporary Chairperson (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 349,
+      "order": 341,
       "id": "entry-883587",
       "label": "heading",
       "level": "3",
@@ -4191,7 +4095,7 @@
       "text": "THE ASSUMPTION OF OFFICE OF THE COUNTY GOVERNOR BILL (SENATE BILLS NO.1 OF 2018)"
     },
     {
-      "order": 350,
+      "order": 342,
       "id": "entry-883588",
       "label": "scene",
       "level": "3",
@@ -4203,7 +4107,7 @@
       "text": "(Consideration of the National Assembly Amendments)"
     },
     {
-      "order": 351,
+      "order": 343,
       "id": "entry-883589",
       "label": "speech",
       "level": "3",
@@ -4215,7 +4119,7 @@
       "text": "Hon. Senators, we are moving on to consider the National Assembly amendments to The Assumption of Office of the County Governor Bill (Senate Bills No.1 of 2018)."
     },
     {
-      "order": 352,
+      "order": 344,
       "id": "entry-883590",
       "label": "heading",
       "level": "5",
@@ -4227,7 +4131,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 353,
+      "order": 345,
       "id": "entry-883591",
       "label": "speech",
       "level": "5",
@@ -4239,7 +4143,7 @@
       "text": "Madam Temporary Chairperson, I beg to move:- THAT, Clause 2 be amended by inserting the definition of the word \"county public officer\" in its proper sequence-- \"county public officer\" has the meaning assigned to it under the County Governments Act."
     },
     {
-      "order": 354,
+      "order": 346,
       "id": "entry-883592-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "5",
@@ -4251,7 +4155,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 355,
+      "order": 347,
       "id": "entry-883592-parenthesis-split-2-of-3",
       "label": "heading",
       "level": "5",
@@ -4263,7 +4167,7 @@
       "text": "Clause 3 to 4"
     },
     {
-      "order": 356,
+      "order": 348,
       "id": "entry-883592-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "5",
@@ -4275,7 +4179,7 @@
       "text": "(Question that Clauses 3 to 4 be part of the Bill proposed)"
     },
     {
-      "order": 357,
+      "order": 349,
       "id": "entry-883593",
       "label": "speech",
       "level": "5",
@@ -4287,7 +4191,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 358,
+      "order": 350,
       "id": "entry-883594",
       "label": "heading",
       "level": "5",
@@ -4299,7 +4203,7 @@
       "text": "Clause 5"
     },
     {
-      "order": 359,
+      "order": 351,
       "id": "entry-883596",
       "label": "speech",
       "level": "5",
@@ -4311,7 +4215,7 @@
       "text": "THAT, Clause 5 of the Bill be amended in sub clause 2 by inserting the following new paragraph immediately after paragraph (f)− \"(fa) a representative of the Ministry responsible for matters related to devolution;"
     },
     {
-      "order": 360,
+      "order": 352,
       "id": "entry-883597",
       "label": "scene",
       "level": "5",
@@ -4323,7 +4227,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 361,
+      "order": 353,
       "id": "entry-883598",
       "label": "speech",
       "level": "5",
@@ -4335,7 +4239,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 362,
+      "order": 354,
       "id": "entry-883599",
       "label": "heading",
       "level": "5",
@@ -4347,7 +4251,7 @@
       "text": "Clause 6"
     },
     {
-      "order": 363,
+      "order": 355,
       "id": "entry-883600",
       "label": "speech",
       "level": "5",
@@ -4359,7 +4263,7 @@
       "text": "THAT, Clause 6 of the Bill be amended in sub clause (1) by deleting the words \"to be at the service of the Governor elect\" appearing in paragraph (c) and substituting therefor the words \"for the Governor-elect.\""
     },
     {
-      "order": 364,
+      "order": 356,
       "id": "entry-883601",
       "label": "scene",
       "level": "5",
@@ -4371,7 +4275,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 365,
+      "order": 357,
       "id": "entry-883602",
       "label": "speech",
       "level": "5",
@@ -4383,7 +4287,7 @@
       "text": "Division at the end."
     },
     {
-      "order": 366,
+      "order": 358,
       "id": "entry-883603-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4395,7 +4299,7 @@
       "text": "Clauses 7 to 15"
     },
     {
-      "order": 367,
+      "order": 359,
       "id": "entry-883603-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4407,7 +4311,7 @@
       "text": "(Question that Clauses 7 to 15 be part of the Bill proposed)"
     },
     {
-      "order": 368,
+      "order": 360,
       "id": "entry-883604",
       "label": "heading",
       "level": "5",
@@ -4419,7 +4323,7 @@
       "text": "Clause 16"
     },
     {
-      "order": 369,
+      "order": 361,
       "id": "entry-883605-split-before-811c7b2c-1d7a-4789-8eaf-bbc7474df923",
       "label": "speech",
       "level": "5",
@@ -4428,34 +4332,10 @@
       "speaker": "Rose Nyamunga Ogendo",
       "speaker_title": "(The Temporary Chairperson)",
       "reviewed": true,
-      "text": "THAT, Clause 16 of the Bill be amended by-"
+      "text": "THAT, Clause 16 of the Bill be amended by-\n\n(a) renumbering the proposed clause as sub clause (1);\n\n(b) inserting the following new paragraph immediately after paragraph (b) -- \"(c) to swearing of a speaker of a county assembly who assumes office under Article 182(5) of the Constitution\"; (c) inserting the following new sub clause after the proposed clause-- \"(2) Upon nullification of an election of a county governor and a receipt ofthe notification by a relevant speaker, the speaker of a county assembly shallassume office as a governor within seven days and an election shall be held pursuant to Article 182(5) of the Constitution.\""
     },
     {
-      "order": 370,
-      "id": "entry-883605-split-selected-9b0759b4-62f8-4532-8e22-f54d4c714cde",
-      "label": "scene",
-      "level": "5",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(a) renumbering the proposed clause as sub clause (1);"
-    },
-    {
-      "order": 371,
-      "id": "entry-883605-split-after-3926d375-a1ba-430e-9ca6-dde6f6a2feba",
-      "label": "speech",
-      "level": "5",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": "(b) inserting the following new paragraph immediately after paragraph (b) -- \"(c) to swearing of a speaker of a county assembly who assumes office under Article 182(5) of the Constitution\"; (c) inserting the following new sub clause after the proposed clause-- \"(2) Upon nullification of an election of a county governor and a receipt ofthe notification by a relevant speaker, the speaker of a county assembly shallassume office as a governor within seven days and an election shall be held pursuant to Article 182(5) of the Constitution.\""
-    },
-    {
-      "order": 372,
+      "order": 362,
       "id": "entry-883606",
       "label": "scene",
       "level": "5",
@@ -4467,7 +4347,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 373,
+      "order": 363,
       "id": "entry-883607",
       "label": "speech",
       "level": "5",
@@ -4479,7 +4359,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 374,
+      "order": 364,
       "id": "entry-883608-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4491,7 +4371,7 @@
       "text": "Clauses 17 to 20"
     },
     {
-      "order": 375,
+      "order": 365,
       "id": "entry-883608-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4503,7 +4383,7 @@
       "text": "(Question that Clauses 17 to 20 be part of the Bill proposed)"
     },
     {
-      "order": 376,
+      "order": 366,
       "id": "entry-883610",
       "label": "heading",
       "level": "5",
@@ -4515,7 +4395,7 @@
       "text": "Clause 21"
     },
     {
-      "order": 377,
+      "order": 367,
       "id": "entry-883611",
       "label": "speech",
       "level": "5",
@@ -4527,7 +4407,7 @@
       "text": "THAT, Clause 21 of the Bill be amended by inserting the word \"committee\" immediately after the word \"governor\""
     },
     {
-      "order": 378,
+      "order": 368,
       "id": "entry-883612",
       "label": "scene",
       "level": "5",
@@ -4539,7 +4419,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 379,
+      "order": 369,
       "id": "entry-883613",
       "label": "speech",
       "level": "5",
@@ -4551,7 +4431,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 380,
+      "order": 370,
       "id": "entry-883614-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4563,7 +4443,7 @@
       "text": "Clauses 22"
     },
     {
-      "order": 381,
+      "order": 371,
       "id": "entry-883614-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4575,7 +4455,7 @@
       "text": "(Question that Clauses 22 be part of the Bill proposed)"
     },
     {
-      "order": 382,
+      "order": 372,
       "id": "entry-883615",
       "label": "heading",
       "level": "5",
@@ -4587,7 +4467,7 @@
       "text": "Clause 23"
     },
     {
-      "order": 383,
+      "order": 373,
       "id": "entry-883616",
       "label": "speech",
       "level": "5",
@@ -4599,7 +4479,7 @@
       "text": "THAT Clause 23 of the Bill be amended by inserting the following new subsection immediately after the proposed new subsection (1B)-- \"(1C) Where a vacancy arises as contemplated under section (1A), the speaker of a county assembly shall act as a governor and an election shall be held pursuant to Article 182(5) of the Constitution.\""
     },
     {
-      "order": 384,
+      "order": 374,
       "id": "entry-883617",
       "label": "scene",
       "level": "5",
@@ -4611,7 +4491,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 385,
+      "order": 375,
       "id": "entry-883618",
       "label": "speech",
       "level": "5",
@@ -4623,7 +4503,7 @@
       "text": "Division will be at the end. Hon. Senators, we are going for Division. I ask that the Division Bell to be rung for two minutes."
     },
     {
-      "order": 386,
+      "order": 376,
       "id": "entry-883619",
       "label": "scene",
       "level": "5",
@@ -4635,7 +4515,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 387,
+      "order": 377,
       "id": "entry-883620",
       "label": "speech",
       "level": "5",
@@ -4647,7 +4527,7 @@
       "text": "Can the door be locked and the Bars drawn?"
     },
     {
-      "order": 388,
+      "order": 378,
       "id": "entry-883621",
       "label": "scene",
       "level": "5",
@@ -4659,7 +4539,7 @@
       "text": "(The doors were locked and Bars drawn)"
     },
     {
-      "order": 389,
+      "order": 379,
       "id": "entry-883622",
       "label": "speech",
       "level": "5",
@@ -4671,7 +4551,7 @@
       "text": "Hon. Senators, you can now log in and start voting."
     },
     {
-      "order": 390,
+      "order": 380,
       "id": "entry-883623",
       "label": "scene",
       "level": "5",
@@ -4683,7 +4563,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 391,
+      "order": 381,
       "id": "entry-883624",
       "label": "heading",
       "level": "6",
@@ -4695,7 +4575,7 @@
       "text": "DIVISION"
     },
     {
-      "order": 392,
+      "order": 382,
       "id": "entry-883625",
       "label": "scene",
       "level": "6",
@@ -4707,7 +4587,7 @@
       "text": "(The Division on the National Assembly amendments to the Assumption of Office of the County Governor Bill was nullified by the Speaker. Consequently, the results of the purported voting were expunged from the record of House proceedings by the order of the Speaker)"
     },
     {
-      "order": 393,
+      "order": 383,
       "id": "entry-883627",
       "label": "speech",
       "level": "6",
@@ -4719,7 +4599,7 @@
       "text": "Next Order."
     },
     {
-      "order": 394,
+      "order": 384,
       "id": "entry-883628",
       "label": "heading",
       "level": "1",
@@ -4731,7 +4611,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 395,
+      "order": 385,
       "id": "entry-883630",
       "label": "heading",
       "level": "3",
@@ -4743,7 +4623,7 @@
       "text": "THE COUNTY STATUTORY INSTRUMENTS BILL (SENATE BILLS NO. 21 OF 2018)"
     },
     {
-      "order": 396,
+      "order": 386,
       "id": "entry-883631",
       "label": "speech",
       "level": "3",
@@ -4755,7 +4635,7 @@
       "text": "Let us have the Chairperson, Sessional Committee on Delegated Legislation, Sen. Farhiya, to move the Bill."
     },
     {
-      "order": 397,
+      "order": 387,
       "id": "entry-883632",
       "label": "speech",
       "level": "3",
@@ -4767,7 +4647,7 @@
       "text": "Thank you, Madam Temporary Speaker. I beg to move that The County Statutory Instruments Bill (Senate Bills No. 21 of 2018) be now read a Second Time. Article 185(1) and (2) of the Constitutions provides that:- \"The legislative authority of a county is vested in, and exercised by, the county assembly. (2) The county assembly may make any laws that are necessary for, or incidental to, the effective performance of the functions and exercise the powers of the county government under the Fourth Schedule.\" The important provision of Article 185 of the Constitution is that the power to make county laws vests exclusively on the county assemblies. However, it is a well- established principle in law-making that a legislature may be unable to enact a law that would be responsive to every present and future circumstances. It is in this context that the implementers of the legislation as such as the executive of an arm of Government are usually given powers to make subsidiary legislation. Madam Temporary Speaker, the legislature delegates its lawmaking powers to the executive and any other body charged with the implementation of the law. The delegation of lawmaking power, however, is coupled with the requirement that such powers must be exercised within the limits contemplated by the legislature in a principal Act. Therefore, a legislature must ensure that authority to make delegated legislation is exercised prudently by those given such powers. Currently, at the national level, the Statutory Instruments Act sets the procedure through which Parliament considers and approves statutory instruments. There is no law at the moment that provides for a similar process for county assemblies. This Bill seeks to provide procedure for considering statutory instruments by county assemblies. The salient provision of the Bill provides that all statutory instruments must be subjected to a provision that is proposed in a new law. In this respect, the Bill defines statutory instruments as:- \"A rule, order, regulation, direction, form, tariff of cost or fees, letter, patent, commission, warrant, proclamation, resolution, guideline or other statutory instrument issued, made or established in the execution of power conferred by or under an Act of county assembly under which that statutory instrument or subsidiary legislation is expressly authorised to be issued.\" Madam Temporary Speaker, the Bill requires that the statutory instrument regulation-making authority shall consult with the persons who are likely to be affected by the proposed instrument and invite members of the public to give their views within a prescribed period. The Bill requires the regulation-making authority prior to making the statutory instrument, to prepare a regulatory impact statement regarding the instrument if the proposed statutory instrument is likely to impose significant cost on the community or part of the community. In preparing the regulatory impact assessment, the regulation making authority is required to obtain independent advice as to the adequacy of the regulatory impact statement and of the assessment including in the statement in accordance with the guidelines. Madam Temporary Speaker, the Bill seeks to exempt certain types of statutory instruments from the requirement of preparation of regulatory impact assessment. These includes statutory instruments that deal with matters that are not of legislative character and do not operate to the disadvantage of any person. Enactment of statutory instrument should take into account the prevailing Kenyan legislative drafting practice in the commencement of an Act or a provision of an Act of the county assembly or subsidiary legislation. The Bill proposes that every regulation making authority shall within seven sitting days after the publication of the instrument submit a copy of the statutory instrument and explanatory memorandum to the clerk of the county assembly for tabling before the county assembly. If an instrument is not laid before the county assembly in this manner, it shall cease to have an effect immediately after the last day on which it should be laid. However, any act done under the instrument before it ceases to have an effect shall not be prejudiced. The Bill proposes that the respective county assembly committee on delegated legislation shall scrutinise the statutory instrument to consider inter alia whether it accords with the provision of the Constitution and other laws, if it imposes tax, infringes on fundamental rights and freedoms of the public, contains a matter which in the opinion of the Committee, should more properly be dealt with in an act of county assembly, involves expenditure of consolidated fund or any other public revenue, inappropriately delegates legislative power, or appears for any reason to infringe on the rule of law. Madam Temporary Speaker, the Committee is required where possible to confer with the regulation-making authority during the scrutiny of the statutory instrument. The Bill further proposes that the Committee shall table a report of its findings and the county assembly may resolve that the statutory instrument is void. In this case, the statutory instrument shall stand revoked. The regulatory authority is required to publish the revocation within 14 days. Madam Temporary Speaker, the Bill is similar to the one applicable under the National Parliament as set out in the Statutory Instrument Act. In conclusion, by enacting this Bill, the Senate will be providing a process through which instruments proposed to have a force of law within counties may be scrutinised by county assemblies. This will ensure that the statutory instrument conforms to the constitution and other written laws that are made for the purposes of ensuring effective delivery of services and maintenance of law and order in the counties. I, therefore, urge the hon. Senators to support this Bill. During our county visit, as the Senate Sessional Committee on Delegated Legislation Members, we found that quite a number of the Bills passed in most of the county assemblies have no regulations. The reasons are varied. However, one of the biggest impediments is that there is no law that is providing a framework to ensure that the county assemblies review regulations that are tabled and the procedure through which these regulations are passed. This is because the powers to make regulations are in their docket, but they have delegated that to the Executive. I beg to move and invite Sen. Faki to second. I thank you, Madam Temporary Speaker."
     },
     {
-      "order": 398,
+      "order": 388,
       "id": "entry-883646",
       "label": "speech",
       "level": "3",
@@ -4779,7 +4659,7 @@
       "text": "Asante, Bi. Spika wa Muda, kwa kunipa fursa hii kuunga mkono Mswada wa kanuni za kaunti, ama kwa Kiingereza, The County Statutory InstrumentsBill, 2018 . Mswada huu umekuja wakati mwafaka kwa sababu kaunti nyingi hazijapitisha mwongozo wa vipi watachapisha kanuni ambazo zinatumika kutekeleza sheria ambazo wanapitisha katika mabunge ya kaunti. Kwa hivyo, Mswada huu utasaidia kuwapa mwongozo zile serikali au mabunge ya kaunti kuhakikisha kwamba ni njia gani watatumia kupitisha kanuni ambazo zitatumika kutekeleza sheria zinazopitishwa. Bi. Spika wa Muda, mara nyingi mambo yote hayawekwi katika miswada ya sheria; ila ni baadhi ya mambo tu yale muhimu yanayowekwa katika miswada ya sheria. Watekelezaji wa sheria hizi au kile kitengo cha utekelezaji, yaani the executive wanapewa fursa na sheria kutunga kanuni ambazo zinasaidia kutekeleza zile sheria zilizopitishwa. Kwa hivyo, sheria hii ni kigezo muhimu cha kuendeleza na kuzipa fursa serikali za kaunti kuhakikisha kwamba wanapitisha miswada; na vile vile kwamba miswada yenyewe inapitishiwa kanuni ya kuitekeleza. Bi. Spika wa Muda, sheria hii pia inajumuisha kaunti zote katika Jamhuri ya Kenya. kwa hivyo, kila kaunti ambayo haijapitisha mwongozo kama huu itapata fursa ya kutumia mwongozo huu ili kupitisha zile kanuni ambazo wanataka kupitisha ili kuendeleza kazi zao. Mara nyingi, kanuni hizi hutumika katika kukusanya ushuru au leseni kadha wa kadha ambazo zinatumika katika serikali za kaunti. Kwa hivyo, bila kanuni hizi, inakuwa vigumu kwa serikali za kaunti kukusanya fedha za kutekeleza miradi wanayoendeleza katika kaunti zao. Bi. Spika Wa Muda, sheria hii inatoa mwongozo kwa Executive na kuwapa uwezo wa kutunga kanuni; lakini lazima kanuni zitakazotungwa ziambatane na ile sheria iliyopitishwa. Haiwezekani kwamba sheria inazungumza tofauti na kanuni ambazo zinapitishwa na wale watekelezaji zinakuwa tofauti. Kwa hivyo, sheria inatoa mwongozo kwamba lazima kanuni zote zitakazotengenezwa zilingane na ile sheria iliyopitishwa. Vile vile, Bi. Spika wa Muda, uwezo uliopewa serikali za kaunti, yaani Executive, wa kutunga kanuni kanuni hizi, sio uwezo ambao hauna vigezo. Huu ni uwezo ambao lazima utekelezwe kulingana na vile sheria inavyosema. Kwa hivyo, iwapo watakwenda kinyume na zile sheria, zile kanuni ambazo watakuwa wametengeneza hazitakuwa na maana yoyote kwa sababu zinapinga sheria ambazo ziko. Kupitisha kanuni hizi itasaidia kuyapa mabunge ya kaunti uwezo wa kuangalia ama kudhibiti uwezo wa serikali za kaunti katika kupitisha kanuni ambazo labda zinawaathiri wananchi katika eneo lile. Inasemekana kwamba sheria hii inaipa bunge la kaunti lile jukumu la kuangalia na kuangazia kazi zinazofanywa na kitengo cha utekelezaji, yaani executive kuhakikisha kwamba kanuni wanazopitisha zinaambatana na sheria. Bi. Spika wa Muda, Mswada huu pia unatoa mwongozo wa vipi zile kanuni zitatengezwa hadi ziwe sheria. Kuna kifungu ambacho kinasema kwamba lazima ichapishwe katika gazeti rasmi la Serikali, na vile vile katika magazeti rasmi ya kaunti. Vile vile, inatoa fursa kwa wananchi ama washikadau wote katika kitengo kile ambacho kimekusudiwa kwenda kutoa mwongozo au kutoa maoni yao. Kwa mfano, ikiwa wanatunga kanuni za kudhibiti biashara ya boda boda, itakuwa ni lazima watoe fursa kwa washikadau wote - waendesha boda boda na wengineo - kutoa maoni yao kulingana na kanuni zilozotungwa. Vile vile, Bi. Spika wa Muda, kanuni hizi zinazotungwa lazima zipelekwe katika bunge la kaunti ili zichunguzwe kabla ya kupitishwa. Kwa hivyo, hiyo pia inatoa fursa ya kuhakikisha kwamba kanuni zile zinazotungwa na utekelezaji wake zinaambatana na sheria, na zimepitishwa na bunge la kaunti ile. Bi. Spika wa Muda, Mswada huu pia unatoa mwongozo kwamba kanuni zitakazopitishwa zitabatilishwa baada ya miaka kumi kutoka ile tarehe ambayo zimepitishwa. Tunaona kwamba kaunti nyingi zina kanuni za kutoka wakati wa Mwingereza. Kanuni zile zimetumika kutoka wakati wa Serikali ya ukoloni. Ukiangalia katika kaunti nyingi, kanuni zote zinazohusiana na ujenzi wa majumba zilitengezwa wakati wa ukoloni. Kwa hivyo, sheria hii inatoa mwongozo kwamba zile kanuni zinakufa baada ya kila miaka kumi. Pia, sheria hii inapendekeza kwamba zikifa, lazima aidha ziongezewe muda, na muda utakaoongezwa hautazidi miezi kumi na miwili; ama kanuni zingine mpya zipitishwe kuhakikisha kwamba zinaambatana na sheria. Vile vile, kama zitaongezwa kwa muhula wa miezi kumi na miwili, itakuwa zinaweza kuongezwa mara moja peke yake. Kifungu cha 18(4), kinasema kwamba muda unaweza kuongezwa. Yaani muda wa miaka kumi unapokwisha, inaweza kuongezwa muda wa mwaka mmoja peke yake, wala sio zaidi ya hapo. Kwa hivyo, hiyo ni sheria nzuri ambayo lazima tuiunge mkono. Swala lingine, Bi. Spika wa Muda, ni kwamba Kifungu cha 16 kinasema kwamba lazima kila kanuni itakayopitishwa na kukubaliwa iwekwe katika gazeti rasmi la Serikali, yaani Kenya Gazette na vile vile county gazette . Pia, lazima zipewe namba maalum; kwa mfano, No.001/1/2019. Huo ni mfano wa zile namba zitakazopeanwa katika hizi kanuni za kaunti ili ziwe rahisi kuzipambanua zinahusiana na jambo lipi, na ile inahusiana na jambo lipi. Vile vile, sheria hii inasema kwamba kama kunatengenezwa kanuni fulani kuhusiana na swala fulani; kwa mfano, iwapo wanatengeneza kanuni kuhusiana na swala la kahawa, kanuni zile zitahusika na kahawa peke yake na hazitatumika kudhibiti maswala ya boda boda ama mambo mengine ambayo yanaweza kutokea. Kwa hivyo kila kanuni itakayotengezwa inahusisha sehemu fulani tu ya lile swala ambalo linadhibitiwa. Bi. Spika wa Muda, kusema ukweli Mswada huu umekuja wakati mwafaka, na ni lazima tuunge mkono kwa sababu ni njia moja ya kusaidia serikali za kaunti kuweza kupata mapato ya kusaidia kuendesha kazi zao. Vile vile, kanuni ambazo zitaleta maswala ya kifedha - yaani zinazipa serikali za kaunti fursa ya kukusanya kodi - ni lazima ziwe na kodi maalum; kodi ya chini na juu. Kwa Kizungu yaani ni minimum na maximum charges ambazo zitakuwa zinalipishwa. Kwa hivyo, Bi. Spika wa Muda, Mswada huu ni mzuri sana, na umeletwa wakati mwafaka ambapo mabunge mengi ya kaunti hayana sheria kama hii. Nawaomba ndugu zangu, Maseneta wote, waunge mkono Mswada huu kwa sababu utaleta manufaa Zaidi kwa serikali zetu za kaunti. Asante, Bi. Spika wa Muda."
     },
     {
-      "order": 399,
+      "order": 389,
       "id": "entry-883661",
       "label": "scene",
       "level": "3",
@@ -4791,7 +4671,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 400,
+      "order": 390,
       "id": "entry-883662",
       "label": "speech",
       "level": "3",
@@ -4803,7 +4683,7 @@
       "text": "Madam Temporary Speaker, pursuant to Standing Order No.105, I beg to move that the debate on the current Bill be now adjourned."
     },
     {
-      "order": 401,
+      "order": 391,
       "id": "entry-883663",
       "label": "speech",
       "level": "3",
@@ -4815,7 +4695,7 @@
       "text": "Madam Temporary Speaker, I beg to second."
     },
     {
-      "order": 402,
+      "order": 392,
       "id": "entry-883664",
       "label": "scene",
       "level": "3",
@@ -4827,7 +4707,7 @@
       "text": "(Question, that debate on the Bill be adjourned, proposed)"
     },
     {
-      "order": 403,
+      "order": 393,
       "id": "entry-883665",
       "label": "scene",
       "level": "3",
@@ -4839,7 +4719,7 @@
       "text": "(Question, that debate on the Bill be adjourned, put and agreed to)"
     },
     {
-      "order": 404,
+      "order": 394,
       "id": "entry-883666",
       "label": "speech",
       "level": "3",
@@ -4851,7 +4731,7 @@
       "text": "Let us go to the next Order."
     },
     {
-      "order": 405,
+      "order": 395,
       "id": "entry-883667",
       "label": "heading",
       "level": "1",
@@ -4863,7 +4743,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 406,
+      "order": 396,
       "id": "entry-883668",
       "label": "heading",
       "level": "3",
@@ -4875,7 +4755,7 @@
       "text": "THE COUNTY OVERSIGHT AND ACCOUNTABILITY BILL (SENATE BILLS NO.28 OF 2018)"
     },
     {
-      "order": 407,
+      "order": 397,
       "id": "entry-883669",
       "label": "speech",
       "level": "3",
@@ -4887,7 +4767,7 @@
       "text": "Since the Sponsor of the Bill is not here, this is deferred."
     },
     {
-      "order": 408,
+      "order": 398,
       "id": "entry-883670",
       "label": "scene",
       "level": "3",
@@ -4899,7 +4779,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 409,
+      "order": 399,
       "id": "entry-883671",
       "label": "speech",
       "level": "3",
@@ -4911,7 +4791,7 @@
       "text": "Next!"
     },
     {
-      "order": 410,
+      "order": 400,
       "id": "entry-883672",
       "label": "heading",
       "level": "1",
@@ -4923,7 +4803,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 411,
+      "order": 401,
       "id": "entry-883673",
       "label": "heading",
       "level": "3",
@@ -4935,7 +4815,7 @@
       "text": "THE DETERMINATION OF THE NATURE OF BILLS (PROCEDURE) BILL (SENATE BILLS NO.30 OF 2018)"
     },
     {
-      "order": 412,
+      "order": 402,
       "id": "entry-883674",
       "label": "speech",
       "level": "3",
@@ -4947,7 +4827,7 @@
       "text": "Once again, Hon. Senators, since the sponsors are not here, this is also deferred."
     },
     {
-      "order": 413,
+      "order": 403,
       "id": "entry-883675",
       "label": "scene",
       "level": "3",
@@ -4959,7 +4839,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 414,
+      "order": 404,
       "id": "entry-883677",
       "label": "speech",
       "level": "3",
@@ -4971,7 +4851,7 @@
       "text": "Let us move to the next Order."
     },
     {
-      "order": 415,
+      "order": 405,
       "id": "entry-883678",
       "label": "heading",
       "level": "1",
@@ -4983,7 +4863,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 416,
+      "order": 406,
       "id": "entry-883679",
       "label": "heading",
       "level": "3",
@@ -4995,7 +4875,7 @@
       "text": "THE NATURAL RESOURCES (BENEFIT SHARING) BILL (SENATE BILLS NO.31 OF 2018)"
     },
     {
-      "order": 417,
+      "order": 407,
       "id": "entry-883680",
       "label": "speech",
       "level": "3",
@@ -5007,7 +4887,7 @@
       "text": "The sponsor of the Bill is not here. Therefore, this is also deferred."
     },
     {
-      "order": 418,
+      "order": 408,
       "id": "entry-883681",
       "label": "scene",
       "level": "3",
@@ -5019,7 +4899,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 419,
+      "order": 409,
       "id": "entry-883682",
       "label": "speech",
       "level": "3",
@@ -5031,7 +4911,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 420,
+      "order": 410,
       "id": "entry-883683",
       "label": "heading",
       "level": "1",
@@ -5043,7 +4923,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 421,
+      "order": 411,
       "id": "entry-883684",
       "label": "heading",
       "level": "3",
@@ -5055,7 +4935,7 @@
       "text": "THE MENTAL HEALTH (AMENDMENT) BILL (SENATE BILLS NO.32 OF 2018)"
     },
     {
-      "order": 422,
+      "order": 412,
       "id": "entry-883685",
       "label": "speech",
       "level": "3",
@@ -5067,7 +4947,7 @@
       "text": "Again, the sponsor of the Bill is not here. We will have this deferred as well."
     },
     {
-      "order": 423,
+      "order": 413,
       "id": "entry-883686",
       "label": "scene",
       "level": "3",
@@ -5079,7 +4959,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 424,
+      "order": 414,
       "id": "entry-883687",
       "label": "speech",
       "level": "3",
@@ -5091,7 +4971,7 @@
       "text": "Let us move to the next Order."
     },
     {
-      "order": 425,
+      "order": 415,
       "id": "entry-883688",
       "label": "heading",
       "level": "1",
@@ -5103,7 +4983,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 426,
+      "order": 416,
       "id": "entry-883689",
       "label": "heading",
       "level": "3",
@@ -5115,7 +4995,7 @@
       "text": "THE ELECTION LAWS (AMENDMENT) BILL (SENATE BILLS NO.33 OF 2018)"
     },
     {
-      "order": 427,
+      "order": 417,
       "id": "entry-883690",
       "label": "speech",
       "level": "3",
@@ -5127,7 +5007,7 @@
       "text": "I cannot see the sponsor of the Bill. So, we will defer this as well."
     },
     {
-      "order": 428,
+      "order": 418,
       "id": "entry-883691",
       "label": "scene",
       "level": "3",
@@ -5139,7 +5019,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 429,
+      "order": 419,
       "id": "entry-883692",
       "label": "speech",
       "level": "3",
@@ -5151,7 +5031,7 @@
       "text": "Let us go to the next Order."
     },
     {
-      "order": 430,
+      "order": 420,
       "id": "entry-883693",
       "label": "heading",
       "level": "1",
@@ -5163,7 +5043,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 431,
+      "order": 421,
       "id": "entry-883694",
       "label": "heading",
       "level": "3",
@@ -5175,7 +5055,7 @@
       "text": "THE COUNTY WARDS (EQUITABLE DEVELOPMENT) BILL (SENATE BILLS NO.34 OF 2018)"
     },
     {
-      "order": 432,
+      "order": 422,
       "id": "entry-883696",
       "label": "speech",
       "level": "3",
@@ -5187,7 +5067,7 @@
       "text": "The Chairperson of the Standing Committee on Finance and Budget is not here. We will have to defer this one also."
     },
     {
-      "order": 433,
+      "order": 423,
       "id": "entry-883697",
       "label": "scene",
       "level": "3",
@@ -5199,7 +5079,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 434,
+      "order": 424,
       "id": "entry-883698",
       "label": "speech",
       "level": "3",
@@ -5211,7 +5091,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 435,
+      "order": 425,
       "id": "entry-883699",
       "label": "heading",
       "level": "1",
@@ -5223,7 +5103,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 436,
+      "order": 426,
       "id": "entry-883700",
       "label": "heading",
       "level": "3",
@@ -5235,7 +5115,7 @@
       "text": "THE TEA BILL (SENATE BILLS NO.36 OF 2018)"
     },
     {
-      "order": 437,
+      "order": 427,
       "id": "entry-883701",
       "label": "speech",
       "level": "3",
@@ -5247,7 +5127,7 @@
       "text": "Since the sponsor of the Bill is not in the House, this is also deferred."
     },
     {
-      "order": 438,
+      "order": 428,
       "id": "entry-883702",
       "label": "scene",
       "level": "3",
@@ -5259,7 +5139,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 439,
+      "order": 429,
       "id": "entry-883703",
       "label": "heading",
       "level": "1",
@@ -5271,7 +5151,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 440,
+      "order": 430,
       "id": "entry-883704",
       "label": "speech",
       "level": "1",

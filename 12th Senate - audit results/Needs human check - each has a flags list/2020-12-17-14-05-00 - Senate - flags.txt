@@ -1,4 +1,4 @@
-2020-12-17-14-05-00 - Senate: 12 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+2020-12-17-14-05-00 - Senate: 13 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
 
 1. block 523 [speech]
    Couldn't find this text in the PDF. Check it against the PDF.
@@ -49,4 +49,8 @@ I want ...". May need a split.
 12. block 1244, PDF p.119 [speech | Mr. Ndegwa Njiru]
    PDF shows a new speaker ('The Speaker (Hon. Lusaka)') starting inside this block: "Order! Do not just plough through. Make sure your people are...". May need a split.
    Text: "Thank you, Mr. Speaker, Sir. My name again is Mr. Ndegwa Njiru. We want to thank you for the opportunity you h"
+
+13. block 1356 [scene]
+   A numbered item of a motion/list was split out as a scene; the block before it is a heading ('WHEREAS,'). It should go back into the speech: combine it with its neighbours and check that block.
+   Text: "(1)Gross Violation of the Constitution or any other law;"
 

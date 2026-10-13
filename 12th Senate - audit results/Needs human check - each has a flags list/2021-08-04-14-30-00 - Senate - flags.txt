@@ -1,5 +1,9 @@
-2021-08-04-14-30-00 - Senate: 1 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
+2021-08-04-14-30-00 - Senate: 2 to check. Flagged blocks are left unreviewed, so 'Go to first unreviewed' in the tool steps through them.
 
-1. blocks 1, 16, 19, 22, 29, 35, 40, 44, 52, 55, 59, 65, 70, 74, 76, 85, 94, 100, 104, 108, 111, 115, 121, 126, 129, 133, 137, 141, 153, 163, 166, 173, 177, 181, 187, 191, 193, 197, 202, 206, 210, 214, 224, 228, 234, 237, 241, 248, 261, 268, 279, 285, 289, 297, 302, 311, 313, 315, 317
+1. blocks 1, 16, 19, 22, 29, 35, 40, 44, 50, 53, 57, 63, 68, 72, 74, 83, 92, 98, 102, 106, 109, 113, 119, 124, 127, 131, 135, 139, 151, 161, 164, 171, 175, 179, 185, 189, 191, 195, 200, 204, 208, 212, 222, 226, 232, 235, 239, 246, 259, 266, 277, 283, 287, 295, 300, 309, 311, 313, 315
    59 page markers ('Page N of <date>') the cleaner missed were marked deleted. Where the speech blocks just above and below one of them are the same speech, combine them.
+
+2. block 51 [scene]
+   A numbered item of a motion/list was split out as a scene; the block before it is a deleted ('Page 9 of Wednesday, 4thAugust'). It should go back into the speech: combine it with its neighbours and check that block.
+   Text: "(z) Pan African Wildlife Conservation Network"
 

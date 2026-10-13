@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-09-29-14-30-00",
-  "exported_at": "2026-10-05T08:10:07.476Z",
+  "exported_at": "2026-10-13T17:33:57.780Z",
   "entries": [
     {
       "order": 1,
@@ -2268,178 +2268,10 @@
       "speaker": "(v) Committee on Finance and Budget",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. (Prof.) Samson Ongeri, EGH, MP to replace Sen. (Dr.) Ochillo Ayacko, EGH, MP. (vi) Committee on Information, Communication and Technology"
+      "text": "Sen. (Prof.) Samson Ongeri, EGH, MP to replace Sen. (Dr.) Ochillo Ayacko, EGH, MP. (vi) Committee on Information, Communication and Technology\n\n(i) Sen. Samuel Poghisio, EGH, MP to replace Sen. Gideon Moi,\n\nCBS, MP;\n\n(ii) Sen. (Eng.) Mahamud, Mohamed Maalim, CBS, MP to replace\n\nSen. Susan Kihika, MP; (iii)Sen. Moses Kajwang', MP to replace Sen. Petronilla Were Lokorio, MP; and\n\n(iv) Sen. (Dr.) Gertrude Musuruve Inimah, MP to replace Sen. Mercy\n\nChebeni, MP. (vii) Committee on Justice, Legal Affairs and Human Rights Sen. (Eng.) Ephraim Maina, EBS, MP to serve as a Member. (viii) Committee on Labour and Social Welfare 1. Sen. Ledama Olekina, MP to replace Sen. Johnes Mwaruma, MP; and 2. Sen. Philip Salau Mpaayei, MP to replace Sen. Paul Mwangi Githiomi, MP. (ix) Committee on Land, Environment and Natural Resources Sen. (Dr.) Alice Milgo, MP to replace Sen. Ndwiga Peter Njeru, MP; and further that Sen. Gideon Moi, CBS, MP ceases being a Member of the Committee. (x) Committee on National Cohesion, Equal Opportunity andRegional Integration 1. Sen. Abshiro Halake, MP to replace Sen. (Dr.) Christopher Andrew Lang'at, MP; and 2. Sen. (Dr.) Ochillo Ayacko, EGH, MP to replace Sen. (Dr.) Gertrude Musuruve Inimah, MP. (xi) Committee on National Security, Defence and ForeignRelations\n\n(1) Sen. Gideon Moi, CBS, MP to replace Sen. (Eng.) Mahamud,\n\nMohamed Maalim, CBS, MP; and\n\n(2) Sen. Paul Mwangi Githiomi, MP to serve as a Member.\n\n(xii) Committee on Tourism, Trade and Industrialization\n\n(1) Sen. Aaron Cheruiyot, MP to replace Sen. Philip Mpaayei, MP; (2) Sen. (Prof.) Imana Malachy Charles Ekal, MP to replace Sen. (Dr.)\n\nAgnes Zani, CBS MP; and\n\n(3) Sen. Petronilla Were Lokorio, MP, to replace Sen. Mercy Chebeni,\n\nMP."
     },
     {
       "order": 190,
-      "id": "entry-1106678-split-selected-8559149b-11f3-40fe-b2d9-44b512dcbfe1",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(i) Sen. Samuel Poghisio, EGH, MP to replace Sen. Gideon Moi,"
-    },
-    {
-      "order": 191,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-before-967bb840-4d48-4bf1-a6e8-61bc561c9314",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(v) Committee on Finance and Budget",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "CBS, MP;"
-    },
-    {
-      "order": 192,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-selected-a58d8654-012e-40c2-ade9-7799ef0c3051",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(ii) Sen. (Eng.) Mahamud, Mohamed Maalim, CBS, MP to replace"
-    },
-    {
-      "order": 193,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-after-8d5dac78-fcca-448c-a391-d0851735e02c-split-before-86b89eba-04c4-4af8-bb5c-82c3c24750f0",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(v) Committee on Finance and Budget",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Sen. Susan Kihika, MP; (iii)Sen. Moses Kajwang', MP to replace Sen. Petronilla Were Lokorio, MP; and"
-    },
-    {
-      "order": 194,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-after-8d5dac78-fcca-448c-a391-d0851735e02c-split-selected-0eb11ef1-23fb-4622-a169-8e023a630e3e",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(iv) Sen. (Dr.) Gertrude Musuruve Inimah, MP to replace Sen. Mercy"
-    },
-    {
-      "order": 195,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-after-8d5dac78-fcca-448c-a391-d0851735e02c-split-after-17cfb5af-af68-410f-bd1a-b351fab3d650-split-before-65a11d08-55c3-401e-af6f-c8cdb0f95b39",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(v) Committee on Finance and Budget",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Chebeni, MP. (vii) Committee on Justice, Legal Affairs and Human Rights Sen. (Eng.) Ephraim Maina, EBS, MP to serve as a Member. (viii) Committee on Labour and Social Welfare 1. Sen. Ledama Olekina, MP to replace Sen. Johnes Mwaruma, MP; and 2. Sen. Philip Salau Mpaayei, MP to replace Sen. Paul Mwangi Githiomi, MP. (ix) Committee on Land, Environment and Natural Resources Sen. (Dr.) Alice Milgo, MP to replace Sen. Ndwiga Peter Njeru, MP; and further that Sen. Gideon Moi, CBS, MP ceases being a Member of the Committee. (x) Committee on National Cohesion, Equal Opportunity andRegional Integration 1. Sen. Abshiro Halake, MP to replace Sen. (Dr.) Christopher Andrew Lang'at, MP; and 2. Sen. (Dr.) Ochillo Ayacko, EGH, MP to replace Sen. (Dr.) Gertrude Musuruve Inimah, MP. (xi) Committee on National Security, Defence and ForeignRelations"
-    },
-    {
-      "order": 196,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-after-8d5dac78-fcca-448c-a391-d0851735e02c-split-after-17cfb5af-af68-410f-bd1a-b351fab3d650-split-selected-7c64a2fa-0b23-4f67-bd98-17f339e22340",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(1) Sen. Gideon Moi, CBS, MP to replace Sen. (Eng.) Mahamud,"
-    },
-    {
-      "order": 197,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-after-8d5dac78-fcca-448c-a391-d0851735e02c-split-after-17cfb5af-af68-410f-bd1a-b351fab3d650-split-after-1e6e8dc6-b697-4fa5-8a3d-10d4cbfb7210-split-before-cf2879a0-b4c0-44bf-9013-714acff52617",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(v) Committee on Finance and Budget",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Mohamed Maalim, CBS, MP; and"
-    },
-    {
-      "order": 198,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-after-8d5dac78-fcca-448c-a391-d0851735e02c-split-after-17cfb5af-af68-410f-bd1a-b351fab3d650-split-after-1e6e8dc6-b697-4fa5-8a3d-10d4cbfb7210-split-selected-5faba3d2-0ffb-40a5-ad33-add8a87c773b",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(2) Sen. Paul Mwangi Githiomi, MP to serve as a Member."
-    },
-    {
-      "order": 199,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-after-8d5dac78-fcca-448c-a391-d0851735e02c-split-after-17cfb5af-af68-410f-bd1a-b351fab3d650-split-after-1e6e8dc6-b697-4fa5-8a3d-10d4cbfb7210-split-after-30feb3a8-d186-40b5-8b15-3e5b607611c3-split-before-37fb287d-c85b-48dc-8950-622832a583dd",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(v) Committee on Finance and Budget",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(xii) Committee on Tourism, Trade and Industrialization"
-    },
-    {
-      "order": 200,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-after-8d5dac78-fcca-448c-a391-d0851735e02c-split-after-17cfb5af-af68-410f-bd1a-b351fab3d650-split-after-1e6e8dc6-b697-4fa5-8a3d-10d4cbfb7210-split-after-30feb3a8-d186-40b5-8b15-3e5b607611c3-split-selected-32593e00-986e-4e32-992c-2018a2d93169",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(1) Sen. Aaron Cheruiyot, MP to replace Sen. Philip Mpaayei, MP; (2) Sen. (Prof.) Imana Malachy Charles Ekal, MP to replace Sen. (Dr.)"
-    },
-    {
-      "order": 201,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-after-8d5dac78-fcca-448c-a391-d0851735e02c-split-after-17cfb5af-af68-410f-bd1a-b351fab3d650-split-after-1e6e8dc6-b697-4fa5-8a3d-10d4cbfb7210-split-after-30feb3a8-d186-40b5-8b15-3e5b607611c3-split-after-f88b541e-7ff4-4a17-8003-67a6e90bcb65-split-before-eee982cd-de88-41a7-aef3-09457289d746",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(v) Committee on Finance and Budget",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Agnes Zani, CBS MP; and"
-    },
-    {
-      "order": 202,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-after-8d5dac78-fcca-448c-a391-d0851735e02c-split-after-17cfb5af-af68-410f-bd1a-b351fab3d650-split-after-1e6e8dc6-b697-4fa5-8a3d-10d4cbfb7210-split-after-30feb3a8-d186-40b5-8b15-3e5b607611c3-split-after-f88b541e-7ff4-4a17-8003-67a6e90bcb65-split-selected-fdbf67b7-9a15-4219-b20f-737e548adaee",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(3) Sen. Petronilla Were Lokorio, MP, to replace Sen. Mercy Chebeni,"
-    },
-    {
-      "order": 203,
-      "id": "entry-1106678-split-after-3631bb82-599a-47b8-86ac-df3c26f58555-split-after-8d5dac78-fcca-448c-a391-d0851735e02c-split-after-17cfb5af-af68-410f-bd1a-b351fab3d650-split-after-1e6e8dc6-b697-4fa5-8a3d-10d4cbfb7210-split-after-30feb3a8-d186-40b5-8b15-3e5b607611c3-split-after-f88b541e-7ff4-4a17-8003-67a6e90bcb65-split-after-c3ca2df8-b4df-43fc-a626-3f21587bdcfa",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(v) Committee on Finance and Budget",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "MP."
-    },
-    {
-      "order": 204,
       "id": "entry-1106694",
       "label": "scene",
       "level": "3",
@@ -2451,7 +2283,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 205,
+      "order": 191,
       "id": "entry-1106695",
       "label": "heading",
       "level": "1",
@@ -2463,7 +2295,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 206,
+      "order": 192,
       "id": "entry-1106697",
       "label": "heading",
       "level": "3",
@@ -2475,7 +2307,7 @@
       "text": "THE DISASTER RISK MANAGEMENT BILL (SENATE BILLS NO. 14 OF 2021)"
     },
     {
-      "order": 207,
+      "order": 193,
       "id": "entry-1106698",
       "label": "scene",
       "level": "3",
@@ -2487,7 +2319,7 @@
       "text": "(Sen. Sakaja on 16.9.2021)"
     },
     {
-      "order": 208,
+      "order": 194,
       "id": "entry-1106699",
       "label": "scene",
       "level": "3",
@@ -2499,7 +2331,7 @@
       "text": "(Resumption of Debate interrupted on 23.9.2021)"
     },
     {
-      "order": 209,
+      "order": 195,
       "id": "entry-1106700",
       "label": "speech",
       "level": "3",
@@ -2511,7 +2343,7 @@
       "text": "Sen. Orengo was on the Floor and had a balance of 51 minutes. Sen. Orengo, proceed."
     },
     {
-      "order": 210,
+      "order": 196,
       "id": "entry-1106701",
       "label": "scene",
       "level": "3",
@@ -2523,7 +2355,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 211,
+      "order": 197,
       "id": "entry-1106703",
       "label": "speech",
       "level": "3",
@@ -2535,7 +2367,7 @@
       "text": "Mr. Temporary Speaker, Sir, then, I better not even start."
     },
     {
-      "order": 212,
+      "order": 198,
       "id": "entry-1106704",
       "label": "scene",
       "level": "3",
@@ -2547,7 +2379,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 213,
+      "order": 199,
       "id": "entry-1106705",
       "label": "speech",
       "level": "3",
@@ -2559,7 +2391,7 @@
       "text": "I will be very brief. I want the Mover to have some time, at least today, to reply. Now that I will not really have time to go to the body of the Statute or Bill, I am happy to say that looking at the kind of disasters that we tend to have--- There are natural, manmade or hybrid disasters, which willy-nilly are sometimes tough to eliminate. There is need all the time for proper planning for disaster management to reduce its impact on our lives as well as our properties. Mr. Temporary Speaker, Sir, looking at the Bill, both from the point of view that for a proper disaster management to be put into effect, planning is required. It is required in the sense that there should be preparation, which requires the Government, the people and civic bodies to be always prepared to meet disasters. They must have knowledge about what to do when a disaster happens. There is need for preparedness if you read the Bill properly. This is one of the things that the Bill is trying to do, not only in terms of planning, but also being prepared. Then, there is the question of how we respond to disasters beginning with first responders and subsequently dealing substantively with the responses, which involves search and rescue. Mr. Temporary Speaker, Sir, there is also making available all human needs that would normally include food, shelter and medical assistance. If you look again at the Bill, it adequately answers the question of how we plan responses. Of courses, planning responses without assets and resources is also quite difficult. You have to plan how you make recovery. This may involve several management circles. There is prevention, mitigation, preparedness, and as I have said, response, recovery and reconstruction. I am saying this because I had tried to analyse the Bill on the basis of these broad principles and whether the Bill contains the necessary structures that can answer to planning needs and actual management needs in undertaking recovery, rescue or reconstruction. Mr. Temporary Speaker, Sir, I commend this Bill to the House and, again, commend Sen. Mutula Kilonzo Jnr. and Sen. Sakaja for bringing this Bill. It is happening at a time when these natural disasters off the Coast of Africa, the Canary Islands, there is a huge disaster. Even a First World country like Spain finds it difficult to deal with that kind of disaster. We must always be having adequate plans, resources and assets to manage not only the risks, but also save lives and property. I support."
     },
     {
-      "order": 214,
+      "order": 200,
       "id": "entry-1106707",
       "label": "speech",
       "level": "3",
@@ -2571,7 +2403,7 @@
       "text": "Hon. Senators, there are no more requests. I, therefore, call upon the Mover to reply. Sen. Sakaja, proceed."
     },
     {
-      "order": 215,
+      "order": 201,
       "id": "entry-1106708",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2415,7 @@
       "text": "Thank you very Mr., Temporary Speaker, Sir and all the Members who have contributed to this important Bill. Due to great demand, I would like to ask for your indulgence, as you have done before for me, to donate just five minutes out of my time to Sen. Cherargei to give comparative. He went to Brazil with Sen. Mutula Kilonzo Jnr. to look at how they deal with disasters. Then, I shall conclude in three minutes. Thank you."
     },
     {
-      "order": 216,
+      "order": 202,
       "id": "entry-1106711",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2427,7 @@
       "text": "Sen. Cherargei, proceed."
     },
     {
-      "order": 217,
+      "order": 203,
       "id": "entry-1106712",
       "label": "speech",
       "level": "3",
@@ -2607,7 +2439,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I congratulate Sen. Mutula Kilonzo Jnr. and Sen. Sakaja for this wonderful Bill. I think for Sen. Mutula Kilonzo Jnr., we were together in investigation of the disaster in Solai Dam. He was the Vice Chairperson of the Committee on National Security, Defence and Foreign Relations then. Later we organised a Joint Committee to Brazil together with the Committee on National Security, Defence and Foreign Relations. We were with Sen. Mutula Kilonzo Jnr. I know that as one of the drafters of this Bill, he has hands-on experience. We did a visit to what we call the Brumadinho Dam collapse that happened in the State of Minas Gerais in Brazil. Mr. Temporary Speaker, Sir, one things that we observed is that the response and effectiveness of response to disaster in Brazil is top-notch. I am happy this law has captured that. They have what we call National Centre for Risk and Disaster Management. That system works that if there is a disaster in Samburu County, within seconds, it will be known at the command centre, for example, Nairobi. There is also national system of protection and civil defence. This is a multi-disciplinary agency where there is a proper coordination from bomberos, civil defence, police and municipalities. The third point I want to make is that the response of disaster mitigation is normally done in three phases in Brazil. It is done through municipalities, federal and then state. There is a well organised way of responding to disasters in Brazil. Finally, which I have seen Sen. Sakaja and Sen. Mutula Kilonzo Jnr. have captured is on the issue of funding. At least this Bill tries to organise donations. In Brazil, they have what they call National Fund for Civil Disaster on Recovering (NFDR). We were able to learn in Brazil that they have a national fund to ensure there is an orderly way of donations in terms of response. Mr. Temporary Speaker, Sir, we learnt a lot. I have read Sen. Sakaja's Bill although time is fast spent. I am happy with what we saw in comparative analysis between Brazil and the Bill we are having before us. If we implement to the lettter, I can tell you it will change how we handle disasters. Brazil has other good things, but I would not want to mention today, maybe in the future. Thank you."
     },
     {
-      "order": 218,
+      "order": 204,
       "id": "entry-1106713",
       "label": "speech",
       "level": "3",
@@ -2619,7 +2451,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, and Sen. Cherargei. I will give Sen. Olekina four minutes."
     },
     {
-      "order": 219,
+      "order": 205,
       "id": "entry-1106714",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2463,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. Let me thank the two distinguished Senators. The Senator from the city, Sen. Sakaja and Sen. Mutula Kilonzo Jnr. for actually thinking about something that should have been done long time ago. When we served with these two distinguished gentlemen, in the ad hoc Committee on Solai Dam Tragedy, we came face to face with what the effect of disaster would really have in this country. There is no point of spending money to do other Government projects instead of putting that money aside to fund disaster management. Today we are told that about Kshs15 billion of the Petroleum Development Levy Fund (PDLF) has been used to fund other government projects instead of cushioning Kenyans. Mr. Temporary Speaker, Sir, what we need and I am happy about this Bill is that we should have one command centre from the national Government all the way down to the county governments. Since we are talking about devolution and we are fighting to send more money to devolved structures, every county should now have a fire brigade centre all directed from the national level. If you have one command centre, you are able to respond quickly. However, the way we have it now where it is scattered all across, it becomes very difficult to manage. This is a Bill which we should not even think twice before we pass it. We should pass it and immediately not even waste a lot of time in terms of public participation. This is what Kenyans really want. For Third Reading, we pass it and hopefully the Members of the National Assembly will also see the importance of it. Mr. Temporary Speaker, Sir, last week, three schools were set ablaze. In fact, if we had this Bill in place and had one command centre, we would respond. There is a lady who works with National Hospital Insurance Fund (NHIF) and her name is Judy. Judy at 3.00 a.m. was called and told that there are children in trouble in Jericho and they needed support to be taken to hospital. If we have this Bill and these structures in place, we will resolve. If we have one command centre, we can ensure that we do not have these challenges. Lastly because of time and I thank Sen. Sakaja for the four minutes. If you thing about the Division of Revenue Bill and the money that we allocated to Managed Equipment Services (MES) and where we fought back and forth, it is a lot. This was money which was set aside to resolve problems that we have in hospitals although that money was not spent the way it was supposed to be spent. Mr. Temporary Speaker, Sir, if we can be bright and caring enough to be setting money aside from the Division of Revenue Bill to support this disaster management fund through this Bill. It can also help us. I think Commission on Revenue Allocation (CRA) need to keep an eye and watch our deliberation in the Senate. I am very grateful for what happened today. That earlier on when we raised the Statement about the influx of the foreigners into this country, the Government acted promptly. We want to see that issue of action moving very fast. Thank you, Mr. Temporary Speaker, Sir, and thank you, Sen. Sakaja."
     },
     {
-      "order": 220,
+      "order": 206,
       "id": "entry-1106717",
       "label": "speech",
       "level": "3",
@@ -2643,7 +2475,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. Thank you very much Sen. Olekina and Sen. Cherargei. I also thank Sen. Were who gave very good contributions. Sen. Orengo as well had a lot to say and many who wanted to speak had a lot to say. I know Sen. Halake wanted to contribute to this, but we really need to put the question tomorrow or the next available opportunity. I also thank Sen. Kang'ata. He spoke to this Bill and a number of reservations, but we were able to clarify. The biggest fear because he claims to be almost a Republican, he does not like big Government. He thought we were creating a new agency. I was able to clarify that what we are doing is not creating a new agency, but bringing together the uncoordinated multiple agencies where the left hand does not know what the right hand is doing. Mr. Temporary Speaker, Sir, we have the National Disaster Management Unit (NDMU), National Disaster Operations Centre (NDOC) and the Department of Special Programmes where it depends on who you know before you can get assistance to your people. Now all of those agencies are coming together to become the National Disaster Management Authority (NDMA) where we will have coordination. Today most Kenyans do not know who to call when there is a disaster. Those who they call do not know what to do in response. In a nutshell, that is what we are trying to do and to prevent early warning signals. For the recurring areas, how do you do mitigation and training? If there was a terrorist attack today, God forbid, in this city centre, even we, in the Senate, do not know what to do. Mr. Temporary Speaker, Sir, those who have watched the 9/11 documentary when planes crush into the building, they can tell you what the US has been able to do in preparing the people and children in school for all manners of disasters; manmade disasters or natural calamities. We brought this Bill because we are tired of being called to respond to fires at 3.00 a.m. Personally, I said I really feel bad when I have to go to Gikomba market or Mathare because of illegal power connections where there is fire yet we know these can be prevented. We know that we need paths for the small buggies with water to go through. Mr. Temporary Speaker, Sir, we know we need to have fire stations and the fire hydrants that we used to have in this city and many parts of this country. This is one of the most important Bills that as we pass as the Senate, we will have changed practically the lives of Kenyans across the country on how county governments and national Government manage disasters. Secondly, this is the first Bill in the history of the Parliament of the Republic of Kenya from 1963 that has been sponsored by two Members of Parliament. It is the first jointly sponsored Bill and I am glad that I am part of it. I thank Sen. Mutula Kilonzo Jnr. for his vision, commitment, dedication and diligence. He brought us the United Nations Office on Drugs and Crime (UNODC) people and a lot of expertise that helped us create a proper legislation. Mr. Temporary Speaker, Sir, any one Senator can legislate properly. He could do it on his own and I could do it on my own. Just imagine what happens when two come together. It is even better. This preceded the Handshake. It was before there was a Handshake that we decided across the aisle that Members can work together. That by- partisan spirit is important for us to legislate and move forward as a country. I beg to reply and thank all of those who have spoken. Pursuant to the Standing Orders, I would wish to ask that the question be put at a later date. Thank you very much."
     },
     {
-      "order": 221,
+      "order": 207,
       "id": "entry-1106720",
       "label": "speech",
       "level": "3",
@@ -2655,7 +2487,7 @@
       "text": "Hon. Senators, I defer putting of question until a later date."
     },
     {
-      "order": 222,
+      "order": 208,
       "id": "entry-1106721",
       "label": "scene",
       "level": "3",
@@ -2667,7 +2499,7 @@
       "text": "(Putting of the question on the Bill deferred)"
     },
     {
-      "order": 223,
+      "order": 209,
       "id": "entry-1106723",
       "label": "heading",
       "level": "1",
@@ -2679,7 +2511,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 224,
+      "order": 210,
       "id": "entry-1106724",
       "label": "speech",
       "level": "1",

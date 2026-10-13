@@ -8,19 +8,19 @@
    Name check: PDF says 'Sen. Farhiya', block says 'Getrude Musuruve Inimah '.
    Text: "Madam Temporary Speaker, Sir, I beg to second."
 
-3. block 324 [heading]
+3. block 322 [heading]
    Couldn't find this text in the PDF. Check it against the PDF.
    Text: "BILL Second Reading"
 
-4. block 364 [heading]
+4. block 362 [heading]
    Couldn't find this text in the PDF. Check it against the PDF.
    Text: "BILL Second Reading"
 
-5. block 369 [heading]
+5. block 367 [heading]
    Couldn't find this text in the PDF. Check it against the PDF.
    Text: "BILL Second Reading"
 
-6. block 400, PDF p.51 [speech | Farhiya Ali Haji]
+6. block 398, PDF p.51 [speech | Farhiya Ali Haji]
    PDF shows a new speaker ('The Deputy Speaker (Sen. (Prof.) Kindiki)') starting inside this block: "Hon. Senators, it is now 6.30 p.m., time to adjourn the Hous...". May need a split.
    Text: "Mr. Deputy Speaker, Sir, I am requesting for five to seven minutes. I have a lot of information that I want to"
 
