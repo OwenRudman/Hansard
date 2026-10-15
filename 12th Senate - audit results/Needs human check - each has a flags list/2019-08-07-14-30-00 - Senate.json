@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2019-08-07-14-30-00",
-  "exported_at": "2026-10-13T17:32:27.566Z",
+  "exported_at": "2026-10-15T19:29:23.077Z",
   "entries": [
     {
       "order": 1,
@@ -825,7 +825,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "them to come. As soon as we have the requisite numbers, Whips, approach the Chair so that we can go straight to Order No.8. Next Order."
@@ -1305,7 +1305,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Very well, Senators. I would like to remind the whips that we just need perhaps one more Senator and we will to go to Order No.8. Please, work harder for one more Senator. Meanwhile, I will allow one more Statement from the Senator for Laikipia County who is the Chairperson for the Committee on Devolution and Intergovernmental Relations regarding progress of the activities of his Committee on one of the issues that have also been of concern to this House. Proceed, Sen. Kinyua."
@@ -2505,7 +2505,7 @@
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Conclude, Sen. Ochillo-Ayacko. You have made your point but just tie it up and conclude."
@@ -2577,7 +2577,7 @@
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Sen. (Dr.) Kabaka, I hope you are not leaving because we are proceeding to Division right away."
@@ -2685,7 +2685,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "I will now put the Question."
@@ -2856,22 +2856,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil"
     },
     {
       "order": 239,
-      "id": "entry-930004",
-      "label": "speech",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 240,
       "id": "entry-930005",
       "label": "speech",
       "level": "2",
@@ -2883,7 +2871,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 26\n\nNOES"
     },
     {
-      "order": 241,
+      "order": 240,
       "id": "entry-930009",
       "label": "speech",
       "level": "2",
@@ -2895,7 +2883,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 242,
+      "order": 241,
       "id": "entry-930011",
       "label": "speech",
       "level": "2",
@@ -2907,7 +2895,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 243,
+      "order": 242,
       "id": "entry-930012",
       "label": "scene",
       "level": "2",
@@ -2919,7 +2907,7 @@
       "text": "(Question carried by 26 votes to nil)"
     },
     {
-      "order": 244,
+      "order": 243,
       "id": "entry-930013",
       "label": "scene",
       "level": "2",
@@ -2931,7 +2919,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole today by leave of the House)"
     },
     {
-      "order": 245,
+      "order": 244,
       "id": "entry-930014",
       "label": "speech",
       "level": "2",
@@ -2943,7 +2931,7 @@
       "text": "Hon. Senators, we will now proceed to the last bit. So, we will go straight to Committee of the Whole. The Chairperson has promised us that it will not take more than five minutes. So, please do not leave the Chamber."
     },
     {
-      "order": 246,
+      "order": 245,
       "id": "entry-930015",
       "label": "heading",
       "level": "1",
@@ -2955,7 +2943,7 @@
       "text": "COMMUNICATION FROM THE CHAIR"
     },
     {
-      "order": 247,
+      "order": 246,
       "id": "entry-930016",
       "label": "heading",
       "level": "2",
@@ -2967,7 +2955,7 @@
       "text": "VISITING DELEGATION FROM CHANGOI PRIMARY SCHOOL, BOMET COUNTY"
     },
     {
-      "order": 248,
+      "order": 247,
       "id": "entry-930017",
       "label": "speech",
       "level": "2",
@@ -2979,7 +2967,7 @@
       "text": "Meanwhile, we have other students and teachers from Changoi Primary School, Bomet County. I will give the Senator for Bomet a minute to welcome the pupils."
     },
     {
-      "order": 249,
+      "order": 248,
       "id": "entry-930018",
       "label": "speech",
       "level": "2",
@@ -2991,7 +2979,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity to join you in welcoming the pupils from Changoi Primary School from my County. I welcome them to this Senate. I hope they will enjoy their visit. We shall meet later."
     },
     {
-      "order": 250,
+      "order": 249,
       "id": "entry-930019",
       "label": "speech",
       "level": "2",
@@ -3003,7 +2991,7 @@
       "text": "Well done. I will apply Standing Order No. 40."
     },
     {
-      "order": 251,
+      "order": 250,
       "id": "entry-930020",
       "label": "scene",
       "level": "2",
@@ -3015,7 +3003,7 @@
       "text": "(Sen. Omanga and Sen. (Dr.) Langat consulted loudly)"
     },
     {
-      "order": 252,
+      "order": 251,
       "id": "entry-930021",
       "label": "speech",
       "level": "2",
@@ -3027,7 +3015,7 @@
       "text": "Order, Senator for Bomet! You know what a Senator does when they want to catch the eye of the Speaker. It is not what you and Sen. Omanga are doing. It is not by shouting. You press for an intervention."
     },
     {
-      "order": 253,
+      "order": 252,
       "id": "entry-930023",
       "label": "scene",
       "level": "2",
@@ -3039,7 +3027,7 @@
       "text": "(Sen. Omanga stood up in her place)"
     },
     {
-      "order": 254,
+      "order": 253,
       "id": "entry-930024",
       "label": "speech",
       "level": "2",
@@ -3051,7 +3039,7 @@
       "text": "What is it, Sen. Omanga? You seem agitated?"
     },
     {
-      "order": 255,
+      "order": 254,
       "id": "entry-930025",
       "label": "scene",
       "level": "2",
@@ -3063,7 +3051,7 @@
       "text": "(Sen. Omanga' microphone went off)"
     },
     {
-      "order": 256,
+      "order": 255,
       "id": "entry-930026",
       "label": "speech",
       "level": "2",
@@ -3075,7 +3063,7 @@
       "text": "Give Sen. Omanga the microphone."
     },
     {
-      "order": 257,
+      "order": 256,
       "id": "entry-930027",
       "label": "speech",
       "level": "2",
@@ -3087,7 +3075,7 @@
       "text": "Asante, Bw. Naibu Spika. Ningependa kuwajulisha kwamba nilisomea Changoi Primary School. Ninawakaribisha wanafunzi kutoka Bomet. Ningependa kuwaambia yote yawezekana. Siku moja wataweza kuwa Seneta, gavana au Rais wa Kenya. Ninawahimiza na kuwatia moyo kwamba, yote yawezekana."
     },
     {
-      "order": 258,
+      "order": 257,
       "id": "entry-930028",
       "label": "speech",
       "level": "2",
@@ -3099,7 +3087,7 @@
       "text": "Sen. Omanga, your agitation was justified. I will now apply Standing Order No. 40 (2) and reorganize the business for the convenience of the House. We will skip Order No.9 for now and go straight to Order No.10."
     },
     {
-      "order": 259,
+      "order": 258,
       "id": "entry-930029",
       "label": "heading",
       "level": "1",
@@ -3111,7 +3099,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 260,
+      "order": 259,
       "id": "entry-930031",
       "label": "heading",
       "level": "3",
@@ -3123,7 +3111,7 @@
       "text": "THE CANCER PREVENTION AND CONTROL (AMENDMENT) BILL (SENATE BILLS NO. 9 OF 2019)"
     },
     {
-      "order": 261,
+      "order": 260,
       "id": "entry-930032",
       "label": "scene",
       "level": "3",
@@ -3135,7 +3123,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 262,
+      "order": 261,
       "id": "entry-930033",
       "label": "speech",
       "level": "3",
@@ -3147,7 +3135,7 @@
       "text": "Next Order."
     },
     {
-      "order": 263,
+      "order": 262,
       "id": "entry-930034",
       "label": "heading",
       "level": "1",
@@ -3159,7 +3147,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 264,
+      "order": 263,
       "id": "entry-930035",
       "label": "scene",
       "level": "1",
@@ -3171,7 +3159,7 @@
       "text": "(Order for Committee read)"
     },
     {
-      "order": 265,
+      "order": 264,
       "id": "entry-930036",
       "label": "scene",
       "level": "1",
@@ -3183,7 +3171,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 266,
+      "order": 265,
       "id": "entry-930037",
       "label": "heading",
       "level": "2",
@@ -3195,7 +3183,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 267,
+      "order": 266,
       "id": "entry-930038",
       "label": "scene",
       "level": "2",
@@ -3207,7 +3195,7 @@
       "text": "[The Temporary Chairperson (Sen. (Prof.) Kamar in the Chair]"
     },
     {
-      "order": 268,
+      "order": 267,
       "id": "entry-930039",
       "label": "heading",
       "level": "3",
@@ -3219,7 +3207,7 @@
       "text": "THE DIVISION OF REVENUE (NO.2) BILL (NATIONAL ASSEMBLY BILLS NO. 59 OF 2019)"
     },
     {
-      "order": 269,
+      "order": 268,
       "id": "entry-930040",
       "label": "speech",
       "level": "3",
@@ -3231,7 +3219,7 @@
       "text": "Hon. Senators, we are now ready to commence the procedure in the Committee of the Whole. We will start with Clauses 3 to 5."
     },
     {
-      "order": 270,
+      "order": 269,
       "id": "entry-930041",
       "label": "heading",
       "level": "5",
@@ -3243,7 +3231,7 @@
       "text": "Clauses 3-5"
     },
     {
-      "order": 271,
+      "order": 270,
       "id": "entry-930043",
       "label": "scene",
       "level": "5",
@@ -3255,7 +3243,7 @@
       "text": "(Question that Clauses 3,4 and 5 be part of the Bill proposed)"
     },
     {
-      "order": 272,
+      "order": 271,
       "id": "entry-930044",
       "label": "speech",
       "level": "5",
@@ -3267,7 +3255,7 @@
       "text": "The Division will be at the end.\n\nThe Schedule"
     },
     {
-      "order": 273,
+      "order": 272,
       "id": "entry-930046",
       "label": "speech",
       "level": "5",
@@ -3279,7 +3267,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: THAT the Bill be amended by deleting the schedule and substituting therefor the following new schedule- Percentage (%) of 2014/15audited and approved Type/level of allocation Amount in Ksh. Revenue i.e. Ksh.1,038,035Millions A. National Government* 1,535,746,497,191 Of which: 1. Leasing Of Medical Equipment 2. Compensation For User Fees 900,000,000 Forgone 3. Level 5 Hospitals 4,326,000,000 4. Supplement For Construction Of 485,152,184 County Headquarters 5. Rehabilitation of Youth Polytechnics 2,000,000,000 B. Equalization Fund 5,760,000,000\n\n0.60%\n\nC. County Equitable Share 335,670,000,000\n\n32.00%\n\nD. Total Shareable Revenue 1,877,176,497,191\n\nMemo items\n\n1. County Equitable Share 335,670,000,000\n\n2. Additional conditional allocations(National Government share 7,711,152,184of Revenue) of which;\n\n2.1. Leasing Of Medical Equipment\n\n2.2 Compensation For User Fees"
     },
     {
-      "order": 274,
+      "order": 273,
       "id": "entry-930066",
       "label": "speech",
       "level": "5",
@@ -3291,7 +3279,7 @@
       "text": "900,000,000 Forgone 2.3 Level 5 Hospitals 4,326,000,000"
     },
     {
-      "order": 275,
+      "order": 274,
       "id": "entry-930067",
       "label": "speech",
       "level": "5",
@@ -3303,7 +3291,7 @@
       "text": "2.4 Supplement For Construction Of"
     },
     {
-      "order": 276,
+      "order": 275,
       "id": "entry-930068",
       "label": "speech",
       "level": "5",
@@ -3315,7 +3303,7 @@
       "text": "485,152,184 County Headquarters 2.5 Rehabilitation of Youth"
     },
     {
-      "order": 277,
+      "order": 276,
       "id": "entry-930069",
       "label": "speech",
       "level": "5",
@@ -3327,7 +3315,7 @@
       "text": "2,000,000,000 Polytechnics"
     },
     {
-      "order": 278,
+      "order": 277,
       "id": "entry-930070",
       "label": "speech",
       "level": "5",
@@ -3339,7 +3327,7 @@
       "text": "3. Allocation from Fuel Levy Fund"
     },
     {
-      "order": 279,
+      "order": 278,
       "id": "entry-930071",
       "label": "speech",
       "level": "5",
@@ -3351,7 +3339,7 @@
       "text": "8,984,062,500 (15%)4. Conditional allocations (Loans &"
     },
     {
-      "order": 280,
+      "order": 279,
       "id": "entry-930072",
       "label": "speech",
       "level": "5",
@@ -3363,7 +3351,7 @@
       "text": "4.1 IDA-Kenya Devolution Support 1,410,000,000 Program (KDSP) Level 1 4.2 IDA-Kenya Devolution Support 4,890,000,000 Program (KDSP) (Level 2 Grant) 4.3 IDA-Transforming Health Systems 2,994,247,736 for Universal Care Project 4.4 DANIDA-Universal Healthcare 986,583,544 For Devolved System Program 4.5 IDA-National Agriculture &amp; Rural 7,232,719,940 Inclusive Growth Project (NARIGP) 4.6 EU-Instruments for Devolution 492,698,583 Advice and Support (IDEAS) 4.7 IDA (World Bank) - Kenya Climate Smart Agriculture Project 3,643,298,670 (KCSAP) 4.8 World Bank- Kenya Urban Support 11,464,702,500 Program(KUSP)- UDG 4.9 World Bank- Kenya Urban Support 396,000,000 Program(KUSP)- UIG 4.10 IDA- Water and Sanitation 3,500,000,000 Development Project (WSDP) 4.1 1 Sweden Agriculture Sector 849,626,237 Development Programme II (\n\nASDP II)"
     },
     {
-      "order": 281,
+      "order": 280,
       "id": "entry-930085",
       "label": "speech",
       "level": "5",
@@ -3375,7 +3363,7 @@
       "text": "4.12 EU- Water Tower Protection and Climate Change Mitigation and 880,000,000 Adaptation Programme (WaTER) 4.13 Drought Resilience Programme in 350,000,000 Northern Kenya Total County Allocations= (1+2+3+4) 391,455,091,894"
     },
     {
-      "order": 282,
+      "order": 281,
       "id": "entry-930088",
       "label": "scene",
       "level": "5",
@@ -3387,7 +3375,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 283,
+      "order": 282,
       "id": "entry-930089",
       "label": "speech",
       "level": "5",
@@ -3399,7 +3387,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 284,
+      "order": 283,
       "id": "entry-930090",
       "label": "heading",
       "level": "5",
@@ -3411,7 +3399,7 @@
       "text": "Clause 2, the Title and Clause 1"
     },
     {
-      "order": 285,
+      "order": 284,
       "id": "entry-930091",
       "label": "scene",
       "level": "5",
@@ -3423,7 +3411,7 @@
       "text": "( Question that Clause 2, the Title and Clause 1 be part of the Bill proposed)"
     },
     {
-      "order": 286,
+      "order": 285,
       "id": "entry-930093",
       "label": "speech",
       "level": "5",
@@ -3435,19 +3423,19 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 287,
+      "order": 286,
       "id": "entry-930094",
       "label": "speech",
       "level": "5",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
       "text": "We are now ready for Division. I order that the Bell be rung for one minute."
     },
     {
-      "order": 288,
+      "order": 287,
       "id": "entry-930095",
       "label": "scene",
       "level": "5",
@@ -3459,7 +3447,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 289,
+      "order": 288,
       "id": "entry-930096",
       "label": "scene",
       "level": "5",
@@ -3471,7 +3459,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 290,
+      "order": 289,
       "id": "entry-930097",
       "label": "speech",
       "level": "5",
@@ -3483,7 +3471,7 @@
       "text": "That is the end of voting time. Can we have Members who need assistance to vote approach the Table?"
     },
     {
-      "order": 291,
+      "order": 290,
       "id": "entry-930098",
       "label": "scene",
       "level": "5",
@@ -3495,7 +3483,7 @@
       "text": "(Several Senators approached the Table)"
     },
     {
-      "order": 292,
+      "order": 291,
       "id": "entry-930099",
       "label": "speech",
       "level": "5",
@@ -3507,7 +3495,7 @@
       "text": "Hon. Senators, we will announce the results at the end. Let us now go to the second one. Voting is over. Who needs assistance? There is only one person who did not vote. Hon. Members, that is the end of the Division."
     },
     {
-      "order": 293,
+      "order": 292,
       "id": "entry-930101",
       "label": "heading",
       "level": "3",
@@ -3519,7 +3507,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 294,
+      "order": 293,
       "id": "entry-930103",
       "label": "scene",
       "level": "3",
@@ -3531,7 +3519,7 @@
       "text": "(Question, that the Schedule should be amended as proposed put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 295,
+      "order": 294,
       "id": "entry-930104",
       "label": "other",
       "level": "3",
@@ -3543,7 +3531,7 @@
       "text": "AYES:"
     },
     {
-      "order": 296,
+      "order": 295,
       "id": "entry-930105",
       "label": "other",
       "level": "3",
@@ -3555,7 +3543,7 @@
       "text": "Sen. Boy, Kwale County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Dr.) Kabaka, Machakos County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kinyua, Laikipia County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. Linturi, Meru County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Ochillo- Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omanga, Nairobi City County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 297,
+      "order": 296,
       "id": "entry-930106",
       "label": "other",
       "level": "3",
@@ -3564,22 +3552,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNIL"
     },
     {
-      "order": 298,
-      "id": "entry-930107",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "NIL"
-    },
-    {
-      "order": 299,
+      "order": 297,
       "id": "entry-930108",
       "label": "speech",
       "level": "3",
@@ -3591,7 +3567,7 @@
       "text": "Hon. Senators, the results are as follows:-\n\nAYES\n\n: 27\n\nNOES"
     },
     {
-      "order": 300,
+      "order": 298,
       "id": "entry-930112",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3579,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 301,
+      "order": 299,
       "id": "entry-930114",
       "label": "speech",
       "level": "3",
@@ -3615,7 +3591,7 @@
       "text": ": Nil The 'Ayes' have it."
     },
     {
-      "order": 302,
+      "order": 300,
       "id": "entry-930115",
       "label": "scene",
       "level": "3",
@@ -3627,7 +3603,7 @@
       "text": "(Question carried by 27 votes to Nil)"
     },
     {
-      "order": 303,
+      "order": 301,
       "id": "entry-930116",
       "label": "heading",
       "level": "3",
@@ -3639,7 +3615,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 304,
+      "order": 302,
       "id": "entry-930118",
       "label": "scene",
       "level": "3",
@@ -3651,7 +3627,7 @@
       "text": "(Question, that Clauses 3, 4, 5, the Schedule (as amended), Clause 2, the Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 305,
+      "order": 303,
       "id": "entry-930119",
       "label": "other",
       "level": "3",
@@ -3663,7 +3639,7 @@
       "text": "AYES:"
     },
     {
-      "order": 306,
+      "order": 304,
       "id": "entry-930120",
       "label": "other",
       "level": "3",
@@ -3675,7 +3651,7 @@
       "text": "Sen. Boy, Kwale County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Dr.) Kabaka, Machakos County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kinyua, Laikipia County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. Linturi, Meru County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta"
     },
     {
-      "order": 307,
+      "order": 305,
       "id": "entry-930121",
       "label": "other",
       "level": "3",
@@ -3687,7 +3663,7 @@
       "text": "County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Ochillo- Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omanga, Nairobi City County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 308,
+      "order": 306,
       "id": "entry-930122",
       "label": "other",
       "level": "3",
@@ -3696,22 +3672,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNIL"
     },
     {
-      "order": 309,
-      "id": "entry-930123",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "NIL"
-    },
-    {
-      "order": 310,
+      "order": 307,
       "id": "entry-930124",
       "label": "speech",
       "level": "3",
@@ -3723,7 +3687,7 @@
       "text": "Hon. Senators, the results are as follows:-\n\nAYES\n\n: 27\n\nNOES"
     },
     {
-      "order": 311,
+      "order": 308,
       "id": "entry-930128",
       "label": "speech",
       "level": "3",
@@ -3735,7 +3699,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 312,
+      "order": 309,
       "id": "entry-930130",
       "label": "speech",
       "level": "3",
@@ -3747,7 +3711,7 @@
       "text": ": Nil The 'Ayes' have it."
     },
     {
-      "order": 313,
+      "order": 310,
       "id": "entry-930131",
       "label": "scene",
       "level": "3",
@@ -3759,7 +3723,7 @@
       "text": "(Question carried by 27 votes to Nil)"
     },
     {
-      "order": 314,
+      "order": 311,
       "id": "entry-930132",
       "label": "speech",
       "level": "3",
@@ -3771,7 +3735,7 @@
       "text": "Hon. Senators, may I now invite the Mover to report to the Committee of the Whole."
     },
     {
-      "order": 315,
+      "order": 312,
       "id": "entry-930133",
       "label": "speech",
       "level": "3",
@@ -3783,7 +3747,7 @@
       "text": "Madam Chairperson, I beg to move that the Committee do report to the Senate its consideration of the Division of Revenue Bill (No.2) Bill (National Assembly Bill No. 59 of 2019) and its approval thereof with Amendments."
     },
     {
-      "order": 316,
+      "order": 313,
       "id": "entry-930134",
       "label": "scene",
       "level": "3",
@@ -3795,7 +3759,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 317,
+      "order": 314,
       "id": "entry-930135",
       "label": "scene",
       "level": "3",
@@ -3807,7 +3771,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 318,
+      "order": 315,
       "id": "entry-930136",
       "label": "speech",
       "level": "3",
@@ -3819,7 +3783,7 @@
       "text": "Hon. Senators, we will go straight to the Third Reading. Please do not go away."
     },
     {
-      "order": 319,
+      "order": 316,
       "id": "entry-930137",
       "label": "scene",
       "level": "3",
@@ -3831,7 +3795,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 320,
+      "order": 317,
       "id": "entry-930138",
       "label": "scene",
       "level": "3",
@@ -3843,7 +3807,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) in the Chair]"
     },
     {
-      "order": 321,
+      "order": 318,
       "id": "entry-930139",
       "label": "speech",
       "level": "3",
@@ -3855,7 +3819,7 @@
       "text": "I now call upon the Chairperson to report progress."
     },
     {
-      "order": 322,
+      "order": 319,
       "id": "entry-930140",
       "label": "heading",
       "level": "1",
@@ -3867,7 +3831,7 @@
       "text": "REPORT, CONSIDERATION OF REPORT AND THIRD READING"
     },
     {
-      "order": 323,
+      "order": 320,
       "id": "entry-930141",
       "label": "heading",
       "level": "3",
@@ -3879,7 +3843,7 @@
       "text": "THE DIVISION OF REVENUE (NO.2) BILL (NATIONAL ASSEMBLY BILLS NO.59 OF 2019)"
     },
     {
-      "order": 324,
+      "order": 321,
       "id": "entry-930142",
       "label": "speech",
       "level": "3",
@@ -3891,7 +3855,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to report that the Committee of the Whole has considered The Division of Revenue (No.2) Bill (National Assembly Bills No.59 of 2019) and its approval thereof with amendments."
     },
     {
-      "order": 325,
+      "order": 322,
       "id": "entry-930143",
       "label": "speech",
       "level": "3",
@@ -3903,7 +3867,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the House do agree with the Committee on the said report. I request Sen. Olekina to second."
     },
     {
-      "order": 326,
+      "order": 323,
       "id": "entry-930144",
       "label": "speech",
       "level": "3",
@@ -3915,7 +3879,7 @@
       "text": "seconded."
     },
     {
-      "order": 327,
+      "order": 324,
       "id": "entry-930145",
       "label": "scene",
       "level": "3",
@@ -3927,7 +3891,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 328,
+      "order": 325,
       "id": "entry-930146",
       "label": "speech",
       "level": "3",
@@ -3939,7 +3903,7 @@
       "text": "Mr. Deputy Speaker, Sir, I wish to congratulate the Movers and the whole House for a job well done. This is historical because if a child keeps on making the same mistake, you should give them a second and a third chance. By passing this Bill, we have given ourselves a chance to show the \"Lower House\" of our magnanimity. Indeed, theirs is a three-streamed school with over 300 people. I am sure that we can now reason together, if they take this golden opportunity. I beg to support."
     },
     {
-      "order": 329,
+      "order": 326,
       "id": "entry-930148",
       "label": "scene",
       "level": "3",
@@ -3951,7 +3915,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 330,
+      "order": 327,
       "id": "entry-930149",
       "label": "speech",
       "level": "3",
@@ -3963,7 +3927,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that The Division of Revenue (No.2) Bill (National Assembly Bills No.59 of 2019) be now read a Third Time. I request Sen. Olekina to second."
     },
     {
-      "order": 331,
+      "order": 328,
       "id": "entry-930150",
       "label": "speech",
       "level": "3",
@@ -3975,7 +3939,7 @@
       "text": "seconded."
     },
     {
-      "order": 332,
+      "order": 329,
       "id": "entry-930151",
       "label": "scene",
       "level": "3",
@@ -3987,7 +3951,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 333,
+      "order": 330,
       "id": "entry-930152",
       "label": "speech",
       "level": "3",
@@ -3999,7 +3963,7 @@
       "text": "Sen. Wetangula, do you have a comment?"
     },
     {
-      "order": 334,
+      "order": 331,
       "id": "entry-930153",
       "label": "speech",
       "level": "3",
@@ -4011,7 +3975,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg that upon conclusion of this Business, the Message should be delivered to the \"Lower House\" this afternoon."
     },
     {
-      "order": 335,
+      "order": 332,
       "id": "entry-930154",
       "label": "speech",
       "level": "3",
@@ -4023,7 +3987,7 @@
       "text": "Is that the opinion of the House?"
     },
     {
-      "order": 336,
+      "order": 333,
       "id": "entry-930155",
       "label": "speech",
       "level": "3",
@@ -4035,7 +3999,7 @@
       "text": "Yes!"
     },
     {
-      "order": 337,
+      "order": 334,
       "id": "entry-930156",
       "label": "speech",
       "level": "3",
@@ -4047,19 +4011,19 @@
       "text": "It will be done. Thank you Sen. Wetangula."
     },
     {
-      "order": 338,
+      "order": 335,
       "id": "entry-930157",
       "label": "speech",
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "I will now put the Question. We will go to the Division. I order that the Division Bell be rung for a minute."
     },
     {
-      "order": 339,
+      "order": 336,
       "id": "entry-930159",
       "label": "scene",
       "level": "3",
@@ -4071,7 +4035,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 340,
+      "order": 337,
       "id": "entry-930160",
       "label": "speech",
       "level": "3",
@@ -4083,7 +4047,7 @@
       "text": "You should now get ready to vote. Start voting now."
     },
     {
-      "order": 341,
+      "order": 338,
       "id": "entry-930161",
       "label": "scene",
       "level": "3",
@@ -4095,7 +4059,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 342,
+      "order": 339,
       "id": "entry-930162",
       "label": "speech",
       "level": "3",
@@ -4107,7 +4071,7 @@
       "text": "Those who wish to be assisted to vote should approach the Clerks-at-the-Table."
     },
     {
-      "order": 343,
+      "order": 340,
       "id": "entry-930163",
       "label": "scene",
       "level": "3",
@@ -4119,7 +4083,7 @@
       "text": "(Several Senators walked to the Clerks-at-the-Table and registered their votes)"
     },
     {
-      "order": 344,
+      "order": 341,
       "id": "entry-930165",
       "label": "speech",
       "level": "3",
@@ -4131,7 +4095,7 @@
       "text": "Hon. Senators, I am now ready to announce the results of the last Division. Before I do that, I want to make two quick points. One, I require your consent and views. We have Order No. 9, which is the Cancer Prevention and Control (Amendment) Bill, which is just a Division with no debate; no nothing. We were wondering whether after this, we can just vote and then have the Senators released in terms of quorum. However, if you think that, that is something that can wait, I will leave that to you. Can I hear any views or comments? Can we vote on it? Let us have a proposal; do you feel we can vote now? Can I have proposals? It will take one minute, because there is no debate. Yes, Sen. Olekina?"
     },
     {
-      "order": 345,
+      "order": 342,
       "id": "entry-930166",
       "label": "speech",
       "level": "3",
@@ -4143,7 +4107,7 @@
       "text": "If we have three of them, we can just vote for them; it is a one vote."
     },
     {
-      "order": 346,
+      "order": 343,
       "id": "entry-930167",
       "label": "speech",
       "level": "3",
@@ -4155,7 +4119,7 @@
       "text": "Let us have another view. Is there any other view? Can we vote on the Cancer Prevention and Control (Amendment) Bill now? I will put the question."
     },
     {
-      "order": 347,
+      "order": 344,
       "id": "entry-930168",
       "label": "scene",
       "level": "3",
@@ -4167,7 +4131,7 @@
       "text": "(Question, that the House votes on the Cancer Prevention and Control (Amendment) Bill, put and agreed to)"
     },
     {
-      "order": 348,
+      "order": 345,
       "id": "entry-930169",
       "label": "speech",
       "level": "3",
@@ -4179,7 +4143,7 @@
       "text": "The second one is that I just wanted to reaffirm that the request that has been made by Sen. Wetangula and approved by acclamation by the House, will be done. When the Chair rises from this Chair, that Communication will leave the Senate towards the National Assembly within five minutes."
     },
     {
-      "order": 349,
+      "order": 346,
       "id": "entry-930170",
       "label": "heading",
       "level": "3",
@@ -4191,7 +4155,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 350,
+      "order": 347,
       "id": "entry-930172",
       "label": "speech",
       "level": "3",
@@ -4203,7 +4167,7 @@
       "text": "( Question, That the Division of Revenue (No.2) Bill"
     },
     {
-      "order": 351,
+      "order": 348,
       "id": "entry-930173",
       "label": "scene",
       "level": "3",
@@ -4215,7 +4179,7 @@
       "text": "(National Assembly Bill No.59 of 2019) be now read a Third Time, put and the Senate proceeded to vote by county delegations)"
     },
     {
-      "order": 352,
+      "order": 349,
       "id": "entry-930174",
       "label": "other",
       "level": "3",
@@ -4227,7 +4191,7 @@
       "text": "AYES"
     },
     {
-      "order": 353,
+      "order": 350,
       "id": "entry-930175",
       "label": "other",
       "level": "3",
@@ -4239,7 +4203,7 @@
       "text": ": Sen. Boy, Kwale County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Dr.) Kabaka, Machakos County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Linturi, Meru County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omanga, Nairobi City County; Sen. Poghisio, West Pokot County; Sen. Prengei,"
     },
     {
-      "order": 354,
+      "order": 351,
       "id": "entry-930176",
       "label": "other",
       "level": "3",
@@ -4251,7 +4215,7 @@
       "text": "Nakuru County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 355,
+      "order": 352,
       "id": "entry-930177",
       "label": "other",
       "level": "3",
@@ -4260,22 +4224,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 356,
-      "id": "entry-930178",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 357,
+      "order": 353,
       "id": "entry-930179",
       "label": "speech",
       "level": "3",
@@ -4287,7 +4239,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 27\n\nNOES"
     },
     {
-      "order": 358,
+      "order": 354,
       "id": "entry-930183",
       "label": "speech",
       "level": "3",
@@ -4299,7 +4251,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 359,
+      "order": 355,
       "id": "entry-930185",
       "label": "speech",
       "level": "3",
@@ -4311,7 +4263,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 360,
+      "order": 356,
       "id": "entry-930186-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -4323,7 +4275,7 @@
       "text": "(Question carried by 27 votes to Nil)"
     },
     {
-      "order": 361,
+      "order": 357,
       "id": "entry-930186-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -4335,7 +4287,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 362,
+      "order": 358,
       "id": "entry-930187",
       "label": "heading",
       "level": "1",
@@ -4347,7 +4299,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 363,
+      "order": 359,
       "id": "entry-930189",
       "label": "heading",
       "level": "3",
@@ -4359,7 +4311,7 @@
       "text": "THE CANCER PREVENTION AND CONTROL (AMENDMENT) BILL (SENATE BILLS NO.9 OF 2019)"
     },
     {
-      "order": 364,
+      "order": 360,
       "id": "entry-930190",
       "label": "scene",
       "level": "3",
@@ -4371,7 +4323,7 @@
       "text": "(Sen. (Dr.) Ali on 30.7.2019)"
     },
     {
-      "order": 365,
+      "order": 361,
       "id": "entry-930191",
       "label": "scene",
       "level": "3",
@@ -4383,7 +4335,7 @@
       "text": "(Resumption of Debate interrupted on 31.7.2019\n\n)"
     },
     {
-      "order": 366,
+      "order": 362,
       "id": "entry-930193",
       "label": "heading",
       "level": "3",
@@ -4395,7 +4347,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 367,
+      "order": 363,
       "id": "entry-930195",
       "label": "scene",
       "level": "3",
@@ -4407,7 +4359,7 @@
       "text": "(Question, that the Cancer Prevention and Control (Amendment) Bill (Senate Bills No.9 of 2019) be now read a Second Time, put and the Senate proceeded to vote by county delegations)"
     },
     {
-      "order": 368,
+      "order": 364,
       "id": "entry-930196",
       "label": "other",
       "level": "3",
@@ -4419,7 +4371,7 @@
       "text": "AYES"
     },
     {
-      "order": 369,
+      "order": 365,
       "id": "entry-930197",
       "label": "other",
       "level": "3",
@@ -4431,7 +4383,7 @@
       "text": ": Sen. Boy, Kwale County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Dr.) Kabaka, Machakos County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Linturi, Meru County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Ochillo- Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omanga, Nairobi City County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 370,
+      "order": 366,
       "id": "entry-930198",
       "label": "other",
       "level": "3",
@@ -4440,22 +4392,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 371,
-      "id": "entry-930199",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 372,
+      "order": 367,
       "id": "entry-930200",
       "label": "speech",
       "level": "3",
@@ -4467,7 +4407,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 27\n\nNOES"
     },
     {
-      "order": 373,
+      "order": 368,
       "id": "entry-930204",
       "label": "speech",
       "level": "3",
@@ -4479,7 +4419,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 374,
+      "order": 369,
       "id": "entry-930206",
       "label": "speech",
       "level": "3",
@@ -4491,7 +4431,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 375,
+      "order": 370,
       "id": "entry-930207",
       "label": "scene",
       "level": "3",
@@ -4503,7 +4443,7 @@
       "text": "(Question carried by 27 votes to Nil)"
     },
     {
-      "order": 376,
+      "order": 371,
       "id": "entry-930208",
       "label": "scene",
       "level": "3",
@@ -4515,7 +4455,7 @@
       "text": "(The Bill was read a Second and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 377,
+      "order": 372,
       "id": "entry-930209",
       "label": "speech",
       "level": "3",
@@ -4527,7 +4467,7 @@
       "text": "(Sen. (Prof.) Kindiki: Hon. Senators, at this point, I direct that, finally, the doors be unlocked and the bars withdrawn."
     },
     {
-      "order": 378,
+      "order": 373,
       "id": "entry-930210",
       "label": "scene",
       "level": "3",
@@ -4539,7 +4479,7 @@
       "text": "(The doors were unlocked and bars withdrawn)"
     },
     {
-      "order": 379,
+      "order": 374,
       "id": "entry-930211",
       "label": "speech",
       "level": "3",
@@ -4551,7 +4491,7 @@
       "text": "At the same time, I want to thank you, because of the Communication I had issued earlier on. I want to thank each and every one of you, distinguished colleagues, for accommodating the views of the Chair and his suggestions. Considering the fact that we have sat here the entire afternoon, thanks to your patience. Hon. Senators, I will again apply Standing Order No. 40, Paragraph two, which allows the Speaker to rearrange Business for the convenience of the Senate. For that reason, we will skip the Committees of the Whole so that we do not keep you here anymore. I will now defer Orders No. 11, 12, 13, 14 and 15. I direct that Order No. 16 be called out."
     },
     {
-      "order": 380,
+      "order": 375,
       "id": "entry-930213",
       "label": "heading",
       "level": "1",
@@ -4563,7 +4503,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 381,
+      "order": 376,
       "id": "entry-930214",
       "label": "heading",
       "level": "2",
@@ -4575,7 +4515,7 @@
       "text": "THE NATURAL RESOURCES (BENEFIT SHARING) BILL (SENATE BILLS NO.31 OF 2018)"
     },
     {
-      "order": 382,
+      "order": 377,
       "id": "entry-930215",
       "label": "scene",
       "level": "2",
@@ -4587,7 +4527,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 383,
+      "order": 378,
       "id": "entry-930216",
       "label": "heading",
       "level": "1",
@@ -4599,7 +4539,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 384,
+      "order": 379,
       "id": "entry-930217",
       "label": "heading",
       "level": "2",
@@ -4611,7 +4551,7 @@
       "text": "THE PUBLIC FINANCE MANAGEMENT (AMENDMENT) BILL (SENATE BILLS NO.3 OF 2019)"
     },
     {
-      "order": 385,
+      "order": 380,
       "id": "entry-930218",
       "label": "scene",
       "level": "2",
@@ -4623,7 +4563,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 386,
+      "order": 381,
       "id": "entry-930219",
       "label": "heading",
       "level": "1",
@@ -4635,7 +4575,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 387,
+      "order": 382,
       "id": "entry-930220",
       "label": "heading",
       "level": "2",
@@ -4644,22 +4584,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE RETIREMENT BENEFITS (DEPUTY PRESIDENT AND DESIGNATED STATE OFFICERS) (AMENDMENT) BILL"
+      "text": "THE RETIREMENT BENEFITS (DEPUTY PRESIDENT AND DESIGNATED STATE OFFICERS) (AMENDMENT) BILL\n\n(SENATE BILLS NO. 2 OF 2018)"
     },
     {
-      "order": 388,
-      "id": "entry-930221",
-      "label": "scene",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(SENATE BILLS NO. 2 OF 2018)"
-    },
-    {
-      "order": 389,
+      "order": 383,
       "id": "entry-930222",
       "label": "scene",
       "level": "2",
@@ -4671,7 +4599,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 390,
+      "order": 384,
       "id": "entry-930223",
       "label": "heading",
       "level": "1",
@@ -4683,7 +4611,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 391,
+      "order": 385,
       "id": "entry-930224",
       "label": "heading",
       "level": "2",
@@ -4695,7 +4623,7 @@
       "text": "THE KENYA MEDICAL SUPPLIES AUTHORITY (AMENDMENT) BILL (SENATE BILLS NO.38 OF 2018)"
     },
     {
-      "order": 392,
+      "order": 386,
       "id": "entry-930225",
       "label": "scene",
       "level": "2",
@@ -4707,7 +4635,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 393,
+      "order": 387,
       "id": "entry-930226",
       "label": "heading",
       "level": "1",
@@ -4719,7 +4647,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 394,
+      "order": 388,
       "id": "entry-930228",
       "label": "heading",
       "level": "3",
@@ -4731,7 +4659,7 @@
       "text": "THE CONTROL OF STRAY DOGS BILL (SENATE BILLS NO. 4 OF 2019)"
     },
     {
-      "order": 395,
+      "order": 389,
       "id": "entry-930229",
       "label": "scene",
       "level": "3",
@@ -4743,7 +4671,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 396,
+      "order": 390,
       "id": "entry-930230",
       "label": "speech",
       "level": "3",
@@ -4755,7 +4683,7 @@
       "text": "Mr. Deputy Speaker, Sir, Order No.16 is a Motion by the distinguished Senator for Vihiga County, Sen. Khaniri; and he is out of the country on official duty. Can we defer it like the others? If he wanted it moved on his behalf, he would have asked me."
     },
     {
-      "order": 397,
+      "order": 391,
       "id": "entry-930231",
       "label": "speech",
       "level": "3",
@@ -4767,7 +4695,7 @@
       "text": "I think that you were far this time round. He wrote a letter and asked Sen. Kasanga to move it on his behalf. Next Order."
     },
     {
-      "order": 398,
+      "order": 392,
       "id": "entry-930232",
       "label": "heading",
       "level": "1",
@@ -4779,7 +4707,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 399,
+      "order": 393,
       "id": "entry-930233",
       "label": "heading",
       "level": "3",
@@ -4791,7 +4719,7 @@
       "text": "CREATION OF SUPPORT SERVICES FOR MEMBERS OF THE DISCIPLINED FORCES AND THEIR FAMILIES"
     },
     {
-      "order": 400,
+      "order": 394,
       "id": "entry-930234",
       "label": "speech",
       "level": "3",
@@ -4803,7 +4731,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I beg to move the following Motion- THAT, APPRECIATING the commitment and sacrifice by members of the disciplined forces in protecting our country from both internal and external aggression; AWARE of the risky and stressful environment that the officers are exposed to daily in the line of duty, combined with the increased terrorism threats at home, and abroad; NOTING that members of the disciplined forces, and by extension, their families are exposed to traumatic incidents both at home and abroad that manifest as living in constant fear, debilitating depression, nightmares, crippling anxiety and thoughts of suicide, commonly referred to as Post Traumatic Stress Disorder (PTSD), leaving them exposed to the stigma of society and unable to care for themselves and their families the way they could before; RECOGNIZING that there is no structured national comprehensive program for posttraumatic stress counselling either for active or returning soldiers and their families; NOW THEREFORE the Senate calls upon the Ministry of Interior and Co-ordination of National Government, in partnership with the Ministry of Defence, to establish counselling and support centers in all premises housing disciplined forces, and provide mandatory counselling to all service personnel and the families of those currently serving, and those who may have been killed in the line of duty."
     },
     {
-      "order": 401,
+      "order": 395,
       "id": "entry-930236",
       "label": "scene",
       "level": "3",
@@ -4815,7 +4743,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 402,
+      "order": 396,
       "id": "entry-930237",
       "label": "scene",
       "level": "3",
@@ -4827,7 +4755,7 @@
       "text": "[The Temporary Speaker (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 403,
+      "order": 397,
       "id": "entry-930238",
       "label": "speech",
       "level": "3",
@@ -4839,7 +4767,7 @@
       "text": "Madam Temporary Speaker, this Motion was prepared by Sen. Khaniri, who is away. I want to first congratulate him for taking this matter to heart. He brought a Petition on behalf of True North, an organisation that fights for the rights of the disciplined forces and mental wellness. True North is championed by Major (Rtd.) Mukiri, who had personal challenges after serving in the disciplined forces. I commend the passion that he has for this matter, and I also want to thank him for bringing the matter to the attention of the Senate and Kenyans. Madam Temporary Speaker, this House passed the Mental Health (Amendment) Bill 2018, because we appreciated that mental illness is now a national disaster. That Bill did not canvass the matters of disciplined forces, because the Committee on Health felt that the matter should be handled in a different legislation. It is good that Sen. Khaniri is now asking the Ministry of Interior and Coordination of National Government to look into it. It is possible for us to have a legislative framework at the end of this Motion, to deal with the mental wellness of our disciplined forces. Madam Temporary Speaker, none of us can authoritatively speak or give a testimony on what our men and women who fight for the peace of this country go through. Those men and women do not know if they are going to wake up tomorrow or the day after; and they do not know if they will be able to see their spouse, children, parents and siblings again. It is only those men and women who fight for us who can give a true testament of what their life is like. The best that we know is based on what we see in the movies, and that is where we can relate with the kind of impact and trauma that they go through when they are in the line of fire. Unfortunately, a video once went round on social media showing our men and women being attacked in Somalia by the Al-Shabaab, and I was unable to comment when I saw it. We cannot feel what they go through, yet we have sent them out there to protect our borders. They are the same people we call upon when we have terrorist attacks within the country. However, when they are done with their service, we send them home without thinking of how they will be assimilated back into their families. Trauma is a serious thing, and we live in a society where we do not understand the effects of trauma. I am not an expert, but the research that I did when I was working on the Bill helped me to learn that trauma is the source of a lot of our societal problems; yet it is something that can be easily treated and managed. Some of the effects of living with trauma include gender based violence, use and abuse of drugs, alcoholism, depression, disorders that come with post-traumatic stress; strange addictions, such as addiction to pornography, sex, insomnia and others that I cannot mention here. Essentially, Madam Temporary Speaker, our men and women in uniform cannot live a full life on a daily basis. In fact, their experiences reduce their life expectancy. This is the scenario that our disciplined forces face, and the question is what kind of impact does their experience have on their families? The effect of such experiences on one person are easily transmitted to the immediate family and to the larger family. Mental illness has a way of affecting the larger family because of the stigma that is around it. When we were debating the Mental Health (Amendment) Bill, 2018, we spoke a lot about fighting stigma, because it is the first way of dealing with mental illnesses. Can you imagine what the immediate families of our disciplined forces go through when a member has come home with trauma, is dealing with its effects, and has received absolutely no support? It creates a vicious cycle. The children are affected, because they grow up with a parent who has effects of trauma, which he projects onto them. The children have their own trauma that is created from growing up with a traumatised parent, and then it becomes a vicious cycle. We can then see how broken families begin to happen in such scenarios, yet we are talking about something that can be managed through psychosocial support, counselling and medication in extreme cases. It is possible to deal with these things. Madam Temporary Speaker, I wish to refer to something from True North, which they had shared with Sen. Khaniri. The psychosocial support should be in the creation of circles of care that cover mental and physical health rehabilitation, legal representation, financial aid, transition and reintegration support. Reintegration is so critical because when one has been in the line of fire, the kind of trauma one has is such that even having a basic conversation with somebody can be easily affected. When we talk of reintegration, we are talking about the kind of support for them to continue with life as normal as it can be. There are also acts of recognition and celebration of living. I cannot speak authoritatively, but when one has been faced with death, there is no way you can go through life just like somebody who is normal. There is that which they have to be retaught to be reintegrated to appreciate and celebrate life. Honour and validation of the dead is another very critical aspect that needs to be looked into when it comes to our disciplined forces. Imagine the impact it has when you can see your colleague not being appreciated or celebrated, yet they lost their life in the line of fire. Imagine what it does to the spirit of the rest of them who are still fighting for Kenyans. Honour and validation of the dead is also a celebration of those who have put their lives on the line of fire. On work and deployment considerations, a lot of this happens once they are released, and they have nowhere else to go. What are the effects when they are sitting at home? How about being given something to do, away from just sitting at home? There is also family and parenting coaching, which is part of the rehabilitation that is required. These are ideas and thoughts that have been put forward by somebody who has lived through this trauma. She has struggled to get her life back in order. She is able, but many others may not be able. Madam Temporary Speaker, this Motion is more than timely. I know that these issues were debated when the Petition was brought to the Floor of the House. However, it cannot be lost that the Government definitely needs to do something, through the Ministry of Defence and the Ministry of Interior and Coordination of National Government. Something must be done urgently, with posterity and sustainability in mind. Some of these programmes that will be set up, especially when it comes to honouring and validation of the dead, must be done in a way that can appreciate the lives of Kenyans who have risked their all to protect us so that we can enjoy the peace that we enjoy in this country. Madam Temporary Speaker, as I move this Motion, I congratulate Sen. Khaniri for bringing it forward and being passionate about it. There is no health without mental health. That does not mean that our disciplined forcers are not included. Even if it was not in The Mental Health (Amendment) Bill, some legislation must also come from this House that takes care of all our disciplined forces. I beg to move and request Sen. (Dr.) Musuruve to second."
     },
     {
-      "order": 404,
+      "order": 398,
       "id": "entry-930247",
       "label": "speech",
       "level": "3",
@@ -4851,7 +4779,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to second this Motion. Sen. Khaniri has come up with a Motion that it quite noble for this country. It seeks to ensure that we appreciate the work that the armed forces are doing. From a broad perspective, when we talk of the disciplined forces, we are talking about the National Police Service (NPS), the Prisons Service, the military, the National Intelligence Service (NIS) and the witness protection agencies. All these people do a lot for this nation and even world over, wherever they are, they do a lot for their countries. They have quite a number of roles they play in the countries they come from. For example, in instances of xenophobia, people will be killed recklessly just because of hatred. There are people who hate to see foreigners, and it is in such situations that these armed forces will come in and ensure that they save lives. Madam Temporary Speaker, Article 26 of our Constitution assures everyone a right to life. We cannot ignore what our armed forces do and the fact that they are able to detect and prevent crime. Even when we are sleeping soundly in our beds, they are always watching over us. Sometimes they do not even sleep, simply because they want to ensure that they protect the people they are mandated to. Madam Temporary Speaker, we have to look for a way in which we can create services to appreciate them. Sometimes when there are offenders amongst us, and there is need to ensure that that law is enforced, many times they come in handy. They just do what they are told to do without question. If they are told to turn right, they will not say, \"I think it is not safe to turn right.\" If they are told to leave a certain town and go to another one, they will go without question. Sometimes they are even taken away from a peaceful area to a war-torn area. They cannot question it simply because of the commitment they have made to themselves and their nation, that they will defend their people regardless of all things. These are people who live selflessly, such that they have surrendered their lives for the purpose of ensuring that they protect their borders; and that law and order is enforced. They eventually lose their civility in terms of thinking, in that they cannot think like any civil citizen. They cannot decide on their own accord when to go on holiday, attend a birthday party or a funeral. Some of them are even detached from their families simply because when they are sent somewhere to work, they are supposed to be there. Some of them even leave the country to ensure that they are protecting the borders. Madam Temporary Speaker, while doing so, they go alone, leaving their families behind. While away, they will not think like any civil person. They will miss out on social places and are completely cut off from the society. If it is communication, I believe it will just by a phone call. As the armed forces are serving, they have quite a number of challenges. Some of them, as Sen. Kasanga has mentioned, are psychological, because they live in fear. They are not sure whether they will break through wherever they go to work. For example, if they come from a peaceful town to a war torn area, they are not sure whether they will survive even for three months. They are affected psychologically and even have personal worries about their children, spouses and families. This worry must be addressed wherever they are. If they are far from their families, there should be a centre to psychologically help them address those worries. When it comes to erratic transfers, they have to go when they are sent. They are sent far away from their families, where they are detached from their children. They see their children when they are fully grown. Madam Temporary Speaker, they also have challenges with their own families. This is because the children may not understand why their fathers or mothers are absent in their lives. Therefore, they get a lot of psychological stress that needs to be addressed. We need to help them manage the situation. They should be made to understand that their parents are away on duty, and that they can only see them maybe during Christmas or when on leave for about three or four weeks in a year. A lot of psychological torture is going on in the families of the disciplined forces. Some of them come back home only to find their spouses have left or eloped with other people, and it becomes a challenge. There is also psychological trauma even for the extended families. For example, when a mother has a child working in the armed forces, she will appreciate that God has given her child a job. However, there is usually that worry in a parent on whether their child is fine; if he will brave though, and all that. There is need for centres to ensure that significant others of these disciplines forces are given psychological treatment in terms of psychosocial talks. They may not be financially faring well. The disciplined forces ensure you and I are protected. There is need to devise a mechanism to ensure that they are financially compensated. We must make sure their children access free education in our learning institutions. This is because of the risks and financial obligations that the armed forces go through. There is need to give them a reason to risk their lives. We, as a country, need to move with speed to stand with the armed forces and their families, because of what they do for this nation. Madam Temporary Speaker, about a month ago, I saw on television a disciplined officer who came back with a disability; his face was deformed. When he came back home, his only beloved wife parked and went away, and he was very devastated. He came back home and there was no any kind of psychological talk to integrate him into the society. That culture shock can be very bad for an individual. Imagine that you came back from another country, where you have been defending your own country, only to be deformed and your wife desserts you. It might be very depressing knowing that you have no family or job. These people get disabilities while on duty. Therefore, they should be compensated in such a way that they will appreciate that they risked their life, but it was worth the risk. There is need to ensure that even those who acquire disability in the line of duty are retained. If they are unable to run up and down because of the disability they acquired while on duty, then they should be given a lesser duty that will not require them to run up and down. There are many jobs that they can do, including that of a desk officer, and they will be productive. There is need for us, as a country, to ensure that we are helping them. These officers are used to shooting while protecting our country. When they come back, they are not able to live as civilians. It becomes a challenge because they are used to language of commanding. Sometimes we may think they are rude and not courteous because of their training. However, we need to understand and accommodate them in the society. Madam Temporary Speaker, let us also remember their children and wives. When it comes to compensation in terms of when they lose lives in the line of duty, there is need for it to be in such a way that the family will feel that the Government appreciates their parents, who died in the line of duty. The children should even be educated for free up to their optimal. If a child is able to go up to university or Technical and Vocational Education and Training (TVET), so be it. Mr. Deputy Speaker, Sir, very few people can voluntarily decide that they want to fight and die for their nation. These are the people who give their lives for the service of their nation. Good deeds must, therefore, be rewarded. There is need for the relevant Committee of this House and Ministry to ensure that there is a kitty for the armed forces for the purpose of ensuring they are well taken care of as they defend their country and its people. Apart from a kitty, there is also need to have rehabilitation centres that will help them be integrated into the society. Some of them may not be aware that they are impolite in their language. I do not want to use the word uncouth, but some of them are not aware that their language is harsh and sharp. There should be a centre to help them in terms of communication, so that they are accepted in the society. The centre should also encourage and give psychological counseling to the family. Madam Temporary Speaker, this is a timely Motion that should see the light of day. I, therefore, encourage Sen. Khaniri to come up with a Bill that will ensure that the country protects our disciplined forces so that they feel appreciated and give their best. When a person has sacrificed his or her life, he has given his or her best. Madam Temporary Speaker, I beg to second the Motion."
     },
     {
-      "order": 405,
+      "order": 399,
       "id": "entry-930257",
       "label": "scene",
       "level": "3",
@@ -4863,7 +4791,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 406,
+      "order": 400,
       "id": "entry-930258",
       "label": "speech",
       "level": "3",
@@ -4875,7 +4803,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me the opportunity to support this Motion by Sen. Khaniri, which was ably moved today by Sen. Kasanga. Members of the disciplined forces provide service to the country; they keep our borders safe and friendly so that Kenyans can continue to do their businesses appropriately. However, it is absurd that we do not have a policy or programme to take care of members of the society who make sure that we are safe. What these people have to go through, in maintaining law and order in this country, is immeasurable. The effect of this is PTSD, which is real. In developed countries, they have what they call veteran or retired disciplined forces programmes. This is where when members of the disciplined forces return from a mission, they are taken care of under a programme that is guided by policy. It is absurd to hear that we do not have such a policy in the country. Madam Temporary Speaker, PTSDs have effect on families. There are so many broken families whom we do not know of, because there is a lot of secrecy in the disciplined forces. For example, they get depressed and become violent. The disciplined forces usually employ professionals, for example, psychiatric and counselors, to offer psycho-social support. How are these professionals guided in the disciplined forces? We also have public servants and their families in our embassies. In the course of their work, they undergo many challenges, for example, transfers should be done with a human face. If people have children in the final year of school, that family should not be transferred to the next station until the children complete their final year. This is because making those abrupt changes affects families. It is, therefore, not just in the disciplined forces, but also in other cadres of Government employees who are sometimes referred to as public or civil servants. We should not take advantage of them because they are civil. Let us take care of these people so that those who come after them are motivated to work with commitment to serve this country. Madam Temporary Speaker, with those remarks, I beg to support this Motion. I encourage that we move beyond the Motions. From my experience, Motions are in motion; they are moving. There is no action taken when these Motions are passed in this House. This Motion should come as a Statement so that the concerned authorities can explain to us how exactly they will implement some of these things that we are proposing in this House."
     },
     {
-      "order": 407,
+      "order": 401,
       "id": "entry-930260",
       "label": "speech",
       "level": "3",
@@ -4887,7 +4815,7 @@
       "text": "On a point of order, Madam Temporary Speaker."
     },
     {
-      "order": 408,
+      "order": 402,
       "id": "entry-930261",
       "label": "speech",
       "level": "3",
@@ -4899,7 +4827,7 @@
       "text": "What is your point of order, Sen. Kasanga?"
     },
     {
-      "order": 409,
+      "order": 403,
       "id": "entry-930262",
       "label": "speech",
       "level": "3",
@@ -4911,7 +4839,7 @@
       "text": "Madam Temporary Speaker, pursuant to Standing Order 105(1), I beg to move that the debate on the Motion on creation of support services for members of the disciplined forces and their families be now adjourned. I request Sen. (Dr.) Musuruve to second."
     },
     {
-      "order": 410,
+      "order": 404,
       "id": "entry-930263",
       "label": "speech",
       "level": "3",
@@ -4923,7 +4851,7 @@
       "text": "Madam Temporary Speaker, I second."
     },
     {
-      "order": 411,
+      "order": 405,
       "id": "entry-930264",
       "label": "scene",
       "level": "3",
@@ -4935,7 +4863,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 412,
+      "order": 406,
       "id": "entry-930266",
       "label": "speech",
       "level": "3",
@@ -4947,7 +4875,7 @@
       "text": "Madam Temporary Speaker, I support the adjournment of debate on this important Motion. We would like to have many more Senators speaking to it so that these issues are broadly discussed. We would also like to have more Kenyans listening to these issues and joining the fight for the recognition of the problems in the disciplined forces."
     },
     {
-      "order": 413,
+      "order": 407,
       "id": "entry-930267",
       "label": "speech",
       "level": "3",
@@ -4959,7 +4887,7 @@
       "text": "Hon. Senators, noting that this is just a simple question of adjournment of debate, it does not, therefore, require Division. I will proceed to put the question."
     },
     {
-      "order": 414,
+      "order": 408,
       "id": "entry-930268",
       "label": "scene",
       "level": "3",
@@ -4971,7 +4899,7 @@
       "text": "(Question, that debate on the Motion be now adjourned, put and agreed to)"
     },
     {
-      "order": 415,
+      "order": 409,
       "id": "entry-930269",
       "label": "scene",
       "level": "3",
@@ -4983,7 +4911,7 @@
       "text": "(Debate on the Motion was adjourned)"
     },
     {
-      "order": 416,
+      "order": 410,
       "id": "entry-930270",
       "label": "speech",
       "level": "3",
@@ -4995,7 +4923,7 @@
       "text": "Next Order."
     },
     {
-      "order": 417,
+      "order": 411,
       "id": "entry-930271",
       "label": "heading",
       "level": "3",
@@ -5007,7 +4935,7 @@
       "text": "PLANTING OF TREES ALONG MAJOR INFRASTRUCTURE PROJECTS IN KENYA"
     },
     {
-      "order": 418,
+      "order": 412,
       "id": "entry-930272",
       "label": "speech",
       "level": "3",
@@ -5019,7 +4947,7 @@
       "text": "THAT, AWARE of the numerous benefits that trees play in environmental conservation, combating climate change, air and water purification, carbon sequestration, flood control, prevention of soil erosion, human and wildlife sustenance, urban planning, as well as other social and economic benefits; NOTING THAT Kenya has and continues to implement various infrastructure projects across the country, among them railways, roads and highways, airports, sea and inland ports, pipelines, dams, among others; CONCERNED by the extent of environmental degradation that takes place when undertaking such infrastructure projects, entailing clearance of trees, foliage, soils, rocks, excavation of quarries, interference with forests, wetlands, rivers, drainage systems and other embankments, as well as human and wildlife displacement along the paths of the infrastructure projects; ACKNOWLEDGING THAT the Environmental Management and Coordination Act (No. 8 of 1999) and the Guidelines issued thereon require an environmental audit to be undertaken before any infrastructure projects are undertaken, with a view to identifying potential environmental impacts of the proposed projects, assessing the significance of those impacts, and proposing mitigation measures to address the negative impacts of the said projects on the environment; CONCERNED HOWEVER THAT the implementation of these provisions has failed to comprehensively address the continued large-scale environmental degradation that takes place during construction of these infrastructure projects, and that the mitigation measures undertaken"
     },
     {
-      "order": 419,
+      "order": 413,
       "id": "entry-930273",
       "label": "speech",
       "level": "3",
@@ -5031,7 +4959,7 @@
       "text": "thereon have failed to compensate for the damage done to the environment as well as the negative effects to human and wildlife populations along the infrastructure project paths; AWARE THAT the National Government has launched an ambitious plan to plant 1.8 billion trees by the year 2022, with a view to enhancing the country's tree cover from 6.2 per cent to the globally accepted minimum of 10 per cent, and that this entails, among others, planting at least 1 million trees annually in each of the forty-seven Counties; UNDERSCORING the need to balance between development and sustainable environmental management, for the benefit of present and future generations, as enshrined in the preamble to the Constitution of Kenya; NOTING that planting of tree buffers alongside and around major infrastructure projects in the country would help offset the carbon footprint of these projects, enhance the beauty and aesthetics of the projects, create safe spaces for human recreation and for wildlife to thrive, and help in meeting the target of 10 per cent national tree cover by the year 2022; NOW THEREFORE, the Senate resolves that the National Government, together with the County Governments, formulate a policy mandating the planting of trees alongside and around all major infrastructure projects across the country, setting out the roles of various actors at both the national and county levels, and outlining incentives and penalties to ensure that the policy is complied with, in ensuring a balance is attained between development and environmental conservation."
     },
     {
-      "order": 420,
+      "order": 414,
       "id": "entry-930274",
       "label": "speech",
       "level": "3",
@@ -5043,7 +4971,7 @@
       "text": "I do not see Sen. Kibiru. Therefore, this matter is deferred."
     },
     {
-      "order": 421,
+      "order": 415,
       "id": "entry-930275",
       "label": "scene",
       "level": "3",
@@ -5055,7 +4983,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 422,
+      "order": 416,
       "id": "entry-930276",
       "label": "speech",
       "level": "3",
@@ -5067,7 +4995,7 @@
       "text": "Next Order."
     },
     {
-      "order": 423,
+      "order": 417,
       "id": "entry-930277",
       "label": "heading",
       "level": "3",
@@ -5079,7 +5007,7 @@
       "text": "RETIREMENT AGE FOR PERSONS WITH DISABILITIES IN PUBLIC SERVICE"
     },
     {
-      "order": 424,
+      "order": 418,
       "id": "entry-930278",
       "label": "speech",
       "level": "3",
@@ -5091,7 +5019,7 @@
       "text": "Madam Temporary Speaker, I beg to move the following Motion:- THAT, AWARE THAT, Persons with Disabilities (PWDs) and their families are among the world's poorest, and are disadvantaged in terms of their late entry into the labour force; FURTHER AWARE THAT the reality of employing disabled people does not match the presumptions held by employers, the influence of how they think about disability remains a potent issue for disabled people seeking to work; COGNIZANT THAT Article 19 of the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD) affirms the equal right of all persons with disabilities to live in a community with choices equal to others, and with equal access to services and facilities that are responsive to their needs; NOTING THAT, unlike current trends around the world, employers in Kenya are not incentivized to employ Persons with Disabilities and therefore most public organizations and parastatals have not yet achieved the threshold of Article 54(2) of the Kenyan Constitution that obligates 5 per cent appointment of PWDs in elective and appointive positions; CONCERNED THAT, Article 27(e) of the UNCRPD advocates for party states, of which Kenya is one, to promote employment opportunities and career advancements of PWDs in the labour market as well as assistance in finding, obtaining, maintaining and returning to employment; NOW THEREFORE; the Senate calls upon the Ministry of Labour and Social Protection and county governments to develop a policy to ensure that: 1. PWDs in gainful employment in public service retire at the age of 65 years instead of 60 years; and, 2. PWDs in academia, such as universities and colleges retire at the age of 75 years instead of 70 years. Madam Temporary Speaker, issues of disability need to be taken with the seriousness they deserve. Many countries around the globe are looking for ways to help their PWDs break the cyclic nature of poverty. Some countries deliberately ensure that there are positions for the PWDs. Madam Temporary Speaker, the PWDs have quite a number of challenges which affect their entry age in school and eventually into the workforce. When some parents get children with disabilities, they do not take them to school at the required age. When normal children are taken to school at the age of five years, most parents with children with disabilities go from pillar to post, wondering what to do with their children. Others do not believe that their children have disabilities, and end up getting frustrated. Some of them take time to accept and love their children and make sure that they get education, which is a basic need as stipulated in Article 43 of the Constitution."
     },
     {
-      "order": 425,
+      "order": 419,
       "id": "entry-930280",
       "label": "speech",
       "level": "3",
@@ -5103,7 +5031,7 @@
       "text": "Sen. (Dr.) Musuruve, you will have a balance of 15 minutes when this matter appears next on the Order Paper."
     },
     {
-      "order": 426,
+      "order": 420,
       "id": "entry-930281",
       "label": "heading",
       "level": "1",
@@ -5115,7 +5043,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 427,
+      "order": 421,
       "id": "entry-930282",
       "label": "speech",
       "level": "1",

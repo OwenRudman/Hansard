@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-01-29-14-00-00",
-  "exported_at": "2026-10-13T17:32:48.581Z",
+  "exported_at": "2026-10-15T19:30:20.230Z",
   "entries": [
     {
       "order": 1,
@@ -4044,22 +4044,10 @@
       "speaker": "Sen. Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Hon. Senators, on the first charge, the results are as follows:-\n\nYES:\n\n27\n\nNOES\n\n: 12\n\nABSTENTIONS"
+      "text": "Hon. Senators, on the first charge, the results are as follows:-\n\nYES:\n\n27\n\nNOES\n\n: 12\n\nABSTENTIONS\n\n: Nil"
     },
     {
       "order": 338,
-      "id": "entry-969977",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Sen. Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 339,
       "id": "entry-969978",
       "label": "scene",
       "level": "3",
@@ -4071,7 +4059,7 @@
       "text": "(Question carried by 27 votes to 12)"
     },
     {
-      "order": 340,
+      "order": 339,
       "id": "entry-969979",
       "label": "heading",
       "level": "3",
@@ -4083,7 +4071,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 341,
+      "order": 340,
       "id": "entry-969981",
       "label": "scene",
       "level": "3",
@@ -4095,7 +4083,7 @@
       "text": "(Question, that the Senate resolves to remove from office by impeachment, the Hon. Ferdinand Ndung'u Waititu Babayao, the Governor of Kiambu County, for crimes under the National Law, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 342,
+      "order": 341,
       "id": "entry-969982",
       "label": "other",
       "level": "3",
@@ -4107,7 +4095,7 @@
       "text": "AYES:"
     },
     {
-      "order": 343,
+      "order": 342,
       "id": "entry-969983",
       "label": "other",
       "level": "3",
@@ -4119,7 +4107,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Maina, Nyeri County; Sen. Malalah, Kakamega County; Sen. Moi, Baringo County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita-Taveta County; Sen. Ndwiga, Embu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; and Sen. Wambua, Kitui County."
     },
     {
-      "order": 344,
+      "order": 343,
       "id": "entry-969984",
       "label": "other",
       "level": "3",
@@ -4131,7 +4119,7 @@
       "text": "NOES"
     },
     {
-      "order": 345,
+      "order": 344,
       "id": "entry-969985",
       "label": "other",
       "level": "3",
@@ -4143,7 +4131,7 @@
       "text": ": Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. (Eng.) Hargura, Marsabit County; Sen. Kihika, Nakuru County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Seneta, Kajiado County and Sen. Wetangula, Bungoma County"
     },
     {
-      "order": 346,
+      "order": 345,
       "id": "entry-969986",
       "label": "speech",
       "level": "3",
@@ -4152,22 +4140,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Hon. Senators, the results of the second charge are as follows:\n\nYES:\n\n28\n\nNOES\n\n: 11\n\nABSTENTIONS"
+      "text": "Hon. Senators, the results of the second charge are as follows:\n\nYES:\n\n28\n\nNOES\n\n: 11\n\nABSTENTIONS\n\n: Nil"
     },
     {
-      "order": 347,
-      "id": "entry-969992",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 348,
+      "order": 346,
       "id": "entry-969993",
       "label": "scene",
       "level": "3",
@@ -4179,7 +4155,7 @@
       "text": "(Question carried by 28 votes to 11)"
     },
     {
-      "order": 349,
+      "order": 347,
       "id": "entry-969994",
       "label": "heading",
       "level": "3",
@@ -4191,7 +4167,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 350,
+      "order": 348,
       "id": "entry-969996",
       "label": "scene",
       "level": "3",
@@ -4203,7 +4179,7 @@
       "text": "(Question, that the Senate resolves to remove from office by impeachment, the Hon. Ferdinand Ndung'u Waititu Babayao, the Governor of Kiambu County, for Abuse of office/Gross misconduct, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 351,
+      "order": 349,
       "id": "entry-969997",
       "label": "other",
       "level": "3",
@@ -4215,7 +4191,7 @@
       "text": "AYES:"
     },
     {
-      "order": 352,
+      "order": 350,
       "id": "entry-969998",
       "label": "other",
       "level": "3",
@@ -4227,7 +4203,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Maina, Nyeri County; Sen. Malalah, Kakamega County; Sen. Moi, Baringo County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita Taveta County; Sen. Ndwiga, Embu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; and Sen. Wambua, Kitui County."
     },
     {
-      "order": 353,
+      "order": 351,
       "id": "entry-969999",
       "label": "other",
       "level": "3",
@@ -4239,7 +4215,7 @@
       "text": "NOES:"
     },
     {
-      "order": 354,
+      "order": 352,
       "id": "entry-970000",
       "label": "other",
       "level": "3",
@@ -4251,7 +4227,7 @@
       "text": "Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. (Eng.) Hargura, Marsabit County; Sen. Kihika, Nakuru County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Seneta, Kajiado County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 355,
+      "order": 353,
       "id": "entry-970001",
       "label": "speech",
       "level": "3",
@@ -4260,22 +4236,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Hon. Senators, the results on the third charge are as follows:\n\nYES:\n\n28\n\nNOES\n\n: 11\n\nABSTENTIONS"
+      "text": "Hon. Senators, the results on the third charge are as follows:\n\nYES:\n\n28\n\nNOES\n\n: 11\n\nABSTENTIONS\n\n: Nil"
     },
     {
-      "order": 356,
-      "id": "entry-970007",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 357,
+      "order": 354,
       "id": "entry-970008",
       "label": "scene",
       "level": "3",
@@ -4287,7 +4251,7 @@
       "text": "(Question carried by 28 votes to 11)"
     },
     {
-      "order": 358,
+      "order": 355,
       "id": "entry-970009",
       "label": "speech",
       "level": "3",
@@ -4299,7 +4263,7 @@
       "text": "Hon. Senators, the net effect of these votes is that pursuant to Article 181 of the Constitution, Section 33 of the County Government Act and Standing Order 75 of the Senate Standing Orders, the Senate has resolved to remove from office, by impeachment, Hon. Ferdinand Ndung'u Waititu Baba Yao, the Governor of Kiambu County, and the Governor accordingly ceases to hold office."
     },
     {
-      "order": 359,
+      "order": 356,
       "id": "entry-970010",
       "label": "scene",
       "level": "3",
@@ -4311,7 +4275,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 360,
+      "order": 357,
       "id": "entry-970011",
       "label": "heading",
       "level": "1",
@@ -4323,7 +4287,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 361,
+      "order": 358,
       "id": "entry-970012",
       "label": "speech",
       "level": "1",
@@ -4335,7 +4299,7 @@
       "text": "Hon. Senators, there being no other business, it is now time to adjourn the House."
     },
     {
-      "order": 362,
+      "order": 359,
       "id": "entry-970013",
       "label": "scene",
       "level": "1",
@@ -4347,7 +4311,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 363,
+      "order": 360,
       "id": "entry-970014",
       "label": "speech",
       "level": "1",

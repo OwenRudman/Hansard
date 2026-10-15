@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-07-08-14-30-00",
-  "exported_at": "2026-10-05T08:09:26.149Z",
+  "exported_at": "2026-10-15T19:32:48.076Z",
   "entries": [
     {
       "order": 1,
@@ -1497,7 +1497,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "I had to mention that because you have done a great job. We thank all the Committee Chairpersons for the reports they have given. I hear there was no riding on anything today but I can see Sen. Were. I think she has been made to wish to appreciate something. I am giving you two minutes."
@@ -1932,22 +1932,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE COFFEE BILL"
+      "text": "THE COFFEE BILL\n\n(SENATE BILLS NO.22 OF 2020)"
     },
     {
       "order": 162,
-      "id": "entry-1085829",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(SENATE BILLS NO.22 OF 2020)"
-    },
-    {
-      "order": 163,
       "id": "entry-1085829-inserted-72b22b6b-89f7-40d6-b80f-3b0704c76de7",
       "label": "heading",
       "level": "3",
@@ -1959,7 +1947,7 @@
       "text": "THE COFFEE BILL (SENATE BILLS NO.22 OF 2020)"
     },
     {
-      "order": 164,
+      "order": 163,
       "id": "entry-1085830",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1959,7 @@
       "text": "Hon. Senators, Sen. (Dr.) Ali is not in at the moment. We defer it."
     },
     {
-      "order": 165,
+      "order": 164,
       "id": "entry-1085831",
       "label": "speech",
       "level": "3",
@@ -1983,7 +1971,7 @@
       "text": "It is Order No.10."
     },
     {
-      "order": 166,
+      "order": 165,
       "id": "entry-1085832",
       "label": "scene",
       "level": "3",
@@ -1995,7 +1983,7 @@
       "text": "(Sen. Ndwiga entered the Chamber)"
     },
     {
-      "order": 167,
+      "order": 166,
       "id": "entry-1085834",
       "label": "speech",
       "level": "3",
@@ -2007,7 +1995,7 @@
       "text": "The Chairperson of the Committee on Agriculture, Livestock and Fisheries has just walked in. Please come forward."
     },
     {
-      "order": 168,
+      "order": 167,
       "id": "entry-1085835",
       "label": "scene",
       "level": "3",
@@ -2019,7 +2007,7 @@
       "text": "(Sen. Ndwiga consulted the Chair)"
     },
     {
-      "order": 169,
+      "order": 168,
       "id": "entry-1085836",
       "label": "speech",
       "level": "3",
@@ -2031,7 +2019,7 @@
       "text": "Hon. Senators, I have been informed by the Chairman that the Committee is not ready today. We defer it."
     },
     {
-      "order": 170,
+      "order": 169,
       "id": "entry-1085837",
       "label": "scene",
       "level": "3",
@@ -2043,7 +2031,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 171,
+      "order": 170,
       "id": "entry-1085838",
       "label": "speech",
       "level": "3",
@@ -2055,7 +2043,7 @@
       "text": "Next Order."
     },
     {
-      "order": 172,
+      "order": 171,
       "id": "entry-1085839",
       "label": "heading",
       "level": "1",
@@ -2067,7 +2055,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 173,
+      "order": 172,
       "id": "entry-1085840",
       "label": "heading",
       "level": "3",
@@ -2079,7 +2067,7 @@
       "text": "THE HEALTH (AMENDMENT) BILL (SENATE BILLS NO.26 OF 2020)"
     },
     {
-      "order": 174,
+      "order": 173,
       "id": "entry-1085841",
       "label": "speech",
       "level": "3",
@@ -2091,7 +2079,7 @@
       "text": "Hon. Senators, this is the one I had referred to earlier. The sponsor of the Bill is Sen. (Dr.) Ali. He is not in the House at the moment. We defer it."
     },
     {
-      "order": 175,
+      "order": 174,
       "id": "entry-1085842",
       "label": "scene",
       "level": "3",
@@ -2103,7 +2091,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 176,
+      "order": 175,
       "id": "entry-1085843",
       "label": "heading",
       "level": "1",
@@ -2115,7 +2103,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 177,
+      "order": 176,
       "id": "entry-1085844",
       "label": "heading",
       "level": "3",
@@ -2127,7 +2115,7 @@
       "text": "THE BASIC EDUCATION (AMENDMENT) BILL (SENATE BILL NO.4 OF 2021)"
     },
     {
-      "order": 178,
+      "order": 177,
       "id": "entry-1085845",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2127,7 @@
       "text": "Hon. Senators, the sponsor of the Bill, Sen. Kwamboka is not in the House. We defer it."
     },
     {
-      "order": 179,
+      "order": 178,
       "id": "entry-1085846",
       "label": "scene",
       "level": "3",
@@ -2151,7 +2139,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 180,
+      "order": 179,
       "id": "entry-1085847",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2151,7 @@
       "text": "Next Order."
     },
     {
-      "order": 181,
+      "order": 180,
       "id": "entry-1085848",
       "label": "heading",
       "level": "1",
@@ -2175,7 +2163,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 182,
+      "order": 181,
       "id": "entry-1085849",
       "label": "heading",
       "level": "3",
@@ -2187,7 +2175,7 @@
       "text": "THE COUNTY LICENSING (UNIFORM PROCEDURES) BILL (SENATE BILL NO.32 OF 2020)"
     },
     {
-      "order": 183,
+      "order": 182,
       "id": "entry-1085850",
       "label": "speech",
       "level": "3",
@@ -2199,7 +2187,7 @@
       "text": "Hon. Senators, again, the sponsor of the Bill, Sen. Chebeni, is not in the House. The Bill is deferred."
     },
     {
-      "order": 184,
+      "order": 183,
       "id": "entry-1085851",
       "label": "scene",
       "level": "3",
@@ -2211,7 +2199,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 185,
+      "order": 184,
       "id": "entry-1085852",
       "label": "speech",
       "level": "3",
@@ -2223,7 +2211,7 @@
       "text": "Next Order."
     },
     {
-      "order": 186,
+      "order": 185,
       "id": "entry-1085853",
       "label": "heading",
       "level": "1",
@@ -2235,7 +2223,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 187,
+      "order": 186,
       "id": "entry-1085854",
       "label": "heading",
       "level": "3",
@@ -2247,7 +2235,7 @@
       "text": "THE SALARIES AND REMUNERATION COMMISSION (AMENDMENT) BILL (SENATE BILLS NO.31 OF 2020)"
     },
     {
-      "order": 188,
+      "order": 187,
       "id": "entry-1085855",
       "label": "speech",
       "level": "3",
@@ -2259,7 +2247,7 @@
       "text": "Hon. Senators the Chairperson of the Committee on Finance and Budget is not the House. Therefore, we defer it."
     },
     {
-      "order": 189,
+      "order": 188,
       "id": "entry-1085856",
       "label": "scene",
       "level": "3",
@@ -2271,7 +2259,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 190,
+      "order": 189,
       "id": "entry-1085857",
       "label": "speech",
       "level": "3",
@@ -2283,7 +2271,7 @@
       "text": "Next Order."
     },
     {
-      "order": 191,
+      "order": 190,
       "id": "entry-1085858",
       "label": "heading",
       "level": "1",
@@ -2295,7 +2283,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 192,
+      "order": 191,
       "id": "entry-1085859-split-before-2886db94-6c17-47d8-83f4-2843fd35192f",
       "label": "speech",
       "level": "1",
@@ -2307,7 +2295,7 @@
       "text": "Hon. Members, I would like to defer Order Nos.15, 16 and 17 that are supposed to proceed to the Committee of the Whole for the convenience of the House."
     },
     {
-      "order": 193,
+      "order": 192,
       "id": "entry-1085859-split-selected-955411d3-5c41-431b-bdf5-a1d3598426dc",
       "label": "heading",
       "level": "2",
@@ -2316,22 +2304,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE MENTAL HEALTH (AMENDMENT) BILL"
+      "text": "THE MENTAL HEALTH (AMENDMENT) BILL\n\n(SENATE BILLS NO.28 OF 2020)"
     },
     {
-      "order": 194,
-      "id": "entry-1085859-split-after-87379cc4-b30c-4878-acb5-63b039242e3b",
-      "label": "speech",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "(SENATE BILLS NO.28 OF 2020)"
-    },
-    {
-      "order": 195,
+      "order": 193,
       "id": "entry-1085860",
       "label": "heading",
       "level": "2",
@@ -2343,7 +2319,7 @@
       "text": "THE COOPERATIVE SOCIETIES (AMENDMENT) BILL (SENATE BILLS NO.11 OF 2020)"
     },
     {
-      "order": 196,
+      "order": 194,
       "id": "entry-1085861",
       "label": "heading",
       "level": "2",
@@ -2355,7 +2331,7 @@
       "text": "THE WILDLIFE CONSERVATION (AMENDMENT) BILL (SENATE BILLS NO.30 OF 2020)"
     },
     {
-      "order": 197,
+      "order": 195,
       "id": "entry-1085861-inserted-a47afb4c-5d2e-4400-879d-e8abdac98f2f",
       "label": "heading",
       "level": "2",
@@ -2367,7 +2343,7 @@
       "text": "THE WILDLIFE CONSERVATION AND MANAGEMENT"
     },
     {
-      "order": 198,
+      "order": 196,
       "id": "entry-1085862",
       "label": "scene",
       "level": "2",
@@ -2379,7 +2355,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 199,
+      "order": 197,
       "id": "entry-1085863",
       "label": "heading",
       "level": "1",
@@ -2391,7 +2367,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 200,
+      "order": 198,
       "id": "entry-1085865",
       "label": "heading",
       "level": "3",
@@ -2403,7 +2379,7 @@
       "text": "THE PARLIAMENTARY POWERS AND PRIVILEGES (AMENDMENT) BILL (SENATE BILLS NO.33 OF 2020)"
     },
     {
-      "order": 201,
+      "order": 199,
       "id": "entry-1085866",
       "label": "speech",
       "level": "3",
@@ -2415,7 +2391,7 @@
       "text": "Hon. Senators, the Mover of the amendment is Sen. (Dr.) Zani."
     },
     {
-      "order": 202,
+      "order": 200,
       "id": "entry-1085867",
       "label": "speech",
       "level": "3",
@@ -2427,7 +2403,7 @@
       "text": "Thank you, Madam Deputy Speaker. I beg to move that the Parliamentary Powers and Privileges (Amendment) Bill (Senate Bills No.33 of 2020) be read a Second Time. This afternoon, the House has been rout with a topic about what happens with our Motions, Statements and Committee reports when we have projected and worked on them. That is at both the Committee and Plenary levels and even Motions brought by individuals where we make very strong resolutions. Some Members, for example, said when it comes to these issues, maybe we need to reactivate the Implementation Committee. How do we move forward? We have the Executive, Legislature and the Judiciary. We know our most important responsibility is oversight, but have we done what is meant to be done? Most times when these Motions, Statements and various outputs come from us as legislators, we expect certain changes. When we have done legislative amendments like we have done this afternoon, it is different because when an Act now comes into being, then certain actions, reactions and outputs will automatically come in the context of legislative agenda and work. It is law and, therefore, it will be followed. Madam Deputy Speaker, apart from laws, we have Motions, Statements and Committee proceedings. Every other day, you find Members coming to the Floor of this House to give these. This afternoon, we had Sen. Malalah, Sen. Olekina and several Members speak to it. What happens when the Motions go out? Maybe they go to the relevant Ministries and then land on an officer's desk, and therein lies the disconnect. We do not know which officer is handling the matter or how far the implementation process has gone. Neither do we know whether the implementation process has started and stopped, whether it is about to start or started and ceased and will be reactivated after some time. Therein lies the lacuna. This amendment Bill tries to impose a statutory obligation on public officers to provide feedback to Parliament on its resolutions and recommendations that have been given through various Committees and processes they have engaged. Not only does that feedback need to be given, but needs to be given in a timely, more organised fashion and according to this amendment Bill. This Bill proposes a penalty clause of not more than Kshs500,000 or a jail term of not more than six months or both in case that does not happen. That Parliament can follow through this specific obligation, or action is required from this particular Ministry. Madam Deputy Speaker, you will know that many times, even within Committee when we are probing Statements or seeking our Statements to be addressed by various Ministries, sometimes you find the clerks have to follow up to find out where it has gone and who is addressing it. The overarching responsibility lies with the Cabinet Secretary, but most of the time a lot of engagement is done. I remember as part of the strategy some people were saying we engage specific officers. Yes, sometimes we get the feedback. However, most of the time, it is delayed and it takes a lot of time. For us to be able to engage and ensure that this sort of situation is addressed, we must come up with oversight mechanisms that Parliament to able to monitor actions of the Executive and other independent officers. This will give us a sense of progress and ensure accountability. I know for many people when they finish their term, there is a feeling of \"What have I achieved? I brought this Motion or Statement; what happened? What is the follow up? How did it really work?\" It gives a sense of accountability, transparency and responsibility for the Members of Parliament and, at the same time, also for the members in the other arms of Government. It then allows Parliament the necessary democratic governance that is anchored on the fundamental principle that Parliament represents the will of the people and exercises their sovereignty. We are looking at this as a responsibility, almost a right, brought on the governors, on the Senators, on agencies to ensure that this happens as expected. We also have the issue of very important aspects like, for example, policy, the use of time and resources. In many of these reports that we give, parliamentary committee reports contain important policy recommendations and perspectives. These need to be enhanced not only just within Government offices, but also independent of these constitutional commissions and the Executive. Therefore, feedback mechanism is very important. It will take some time initially, but I am sure when a line of engagement is developed and we know that there is a particular officer dealing with a specific issue, then they can give feedback at the right time. Most of the time, we tend to rely on our Standing Orders even when we are interacting with other organs, external to Parliament. We have our Standing Orders that tell us exactly what to do within our legislative framework, but these do not apply to the other institutions. That is the lacuna that this particular amendment is trying to fill. We can rely on our Standing Orders here, but externally we can have another mechanism. This structured mechanism will help to give greater consideration to the issues that are being raised and I think that is very key. We have various clauses that are added, but the main addition comes just immediately after Part 6. This introduces a Part 6(a) which specifically indicates how reports should be handled; reports on action taken on parliamentary resolutions. We have the idea at 23(a) of the responsible officer, meaning the relevant officer who has that responsibility to enact and make sure that the resolution is tabled and finally a report is given. At 23(b) we give the Clerk of the relevant House a time frame for action. So, within seven days of a resolution of the House or the tabling of the report of a committee convey the resolution or a copy of the report to the responsible officer. So, within seven days that should have happened. Once that has happened, the resolution or the recommendation that that committee has given should also be able to come back. The responsible officer shall submit a status report. This is very key and mandatory. The report can give three specific conditions: The action that has been taken, where there has not been any action, resolution or recommendation of the report and the reason for such inaction. I think the report containing these specific formulations will be very important. For example, if it has not been implemented, why and when that will be implemented. Therefore, a report through a formal process will give us the meat to bite to ensure that this information comes on board. The committee can increase the days. For example, after they have got the report the relevant committee can say we are giving you this timeline and these specifications that need to be done and this will be communicated to the legislators. Clause 23(c) gives the penalty clause and I had already alluded to that. This will be very key in ensuring that this provision is put in place. This also allows for a consolidated report. For example, if there are very many issues that have gone to a specific public officer, then that particular officer who is responsible can have a consolidated report for all these issues and present that consolidated report. The whole idea is really just to create a structure for feedback so that, at the end of the day, we have where to follow up from and by giving a specification on how it should be handled then that helps us to be able to move forward. That is the main part about the collaboration. This amendment Bill also moves on to address something which I think we have experienced in this House recently where we had a Member who, at that time, he was not served, but he was arrested while on his way to Parliament. This amendment clause seeks to reinforce the immunity of the Member of Parliament, especially when they are within the precincts of the House. This has been brought about from the ruling of both the Mboya and the Attorney-General's High Court's resolution or a specific sentencing that was done that enabled this provision to be put into place. The High Court, Justice J.M. Mativo and Apollo Mboya versus the Attorney- General and two others in 2018, the High Court declared the provision unconstitutional to the extent that it received service to the process. This particular amendment Bill amends this provision to allow that Members have their immunity when they are within the House. It also protects the members of staff within Parliament. For example, the legal officers cannot be taken in if it is in the line of their duty. That is the other amendment that is also included in this. For example, within the precincts of Parliament while the House is sitting the jurisdiction shall be served, or executed that no process issued by any court in the exercise of its civil jurisdiction shall be served or executed within the precincts of Parliament while the House is sitting, or through the Speaker or any member of staff unless it relates to the attachment of the Member's salary, or the subject matter relates to the Member exercising their personal duty within that specific scope that is allowed. However, civil court processes should not be done in the precincts of Parliament to allow parliamentarians to do the work that they are expected to do. When this played out, this was already a provision that had already been taken into consideration within this particular Bill. Moving towards the end all this will allow Parliament to conduct its business where it is meant to allow the law to take its business and they will be able to sort out what needs to be happening within the House. Parliament is authorized to receive services on behalf of either House of Parliament or the Parliamentary Service Commission (PSC), but they will not be culpable because of that reception, because they have specific responsibilities within the House. Madam Deputy Speaker, this is the second time we are going through this Bill. This Bill had gone up to the National Assembly and it is one of the laws that is coming up after the court ruling on concurrence. I remember hearing that the National Assembly also contributed to the Amendment Bill and they were positive about it. They thought that it is something important that will help the work of legislators. We will have another debate in this House and hear how Members will discuss it. It is good that we already had a preamble on this, this afternoon. All we are trying to do is make our parliamentary work more productive and visible, and make oversight more productive by introducing legislation for other players that we will work with to do their bid so that we can enhance the legislative agenda and other agendas, including oversight, which are very important. I beg to move and request Sen (Dr.) Milgo to second."
     },
     {
-      "order": 203,
+      "order": 201,
       "id": "entry-1085878",
       "label": "speech",
       "level": "3",
@@ -2439,7 +2415,7 @@
       "text": "Sen. (Dr.) Milgo, please second."
     },
     {
-      "order": 204,
+      "order": 202,
       "id": "entry-1085879",
       "label": "speech",
       "level": "3",
@@ -2451,7 +2427,7 @@
       "text": "Madam Deputy Speaker, I wish to second this Bill brought by Sen. (Dr.) Zani. Let me, first of all, thank her for bringing such a great Bill. Very many of us have been complaining and requesting for an Implementation Committee because there is so much work that has been done by this House since we started in 2017. Some of the work has been collecting dust. We have had several Motions, Statements and Committee proceedings. In fact, on a quarterly basis, we have committees presenting the work that they have done. Yesterday we listened to the Chairperson of the Committee on Land, Environment and Natural Resources and he brought out several pertinent issues on land that speak on land injustices. We also listened to the Report by the Committee on Health that spoke on COVID- 19 funds and what is going on in the counties. We listened to the Committee on Labour and Social Welfare, which I am part of, that has done a lot of work when it comes to labour matters. The Committee on Education has also done so much work. Our major challenge is implementation. Madam Deputy Speaker, this has been so much of a challenge, and that is why every now and then we bring to the Floor the fact that we need an Implementation Committee so that we could have an avenue to follow up. You have heard many Senators wondering what happened. We have repeated several Statements. Sometimes we bring Statements, and while people are still awaiting implementation, they realize that nothing is going on. We have had people bringing Statements and Petitions to this House, but because of lack of implementation, they are taken to the National Assembly. After the National Assembly, they rotate. Our people have been rotating from both Houses trying to find solutions because of lack of implementation. Madam Deputy Speaker, Clause 23C of this Bill specifies the statutory obligations of the particular officers in terms of fines or penalties up to the tune of Kshs500,000, failure to which a person can be jailed for six months. Apart from that, Clause 23D gives powers to the Speaker to direct the concerned people to bring resolutions to the House. This provides various avenues through which we shall call for implementation of those Motions, Statements and the work done by Committees of this House. Clause 23E speaks on the avenues through which Parliament can get information from public officers. I love part 7, which specifies that Parliamentarians represent the will of the people. The reason why I say our people have suffered is lack of implementation by officers who are paid using taxpayers' money but they fail to follow up. Many of our Senators have complained here. Sometimes we call on board Cabinet Secretaries (CSs) and other officers to come to our committees and they fail to appear. Sometimes they appear, listen to what we present, take it up, then that is the end of the story. It ends with listening and that is all. I think that it is high time that such a Bill should come up. It could not have come at a better time. I thank Sen. (Dr.) Zani for bringing this to the Floor. I do not think this one will be business as usual. Madam Deputy Speaker, despite the fact that our Standing Orders state what should happen with the work that the Committees have done, even though some try they have not done it in a timely manner. This Bill speaks to the issues of being accountable and ensuring implementation in a timely manner so that we do not wait. As I stand here, I remember that in my first term as the Chair of the Committee on Education, we had a school that suffered lack of registration. Immediately, I took that up because I was still new in town. I imagined that it would be done as a matter of urgency. To date, nobody has ever acted on that school. It has very nice structures. It was only waiting registration or any further advice so that we do not waste public funds by putting up very fine structures then nobody makes good use of them. This Bill has gone further to speak to issues of immunity of Members of Parliament (MPs) as well as the staff. Although we were not able to prove whether Sen. Linturi was arrested after entering the precincts of Parliament, that issue almost caused commotion in this House. We were challenged. Some of us who were still new MPs wondered where immunity ends and where starts. This Bill will go a long way to remind Members that earlier on, we have been having such immunity, but it will serve as a reminder that MPs and staff should enjoy immunity. Madam Deputy Speaker, such a Bill can never be over emphasized because it is going to enhance the work that we have been doing as Parliament. We, as Senators, have stood here and said that people have a lot of faith in us. In a short while, nobody will have faith in the Senate because we are doing so many things and nobody is implementing them. I think that if implementation will be done based on the action that this Bill will bring on board. This House will remain in high standing and the one preferred to receive Petitions, and so on, and so forth. Madam Deputy Speaker, if this Bill goes through, I do not think we will come here again to ask for an Implementation Committee because we shall refer people to look at the Bill. With that contribution, I wish to second the Parliamentary Powers and Privileges (Amendment) Bill 2020. I once again thank Sen. (Dr.) Zani for doing such a great job and bringing up such a wonderful Bill. Thank you, Madam Deputy Speaker. I second."
     },
     {
-      "order": 205,
+      "order": 203,
       "id": "entry-1085881",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2439,7 @@
       "text": "Thank you, hon. Senators."
     },
     {
-      "order": 206,
+      "order": 204,
       "id": "entry-1085882",
       "label": "scene",
       "level": "3",
@@ -2475,7 +2451,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 207,
+      "order": 205,
       "id": "entry-1085883",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2463,7 @@
       "text": "I see an intervention from Sen. (Dr.) Zani."
     },
     {
-      "order": 208,
+      "order": 206,
       "id": "entry-1085884",
       "label": "speech",
       "level": "3",
@@ -2499,7 +2475,7 @@
       "text": "Thank you, Madam Deputy Speaker. I beg to move that pursuant to Standing Order No.105 (1), that debate be now adjourned."
     },
     {
-      "order": 209,
+      "order": 207,
       "id": "entry-1085885-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2511,7 +2487,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 210,
+      "order": 208,
       "id": "entry-1085885-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2523,7 +2499,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 211,
+      "order": 209,
       "id": "entry-1085887",
       "label": "scene",
       "level": "3",
@@ -2535,7 +2511,7 @@
       "text": "(Debate on the Bill was adjourned)"
     },
     {
-      "order": 212,
+      "order": 210,
       "id": "entry-1085888",
       "label": "speech",
       "level": "3",
@@ -2547,7 +2523,7 @@
       "text": "Next Order. The Mover again is Sen. (Dr.) Zani. Please move."
     },
     {
-      "order": 213,
+      "order": 211,
       "id": "entry-1085889",
       "label": "heading",
       "level": "1",
@@ -2559,7 +2535,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 214,
+      "order": 212,
       "id": "entry-1085890",
       "label": "heading",
       "level": "3",
@@ -2571,7 +2547,7 @@
       "text": "THE NATIONAL FLAG, EMBLEMS AND NAMES (AMENDMENT) BILL (SENATE BILLS NO. 36 OF 2020)"
     },
     {
-      "order": 215,
+      "order": 213,
       "id": "entry-1085891",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2559,7 @@
       "text": "Madam Deputy Speaker, thank you. I beg to move that the National Flag, Emblems and Names (Amendment) Bill 2020 be read a Second Time. Most of us remember with a lot of nostalgia when we were in primary school. At the beginning of the assembly, we would sing the National Anthem. That is one of the most important symbols of unity within a country. We would also have a loyalty pledge. Not a single person did not know how to recite the National Anthem. Sometime back when we had a programme for scholarship, we went for a function and everybody was identified by his/her national anthem. When everybody was sitting, suddenly your national anthem would go up on screen. This fellow would be introduced and there were a lot of emotions. I think one or two countries were left out and those fellows were not happy at all. Madam Deputy Speaker, we all value our National Anthem. We take it close to heart and embrace what it says. It helps us to build our nation and it is important. The need for this amendment occurred when it was brought to our attention some time back that one of the countries - I will not mention the name - there was a song that had been introduced and the enchantment was like this one of the national anthem. Immediately it becomes important to make sure that the copyright beyond the 50 years is still protected. The period for copyright up to 50 years is coming to an end and that is already well-established in law. However, before that, anybody can come up with something very close and take it and copyright it. Madam Deputy Speaker, among the Agiriama Community, we have the vigango which are like statues which are important. There is a time these were taken away to another country. It has been a long battle in between to get them back into the country. They have come back to the country now. Cultures are cultures and are diverse. In some culture, people look at other person's cultures and enjoy some of the things. We have had so many things taken over and copyrighted. If we think about our Maasai shuka, have we protected that? If we look at the kiondo, have we protected that? If we look at some of the cultures and languages, have we protected that? Madam Deputy Speaker, for example, in Dubai, they have an Arabian night where people eat at night and they feast. This is something very specific to that culture. It is possible for other people to also take it and make it their own. This is a very short amendment. It just wants to make sure that we protect what is Kenyan, especially where copyrights might hitch on some exclusivity or to the level it might not be clear to say that this is protected for posterity. This is protected in an open- ended way. Some time when these copyright's time for deadline come, people are not aware. If you have a copyright in place and then the 50 years come and elapses, we do not know. Madam Deputy Speaker, it is the same issue we have for land. We have seen issues of land where you have a title that is being held as community land for 99 years. After 99 years because when these laws are put into place, it seems like such a long time. When the time comes after 99 years, what is meant to happen, public participation? Somebody can go and pick some people in the community. They come and do public participation and extend the lease for another 99 years whereas this was time maybe to give back the land to the community. Most of the time you might have very many laws all running at the same time, it might become difficult for us to distinguish and know what needs to happen at a particular time. On a clause by clause, this is a three clause Bill that ensures that this whole consideration is put into place. It aims to amend the National Flag, Emblems and Names Act Cap 99 Laws of Kenya to ensure the national anthem is safeguarded. The National Flag, Emblems and Names Act Cap 99 Laws of Kenya was enacted in 1963 among other laws. It prevents the improper use of the national flag and certain emblems, names, words and likeness for professional and commercial purposes and to prohibit the display of certain flags. Madam Deputy Speaker, on the other hand, we have the Copyright Act No. 12 of 2001 that makes provision for copyright in literacy, musical, artistic works, audio visuals, sound recording and other broadcasting. In Section 25 of the Copyright Act, 2001, it provides copyright in works of the Government and international bodies. The Bill, therefore, seeks to amend The National Flags, Emblems and Names Act and Copyright Act to safeguard the national anthem from abuse upon the expiry of 50 years. The Bill seeks to ensure that the national anthem copyright is vested within the Government. Madam Deputy Speaker, this becomes critical because the Copyright Act provides copyright in works of government, musical and everything. However, there can be a contradiction, especially where the Copyright Act only gives a specific timeframe for this to happen. We want this to be opened up so that it is in entirety. Looking briefly clause by clause; we have Clause 1 which gives what the amendment Bill is all about. At Clause 3(a), copyright in a national anthem, other national symbols and any works or music related to National Assembly or national symbols eligible for copyright shall vest within the government and for a long-term period. Madam Deputy Speaker, notwithstanding the provision of this Act, copyright in the national anthem and other national symbols shall be subject to the National Flags, Emblems and Names Act. This very short amendment Bill just hopes to strengthen and contextualize the issue of copyright and make sure, especially with the national anthem and instances where we have seen attempts coming close to the national anthem in terms of copying the music. It is so that this is stopped in its entirety and the two laws enables this to happen effectively. Madam Deputy Speaker, I beg to move and request Sen. (Dr.) Milgo to second."
     },
     {
-      "order": 216,
+      "order": 214,
       "id": "entry-1085894",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2571,7 @@
       "text": "Thank you. Sen. (Dr.) Milgo, proceed."
     },
     {
-      "order": 217,
+      "order": 215,
       "id": "entry-1085895",
       "label": "speech",
       "level": "3",
@@ -2607,7 +2583,7 @@
       "text": "Thank you, Madam Deputy Speaker, for giving me this chance to second this Bill. I thank Sen. (Dr.) Zani for doing such a great job. In fact, as she was presenting it, I was wondering what came to her mind to the extent that she thought about speaking to issues of copyright. The issues of copyright are a challenge. As she was speaking to those issues, I was thinking about some of the emblems that were taken away from our country by colonialists. Recently in Nandi County, Mr. Samoei emblems that were taken away were brought back and there was great celebration. We also celebrated some emblems that were used by a revered Mogenik. When we look at copyright, we have seen flags that are almost close to our national flag. Sen. (Dr.) Zani was talking about people trying to copy our National Anthem, I thought that would be a challenge. Recently when we had the Constitution (Amendment) Bill 2020, I heard Sen. Orengo when he was talking about basic structure saying the Constitution can be amended safe for the name of Kenya and our National Anthem which is a like a prayer. Part of it says: \"Oh God of all creation---\" Justice be our shield and defender---\" I got excited and looked at our National Anthem. In my mind, I said the person who came up with it did well. There is need to ensure there is a copyright so that nobody will mess up with it or steal it from us so that it remain intact and be appreciated by the future generation it was coined on a godly basis. Madam Deputy Speaker, when it comes to copyright we have been speaking about talents. Our artists have been complaining so much. One takes a lot of energy to compose a wonderful music or art work. Sen. (Dr.) Zani talked about kiondos and Maasai shuk a. I was with her in Dubai and got a surprise that somebody was trying to imitate the Maasai regalia. We have been gaining a lot through tourisms because when people come to Kenya, they want to see Maasai and learn a bit of their culture. We are very grateful to the Maasai because even those who have gone to school maintain their attire. We have seen Sen. Olekina dressing in Maasai regalia. It has been maintained for a very long time and it is very attractive such that even other communities are embracing it. Narok County neighbours my Bomet County. We normally borrow their regalia for special ceremonies. This shows that our cultural attire is very important. There is every reason for copyrighting these items. New Section 3A is speaking to copyright of National Anthem, other material such as symbols such as music to ensure they are protected and nobody will take them away from us. Clause 3 that amends Section 25 is still speaking to copyright. It is now proposed to be amended to ensure we have a provision that protects these items so that come the future we will not be worried. Anything can happen as we have seen many things being taken away. In my county, we share the tea estates with Kericho County. Recently the 99 land lease expired. I hope it will not be renewed so that our children benefit from these tea estates in their lifetime. It is my prayer that as a matter of urgency, this Bill will be assented to so that we have protection of these things. It will remain the basic structure of our country. I beg to second."
     },
     {
-      "order": 218,
+      "order": 216,
       "id": "entry-1085904",
       "label": "speech",
       "level": "3",
@@ -2619,7 +2595,7 @@
       "text": "Thank you, Senator."
     },
     {
-      "order": 219,
+      "order": 217,
       "id": "entry-1085905",
       "label": "scene",
       "level": "3",
@@ -2631,7 +2607,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 220,
+      "order": 218,
       "id": "entry-1085906",
       "label": "speech",
       "level": "3",
@@ -2643,7 +2619,7 @@
       "text": "I can see an intervention from Sen. (Dr.) Zani."
     },
     {
-      "order": 221,
+      "order": 219,
       "id": "entry-1085907",
       "label": "speech",
       "level": "3",
@@ -2655,7 +2631,7 @@
       "text": "Thank you, Madam Deputy Speaker. I beg to move pursuant to Standing Order No.105, that debate be now adjourned."
     },
     {
-      "order": 222,
+      "order": 220,
       "id": "entry-1085908",
       "label": "scene",
       "level": "3",
@@ -2667,7 +2643,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 223,
+      "order": 221,
       "id": "entry-1085909",
       "label": "scene",
       "level": "3",
@@ -2679,7 +2655,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 224,
+      "order": 222,
       "id": "entry-1085910",
       "label": "scene",
       "level": "3",
@@ -2691,7 +2667,7 @@
       "text": "(Debate on the Bill was adjourned)"
     },
     {
-      "order": 225,
+      "order": 223,
       "id": "entry-1085911",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2679,7 @@
       "text": "Hon. Senators, Order No.20 is deferred to facilitate the Chairperson to come and present it."
     },
     {
-      "order": 226,
+      "order": 224,
       "id": "entry-1085912",
       "label": "heading",
       "level": "1",
@@ -2715,7 +2691,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 227,
+      "order": 225,
       "id": "entry-1085913",
       "label": "heading",
       "level": "3",
@@ -2727,7 +2703,7 @@
       "text": "ADOPTION OF REPORT ON THE OPERATIONALIZATION OF NATIONAL CONSTRUCTION AUTHORITY (DEFECTS LIABILITY) REGULATIONS, 2020"
     },
     {
-      "order": 228,
+      "order": 226,
       "id": "entry-1085914",
       "label": "speech",
       "level": "3",
@@ -2739,7 +2715,7 @@
       "text": "THAT, the Senate adopts the report of the Standing Committee on Roads and Transportation on its inquiry into the operationalization of the National Construction Authority (Defects Liability) Regulations, laid on the Table of the Senate on Thursday, 24th September, 2020."
     },
     {
-      "order": 229,
+      "order": 227,
       "id": "entry-1085915",
       "label": "scene",
       "level": "3",
@@ -2751,7 +2727,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 230,
+      "order": 228,
       "id": "entry-1085916",
       "label": "speech",
       "level": "3",
@@ -2763,7 +2739,7 @@
       "text": "Orders No. 21, 22, 23 and 24 are also deferred."
     },
     {
-      "order": 231,
+      "order": 229,
       "id": "entry-1085917",
       "label": "heading",
       "level": "3",
@@ -2775,7 +2751,7 @@
       "text": "ADOPTION OF REPORT ON ALLEGED NEGLIGENCE OF KNH IN MEDICAL CASE OF LATE. (PROF.) KEN WALIBORA"
     },
     {
-      "order": 232,
+      "order": 230,
       "id": "entry-1085918",
       "label": "speech",
       "level": "3",
@@ -2787,7 +2763,7 @@
       "text": "THAT, the Senate adopts the Report of the Standing Committee on Health on the alleged negligence by the Kenyatta National Hospital in the medical case"
     },
     {
-      "order": 233,
+      "order": 231,
       "id": "entry-1085919",
       "label": "speech",
       "level": "3",
@@ -2799,7 +2775,7 @@
       "text": "of the late (Prof.) Ken Walibora, prior to his death, laid on the Table of the Senate on Tuesday, 30th March, 2021."
     },
     {
-      "order": 234,
+      "order": 232,
       "id": "entry-1085920",
       "label": "scene",
       "level": "3",
@@ -2811,7 +2787,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 235,
+      "order": 233,
       "id": "entry-1085921",
       "label": "heading",
       "level": "3",
@@ -2823,7 +2799,7 @@
       "text": "ADOPTION OF REPORT ON ALLEGED IRREGULARITIES BY KEMSA"
     },
     {
-      "order": 236,
+      "order": 234,
       "id": "entry-1085922",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2811,7 @@
       "text": "THAT, the Senate adopts the Report of the Standing Committee on Health on inquiry into allegations regarding irregularities in the procurement of various pharmaceutical equipment and products by the Kenya Medical Supplies Authority (KEMSA), laid on the Table of the Senate on Tuesday, 30th March, 2021."
     },
     {
-      "order": 237,
+      "order": 235,
       "id": "entry-1085923",
       "label": "scene",
       "level": "3",
@@ -2847,7 +2823,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 238,
+      "order": 236,
       "id": "entry-1085924",
       "label": "heading",
       "level": "3",
@@ -2859,7 +2835,7 @@
       "text": "ADOPTION OF FIRST PROGRESS REPORT ON COVID-19 PANDEMIC SITUATION IN KENYA"
     },
     {
-      "order": 239,
+      "order": 237,
       "id": "entry-1085925",
       "label": "speech",
       "level": "3",
@@ -2871,7 +2847,7 @@
       "text": "THAT, the Senate adopts the First Progress Report of the Standing Committee on Health on the Covid-19 pandemic situation in Kenya, laid on the Table of the Senate on Tuesday, 30th March, 2021."
     },
     {
-      "order": 240,
+      "order": 238,
       "id": "entry-1085926",
       "label": "scene",
       "level": "3",
@@ -2883,7 +2859,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 241,
+      "order": 239,
       "id": "entry-1085927",
       "label": "heading",
       "level": "3",
@@ -2895,7 +2871,7 @@
       "text": "ADOPTION OF REPORT ON THE IMPASSE ON THE BUDGETARY ESTIMATES FOR KIRINYAGA COUNTY 2020/21"
     },
     {
-      "order": 242,
+      "order": 240,
       "id": "entry-1085927-inserted-f3e2a8f8-4b87-424a-9dae-1418ea5f516c",
       "label": "heading",
       "level": "3",
@@ -2907,7 +2883,7 @@
       "text": "ADOPTION OF REPORT ON THE IMPASSE ON BUDGETARY ESTIMATES FOR F/Y 2020/2021 FOR KIRINYAGA COUNTY"
     },
     {
-      "order": 243,
+      "order": 241,
       "id": "entry-1085928",
       "label": "speech",
       "level": "3",
@@ -2919,7 +2895,7 @@
       "text": "THAT, the Senate adopts the Report of the Standing Committee on Devolution and Intergovernmental Relations on the impasse on the budgetary estimates for Financial Year 2020/2021 for Kirinyaga County, between the County Executive and the County Assembly, laid on the Table of the Senate on Tuesday, 25th May, 2021."
     },
     {
-      "order": 244,
+      "order": 242,
       "id": "entry-1085929",
       "label": "scene",
       "level": "3",
@@ -2931,7 +2907,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 245,
+      "order": 243,
       "id": "entry-1085930",
       "label": "heading",
       "level": "1",
@@ -2943,7 +2919,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 246,
+      "order": 244,
       "id": "entry-1085931",
       "label": "speech",
       "level": "1",

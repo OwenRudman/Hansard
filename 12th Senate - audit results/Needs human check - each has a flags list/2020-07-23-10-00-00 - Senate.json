@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-07-23-10-00-00",
-  "exported_at": "2026-10-13T17:33:16.524Z",
+  "exported_at": "2026-10-15T19:31:20.005Z",
   "entries": [
     {
       "order": 1,
@@ -912,25 +912,13 @@
       "speaker": "Sen. (Dr.) Ali",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Madam Temporary Chairperson, I beg to move - THAT the Bill be amended by inserting the following new clause immediately after Clause 16 Consequential amendment."
+      "text": "Madam Temporary Chairperson, I beg to move - THAT the Bill be amended by inserting the following new clause immediately after Clause 16 Consequential amendment.\n\n17."
     },
     {
       "order": 77,
-      "id": "entry-1027585",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "17."
-    },
-    {
-      "order": 78,
       "id": "entry-1027586",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Sen. (Dr.) Ali",
@@ -939,10 +927,10 @@
       "text": "Section 7 of the Tourism Act is amended by inserting the following new subsection immediately after subsection (1)- (1A) In discharging its functions under subsection (1)(c), the Authority shall not issue, vary or renew licenses for activities classified as local tourism activities under this Act or any other law."
     },
     {
-      "order": 79,
+      "order": 78,
       "id": "entry-1027587",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -951,10 +939,10 @@
       "text": "(Question of New Clause 17 proposed)"
     },
     {
-      "order": 80,
+      "order": 79,
       "id": "entry-1027588",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -963,10 +951,10 @@
       "text": "(New Clause 17 read a first time)"
     },
     {
-      "order": 81,
+      "order": 80,
       "id": "entry-1027589",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -975,10 +963,10 @@
       "text": "(Question, that New Clause 17 be read a second time proposed)"
     },
     {
-      "order": 82,
+      "order": 81,
       "id": "entry-1027590",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -987,10 +975,10 @@
       "text": "(Question, that New Clause 17 be part of the Bill proposed)"
     },
     {
-      "order": 83,
+      "order": 82,
       "id": "entry-1027592",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Rose Nyamunga Ogendo",
@@ -999,7 +987,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 84,
+      "order": 83,
       "id": "entry-1027593",
       "label": "heading",
       "level": "5",
@@ -1011,7 +999,7 @@
       "text": "First Schedule"
     },
     {
-      "order": 85,
+      "order": 84,
       "id": "entry-1027594",
       "label": "speech",
       "level": "5",
@@ -1023,7 +1011,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT the title to the First Schedule to the Bill be amended by deleting the word \"FIRST\" appearing immediately before the word \"SCHEDULE\""
     },
     {
-      "order": 86,
+      "order": 85,
       "id": "entry-1027595",
       "label": "scene",
       "level": "5",
@@ -1035,7 +1023,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 87,
+      "order": 86,
       "id": "entry-1027596",
       "label": "speech",
       "level": "5",
@@ -1047,7 +1035,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 88,
+      "order": 87,
       "id": "entry-1027597",
       "label": "heading",
       "level": "5",
@@ -1059,7 +1047,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 89,
+      "order": 88,
       "id": "entry-1027598",
       "label": "speech",
       "level": "5",
@@ -1071,7 +1059,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 2 of the Bill be amended by inserting the following new definitions in the correct grammatical sequence- \"Cabinet Secretary\" means the Cabinet Secretary responsible for matters relating to tourism; \"National Environment Management Authority\" means the National Environment Management Authority established under Section 7 of the Environmental Management and Coordination Act; \"National Museums of Kenya\" means the National Museums of Kenya established under Section 3 of the National Museums and Heritage Act."
     },
     {
-      "order": 90,
+      "order": 89,
       "id": "entry-1027599",
       "label": "scene",
       "level": "5",
@@ -1083,7 +1071,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 91,
+      "order": 90,
       "id": "entry-1027600",
       "label": "speech",
       "level": "5",
@@ -1095,7 +1083,7 @@
       "text": "The Division will be at the end.\n\nThe Title and Clause 1"
     },
     {
-      "order": 92,
+      "order": 91,
       "id": "entry-1027601-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1107,7 +1095,7 @@
       "text": "(Question that the tittle and Clause 1 be part of the Bill proposed)"
     },
     {
-      "order": 93,
+      "order": 92,
       "id": "entry-1027602",
       "label": "speech",
       "level": "5",
@@ -1119,7 +1107,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 94,
+      "order": 93,
       "id": "entry-1027603",
       "label": "heading",
       "level": "3",
@@ -1131,7 +1119,7 @@
       "text": "THE CARE AND PROTECTION OF CHILD PARENTS BILL (SENATE BILLS NO. 11 OF 2019)"
     },
     {
-      "order": 95,
+      "order": 94,
       "id": "entry-1027604",
       "label": "speech",
       "level": "3",
@@ -1143,7 +1131,7 @@
       "text": "Hon. Senators, we now move to The Care and Protection of Child Parents Bill (Senate Bills No. 11 of 2019)."
     },
     {
-      "order": 96,
+      "order": 95,
       "id": "entry-1027605-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1155,7 +1143,7 @@
       "text": "Clause 3"
     },
     {
-      "order": 97,
+      "order": 96,
       "id": "entry-1027605-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1167,7 +1155,7 @@
       "text": "(Question, that Clause 3 be part of the Bill proposed)"
     },
     {
-      "order": 98,
+      "order": 97,
       "id": "entry-1027607",
       "label": "speech",
       "level": "5",
@@ -1179,7 +1167,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 99,
+      "order": 98,
       "id": "entry-1027608",
       "label": "heading",
       "level": "5",
@@ -1191,7 +1179,7 @@
       "text": "Clause 4"
     },
     {
-      "order": 100,
+      "order": 99,
       "id": "entry-1027609",
       "label": "speech",
       "level": "5",
@@ -1203,7 +1191,7 @@
       "text": "Madam Temporary Chairperson, I beg to move - THAT Clause 4 of the Bill be amended in sub clause (2) by- (a) deleting the words \"family life\" appearing at the end of paragraph (a) and substituting therefor the word \"parenting\"; (b) inserting the following new paragraph immediately after paragraph (b)- (ba) collaborate with the National Social Assistance Authority to ensure that needy child parents of children born with special needs or their care takers, are beneficiaries of social assistance; and, deleting the word \"students\" appearing at the end of paragraph (d) and substituting therefor the word \"learners\"."
     },
     {
-      "order": 101,
+      "order": 100,
       "id": "entry-1027610",
       "label": "scene",
       "level": "5",
@@ -1215,7 +1203,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 102,
+      "order": 101,
       "id": "entry-1027611",
       "label": "speech",
       "level": "5",
@@ -1227,7 +1215,7 @@
       "text": "Are there further amendments proposed?"
     },
     {
-      "order": 103,
+      "order": 102,
       "id": "entry-1027612",
       "label": "speech",
       "level": "5",
@@ -1239,7 +1227,7 @@
       "text": "Thank you, Madam Temporary Chairperson. I second the amendments."
     },
     {
-      "order": 104,
+      "order": 103,
       "id": "entry-1027613",
       "label": "speech",
       "level": "5",
@@ -1251,7 +1239,7 @@
       "text": "Please read it as it is in the Order Paper. The amendments are the same. Therefore, you need to formally withdraw that amendment because there is already an amendment of the same nature."
     },
     {
-      "order": 105,
+      "order": 104,
       "id": "entry-1027614",
       "label": "speech",
       "level": "5",
@@ -1263,7 +1251,7 @@
       "text": "Madam Temporary Chairperson, I second the amendments."
     },
     {
-      "order": 106,
+      "order": 105,
       "id": "entry-1027615",
       "label": "speech",
       "level": "5",
@@ -1275,7 +1263,7 @@
       "text": "No, withdraw."
     },
     {
-      "order": 107,
+      "order": 106,
       "id": "entry-1027616",
       "label": "speech",
       "level": "5",
@@ -1287,7 +1275,7 @@
       "text": "Madam Temporary Chairperson, I beg to withdraw what I stated. I beg to withdraw my further amendment to the Clause 4 as indicated in the Order Paper."
     },
     {
-      "order": 108,
+      "order": 107,
       "id": "entry-1027617",
       "label": "speech",
       "level": "5",
@@ -1299,7 +1287,7 @@
       "text": "Senator, once you withdraw, that is it. You do not need to add anything else."
     },
     {
-      "order": 109,
+      "order": 108,
       "id": "entry-1027618-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "5",
@@ -1311,7 +1299,7 @@
       "text": "(The proposed amendment by Sen. (Dr.) Musuruve withdrawn)"
     },
     {
-      "order": 110,
+      "order": 109,
       "id": "entry-1027618-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "5",
@@ -1323,7 +1311,7 @@
       "text": "Clause 5"
     },
     {
-      "order": 111,
+      "order": 110,
       "id": "entry-1027619",
       "label": "speech",
       "level": "5",
@@ -1335,7 +1323,7 @@
       "text": "Madam Temporary Chairperson, on Clause 4, I was a bit at a loss because the amendment on Clause 4 by the Committee is exactly the same amendment---"
     },
     {
-      "order": 112,
+      "order": 111,
       "id": "entry-1027620",
       "label": "speech",
       "level": "5",
@@ -1347,7 +1335,7 @@
       "text": "That is why Sen. (Dr.) Musuruve had to withdraw her amendment."
     },
     {
-      "order": 113,
+      "order": 112,
       "id": "entry-1027621",
       "label": "speech",
       "level": "5",
@@ -1359,7 +1347,7 @@
       "text": "Madam Temporary Chairperson, she was a Member of the Committee at that time. Madam Temporary Chairperson, I beg to move: - THAT Clause 5 of the Bill be amended in paragraph (b) by deleting the word \"students\" appearing immediately after the words \"that ensure that\" in subparagraph (ii) and substituting therefor the word \"learners\". It is a simple amendment. It is just changing the word \"students\" to \"learners\" for consistency."
     },
     {
-      "order": 114,
+      "order": 113,
       "id": "entry-1027624",
       "label": "scene",
       "level": "5",
@@ -1371,7 +1359,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 115,
+      "order": 114,
       "id": "entry-1027625",
       "label": "speech",
       "level": "5",
@@ -1383,7 +1371,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 116,
+      "order": 115,
       "id": "entry-1027626",
       "label": "heading",
       "level": "5",
@@ -1395,7 +1383,7 @@
       "text": "Clause 6"
     },
     {
-      "order": 117,
+      "order": 116,
       "id": "entry-1027627",
       "label": "speech",
       "level": "5",
@@ -1407,7 +1395,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: - THAT Clause 6 of the Bill be amended in subclause (1) by deleting paragraph (e) and substituting therefor the following new paragraph- (e) put in place programmes- (i) aimed at capacity building for child parents to ensure that they are able to support their families; and (i ) for responsible parenting."
     },
     {
-      "order": 118,
+      "order": 117,
       "id": "entry-1027628",
       "label": "scene",
       "level": "5",
@@ -1419,7 +1407,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 119,
+      "order": 118,
       "id": "entry-1027629",
       "label": "speech",
       "level": "5",
@@ -1431,7 +1419,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 120,
+      "order": 119,
       "id": "entry-1027630",
       "label": "heading",
       "level": "5",
@@ -1443,7 +1431,7 @@
       "text": "Clause 7"
     },
     {
-      "order": 121,
+      "order": 120,
       "id": "entry-1027631",
       "label": "speech",
       "level": "5",
@@ -1455,7 +1443,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: - THAT Clause 7 of the Bill be amended in subclause (2) by deleting the words \"and encouraging positive sexual behaviour amongst children in the institution\" appearing at the end of paragraph (a). It is a very simple deletion."
     },
     {
-      "order": 122,
+      "order": 121,
       "id": "entry-1027632",
       "label": "scene",
       "level": "5",
@@ -1467,7 +1455,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 123,
+      "order": 122,
       "id": "entry-1027633",
       "label": "speech",
       "level": "5",
@@ -1479,7 +1467,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 124,
+      "order": 123,
       "id": "entry-1027634",
       "label": "heading",
       "level": "5",
@@ -1491,7 +1479,7 @@
       "text": "Clause 8"
     },
     {
-      "order": 125,
+      "order": 124,
       "id": "entry-1027635",
       "label": "speech",
       "level": "5",
@@ -1503,7 +1491,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: - THAT clause 8 of the Bill be amended- (a) by deleting the marginal note and substituting therefor the following new marginal note- Rights of pregnant and parenting learners. (b) in subclause (2) by deleting the word \"student\" appearing at the end of paragraph (a) and substituting therefor the word \"learner\". Madam Temporary Chairperson, it is a simple deletion of a marginal note as well as using the word \"learner\" instead of \"student\" for consistency as earlier done."
     },
     {
-      "order": 126,
+      "order": 125,
       "id": "entry-1027638",
       "label": "scene",
       "level": "5",
@@ -1515,7 +1503,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 127,
+      "order": 126,
       "id": "entry-1027639",
       "label": "speech",
       "level": "5",
@@ -1527,7 +1515,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 128,
+      "order": 127,
       "id": "entry-1027640-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1539,7 +1527,7 @@
       "text": "Clause 9"
     },
     {
-      "order": 129,
+      "order": 128,
       "id": "entry-1027640-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1551,7 +1539,7 @@
       "text": "(Question that Clause 9 be part of the Bill proposed)"
     },
     {
-      "order": 130,
+      "order": 129,
       "id": "entry-1027641",
       "label": "speech",
       "level": "5",
@@ -1563,7 +1551,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 131,
+      "order": 130,
       "id": "entry-1027642",
       "label": "heading",
       "level": "5",
@@ -1575,7 +1563,7 @@
       "text": "Clause 10"
     },
     {
-      "order": 132,
+      "order": 131,
       "id": "entry-1027643",
       "label": "speech",
       "level": "5",
@@ -1587,7 +1575,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: - THAT\n\nC"
     },
     {
-      "order": 133,
+      "order": 132,
       "id": "entry-1027645",
       "label": "speech",
       "level": "5",
@@ -1599,7 +1587,7 @@
       "text": "lause 10 of the Bill be amended by inserting the following new subclause immediately after subclause (1)- (1A) The principal shall, upon receipt of the information under subsection (1), and before any action is taken, inform the parent or guardian of the child's pregnancy."
     },
     {
-      "order": 134,
+      "order": 133,
       "id": "entry-1027646",
       "label": "scene",
       "level": "5",
@@ -1611,7 +1599,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 135,
+      "order": 134,
       "id": "entry-1027647",
       "label": "speech",
       "level": "5",
@@ -1623,7 +1611,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 136,
+      "order": 135,
       "id": "entry-1027648",
       "label": "heading",
       "level": "5",
@@ -1635,7 +1623,7 @@
       "text": "Clause 11"
     },
     {
-      "order": 137,
+      "order": 136,
       "id": "entry-1027649-split-before-d9c125db-6c6c-47e0-a7f5-e9903cbecb9d",
       "label": "speech",
       "level": "5",
@@ -1647,7 +1635,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: - THAT Clause 11 of the Bill be amended by- (a) deleting subclause (1) and substituting therefor the following new subclause--\n\n(1) Every case of a child who falls pregnant in an institution of basic\n\neducation shall be handled by the management of the institution of basic education in a manner that ensures confidentiality. and (b) deleting subclause 3."
     },
     {
-      "order": 138,
+      "order": 137,
       "id": "entry-1027650",
       "label": "scene",
       "level": "5",
@@ -1659,7 +1647,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 139,
+      "order": 138,
       "id": "entry-1027651",
       "label": "speech",
       "level": "5",
@@ -1671,7 +1659,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 140,
+      "order": 139,
       "id": "entry-1027652",
       "label": "heading",
       "level": "5",
@@ -1683,7 +1671,7 @@
       "text": "Clauses 12 and 13"
     },
     {
-      "order": 141,
+      "order": 140,
       "id": "entry-1027654",
       "label": "scene",
       "level": "5",
@@ -1695,7 +1683,7 @@
       "text": "(Question that Clauses 12 and 13 be part of the Bill proposed)"
     },
     {
-      "order": 142,
+      "order": 141,
       "id": "entry-1027655",
       "label": "speech",
       "level": "5",
@@ -1707,7 +1695,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 143,
+      "order": 142,
       "id": "entry-1027656",
       "label": "heading",
       "level": "5",
@@ -1719,7 +1707,7 @@
       "text": "Clause 14"
     },
     {
-      "order": 144,
+      "order": 143,
       "id": "entry-1027657",
       "label": "speech",
       "level": "5",
@@ -1731,7 +1719,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: - THAT Clause 14 of the Bill be amended by deleting subclause (2). This is a simple deletion."
     },
     {
-      "order": 145,
+      "order": 144,
       "id": "entry-1027658",
       "label": "scene",
       "level": "5",
@@ -1743,7 +1731,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 146,
+      "order": 145,
       "id": "entry-1027659",
       "label": "speech",
       "level": "5",
@@ -1755,7 +1743,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 147,
+      "order": 146,
       "id": "entry-1027660",
       "label": "heading",
       "level": "5",
@@ -1767,7 +1755,7 @@
       "text": "Clause 15"
     },
     {
-      "order": 148,
+      "order": 147,
       "id": "entry-1027661",
       "label": "speech",
       "level": "5",
@@ -1779,7 +1767,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: - THAT Clause 15 of the Bill be amended in subclause (1) by deleting the word \"students\" appearing immediately after the words \"and parenting\" in paragraph (d) and substituting therefor the word \"learners\". Madam Temporary Chairperson, this is a simple change from the word \"students\" to \"learners.\""
     },
     {
-      "order": 149,
+      "order": 148,
       "id": "entry-1027662",
       "label": "scene",
       "level": "5",
@@ -1791,7 +1779,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 150,
+      "order": 149,
       "id": "entry-1027663",
       "label": "speech",
       "level": "5",
@@ -1803,7 +1791,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 151,
+      "order": 150,
       "id": "entry-1027664-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1815,7 +1803,7 @@
       "text": "Clauses 16-22"
     },
     {
-      "order": 152,
+      "order": 151,
       "id": "entry-1027664-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1827,7 +1815,7 @@
       "text": "(Question that Clauses 16-22 be part of the Bill proposed)"
     },
     {
-      "order": 153,
+      "order": 152,
       "id": "entry-1027665",
       "label": "speech",
       "level": "5",
@@ -1839,7 +1827,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 154,
+      "order": 153,
       "id": "entry-1027666",
       "label": "heading",
       "level": "5",
@@ -1851,7 +1839,7 @@
       "text": "Clause 23"
     },
     {
-      "order": 155,
+      "order": 154,
       "id": "entry-1027667",
       "label": "speech",
       "level": "5",
@@ -1863,7 +1851,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: - THAT\n\nC"
     },
     {
-      "order": 156,
+      "order": 155,
       "id": "entry-1027669",
       "label": "speech",
       "level": "5",
@@ -1875,7 +1863,7 @@
       "text": "lause 23 of the Bill be amended in subclause (2) by inserting the words \"in writing\" immediately after the words \"licensee, a notice\" in paragraph (a). This is a simple insertion of the word \"in writing\""
     },
     {
-      "order": 157,
+      "order": 156,
       "id": "entry-1027670",
       "label": "scene",
       "level": "5",
@@ -1887,7 +1875,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 158,
+      "order": 157,
       "id": "entry-1027671",
       "label": "speech",
       "level": "5",
@@ -1899,7 +1887,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 159,
+      "order": 158,
       "id": "entry-1027673-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1911,7 +1899,7 @@
       "text": "Clauses 24-38"
     },
     {
-      "order": 160,
+      "order": 159,
       "id": "entry-1027673-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1923,7 +1911,7 @@
       "text": "(Question, that Clauses 24-38 be part of the Bill proposed)"
     },
     {
-      "order": 161,
+      "order": 160,
       "id": "entry-1027674",
       "label": "speech",
       "level": "5",
@@ -1935,7 +1923,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 162,
+      "order": 161,
       "id": "entry-1027675",
       "label": "heading",
       "level": "5",
@@ -1947,7 +1935,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 163,
+      "order": 162,
       "id": "entry-1027676",
       "label": "speech",
       "level": "5",
@@ -1959,7 +1947,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: - THAT Clause 2 of the Bill be amended by- (a) deleting the definition of the term \"child parent\" and substituting therefor the following new definition- \"Child parent\" means a person who has not attained the age of eighteen years and is a mother or a father of a child; and (b) inserting the following new definition immediately after the definition of the term \"county executive committee member\"- \"Learner\" has the meaning assigned to it under the Teachers Service Commission Act, 2012; Madam Temporary Chairperson, it is a deletion to define the \"child parent\" being a person who has not attained the age of 18 years and is a mother or a father of a child and an insertion of the word \"learner,\" for neatness and consistency with the other laws of the land."
     },
     {
-      "order": 164,
+      "order": 163,
       "id": "entry-1027680",
       "label": "scene",
       "level": "5",
@@ -1971,7 +1959,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 165,
+      "order": 164,
       "id": "entry-1027681",
       "label": "speech",
       "level": "5",
@@ -1983,7 +1971,7 @@
       "text": "Division will be at the end.\n\nThe Title and Clause 1"
     },
     {
-      "order": 166,
+      "order": 165,
       "id": "entry-1027683",
       "label": "scene",
       "level": "5",
@@ -1995,7 +1983,7 @@
       "text": "(Question, that the Title and Clause 1 be part of the Bill, proposed)"
     },
     {
-      "order": 167,
+      "order": 166,
       "id": "entry-1027684",
       "label": "speech",
       "level": "5",
@@ -2007,7 +1995,7 @@
       "text": "The Division will be at the end. Can the Division Bell be rung for five minutes because we want to do the divisions?"
     },
     {
-      "order": 168,
+      "order": 167,
       "id": "entry-1027685",
       "label": "scene",
       "level": "5",
@@ -2019,7 +2007,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 169,
+      "order": 168,
       "id": "entry-1027686",
       "label": "scene",
       "level": "5",
@@ -2031,7 +2019,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 170,
+      "order": 169,
       "id": "entry-1027688",
       "label": "speech",
       "level": "5",
@@ -2043,7 +2031,7 @@
       "text": "Order, hon. Senators. Kindly, take your seats. We want to do the Divisions. Please, Sen. Kang'ata, can you confirm the numbers? Sen. Kang'ata, we are waiting for you. We need to know the numbers. We are starting with the first Division on the Independent Electoral and Boundaries Commission (Amendment) (No. 3) Bill (National Assembly Bills No. 35 of 2019) which has two Divisions."
     },
     {
-      "order": 171,
+      "order": 170,
       "id": "entry-1027689",
       "label": "speech",
       "level": "5",
@@ -2055,7 +2043,7 @@
       "text": "Madam Temporary Chairperson, sorry, I know I am not supposed to raise a point of order, but is it possible you give directions on voting? This is because we have very few Members here; the majority are outside."
     },
     {
-      "order": 172,
+      "order": 171,
       "id": "entry-1027690",
       "label": "speech",
       "level": "5",
@@ -2067,7 +2055,7 @@
       "text": "The Senators who are in the Chamber are going to vote electronically. Senators at the extension will be required to come and vote manually."
     },
     {
-      "order": 173,
+      "order": 172,
       "id": "entry-1027691",
       "label": "speech",
       "level": "5",
@@ -2079,7 +2067,7 @@
       "text": "Madam Temporary Chairperson, can we have a sheet where the people who are outside can vote as opposed to them walking in? It is going to take too long and we want to get to the Motion as quickly as possible."
     },
     {
-      "order": 174,
+      "order": 173,
       "id": "entry-1027692",
       "label": "speech",
       "level": "5",
@@ -2091,7 +2079,7 @@
       "text": "The Senators will be facilitated from outside there. Hon. Senators, we will start with the Independent Electoral and Boundaries Commission (Amendment) (No.3) Bill. I put the Question that Clause 2 be amended as proposed. Kindly proceed to vote, Senators."
     },
     {
-      "order": 175,
+      "order": 174,
       "id": "entry-1027693",
       "label": "scene",
       "level": "5",
@@ -2103,7 +2091,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 176,
+      "order": 175,
       "id": "entry-1027694",
       "label": "speech",
       "level": "5",
@@ -2115,7 +2103,7 @@
       "text": "Hon. Senators, I put the question that the New Clause 3A and 17 be now read a Second Time. Kindly, go ahead and vote."
     },
     {
-      "order": 177,
+      "order": 176,
       "id": "entry-1027695",
       "label": "scene",
       "level": "5",
@@ -2127,7 +2115,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 178,
+      "order": 177,
       "id": "entry-1027696",
       "label": "speech",
       "level": "5",
@@ -2139,7 +2127,7 @@
       "text": "We cannot consolidate three questions in one. Hon. Senators, assisted voters to approach the Dispatch Box."
     },
     {
-      "order": 179,
+      "order": 178,
       "id": "entry-1027697",
       "label": "scene",
       "level": "5",
@@ -2151,7 +2139,7 @@
       "text": "(Hon. Senators approached the Dispatch Box)"
     },
     {
-      "order": 180,
+      "order": 179,
       "id": "entry-1027698",
       "label": "speech",
       "level": "5",
@@ -2163,7 +2151,7 @@
       "text": "Hon. Senators, if you are within the Chamber and you have not voted electronically, please, come and sign at the Dispatch Box."
     },
     {
-      "order": 181,
+      "order": 180,
       "id": "entry-1027699",
       "label": "scene",
       "level": "5",
@@ -2175,7 +2163,7 @@
       "text": "(Hon. Senators approached the Dispatch Box)"
     },
     {
-      "order": 182,
+      "order": 181,
       "id": "entry-1027700",
       "label": "speech",
       "level": "5",
@@ -2187,7 +2175,7 @@
       "text": "Hon. Senators. We are moving to the Second Division on the same Bill of the County Tourism Bill (Senate Bills No. 5 Of 2019). We are doing the Second Division. I put the question that Clauses 3, 4, 5, 6, 12, 14, the First Schedule, and Clause 2 be amended as proposed. Kindly, vote."
     },
     {
-      "order": 183,
+      "order": 182,
       "id": "entry-1027702",
       "label": "scene",
       "level": "5",
@@ -2199,7 +2187,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 184,
+      "order": 183,
       "id": "entry-1027703",
       "label": "speech",
       "level": "5",
@@ -2211,7 +2199,7 @@
       "text": "Any assisted voters within the Chamber? The Senate Majority Leader, have you voted? Hon. Senators, we are doing the last voting on the County Tourism Bill (Senate Bills No. 5 of 2019). I put the question that Clauses 3 (as amended), 4 (as amended), 5 (as amended) ---"
     },
     {
-      "order": 185,
+      "order": 184,
       "id": "entry-1027704",
       "label": "scene",
       "level": "5",
@@ -2223,7 +2211,7 @@
       "text": "(Loud Consultations)"
     },
     {
-      "order": 186,
+      "order": 185,
       "id": "entry-1027705",
       "label": "speech",
       "level": "5",
@@ -2235,7 +2223,7 @@
       "text": "Hon. Senators, can we have your attention? I put the question Clauses 3 (as amended), Clause 4 (as amended), 5 (as amended), 6 (as amended), 7, 8, 9, 10, 11, 12 (as amended), 13, 14 (as amended), 15, 16, New Clause 3a, New Clause 17, the First Schedule (as amended), Clause 2 (as amended), the Tittle and Clause 1 be part of the Bill. Hon. Senators, go ahead and vote."
     },
     {
-      "order": 187,
+      "order": 186,
       "id": "entry-1027706",
       "label": "scene",
       "level": "5",
@@ -2247,7 +2235,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 188,
+      "order": 187,
       "id": "entry-1027707",
       "label": "speech",
       "level": "5",
@@ -2259,7 +2247,7 @@
       "text": "Hon. Senators, the assisted voters within the Chamber, please, come forward to the Dispatch Box."
     },
     {
-      "order": 189,
+      "order": 188,
       "id": "entry-1027708",
       "label": "scene",
       "level": "5",
@@ -2271,7 +2259,7 @@
       "text": "(Several Senators walked to the Clerk-at-the-Table and registered their votes)"
     },
     {
-      "order": 190,
+      "order": 189,
       "id": "entry-1027709",
       "label": "speech",
       "level": "5",
@@ -2283,7 +2271,7 @@
       "text": "Hon. Senators, we will now proceed to the last Bill; The Care and Protection of Child Parents Bill (Senate Bills No.11 of 2019). I will now put the Question; that Clauses 4, 5, 6, 7, 8, 10, 11, 14, 15, 23 and Clause 2 be amended as proposed. Hon. Senators, please, vote."
     },
     {
-      "order": 191,
+      "order": 190,
       "id": "entry-1027712",
       "label": "scene",
       "level": "5",
@@ -2295,7 +2283,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 192,
+      "order": 191,
       "id": "entry-1027713",
       "label": "speech",
       "level": "5",
@@ -2307,7 +2295,7 @@
       "text": "Any assisted voters within the Chamber, please, come forward. We are now doing our last vote under The Care and Protection of Child Parents Bill (Senate Bills No.11 of 2019). I now put the Question; that Clauses 3, 4 (as amended), 5 (as amended), 6 (as amended), 7 (as amended), 8 (as amended), 9, 10 (as amended), 11 (as amended), 12, 13, 14 (as amended), 15 (as amended), 16, 17, 18, 19, 20, 21, 22, 23 (as amended), 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 2 (as amended), The Title and Clause 1 be part of the Bill. Kindly, vote."
     },
     {
-      "order": 193,
+      "order": 192,
       "id": "entry-1027717",
       "label": "scene",
       "level": "5",
@@ -2319,7 +2307,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 194,
+      "order": 193,
       "id": "entry-1027718",
       "label": "speech",
       "level": "5",
@@ -2331,7 +2319,7 @@
       "text": "Assisted voters to approach the Clerk's Table. Any Member within the Chamber who has not voted, kindly come forward and vote."
     },
     {
-      "order": 195,
+      "order": 194,
       "id": "entry-1027719",
       "label": "scene",
       "level": "5",
@@ -2343,7 +2331,7 @@
       "text": "(Several Senators walked to the Clerk-at-the-Table and registered their votes)"
     },
     {
-      "order": 196,
+      "order": 195,
       "id": "entry-1027720",
       "label": "speech",
       "level": "5",
@@ -2355,7 +2343,7 @@
       "text": "Hon Senators, we are ready to give the results of the divisions."
     },
     {
-      "order": 197,
+      "order": 196,
       "id": "entry-1027721",
       "label": "heading",
       "level": "3",
@@ -2367,7 +2355,7 @@
       "text": "THE INDEPENDENT ELECTORAL AND BOUNDARIES COMMISSION (AMENDMENT) (NO. 3) BILL (NATIONAL ASSEMBLY BILLS NO. 35 OF 2019)"
     },
     {
-      "order": 198,
+      "order": 197,
       "id": "entry-1027722",
       "label": "heading",
       "level": "3",
@@ -2379,7 +2367,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 199,
+      "order": 198,
       "id": "entry-1027724",
       "label": "scene",
       "level": "3",
@@ -2391,7 +2379,7 @@
       "text": "(Question, that Clause 2 be amended as proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 200,
+      "order": 199,
       "id": "entry-1027725",
       "label": "other",
       "level": "3",
@@ -2403,7 +2391,7 @@
       "text": "AYES:"
     },
     {
-      "order": 201,
+      "order": 200,
       "id": "entry-1027726",
       "label": "other",
       "level": "3",
@@ -2415,7 +2403,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cheragei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Nyamunga, Kisumu County; Sen. (Dr.) Ochilo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; and, Sen. Wambua, Kitui County."
     },
     {
-      "order": 202,
+      "order": 201,
       "id": "entry-1027727",
       "label": "other",
       "level": "3",
@@ -2424,22 +2412,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 203,
-      "id": "entry-1027728",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 204,
+      "order": 202,
       "id": "entry-1027729",
       "label": "speech",
       "level": "3",
@@ -2451,7 +2427,7 @@
       "text": "Hon. Senators, the results are as follows:\n\nAYES:\n\n32\n\nNOES:"
     },
     {
-      "order": 205,
+      "order": 203,
       "id": "entry-1027733",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2439,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 206,
+      "order": 204,
       "id": "entry-1027735",
       "label": "speech",
       "level": "3",
@@ -2475,7 +2451,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 207,
+      "order": 205,
       "id": "entry-1027736",
       "label": "scene",
       "level": "3",
@@ -2487,7 +2463,7 @@
       "text": "(Question carried by 32 votes to nil)"
     },
     {
-      "order": 208,
+      "order": 206,
       "id": "entry-1027738",
       "label": "heading",
       "level": "3",
@@ -2499,7 +2475,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 209,
+      "order": 207,
       "id": "entry-1027740",
       "label": "scene",
       "level": "3",
@@ -2511,7 +2487,7 @@
       "text": "(Question, that Clause 2(as amended), the Tittle and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 210,
+      "order": 208,
       "id": "entry-1027741",
       "label": "other",
       "level": "3",
@@ -2523,7 +2499,7 @@
       "text": "AYES:"
     },
     {
-      "order": 211,
+      "order": 209,
       "id": "entry-1027742",
       "label": "other",
       "level": "3",
@@ -2535,7 +2511,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka- Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. Mpaayei, Kajiado County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wambua, Kitui County; and, Sen. Wario, Tana River County"
     },
     {
-      "order": 212,
+      "order": 210,
       "id": "entry-1027743",
       "label": "other",
       "level": "3",
@@ -2544,22 +2520,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 213,
-      "id": "entry-1027744",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 214,
+      "order": 211,
       "id": "entry-1027745",
       "label": "speech",
       "level": "3",
@@ -2571,7 +2535,7 @@
       "text": "Hon. Senators, the results are as follows:\n\nAYES:\n\n29\n\nNOES:"
     },
     {
-      "order": 215,
+      "order": 212,
       "id": "entry-1027749",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2547,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 216,
+      "order": 213,
       "id": "entry-1027751",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2559,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 217,
+      "order": 214,
       "id": "entry-1027752",
       "label": "scene",
       "level": "3",
@@ -2607,7 +2571,7 @@
       "text": "(Question carried by 29 votes to nil)"
     },
     {
-      "order": 218,
+      "order": 215,
       "id": "entry-1027753",
       "label": "heading",
       "level": "3",
@@ -2619,7 +2583,7 @@
       "text": "THE COUNTY TOURISM BILL (SENATE BILLS NO. 5 OF 2019)"
     },
     {
-      "order": 219,
+      "order": 216,
       "id": "entry-1027754",
       "label": "heading",
       "level": "3",
@@ -2631,7 +2595,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 220,
+      "order": 217,
       "id": "entry-1027756",
       "label": "scene",
       "level": "3",
@@ -2643,7 +2607,7 @@
       "text": "(Question, that New Clause 3A and New Clause 17 be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 221,
+      "order": 218,
       "id": "entry-1027757",
       "label": "other",
       "level": "3",
@@ -2655,7 +2619,7 @@
       "text": "AYES:"
     },
     {
-      "order": 222,
+      "order": 219,
       "id": "entry-1027758",
       "label": "other",
       "level": "3",
@@ -2667,7 +2631,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki,"
     },
     {
-      "order": 223,
+      "order": 220,
       "id": "entry-1027760",
       "label": "other",
       "level": "3",
@@ -2679,7 +2643,7 @@
       "text": "Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka- Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Lang'at, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Eng.) Maina, Nyeri County; Sen. Mpaayei, Kajiado County; Sen. Mutula Kilonzo Jnr., Makueni County Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Olekina, Nakuru County; Sen. Omogeni, Nyamira County; Sen. (Prof,) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; and, Sen. Wambua, Kitui County"
     },
     {
-      "order": 224,
+      "order": 221,
       "id": "entry-1027761",
       "label": "other",
       "level": "3",
@@ -2688,22 +2652,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 225,
-      "id": "entry-1027762",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 226,
+      "order": 222,
       "id": "entry-1027763",
       "label": "speech",
       "level": "3",
@@ -2715,7 +2667,7 @@
       "text": "Hon. Senators, the results are as follows:\n\nAYES:\n\n31\n\nNOES:"
     },
     {
-      "order": 227,
+      "order": 223,
       "id": "entry-1027767",
       "label": "speech",
       "level": "3",
@@ -2727,7 +2679,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 228,
+      "order": 224,
       "id": "entry-1027769",
       "label": "speech",
       "level": "3",
@@ -2739,7 +2691,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 229,
+      "order": 225,
       "id": "entry-1027770",
       "label": "scene",
       "level": "3",
@@ -2751,7 +2703,7 @@
       "text": "(Question carried by 31 votes to nil)"
     },
     {
-      "order": 230,
+      "order": 226,
       "id": "entry-1027771",
       "label": "heading",
       "level": "3",
@@ -2763,7 +2715,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 231,
+      "order": 227,
       "id": "entry-1027773",
       "label": "scene",
       "level": "3",
@@ -2775,7 +2727,7 @@
       "text": "(Question, that Clauses 3, 4, 5, 6, 12, 14, the First Schedule and Clause 2 be amended as proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 232,
+      "order": 228,
       "id": "entry-1027774",
       "label": "other",
       "level": "3",
@@ -2787,7 +2739,7 @@
       "text": "AYES:"
     },
     {
-      "order": 233,
+      "order": 229,
       "id": "entry-1027775",
       "label": "other",
       "level": "3",
@@ -2799,7 +2751,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka- Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. Malalah, Kakamega County; Sen. Mpaayei, Kajiado County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; and, Sen. Wambua, Kitui County."
     },
     {
-      "order": 234,
+      "order": 230,
       "id": "entry-1027776",
       "label": "other",
       "level": "3",
@@ -2808,22 +2760,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 235,
-      "id": "entry-1027777",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 236,
+      "order": 231,
       "id": "entry-1027779",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2775,7 @@
       "text": "Hon. Senators, the results are as follows:\n\nAYES:\n\n31\n\nNOES:"
     },
     {
-      "order": 237,
+      "order": 232,
       "id": "entry-1027783",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2787,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 238,
+      "order": 233,
       "id": "entry-1027785",
       "label": "speech",
       "level": "3",
@@ -2859,7 +2799,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 239,
+      "order": 234,
       "id": "entry-1027786",
       "label": "scene",
       "level": "3",
@@ -2871,7 +2811,7 @@
       "text": "(Question carried by 31 votes to nil)"
     },
     {
-      "order": 240,
+      "order": 235,
       "id": "entry-1027787",
       "label": "heading",
       "level": "3",
@@ -2883,7 +2823,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 241,
+      "order": 236,
       "id": "entry-1027789",
       "label": "scene",
       "level": "3",
@@ -2895,7 +2835,7 @@
       "text": "(Question, that Clause 3 (as amended), Clause 4 (as amended), Clause 6 (as emended), Clauses 7, 8, 9, 10, 11, 12 (as amended), 13, 14 (as amended), 15, 16, New Clause 3A, New Clause 17, the First Schedule (as amended), Clause 2 (as amended) the Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 242,
+      "order": 237,
       "id": "entry-1027790",
       "label": "other",
       "level": "3",
@@ -2907,7 +2847,7 @@
       "text": "AYES:"
     },
     {
-      "order": 243,
+      "order": 238,
       "id": "entry-1027791",
       "label": "other",
       "level": "3",
@@ -2919,7 +2859,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Dr.) Kabaka, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. Malalah, Kakamega County; Sen. Mpaayei, Kajiado County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; and Sen. Wambua, Kitui County."
     },
     {
-      "order": 244,
+      "order": 239,
       "id": "entry-1027792",
       "label": "other",
       "level": "3",
@@ -2928,22 +2868,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 245,
-      "id": "entry-1027793",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 246,
+      "order": 240,
       "id": "entry-1027794",
       "label": "speech",
       "level": "3",
@@ -2955,7 +2883,7 @@
       "text": "Hon. Senators, the results are as follows:\n\nAYES:\n\n28\n\nNOES:"
     },
     {
-      "order": 247,
+      "order": 241,
       "id": "entry-1027798",
       "label": "speech",
       "level": "3",
@@ -2967,7 +2895,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 248,
+      "order": 242,
       "id": "entry-1027800",
       "label": "speech",
       "level": "3",
@@ -2979,7 +2907,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 249,
+      "order": 243,
       "id": "entry-1027801",
       "label": "scene",
       "level": "3",
@@ -2991,7 +2919,7 @@
       "text": "(Question carried by 28 votes to nil)"
     },
     {
-      "order": 250,
+      "order": 244,
       "id": "entry-1027802",
       "label": "heading",
       "level": "3",
@@ -3003,7 +2931,7 @@
       "text": "THE CARE AND PROTECTION OF CHILD PARENTS BILL (SENATE BILLS NO. 11 OF 2019)"
     },
     {
-      "order": 251,
+      "order": 245,
       "id": "entry-1027804",
       "label": "heading",
       "level": "3",
@@ -3015,7 +2943,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 252,
+      "order": 246,
       "id": "entry-1027806",
       "label": "scene",
       "level": "3",
@@ -3027,7 +2955,7 @@
       "text": "(Question, that Clauses 4, 5, 6, 7, 8, 10, 11, 14, 15, 23 and Clause 2 be amended as proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 253,
+      "order": 247,
       "id": "entry-1027807",
       "label": "other",
       "level": "3",
@@ -3039,7 +2967,7 @@
       "text": "AYES:"
     },
     {
-      "order": 254,
+      "order": 248,
       "id": "entry-1027808",
       "label": "other",
       "level": "3",
@@ -3051,7 +2979,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. Malalah, Kakamega County; Sen. Moi, Baringo County; Sen. Mpaayei, Kajiado County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita-Taveta County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; and, Sen. Wamatangi, Kiambu County."
     },
     {
-      "order": 255,
+      "order": 249,
       "id": "entry-1027809",
       "label": "other",
       "level": "3",
@@ -3060,22 +2988,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 256,
-      "id": "entry-1027810",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 257,
+      "order": 250,
       "id": "entry-1027811",
       "label": "speech",
       "level": "3",
@@ -3087,7 +3003,7 @@
       "text": "Hon. Senators, the results are as follows:\n\nAYES:\n\n29\n\nNOES:"
     },
     {
-      "order": 258,
+      "order": 251,
       "id": "entry-1027815",
       "label": "speech",
       "level": "3",
@@ -3099,7 +3015,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 259,
+      "order": 252,
       "id": "entry-1027817",
       "label": "speech",
       "level": "3",
@@ -3111,7 +3027,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 260,
+      "order": 253,
       "id": "entry-1027818",
       "label": "scene",
       "level": "3",
@@ -3123,7 +3039,7 @@
       "text": "(Question carried by 29 votes to nil)"
     },
     {
-      "order": 261,
+      "order": 254,
       "id": "entry-1027819",
       "label": "heading",
       "level": "3",
@@ -3135,7 +3051,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 262,
+      "order": 255,
       "id": "entry-1027821",
       "label": "scene",
       "level": "3",
@@ -3147,7 +3063,7 @@
       "text": "(Question, that Clauses 3, 4(as amended), 5(as amended), 6 (as amended), 7 (as amended), 8(as amended), 9, 10 (as amended), 11(as amended), 12, 13, 14(as amended), 15(as amended), 16, 17, 18, 19, 20, 21, 22, 23(as amended), 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, Clause 2(as amended), the Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 263,
+      "order": 256,
       "id": "entry-1027823",
       "label": "other",
       "level": "3",
@@ -3159,7 +3075,7 @@
       "text": "AYES:"
     },
     {
-      "order": 264,
+      "order": 257,
       "id": "entry-1027824",
       "label": "other",
       "level": "3",
@@ -3171,7 +3087,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Dr.) Kabaka, Machakos County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Moi, Baringo County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo- Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita- Taveta County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; and, Sen. Wambua, Kitui County."
     },
     {
-      "order": 265,
+      "order": 258,
       "id": "entry-1027825",
       "label": "other",
       "level": "3",
@@ -3183,7 +3099,7 @@
       "text": "NOES:"
     },
     {
-      "order": 266,
+      "order": 259,
       "id": "entry-1027826",
       "label": "speech",
       "level": "3",
@@ -3195,7 +3111,7 @@
       "text": "Sen. Wamatangi, Kiambu County."
     },
     {
-      "order": 267,
+      "order": 260,
       "id": "entry-1027827",
       "label": "speech",
       "level": "3",
@@ -3207,7 +3123,7 @@
       "text": "Hon. Senators, the results are as follows:\n\nAYES:\n\n33\n\nNOES:\n\n1\n\nABSTENTIONS:"
     },
     {
-      "order": 268,
+      "order": 261,
       "id": "entry-1027833",
       "label": "speech",
       "level": "3",
@@ -3219,7 +3135,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 269,
+      "order": 262,
       "id": "entry-1027834",
       "label": "scene",
       "level": "3",
@@ -3231,7 +3147,7 @@
       "text": "(Question carried by 33 votes to 1)"
     },
     {
-      "order": 270,
+      "order": 263,
       "id": "entry-1027835",
       "label": "speech",
       "level": "3",
@@ -3243,7 +3159,7 @@
       "text": "Hon. Senators, we are now ready to give reports. I advise the Movers to be around, so that they can report. We will start with The Independent Electoral and Boundaries Commission (Amendment) Bill (National Assembly Bills No.35 of 2019)."
     },
     {
-      "order": 271,
+      "order": 264,
       "id": "entry-1027836",
       "label": "heading",
       "level": "3",
@@ -3255,7 +3171,7 @@
       "text": "THE INDEPENDENT ELECTORAL AND BOUNDARIES COMMISSION (AMENDMENT) (NO. 3) BILL (NATIONAL ASSEMBLY BILLS NO.35 OF 2019)"
     },
     {
-      "order": 272,
+      "order": 265,
       "id": "entry-1027837",
       "label": "speech",
       "level": "3",
@@ -3267,7 +3183,7 @@
       "text": "Madam Temporary Chairperson, I beg to move that the Committee do report to the Senate its consideration of The Independent Electoral and Boundaries Commission (Amendment) Bill (National Assembly Bills No. 35 of 2019) and its approval thereof with amendments."
     },
     {
-      "order": 273,
+      "order": 266,
       "id": "entry-1027838",
       "label": "scene",
       "level": "3",
@@ -3279,7 +3195,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 274,
+      "order": 267,
       "id": "entry-1027839",
       "label": "scene",
       "level": "3",
@@ -3291,7 +3207,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 275,
+      "order": 268,
       "id": "entry-1027841",
       "label": "heading",
       "level": "3",
@@ -3303,7 +3219,7 @@
       "text": "THE COUNTY TOURISM BILL (SENATE BILLS NO. 5 OF 2019)"
     },
     {
-      "order": 276,
+      "order": 269,
       "id": "entry-1027842",
       "label": "speech",
       "level": "3",
@@ -3315,7 +3231,7 @@
       "text": "Madam Temporary Chairperson, I beg to move that the Committee do report to the Senate its consideration of The County Tourism Bill (Senate Bills No.5 of 2019) and its approval thereof with amendments."
     },
     {
-      "order": 277,
+      "order": 270,
       "id": "entry-1027843",
       "label": "scene",
       "level": "3",
@@ -3327,7 +3243,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 278,
+      "order": 271,
       "id": "entry-1027844",
       "label": "scene",
       "level": "3",
@@ -3339,7 +3255,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 279,
+      "order": 272,
       "id": "entry-1027845",
       "label": "heading",
       "level": "3",
@@ -3351,7 +3267,7 @@
       "text": "THE CARE AND PROTECTION OF CHILD PARENTS BILL (SENATE BILLS NO. 11 OF 2019)"
     },
     {
-      "order": 280,
+      "order": 273,
       "id": "entry-1027846",
       "label": "speech",
       "level": "3",
@@ -3363,7 +3279,7 @@
       "text": "Madam Temporary Chairperson, I beg to move that the Committee do report to the Senate its considerations on The Care and Protection of Child Parents Bill (Senate Bills No.11 of 2019) and its approval thereof with amendments."
     },
     {
-      "order": 281,
+      "order": 274,
       "id": "entry-1027847",
       "label": "scene",
       "level": "3",
@@ -3375,7 +3291,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 282,
+      "order": 275,
       "id": "entry-1027848",
       "label": "scene",
       "level": "3",
@@ -3387,7 +3303,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 283,
+      "order": 276,
       "id": "entry-1027849",
       "label": "scene",
       "level": "3",
@@ -3399,7 +3315,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 284,
+      "order": 277,
       "id": "entry-1027850",
       "label": "scene",
       "level": "3",
@@ -3411,7 +3327,7 @@
       "text": "(The Speaker (Hon. Lusaka) in the Chair)"
     },
     {
-      "order": 285,
+      "order": 278,
       "id": "entry-1027851",
       "label": "speech",
       "level": "3",
@@ -3423,7 +3339,7 @@
       "text": "Hon. Senators, please, remain in the Chamber because we will vote on the Third Readings of these Bills. Yes, Sen. Nyamunga."
     },
     {
-      "order": 286,
+      "order": 279,
       "id": "entry-1027852",
       "label": "heading",
       "level": "3",
@@ -3435,7 +3351,7 @@
       "text": "REPORTS AND CONSIDERATION OF REPORTS"
     },
     {
-      "order": 287,
+      "order": 280,
       "id": "entry-1027853",
       "label": "heading",
       "level": "3",
@@ -3447,7 +3363,7 @@
       "text": "THE INDEPENDENT ELECTORAL AND BOUNDARIES COMMISSION (AMENDMENT) (NO.3) BILL (NATIONAL ASSEMBLY BILLS NO.35 OF 2019)"
     },
     {
-      "order": 288,
+      "order": 281,
       "id": "entry-1027854",
       "label": "speech",
       "level": "3",
@@ -3459,7 +3375,7 @@
       "text": "Mr. Speaker, Sir, I beg to report that the Committee of the Whole has considered The Independent Electoral and Boundaries Commission (Amendment) (No.3) Bill (National Assembly Bills No.35 of 2019) and its approval thereof with amendments."
     },
     {
-      "order": 289,
+      "order": 282,
       "id": "entry-1027855",
       "label": "speech",
       "level": "3",
@@ -3471,7 +3387,7 @@
       "text": "Mr. Speaker, Sir, I beg to move that the House do agree with the Committee in the said Report. I ask Sen. Dullo to second."
     },
     {
-      "order": 290,
+      "order": 283,
       "id": "entry-1027857",
       "label": "speech",
       "level": "3",
@@ -3483,7 +3399,7 @@
       "text": "Mr. Speaker, Sir, I second."
     },
     {
-      "order": 291,
+      "order": 284,
       "id": "entry-1027858",
       "label": "scene",
       "level": "3",
@@ -3495,7 +3411,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 292,
+      "order": 285,
       "id": "entry-1027859",
       "label": "scene",
       "level": "3",
@@ -3507,7 +3423,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 293,
+      "order": 286,
       "id": "entry-1027860",
       "label": "speech",
       "level": "3",
@@ -3519,7 +3435,7 @@
       "text": "Mr. Speaker, Sir, I beg to move that The Independent Electoral and Boundaries Commission (Amendment) (No. 3) Bill (National Assembly Bills No. 35 of 2019) be now read a Third Time. I ask Sen. Dullo to second."
     },
     {
-      "order": 294,
+      "order": 287,
       "id": "entry-1027861",
       "label": "speech",
       "level": "3",
@@ -3531,7 +3447,7 @@
       "text": "Mr. Speaker, Sir, I second."
     },
     {
-      "order": 295,
+      "order": 288,
       "id": "entry-1027862",
       "label": "scene",
       "level": "3",
@@ -3543,7 +3459,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 296,
+      "order": 289,
       "id": "entry-1027863-split-before-976caef1-8bef-4dab-ad90-21bf2f25b69d",
       "label": "speech",
       "level": "3",
@@ -3555,7 +3471,7 @@
       "text": "Hon. Senators, we will do the three Divisions at the end. Yes, Chairperson."
     },
     {
-      "order": 297,
+      "order": 290,
       "id": "entry-1027863-split-selected-75b76ebf-ebdc-457e-a6eb-6244a43bb888",
       "label": "heading",
       "level": "3",
@@ -3564,22 +3480,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE COUNTY TOURISM BILL"
+      "text": "THE COUNTY TOURISM BILL\n\n(SENATE BILLS NO. 5 OF 2019)"
     },
     {
-      "order": 298,
-      "id": "entry-1027863-split-after-8ff79d9d-a3cb-41c8-967e-4984a7f49622",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "(SENATE BILLS NO. 5 OF 2019)"
-    },
-    {
-      "order": 299,
+      "order": 291,
       "id": "entry-1027864",
       "label": "speech",
       "level": "3",
@@ -3591,7 +3495,7 @@
       "text": "Mr. Speaker, Sir, I beg to report that the Committee of the Whole has considered The County Tourism Bill (Senate Bills No. 5 of 2019) and its approval thereof with amendments."
     },
     {
-      "order": 300,
+      "order": 292,
       "id": "entry-1027865",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3507,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I beg to move that the House do agree with the Committee on the said report. I ask Sen. (Dr.) Musuruve to support."
     },
     {
-      "order": 301,
+      "order": 293,
       "id": "entry-1027866",
       "label": "speech",
       "level": "3",
@@ -3615,7 +3519,7 @@
       "text": "Mr. Speaker, Sir, I second."
     },
     {
-      "order": 302,
+      "order": 294,
       "id": "entry-1027867",
       "label": "scene",
       "level": "3",
@@ -3627,7 +3531,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 303,
+      "order": 295,
       "id": "entry-1027868",
       "label": "scene",
       "level": "3",
@@ -3639,7 +3543,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 304,
+      "order": 296,
       "id": "entry-1027869",
       "label": "speech",
       "level": "3",
@@ -3651,7 +3555,7 @@
       "text": "Mr. Speaker, Sir, I beg to move that The County Tourism Bill (Senate Bills No.5 of 2019) be now read a Third Time. I ask Sen. (Dr.) Musuruve to second."
     },
     {
-      "order": 305,
+      "order": 297,
       "id": "entry-1027870",
       "label": "speech",
       "level": "3",
@@ -3663,7 +3567,7 @@
       "text": "Mr. Speaker, Sir, I second."
     },
     {
-      "order": 306,
+      "order": 298,
       "id": "entry-1027871",
       "label": "scene",
       "level": "3",
@@ -3675,7 +3579,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 307,
+      "order": 299,
       "id": "entry-1027872",
       "label": "speech",
       "level": "3",
@@ -3687,7 +3591,7 @@
       "text": "The Division will come at the end."
     },
     {
-      "order": 308,
+      "order": 300,
       "id": "entry-1027873",
       "label": "heading",
       "level": "3",
@@ -3699,7 +3603,7 @@
       "text": "THE CARE AND PROTECTION OF CHILD PARENTS BILL (SENATE BILLS NO. 11 OF 2019)"
     },
     {
-      "order": 309,
+      "order": 301,
       "id": "entry-1027875",
       "label": "speech",
       "level": "3",
@@ -3711,7 +3615,7 @@
       "text": "Mr. Speaker, Sir, I beg to report that the Committee of the Whole has considered The Care and Protection of Child Parents Bill (Senate Bills No.11 of 2019) and its approval thereof with amendments."
     },
     {
-      "order": 310,
+      "order": 302,
       "id": "entry-1027876",
       "label": "speech",
       "level": "3",
@@ -3723,7 +3627,7 @@
       "text": "Mr. Speaker, Sir, I beg to move that the House do agree with the Committee on the said Report. I ask Sen. Farhiya to second."
     },
     {
-      "order": 311,
+      "order": 303,
       "id": "entry-1027877",
       "label": "speech",
       "level": "3",
@@ -3735,7 +3639,7 @@
       "text": "Mr. Speaker, Sir, I second."
     },
     {
-      "order": 312,
+      "order": 304,
       "id": "entry-1027878",
       "label": "scene",
       "level": "3",
@@ -3747,7 +3651,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 313,
+      "order": 305,
       "id": "entry-1027879",
       "label": "scene",
       "level": "3",
@@ -3759,7 +3663,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 314,
+      "order": 306,
       "id": "entry-1027880",
       "label": "speech",
       "level": "3",
@@ -3771,7 +3675,7 @@
       "text": "Mr. Speaker, Sir, I beg to move The Care and Protection of Child Parents Bill (Senate Bills No.11 of 2019) be now read a Third Time. I ask Sen. Farhiya to second."
     },
     {
-      "order": 315,
+      "order": 307,
       "id": "entry-1027881",
       "label": "speech",
       "level": "3",
@@ -3783,7 +3687,7 @@
       "text": "Mr. Speaker, Sir, I second."
     },
     {
-      "order": 316,
+      "order": 308,
       "id": "entry-1027882",
       "label": "scene",
       "level": "3",
@@ -3795,7 +3699,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 317,
+      "order": 309,
       "id": "entry-1027883",
       "label": "speech",
       "level": "3",
@@ -3807,7 +3711,7 @@
       "text": "I now direct that the Bell be rung for five minutes in respect of The Independent Electoral and Boundaries Commission (Amendment) (No. 3) Bill."
     },
     {
-      "order": 318,
+      "order": 310,
       "id": "entry-1027884",
       "label": "scene",
       "level": "3",
@@ -3819,7 +3723,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 319,
+      "order": 311,
       "id": "entry-1027885",
       "label": "speech",
       "level": "3",
@@ -3831,7 +3735,7 @@
       "text": "We are taking a Division on the Independent Electoral and Boundaries Commission (Amendment) (No. 3) (National Assembly Bills No. 35 of 2019). Those who are able to vote electronically will vote electronically and the others will be treated as assisted voters. Let us vote."
     },
     {
-      "order": 320,
+      "order": 312,
       "id": "entry-1027886",
       "label": "scene",
       "level": "3",
@@ -3843,7 +3747,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 321,
+      "order": 313,
       "id": "entry-1027887",
       "label": "speech",
       "level": "3",
@@ -3855,7 +3759,7 @@
       "text": "Assisted voters, are you through? Sen. (Prof.) Ongeri is the last one. Hon. Senators, as they tabulate the results, we can vote on The County Tourism Bill (Senate Bills No.5 of 2019). Let us vote."
     },
     {
-      "order": 322,
+      "order": 314,
       "id": "entry-1027890",
       "label": "scene",
       "level": "3",
@@ -3867,7 +3771,7 @@
       "text": "(Hon. Senators proceeded to vote)"
     },
     {
-      "order": 323,
+      "order": 315,
       "id": "entry-1027891",
       "label": "speech",
       "level": "3",
@@ -3879,7 +3783,7 @@
       "text": "Order Members. Let us take our seats. I realize you are not even observing social distance. Order Members! It is important you listen to what I am saying."
     },
     {
-      "order": 324,
+      "order": 316,
       "id": "entry-1027893",
       "label": "heading",
       "level": "1",
@@ -3891,7 +3795,7 @@
       "text": "THIRD READINGS"
     },
     {
-      "order": 325,
+      "order": 317,
       "id": "entry-1027894",
       "label": "heading",
       "level": "3",
@@ -3903,7 +3807,7 @@
       "text": "THE INDEPENDENT ELECTORAL AND BOUNDARIES COMMISSION (AMENDMENT) (NO. 3) BILL (NATIONAL ASSEMBLY BILLS NO. 35 OF 2019)"
     },
     {
-      "order": 326,
+      "order": 318,
       "id": "entry-1027895",
       "label": "heading",
       "level": "3",
@@ -3915,7 +3819,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 327,
+      "order": 319,
       "id": "entry-1027897",
       "label": "scene",
       "level": "3",
@@ -3927,7 +3831,7 @@
       "text": "(Question, that the Independent Electoral and Boundaries Commission (Amendment) (No. 3) Bill (National Assembly Bills No. 35 of 2019) be now Read a Third Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 328,
+      "order": 320,
       "id": "entry-1027898",
       "label": "other",
       "level": "3",
@@ -3939,7 +3843,7 @@
       "text": "AYES:"
     },
     {
-      "order": 329,
+      "order": 321,
       "id": "entry-1027899",
       "label": "other",
       "level": "3",
@@ -3951,7 +3855,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. (Dr.) Kabaka, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Moi, Baringo County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Ndwiga, Embu County; Sen. Nyamunga, Kisumu County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; Sen. Wario, Tana River County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 330,
+      "order": 322,
       "id": "entry-1027900",
       "label": "other",
       "level": "3",
@@ -3960,22 +3864,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 331,
-      "id": "entry-1027901",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 332,
+      "order": 323,
       "id": "entry-1027902",
       "label": "speech",
       "level": "3",
@@ -3984,34 +3876,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES:"
+      "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES:\n\n36.\n\nNOES:"
     },
     {
-      "order": 333,
-      "id": "entry-1027904",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "36."
-    },
-    {
-      "order": 334,
-      "id": "entry-1027905",
-      "label": "other",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "NOES:"
-    },
-    {
-      "order": 335,
+      "order": 324,
       "id": "entry-1027906",
       "label": "speech",
       "level": "3",
@@ -4020,22 +3888,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Nil.\n\nABSTENTIONS:"
+      "text": "Nil.\n\nABSTENTIONS:\n\nNil."
     },
     {
-      "order": 336,
-      "id": "entry-1027908",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 337,
+      "order": 325,
       "id": "entry-1027909",
       "label": "scene",
       "level": "3",
@@ -4047,7 +3903,7 @@
       "text": "(Question carried by 36 votes to nil)"
     },
     {
-      "order": 338,
+      "order": 326,
       "id": "entry-1027910",
       "label": "scene",
       "level": "3",
@@ -4059,7 +3915,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 339,
+      "order": 327,
       "id": "entry-1027912",
       "label": "heading",
       "level": "3",
@@ -4071,7 +3927,7 @@
       "text": "THE COUNTY TOURISM BILL (SENATE BILLS NO. 5 OF 2019)"
     },
     {
-      "order": 340,
+      "order": 328,
       "id": "entry-1027913",
       "label": "heading",
       "level": "3",
@@ -4083,7 +3939,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 341,
+      "order": 329,
       "id": "entry-1027915",
       "label": "scene",
       "level": "3",
@@ -4095,7 +3951,7 @@
       "text": "(Question, that the County Tourism Bill (Senate Bills No. 5 of 2019) be now Read a Third Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 342,
+      "order": 330,
       "id": "entry-1027916",
       "label": "other",
       "level": "3",
@@ -4107,7 +3963,7 @@
       "text": "AYES:"
     },
     {
-      "order": 343,
+      "order": 331,
       "id": "entry-1027917",
       "label": "other",
       "level": "3",
@@ -4119,7 +3975,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Moi, Baringo County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Ndwiga, Embu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 344,
+      "order": 332,
       "id": "entry-1027918",
       "label": "other",
       "level": "3",
@@ -4128,22 +3984,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 345,
-      "id": "entry-1027919",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 346,
+      "order": 333,
       "id": "entry-1027920",
       "label": "speech",
       "level": "3",
@@ -4152,34 +3996,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES:"
+      "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES:\n\n38.\n\nNOES:"
     },
     {
-      "order": 347,
-      "id": "entry-1027922",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "38."
-    },
-    {
-      "order": 348,
-      "id": "entry-1027923",
-      "label": "other",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "NOES:"
-    },
-    {
-      "order": 349,
+      "order": 334,
       "id": "entry-1027924",
       "label": "speech",
       "level": "3",
@@ -4188,22 +4008,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Nil.\n\nABSTENTIONS:"
+      "text": "Nil.\n\nABSTENTIONS:\n\nNil."
     },
     {
-      "order": 350,
-      "id": "entry-1027926",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 351,
+      "order": 335,
       "id": "entry-1027926-inserted-a2165893-385f-437c-938a-2991da63217b",
       "label": "heading",
       "level": "3",
@@ -4215,7 +4023,7 @@
       "text": "vote by County Delegations)"
     },
     {
-      "order": 352,
+      "order": 336,
       "id": "entry-1027927",
       "label": "scene",
       "level": "3",
@@ -4227,7 +4035,7 @@
       "text": "(Question carried by 38 votes to nil)"
     },
     {
-      "order": 353,
+      "order": 337,
       "id": "entry-1027928",
       "label": "scene",
       "level": "3",
@@ -4239,7 +4047,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 354,
+      "order": 338,
       "id": "entry-1027929",
       "label": "heading",
       "level": "3",
@@ -4251,7 +4059,7 @@
       "text": "THE CARE AND PROTECTION OF CHILD PARENTS BILL (SENATE BILLS NO. 11 OF 2019)"
     },
     {
-      "order": 355,
+      "order": 339,
       "id": "entry-1027930",
       "label": "heading",
       "level": "3",
@@ -4263,7 +4071,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 356,
+      "order": 340,
       "id": "entry-1027933",
       "label": "scene",
       "level": "3",
@@ -4275,7 +4083,7 @@
       "text": "(Question, that the Care and Protection of Child Parents Bill (Senate Bills No. 11 of 2019) be now Read a Third Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 357,
+      "order": 341,
       "id": "entry-1027934",
       "label": "other",
       "level": "3",
@@ -4287,7 +4095,7 @@
       "text": "AYES:"
     },
     {
-      "order": 358,
+      "order": 342,
       "id": "entry-1027935",
       "label": "other",
       "level": "3",
@@ -4299,7 +4107,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. Kinyua, Laikipia County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Langat, Bomet County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Moi, Baringo County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita Taveta County; Sen. Ndwiga, Embu County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 359,
+      "order": 343,
       "id": "entry-1027936",
       "label": "other",
       "level": "3",
@@ -4308,22 +4116,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 360,
-      "id": "entry-1027937",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 361,
+      "order": 344,
       "id": "entry-1027938",
       "label": "speech",
       "level": "3",
@@ -4332,34 +4128,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES:"
+      "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES:\n\n32.\n\nNOES:"
     },
     {
-      "order": 362,
-      "id": "entry-1027940",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "32."
-    },
-    {
-      "order": 363,
-      "id": "entry-1027941",
-      "label": "other",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "NOES:"
-    },
-    {
-      "order": 364,
+      "order": 345,
       "id": "entry-1027942",
       "label": "speech",
       "level": "3",
@@ -4368,22 +4140,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Nil.\n\nABSTENTIONS:"
+      "text": "Nil.\n\nABSTENTIONS:\n\nNil."
     },
     {
-      "order": 365,
-      "id": "entry-1027944",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 366,
+      "order": 346,
       "id": "entry-1027945",
       "label": "scene",
       "level": "3",
@@ -4395,7 +4155,7 @@
       "text": "(Question carried by 32 votes to nil)"
     },
     {
-      "order": 367,
+      "order": 347,
       "id": "entry-1027946",
       "label": "scene",
       "level": "3",
@@ -4407,7 +4167,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 368,
+      "order": 348,
       "id": "entry-1027947",
       "label": "speech",
       "level": "3",
@@ -4419,7 +4179,7 @@
       "text": "Next order."
     },
     {
-      "order": 369,
+      "order": 349,
       "id": "entry-1027948",
       "label": "heading",
       "level": "1",
@@ -4431,7 +4191,7 @@
       "text": "MOTION"
     },
     {
-      "order": 370,
+      "order": 350,
       "id": "entry-1027949",
       "label": "heading",
       "level": "3",
@@ -4443,7 +4203,7 @@
       "text": "ADOPTION OF REPORT ON THE THIRD BASIS FOR REVENUE ALLOCATION AMONG THE COUNTY GOVERNMENTS"
     },
     {
-      "order": 371,
+      "order": 351,
       "id": "entry-1027950",
       "label": "scene",
       "level": "3",
@@ -4455,7 +4215,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 372,
+      "order": 352,
       "id": "entry-1027951",
       "label": "speech",
       "level": "3",
@@ -4467,7 +4227,7 @@
       "text": "The Senate Majority Leader, proceed."
     },
     {
-      "order": 373,
+      "order": 353,
       "id": "entry-1027952",
       "label": "speech",
       "level": "3",
@@ -4479,7 +4239,7 @@
       "text": "Mr. Speaker, Sir, I did ask for as a Special Sitting for 10.00 a.m. this morning. My request now is, because the Mover is not here, we consider adjourning---"
     },
     {
-      "order": 374,
+      "order": 354,
       "id": "entry-1027953",
       "label": "scene",
       "level": "3",
@@ -4491,7 +4251,7 @@
       "text": "(Loud Consultations)"
     },
     {
-      "order": 375,
+      "order": 355,
       "id": "entry-1027955",
       "label": "speech",
       "level": "3",
@@ -4503,7 +4263,7 @@
       "text": "Order, Senators!"
     },
     {
-      "order": 376,
+      "order": 356,
       "id": "entry-1027956",
       "label": "speech",
       "level": "3",
@@ -4515,7 +4275,7 @@
       "text": "Mr. Speaker, Sir, I request as the Senate Majority Leader that the meeting be held on another day so that we can make conclusions."
     },
     {
-      "order": 377,
+      "order": 357,
       "id": "entry-1027957",
       "label": "scene",
       "level": "3",
@@ -4527,7 +4287,7 @@
       "text": "(Loud Consultations)"
     },
     {
-      "order": 378,
+      "order": 358,
       "id": "entry-1027958",
       "label": "speech",
       "level": "3",
@@ -4539,7 +4299,7 @@
       "text": "Order! Order Senators! There is only one Speaker in this Senate. The Senate Majority Leader had requested that we have this Special Sitting today. This is a matter of great concern. Therefore, I want to ask the Chairperson of the Committee to hasten this process because it is taking exceedingly long. He must provide leadership."
     },
     {
-      "order": 379,
+      "order": 359,
       "id": "entry-1027959",
       "label": "scene",
       "level": "3",
@@ -4551,7 +4311,7 @@
       "text": "(Loud Consultations)"
     },
     {
-      "order": 380,
+      "order": 360,
       "id": "entry-1027960",
       "label": "speech",
       "level": "3",
@@ -4563,7 +4323,7 @@
       "text": "Order! Order, Members!"
     },
     {
-      "order": 381,
+      "order": 361,
       "id": "entry-1027961",
       "label": "heading",
       "level": "1",
@@ -4575,7 +4335,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 382,
+      "order": 362,
       "id": "entry-1027962",
       "label": "speech",
       "level": "1",

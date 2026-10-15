@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-07-25-14-30-00",
-  "exported_at": "2026-10-13T17:30:46.092Z",
+  "exported_at": "2026-10-15T19:26:40.478Z",
   "entries": [
     {
       "order": 1,
@@ -1680,22 +1680,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE RETIREMENT BENEFITS (DEPUTY PRESIDENT AND DESIGNATED STATE OFFICERS) (AMENDMENT) BILL"
+      "text": "THE RETIREMENT BENEFITS (DEPUTY PRESIDENT AND DESIGNATED STATE OFFICERS) (AMENDMENT) BILL\n\n(SENATE BILLS NO.2 OF 2018)"
     },
     {
       "order": 141,
-      "id": "entry-814592-split-after-437e14eb-064d-43ae-88ff-586890c629dd",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "(SENATE BILLS NO.2 OF 2018)"
-    },
-    {
-      "order": 142,
       "id": "entry-814594-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1707,7 +1695,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 143,
+      "order": 142,
       "id": "entry-814594-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -1719,7 +1707,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 144,
+      "order": 143,
       "id": "entry-814595",
       "label": "heading",
       "level": "3",
@@ -1731,7 +1719,7 @@
       "text": "THE COUNTY STATISTICS BILL (SENATE BILLS NO. 9 OF 2018)"
     },
     {
-      "order": 145,
+      "order": 144,
       "id": "entry-814596-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1743,7 +1731,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 146,
+      "order": 145,
       "id": "entry-814596-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -1755,7 +1743,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 147,
+      "order": 146,
       "id": "entry-814597",
       "label": "heading",
       "level": "3",
@@ -1767,7 +1755,7 @@
       "text": "THE SALARIES AND REMUNERATION COMMISSION (AMENDMENT) BILL (SENATE BILLS NO.12 OF 2018)"
     },
     {
-      "order": 148,
+      "order": 147,
       "id": "entry-814598",
       "label": "scene",
       "level": "3",
@@ -1779,7 +1767,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 149,
+      "order": 148,
       "id": "entry-814599",
       "label": "heading",
       "level": "1",
@@ -1791,7 +1779,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 150,
+      "order": 149,
       "id": "entry-814600",
       "label": "heading",
       "level": "2",
@@ -1803,7 +1791,7 @@
       "text": "THE OFFICE OF THE COUNTY ATTORNEY BILL (SENATE BILLS NO.3 OF 2018)"
     },
     {
-      "order": 151,
+      "order": 150,
       "id": "entry-814601",
       "label": "scene",
       "level": "2",
@@ -1815,7 +1803,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 152,
+      "order": 151,
       "id": "entry-814602",
       "label": "heading",
       "level": "2",
@@ -1827,7 +1815,7 @@
       "text": "THE FOOD SECURITY BILL (SENATE BILLS NO. 12 OF 2017)"
     },
     {
-      "order": 153,
+      "order": 152,
       "id": "entry-814603",
       "label": "scene",
       "level": "2",
@@ -1839,7 +1827,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 154,
+      "order": 153,
       "id": "entry-814604",
       "label": "heading",
       "level": "2",
@@ -1851,7 +1839,7 @@
       "text": "THE OFFICE OF THE COUNTY PRINTER BILL (SENATE BILLS NO.7 OF 2018)"
     },
     {
-      "order": 155,
+      "order": 154,
       "id": "entry-814605",
       "label": "scene",
       "level": "2",
@@ -1863,7 +1851,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 156,
+      "order": 155,
       "id": "entry-814606",
       "label": "speech",
       "level": "2",
@@ -1875,7 +1863,7 @@
       "text": "We shall now proceed to transact the business under Order No.11. Upon exhaustion of Order No.11, if time permits, we can then have an opportunity to transact the businesses under Order No.15 going downwards. It is so ordered. Next Order!"
     },
     {
-      "order": 157,
+      "order": 156,
       "id": "entry-814607",
       "label": "heading",
       "level": "1",
@@ -1887,7 +1875,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 158,
+      "order": 157,
       "id": "entry-814608-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "1",
@@ -1899,7 +1887,7 @@
       "text": "(Order for the Committee read)"
     },
     {
-      "order": 159,
+      "order": 158,
       "id": "entry-814608-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "1",
@@ -1911,7 +1899,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 160,
+      "order": 159,
       "id": "entry-814611",
       "label": "heading",
       "level": "2",
@@ -1923,7 +1911,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 161,
+      "order": 160,
       "id": "entry-814612",
       "label": "scene",
       "level": "2",
@@ -1935,7 +1923,7 @@
       "text": "[The Temporary Chairperson (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 162,
+      "order": 161,
       "id": "entry-814613",
       "label": "heading",
       "level": "3",
@@ -1947,7 +1935,7 @@
       "text": "THE COUNTY BOUNDARIES BILL (SENATE BILLS NO.6 OF 2017)"
     },
     {
-      "order": 163,
+      "order": 162,
       "id": "entry-814614",
       "label": "speech",
       "level": "3",
@@ -1959,7 +1947,7 @@
       "text": "Hon. Senators, we are now in the Committee of the Whole to consider The County Boundaries Bill (Senate Bills No. 6 of 2017). We shall move Clause by Clause."
     },
     {
-      "order": 164,
+      "order": 163,
       "id": "entry-814615-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1971,7 +1959,7 @@
       "text": "Clauses 3, 4, 5 and 6"
     },
     {
-      "order": 165,
+      "order": 164,
       "id": "entry-814615-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1983,7 +1971,7 @@
       "text": "(Question, that Clauses 3, 4, 5 and 6 be part of the Bill proposed)"
     },
     {
-      "order": 166,
+      "order": 165,
       "id": "entry-814616",
       "label": "speech",
       "level": "5",
@@ -1995,7 +1983,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 167,
+      "order": 166,
       "id": "entry-814617",
       "label": "heading",
       "level": "5",
@@ -2007,7 +1995,7 @@
       "text": "Clause 7"
     },
     {
-      "order": 168,
+      "order": 167,
       "id": "entry-814618",
       "label": "speech",
       "level": "5",
@@ -2019,7 +2007,7 @@
       "text": "I call upon the Mover, Sen. Mutula Kilonzo Jnr., to move the amendment."
     },
     {
-      "order": 169,
+      "order": 168,
       "id": "entry-814619",
       "label": "speech",
       "level": "5",
@@ -2031,7 +2019,7 @@
       "text": "Thank you, Madam Temporary Chairperson. I beg to move- THAT the Bill be amended by deleting Clause 7 and substituting therefor the following new Clause- Establishment of a County Boundaries Mediation Committee. 7. (1) The Senate may pass a resolution for the establishment of a County Boundaries Mediation Committee upon -- (a) A request by the governor of any county whose boundary is disputed; or (b) A request by the Senator of any county whose boundary is disputed; (c) A request by a registered voter of a county whose boundary is disputed; or (d) The recommendation of the Senate, made under Section 21, for mediation as the means of resolving a boundary dispute. (2) A request under Subsection (1) (a) to (c) shall be made to the Senate and shall be accompanied by -- (a) Evidence that notice was given to every county government of a county whose boundary is the subject of the dispute referred to in subsection (1); and (b) A description in writing identifying the specific disputed county boundary under the First Schedule. (3) The Senate shall consider a request under Subsection (2) within twenty-one days."
     },
     {
-      "order": 170,
+      "order": 169,
       "id": "entry-814624-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "5",
@@ -2043,7 +2031,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 171,
+      "order": 170,
       "id": "entry-814624-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "5",
@@ -2055,7 +2043,7 @@
       "text": "Clause 8"
     },
     {
-      "order": 172,
+      "order": 171,
       "id": "entry-814625",
       "label": "speech",
       "level": "5",
@@ -2067,7 +2055,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 8 of the Bill be amended by deleting the marginal note and substituting therefor the following new marginal note -- Appointment of members of a mediation committee."
     },
     {
-      "order": 173,
+      "order": 172,
       "id": "entry-814626-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "5",
@@ -2079,7 +2067,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 174,
+      "order": 173,
       "id": "entry-814626-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "5",
@@ -2091,7 +2079,7 @@
       "text": "Clause 9"
     },
     {
-      "order": 175,
+      "order": 174,
       "id": "entry-814627",
       "label": "speech",
       "level": "5",
@@ -2103,7 +2091,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 9 of the Bill be amended in Sub-clause (1) by- (a) deleting paragraph (b) and substituting therefor the following new paragraph- (b) One person from each of the affected counties with at least five years' experience in conflict management, nominated by respective the governors; (b) deleting paragraph (c) and substituting therefor the following new paragraph- (c) a commissioner of the National Land Commission nominated by the National Land commission from amongst the commissioners; (c) Inserting the following new paragraph immediately after paragraph (c) -- (ca) a licensed surveyor nominated by the Land Surveyors' Board established under the Survey Act; Cap.299."
     },
     {
-      "order": 176,
+      "order": 175,
       "id": "entry-814628",
       "label": "speech",
       "level": "5",
@@ -2115,7 +2103,7 @@
       "text": "Division will be at the end. I call upon the Chairperson of the Standing Committee on Devolved Government and Inter- governmental Relations to move another amendment."
     },
     {
-      "order": 177,
+      "order": 176,
       "id": "entry-814629",
       "label": "speech",
       "level": "5",
@@ -2127,7 +2115,7 @@
       "text": "Thank you, Madam Temporary Chairperson. I beg to move- THAT Clause 9 of the Bill be amended- (a) by deleting the marginal note and substituting therefore the following new marginal note - Composition of the mediation committee. (b) in clause (2) by deleting the word \"ten\" appearing immediately after the words \"in the last\" and substituting therefor the word \"five\" in paragraph (a)."
     },
     {
-      "order": 178,
+      "order": 177,
       "id": "entry-814632",
       "label": "scene",
       "level": "5",
@@ -2139,7 +2127,7 @@
       "text": "(Question of the further amendment proposed)"
     },
     {
-      "order": 179,
+      "order": 178,
       "id": "entry-814633",
       "label": "speech",
       "level": "5",
@@ -2151,7 +2139,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 180,
+      "order": 179,
       "id": "entry-814634",
       "label": "heading",
       "level": "5",
@@ -2163,7 +2151,7 @@
       "text": "Clause 10"
     },
     {
-      "order": 181,
+      "order": 180,
       "id": "entry-814635",
       "label": "speech",
       "level": "5",
@@ -2175,7 +2163,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 10 of the Bill be amended in the introductory phrase to sub- clause (1) by inserting the words \"by the President\" immediately after the words \"may be removed from office.\""
     },
     {
-      "order": 182,
+      "order": 181,
       "id": "entry-814636-parenthesis-split-1-of-4",
       "label": "scene",
       "level": "5",
@@ -2187,7 +2175,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 183,
+      "order": 182,
       "id": "entry-814636-parenthesis-split-2-of-4",
       "label": "heading",
       "level": "5",
@@ -2199,7 +2187,7 @@
       "text": "Clause 11"
     },
     {
-      "order": 184,
+      "order": 183,
       "id": "entry-814636-parenthesis-split-3-of-4",
       "label": "scene",
       "level": "5",
@@ -2211,7 +2199,7 @@
       "text": "(Question, that Clause 11 be part of the Bill proposed)"
     },
     {
-      "order": 185,
+      "order": 184,
       "id": "entry-814636-parenthesis-split-4-of-4",
       "label": "heading",
       "level": "5",
@@ -2223,7 +2211,7 @@
       "text": "Clause 12"
     },
     {
-      "order": 186,
+      "order": 185,
       "id": "entry-814637",
       "label": "speech",
       "level": "5",
@@ -2235,7 +2223,7 @@
       "text": "I call upon the Chairperson of the Standing Committee on Devolved Government and Inter-Governmental Relations to move the amendment."
     },
     {
-      "order": 187,
+      "order": 186,
       "id": "entry-814638",
       "label": "speech",
       "level": "5",
@@ -2247,7 +2235,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 12 of the Bill be amended by inserting the following new clause immediately after sub-clause (2)- (2a) The secretariat referred to under subsection (1) shall include officers with knowledge and at least five years experience in physical planning or land survey."
     },
     {
-      "order": 188,
+      "order": 187,
       "id": "entry-814639-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "5",
@@ -2259,7 +2247,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 189,
+      "order": 188,
       "id": "entry-814639-parenthesis-split-2-of-3",
       "label": "heading",
       "level": "5",
@@ -2271,7 +2259,7 @@
       "text": "Clauses 13 and 14"
     },
     {
-      "order": 190,
+      "order": 189,
       "id": "entry-814639-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "5",
@@ -2283,7 +2271,7 @@
       "text": "(Question, that Clauses 13 and 14 be part of the Bill proposed)"
     },
     {
-      "order": 191,
+      "order": 190,
       "id": "entry-814642",
       "label": "heading",
       "level": "5",
@@ -2295,7 +2283,7 @@
       "text": "Clause 15"
     },
     {
-      "order": 192,
+      "order": 191,
       "id": "entry-814643",
       "label": "speech",
       "level": "5",
@@ -2307,7 +2295,7 @@
       "text": "Let us have the Mover Sen. Cherargei."
     },
     {
-      "order": 193,
+      "order": 192,
       "id": "entry-814644",
       "label": "speech",
       "level": "5",
@@ -2319,7 +2307,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 15 of the Bill be amended by deleting the introductory phrase and substituting therefor the following introductory phrase - The mediation committee shall within three months of the resolution of the Senate establish a mediation committee under Section 7, report to the Senate on -"
     },
     {
-      "order": 194,
+      "order": 193,
       "id": "entry-814645-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "5",
@@ -2331,7 +2319,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 195,
+      "order": 194,
       "id": "entry-814645-parenthesis-split-2-of-3",
       "label": "heading",
       "level": "5",
@@ -2343,7 +2331,7 @@
       "text": "Clauses 16 and 17"
     },
     {
-      "order": 196,
+      "order": 195,
       "id": "entry-814645-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "5",
@@ -2355,7 +2343,7 @@
       "text": "(Question, that Clauses 16 and 17 be part of the Bill, proposed)"
     },
     {
-      "order": 197,
+      "order": 196,
       "id": "entry-814646",
       "label": "speech",
       "level": "5",
@@ -2367,7 +2355,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 198,
+      "order": 197,
       "id": "entry-814647",
       "label": "heading",
       "level": "5",
@@ -2379,7 +2367,7 @@
       "text": "Clause 18"
     },
     {
-      "order": 199,
+      "order": 198,
       "id": "entry-814648",
       "label": "speech",
       "level": "5",
@@ -2391,7 +2379,7 @@
       "text": "Yes, Mover, Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 200,
+      "order": 199,
       "id": "entry-814649-split-before-204d046f-4319-4370-a453-a6aa7402e946",
       "label": "speech",
       "level": "5",
@@ -2403,7 +2391,7 @@
       "text": "Thank you, Madam Temporary Chairperson. I beg to move- THAT Clause 18(1) of the Bill be amended by inserting the following new paragraph immediately after paragraph (b) --\n\n(ba) The Senator of a county whose boundary is proposed to be\n\naltered or a Member of the National Assembly representing a constituency within the county whose boundary is proposed to be altered; Thank you."
     },
     {
-      "order": 201,
+      "order": 200,
       "id": "entry-814650",
       "label": "scene",
       "level": "5",
@@ -2415,7 +2403,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 202,
+      "order": 201,
       "id": "entry-814651",
       "label": "speech",
       "level": "5",
@@ -2427,7 +2415,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 203,
+      "order": 202,
       "id": "entry-814652-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2439,7 +2427,7 @@
       "text": "Clause 19"
     },
     {
-      "order": 204,
+      "order": 203,
       "id": "entry-814652-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2451,7 +2439,7 @@
       "text": "(Question, that Clause 19 be part of the Bill, proposed)"
     },
     {
-      "order": 205,
+      "order": 204,
       "id": "entry-814653",
       "label": "speech",
       "level": "5",
@@ -2463,7 +2451,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 206,
+      "order": 205,
       "id": "entry-814655",
       "label": "heading",
       "level": "5",
@@ -2475,7 +2463,7 @@
       "text": "Clause 20"
     },
     {
-      "order": 207,
+      "order": 206,
       "id": "entry-814656",
       "label": "speech",
       "level": "5",
@@ -2487,7 +2475,7 @@
       "text": "Yes, Mover, Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 208,
+      "order": 207,
       "id": "entry-814657",
       "label": "speech",
       "level": "5",
@@ -2499,7 +2487,7 @@
       "text": "Thank you, Madam Temporary Chairperson. I beg to move- THAT Clause 20 of the Bill be amended in the introductory phrase by deleting the word \"twenty-one\" appearing immediately after the words \"the Senate shall within\" and substituting therefor the word \"thirty\". Thank you."
     },
     {
-      "order": 209,
+      "order": 208,
       "id": "entry-814658",
       "label": "scene",
       "level": "5",
@@ -2511,7 +2499,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 210,
+      "order": 209,
       "id": "entry-814659",
       "label": "speech",
       "level": "5",
@@ -2523,7 +2511,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 211,
+      "order": 210,
       "id": "entry-814660-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2535,7 +2523,7 @@
       "text": "Clauses 21 and 22"
     },
     {
-      "order": 212,
+      "order": 211,
       "id": "entry-814660-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2547,7 +2535,7 @@
       "text": "(Question, that Clauses 21 and 22 be part of the Bill, proposed)"
     },
     {
-      "order": 213,
+      "order": 212,
       "id": "entry-814661",
       "label": "speech",
       "level": "5",
@@ -2559,7 +2547,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 214,
+      "order": 213,
       "id": "entry-814662",
       "label": "heading",
       "level": "5",
@@ -2571,7 +2559,7 @@
       "text": "Clause 23"
     },
     {
-      "order": 215,
+      "order": 214,
       "id": "entry-814663",
       "label": "speech",
       "level": "5",
@@ -2583,7 +2571,7 @@
       "text": "Yes, Mover, Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 216,
+      "order": 215,
       "id": "entry-814664",
       "label": "speech",
       "level": "5",
@@ -2595,7 +2583,7 @@
       "text": "Thank you, Madam Temporary Chairperson. I beg to move- THAT the Bill be amended by deleting Clause 23 and substituting therefor the following new clause- Consideration 23. (1) The National Assembly shall consider a resolution received of report of under section 22(b) within thirty days of receipt of the resolution. special committee by (2) If the National Assembly -- the National (a) concurs with the resolution of the Senate for the Assembly. establishment of a commission, a commission shall be established in accordance with section 24 of this Act; or (b) does not concur with the resolution of the Senate for the establishment of a commission, the petition shall be referred to a parliamentary mediation committee comprising an equal number of members from each House. (3) If the National Assembly fails to consider the resolution of the Senate within the specified time, the National Assembly is deemed to have approved the resolution of the Senate. (4) Where the National Assembly approves the resolution of the Senate, the Speaker of the Senate shall, within seven days of the approval by the National Assembly, forward the resolution to the President for the establishment of a commission in accordance with section 24. (5) (a) The parliamentary mediation committee under sub-section (2) shall, within twenty-one days of referral of the petition, consider the petition and agree on a recommendation in terms of section 21 (1). (b) If the parliamentary mediation committee arrives at a common recommendation, each House shall vote to approve or reject the resolution of the parliamentary mediation committee. (c) If the parliamentary mediation committee recommends the establishment of a county boundaries parliamentary mediation committee, section 22(a) shall apply with necessary modifications. (d) If the parliamentary mediation committee recommends the establishment of a commission, subsection (4) shall apply with necessary modifications. (e) If the mediation committee fails to agree on a recommendation, no further proceedings shall take place in respect of the Petition. Thank you."
     },
     {
-      "order": 217,
+      "order": 216,
       "id": "entry-814667",
       "label": "scene",
       "level": "5",
@@ -2607,7 +2595,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 218,
+      "order": 217,
       "id": "entry-814668",
       "label": "speech",
       "level": "5",
@@ -2619,7 +2607,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 219,
+      "order": 218,
       "id": "entry-814669-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2631,7 +2619,7 @@
       "text": "Clause 24"
     },
     {
-      "order": 220,
+      "order": 219,
       "id": "entry-814669-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2643,7 +2631,7 @@
       "text": "(Question, that Clause 24 be part of the Bill, proposed)"
     },
     {
-      "order": 221,
+      "order": 220,
       "id": "entry-814671",
       "label": "speech",
       "level": "5",
@@ -2655,7 +2643,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 222,
+      "order": 221,
       "id": "entry-814672",
       "label": "heading",
       "level": "5",
@@ -2667,7 +2655,7 @@
       "text": "Clause 25"
     },
     {
-      "order": 223,
+      "order": 222,
       "id": "entry-814673",
       "label": "speech",
       "level": "5",
@@ -2679,7 +2667,7 @@
       "text": "Yes, Mover, Sen. Cherargei?"
     },
     {
-      "order": 224,
+      "order": 223,
       "id": "entry-814674-split-before-7d3bb80f-5df2-4ada-9acf-0a2ddaebc624",
       "label": "speech",
       "level": "5",
@@ -2691,7 +2679,7 @@
       "text": "Thank you, Madam Temporary Chairperson. I beg to move- THAT clause 25 of the Bill be amended in sub clause (1) by -- (a) deleting the word \"President\" appearing at the end of paragraph (b) and substituting therefor the words \"Independent Electoral and Boundaries Commission\"; (b) deleting the word \"President\" appearing at the end of the paragraph (c) and substituting therefor the words \"National Land Commission\";\n\n(c) by inserting the following new paragraph immediately after\n\nparagraph (c) --\n\n(ca) the Principal Secretary for the time being responsible for\n\nmatters related to land and physical planning or a representative of the Principal Secretary designated in writing; Thank you."
     },
     {
-      "order": 225,
+      "order": 224,
       "id": "entry-814675",
       "label": "scene",
       "level": "5",
@@ -2703,7 +2691,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 226,
+      "order": 225,
       "id": "entry-814676",
       "label": "speech",
       "level": "5",
@@ -2715,7 +2703,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 227,
+      "order": 226,
       "id": "entry-814677-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2727,7 +2715,7 @@
       "text": "Clauses 26 -30"
     },
     {
-      "order": 228,
+      "order": 227,
       "id": "entry-814677-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2739,7 +2727,7 @@
       "text": "(Question, that Clauses 26, 27, 28, 29 and 30 be part of the Bill, proposed)"
     },
     {
-      "order": 229,
+      "order": 228,
       "id": "entry-814678",
       "label": "speech",
       "level": "5",
@@ -2751,7 +2739,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 230,
+      "order": 229,
       "id": "entry-814679",
       "label": "heading",
       "level": "5",
@@ -2763,7 +2751,7 @@
       "text": "Clause 31"
     },
     {
-      "order": 231,
+      "order": 230,
       "id": "entry-814680",
       "label": "speech",
       "level": "5",
@@ -2775,7 +2763,7 @@
       "text": "Yes, Mover; Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 232,
+      "order": 231,
       "id": "entry-814681",
       "label": "speech",
       "level": "5",
@@ -2787,7 +2775,7 @@
       "text": "Thank you, Madam Temporary Chairperson. I beg to move- THAT the Bill be amended by deleting clause 31 and substituting therefor the following new clause- Tenure of 31. A commission shall stand dissolved within one month - the (a) after the submission of its final report to Parliament; or Commission. (b) after the conclusion of any legal proceedings, to which the commission is enjoined as a party, arising from the work of the commission. Thank you."
     },
     {
-      "order": 233,
+      "order": 232,
       "id": "entry-814684",
       "label": "scene",
       "level": "5",
@@ -2799,7 +2787,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 234,
+      "order": 233,
       "id": "entry-814685",
       "label": "speech",
       "level": "5",
@@ -2811,7 +2799,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 235,
+      "order": 234,
       "id": "entry-814686-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2823,7 +2811,7 @@
       "text": "Clauses 32-39"
     },
     {
-      "order": 236,
+      "order": 235,
       "id": "entry-814686-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2835,7 +2823,7 @@
       "text": "(Question, that Clauses 32 - 39 be part of the Bill, proposed)"
     },
     {
-      "order": 237,
+      "order": 236,
       "id": "entry-814687",
       "label": "speech",
       "level": "5",
@@ -2847,7 +2835,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 238,
+      "order": 237,
       "id": "entry-814688",
       "label": "heading",
       "level": "5",
@@ -2859,7 +2847,7 @@
       "text": "Clause 40"
     },
     {
-      "order": 239,
+      "order": 238,
       "id": "entry-814689",
       "label": "speech",
       "level": "5",
@@ -2871,7 +2859,7 @@
       "text": "Yes, Mover; Sen. Cherargei?"
     },
     {
-      "order": 240,
+      "order": 239,
       "id": "entry-814690",
       "label": "speech",
       "level": "5",
@@ -2883,7 +2871,7 @@
       "text": "Thank you, Madam Temporary Chairperson. I beg to move- THAT Clause 40 of the Bill be amended in sub clause (2a) by deleting the words \"the county gazette\" appearing at the beginning of the paragraph and substituting therefor the words \"the Kenya Gazette and the county Gazette,\" in subparagraph (ii); Thank you."
     },
     {
-      "order": 241,
+      "order": 240,
       "id": "entry-814691",
       "label": "scene",
       "level": "5",
@@ -2895,7 +2883,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 242,
+      "order": 241,
       "id": "entry-814692",
       "label": "speech",
       "level": "5",
@@ -2907,7 +2895,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 243,
+      "order": 242,
       "id": "entry-814693-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2919,7 +2907,7 @@
       "text": "Clauses 41-44"
     },
     {
-      "order": 244,
+      "order": 243,
       "id": "entry-814693-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2931,7 +2919,7 @@
       "text": "(Question, that Clauses 41, 24, 43 and 44 be part of the Bill proposed)"
     },
     {
-      "order": 245,
+      "order": 244,
       "id": "entry-814694",
       "label": "speech",
       "level": "5",
@@ -2943,7 +2931,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 246,
+      "order": 245,
       "id": "entry-814695",
       "label": "heading",
       "level": "5",
@@ -2955,7 +2943,7 @@
       "text": "Clause 45"
     },
     {
-      "order": 247,
+      "order": 246,
       "id": "entry-814696",
       "label": "speech",
       "level": "5",
@@ -2967,7 +2955,7 @@
       "text": "Yes, Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 248,
+      "order": 247,
       "id": "entry-814697",
       "label": "speech",
       "level": "5",
@@ -2979,7 +2967,7 @@
       "text": "Thank you, Madam Temporary Chairperson. I beg to move: THAT the Bill be amended by deleting Clause 45 and substituting therefor the following new clause- Coming 45. (1) A resolution for the alteration of the boundaries of a county into effect under section 42(3) shall take effect upon the next delimitation of the of a resolution constituency and ward boundaries following a boundaries review No. 9 of process under Article 89 of the Constitution and section 36 of the 2011 Independent Electoral and Boundaries Commission Act. (2) The Independent Electoral and Boundaries Commission shall, in its report under section 36 (5) of the Independent Electoral and Boundaries Commission Act, state how a resolution under section 42(3) of this Act has been taken into account in the constituency and ward boundaries review process. (3) The report referred to under subsection (2) shall be submitted to the Senate and the National Assembly for consideration. (4) The Independent Electoral and Boundaries Commission, in preparing its final report under section 36(8), shall take into account the views of the Senate and the National Assembly. Thank you."
     },
     {
-      "order": 249,
+      "order": 248,
       "id": "entry-814700",
       "label": "scene",
       "level": "5",
@@ -2991,7 +2979,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 250,
+      "order": 249,
       "id": "entry-814701",
       "label": "speech",
       "level": "5",
@@ -3003,7 +2991,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 251,
+      "order": 250,
       "id": "entry-814702-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3015,7 +3003,7 @@
       "text": "Clauses 46-49"
     },
     {
-      "order": 252,
+      "order": 251,
       "id": "entry-814702-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3027,7 +3015,7 @@
       "text": "(Question, that Clauses 46, 47, 48 and 49 be part of the Bill, proposed)"
     },
     {
-      "order": 253,
+      "order": 252,
       "id": "entry-814703",
       "label": "speech",
       "level": "5",
@@ -3039,7 +3027,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 254,
+      "order": 253,
       "id": "entry-814704",
       "label": "heading",
       "level": "5",
@@ -3051,7 +3039,7 @@
       "text": "New Clause 42A"
     },
     {
-      "order": 255,
+      "order": 254,
       "id": "entry-814705",
       "label": "speech",
       "level": "5",
@@ -3063,7 +3051,7 @@
       "text": "Yes, Mover?"
     },
     {
-      "order": 256,
+      "order": 255,
       "id": "entry-814706",
       "label": "speech",
       "level": "5",
@@ -3075,7 +3063,7 @@
       "text": "Thank you, Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by deleting Clause 42 and substituting therefor the following new clause -- Concurrence 42A. (1) Where the National Assembly does not concur with the By resolution of the Senate to recommend the alteration of the Parliament boundaries of a county under section 42, the resolution shall be on alteration of a referred to a parliamentary mediation committee comprising an equal boundary. number of members of each House. (2) The parliamentary mediation committee under subsection (1) shall, within twenty-one days of the referral of the resolution, consider the resolution and agree on a recommendation in terms of section 42(3). (3) If the parliamentary mediation committee arrives at a common recommendation, each House shall vote to approve or reject the resolution of the parliamentary mediation committee. (4) If the parliamentary mediation committee recommends the alteration of the boundaries of a county, section 42(3) shall apply with the necessary modifications. (5) If the parliamentary mediation committee fails to agree on a recommendation, no further proceedings shall take place in respect of the resolution to alter the boundaries of a county. Thank you."
     },
     {
-      "order": 257,
+      "order": 256,
       "id": "entry-814709-parenthesis-split-1-of-4",
       "label": "scene",
       "level": "5",
@@ -3087,7 +3075,7 @@
       "text": "(Question of the New Clause proposed)"
     },
     {
-      "order": 258,
+      "order": 257,
       "id": "entry-814709-parenthesis-split-2-of-4",
       "label": "scene",
       "level": "5",
@@ -3099,7 +3087,7 @@
       "text": "(New Clause 42A read the First Time)"
     },
     {
-      "order": 259,
+      "order": 258,
       "id": "entry-814709-parenthesis-split-3-of-4",
       "label": "scene",
       "level": "5",
@@ -3111,7 +3099,7 @@
       "text": "(Question, that the New Clause 42A be read a Second Time proposed)"
     },
     {
-      "order": 260,
+      "order": 259,
       "id": "entry-814709-parenthesis-split-4-of-4",
       "label": "scene",
       "level": "5",
@@ -3123,7 +3111,7 @@
       "text": "(Question, that the New Clause42A be part of the Bill proposed)"
     },
     {
-      "order": 261,
+      "order": 260,
       "id": "entry-814710",
       "label": "speech",
       "level": "5",
@@ -3135,7 +3123,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 262,
+      "order": 261,
       "id": "entry-814711",
       "label": "heading",
       "level": "5",
@@ -3147,7 +3135,7 @@
       "text": "New Clause 47A"
     },
     {
-      "order": 263,
+      "order": 262,
       "id": "entry-814712-split-before-06293fe8-e182-4c89-b229-ceb657a18114",
       "label": "speech",
       "level": "5",
@@ -3159,7 +3147,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: THAT, the Bill be amended by inserting the following new clause immediately after clause 47- Petition to the High Court on alteration of boundaries. 47A. (1) A petition challenging the alteration of a county boundary under this Act shall be filed in the High Court.\n\n(2) A petition under subsection (1) shall be-\n\n(a) filed within twenty-one days of the publication of the boundaries in the Gazette under section 42(3); and\n\n(b) determined within sixty days of the filing of the petition. (3) Any appeal from a decision arising from a petition filed under\n\nsubsection (2) shall be heard and determined within sixty days of the filing of the appeal."
     },
     {
-      "order": 264,
+      "order": 263,
       "id": "entry-814713-parenthesis-split-1-of-4",
       "label": "scene",
       "level": "5",
@@ -3171,7 +3159,7 @@
       "text": "(New Clause 47A proposed)"
     },
     {
-      "order": 265,
+      "order": 264,
       "id": "entry-814713-parenthesis-split-2-of-4",
       "label": "scene",
       "level": "5",
@@ -3183,7 +3171,7 @@
       "text": "(New Clause 47A read the First Time)"
     },
     {
-      "order": 266,
+      "order": 265,
       "id": "entry-814713-parenthesis-split-3-of-4",
       "label": "scene",
       "level": "5",
@@ -3195,7 +3183,7 @@
       "text": "(Question, that the New Clause 47A be read a Second Time, proposed)"
     },
     {
-      "order": 267,
+      "order": 266,
       "id": "entry-814713-parenthesis-split-4-of-4",
       "label": "scene",
       "level": "5",
@@ -3207,7 +3195,7 @@
       "text": "(Question that the New Clause 47A be part of the Bill, proposed)"
     },
     {
-      "order": 268,
+      "order": 267,
       "id": "entry-814717",
       "label": "speech",
       "level": "5",
@@ -3219,7 +3207,7 @@
       "text": "Division will be at the end.\n\nFirst, Second, Third, Fourth and Fifth Schedules"
     },
     {
-      "order": 269,
+      "order": 268,
       "id": "entry-814718-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3231,7 +3219,7 @@
       "text": "(Question, that the First, Second, Third, Fourth and Fifth Schedules be part of the Bill, proposed)"
     },
     {
-      "order": 270,
+      "order": 269,
       "id": "entry-814719",
       "label": "speech",
       "level": "5",
@@ -3243,7 +3231,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 271,
+      "order": 270,
       "id": "entry-814720",
       "label": "heading",
       "level": "5",
@@ -3255,7 +3243,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 272,
+      "order": 271,
       "id": "entry-814721",
       "label": "speech",
       "level": "5",
@@ -3267,7 +3255,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT Clause 2 of the Bill be amended by -- (a) deleting the interpretation of the word \"cabinet secretary\"; and substituting therefor the following new interpretation \"cabinet secretary\" means the cabinet secretary for the time being responsible for matters related to land and physical planning; (b) deleting the interpretation of the word \"county executive committee member\"; and substituting therefor the following new interpretation \"county executive committee member\" means the county executive committee member for the time being responsible for matters related to land and physical planning in the county; (c) inserting the following new definition immediately after the definition of the word, \"commission\" -- \"dispute\" means disagreements between two or more neighbouring counties over the possession or control of land bordering the two or more neighbouring counties;"
     },
     {
-      "order": 273,
+      "order": 272,
       "id": "entry-814722",
       "label": "scene",
       "level": "5",
@@ -3279,7 +3267,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 274,
+      "order": 273,
       "id": "entry-814723",
       "label": "speech",
       "level": "5",
@@ -3291,7 +3279,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 275,
+      "order": 274,
       "id": "entry-814724-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -3303,7 +3291,7 @@
       "text": "Title and Clause 1"
     },
     {
-      "order": 276,
+      "order": 275,
       "id": "entry-814724-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3315,7 +3303,7 @@
       "text": "(Question, that the Title and Clause 1 be part of the Bill, proposed)"
     },
     {
-      "order": 277,
+      "order": 276,
       "id": "entry-814725",
       "label": "speech",
       "level": "3",
@@ -3327,7 +3315,7 @@
       "text": "Division will be at the end. Hon. Senators, we shall report progress of the Committee of the Whole. I now call upon the Mover to proceed."
     },
     {
-      "order": 278,
+      "order": 277,
       "id": "entry-814726",
       "label": "speech",
       "level": "3",
@@ -3339,7 +3327,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order No.142, I beg to move that the Committee do report progress on the consideration of the County Boundaries Bill (Senate Bills No. 6 of 2017) and seek leave to sit again tomorrow."
     },
     {
-      "order": 279,
+      "order": 278,
       "id": "entry-814727",
       "label": "speech",
       "level": "3",
@@ -3351,7 +3339,7 @@
       "text": "seconded."
     },
     {
-      "order": 280,
+      "order": 279,
       "id": "entry-814728-parenthesis-split-1-of-4",
       "label": "scene",
       "level": "3",
@@ -3363,7 +3351,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 281,
+      "order": 280,
       "id": "entry-814728-parenthesis-split-2-of-4",
       "label": "scene",
       "level": "3",
@@ -3375,7 +3363,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 282,
+      "order": 281,
       "id": "entry-814728-parenthesis-split-3-of-4",
       "label": "scene",
       "level": "3",
@@ -3387,7 +3375,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 283,
+      "order": 282,
       "id": "entry-814728-parenthesis-split-4-of-4",
       "label": "scene",
       "level": "3",
@@ -3399,7 +3387,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) in the Chair]"
     },
     {
-      "order": 284,
+      "order": 283,
       "id": "entry-814729",
       "label": "speech",
       "level": "3",
@@ -3411,7 +3399,7 @@
       "text": "Order, Senators! The Temporary Chairperson, proceed."
     },
     {
-      "order": 285,
+      "order": 284,
       "id": "entry-814730",
       "label": "heading",
       "level": "2",
@@ -3423,7 +3411,7 @@
       "text": "PROGRESS REPORTED"
     },
     {
-      "order": 286,
+      "order": 285,
       "id": "entry-814731",
       "label": "heading",
       "level": "3",
@@ -3435,7 +3423,7 @@
       "text": "THE COUNTY BOUNDARIES BILL (SENATE BILLS NO. 6 OF 2017)"
     },
     {
-      "order": 287,
+      "order": 286,
       "id": "entry-814732",
       "label": "speech",
       "level": "3",
@@ -3447,7 +3435,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to report progress that the Committee of the Whole has considered the County Boundaries Bill (Senate Bills No.6 of 2017) and seeks leave to sit again tomorrow. I beg to report."
     },
     {
-      "order": 288,
+      "order": 287,
       "id": "entry-814733",
       "label": "speech",
       "level": "3",
@@ -3459,7 +3447,7 @@
       "text": "The Mover to proceed."
     },
     {
-      "order": 289,
+      "order": 288,
       "id": "entry-814734",
       "label": "speech",
       "level": "3",
@@ -3471,7 +3459,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I beg to move that the House agrees with the Committee on the said Report. I request my colleague, Sen. Cherargei, to second the Motion."
     },
     {
-      "order": 290,
+      "order": 289,
       "id": "entry-814735",
       "label": "speech",
       "level": "3",
@@ -3483,7 +3471,7 @@
       "text": "seconded."
     },
     {
-      "order": 291,
+      "order": 290,
       "id": "entry-814736-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3495,7 +3483,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 292,
+      "order": 291,
       "id": "entry-814736-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3507,7 +3495,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 293,
+      "order": 292,
       "id": "entry-814737",
       "label": "speech",
       "level": "3",
@@ -3519,7 +3507,7 @@
       "text": "Order, Sen. Cheruiyot. I almost said that this is not somewhere else. You know where I am talking about. Next Order."
     },
     {
-      "order": 294,
+      "order": 293,
       "id": "entry-814738",
       "label": "heading",
       "level": "1",
@@ -3531,7 +3519,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 295,
+      "order": 294,
       "id": "entry-814740",
       "label": "heading",
       "level": "3",
@@ -3543,7 +3531,7 @@
       "text": "THE IRRIGATION BILL (NATIONAL ASSEMBLY BILLS NO. 46 OF 2017)"
     },
     {
-      "order": 296,
+      "order": 295,
       "id": "entry-814741",
       "label": "scene",
       "level": "3",
@@ -3555,7 +3543,7 @@
       "text": "(Sen. Dullo on 24.7.2018)"
     },
     {
-      "order": 297,
+      "order": 296,
       "id": "entry-814744",
       "label": "scene",
       "level": "3",
@@ -3567,7 +3555,7 @@
       "text": "(Resumption of debate interrupted on 24.7.2018)"
     },
     {
-      "order": 298,
+      "order": 297,
       "id": "entry-814745",
       "label": "speech",
       "level": "3",
@@ -3579,7 +3567,7 @@
       "text": "Order, Senators! Sen. Seneta, you had 11 minutes remaining for your contribution. Do you still need them or we go to the next speaker?"
     },
     {
-      "order": 299,
+      "order": 298,
       "id": "entry-814746",
       "label": "speech",
       "level": "3",
@@ -3591,7 +3579,7 @@
       "text": "Mr. Deputy Speaker, Sir, let us move on to the next speaker."
     },
     {
-      "order": 300,
+      "order": 299,
       "id": "entry-814747",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3591,7 @@
       "text": "Very well. I see no requests. There being no further requests, I call upon the Mover to reply. Where is the Mover? Where is the Senate Majority Leader or the Deputy Senate Majority Leader? Is there any delegation by the Mover? Hon. Senators, shall we proceed for Division in the absence of the Mover or---"
     },
     {
-      "order": 301,
+      "order": 300,
       "id": "entry-814748",
       "label": "scene",
       "level": "3",
@@ -3615,7 +3603,7 @@
       "text": "(Sen. Murkomen walked into the Chamber)"
     },
     {
-      "order": 302,
+      "order": 301,
       "id": "entry-814749",
       "label": "speech",
       "level": "3",
@@ -3627,7 +3615,7 @@
       "text": "The Senate Majority Leader (Sen. Murkomen): On a point of order, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 303,
+      "order": 302,
       "id": "entry-814750",
       "label": "speech",
       "level": "3",
@@ -3639,7 +3627,7 @@
       "text": "Order, the Senate Majority Leader! You cannot be on a point of order when you are out of order. The best thing to do first is to get yourself in order and then you proceed. What is your point of order, Sen. Murkomen?"
     },
     {
-      "order": 304,
+      "order": 303,
       "id": "entry-814751",
       "label": "speech",
       "level": "3",
@@ -3651,7 +3639,7 @@
       "text": "Mr. Deputy Speaker, Sir, with your permission, I was in my office when you called for---"
     },
     {
-      "order": 305,
+      "order": 304,
       "id": "entry-814752",
       "label": "speech",
       "level": "3",
@@ -3663,7 +3651,7 @@
       "text": "Order, Senator! When you are in your office, you are supposed to delegate either to your deputy or to any other such person."
     },
     {
-      "order": 306,
+      "order": 305,
       "id": "entry-814753",
       "label": "speech",
       "level": "3",
@@ -3675,7 +3663,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg your indulgence."
     },
     {
-      "order": 307,
+      "order": 306,
       "id": "entry-814754",
       "label": "speech",
       "level": "3",
@@ -3687,7 +3675,7 @@
       "text": "In fact, I thought you should say that you were elsewhere."
     },
     {
-      "order": 308,
+      "order": 307,
       "id": "entry-814755",
       "label": "speech",
       "level": "3",
@@ -3699,7 +3687,7 @@
       "text": "Mr. Deputy Speaker, Sir, I have many offices."
     },
     {
-      "order": 309,
+      "order": 308,
       "id": "entry-814756",
       "label": "scene",
       "level": "3",
@@ -3711,7 +3699,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 310,
+      "order": 309,
       "id": "entry-814757",
       "label": "speech",
       "level": "3",
@@ -3723,7 +3711,7 @@
       "text": "You can proceed."
     },
     {
-      "order": 311,
+      "order": 310,
       "id": "entry-814758",
       "label": "speech",
       "level": "3",
@@ -3735,7 +3723,7 @@
       "text": "Mr. Deputy Speaker, Sir, I thank hon. Senators who have made tremendous contributions on the Irrigation Bill. This Bill had come to this House before it was introduced again in the National Assembly. It is an important Bill and a subject matter that is dear to all of us, especially as Senators, and in so far as the Government's objectives of food security and regulation of irrigation activities in the country are concerned. We have just come from a terrible disaster in Solai and many issues were raised in so far as the licensing of those dams is concerned. The same applies to irrigation. It is important to have a legal framework to regulate irrigation activities. This Bill provides that important framework. As I said, there is a link between irrigation and conservation. It is that conservation of resources that will facilitate existence of water for irrigation. This is important because there is a debate in the country about conservation of our water towers. I have personal experience and contributions to this nation in so far as the conservation of Cherangany Hills Water Tower, particularly where I come from in Embobut Forest. As a result of an agreement between the Government and the local residents, citizens became agents of conservation. If you come to my place now, in Embobut, people who live around the forest have a lot of interest in the conservation of that forest. We want to do irrigation on the lower part which is the side of Tot. You have traversed Elgeyo-Marakwet County more than anyone else that I know apart from myself."
     },
     {
-      "order": 312,
+      "order": 311,
       "id": "entry-814761",
       "label": "speech",
       "level": "3",
@@ -3747,7 +3735,7 @@
       "text": "Order! In what capacity?"
     },
     {
-      "order": 313,
+      "order": 312,
       "id": "entry-814762",
       "label": "speech",
       "level": "3",
@@ -3759,7 +3747,7 @@
       "text": "Mr. Deputy Speaker, Sir, in you official capacity as the Senate Majority Leader and my friend."
     },
     {
-      "order": 314,
+      "order": 313,
       "id": "entry-814763",
       "label": "scene",
       "level": "3",
@@ -3771,7 +3759,7 @@
       "text": "(Sen. M. Kajwang' spoke off record)"
     },
     {
-      "order": 315,
+      "order": 314,
       "id": "entry-814764",
       "label": "speech",
       "level": "3",
@@ -3783,7 +3771,7 @@
       "text": "Order, Sen. M. Kajwang'!"
     },
     {
-      "order": 316,
+      "order": 315,
       "id": "entry-814765",
       "label": "speech",
       "level": "3",
@@ -3795,7 +3783,7 @@
       "text": "Mr. Deputy Speaker, Sir, you have visited the lower and upper sides of Embobut Forest and Embobut River. You know how the River is important for irrigation in both Elgeyo-Marakwet and Baringo counties. When it rains, you know the importance of Kerio River to West Pokot and Turkana counties. There are also irrigation activities that are going on in Tot, Lodwar and Weiwei. I believe that with such a legal framework, the county governments partnering with the national Government can engage in important irrigation activities that will protect and provide food security for the rest of the country. That is why that link is important. Those of us who live in the higher areas like Mau, Mt. Elgon, Cherangany, Mt. Kenya and Aberdares must be given the necessary resources to conserve the environment. We must also create partnership between citizens and the Government. I am saying this because, the other day, I went to Mau Forest to look after local residents whose houses were being burned in the name of conservation. The Government cannot correct one wrong by committing another. You cannot brutalize people to conserve the environment. You cannot also destroy the environment to save a few. We must save the whole generation and achieve intergenerational equity for many years. To achieve that, it is important for that balance to be observed. The Government should sit the people down and find a solution, so that we do not have a situation like what is being projected in Narok County. It should be one community verses the other community or these people verses the other ones. We want a harmonious county where people sit down and look at issues as they are, without looking at them parochially or in a narrow sense for personal interests. As the Senate, we have dual responsibility. I am here as the Senate Majority Leader, but I am the Senator for Elgeyo-Marakwet County. Even as the Senate, we are representatives of counties and county governments. I do not think it is fair for any of us in this House to try and reprimand his colleague for speaking out on behalf of his own people. You can give a different view on the same issue, like Sen. Olekina gave in the case of Mau. You can have an alternative view, which is useful to finding a solution. However, for fellow Senators to try to intimidate another Senator, let alone a Majority Leader; that he cannot speak on behalf of people or present the concerns of the people, and if he does so, there is a place where you might be caned, is barbaric and old age. It is not what we expect of ourselves. Let me add that Sen. Pareno and I, among others, traveled to Russia to watch the World Cup and we have explained the reasons we did it. Members in this House travel for different reasons, including building capacity for the future---"
     },
     {
-      "order": 317,
+      "order": 316,
       "id": "entry-814768",
       "label": "speech",
       "level": "3",
@@ -3807,7 +3795,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir. Is the Senate Majority Leader in order to purport to be moving this important Bill on irrigation and, at the same time, talk about Mau Forest eviction, which is a very emotive issue to many of us? Is he also in order to begin a debate on Russia, which is still a pending issue that will come to this House?"
     },
     {
-      "order": 318,
+      "order": 317,
       "id": "entry-814769",
       "label": "speech",
       "level": "3",
@@ -3819,7 +3807,7 @@
       "text": "On a point of information, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 319,
+      "order": 318,
       "id": "entry-814770",
       "label": "speech",
       "level": "3",
@@ -3831,7 +3819,7 @@
       "text": "Who are you informing?"
     },
     {
-      "order": 320,
+      "order": 319,
       "id": "entry-814771",
       "label": "speech",
       "level": "3",
@@ -3843,7 +3831,7 @@
       "text": "Mr. Deputy Speaker, Sir, I would like to inform Sen. Seneta."
     },
     {
-      "order": 321,
+      "order": 320,
       "id": "entry-814772",
       "label": "speech",
       "level": "3",
@@ -3855,7 +3843,7 @@
       "text": "Sen. Seneta, would you want to be informed by Sen. Outa?"
     },
     {
-      "order": 322,
+      "order": 321,
       "id": "entry-814773",
       "label": "speech",
       "level": "3",
@@ -3867,7 +3855,7 @@
       "text": "Mr. Deputy Speaker, Sir, I do not want to be informed."
     },
     {
-      "order": 323,
+      "order": 322,
       "id": "entry-814774",
       "label": "scene",
       "level": "3",
@@ -3879,7 +3867,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 324,
+      "order": 323,
       "id": "entry-814775",
       "label": "speech",
       "level": "3",
@@ -3891,7 +3879,7 @@
       "text": "Order, Senator! Sen. Murkomen, proceed."
     },
     {
-      "order": 325,
+      "order": 324,
       "id": "entry-814776",
       "label": "speech",
       "level": "3",
@@ -3903,7 +3891,7 @@
       "text": "Mr. Deputy Speaker, Sir, the context of my conservation debate is not just about the Mau Forest, but also Embobut and Mt. Elgon. This is because we can never achieve irrigation without conserving the water, in the first place, where we will do that irrigation. In fact, the Bill itself talks about the national Government having a responsibility for licensing, so that then they can regulate the use of water between the upper and lower riparian users."
     },
     {
-      "order": 326,
+      "order": 325,
       "id": "entry-814777",
       "label": "speech",
       "level": "3",
@@ -3915,7 +3903,7 @@
       "text": "What about the World Cup?"
     },
     {
-      "order": 327,
+      "order": 326,
       "id": "entry-814778",
       "label": "speech",
       "level": "3",
@@ -3927,7 +3915,7 @@
       "text": "Mr. Deputy Speaker, Sir, I have not even finished. Do you want me to say that I saw a lot of irrigation in Russia?"
     },
     {
-      "order": 328,
+      "order": 327,
       "id": "entry-814779",
       "label": "scene",
       "level": "3",
@@ -3939,7 +3927,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 329,
+      "order": 328,
       "id": "entry-814780",
       "label": "speech",
       "level": "3",
@@ -3951,7 +3939,7 @@
       "text": "The point I wanted to make is that as a representative of the people, just like my colleague, Sen. Seneta has spoken, Mau is an emotive issue, because it is important to the country. It is about conservation, land ownership and settlement. So, it is emotive. In that regard, Senators, like Sen. Seneta and all of us must listen to each other. I was trying to say that we failed when one of us went public and said: \"Some people traveled and it is wastage of public funds.\" The same person who said that is now in London. It is not nice for us, as the Senate. We need to develop a practice where all of us respect the different views that we have, but also avoid hypocrisy when it comes to conversations. Be that as it may, I insist that this Bill is important. I have listened to the views of Senators and so many of them are opposed to the Bill in so far as involvement of counties are concerned and the representation of counties in the board; the statute body that has been established. We had this conversation with you and a few others and I have listened to the Members. I will propose a half a day workshop with the sponsors of the Bill from the Executive to run us through the Bill. We will invite the Council of Governors (CoG) representative on matters of agriculture and craft the amendments that we want so that we have a Bill that is representative of the people and county governments. I could go on and on but let me end there. I beg to move and request you to defer the putting of the question to another day, under Standing Order 54(3). Thank you."
     },
     {
-      "order": 330,
+      "order": 329,
       "id": "entry-814783",
       "label": "speech",
       "level": "3",
@@ -3963,7 +3951,7 @@
       "text": "Senate Majority Leader, you have said you would like to entertain further consultations. In that connection, would you want to step down further transacting of this Bill until consultations are done or do you want us to continue with the Division tomorrow on the Second Reading?"
     },
     {
-      "order": 331,
+      "order": 330,
       "id": "entry-814784",
       "label": "speech",
       "level": "3",
@@ -3975,7 +3963,7 @@
       "text": "Mr. Deputy Speaker, Sir, I request that we vote for the Second Reading because in any case, it will not stop the amendments that Members have. However, before we go to the Committee of the Whole, we must go for the workshop to agree on the amendments that we require. This is an argument we have heard before. Maybe Members will agree that we vote on the Second Reading because right now, there is nothing we can do to the Bill. Before we go to the Committee of the Whole, we should come with all the amendments that we will propose in the workshop. That will be useful to all of us because if the Bill is defeated, it will have to go for mediation but it will not add any value and it will lack our contribution. If we allow it to go to the next stage, we can incorporate our comments."
     },
     {
-      "order": 332,
+      "order": 331,
       "id": "entry-814785",
       "label": "speech",
       "level": "3",
@@ -3987,7 +3975,7 @@
       "text": "Mr. Deputy Speaker, Sir, I urge the Mover of this Bill that if we rush to vote on this Bill for the Second Reading and it collapses, then the entire thing collapses. Sen. Murkomen, there could be some wisdom in considering what the Chair has proposed, that you pause transactions until consultations are done then after we are done with the consultations, we will come and vote so that the matter proceeds to the next stage. Am I in order to render that kind of advice?"
     },
     {
-      "order": 333,
+      "order": 332,
       "id": "entry-814786",
       "label": "speech",
       "level": "3",
@@ -3999,7 +3987,7 @@
       "text": "You can only be in order in so far as the Mover of the Bill is interested in your advice."
     },
     {
-      "order": 334,
+      "order": 333,
       "id": "entry-814787",
       "label": "speech",
       "level": "3",
@@ -4011,7 +3999,7 @@
       "text": "Mr. Deputy Speaker, Sir, it makes no difference. Even if we do not vote now, there is no difference because nothing will change in the Bill."
     },
     {
-      "order": 335,
+      "order": 334,
       "id": "entry-814788",
       "label": "speech",
       "level": "3",
@@ -4023,7 +4011,7 @@
       "text": "Senate Majority Leader, the only issue for your consideration is that it is your Bill and it is up to you to decide what should be done. The only consideration you may want to put in mind is if the vote is carried out and it is not in the affirmative. Do you think you can whip Members to come and vote? I am sure we do not want your Bill to die. I am assuming you do not want your Bill to die because that would be a case of euthanasia and I cannot assist you to kill your own Bill."
     },
     {
-      "order": 336,
+      "order": 335,
       "id": "entry-814789",
       "label": "speech",
       "level": "3",
@@ -4035,7 +4023,7 @@
       "text": "Mr. Deputy Speaker, Sir, I have no problem when this Bill is voted on. We can even postpone it. The issue I am trying to mention here is that it makes no difference. In terms of strategy, we can wait until the consultations have been done but practically speaking, it makes no difference. The only way is to kill a Bill when it does not capture what you wanted during the Committee of the Whole. During a consultation meeting, we will have many amendments and the Committee will still incorporate them and bring them to the Committee of the Whole. So, even if we do not vote tomorrow and wait until after the workshop, we will still come back here and vote for the Bill as it is and wait for amendments during the Committee of the Whole."
     },
     {
-      "order": 337,
+      "order": 336,
       "id": "entry-814790",
       "label": "speech",
       "level": "3",
@@ -4047,7 +4035,7 @@
       "text": "Point of information."
     },
     {
-      "order": 338,
+      "order": 337,
       "id": "entry-814791",
       "label": "speech",
       "level": "3",
@@ -4059,7 +4047,7 @@
       "text": "Senate Majority Leader, would you like to be informed by Sen. (Prof.) Kamar?"
     },
     {
-      "order": 339,
+      "order": 338,
       "id": "entry-814792",
       "label": "speech",
       "level": "3",
@@ -4071,7 +4059,7 @@
       "text": "Yes."
     },
     {
-      "order": 340,
+      "order": 339,
       "id": "entry-814793",
       "label": "speech",
       "level": "3",
@@ -4083,7 +4071,7 @@
       "text": "Mr. Deputy Speaker, Sir, the information I would like to give the Senate Majority Leader is that this Bill came when he was absent. There was also an argument that the same Bill had been thrown out and it came back without any change. The mood of the House at that time was that if it is in that form, it might face the same fate. I just wanted to inform him because he was away on an important tour. He was not here when we discussed that."
     },
     {
-      "order": 341,
+      "order": 340,
       "id": "entry-814794",
       "label": "speech",
       "level": "3",
@@ -4095,7 +4083,7 @@
       "text": "Order, Sen. (Prof.) Kamar! Senate Majority Leader, how do you want us to proceed?"
     },
     {
-      "order": 342,
+      "order": 341,
       "id": "entry-814795",
       "label": "speech",
       "level": "3",
@@ -4107,7 +4095,7 @@
       "text": "Mr. Deputy Speaker, Sir, I have limitation on what to request as per the Standing Orders."
     },
     {
-      "order": 343,
+      "order": 342,
       "id": "entry-814796",
       "label": "speech",
       "level": "3",
@@ -4119,7 +4107,7 @@
       "text": "Can I direct that the Division takes place tomorrow?"
     },
     {
-      "order": 344,
+      "order": 343,
       "id": "entry-814797",
       "label": "speech",
       "level": "3",
@@ -4131,7 +4119,7 @@
       "text": "If we have the numbers which I am not sure of."
     },
     {
-      "order": 345,
+      "order": 344,
       "id": "entry-814798",
       "label": "speech",
       "level": "3",
@@ -4143,7 +4131,7 @@
       "text": "Very well. I direct that Division takes place tomorrow in the afternoon."
     },
     {
-      "order": 346,
+      "order": 345,
       "id": "entry-814799",
       "label": "scene",
       "level": "3",
@@ -4155,7 +4143,7 @@
       "text": "(Putting of the question on the Bill deferred)"
     },
     {
-      "order": 347,
+      "order": 346,
       "id": "entry-814800",
       "label": "speech",
       "level": "3",
@@ -4167,7 +4155,7 @@
       "text": "Let us move on to the next Order."
     },
     {
-      "order": 348,
+      "order": 347,
       "id": "entry-814801",
       "label": "heading",
       "level": "1",
@@ -4179,7 +4167,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 349,
+      "order": 348,
       "id": "entry-814803",
       "label": "heading",
       "level": "3",
@@ -4191,7 +4179,7 @@
       "text": "THE LOCAL CONTENT BILL (SENATE BILLS NO.10 OF 2018)"
     },
     {
-      "order": 350,
+      "order": 349,
       "id": "entry-814804",
       "label": "speech",
       "level": "3",
@@ -4203,7 +4191,7 @@
       "text": "Where is Sen. Moi? He is nowhere to be found. I have seen this item on the Order Paper for many weeks now. This House will not entertain this. Whoever reaches Sen. Moi should inform him that he should either prosecute this Bill or we prioritize other Bills."
     },
     {
-      "order": 351,
+      "order": 350,
       "id": "entry-814805",
       "label": "speech",
       "level": "3",
@@ -4215,7 +4203,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir. I would like to inform you that Sen. Moi is busy trying to settle issues of Mau Forest."
     },
     {
-      "order": 352,
+      "order": 351,
       "id": "entry-814806",
       "label": "speech",
       "level": "3",
@@ -4227,7 +4215,7 @@
       "text": "Order, Sen. Outa! Are you for or against Sen. Moi?"
     },
     {
-      "order": 353,
+      "order": 352,
       "id": "entry-814807",
       "label": "speech",
       "level": "3",
@@ -4239,7 +4227,7 @@
       "text": "Mr. Deputy Speaker, Sir, I am not. I am just saying that he would have been here but---"
     },
     {
-      "order": 354,
+      "order": 353,
       "id": "entry-814808",
       "label": "speech",
       "level": "3",
@@ -4251,7 +4239,7 @@
       "text": "But the information you are giving is likely to be an aggravating circumstance. It is actually against him. Are you telling us that the business of this House is secondary to the Mau Forest settlement? Is that the argument?"
     },
     {
-      "order": 355,
+      "order": 354,
       "id": "entry-814809",
       "label": "speech",
       "level": "3",
@@ -4263,7 +4251,7 @@
       "text": "That is not the argument. I just wanted to tell you that he is out to sort out issues of national concern and Mau is one of them."
     },
     {
-      "order": 356,
+      "order": 355,
       "id": "entry-814810",
       "label": "speech",
       "level": "3",
@@ -4275,7 +4263,7 @@
       "text": "Order, Sen. Outa! I am not sure where to place that. I can see another intervention by Sen. M. Kajwang'."
     },
     {
-      "order": 357,
+      "order": 356,
       "id": "entry-814811",
       "label": "speech",
       "level": "3",
@@ -4287,7 +4275,7 @@
       "text": "Mr. Deputy Speaker, Sir, I wanted to make a similar report but Sen. Outa has done so."
     },
     {
-      "order": 358,
+      "order": 357,
       "id": "entry-814812",
       "label": "speech",
       "level": "3",
@@ -4299,7 +4287,7 @@
       "text": "Order Sen. M. Kajwang'!"
     },
     {
-      "order": 359,
+      "order": 358,
       "id": "entry-814813",
       "label": "speech",
       "level": "3",
@@ -4311,7 +4299,7 @@
       "text": "On a point of order, Mr. Deputy Speaker, Sir. Is it in order for Sen. Outa and Sen. M. Kajwang' to claim that Sen. Moi is pursuing issues of national interest? They should be honest and say that Sen. Moi is planning to run for president because it seems they are his confidants."
     },
     {
-      "order": 360,
+      "order": 359,
       "id": "entry-814814",
       "label": "speech",
       "level": "3",
@@ -4323,7 +4311,7 @@
       "text": "Order Sen. Cherargei! I am almost convinced that all these points of order are neither helping the House nor helping Sen. Moi who we do not know where he is."
     },
     {
-      "order": 361,
+      "order": 360,
       "id": "entry-814815",
       "label": "speech",
       "level": "3",
@@ -4335,7 +4323,7 @@
       "text": "Mr. Deputy Speaker, Sir, I would like to point out that as much as Sen. Moi is not here, this is the first time we have reached this item on the Order Paper. It is not that this has not been dealt with by the virtue of his being out of the House---"
     },
     {
-      "order": 362,
+      "order": 361,
       "id": "entry-814816",
       "label": "speech",
       "level": "3",
@@ -4347,7 +4335,7 @@
       "text": "But he is supposed to be here this afternoon and that is why the item is on the Order Paper."
     },
     {
-      "order": 363,
+      "order": 362,
       "id": "entry-814817",
       "label": "speech",
       "level": "3",
@@ -4359,7 +4347,7 @@
       "text": "Yes, but it is not true that it is by virtue of his absence that we have not discussed this Bill."
     },
     {
-      "order": 364,
+      "order": 363,
       "id": "entry-814818",
       "label": "speech",
       "level": "3",
@@ -4371,7 +4359,7 @@
       "text": "Sen. Halake, what are you trying to impute? The point is simple; when you are a sponsor of an item on the Order Paper, you are supposed to be present on the day it appears, whether it is the first, second or the hundredth day. I, therefore, direct that, that order be--- I can see a few points of orders here. What is it, Sen. Murkomen?"
     },
     {
-      "order": 365,
+      "order": 364,
       "id": "entry-814821",
       "label": "speech",
       "level": "3",
@@ -4383,7 +4371,7 @@
       "text": "Mr. Deputy Speaker, Sir, as a representative and leader of Sen. Moi from the majority side, I beg your indulgence that this Business be rescheduled for another date."
     },
     {
-      "order": 366,
+      "order": 365,
       "id": "entry-814822",
       "label": "speech",
       "level": "3",
@@ -4395,7 +4383,7 @@
       "text": "On what grounds?"
     },
     {
-      "order": 367,
+      "order": 366,
       "id": "entry-814823",
       "label": "speech",
       "level": "3",
@@ -4407,7 +4395,7 @@
       "text": "Mr. Deputy Speaker, Sir, as we establish his absence, it worries me because I thought it was notified to the Speaker. If the Speaker is not sure about it, I then beg your indulgence that the Bill be deferred to a date that will be determined by the Senate Business Committee."
     },
     {
-      "order": 368,
+      "order": 367,
       "id": "entry-814824",
       "label": "speech",
       "level": "3",
@@ -4419,7 +4407,7 @@
       "text": "Very well. That is the kind of information I was looking for. Therefore, Leader of Majority, look for one of your own and convey the sentiments of the House. I direct that, that item be deferred. Next Order."
     },
     {
-      "order": 369,
+      "order": 368,
       "id": "entry-814825",
       "label": "scene",
       "level": "3",
@@ -4431,7 +4419,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 370,
+      "order": 369,
       "id": "entry-814826",
       "label": "heading",
       "level": "1",
@@ -4443,7 +4431,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 371,
+      "order": 370,
       "id": "entry-814828",
       "label": "heading",
       "level": "3",
@@ -4455,7 +4443,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO. 13 OF 2018)"
     },
     {
-      "order": 372,
+      "order": 371,
       "id": "entry-814829",
       "label": "speech",
       "level": "3",
@@ -4467,7 +4455,7 @@
       "text": "Proceed, Sen. Cheruiyot."
     },
     {
-      "order": 373,
+      "order": 372,
       "id": "entry-814830",
       "label": "speech",
       "level": "3",
@@ -4479,7 +4467,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me this chance. I beg to move that the County Governments Amendment Bill (Senate Bills No. 13 of 2018) be now read a second time. The County Government Act No. 17 of 2012 was to provide for powers, functions and responsibilities of county governments to deliver services. The principle objective of the amendment Bill before this House this afternoon is to amend section 58 of the County Governments Amendment Act to provide for appointment of human resource management professionals as the chairpersons of County Public Service Boards (CSPB). Mr. Deputy Speaker, Sir, it is of great interest to remember that the Senate is the primary defender of devolution and that, at all times, we should seek to push forward thoughts and processes that build and establish devolution---"
     },
     {
-      "order": 374,
+      "order": 373,
       "id": "entry-814831",
       "label": "speech",
       "level": "3",
@@ -4491,7 +4479,7 @@
       "text": "Order, Sen. Cheruiyot! I would want you to take into consideration that we have about 30 minutes. Once you have started moving a Bill, it must be seconded and the question put before 6.30 p.m., so that, then, debate can proceed tomorrow. Therefore, there is a technicality there. You might have a little more time, but you are constrained. The moving, seconding and proposal of the question must take place by the rise of the House."
     },
     {
-      "order": 375,
+      "order": 374,
       "id": "entry-814834",
       "label": "speech",
       "level": "3",
@@ -4503,7 +4491,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I am properly guided. Mr. Deputy Speaker, Sir, this is not a very lengthy Bill and, therefore, I do not intend to take the normal duration or the maximum amount of time one is given when they are moving a Bill. One of the core duties or mandates as a House, is that we should, at all times promote and think of ideas that will establish devolution and give it the impetus needed to give hope to our people. It should never be lost on us, as Senators, that before the promulgation of the 2010 Constitution, this country had travelled an extremely difficult journey. For many years, we, as a people, felt that the centre was not holding together any more. The people were becoming extremely helpless and hopeless, especially with regard to development and pushing forward the agenda of the people of this Republic. Therefore, when we gifted ourselves the object of devolution and gave the Senate as its protector and custodian, we should always try to find ways and means of ensuring that devolution becomes better. We should ensure that the first cycle of devolution from, 2013 to 2017, is followed by an even greater cycle from 2017 to 2022. Otherwise, if we get to a point where citizens do not know where to turn to because the centre was found to untenable, it will be a great tragedy of unmeasured proportion."
     },
     {
-      "order": 376,
+      "order": 375,
       "id": "entry-814835-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -4515,7 +4503,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 377,
+      "order": 376,
       "id": "entry-814835-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -4527,7 +4515,7 @@
       "text": "[The Temporary Speaker (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 378,
+      "order": 377,
       "id": "entry-814836",
       "label": "speech",
       "level": "3",
@@ -4539,7 +4527,7 @@
       "text": "If we do not give the necessary support to our county governments to ensure that they succeed and give meaning to the lives of the citizens of this country, we will then find ourselves in a very difficult situation. Mr. Deputy Speaker, Sir--- Madam Temporary Speaker, I apologize. I did notice that the Chair had changed while I was on the Floor. Madam Temporary Speaker, we must ensure that at all times, we promote good behavior in our county governments. Because the Senate is the primary institution that makes laws on behalf of our county governments, we should always seek to find where there are challenges so as to provide the necessary legislation. In doing so, our counties will succeed and we will not end up finding ourselves in a situation where citizens say that because we cannot trust the center and the devolved units, maybe it is better for the Kenya Revenue Authority (KRA) to collect revenue and divide it equally amongst all Kenyans. Then you make your contribution and see what you want to do. For us not to get to that state, it is good for us to ensure that all facets of devolution are properly supported. Madam Temporary Speaker, this Bill seeks to address the challenges that have been seen in human resource management in our counties. I am sure that you are aware of the kind of complaints that the citizens continue to raise about the quality of staff being hired in our counties and the process. The fact that CSPBs need to be professional bodies, was well thought-out by the drafters of our Constitution and the House that gave life to the County Government Act. These bodies are supposed to ensure that the people who are hired to work in our counties are not just political cronies, friends, families and concubines, but men and women of great repute that can push the agenda of devolution forward in our counties. However, Madam Temporary Speaker, that is not the case in many of our counties going by the cries that continue to come to this House through the petitions that are presented before us, who sit in the Committee on Finance and Budget. Many a times when we question the finance officers - who are the men and women that are charged with the responsibility of taking care of finances of counties - some of the answers given to us are extremely shocking. For example, we have faced somebody who was hired to be the County Executive Committee (CEC) member in charge of finance making school boy errors in terms of accounting practices. We then wonder what process led to the hiring of this particular fellow. Madam Temporary Speaker, the CSPBs were meant to be given a life of their own and a sort of semi-autonomy. It was expected that after the approval of the chairperson of CSPB, they would retreat and ensure that the quality of staff they give to our counties is something to be celebrated. That is not the case. We are much aware of the practice where we find the chairperson and the secretariat of the County Public Service Boards (CPSB) draw a list on need basis from the Executive, conduct interviews, then indicate a particular candidate is suitable for hire or not and pass it to the governor for approval. Depending on their political arithmetic, the county governor will choose whom to hire and leave others without any regard for due process and professionalism. It is important for this House to stamp its authority by ensuring that the chairperson that is in charge of this institution is a trained human resource person. As we discussed about this morning when we had a meeting with Commission on Revenue Allocation (CRA), human resource is extremely important. Many times, counties are obsessed with how much is being devolved to them. However, I pause and push forward the argument that it does not matter how much a county gets. However, if it is placed on the hands of men and women who do not push for development and growth agenda of a particular county, then after three or four cycles, the difference will be so clear. One will not believe that devolution was rolled out at the same time in all the 47 counties. We are only in the second cycle of devolution and there are a few county governments that we can celebrate. After five or six financial years, they have put forth industries that generate income and employ their young people. The living standards of people in those counties have greatly improved. Madam Temporary Speaker, human resource is as important as the financial resource that we fight for in this House. Therefore, if we do not put in place legislation to ensure that people that are charged with this function are men and women of the right mental capability and training, then we shall be failing our counties. Therefore, I imagined a better way of running our counties is where professionalism counts. We need to hire human resource professionals who manage their human resource better, so that a county can become better, richer and successful. Madam Temporary Speaker, counties that have advanced have not done so because of their resources. There are countries with oil that are successful. However, there are others with oil, but their citizens languish in abject poverty. We also know of many African countries with immense natural resources and minerals, but because of lack of trained human resource personnel, their citizens languish in poverty. Israel is a county with limited resources. However, they have men and women in the correct mental frame charged with the responsibility of leading and it has become a super power of this world. Madam Temporary Speaker, if we are not careful with our counties, a situation will come, probably, in the fourth, fifth or sixth cycle of devolution where some counties will be so advanced in their development that they will be able to loan resources to their neighbouring counties. The difference will be those that managed their resources better against those that squandered their resources. Therefore, as a House that is charged with the responsibility of ensuring that counties thrive and serve our citizens who voted for us, it is important that we put our thoughts together and find ways in which we can improve our counties. I have made a suggestion to ensure that the chairperson of CPSB is a human resource professional of good standing. Madam Temporary Speaker, we had a debate here a few weeks ago where challenging the requirement of 10 years experience in management as proposed by some of the Bills we bring in this House. There was a big debate whether 10 or five years is the adequate number. In this Bill, I propose seven years. This is because a person with seven years of experience in human resource will be able to provide leadership to the CPSB. Therefore, I urge colleagues to support this Bill. I also urge them to suggest amendments that can improve it to ensure the human resource function of our counties is better handled. Human resource professionals must adhere to the County Government Act for them to be effective in the counties. I welcome Senators to give those suggestions so that we may improve on the human resource function in our counties. Madam Temporary Speaker, I am alive to the realities of time and what had been communicated to me earlier by the Speaker. With those many remarks, I beg to move and call upon Sen. M. Kajwang to second."
     },
     {
-      "order": 379,
+      "order": 378,
       "id": "entry-814841",
       "label": "speech",
       "level": "3",
@@ -4551,7 +4539,7 @@
       "text": "Thank you, Madam Temporary Speaker. I beg to second the County Governments (Amendment) Bill, (Senate Bills No.13 of 2018) that has been moved by the good Senator for Kericho, Sen. Aaron Cheruiyot. Madam Temporary Speaker, I believe that people who work in our counties must be viewed as assets and resources. If you look at the managerial framework that has been called the resource-based view, people who deliver services and sacrifice everything to support our counties and build this nation must be looked at as assets that are valuable, rare, inimitable and non-substitutable. It is only with that approach that we will turn the talents and skills of the people in the counties so that our counties can change the lives of the people that live there. For us to manage people in our counties as an important and rare resource, we need a CPSB that understands the science and art of human resource management. Madam Temporary Speaker, the CPSB - if I was to use an analogy - is the human resource department of all counties. We have an interesting situation in the County Governments Act where there is a CPSB and a County Secretary who is the head of CASB, yet we have CPSB which ideally needs to have autonomy, space and mandate to manage human resources. This Bill attempts to introduce a qualification for the chair of the CPSB. The existing qualification is that the chair must have a degree from a recognized university in addition to 10 years working experience. Madam Temporary Speaker, what Sen. Cheruiyot has incorporated is that the Chair must also be a human resource professional of good standing with the Institute of Human Resource Management. Parliament made human resource management one of the regulated professions, just like Law, Medicine and Procurement. It is important that whoever will manage people in the counties must be someone who understands that science. I, therefore, support that. It does not mean that it must be a degree in Human Resource Management. One can be an engineer and become a member of the Institute of Human Resource Management through certification or study. Therefore, let the message not go out that Sen. Cheruiyot is only saying that the Human Resource graduates are the only ones that can chair County Public Service Boards (CPSB). Even a doctor, who decides to be a member of the Institute of Human Resource Management---"
     },
     {
-      "order": 380,
+      "order": 379,
       "id": "entry-814844",
       "label": "scene",
       "level": "3",
@@ -4563,7 +4551,7 @@
       "text": "(Sen. M. Kajwang's microphone went off)"
     },
     {
-      "order": 381,
+      "order": 380,
       "id": "entry-814845",
       "label": "speech",
       "level": "3",
@@ -4575,7 +4563,7 @@
       "text": "Madam Temporary Speaker, I do not know if my time is up. Kindly guide me."
     },
     {
-      "order": 382,
+      "order": 381,
       "id": "entry-814846",
       "label": "speech",
       "level": "3",
@@ -4587,7 +4575,7 @@
       "text": "Please, proceed."
     },
     {
-      "order": 383,
+      "order": 382,
       "id": "entry-814847",
       "label": "speech",
       "level": "3",
@@ -4599,7 +4587,7 @@
       "text": "Thank you, Madam Temporary Speaker. I thought that you were rationing my time. I will be done in two minutes, so that we can put the question. I know that, as the seconder, I may not get another opportunity to contribute to the Bill. I would urge my fellow Senators that when we consider this Bill, we should also look at Section 55, all the way to Section 80 of the County Governments Act that talks about the County Public Service Board and the County Public Service. I believe that we can take advantage of Sen. Cheruiyot's Bill to redefine and clarify the relationship between the County Secretary and the County Public Service Board. It has brought a lot of conflict in some counties. We can also take this advantage to identify where the board is required to do regular reports and how regular those reports should be. Are they weekly or monthly? We can put in a very precise reporting requirement. We can also enrich or clarify the procedure for the removal of the CPSB. The grounds for removal are related to Article 251, but the procedure for removal is different. Madam Temporary Speaker, as I speak, in my County, Homa Bay, we do not have a CPSB because the County Assembly decided to remove them. The CPSB went to court and they are now in office, thanks to a court ruling. We need to full-proof the process of removal to avoid abuse. We must also look at the issue of term of office, where governors get into office and find a hostile CPSB. Finally, we can take advantage of this Bill to address issues of staff mobility across counties. I beg to second the Bill proposed by Sen. Cheruiyot."
     },
     {
-      "order": 384,
+      "order": 383,
       "id": "entry-814850",
       "label": "scene",
       "level": "3",
@@ -4611,7 +4599,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 385,
+      "order": 384,
       "id": "entry-814851",
       "label": "speech",
       "level": "3",
@@ -4623,7 +4611,7 @@
       "text": "Madam Temporary Speaker, thank you for giving me a chance to also add my voice on this important Bill that concerns the human resource of our counties. I congratulate my colleague, Sen. Cheruiyot, for having thought deeply about this important asset in our counties. Human resource, personnel or workforce is a very important asset to our counties. It is also the backbone of development in our counties. The reason many Kenya citizens supported devolution is because they wanted to decentralize development. We wanted development to go to every part of this country. We wanted development to be felt by everyone in this country. We also wanted our counties to run services that benefit everyone so that every part of this country can develop and help its own citizens through service delivery. Developing the capacity of our human resource is a very great idea. We cannot have personnel in our counties that are not professionals and who will not be able to deliver or perform to the expectations of our citizens. Therefore, this Bill seeks to give capacity to the CPSB, which is mandated to employ and recruit staff in the counties. Therefore, I support that the chairperson of this body should be a professional. He should have diverse knowledge and experience in terms of recruitment, selection, performance, management, training and development of the human resource in our counties. Madam Temporary Speaker, it is not only the chairperson of the board, but even the members of the board should be able to scrutinize the staff we are recruiting in our counties. It really saddens me at times when you meet a person employed in our counties who does not even know his role and the scope of his work. Therefore, this amendment to the County Government Bill has come at the right time when we need to improve more on those people who are entrusted with the important role of giving service to people in our counties. We need to recruit people who can play their role without politicizing everything. You will find people in our counties today who have possibly been employed because they supported a certain politician. However, when it comes to service delivery, they are not able to deliver services effectively and efficiently and this leads to delayed service provision in our counties because we have personnel who are not well trained and who lack the capacity to perform. Madam Temporary Speaker, this Bill will go a long way in improving the recruitment process in our counties. It will go a long way in reducing tribalism, nepotism and clannism that we see in our counties. You will find someone with the required qualifications, but because of lack of professionalism of the members of the County Public Service Board, this person is denied the job. This happens simply because the reasoning level of the officers at the board is not at par with that of the applicant professionally. Therefore, I know that this Bill will go a long way in strengthening our County Public Service Boards which are very important institutions in our counties. I wish that my colleague, Sen. Cheruiyot, would also look at the linkage between the county---"
     },
     {
-      "order": 386,
+      "order": 385,
       "id": "entry-814854",
       "label": "speech",
       "level": "3",
@@ -4635,7 +4623,7 @@
       "text": "Order, Senators! Sen. Seneta, you will have a remainder of 13 minutes when debate resumes."
     },
     {
-      "order": 387,
+      "order": 386,
       "id": "entry-814855-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -4647,7 +4635,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 388,
+      "order": 387,
       "id": "entry-814855",
       "label": "speech",
       "level": "1",

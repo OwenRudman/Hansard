@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-12-22-14-30-00",
-  "exported_at": "2026-10-05T08:10:56.775Z",
+  "exported_at": "2026-10-15T19:33:52.569Z",
   "entries": [
     {
       "order": 1,
@@ -249,7 +249,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Hon. Senators, I wish to report to the Senate that pursuant to Standing Order No. 41(3) and (4), I have received the following Message from the Speaker of the National Assembly regarding the passage of the Community Groups Registration Bill (National Assembly Bills No.20 of 2021). Pursuant to the said Standing Orders, I now report the Message. Pursuant to the provisions of Standing Order Nos. 41(1) and 142 of the National Assembly Standing Orders, I hereby convey the following Message from the National Assembly- WHEREAS the Community Groups Registration Bill (National Assembly Bills No.20 of 2021) was published via Kenya Gazette Supplement No.88 of 5th May, 2021, as a Bill concerning County Governments in terms of Article 110 (4) of the Constitution seeking to provide a regulatory framework for the mobilization, registration, coordination and regulation of community groups and for connected purposes; AND WHEREAS the National Assembly considered and passed the said Bill on Thursday, 25th November, 2021, with amendments in the form attached here to; NOW THEREFORE in accordance with provisions of Article 110(4) of the Constitution and Standing Orders Nos. 41(1) and 142 of the National Assembly Standing Orders, I hereby convey the said decision of the National Assembly to the Senate and forward the Bill for consideration. Hon. Senators, pursuant to Standing Order No.157, which requires that a Bill originating in the National Assembly be proceeded with by the Senate in the same manner as a Bill introduced in the Senate by way of First Reading in accordance with Standing Order No.139, I direct that the Community Groups Registration Bill (National Assembly Bills No.20 of 2021), which is listed in today's afternoon Order Paper, be read a First Time in the Senate. I thank you. Hon. Senators, please take your seats."
@@ -1620,22 +1620,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Farhiya\n\nNOES"
+      "text": "Sen. Farhiya\n\nNOES\n\n: Nil"
     },
     {
       "order": 136,
-      "id": "entry-1135614",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 137,
       "id": "entry-1135615",
       "label": "speech",
       "level": "3",
@@ -1647,7 +1635,7 @@
       "text": "Sen. M. Kajwang"
     },
     {
-      "order": 138,
+      "order": 137,
       "id": "entry-1135616",
       "label": "speech",
       "level": "3",
@@ -1659,7 +1647,7 @@
       "text": "Hon. Members, I want to thank everybody. We have a record good number of votes that have come in. The results are as follows:\n\nAYES:\n\n30\n\nNOES:"
     },
     {
-      "order": 139,
+      "order": 138,
       "id": "entry-1135620",
       "label": "speech",
       "level": "3",
@@ -1671,7 +1659,7 @@
       "text": "Nil ABSTENTIONS: Nil The Ayes have it."
     },
     {
-      "order": 140,
+      "order": 139,
       "id": "entry-1135621",
       "label": "scene",
       "level": "3",
@@ -1683,7 +1671,7 @@
       "text": "(Question carried by 30 votes to Nil)"
     },
     {
-      "order": 141,
+      "order": 140,
       "id": "entry-1135622",
       "label": "speech",
       "level": "3",
@@ -1695,7 +1683,7 @@
       "text": "Hon. Senators, as I had indicated earlier, the Divisions that are remaining are at the Committee Stage. The Committee Divisions will be about 15. Since we had promised Members that we will have a brief session, for the convenience of the House, we will defer them, so that we do them when we come back in February. That way, the Members who are online, some of whom had given us information that they were not in the best of health, will be able to participate."
     },
     {
-      "order": 142,
+      "order": 141,
       "id": "entry-1135623",
       "label": "heading",
       "level": "1",
@@ -1707,7 +1695,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 143,
+      "order": 142,
       "id": "entry-1135624",
       "label": "heading",
       "level": "2",
@@ -1719,7 +1707,7 @@
       "text": "THE COUNTY OVERSIGHT AND ACCOUNTABILITY BILL (SENATE BILLS NO.17 OF 2021)"
     },
     {
-      "order": 144,
+      "order": 143,
       "id": "entry-1135625",
       "label": "scene",
       "level": "2",
@@ -1731,7 +1719,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 145,
+      "order": 144,
       "id": "entry-1135626",
       "label": "heading",
       "level": "1",
@@ -1743,7 +1731,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 146,
+      "order": 145,
       "id": "entry-1135627",
       "label": "heading",
       "level": "2",
@@ -1755,7 +1743,7 @@
       "text": "THE HERITAGE AND MUSEUMS BILL (SENATE BILLS NO.21 OF 2021)"
     },
     {
-      "order": 147,
+      "order": 146,
       "id": "entry-1135628",
       "label": "scene",
       "level": "2",
@@ -1767,7 +1755,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 148,
+      "order": 147,
       "id": "entry-1135629",
       "label": "heading",
       "level": "1",
@@ -1779,7 +1767,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 149,
+      "order": 148,
       "id": "entry-1135630",
       "label": "heading",
       "level": "2",
@@ -1791,7 +1779,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO. 38 OF 2021)"
     },
     {
-      "order": 150,
+      "order": 149,
       "id": "entry-1135631",
       "label": "scene",
       "level": "2",
@@ -1803,7 +1791,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 151,
+      "order": 150,
       "id": "entry-1135632",
       "label": "heading",
       "level": "1",
@@ -1815,7 +1803,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 152,
+      "order": 151,
       "id": "entry-1135633",
       "label": "heading",
       "level": "2",
@@ -1827,7 +1815,7 @@
       "text": "THE INTERGOVERNMENTAL RELATIONS (AMENDMENT) BILL (SENATE BILLS NO. 37 OF 2021)"
     },
     {
-      "order": 153,
+      "order": 152,
       "id": "entry-1135634",
       "label": "scene",
       "level": "2",
@@ -1839,7 +1827,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 154,
+      "order": 153,
       "id": "entry-1135635",
       "label": "speech",
       "level": "2",
@@ -1851,7 +1839,7 @@
       "text": "That, therefore, brings us to the end, but before that, there is a point of intervention from the Senate Majority Leader, Sen. Poghisio."
     },
     {
-      "order": 155,
+      "order": 154,
       "id": "entry-1135636",
       "label": "heading",
       "level": "1",
@@ -1863,7 +1851,7 @@
       "text": "POINT OF ORDER"
     },
     {
-      "order": 156,
+      "order": 155,
       "id": "entry-1135637",
       "label": "heading",
       "level": "2",
@@ -1875,7 +1863,7 @@
       "text": "THANKS TO SENATORS FOR AVAILAING THEMSELVES FOR THE SPECIAL SITTINGS"
     },
     {
-      "order": 157,
+      "order": 156,
       "id": "entry-1135637-inserted-198bcf3a-b71d-4d35-8ffd-ad9c7431e1ee",
       "label": "heading",
       "level": "2",
@@ -1887,7 +1875,7 @@
       "text": "THANKS TO SENATORS FOR AVAILING THEMSELVES FOR THE SPECIAL SITTINGS"
     },
     {
-      "order": 158,
+      "order": 157,
       "id": "entry-1135639",
       "label": "speech",
       "level": "2",
@@ -1899,7 +1887,7 @@
       "text": "Madam Deputy Speaker, I want to use this opportunity, as way of proceeding to continue with recess, to thank Members for the commitment they have shown during these last two days, responding to our request for a Special Sitting; staying committed to the very end and passing a very crucial Bill; that is, the Budget Policy Statement among others. Madam Deputy Speaker, I think this has been a bit tedious. Members are tired. Members went to Arusha and many of them were there for games. Coming here and committing themselves these two days, I must use this opportunity to say I am very grateful to our team and the leadership to the Members. Madam Deputy Speaker, I also want to use this opportunity to wish all our Members including staff, a Merry Christmas and a very blessed 2022. As you proceed to the rest of your recess, I want to ask that God bless you all; that you will have journey mercies and spend the time well. \"Well\" is defined by yourselves. I do not know what \"well\" means, but spend it well. There are a lot of risks out there for politicians. I am thinking about crowds and the new variant of the COVID-19. Stay safe, healthy and enjoy your holidays. Thank you, Madam Deputy Speaker."
     },
     {
-      "order": 159,
+      "order": 158,
       "id": "entry-1135640",
       "label": "speech",
       "level": "2",
@@ -1911,7 +1899,7 @@
       "text": "Asante Bi. Naibu Spika kwa kunipa nafasi hii. Kwanza, ningependa kuwatolea shukurani sana ndugu zangu Maseneta wenzangu kwa kushughulika sana na shughuli za Bunge. Tumekuwa pamoja mwaka huu mzima; tunashukuru Mungu tumefika mwisho. Tuna jambo la kushukuru sana Mwenyezi Mungu. Pili, ningependa vile vile kuwashukuru sana Maseneta, kwa ukakamavu waliokuwa nao mwaka mzima. Tumeweza kufanya bidii kuhusiana na Bills na Motions . Kuna kazi nyingi sana ambazo tumeendelea nazo, ambazo hata rekodi yake iko na inaweza kuonekana. Kwa hiyo, nataka kuwapatia kongole ya hali ya juu sana Maseneta wote walioko hapa na wale ambao wako katika nyadhifa mbalimbali. Hawakuweza kufika lakini juhudi zao tumeziona na tunashukuru sana. Bi. Naibu Spika najua si kitu rahisi sana kuwa ndani ya Bunge na kuchukulia hatua safari mbalimbali kuweza kuweka mambo ya Bunge la Seneti kwa hali ya juu. Ndio sababu ukaona ndani ya hili Bunge la Seneti, kuna watu ambao ni wakakamavu na wanajulikana. Ukitaka sekta zote za Wakenya ziko hapa. Tuna watu wa hesabu, sayansi, mawakili, wafanyabiashara na watu wa sehemu mbalimbali. Kwa hivyo, wote hao wamekuwa wakichanganya maoni yao kuleta hapa ndani ya Seneti. Vile vile, tumekuwa na wema. Hatukuweza kutupiana maneno hapa ama kukosana na kushambuliana vibaya. Sote tumekuwa ndugu moja tukifanya kazi kusaidia Wakenya kokote walipo ndani ya Serikali yetu ya Kenya. Kwa hivyo, nataka kuwashukuru sana. Bi. Naibu Spika, mwisho ni kuwatakia kila la kheri. Najua kutakuwa na shamrashamra nyingi za Krisimasi na kutakuwa na starehe nyingi sana ambazo zitakuja wakati wa mwaka mpya, ambao tutakuwa tunafungua. Ingekuwa vyema kuwaambia tu ndugu zangu kwamba zile shamrashamra na harakati zote tutakazokuwa nazo wakati wa Krisimasi na mwaka mpya, tuziangalie vizuri na tuzingatie maoni yale ya Wizara ya Afya--- Tuketi mbalimbali tuweze kujikinga na ugonjwa huu wa COVID-19 ama huu mwengine umekuja ukaingilia katikati unaitwa OMICRON. Najua umefika hapa kwetu, lakini najua Wakenya ni watu ambao wanaelewa wakiambiwa kitu. Kwa hivyo, jukumu letu kama Seneti ni kuwaambia Wakenya popote walipo wazingatie zile amri za Wizara ya Afya; ya kwamba tuweze kujitenga na kuvaa barakoa wakati tunaongea na wenzetu ili huu ugonjwa usiweze kutapakaa ndani ya nchi yetu ya Kenya. La mwisho kabisa ni kwamba afya njema panapo majaliwa Mwenyezi Mungu atakapopenda tuonane tena - vile hapa katika shughuli zetu za Bunge tunasema \"kesho\" - tukiwa tutafungua Bunge vyema sote tuwe salama kwa amri yake Mwenyezi Mungu na rehema zake. Asante, Bi. Naibu Spika."
     },
     {
-      "order": 160,
+      "order": 159,
       "id": "entry-1135643",
       "label": "speech",
       "level": "2",
@@ -1923,7 +1911,7 @@
       "text": "Thank you Sen. Madzayo. Sen. Olekina, proceed, I believe in Kiswahili today."
     },
     {
-      "order": 161,
+      "order": 160,
       "id": "entry-1135644",
       "label": "speech",
       "level": "2",
@@ -1935,7 +1923,7 @@
       "text": "Madam Deputy Speaker, it will be very difficult for me to deliver the message. Let me take this opportunity to thank the distinguished Senators who are here, who have shown commitment to the work that brought us here. We are 47 elected Senators and 20 Nominated Senators, including the Speaker. For these distinguished men and women to be able to be here to pass legislation and for their Christmas season to be disrupted, it means that they care a lot about this nation. This is a time for us to reflect. When I was growing up, I used to be told that Christmas is a time of giving and not receiving. We give so much and that is the reason we are here. I want to appreciate all the Members who burnt the midnight oil to research on legislation; who have brought in business here and take the time to interrogate any other business that is brought in by the Government. This year has been a very tough year for all of us, but I am sure there are better things ahead. There is a time we take life the way it comes. Sometimes you take it as a gift, but it is a kind of gift that you do not return to the stores. It is a gift that you take and appreciate for being alive. We know that with this COVID-19 disease, many people are affected. I encourage my colleagues to lead by example when we go back home. This new variant is very dangerous and is spreading like wildfire. In fact, all of us have some form of flu. Unless you test yourself, you cannot tell what you have. Madam Deputy Speaker, I want to be brief. I remind our citizens back at home that when we go back home, please, let them allow us a few minutes to spend with our immediate family members who donate us to the public. Most of our constituents do not recognize the fact that we have families. We receive a lot of invitations. However, please, allow us to spend a couple of days for Christmas and New Year with our families. I thank you and wish everyone who is here the very best and a relaxed holiday season. May God bless all of you. I hope to see you back here in February, 2022."
     },
     {
-      "order": 162,
+      "order": 161,
       "id": "entry-1135645",
       "label": "speech",
       "level": "2",
@@ -1947,7 +1935,7 @@
       "text": "Thank you. Sen. Cherargei, please proceed."
     },
     {
-      "order": 163,
+      "order": 162,
       "id": "entry-1135647",
       "label": "speech",
       "level": "2",
@@ -1959,7 +1947,7 @@
       "text": "Bi. Naibu Spika, ningependa kuchukua fursa hii, kwa niaba yangu na wakaazi wa Kaunti ya Nandi kuwatakia Wakenya wote sherehe za kufana wakati huu tunapomaliza mwaka. Nina mambo mawili. Kwanza, ni kuwauliza Wakenya wachukue tahadhari haswa wakati huu wa sikukuu. Waendeshaji magari wasafirishe Wakenya kwa njia ya utaratibu ndio tusikuwe na ajali za barabarani wakati huu wa msimu wa Krismasi. Wale wanaotoka sehemu za Magharibi mwa Kenya wamepata gari la moshi jipya ambalo linaelekea sehemu hio. Tunatarajia ya kwamba itarahisisha kusafarisha wakaazi ambao wengi wao wanatoka Magharibi mwa Kenya, ingawa gari la moshi hilo linaenda kwa mwendo wa mzee kobe. Tunatarajia Shirika husika la Reli nchini litaangalia mahali ambapo gari la moshi linapita. Jana tuliona kulikuwa na mshike mshike kidogo, lakini tunatarajia Shirika la Reli nchini litaweza kushughulikia na kuhakikisha tunasafiri kwa njia inayofaa. Bi. Naibu Spika la mwisho ni kwamba Wizara ya Afya imesema kwamba Wakenya ambao hawajapata chanjo ya Covid-19 hawatapata huduma za serikali. Wizara ya Afya ilikuwa imeahidi ya kwamba Wakenya millioni kumi watakuwa wamepata chanjo kufikia mwisho wa mwaka. Lakini, kwa sasa, hicho kiwango hakijafika. Kwa hivyo, Wakenya wanapotarajia kupata chanjo, pia Wizara ya Afya ihakikishe kuwa chanjo hizo zinapatikana hadi kule mashinani ndio iwe rahisi kuzipata. Bi. Naibu Spika, tunapomaliza mwaka ninawatakia kila la heri wenzangu. Najua tunaelekea mwaka wa uchaguzi lakini cha muhimu ni taifa letu liwe la wapenda amani. Baada ya Mwezi wa Tatu au Nne, vyama vingi vitaelekea mchujo. Ni vizuri kwa sababu kinara wa chama, Sen. Wetangula, yuko. Kwa hivyo, ataweza kupeleka jambo hili kwa vinara wa vyama wahakikishe mchujo ambao unafanyika mwaka ujao utakuwa wa huru na haki. Asante Bi. Naibu Spika, kwa nafasi hii."
     },
     {
-      "order": 164,
+      "order": 163,
       "id": "entry-1135649",
       "label": "speech",
       "level": "2",
@@ -1971,7 +1959,7 @@
       "text": "Thank you. Sen. M. Kajwang,' please, proceed in Kiswahili."
     },
     {
-      "order": 165,
+      "order": 164,
       "id": "entry-1135650",
       "label": "speech",
       "level": "2",
@@ -1983,7 +1971,7 @@
       "text": "Bi. Naibu Spika, ningependa kuwashukuru Maseneta wenzangu kwa kujitolea katika kazi hii ya ujenzi wa taifa. Kuna wale ambao wanadhani ujenzi wa taifa ni kujenga barabara, nyumba au reli. Lakini, taifa linaweza kujengwa kwa sera na sheria ambazo tunapitisha. Ningependa kuwapongeze na kuwashukuru wenzangu kwa sababu kuna sheria mbili ambazo nilileta hapa Seneti na leo zimepitishwa na tunangojea tu kuzipigia kura. Sheria ya kwanza inapendekeza kwamba viongozi katika kila kaunti wawe na kongamanona, wawe wakikutana ili wajadiliane kwa yale maneno ambayo yanahusu hizo kaunti. Mkikumbuka Waheshimiwa Maseneta, sheria kama hio tuliipitisha kwa Seneti ama Bunge la 11. Lakini, Magavana walikimbia kortini. Sasa, tunatumaini ya kwamba tutapata fursa ya kuketi na magavana na wale viongozi wengine ambao wamechaguliwa kutoka kaunti zetu ili tujadiliane. Sheria ya pili ilikuwa ni kuhakikisha ya kuwa kuna utaratibu mwafaka wa kushirikiana kati ya Serikali ya juu na serikali ya chini, haswa kwa kugawana mamlaka. Tumeona pale Nairobi Kaunti kuna Nairobi Metropolitan Services (NMS) ambayo imepewa mamlaka na madaraka mengine ambayo yalikuwa ya Kaunti ya Nairobi. Nawashukuru wenzangu kwa kuipitisha hio pia. Sheria ya tatu iliyopitia Kamati ya Ugatuzi na Mahusiano kati ya Serikali za Kaunti na Serikali kuu ililetwa na Sen. OleKina. Ni sheria ambayo inaashiria na kuhimiza serikali za kaunti wafanye na waweke sehemu za public participation. Bi. Naibu Spika, leo hii nilijitolea niwe hapa. Hii ni kwa sababu leo hii kuna mwalimu ambaye ni maarufu sana kule kwetu Karachuonyo anaitwa Koyo Orimbo ilikuwa inafaa niende nimuomboleze. Kuna mama ambaye watoto wake wamejitolea kabisa. Kijana wake anaitwa Julius Olumbe kule Suba Kaskazini na ilikuwa nafaa niende nimuomboleze. Kuna mzee rafiki yangu ambaye anaitwa Kennedy Osutswa ambaye kijana wake alikuwa mwanafunzi akisomea uhandisi chuo kikuu. Aliuawa kinyama. Bado tunahimiza Serikali na Directorate of Criminal Investigation (DCI) wafanye uchunguzi mwafaka, ilikuwa inafaa niende nimuomboleze. Kuna mamake rafiki yangu Harold Ochola ambaye ilikuwa pia nafaa nimuomboleze. Mbali na mazishi hayo, ilifaa mimi kama kijana niwe na mama, watoto wangu na familia. Kwa hivyo, hio ni kujitolea. Ninajua kila Seneta hapa amejitolea. Ningependa nichukue fursa ya mwisho kuwatakia Krismasi mwafaka na mwaka mpya ulio na manufaa. Tunajua hii Desemba itakuwa ya mwisho kwa Bunge la Kumi na Mbili. Kwa hivyo, naombea kila Seneta yule ambaye atataka kuwa gavana, yule atarudi hapa na ambaye atataka kuwa rais kama mkubwa wangu, Sen. Wetangula. Tunawatakia kila la kheri na tunahakika ya kwamba taifa letu la Kenya lastahili heshima na hio heshima tutapata kwa uchaguzi ambao unakuja. Asante sana, Bi. Naibu Spika."
     },
     {
-      "order": 166,
+      "order": 165,
       "id": "entry-1135654",
       "label": "speech",
       "level": "2",
@@ -1995,7 +1983,7 @@
       "text": "Asante sana. That is a very good surprise from Sen. M. Kajwang.' Perfect Kiswahili."
     },
     {
-      "order": 167,
+      "order": 166,
       "id": "entry-1135655",
       "label": "scene",
       "level": "2",
@@ -2007,7 +1995,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 168,
+      "order": 167,
       "id": "entry-1135656",
       "label": "speech",
       "level": "2",
@@ -2019,7 +2007,7 @@
       "text": "Sen. Kibiru, please, proceed with the Kiswahili of Kirinyaga."
     },
     {
-      "order": 169,
+      "order": 168,
       "id": "entry-1135657",
       "label": "speech",
       "level": "2",
@@ -2031,7 +2019,7 @@
       "text": "Bi. Naibu Spika, yangu ni kushukuru wenzangu. Ningetaka niwafunze msamiati mmoja wa Kiswahili ambao ni uviko wa kumi na tisa kumanisha, Covid-19. Mimi nitaendelea na Kizungu kwa sababu Kiswahili ni kigumu kidogo. Muniwie radhi."
     },
     {
-      "order": 170,
+      "order": 169,
       "id": "entry-1135658",
       "label": "scene",
       "level": "2",
@@ -2043,7 +2031,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 171,
+      "order": 170,
       "id": "entry-1135659",
       "label": "speech",
       "level": "2",
@@ -2055,7 +2043,7 @@
       "text": "Madam Deputy Speaker, I will be more comfortable because the two days have been my days. I want to be very sincere in whatever I say without guessing. First and foremost, I thank the 30 or so Senators who have voted. Some of them are even---"
     },
     {
-      "order": 172,
+      "order": 171,
       "id": "entry-1135660",
       "label": "speech",
       "level": "2",
@@ -2067,7 +2055,7 @@
       "text": "That is just the exception because you were busy in the last two days. Otherwise, when you start you---"
     },
     {
-      "order": 173,
+      "order": 172,
       "id": "entry-1135662",
       "label": "speech",
       "level": "2",
@@ -2079,7 +2067,7 @@
       "text": "Yes, Madam Deputy Speaker. You start and finish in the same language. Thank you, Madam Deputy Speaker. As I was saying, I take this opportunity to thank the 12 or so Senators who participated in the debate of the Budget Policy Statement (BPS), and more so, the Senators who have spent time and voted for the Motion. Just like most the Senators have said, this is one of the most crucial debates or legislation that the Senate needs to pass. As I conclude, I ask that when we go out there, lobbying must be done. Sen. Olekina, Justice Madzayo and others we need to lobby that the Government listens to us, that we need Kshs485 billion. Sen. Wetangula, we want to send you to tell the principals wherever you meet them that the Senate for once would want Kshs485 billion to go to counties. Let us not have a debate when we come to the Dollar. It is something that we have made a resolve and I pray that when time comes, we will all stand up and defend our last chance to ensure that funds get to the devolved entities. Madam Deputy Speaker, having said that, I wish my fellow Senators, the Secretariat and those who have been working with us more so the people of Kirinyaga County and my fellow Kenyans, a Merry Christmas and a very rewarding 2022. I would also say that come next year - like somebody has wished us - next December, I think I will be the Governor of Kirinyaga County. I thank you."
     },
     {
-      "order": 174,
+      "order": 173,
       "id": "entry-1135663",
       "label": "scene",
       "level": "2",
@@ -2091,7 +2079,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 175,
+      "order": 174,
       "id": "entry-1135664",
       "label": "speech",
       "level": "2",
@@ -2103,7 +2091,7 @@
       "text": "Proceed, Sen. (Dr.) Musuruve"
     },
     {
-      "order": 176,
+      "order": 175,
       "id": "entry-1135665",
       "label": "speech",
       "level": "2",
@@ -2115,7 +2103,7 @@
       "text": "Asante sana Bi Naibu Spika kwa kunipa fursa hii ya kuchangia Hoja hii. Nawashukuru maseneta wenzangu kwa kazi tuliyo fanya mwaka huu. Kwa uwezo wa Mwenyezi Mungu tumeweza kuunda sheria ingawa pia kuna zingine ambazo hazijakamilika. Ni jukumu letu kuendelea kuunda sheria bila kuchoka. Ninajua kwamba wakati tutarejea vikao vya Seneti mwaka kesho, tutajikakamua kuja hapa na kuzungumzia mambo ya sheria kwa sababu waKenya wanatusubiri na wanataka kuona tunawatetea. Seneti inajukumu la kutetea wakenya na hiyo ndiyo kazi yetu. Nawaahidi walemavu kwamba sitachoka; nitaendelea kuwatetea hapa Seneti. Ninashukuru Seneta wenzangu kwa sababu nikizungumzia maslaha ya walemavu huwa wanajiunga nami na tunaweza kuhakikisha walemavu wamepata haki yao. Tutaendelea kuzungumza kuhusu sheria ya lugha ya ishara. Nataka kuwahakikishia walemavu katika nchi yetu ya kuwa nina imani Maseneta wenzangu watajiunga nami na watahakikisha kwamba sheria ya lugha ya ishara imepita kikamilifu na pia kupelekwa katika Bunge la Kitaifa. Ni ombi langu kuwa Mswada huo utakapo fikishwa katika Bunge la Kitaifa, hautachelewa na Rais ataweza kuweka muhuri uwe sheria rasmi. Najua kuwa walemavu wamekuwa na changamoto kwa sababu kuna mambo mengi sana ambayo hayajawekwa kisheria. Sen. (Dr.) Mwaura, pia aliwasilisha Mswada mwingine unaolenga walemavu unajadiliwa na tunaomba kuwa utakuwa sheria kamilifu ili walemavu wapate haki yao. Bi. Naibu Spika, wakenya lazima wajue kwamba tunaenda likizo lakini tutaendelea kuwa viongozi. Tukiwa likizo, nawaomba Maseneta wazidi kuwasiliana na wakaazi wa kaunti zao. Maswala ambayo hayendelei vizuri mashinani, tuyalete hapa Seneti ili wakenya waishi kwa amani. Ningependa kuwakumbusha wakenya kwamba ingawa tunaenda likizo wanafaa kuwa waangalifu. Huu ugonjwa wa COVID-19 si wa kuchukulia kiholela; ugonjwa huu unaambukiza kina mama, baba na kila mtu. Wakenya wanafaa kuwa waangalifu kwa kuvalia barakoa na kunawa mikono ili ugonjwa huu usiendelee kusambaa. Tunafaa kuchunga maisha ya wenzetu."
     },
     {
-      "order": 177,
+      "order": 176,
       "id": "entry-1135668",
       "label": "scene",
       "level": "2",
@@ -2127,7 +2115,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kamar left the Chair]"
     },
     {
-      "order": 178,
+      "order": 177,
       "id": "entry-1135669",
       "label": "scene",
       "level": "2",
@@ -2139,7 +2127,7 @@
       "text": "[The Speaker (Hon. Lusaka) in the Chair]"
     },
     {
-      "order": 179,
+      "order": 178,
       "id": "entry-1135670",
       "label": "speech",
       "level": "2",
@@ -2151,7 +2139,7 @@
       "text": "Nachukua fursa hii kukushukuru kwa kuwa tumeweza kuwa na mazungumzo mazuri mwaka huu hapa Seneti. Naishukuru Seneti kwa kuhakikisha kwamba ombi zinazoletwa na wakenya zinawekwa katika mstari wa mbele ya kuwa kila Mkenya anapata haki yake. Nawatakia Wakenya wote krismasi njema na mwaka mpya wenye mafanikio. Asante."
     },
     {
-      "order": 180,
+      "order": 179,
       "id": "entry-1135671",
       "label": "speech",
       "level": "2",
@@ -2163,7 +2151,7 @@
       "text": "Sen. Wetangula Proceed."
     },
     {
-      "order": 181,
+      "order": 180,
       "id": "entry-1135672",
       "label": "speech",
       "level": "2",
@@ -2175,7 +2163,7 @@
       "text": "Bw. Spika, asante sana kwa kunipa fursa hii kuchangia yale wenzangu wamesema tunapofikia kikomo cha muhula huu wa mwaka huu. Kwanza ni kukushukuru wewe Bwana Spika na kikundi chako, wakiwemo Naibu Spika, Sen. (Prof) Margaret Kamar na wale wenzetu waliomo kwa jopo la Spika na ambao mara kwa mara huchukua nafasi ya kukaa katika kiti chako na kuongoza mijadala ya Seneti hii kwa njia ya heshima na ambayo inastahili sifa. Mwaka huu wote hatujawai kuwa na taharuki yoyote katika Bunge hili; hata wakati ambao tulikuwa tumeganyika kuhusu ugavi wa pesa, ilifanyika kwa njia ya heshima. Kila mtu alitoa maoni yake, ikasikizwa, ikakubalika na ikaheshimimka. Bunge la Seneti limejitenga kama Bunge la kuaminika. Kama ndungu yetu anayewakilisha Kaunti ya Kilifi amsema, Bunge la Seneti lina Maseneta wenye vipaji mbali; tuna maprofesa, mawakili, madaktari na pia mahandisi. Maseneta walioko hapa wanatajriba mbali mbali. Tunapotamatisha vikao vya Seneti vya mwaka huu, tuangazia kule tumetoka, tulipo na tunako elekea na kujivunia kuwa tumepitisha Miswada na Hoja nyingi ambazo zinaleta mabadiliko kwa Wakenya. Jana tulijadiliana kuhusu Budget Policy Statement (BPS) au Sera ya bajeti na kauli kutoka hazina kuu ambayo inahusu bajeti ijayo. Maseneta walichangia hoja hiyo kwa uwazi na wakasema kuwa hata liwe liwalo, eneo za ugatuzi zinahitaji kuongezewa pesa kwani huko ndiko wananchi wa Kenya wanaishi na hivyo wanahitaji kupewa huduma zinazotakikana kwa mfano, matibabu, elimu za chekechea na vitu vingine. Nikimalizia, nawaomba wenzangu katika uwanja wa kisiasa wawe wakarimu wanapoendeleza kampeni. Wakenya wengi watuona sisi wanasiasa kana kwamba tumegeuza uwanja huo kuwa uwanja wa fujo. Nataka kuomba sote tukubaliane kuwa hata tukibishana kutafuta viti vya uongozi, mwisho wa mabishano lazima tulinde amani ya nchi yetu. Tuhakikishe ya kwamba akina mama, watoto, walemavu na wale ambao kwa njia moja au nyingine hawajiwezi au ni wanyonge, wawe na nafasi ya kulindwa na sisi sote. Bw. Spika, mwaka huu umekuwa na changamoto haswa kwangu na wewe pia kwa sababu tunatoka kaunti moja. Unajua kuwa tulimpoteza Mbunge wetu wa Kabuchai. Nashukuru Maseneta ambao walituma pole zao. Tulimzika na kwenda kwa uchaguzi mdogo ambapo tulimchagua mrithi wake na sasa tunaendelea vizuri. Kibinafsi pia nilimpoteza ndugu yangu mdogo kwa huu ugonjwa wa Korona. Kwa hivyo, tukizungumzia Korona, mjue kwamba wengine wetu tumefikiwa na ugonjwa huu. Nilimpoteza mama ndogo na nawashukuru sana nyote mliotuma rambirambi zenu. Bw. Spika, Mungu yuko na Mungu hubaki Mungu, hana jina lingine. Wale wakorofi waliotaka kuvuruga chama chetu cha FORD-Kenya, walishindwa vibaya. Tukikutana na wale ambao walikuwa wanawaunga mkono, wana haya na hawataki kutusalimia. Wanatoroka wakituona kila mahali tukienda. Nataka kuwashukuru hawa ndugu zetu wote hapa Seneti ambao kwa njia moja au nyingine walikuwa wakija kwangu pole pole kuniambia: \"tuko pamoja na wewe, tunakuombea na hii utashinda.\" Na tulishinda! Bw. Spika, wale ambao wameshindwa tunawaambia tumewasamehe lakini hatutasahau, kwa sababu wamejifanya kuwa vibaraka wa wengine na kwa siasa ya nchi yetu hatutaki vibaraka. Tunataka watu wenye msimamo, heshima na wale wanazingatia demokrasia katika maisha yao kibinafsi, katika vyama vyao na katika nchi yetu. Bw. Spika, tukielelekea katika uchaguzi mkuu, tunakuunga mkono vile umekuwa ukisema mara kwa mara ya kwamba tunahitaji uchaguzi wenye usawa, haki, ukweli na amani. Hii ni kwa sababu nchi yetu imepitia changamoto kubwa ya mabishano ya uchaguzi mwaka wa 2007 mpaka tukapoteza maisha na mali ya Wakenya. Bw. Spika, tukiangalia nyuma, ile funzo tumesoma ni kujua ya kwamba katika mabishano ya kisiasa, uchaguzi ukiisha tunabaki kuwa Wakenya na lazima tuendelee kufurahia na kujivunia kuwa Wakenya. Kwa polisi wetu, tunaenda kwa hafla za Krisimasi. Tunawaomba mfanye kazi kusaidia wananchi ili tusiwe na misongamano isiyo na maana katika barabara zetu. Tupunguze ajali ili Wakenya wanaotoka hapa jijini kwenda mashinani, iwe ni Pwani, kaskazini au magharibi na popote pale, waweze kusafiri bila kuhangaishwa na majambazi barabarani au bila kurundikana na milolongo ya magari kwa sababu ya kutoajibika kwa polisi wanaolinda trafiki kwa barabara. Bw. Spika, nachukua nafasi hii kuwatakia Wakenya na kuwapatia salamu za heri na fanaka katika mwezi huu wa Krisimasi. Tunajua wamekuwa na changamoto nyingi. Wakenya wengine watasherehekea Krisimasi bila chakula, wengine wanaenda wakihangaika kutafuta karo za watoto kwa sababu shule zinafunguliwa mwezi ujao. Tunaomba Wizara ya Elimu iwachilie pesa za basari ziende kwa shule na kwa wale wanaohusika ili katika wiki mbili au tatu zijazo, shule zikifunguliwa, watoto waweze kwenda shule wakijua hayo ndiyo maisha yao ya baadaye. Bw. Spika, tunamshukuru Rais wetu na kumpatia heri ya Krisimasi. Tunampatia pia Naibu Rais heri ya Krisimasi na haswa wenzangu katika uongozi wa One Kenya Alliance (OKA); ndugu zangu, Mhe. Kalonzo Musyoka, Mhe. Musalia Mudavadi, Sen. Gideon Moi, Mhe. Cyrus Jirongo na wale wote ambao wamesema wataungana na sisi. Tunawaomba tuchangie vilivyo kama Wakenya wengine tukijua uchaguzi unakuja na lazima uwe wa haki, usawa, ukweli na wa amani. Bw. Spika, Mungu atubariki sisi sote. Turudi mwezi ujao kama Maseneta tukijua ya kwamba leo tumepigania kuongeza pesa kwa kaunti zetu. Tuwe na huo msimamo, kwa sababu kama uchumi umekuwa, lazima kaunti pia zipate mapato yanayokua. Asante, Bw. Spika."
     },
     {
-      "order": 182,
+      "order": 181,
       "id": "entry-1135688",
       "label": "speech",
       "level": "2",
@@ -2187,7 +2175,7 @@
       "text": "Sen. (Prof.) Kamar."
     },
     {
-      "order": 183,
+      "order": 182,
       "id": "entry-1135689",
       "label": "speech",
       "level": "2",
@@ -2199,7 +2187,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me the opportunity to join my colleagues in wishing ourselves a very Merry Christmas."
     },
     {
-      "order": 184,
+      "order": 183,
       "id": "entry-1135690",
       "label": "speech",
       "level": "2",
@@ -2211,7 +2199,7 @@
       "text": "What is your point of order, Sen. Wetangula? Sen. (Prof.) Kamar, take your seat."
     },
     {
-      "order": 185,
+      "order": 184,
       "id": "entry-1135691",
       "label": "speech",
       "level": "2",
@@ -2223,7 +2211,7 @@
       "text": "Mr. Speaker, Sir, is it in order for the distinguished Senator for Uasin Gishu County, who ordered that this afternoon all our well wishes and farewell for the year must be in Swahili--- She must understand and know that what is good for the goose must be good for the gander."
     },
     {
-      "order": 186,
+      "order": 185,
       "id": "entry-1135692",
       "label": "speech",
       "level": "2",
@@ -2235,7 +2223,7 @@
       "text": "Basi Profesa umejikaanga na mafuta yako. Jiokoe sasa."
     },
     {
-      "order": 187,
+      "order": 186,
       "id": "entry-1135693",
       "label": "scene",
       "level": "2",
@@ -2247,7 +2235,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 188,
+      "order": 187,
       "id": "entry-1135694",
       "label": "speech",
       "level": "2",
@@ -2259,7 +2247,7 @@
       "text": "Mr. Speaker, Sir, I started presiding in English and now I do not want to break the rules of the Speaker. I was stuck with that one."
     },
     {
-      "order": 189,
+      "order": 188,
       "id": "entry-1135695",
       "label": "scene",
       "level": "2",
@@ -2271,7 +2259,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 190,
+      "order": 189,
       "id": "entry-1135696",
       "label": "speech",
       "level": "2",
@@ -2283,7 +2271,7 @@
       "text": "Hoja ya nidhamu ni gani, Sen. Madzayo?"
     },
     {
-      "order": 191,
+      "order": 190,
       "id": "entry-1135697",
       "label": "speech",
       "level": "2",
@@ -2295,7 +2283,7 @@
       "text": "Asante, Bw. Spika. Tulipokua hapa leo mchana, kumetolewa amri na naibu wako. Sio Emeritus Sen. Wako. Nasema naibu wako wewe, Naibu wa Spika wa Bunge la Seneti. Akasema leo, kwa vyovyote vile, liwalo liwe, Maseneta wote ambao wako ndani ya Bunge la Seneti kuagana hapa leo, ikiwa ndio tarehe yetu ya mwisho, wataongea Kiswahili. Je, ni haki? Hata huyu mdogo wangu, ndugu yangu ninayemuenzi sana, Sen. M. Kajwang' ana Kizungu mufti, lakini leo ameona aongee lugha ya mama. Bw. Spika, nataka nikuulize wewe kwa kauli moja, je, ni haki kwa Naibu wako, ambaye tunamuenzi sana hapa ndani ya Bunge letu, kuvunja amri yake mwenyewe aliyoweka hapa na kila mtu ameifuata?"
     },
     {
-      "order": 192,
+      "order": 191,
       "id": "entry-1135700",
       "label": "speech",
       "level": "2",
@@ -2307,7 +2295,7 @@
       "text": "Naagiza kwamba Naibu wa Spika atumie lugha ya Kiswahili."
     },
     {
-      "order": 193,
+      "order": 192,
       "id": "entry-1135701",
       "label": "scene",
       "level": "2",
@@ -2319,7 +2307,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 194,
+      "order": 193,
       "id": "entry-1135702",
       "label": "speech",
       "level": "2",
@@ -2331,7 +2319,7 @@
       "text": "Asante sana, Bw. Spika. Ningependa kuungana na Maseneta wote kukushukuru kwanza kwa kazi nzuri huu mwaka wa 2021."
     },
     {
-      "order": 195,
+      "order": 194,
       "id": "entry-1135704",
       "label": "scene",
       "level": "2",
@@ -2343,7 +2331,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 196,
+      "order": 195,
       "id": "entry-1135705",
       "label": "speech",
       "level": "2",
@@ -2355,7 +2343,7 @@
       "text": "Bw. Spika, nashangaa kwa nini Sen. Olekina aliye shindwa kabisa kuongea Kiswahili anacheka. Leo ni siku ya maana sana kwa sababu tumeamua tutaongea Kiswahili kusema asante. Shukrani ya kwanza ni kwako Bw. Spika. Shukrani ya pili ni kwa Panel yako na tumefanya kazi nzuri. Shukrani ya tatu ni kwa sisi sote Maseneta. Tumefanya kazi nzuri sana mwaka huu wa 2021. Bw. Spika, leo ilikua siku nzuri sana kwa sababu tulivunja rekodi. Kwa kura, tulikuwa na Maseneta 30 kwenye mtandao na ndani ya Bunge. Ningependa kuwashukuru sana kwa sababu walituheshimu. Tuliitisha Kikao hiki kiwe Kikao Maalum, na tukakuja sote. Nina washukuru sana. Bw. Spika, la mwisho ni kutakia kila mtu heri, fanaka na Krismasi njema, sio tuu kutakia Maseneta, bali pia watu wa Kaunti ya Uasin Gishu, wenye walinileta hapa. Nawatakia Krismasi njema na mwaka mpya wa baraka kutoka kwa Mweneyezi Mungu. Asante, Bw. Spika."
     },
     {
-      "order": 197,
+      "order": 196,
       "id": "entry-1135708",
       "label": "speech",
       "level": "2",
@@ -2367,7 +2355,7 @@
       "text": "Pongezi sana."
     },
     {
-      "order": 198,
+      "order": 197,
       "id": "entry-1135709",
       "label": "speech",
       "level": "2",
@@ -2379,7 +2367,7 @@
       "text": "Asante, Bw. Spika, kwa kunipa fursa hii kuchangia mjadala huu. Wacha hata mimi nijaribu leo. Hua napigia Maseneta simu kila siku nikiwaomba wapigie mjadala fulani kura. Nina washukuru sana kwa kuitikia mwito wangu kila wakati. Nina wahimiza Wakenya wachukue chanjo kama wanataka tupigane na Korona na maisha yetu iendelee vile ilikua inafaa kuwa. Serikali inatoa chanjo bure. Watu waende kwenye hospitali na wapewe chanjo. Bw. Spika, nina wahimiza magavana walipe watu pesa ambazo wanandaiwa. Walipe watu wa mashinani pesa ili watu waanze kujiokoa kutokana na umaskini ambao umeletwa na ugonjwa wa Korona. Nina wahimiza Maseneta kuwa Mungu akitujalia tupate fursa ya kukutana hapa tena mwaka ujao, tuta pitisha mijadala mingi. Hii ni kwa sababu tuko karibu kumaliza muhula wa Seneti hii. Tusiwache watu wamefanya bidii wakaleta Miswada hapa Bunge na waende nyumbani bure bilashi bila kupitisha Miswada yao. Ningependa Spika wetu atumie ushawishi wake kuhakikisha kwamba Bunge la Kitaifa lipitishe Miswada yetu ili iwe sheria. Bw. Spika, tuko na fursa nzuri katika historia ya taifa letu kwa sababu tunatengeneza sheria ya kufanikisha ugatuzi. Sheria hizo ni nzuri na ni lazima zipite ili wananchi wapate mafanikio ya ugatuzi. Nina washukuru Maseneta kwa kutetea ugatuzi wakati wowote kulingana na jukumu lao. Ninawasihi Wakenya kuwa watu wanao wania kiti cha urais ni wengi sana. Kila mmoja anajirembesha kuwa yeye ndiye mzuri zaidi. Ninawaomba Wakenya waweke watu ratil ili wahakikishe kwamba yule wanampea mamlaka anafaa kuendesha nchi yetu mbele. Bw. Spika, ninashukuru kila mtu kwa huu mwaka ambao tumemaliza vizuri zaidi. La mwisho ni ningependa kuwatakia Wakenya, Maseneta, sekretarieti na kila mtu ambaye anatusaidia kuendesha shughuliza za Seneti sikukuu njema. Asante, Bwa. Spika."
     },
     {
-      "order": 199,
+      "order": 198,
       "id": "entry-1135711",
       "label": "speech",
       "level": "2",
@@ -2391,7 +2379,7 @@
       "text": "Sen. (Dr.) Milgo."
     },
     {
-      "order": 200,
+      "order": 199,
       "id": "entry-1135712",
       "label": "speech",
       "level": "2",
@@ -2403,7 +2391,7 @@
       "text": "Asante, Bw. Spika. La kwanza ni kuchukua fursa hii kushukuru viongozi wa Seneti na Maseneta wenzangu jinsi tumeendelea mwaka huu na miaka nne iliyopita. Ninakumbuka siku ya kwanza ulipotupeleka orientation. Ninakumbuka nilikuuliza kama nitawahi weza kutunga sheria hata moja. Leo hii ninaposimama hapa nimepitisha Miswada yangu zaidi ya mbili na Hoja mbali na zile za Kamati, na bado ninaendelea. Bw. Spika, nina kushukuru kwa njia umetuelekeza na kutufunza. Nimepata kujifunza kutoka kwa Maseneta wenzangu namna ya kuendeleza mambo ya siasa. Hapo awali nilikuwa mwalimu. Sasa hivi nimegeuzwa na kuwa mwanasiasa kamili. Ningependa pia kushukuru wengazu kwa kupitisha Budget Policy Statement"
     },
     {
-      "order": 201,
+      "order": 200,
       "id": "entry-1135713-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -2415,7 +2403,7 @@
       "text": "(BPS)\n\n,"
     },
     {
-      "order": 202,
+      "order": 201,
       "id": "entry-1135714",
       "label": "speech",
       "level": "2",
@@ -2427,7 +2415,7 @@
       "text": "ingawa bajeti hiyo haina pesa za kutosha kuenda mashinani. Inamaanisha kwamba huduma kule mashinani hazitatimizwa kikamilifu, haswa tukiangalia upande wa elimu. Mimi binasfi nimepata kujua kwamba mambo ya wanafunzi kugoma kila wakati ni kwa sababu ya upungufu wa matumizi katika shule na msongamano katika bweni na vyumba vya mamkuli. Ninafikiri kwamba tukiendelea kuongelea haya mambo, Serikali kuu itatuongeza pesa ili mambo kama haya yaweze kuangaliwa ili huduma zipeanwe inavyo stahili. Bw. Spika, msimu huu si wa Krismasi pekee bali pia ni msimu wa siasa. Ningependa kuhimiza Wakenya wenzangu kwamba wakati huu sio wa kuenda kupiga kura mara ya mwisho. Tutapiga kura mwaka wa 2022 na bado tutakuwa na miaka ingine ya kupiga kura. Kwa hivyo, tujitenge na mambo ya kupigana. Lazima tukae tuskize kila mwanasiasa. Kama vile imesemwa, kuna wengi wanawania kiti cha urais. Vile vile kuna wale wawania kiti cha Seneta, Gavana na Wawakilishi Wodi. Tunasahili kukaa na kuskiza hawa kisha tukate kauli bila kupigana. Ni lazima tujue kwamba baada ya ya siasa hawa wakubwa wana salimiana na kunywa chai pamoja. Hatutaki kumwaga damu bila sababu. Bw. Spika, ningependa kutakia Wakenya wote kila la heri, haswa watu wangu wa Kaunti ya Bomet. Wahakikishe kwamba wakati huu wa Krismasi, wajitenge na mambo ya kuchangamka bila kuhakikisha wamefuata maagizo ya Wizara ya Afya. Mbali ya hayo, wahakikishe kwamba wamepata chanjo ya COVID-19. Hii ni kwa sababu hivi sasa kuna aina ya Korona mpya inaitwa Omicron na ni hatari sana. Tayari tuko na chanjo za kutosha katika vituo vya afya na chanjo hazina madhara yoyote. Bw. Spika, la mwisho, ningependa kutakia kila la heri Maseneta wenzangu, Nawatakia Krismasi njema na mwaka mpya wenye fanaka."
     },
     {
-      "order": 203,
+      "order": 202,
       "id": "entry-1135715",
       "label": "speech",
       "level": "2",
@@ -2439,7 +2427,7 @@
       "text": "Sen. (Eng.) Hargura."
     },
     {
-      "order": 204,
+      "order": 203,
       "id": "entry-1135716",
       "label": "speech",
       "level": "2",
@@ -2451,7 +2439,7 @@
       "text": "Asante, Bw. Spika kwa kunipatia nafasi hii. Langu ni kuungana na wenzangu, Masenta walio hapa Bungeni, kuwashukuru Maseneta wote kwa kazi tuliyo weza kufanya mwaka huu katika kutimiza majukumu yetu kama wawakilishi wa serikali za ugatuzi na watungi wa sheria. Bw Spika, kama mwakilishi wa Kaunti ya Marsabit katika Seneti, nina huzunika sana katika hali ambayo mwaka huu na miaka mitatu iliyopita imekuwa kwa wakaazi wa Kaunti ya Marsabit. Kwa bahati mbaya kulikuwa na ukosefu wa amani katika Kaunti ya Marsabit na watu wengi wamepoteza maisha yao takriban zaidi ya watu 100. Kuna wakati hesabu ilikuwa ilifanywa. Mali nyingi imeibiwa na nyumba kuchomwa. Ni huzuni sana kwangu kuwakilisha kaunti kama hii katika Seneti. Kila wakati tunajaribu kutatua hali hii na kwa bahati mbaya ni vita na ukosefu wa amani ambao unatokana na viongozi na wanasiasa ambapo mpaka sasa hali haijatulia na haijabadilika. Inaendelea tu kuharibika. Naomba Mwenyezi Mungu tukiwa tunaelekea wakati wa siasa aweze kutupatia njia ya kutatua shida hii. Ni kwa sababu ni wakati ambao tutakuwa na changamoto nyingi sana kwa sababu ya kuchochea watu. Bw Spika, ninawahimiza viongozi wote waliochaguliwa katika Kaunti ya Marsabit katika nyanja mbali mbali ikiwa ni kutoka Members of County Assembly (MCAs) mpaka magavana na viongozi wengine wote ambao pia wanahusika katika hali moja ama nyingine katika katika Marsabit, tukae pamoja tuweze kutatua Hali hii. Viongozi wakikosana haimaanishi kwamba mpaka tuhusishe raia kupatikane vifo na mali kuhalibiwa. Kuna njia nyingi sana ya kutatua tofauti za kisiasa. Nataka kuwashukuru wazee kutoka jamii tofauti za Kaunti ya Marsabit hasa wale 53 ambao walijaribu na bado wanaendelea kuleta amani haswa wale wenyeviti kutoka jamii tofauti wakiongozwa na kijana Jacob Elisha. Wiki mbili zilizopita walikuja Nairobi kwa warsha ya mambo ya amani na wakatutafuta sisi viongozi wakasema ni lazima tuweze kukaa chini. Bw Spika, hakuna kitu kinaendelea katika mji wa Kitale. Biashara zimefungwa, watu wamehama na hata imefika kiwango amri imetolewa hizi piki piki zote zisimamishwe. Sasa uchukuzi umesimamishwa na hali sio nzuri hata kidogo. Mpaka hata jana jioni najua kuna kijana aliuawa. Ni hali ambayo inahuzunisha sana. Wakati wazee hawa walikuja tulikaa nao kama viongozi na tukasema wote wahusishwe. Tukasema tukae kama viongozi na katika mkutano huo, lazima Gavana wa Kaunti ya Marsabit na Waziri wa Fedha wahudhurie kwa sababu tunajua umuhimu wao katika mambo ya jamii huko haswa katika ukosefu wa amani. Tulikaa na tukakubaliana kwamba tutashauriana na watu wetu wasimamishe vita. Leo siku ya Jumatano ingekuwa ni siku tungekuwa na mkutano huo huko Marsabit. Bw Spika, lakini kwa bahati mbaya na kwa sababu ya watu ambao hawataki amani, Jumamosi iliyopita kulitokea mauaji ya zaidi ya watu 13 na mali ikachukuliwa lakini iliweza kurudishwa. Hiyo sasa imevuruga tena ile hali na mpango tulikuwa nayo. Ninataka kuwahimiza wakaazi wa Marsabit watulie na viongozi tuje pamoja bado turudi tuweze kushikana na wazee wetu na kuwahimiza watu wetu wasimamishe vita halafu tuanze taratibu ya kujadili njia ya kuleta amani. Vile ambavyo tumeangalia, hivi ni vita ama ukosefu wa amani ambao unatokana na siasa na ni vitu ambavyo lazima viongozi tukae chini tuweze kutatua. Tumejaribu lakini imeshindikana kwa sababu viongozi wengine hawako tayari kukaa na wenzao na jambo hili linachangia ukosefu wa amani. Bw Spika, pamoja na hayo, nataka pia nielekeze huu ujumbe kwa serikali kuu kwa sababu ni jukumu lao kudumisha amani na kuchunga maisha na mali ya Wakenya wote bila kujali msimamo wao wa kisiasa, jamii au dini. Lazima serikali ihudumie kila mtu kwa usawa. Lakini hali ambayo tunaona kama wakaazi wa Marsabit sivyo serikali inatuhudumia. Serikali pia katika hii vita imeonekana ni kama inaegemea upande mmoja. Jamii fulani ikivamiwa, serikali haina habari lakini wengine wakivamiwa ni tofauti. Juzi ilifika kiwango tuliona mara ya kwanza serikali inakuja na nguvu sana kuhakikisha kwamba jamii fulani ikivamiwa wanafuata wale wengine kurudisha mali yao. Lakini hawa wengine wakati walikuwa wanavamiwa serikali hata ukijaribu kuwaambia wachukue hatua, hawataki kujua. Wana lawama na wajue kwamba serikali ni ya kila mtu na inatakikana ihudumie kila mtu. Bw Spika, katika hii hali ya ukosefu wa usalama kuendelea katika Marsabit mpaka kufika kiwango hiki, yangu ni kusema kwamba hata wao wanachangia kwa sababu ya kutokuwa na uadilifu na usawa katika utendakazi wao. Hao pia kama serikali kuu waweze kuhudumia Wakenya wote na kuchukua hatua bila kujali ni nani analeta hiyo vurugu. Hii ni kwa sababu naamini kwamba serikali iko na uwezo juu ya kila raia. Ndio maana sikubaliani na yale matamshi ya mratibu wa usalama katika Bonde la Ufa aliposema kwamba kuna wahalifu sehemu za Laikipia wako na silaha kushinda silaha za serikali. Kwa hivyo, ni jukumu la serikali kutumia nguvu zake kudhibiti amani na kuhakikisha Wakenya wanaishi kwa amani. Yangu ni hayo kwa serikali kuu. Bw Spika, pia ninawahimiza wenzetu viongozi wakati kama huu wa siasa tuendeshe siasa zetu kwa njia ya nidhamu bila kugonganisha Wakenya. Mara nyingi, Wakenya wanaumia tukiwa tunawaelekeza katika njia mbaya. Ninakushukuru kwa kunipatia fursa hii na kuomba ya kwamba Mwenyezi Mungu atatuweka salama. Mwaka ujao tukifungua Bunge, tuweze kuwa na nguvu ya kuendelea na kazi zetu. Asante."
     },
     {
-      "order": 205,
+      "order": 204,
       "id": "entry-1135722",
       "label": "speech",
       "level": "2",
@@ -2463,7 +2451,7 @@
       "text": "Basi kuna wale wamebaki. Nitawaomba niwape dakika tatu. Sen. Omanga, endelea kwa dakika tatu na ni Kiswahili."
     },
     {
-      "order": 206,
+      "order": 205,
       "id": "entry-1135723",
       "label": "speech",
       "level": "2",
@@ -2475,7 +2463,7 @@
       "text": "Bw Spika, asante. Ningependa pia kujiunga na wenzangu kuwapongeza kwa kupitisha bajeti. Kama Maseneta, kweli tumeonyesha kwamba tunaweza kupigania Ugatuzi na kusaidia kaunti zetu kwa changamoto wanazozipitia. Mwaka huu umekuwa wa changamoto nyingi sana. Tumeathiriwa na ugonjwa wa Coronavirus (COVID-19). Umekuwa mwaka mgumu sana kwetu sisi kama viongozi na wananchi wetu ambao tunawaongoza. Watu wengi wamepoteza kazi haswa vijana na akina mama na biashara za watu wengi zimeathiriwa. Tunafunga mwaka na bado nasikia kwamba kama bunge hatujaweza kufanya yanayotosha tuweze kusaidia wananchi wetu kurudi pahali walikuwa kabla ya hii changamoto ya COVID-19. Ningeomba tukirudi mwaka ujao Mungu akitujalia inshallah mwezi wa pili, tuone vile tunaweza kufanya kama viongozi kuwasaidia wananchi wetu warudi kazini na tuweze kuboresha uchumi wetu na wafanyibiashara waweze kurudi kufanya biashara zao. Bw. Spika, mwaka huu, Seneti ilipitisha miswada nyingi hata ingawa kuna zingine nyingi ambazo hazijaweza kushughulikiwa kikamilifu katika Seneti. Miswada zingine pia bado zimekwama katika Bunge la kitaifa. Wengi wetu tunahangaika kwa muda mrefu kutayarisha miswada na hata kukosa usingizi lakini zikifika katika Bunge la Kitaifa, zinakosa kushughulikiwa. Seneti inafaa kujadiliana na Bunge la Kitaifa ili kuhakikisha kwamba miswada inayotoka hapa Seneti hazitupiliwi mbali zinapofika huko. Mara kwa mara miswada inayotoka hapa Seneti hututpiliwa mbali katika Bunge la Kitaifa. Bw. Spika, nawatakia Maseneta wote Krismasi njema na vile vile wananchi wote wa Kenya sana sana wakaazi wa Kaunti ya Nairobi."
     },
     {
-      "order": 207,
+      "order": 206,
       "id": "entry-1135728",
       "label": "speech",
       "level": "2",
@@ -2487,7 +2475,7 @@
       "text": "Sen. (Prof.) Ongeri, muda ni wako sasa."
     },
     {
-      "order": 208,
+      "order": 207,
       "id": "entry-1135729",
       "label": "speech",
       "level": "2",
@@ -2499,7 +2487,7 @@
       "text": "Asante sana Bw. Spika kwa kunipa fursa hii kuchangia Hoja hili. Nawashukuru maseneta wenzangu kwa kupitisha hoja la Budget Policy Statement linaloangazia ugavi wa fedha kwa kaunti zetu. Bei za bidha kadha wa kadha zimepanda. Serikali za kaunti zina wakati mgumu wa kufikisha kiwango cha bajeti zao. Nawashukuru wenzangu kwa kupitisha hoja inayowania kuongeza bujeti kwa serikali zetu za ugatuzi. Nitarajia kwamba wakati Wizara ya Fedha itakapo tangaza bajeti mwaka ujao, watatia maanani pendekezo zilizowasilishwa na maseneta leo bila kutafuta mbinu za kushusha kiwango cha fedha kilichopitishwa na Bunge hili leo. Nina imani kuwa serikali za kaunti hazitapata chini ya Kshs485 bilioni. Waziri wa Fedha atakapo leta makisio ya bajeti, tunatarajia kuona kwamba yote tuliyopendekeza yamewekwa katika bajeti bila tashwishi lolote. Pili, siasa za uchaguzi mkuu wa mwaka wa 2022 zimeanza na nimeona kwamba wanasiasa wengi wana tabia ambayo haiwezi kuleta amani katika nchi hii. Nawasihi wanasiasa wenzangu watulie kidogo katika harakati za kisiasa ile tuwe na mikakati za kuleta uwiano na amani. Tusitenganishe watu kwa mambo ambayo hayawezi kutujenga. Matamshi yetu katika kampeni yawe ya kulenga umoja na kujenga bali si kubomoa nchi. Pia, ningependa huwasihi wabunge na viongozi wote wa nchi wawe na heshima. Kama unaenda kutembea katika eneo la mbunge mwingine, unapaswa kumpa kiongozi wa eneo hilo heshima na sio kueneza siasa za uchochezi. Nawasihi wanasiasa wote tuwe wataratibu katika mienendo yetu na njia zetu za kisiasa wakati huu wa sherehe za Krismasi na mwaka mpya. Bw. Spika, nakushukuru kwa kutupa mwelekeo mzuri mwaka huu. Tumekuwa na vikao kadha wa kadha mwaka huu na hivyo tukaweza kuhitimu mambo mengi. Itakuwa fanaka kubwa mwaka ujao tutakaporejea vikao vya Seneti. Nina imani kuwa tutapitisha miswada na hoja zilizobaki kwa maana zina maana sana kwa watu wetu. Haja yetu ni kuboresha maisha ya wananchi wa Kenya katika kaunti zetu ili wananchi wetu haswa vijana, kina mama, wazee na wachuuzi waweze kukuza na kuboresha biashara zao zaidi ya hali ilivyoko sasa. Mwisho, ningependa kuwakumbusha wananchi wote kwamba bado tunapambambana na janga la COVID-19. Virusi vya COVID-19 vya Omicron ni hatari. Virusi hivyo vinaenea haraka sana kama moto uliowashwa katika kichaka kilichokauka. Nawasihi wananchi wote wajiatharishe zaidi wanapoungana na wenzao. Ugonjwa huo wa COVID-19 umeleta maafa mengi katika jamii zetu. Nawasihi maseneta wenzangu na wakenya kwa jumla kujikinga na COVID-19 kwa sababu ugonjwa huo utaturudisha nyuma zaidi. Bw. Spika, nachukua fursa hii kuwatakia watu wote wa Kaunti ya Kisii na wakenya wote kwa jumla krismasi njema na mwaka mpya wenye heri."
     },
     {
-      "order": 209,
+      "order": 208,
       "id": "entry-1135732",
       "label": "speech",
       "level": "2",
@@ -2511,7 +2499,7 @@
       "text": "Asante sana Sen. (Prof.) Ongeri. Mwisho, nampa Sen. Kavindu Muthama fursa ya kuzungumza."
     },
     {
-      "order": 210,
+      "order": 209,
       "id": "entry-1135733",
       "label": "speech",
       "level": "2",
@@ -2523,7 +2511,7 @@
       "text": "Bw. Spika, nakushukuru kwa kunipa fursa hii. Kwanza kabisa nakupongeza wewe na ofisi yako kwa kazi njema ambayo mumefanya mwaka huu. Umetuongoza vyema katika vikao vya Seneti ambavyo tumekuwa navyo mwaka huu. Pili, nawashukuru maseneta wenzangu kwa ushirikiano mwema ambao wamenipa tangu nilipojiunga na Seneti. Mimi si mchanga kwa umri lakini mimi ni mchanga katika Bunge la Seneti. Nilipokelewa vyema hapa Seneti nilipojiunga mwezi wa tatu. Tangu nilipojiunga, nimeweza kuwasilisha arifa mbali kuhusu mambo yanayowaathiri watu wa Kaunti ya Machakos. Nina imani kuwa arifa hizo zitapitishwa hivi karibuni na kwamba Kaunti ya Machakos itaweza kuorodheshwa kama mojawapo ya eneo zenye ukavu. Kaunti yangu ya Machakos inaendelea kukumbwa na shida ya ukosefu wa maji. Natarajia kwamba swala hilo litakapowasilishwa hapa Seneti, litapitishwa na vile Bunge la Taifa. Bw. Spika, nawashukuru maseneta wenzangu kwa kupitisha miswada nyingi sana hii tuliyopitisha leo inayolenga kuongezea serikali zetu za kaunti fedha ili waeze kufanya kazi vizuri. Nina furaha kwamba tumepitisha fedha kiasi cha Kshs485 bilioni iendee kaunti zetu ili kufaidi watu wetu. Nawasihi magavana kwamba watakapo pokea pesa hizo, wafanye kazi vilivyo ili wasaidie wananchi wa kaunti zao. Hizo pesa zikifika, tunaomba magavana waweze kufanya kazi inayofaa kwa ajili ya wananchi. Ninaomba pia Wizara ya Fedha isipunguze bajeti kama vile tulivyosema. Waipitisha vivyo hivyo. Bw. Spika, Building Bridges Initiative (BBI) ililkuwa ime propose ----"
     },
     {
-      "order": 211,
+      "order": 210,
       "id": "entry-1135736",
       "label": "scene",
       "level": "2",
@@ -2535,7 +2523,7 @@
       "text": "(Technical hitch)"
     },
     {
-      "order": 212,
+      "order": 211,
       "id": "entry-1135737",
       "label": "speech",
       "level": "2",
@@ -2547,7 +2535,7 @@
       "text": "Tumekupoteza."
     },
     {
-      "order": 213,
+      "order": 212,
       "id": "entry-1135738",
       "label": "speech",
       "level": "2",
@@ -2559,7 +2547,7 @@
       "text": "Bw. Spika, nikimalizia, wakati huu wa Krisimasi madereva wengi huenda kwa mwendo wa kasi. Kwa hivyo, ninawaomba waendeshe wananchi kwa usalama ili tusipoteze maisha. Ninawatakia watu wangu wa Kaunti ya Machakos na Kenya kwa jumla, Krisimasi njema yenye baraka za Mwenyezi mungu na mwaka mpya wenye mafanikio. Ninaomba Wizara ya Elimu na wahusika wote wafanye kila juhudi ili wazazi wanaporudisha watoto shuleni mwezi wa kwanza, watoto wanaotoka kwa familia ambazo hazijiwezi wapate bursaries ili wazazi washughulike na vitabu na uniforms. Huu wakati ni mgumu sana kwa sababu ya Covid-19; biashara nyingi haziendi vizuri kama ilivyotakuwa kabla ya Covid-19. Kwa hivyo, tujali masilai ya watu wetu na tusaidiane inavyostahili. Bw. Spika, ninakutakia wewe, Maseneta na wananchi wote Krisimasi njema. Ninaomba tufanye siasa za amani. Wanaosimama kuchaguliwa kama Rais waelekeze watu vyema. Wananchi pia wachague viongozi ambao watasaidia. Ninatumai tutarudi wote hapa mwezi wa pili tukiwa salama na tutamaliza mwaka vizuri. Asanteni na Mungu awabariki."
     },
     {
-      "order": 214,
+      "order": 213,
       "id": "entry-1135741",
       "label": "speech",
       "level": "2",
@@ -2571,7 +2559,7 @@
       "text": "Sen. (Dr.) Mwaura, nilikuwa nimemalizia. Ninakupa dakika mbili tu."
     },
     {
-      "order": 215,
+      "order": 214,
       "id": "entry-1135742",
       "label": "speech",
       "level": "2",
@@ -2583,7 +2571,7 @@
       "text": "Asante Bw. Spika kwa kunipa nafasi hii ya kuwa wa mwisho kuzungumza. Ninawatakia Wakenya wote salamu za heri na fanaka msimu huu wa Krisimasi. Ninaomba demokrasia iweze kudumu ili kila mtu awe na haki ya kujieleza kwa uhuru. Katika msimu huu wa Krisimasi, tuwe na umoja na tuweze kusaidia wale ambao wana kipato cha chini na hawajafaidika kama wengine. Pia tudumishe undugu ndiposa kila mtu ajihisi kama Mkenya. Tusiangalie tofauti zetu za kisiasa kama jambo la kututenganisha sisi kwa sababu tutakuwa na mirengo mingi ya kisiasa, upande huu utavutia upande ule mwingine. Lakini fauka ya hayo yote, Kenya nzima inafaa kujiendeleza na kujizatiti kwa manufaa ya kila mwananchi. Pia, ninawahimiza viongozi kutoa misimamo ambayo ata kama itatofautiana kisiasa lakini isilete pingamizi au tofuati za kuwagawanyisha Wakenya. Bw. Spika, ninakushukuru kwa uongozi wako katika muhula huu wote wa Bunge la Seneti ambao tumeumaliza. Huu ni muhula wa tano katika awamu hii ya Bunge. Hii inamaanisha tumebakisha miezi michache tumalize Bunge la pili la Seneti. Ninatumai kwamba Wakenya watapiga msasa kuangazia utendakazi wetu na kutupa nafasi za kuendelea kufanya kazi katika Bunge hili, lile lingine au katika kitengo kingine cha uongozi katika nyanja za kijamii. Ninakushukuru na tuwe na Krisimasi njema na mwaka mpya wenye mafanikio."
     },
     {
-      "order": 216,
+      "order": 215,
       "id": "entry-1135743",
       "label": "speech",
       "level": "2",
@@ -2595,7 +2583,7 @@
       "text": "Nami ninachukuwa nafasi kushukuru Bunge la Seneti kwa jumla kwa ustadi na kwa kusimama kama Bunge moja licha ya mawimbi mbalimbali ambayo yalitokea msimu huu. Tumekuwa na mambo mengi lakini tumekaa pamoja kama Bunge la Seneti. Ninawashukuru sana kwa Miswada ambayo mmeleta ambayo inakinga ugatuzi na kwa maswala ambayo tumezungumzia. Ninajivunia kama Spika wenu kwa kuongoza viongozi ambao wamekomaa na kuchangia sana kukua kwa ugatuzi katika Jamuhuri yetu ya Kenya. Sitasahau kushukuru viongozi ambao tunafanya nao, haswa Viongozi wa Waliowengi na Waliowachache na wote walio katika Senate Business Committee (SBC). Ninawashukuru kwa sababu pamoja tumefanya kazi kwa kushirikiana na kuorodhesha maswala ambayo yamekuwa yakizingatia sana mambo ya ugatuzi katika nchi yetu. Ninashukuru pia secretariat wakiongozwa na clerk na wote ambao wamehakikisha tumekuwa na vikao bila shida yeyote. Ninamatumaini kwamba Mungu akitupa uhai, tutakutana tena Februari na kuendelea kufanya kazi yetu. Kama vile Maseneta wengine wamesema, tuendelee kuzingatia kanuni za afya kwa mambo ya Covid-19. Haswa tukienda mashinani, lazima tuhakikishe kwamba sisi kama viongozi, tuko kwenye mstari wa mbele kuelimisha watu wetu juu ya ugonjwa wa Covid-19. Nikimalizia, ninachukua nafasi hii kuwatakia Maseneta wote na Wakenya kwa jumla Krisimasi njema na mwaka mpya 2022 wenye mafaniko. Tusherehekee tukijua kwamba, mwaka ujao, kuna majukumu yatakayohitaji tutumie pesa zetu. Kwa hivyo, hata kama tutakuwa na Krisimasi na mwaka mpya, tusitumie pesa zote halafu Januari, tuwe na shida halafu tuanze kuitisha harambee ya kutimizi maswala fulani. Kwa hayo, ninawashukuru na kuwatakia Krisimasi njema na mwaka mpya wenye mafanikio."
     },
     {
-      "order": 217,
+      "order": 216,
       "id": "entry-1135746",
       "label": "heading",
       "level": "1",
@@ -2607,7 +2595,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 218,
+      "order": 217,
       "id": "entry-1135747",
       "label": "speech",
       "level": "1",

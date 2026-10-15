@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-09-08-14-30-00",
-  "exported_at": "2026-10-13T17:33:54.566Z",
+  "exported_at": "2026-10-15T19:33:07.846Z",
   "entries": [
     {
       "order": 1,
@@ -2304,22 +2304,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE MENTAL HEALTH (AMENDMENT) BILL"
+      "text": "THE MENTAL HEALTH (AMENDMENT) BILL\n\n(SENATE BILLS NO. 28 OF 2020)"
     },
     {
       "order": 193,
-      "id": "entry-1098523",
-      "label": "scene",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(SENATE BILLS NO. 28 OF 2020)"
-    },
-    {
-      "order": 194,
       "id": "entry-1098524",
       "label": "scene",
       "level": "2",
@@ -2331,7 +2319,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 195,
+      "order": 194,
       "id": "entry-1098525",
       "label": "heading",
       "level": "1",
@@ -2343,7 +2331,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 196,
+      "order": 195,
       "id": "entry-1098526",
       "label": "heading",
       "level": "2",
@@ -2355,7 +2343,7 @@
       "text": "THE BASIC EDUCATION BILL (SENATE BILLS NO. 4 OF 20201)"
     },
     {
-      "order": 197,
+      "order": 196,
       "id": "entry-1098527",
       "label": "scene",
       "level": "2",
@@ -2367,7 +2355,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 198,
+      "order": 197,
       "id": "entry-1098528",
       "label": "heading",
       "level": "1",
@@ -2379,7 +2367,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 199,
+      "order": 198,
       "id": "entry-1098529",
       "label": "heading",
       "level": "2",
@@ -2391,7 +2379,7 @@
       "text": "THE COUNTY LICENSING (UNIFORM PROCEDURES) BILL (SENATE BILLS NO 32 OF 2020)"
     },
     {
-      "order": 200,
+      "order": 199,
       "id": "entry-1098530",
       "label": "scene",
       "level": "2",
@@ -2403,7 +2391,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 201,
+      "order": 200,
       "id": "entry-1098531",
       "label": "heading",
       "level": "1",
@@ -2415,7 +2403,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 202,
+      "order": 201,
       "id": "entry-1098532",
       "label": "heading",
       "level": "2",
@@ -2427,7 +2415,7 @@
       "text": "THE SALARIES AND REMUNERATION COMMISSION (AMENDMENT) BILL (SENATE BILLS NO. 31 OF 2020)"
     },
     {
-      "order": 203,
+      "order": 202,
       "id": "entry-1098533",
       "label": "scene",
       "level": "2",
@@ -2439,7 +2427,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 204,
+      "order": 203,
       "id": "entry-1098534",
       "label": "speech",
       "level": "2",
@@ -2451,7 +2439,7 @@
       "text": "Again, we defer Order Nos. 20 to 22 because the Movers are not present."
     },
     {
-      "order": 205,
+      "order": 204,
       "id": "entry-1098536",
       "label": "heading",
       "level": "1",
@@ -2463,7 +2451,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 206,
+      "order": 205,
       "id": "entry-1098537",
       "label": "heading",
       "level": "3",
@@ -2475,7 +2463,7 @@
       "text": "ADOPTION OF REPORT ON IMPASSE ON THE 2020/2021 BUDGETARY ESTIMATES FOR KIRINYAGA COUNTY"
     },
     {
-      "order": 207,
+      "order": 206,
       "id": "entry-1098538",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2475,7 @@
       "text": "THAT, the Senate adopts the Report of the Standing Committee on Devolution and Intergovernmental Relations, on the impasse on the budgetary estimates for financial year 2020/2021 for Kirinyaga County, between the County Executive and the County Assembly, laid on the Table of the Senate on Tuesday, 25th May, 2021."
     },
     {
-      "order": 208,
+      "order": 207,
       "id": "entry-1098539",
       "label": "scene",
       "level": "3",
@@ -2499,7 +2487,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 209,
+      "order": 208,
       "id": "entry-1098540",
       "label": "heading",
       "level": "3",
@@ -2511,7 +2499,7 @@
       "text": "ADOPTION OF REPORT ON THE OPERATIONALIZATION OF NATIONAL CONSTRUCTION AUTHORITY (DEFECTS LIABILITY) REGULATIONS, 2020"
     },
     {
-      "order": 210,
+      "order": 209,
       "id": "entry-1098541",
       "label": "speech",
       "level": "3",
@@ -2523,7 +2511,7 @@
       "text": "THAT, the Senate adopts the report of the Standing Committee on Roads and Transportation on its inquiry into the operationalization of the National Construction Authority (Defects Liability) Regulations, laid on the Table of the Senate on Thursday, 24th September, 2020."
     },
     {
-      "order": 211,
+      "order": 210,
       "id": "entry-1098542",
       "label": "scene",
       "level": "3",
@@ -2535,7 +2523,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 212,
+      "order": 211,
       "id": "entry-1098543",
       "label": "heading",
       "level": "3",
@@ -2547,7 +2535,7 @@
       "text": "FAST TRACKING CULTURAL DEVELOPMENTS IN COUNTIES"
     },
     {
-      "order": 213,
+      "order": 212,
       "id": "entry-1098544",
       "label": "speech",
       "level": "3",
@@ -2559,7 +2547,7 @@
       "text": "THAT, WHEREAS Kenya is a multi-ethnic and multi-racial country with rich and diverse cultural resources such as traditional medicine and foods, arts, craft, music, dances, dress among others; AWARE THAT, the Constitution, in its preamble acknowledges the cultural diversity of the Kenyan people who are determined to live in peace and unity as one indivisible sovereign nation whilst, Article 11 of the Kenyan Constitution recognizes culture as the foundation of the nation; NOTING that, while the Department of Culture under the Ministry of Sports, Culture and Heritage has been playing some of the key roles in promotion of cultural integration, formulation of policies and standards that will guide the development of culture, little information has been available to the Kenyan public; ACKNOWLEDGING, that culture performs a significant role in the life of a child, the cultural background in which a child is brought up affects the totality of his or her life's activities; CONCERNED, that our children are losing their sense of identity due to the negative influences due to inadequate cultural identity catalyzed"
     },
     {
-      "order": 214,
+      "order": 213,
       "id": "entry-1098546",
       "label": "speech",
       "level": "3",
@@ -2571,7 +2559,7 @@
       "text": "by globalization which has led to catastrophic consequences to the next generation as experienced in our country where a majority of young people are showing symptoms of feeling suicidal, anxious, feeling of hopelessness, anger, violence, feeling isolated, and paranoia; NOW THEREFORE, the Senate urges the Cabinet Secretary, Ministry of Sports, Culture and Heritage to - a) Formulate cultural development policies and initiatives to inculcate stronger community values, safeguard Kenya's heritage, recognize local heroes and promote socio-cultural opportunities in the counties; and b) Formulate strategies to create an enabling environment for protection and promotion of diversity of cultural expressions in all counties."
     },
     {
-      "order": 215,
+      "order": 214,
       "id": "entry-1098547",
       "label": "scene",
       "level": "3",
@@ -2583,7 +2571,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 216,
+      "order": 215,
       "id": "entry-1098548",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2583,7 @@
       "text": "Next Order."
     },
     {
-      "order": 217,
+      "order": 216,
       "id": "entry-1098549",
       "label": "heading",
       "level": "3",
@@ -2607,7 +2595,7 @@
       "text": "PROVISION OF COLOSTOMY BAGS TO COLON CANCER PATIENTS AND SURVIVORS IN COUNTY HOSPITALS"
     },
     {
-      "order": 218,
+      "order": 217,
       "id": "entry-1098550",
       "label": "speech",
       "level": "3",
@@ -2619,7 +2607,7 @@
       "text": "Sen. (Dr.) Musuruve, proceed. Senator, if you are not ready to move the Motion, you can request for deferment."
     },
     {
-      "order": 219,
+      "order": 218,
       "id": "entry-1098551",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2619,7 @@
       "text": "Mr. Temporary Speaker, Sir, I seek your indulgence. I would like to move the Motion. It was an oversight. I beg to move the following Motion: - THAT, AWARE THAT the colon is part of the digestive system with a major role in the absorption of water, minerals and elimination of waste; FURTHER AWARE THAT colon cancer can cause serious blockage of the colon that may necessitate removal of parts of the colon, the entire colon or the entire colon and the rectum; COGNIZANT THAT persons who have gone through ileostomy, colostomy and urostomy need to use a bag to empty their wastes for the rest of their lives post-surgery; CONCERNED THAT urine bags, adult diapers, artificial breasts, colostomy or ileostomy bags are not listed as goods exempt from tax or zero rated in the First and Second Schedules of the Value Added Tax Act 2013, and, therefore, attract 16 per cent value added tax and customs duty; ACKNOWLEDGING THAT Article 43 (1) (a) of Constitution of Kenya states that everyone has a right to the highest attainable standards of health, and health is a devolved function and therefore under the mandate of the county governments; NOW THEREFORE, the Senate calls upon the Ministry of Health and in partnership with the Council of Governors (CoG) to: (i) create and maintain a register of all the colon cancer patients and survivors in county hospitals, including the biodata of the histology of the patients; (ii) provision of colostomy bags for those who are permanent users; (iii) include the purchase of palliative care products in the health budgets of all county governments; (iv) ensure all county hospitals stock these palliative care products to enable increased access and lower commercial prices; and, (v) engage the Treasury and Kenya Revenue Authority (KRA) to waive taxes on long-term health consumables such as colostomy bags, prosthesis and others in the upcoming budgetary cycle to ease the burden on Kenyans. Thank you. I beg to move."
     },
     {
-      "order": 220,
+      "order": 219,
       "id": "entry-1098554",
       "label": "speech",
       "level": "3",
@@ -2643,7 +2631,7 @@
       "text": "Sen. (Dr.) Musuruve you will have a balance of 18 minutes to continue moving the Motion."
     },
     {
-      "order": 221,
+      "order": 220,
       "id": "entry-1098555",
       "label": "heading",
       "level": "1",
@@ -2655,7 +2643,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 222,
+      "order": 221,
       "id": "entry-1098556",
       "label": "speech",
       "level": "1",

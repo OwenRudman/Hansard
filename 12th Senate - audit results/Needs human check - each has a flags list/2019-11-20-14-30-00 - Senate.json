@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2019-11-20-14-30-00",
-  "exported_at": "2026-10-13T17:32:42.730Z",
+  "exported_at": "2026-10-15T19:30:05.600Z",
   "entries": [
     {
       "order": 1,
@@ -609,7 +609,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
       "text": "attire or such other decent dressing as may be approved by the Speaker from time to time. An equivalent standard shall apply in respect of women Senators, who may also wear Kitenge or such other African attire.\" Sen. Madzayo, you are out of order. So, get properly dressed. Sen. Madzayo, the Chair ruled you out of order, so you are given this chance to say whether you are on religious attire."
@@ -1113,7 +1113,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
       "text": "The next Statement is by Sen. Wetangula."
@@ -2208,22 +2208,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE RETIREMENT BENEFITS (DEPUTY PRESIDENT AND DESIGNATED STATE OFFICERS) (AMENDMENT) BILL"
+      "text": "THE RETIREMENT BENEFITS (DEPUTY PRESIDENT AND DESIGNATED STATE OFFICERS) (AMENDMENT) BILL\n\n(SENATE BILLS NO. 2 OF 2018)"
     },
     {
       "order": 185,
-      "id": "entry-934800",
-      "label": "scene",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(SENATE BILLS NO. 2 OF 2018)"
-    },
-    {
-      "order": 186,
       "id": "entry-934801",
       "label": "scene",
       "level": "2",
@@ -2235,7 +2223,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 187,
+      "order": 186,
       "id": "entry-934802",
       "label": "heading",
       "level": "1",
@@ -2247,7 +2235,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 188,
+      "order": 187,
       "id": "entry-934803",
       "label": "heading",
       "level": "2",
@@ -2259,7 +2247,7 @@
       "text": "THE KENYA MEDICAL SUPPLIES AUTHORITY (AMENDMENT) BILL (SENATE BILLS NO. 38 OF 2018)"
     },
     {
-      "order": 189,
+      "order": 188,
       "id": "entry-934804",
       "label": "scene",
       "level": "2",
@@ -2271,7 +2259,7 @@
       "text": "( Committee of the Whole deferred)"
     },
     {
-      "order": 190,
+      "order": 189,
       "id": "entry-934805",
       "label": "heading",
       "level": "1",
@@ -2283,7 +2271,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 191,
+      "order": 190,
       "id": "entry-934806",
       "label": "heading",
       "level": "2",
@@ -2295,7 +2283,7 @@
       "text": "THE CANCER PREVENTION AND CONTROL (AMENDMENT) BILL (SENATE BILLS NO. 9 OF 2019)"
     },
     {
-      "order": 192,
+      "order": 191,
       "id": "entry-934807",
       "label": "scene",
       "level": "2",
@@ -2307,7 +2295,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 193,
+      "order": 192,
       "id": "entry-934808",
       "label": "heading",
       "level": "1",
@@ -2319,7 +2307,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 194,
+      "order": 193,
       "id": "entry-934809",
       "label": "heading",
       "level": "2",
@@ -2331,7 +2319,7 @@
       "text": "THE COUNTY HALL OF FAME BILL (SENATE BILLS NO. 39 OF 2018)"
     },
     {
-      "order": 195,
+      "order": 194,
       "id": "entry-934810",
       "label": "scene",
       "level": "2",
@@ -2343,7 +2331,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 196,
+      "order": 195,
       "id": "entry-934811",
       "label": "heading",
       "level": "1",
@@ -2355,7 +2343,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 197,
+      "order": 196,
       "id": "entry-934812",
       "label": "heading",
       "level": "2",
@@ -2367,7 +2355,7 @@
       "text": "THE COUNTY TOURISM BILL (SENATE BILLS NO. 5 OF 2019)"
     },
     {
-      "order": 198,
+      "order": 197,
       "id": "entry-934813",
       "label": "scene",
       "level": "2",
@@ -2379,7 +2367,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 199,
+      "order": 198,
       "id": "entry-934814",
       "label": "heading",
       "level": "1",
@@ -2391,7 +2379,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 200,
+      "order": 199,
       "id": "entry-934815",
       "label": "heading",
       "level": "2",
@@ -2403,7 +2391,7 @@
       "text": "THE STREET VENDORS (PROTECTION OF LIVELIHOOD) BILL (SENATE BILLS NO. 10 OF 2019)"
     },
     {
-      "order": 201,
+      "order": 200,
       "id": "entry-934816",
       "label": "scene",
       "level": "2",
@@ -2415,7 +2403,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 202,
+      "order": 201,
       "id": "entry-934817",
       "label": "heading",
       "level": "1",
@@ -2427,7 +2415,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 203,
+      "order": 202,
       "id": "entry-934818",
       "label": "heading",
       "level": "2",
@@ -2439,7 +2427,7 @@
       "text": "THE ESTABLISHMENT OF CHILDREN'S HOMES BILL (SENATE BILLS NO. 12 OF 2019)"
     },
     {
-      "order": 204,
+      "order": 203,
       "id": "entry-934820",
       "label": "scene",
       "level": "2",
@@ -2451,7 +2439,7 @@
       "text": "( Committee of the Whole deferred)"
     },
     {
-      "order": 205,
+      "order": 204,
       "id": "entry-934821",
       "label": "heading",
       "level": "1",
@@ -2463,7 +2451,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 206,
+      "order": 205,
       "id": "entry-934823",
       "label": "heading",
       "level": "3",
@@ -2475,7 +2463,7 @@
       "text": "THE REGISTRATION OF PERSONS (AMENDMENT) BILL (SENATE BILLS NO.12 OF 2019)"
     },
     {
-      "order": 207,
+      "order": 206,
       "id": "entry-934823-inserted-8be2ba58-e62b-45e7-951e-300ece15bf5c",
       "label": "heading",
       "level": "3",
@@ -2487,7 +2475,7 @@
       "text": "THE REGISTRATION OF PERSONS (AMENDMENT) BILL (SENATE BILLS NO.14 OF 2019)"
     },
     {
-      "order": 208,
+      "order": 207,
       "id": "entry-934824",
       "label": "scene",
       "level": "3",
@@ -2499,7 +2487,7 @@
       "text": "(Sen. (Dr.) Mwaura on 7.11.2019)"
     },
     {
-      "order": 209,
+      "order": 208,
       "id": "entry-934825",
       "label": "scene",
       "level": "3",
@@ -2511,7 +2499,7 @@
       "text": "(Resumption of debate interrupted on 19.11.2019)"
     },
     {
-      "order": 210,
+      "order": 209,
       "id": "entry-934826",
       "label": "speech",
       "level": "3",
@@ -2523,7 +2511,7 @@
       "text": "Sen (Dr.) Musuruve you were on the Floor and have 15 minutes left. Please, proceed"
     },
     {
-      "order": 211,
+      "order": 210,
       "id": "entry-934827",
       "label": "speech",
       "level": "3",
@@ -2535,7 +2523,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me this opportunity to continue supporting this Bill by Sen. Mwaura on registration of persons who are intersex. I support it because of the many challenges these persons face daily. Persons who are intersex have major problems with regards to their constitutional rights. Article 28 of the Constitution provides that every person has a right to dignity. However, these persons' right to dignity is curtailed. Article 26 of the Constitution says everyone has a right to life. However, the intersex children are killed at birth. When their parents realise they are not male or female, sometimes they kill them. Those who live are treated as outcasts and their freedom is curtailed. As stipulated in Article 27 of the Constitution, they do not enjoy freedom. They do not even enjoy the right to a name as stipulated in Article 53 (1) (a) of the Constitution. It says that every child has a right to a name and a nationality from the time the child is born. These children go through tormenting moments from the time they are born. They are abused and bullied in schools, especially during their puberty age. For instance, when someone is called John, he grows up as John. However, at puberty stage, he develops hips and faces a lot of challenges. Sometimes they go through dysphoria in terms of being dissatisfied as human beings with regard to the kind of gender they have. This is because they cannot overtly be stated to be male or female. They are not the only ones who go through this; their parents are also tormented psychologically. We are talking about mental anguish on the children, siblings, parents and their significant others. Mr. Temporary Speaker, Sir, there is need to come up with a clear amendment that will ensure that it is addressing the real issues that they suffer as human beings. With regard to attaining highest standards of health, these children sometimes do not get proper medical attention in our hospitals. This is very inhuman. There is need to come up with a legislative framework that will ensure that these children are not victimised and do not feel sad about their state. We need also to define who an intersex person is. The current definition of intersex states clearly that this person is neither male nor female, or can be in between. That definition does not cater for the different hormonal and social changes that go on in their lives when they mature. The definition that has been proposed by these organisations states as follows: \"Intersex is a person who is conceived and born with biological sex characteristics that cannot be exclusively categorised with the human common binary of female or male due to their inherent and mixed anatomical, hormonal ovaries and testes or chromosomal X and Y patterns, which could be apparent prior to, at birth, in childhood, puberty or adulthood.\" Mr. Temporary Speaker, Sir, this definition caters for the many changes that go on in their lives. Another thing that has come out in the amendment is that if a person who is intersex wants a change or maybe the person was called Jane and then with time the chromosome and hormonal changes now portray that he is John. Therefore, this amendment states that if this person wants to be changed from Jane to John in the registration, then it means that the person has to get a consent from a medical practitioner who will verify. When it is verified, it means that information can be true and reliable because it has come from a medical practitioner. Even when it comes from a medical practitioner, the amended Bill proposes that the person's sex does not change immediately. It should take almost a year from the time of submission. This time is good because it gives that person time to contemplate over the issue of changing sex; whether she really wants to become John or John wants to become Mary. It will help them heal psychologically and accept themselves in the new mode of change. Therefore, 12 months grace period is very good for the purpose of ensuring that the particulars in the registration can change. Even when it changes, the proposition in this amendment is that we need to have three slots of someone registered as male, female or intersex. Therefore, if a person is intersex, then the X will be the intersex. In the event of any changes; that maybe the person has changed from Mary to John and then, later on, changes again to Mary, the identity card will show that this is an intersex person because of hormonal changes. Mr. Temporary Speaker, Sir, there is need to sensitize a number of key stakeholders on this issue. This issue sounds very small and negligible, but it is big. There are many people who are intersex in this country, but they do not overtly come out to say so, because of stigmatization and embarrassment. Sometimes they do not know how the society will treat them. There is need for a massive sensitization, so that intersex persons can be given the psychological support they need. These intersex persons need psychosocial support, so that they accept themselves the way they are. They also need treatment for gender dysphoria. Some of them are not happy about their gender. They are annoyed and pessimistic. However, there is need to give them treatment, so that they stop being pessimistic and accept themselves the way they are. Mr. Temporary Speaker, Sir, there is also another intervention that is surgical. This surgical intervention is way beyond a normal Kenyan. This is because a normal Kenyan may not have the money that is required to go through a surgical intervention in order to change the sex. However, a sure way for such a Kenyan is to have the registration change, so that the person has a tick of intersex. There is also need to sensitize medical practitioners. I watched an intersex person who was remorseful, feeling bad that they are not given proper medical treatment. Sometimes they are neglected. Therefore, medical practitioners need to be sensitized about intersex persons, so that they offer treatment, just the way the treat other people. There is also need for the medical practitioners to be sensitized, so that they keep information as confidential as possible. This will ensure that the intersex do not feel like everybody knows about what they are going through. Mr. Temporary Speaker, Sir, I support this amendment. It should be treated with the speed that it deserves. I also want to suggest that county governments should also intervene, so that they identify intersex people in their counties and look for ways and mechanisms of supporting them. This will ensure that they are not marginalized. The life and sex of every Kenyan matters; whether someone is male, female or intersex. As human beings, the intersex has a right to be in this country. In fact, they have a great contribution to make with regard to the economy of this country. Thank you, Mr. Temporary Speaker, Sir. I support."
     },
     {
-      "order": 212,
+      "order": 211,
       "id": "entry-934830",
       "label": "speech",
       "level": "3",
@@ -2547,7 +2535,7 @@
       "text": "Thank you, Sen. (Dr.) Musuruve for a very passionate contribution. Indeed, this is one matter that needs a lot of public sensitization. When it came to our Committee for public participation, we realised that we were very ill informed. People may confuse this for other issues like those of the transgender. However, it is a very different matter. So, it needs stronger public participation and raising awareness to the people. Hon. Senators, I see no further interest in this Bill."
     },
     {
-      "order": 213,
+      "order": 212,
       "id": "entry-934831",
       "label": "speech",
       "level": "3",
@@ -2559,7 +2547,7 @@
       "text": "Mr. Temporary Speaker, Sir, pursuant to Standing Order No.61 (3), I request that you defer the putting of the question to a later date."
     },
     {
-      "order": 214,
+      "order": 213,
       "id": "entry-934832",
       "label": "speech",
       "level": "3",
@@ -2571,7 +2559,7 @@
       "text": "Thank you, Sen. (Dr.) Milgo. The Mover is not here to reply to the Bill. I will, therefore, defer the reply by the Mover and putting of the question to Wednesday next week."
     },
     {
-      "order": 215,
+      "order": 214,
       "id": "entry-934833",
       "label": "scene",
       "level": "3",
@@ -2583,7 +2571,7 @@
       "text": "(Putting of the Question on the Bill deferred)"
     },
     {
-      "order": 216,
+      "order": 215,
       "id": "entry-934834",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2583,7 @@
       "text": "Let us move on to the next Order."
     },
     {
-      "order": 217,
+      "order": 216,
       "id": "entry-934836",
       "label": "heading",
       "level": "1",
@@ -2607,7 +2595,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 218,
+      "order": 217,
       "id": "entry-934837",
       "label": "heading",
       "level": "3",
@@ -2619,7 +2607,7 @@
       "text": "THE KENYAN SIGN LANGUAGE BILL (SENATE BILLS NO.15 OF 2019)"
     },
     {
-      "order": 219,
+      "order": 218,
       "id": "entry-934838",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2619,7 @@
       "text": "Hon. Senators, this Bill is jointly sponsored by Sen. (Dr.) Musuruve and Sen. (Prof.) Kamar. Who will move the Bill first? Would you like to move it together? You can share the time or one of you can move, while the other seconds."
     },
     {
-      "order": 220,
+      "order": 219,
       "id": "entry-934839",
       "label": "speech",
       "level": "3",
@@ -2643,7 +2631,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me the opportunity to move this Bill. I beg to move that The Kenyan Sign Language Bill (Senate Bills No.15 of 2019) be now read a Second Time. This is an all inclusive Bill. It is a win for the deaf community and towards implementation of gap areas in the Sector Needs Policy that was launched by His Excellency the President when we entered Parliament. It is also a win towards implementing Article 54(2) of the Constitution. Let me give a quick brief on why I came up with this Bill. Kenyans need to know that I taught in a school for the deaf about 20 years ago. I was an English teacher. When I taught English at Secondary School Level, I was extremely pained because I had taught in regular secondary schools. However, when I went to teach at St. Angela's School for the Deaf, I realised that students who were in Form Two were not able to articulate or write a proper sentence in English. They did not have that language that is dominant to help them interact with others. That forced me to go back to school and do Special Education for my first degree, with a bias in linguistics. I did my second degree with a view to filling the gap. Mr. Temporary Speaker, Sir, when I was doing my Masters, I was passionate about giving back to the society in the form of a contribution in this area. I wrote quite a number of books that spoke to the gap areas I saw as a teacher. God is marvellous because He brought me to Parliament. I joined the Committee on Education where I found Sen. (Prof.) Kamar who seemed to be very passionate about what I was doing. We interacted on many occasions and she encouraged me to fill the gap. Mr. Temporary Speaker, Sir, when I came up with this Bill, I spoke to you as my Chairperson in the Committee on Labour and Social Welfare concerning it. I want to thank you, on behalf of Persons with Disabilities (PWDs). Kenyans must know that you are a true advocate of PWDs. You gave this Bill a chance to be submitted to the Committee on Labour and Social Welfare. Eventually, it was established. As a result of the dynamics of the educational component it has, the Committee allowed that it goes to the Committee on Education. I commend you for the contribution that you made. That is why this Bill has been published. Mr. Temporary Speaker, Sir, I also know that you are very knowledgeable on issues of Sign Language and linguistics in the many interactions that I have had with you. I am sure that when you are not in the Chair, you will give a linguistic contribution to this Bill, which will be all inclusive, touching also on labour issues. Mr. Temporary Speaker, Sir, this Bill touches on salient issues that give effect to Articles 7(3)(b) and 54(d) of the Constitution on promotion of Kenyan Sign Language. The Constitution allows us to promote Kenyan Sign Language. In as much as the Constitution allows us to promote the Kenyan Sign Language, many people in this country are not aware of what Sign Language means. When we talk of Sign Language, it is a way of expressing concepts and ideas for the purpose of being understood. If you go to Uganda, they have their own way of expressing ideas in Sign Language, so that they are understood. In Kenya, we have our own way. All countries have their own way. When we talk of Kenyan Sign Language, we are referring to all forms of communication that are used within Kenya by deaf adults and other people to ensure communication. It must be very clear that all that is Kenyan Sign Language. The definition has been enriched by the stakeholders. This Bill has gone through the First Reading and been published. Public participation has been done. The definition has also been enriched by Prof. Ndurumo. Mr. Temporary Speaker, Sir, when we talk of Kenyan Sign Language (KSL) in this country, we cannot ignore Prof. Ndurumo. He is the father of sign language in this country. He is the person behind sign language in this country. As a scholar and having attained a PhD in this country, and he is fully deaf, we cannot ignore the sentiments that he has. So, it is well thought and well participated publicly. Apart from giving effect to Article 7 of the Constitution, it touches on specific pertinent issues that deal with disability. It also deals with education support for the deaf learners. The Bill states clearly that when it comes to education, the deaf learners should be helped to attain the dominant language that is used by the rest of the society. It is because children are in school for a while, but the rest of the time, they are always with the wider society. As we talk about inclusion, we have to look for a mechanism of ensuring that even when these children go out to the society and their significant others, they are able to interact. Kiswahili is a lingua franca and we cannot say that we cannot help them attain proficiency in Kiswahili. They can be taught Kiswahili. We cannot say that we cannot help them attain proficiency in English. They must attain proficiency in English because it is the language used in examinations, offices, and will help them write legible letters and transit them to the outer world. Mr. Temporary Speaker, Sir, when we talk of education support, we must be candid as a country. If we want to do something in the area of the deaf, we cannot afford scholars and researchers. We must work with researchers. The Ministry of Education is a big body, but they may not have the capacity that scholars have. This Bill also seeks to ensure that the Kenya Institute of Curriculum Development ( KICD ) is also involved in developing a curriculum. This Bill speaks clearly that they need to work with researchers and scholars to develop material for a curriculum. I want to give an example as to why I feel that there is need for us to do something. When it comes to developing these areas, it stagnated a long time ago. When the 8-4-4 education system was introduced in the curriculum, the deaf were even allowed to go through academic lessons. However, Kenya Sign Language was never developed, and as I speak, Kiswahili has been removed from the syllabus. So, they are not learning the language. We must be candid to ourselves that we want a contribution that will help the deaf, so that they are not a drop in the ocean in colleges and universities. I know that if they have the right input, they can go very far. As I speak, there is one deaf lady by the name Ashura who has been elected to the East African Legislative Assembly (EALA) to represent the youth. She is a youth speaker, but this is because of the education she had. It can be a win in deaf education. Mr. Temporary Speaker, Sir, KICD should just come out clearly and work with people who are developed in the area, instead of ignoring them. Right now, there are books in Kiswahili that have been developed, and I am behind the development of the Kiswahili book in sign language. However, the KICD did not give me a response. They kept saying that they will review, but they did not review and now they have removed Kiswahili from the syllabus. As the Senate, we have to right the wrongs that are there. This Bill also talks about Kenya Sign Language at the work place."
     },
     {
-      "order": 221,
+      "order": 220,
       "id": "entry-934850",
       "label": "speech",
       "level": "3",
@@ -2655,7 +2643,7 @@
       "text": "Sen. (Dr.) Musuruve, you have said something repeatedly. Please, clarify. When you say that Kiswahili has been removed from the syllabus, what do you mean? Is Kiswahili no longer being taught? Please, clarify that point."
     },
     {
-      "order": 222,
+      "order": 221,
       "id": "entry-934851",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2655,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. As I speak, deaf learners do not learn Kiswahili. It is not in the curriculum."
     },
     {
-      "order": 223,
+      "order": 222,
       "id": "entry-934852",
       "label": "speech",
       "level": "3",
@@ -2679,7 +2667,7 @@
       "text": "Okay, that is noted."
     },
     {
-      "order": 224,
+      "order": 223,
       "id": "entry-934853",
       "label": "speech",
       "level": "3",
@@ -2691,7 +2679,7 @@
       "text": "Mr. Temporary Speaker, Sir, what is there is Kenya Sign Language (KSL), but it is not in the curriculum. This Bill also speaks to the issues of KSL at the work place. The Bill suggests that there is need for organisations to embrace sign language, so that people are taught sign language for the purpose of inclusivity. I have seen it working in hospitals, where medics are taught sign language. So, organisations can deliberately take up this and teach their employees KSL. However, there is a gap because in as much as we are saying that people should learn sign language, then they should have people they can interact with. Many organisations say they are teaching sign language to their staff, and then members of staff have no one to interact with. This Bill is coming in to effect Article 54(2) of the Constitution, where it says that the Constitution allows for employment of Persons with Disabilities (PWDs) either on elective or nominated positions. Mr. Temporary Speaker, Sir, this Bill is speaking to organisations to at least employ PWDs. The good thing about what the Constitution says is that it does give the criteria that the PWD must have this grade and all that. You will find sign language interpreters in so many media houses; it is a commendable job. However, there is also need to employ the deaf, so that the media fraternity can interact with the users of the language. This Bill also talks about the use of sign language in legal proceedings. It is important for a Judge to have true facts of a case in legal proceedings. The Bill suggests that in a situation of legal proceedings, sign language should be in such a way that it depicts the exact information that is there. If a Judge acts on information that is not true, even the verdict of the Judge is compromised. There is the saying \"as sober as a Judge,' and Judges want true information. When we talk of sign language in legal proceedings, it should be KSL, so that all the information that is being articulated gets to the Judge correctly. This will ensure that the judge makes a ruling that will not be unfair to PWDs and the deaf. Even when the deaf are communicating, there is need for them to have all the information they give communicated to the Judge. In legal proceedings, people should not just sign what they know, but exactly what the deaf person is saying. Mr. Temporary Speaker, Sir, this Bill comes out clearly to state that there is need for a mechanism of ensuring that sign language interpreters are trained and given recognition. The Cabinet Secretary (CS) should also be aware of them. There is need to identify who the sign language interpreters are and have ways to recognise them nationally and internationally. According to the Bill, there is need to have a register of sign language interpreters. When they are needed, it should be possible to get them from the register of sign language interpreters. When I talk about sign language interpreters, I mean those that have been trained and accepted by a board. We met Prof. Ndurumo during public participation on sign language interpretation. He told us some pertinent issues about sign language interpretation that I do not want to change even a single sentence about. He clearly said that there is need to establish a board of nine members to deal with sign language issues. Regarding the composition of the board, it is true that members will add value when it comes to interpretation. It is provided that one of the persons will come from the Kenya Institute of Curriculum Development (KICD). We will also have persons from the Kenya National Association for the Deaf (KNAD), the Commission for University Education (CUE), Teachers Service Commission (TSC), the Kenya National Examination Council (KNEC), and two deaf professionals preferably with Masters Degree. That was a suggestion by Prof. Ndurumo and I believe it will also enrich the Bill because KSL should develop. Mr. Temporary Speaker, Sir, as I speak, KSL has fossilized; it is not developing despite the fact that we have technology. Sometimes we see people saying in the media that the signs have changed because of technology. Sign language has not been enriched. Therefore, there is need for us to see how we can enrich this area. This Bill also seeks to ensure that KSL is also taught in Technical and Vocational Education Training (TVET) institutions and Teachers' Training Colleges (TTCs). It is a plus for KSL to be taught in TTCs because there is a shortage of teachers in this area. The Bill proposes that if not three, there should at least be a unit on sign language taught in all TTCs. By the time teachers finish colleges, they leave with an understanding of KSL, so that they have an idea when they go to the classrooms. Mr. Temporary Speaker, Sir, sometimes teachers are posted to even schools for the deaf but they have do not have the slightest idea of how to communicate using KSL. They find themselves in a situation where they have to learn from the pupils. When they do so, the deaf pupils are happy to teach them during the whole lesson. They may correct teachers but also tell them how stupid they are because of not signing well. However, it is an expense. When TTCs train teachers on KSL, it will be a plus for this nation. Apart from that, an element of KSL should be taught in TVETs. More importantly, if universities embrace KSL, they will also help in the development of this area. You will be shocked that there is no single book that is read by people who talk so much about KSL, to see how they can develop the area. You will also be shocked to find out that they just talk based on what they know. There is need for a scholarly approach to ensure that we enrich this area. This Bill proposes that county governments should ensure that they develop KSL. It will be incumbent upon county governments to set some money aside to ensure that KSL is taught to siblings of the deaf children, parents and guardians, so that when the deaf children go back home, they can communicate with them using KSL. The Bill also proposes that county governments should not ignore this area. What happens during national functions? Sometimes county governments hire interpreters on a need basis. During a national function, they may be hired to interpret for two hours. This is not something to joke about. County governments should have permanent interpreters so that in the event that there is a function in a particular county, interpreters are deployed to go and work. They should know that they have permanent jobs. Even when they are employed permanently, county governments need to ensure the deaf are also employed, so that they interact with them. I do not want to lie about this. I have realised that in this country, people use the deaf as a business but they are not concerned about developing the deaf child. People are busy learning KSL to only become interpreters in order to deliver information. However, if you look at who they deliver to, you will realise that they deliver to themselves because sometimes the deaf are not even there. Mr. Temporary Speaker, Sir, it is sad to say that there are people in this country who are happy about the status quo when the deaf are ignorant and not educated so that they misuse them. It is painful and they should not be tolerated. Prof. Ndurumo said that if he gets an opportunity to come to the Senate, he will take Senators through the real issues when it comes to education for the deaf. I just heard someone talking on television and, I think it was Prof. Akech. He said harshly that President Uhuru Kenyatta and hon. Raila Odinga should learn KSL. What for? Why are we dragging the President in such issues when the country that is led by President Uhuru Muigai Kenyatta has institutions in place to fill this gap? We have the KICD and the President is not a curriculum developer. There is an institution that does that. Mr. Temporary Speaker, Sir, there is need for us to deliberately address this issue. We should not politicize issues to do with education for the deaf. I would like people to envision being deaf or having a deaf child. It is painful. While others can easily go through issues that can make them noble people in this society, the deaf are just stagnating. There are people who are happy about the status quo and they do not mind. The KICD is mandated in developing the curriculum but they seem to look for what seems to be palatable to them. It is a shame and we must correct this. When we talk about the issue of education for the deaf, we should compare the deaf to even the blind who are equally disabled. There are many blind people in universities but when you talk about the deaf, people always quote one or two. Gone are the days when people were used as rubberstamps. There is need for us to ensure that this Bill becomes law so that it corrects the mistakes that are there. What pains me most is that when results were being announced, Prof. Magoha - I do not blame him because he is not a linguist or a deaf specialist because he was just doing what he is supposed to do - said that there were many passes in KSL. If you ask him to place those children somewhere so that they also have jobs in the future, he will be among the first ones to avoid looking at you. This is because they do not have qualifications. We must ensure that deaf learners are not wasted. We must deliberately make a move to ensure that these people are included. I will give an example of a country I visited when we had a meeting with the Commission on the Status of Women (CSW). There was a deaf person who could communicate well in English and French. This country should give appropriate input to its learners. For example, books that learners in lower primary school level get from the Kenya Institute of Curriculum Development (KICD) have sentences that are written, 'me eat finish' or 'rain, rain, why' as a complete sentences. I took the Committee on Education through what is happening in sign language. I also requested to take the Committee on Labour and Social Welfare through the key issues that are happening in sign language so that we can look at these issues squarely. I want Senators to be on the same footing as I am. Mr. Temporary Speaker, Sir, I speak with a lot of passion because I am a teacher. I have interacted with learners in the classrooms and I know the gap that has not been filled. I know that the Senate is a House of reason. It does not go with what people say; it will do what needs to be done. When people talk about issues of the deaf, the people that are put on the front have not gone to Form Four or college. They are used as rubber stamps to maintain the status quo. You will be shocked to learn that the qualifications of those who examine the Kenyan Sign Language (KSL) or Form Four in the Kenya Examination Council, teach in pre-school. It is that serious. This is because the area is not being developed. Therefore, I would like the universities to take up this issue because they do research and can correct some of these issues. There was a time Kiswahili had an issue in the country and it was not examined. I remember it took quite a while for it to be examined. However, when it started being examined at the university level, it cascaded to other levels. So, people need to have the basic sign language skills so that they can interact with the deaf. We should not be unfair to our deaf children by giving them inappropriate input and when it comes to output, we want them to be like the rest. This is painful and should not happen. Mr. Temporary Speaker, Sir, I take you back to when we were growing up. However, you qualify to be my son-in-law because we did not grow up at the same time."
     },
     {
-      "order": 225,
+      "order": 224,
       "id": "entry-934863",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2691,7 @@
       "text": "On a point of order, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 226,
+      "order": 225,
       "id": "entry-934864",
       "label": "speech",
       "level": "3",
@@ -2715,7 +2703,7 @@
       "text": "What is your point, Sen. Madzayo?"
     },
     {
-      "order": 227,
+      "order": 226,
       "id": "entry-934865",
       "label": "speech",
       "level": "3",
@@ -2727,7 +2715,7 @@
       "text": "Mr. Temporary Speaker, Sir, allow me to continue to stand."
     },
     {
-      "order": 228,
+      "order": 227,
       "id": "entry-934866",
       "label": "speech",
       "level": "3",
@@ -2739,7 +2727,7 @@
       "text": "I will excuse you."
     },
     {
-      "order": 229,
+      "order": 228,
       "id": "entry-934867",
       "label": "speech",
       "level": "3",
@@ -2751,7 +2739,7 @@
       "text": "Mr. Temporary Speaker, Sir, I do not know whether my ears heard right. Were you referred to as a brother or father-in-law? Is that the true position?"
     },
     {
-      "order": 230,
+      "order": 229,
       "id": "entry-934868",
       "label": "speech",
       "level": "3",
@@ -2763,7 +2751,7 @@
       "text": "Sen. (Dr.) Musuruve can qualify her statement on what she meant."
     },
     {
-      "order": 231,
+      "order": 230,
       "id": "entry-934869",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2763,7 @@
       "text": "Mr. Temporary Speaker, Sir, my words can be rewound in the HANSARD. I said: \"When we were growing up\". However, I realised the age disparities between me and you. So, that is I why extended that our ages are different, may be, you are in the bracket of my sons-in-law. I am not purporting that you are a son- in-law."
     },
     {
-      "order": 232,
+      "order": 231,
       "id": "entry-934870",
       "label": "speech",
       "level": "3",
@@ -2787,7 +2775,7 @@
       "text": "There are many brackets. Earlier on, a Senator said that he was in Form Two in 1952. So, it goes on and on. Let us proceed."
     },
     {
-      "order": 233,
+      "order": 232,
       "id": "entry-934871",
       "label": "speech",
       "level": "3",
@@ -2799,7 +2787,7 @@
       "text": "Mr. Temporary Speaker, Sir, I was a pupil at St. Anne's Primary School, Jogoo Road. We had a day for speaking Kiswahili and other days for English. We spoke English for three days and two days for Kiswahili. If a person was found speaking Kiswahili during time for English, they were given a talisman so that everybody would know that they spoke Kiswahili at the time when they were supposed to speak English. In the process, we improved in both Kiswahili and English. So, during my time learners got grade As in Kiswahili and English. This is because we were taught the languages from an early age. By the time we sat for our exams, it was something that we were used to. However, it is different for deaf learners because they are not given opportunities to communicate in Kiswahili or English. So, they have performance issues. Having been a teacher, we have a standard language that is used in the classroom. The kind of Kiswahili that a teacher speaks with his or her peers, for example, sheng, cannot be used in the classroom. A classroom situation helps learners to get the language to help them go beyond their villages, society and communicate internationally. So, a teacher cannot code-switch in an English or Kiswahili class. It should be the same for the deaf learners. They should be taught appropriate language that will help them. Deaf learners have already been taught KSL because the sentences are brief. They just go for content words and not the functional words as long as they have communicated a message. When children are growing up, they learn a certain language. For example, when a child says, ' susu ', the parent knows that the child wants to go to the toilet. So, the child does not have to complete the entire sentence because it is clear. When my children were growing up, I was instrumental in teaching them our language. When a child showed me a cup and it is tea time, I knew that he or she wants tea. So, I would make a complete sentence to help them get the language clearly. The deaf already have a language problem. Therefore, it is the onus of the society to ensure that it helps them to get the dominant language. This is because they will not stay in school forever. At some point, they will be in the wider society. So, there is no way we can implement Article 54(2) and employ them if they cannot write an application letter because the world will judge them harshly. Mr. Temporary Speaker, Sir, when it comes to the blind, Braille is in exact English and so they do not lose out on anything. If you get a blind and a deaf person to write a paragraph, you will not understand a thing from the deaf learner. However, you cannot blame them because it is the input that they get and also, the area has not been developed. As a country, the onus is on us to ensure that we develop this area and not politicize the issue of KSL. Many people do not understand KSL. Those who want the status quo to remain will always take us back and tell us the language is for the deaf users. Mr. Temporary Speaker, Sir, I am a Tiriki. My late father was a Tiriki and my mother is a Maragoli. I cannot purport to research in Tiriki language because my father was Tiriki or look at linguistic issues in Maragoli and be an authority. I am a user of a language but not an authority. For example, if a person speaks Luo language, they should clearly know they may not be able to write a proper sentence in the language in the manner in which it is supposed to be. There is need for us to push this Bill to the next level so that county governments can take responsibility and ensure that it is implemented. However, when there are functions in the counties, most county governments do not support this area. We cannot say that the National Council for Persons with Disabilities (NCPWD) alone has the mandate to develop this policy. It is the area of linguists and all the stakeholders in this field. Mr. Temporary Speaker, Sir, whenever key issues are needed to develop this area, Prof. Ndurumo is always excluded. The Kenya Institute of Curriculum Development (KICD) has never brought Prof. Ndurumo on board. Similarly, the NCPWD has never brought Prof. Ndurumo on board. The NCPWD and KICD always bring deaf people who are not well educated and claim that those are the users of the language. When I was a lecturer at the Kenyatta University (KU), I taught some units on sign language. I taught a lady named Ms. Pakata who works at the KICD. She confessed that there is need to do something in this area. Ms. Pakata and all the other educated deaf people will tell you that KICD is wrong in not co-opting the right people. However, the deaf who have been misused will want the status quo to remain. Mr. Temporary Speaker, Sir, the reason people sometimes want the status quo is so that they can misuse the deaf. Whether a person has a disability or not, when they are educated, they become empowered because they are liberated and can articulate issues which can be meaningful to the society. Without proper education, there is no way the deaf will be liberated. This Bill is looking at liberating the deaf. The deaf will remember that this Senate made a contribution. They will remember that the Senate ensured that they receive better education. Currently, most deaf people do not get gainful employment. At one point, I taught at the Karen Technical Institute for the Deaf. Some of the deaf persons that I taught ended up selling sweets on the streets because there is no organization that employs people who cannot communicate in English. I would like the deaf to be in gainful employment and utilized in a manner they can say that the Senate has done a good thing. Mr. Temporary Speaker, Sir, I commend Sen. (Prof.) Kamar who is my co- sponsor for being passionate about the issues of persons with disabilities. Through her encouragement, I have continued to lobby on issues of disability because at one point, I felt that I could not move forward. However, with Senators who are well meaning and ready to support this course, I believe that we can make great strides. This Bill gives an action plan to ensure that whatever is stipulated in the Bill comes before the Senate. Clause 18 (2) of the Bill states that: 'A plan developed under subsection (1) shall include-- a) an assessment of the approach which the national and county government entities are taking in The Kenyan Sign Language Bill, 2019, 239 interactions with, and the provision of its services to, members of the deaf community; b) an assessment of the accessibility of national and county government services by members of the deaf community; c) a statement on the actions proposed to be taken by national and county governments so as to take into consideration the needs of the deaf community in delivery of services; d) details of the consultations held and proposed to be held by the national and county government with members of the deaf community in respect of delivery of services; and, e) details of the guidance and training which national and county government entities have given and proposed to give to staff in respect of the needs of members of the deaf community. Mr. Temporary Speaker, Sir, if I have to stand alone in the fight for the deaf, I will stand on the truth that I know. I believe that Senators are reasonable and will listen to the rationale of this Bill and add value to enrich it for purposes of making a meaningful impact in the lives of the deaf. I beg to move this Bill and call upon Sen. (Prof.) Kamar to second."
     },
     {
-      "order": 234,
+      "order": 233,
       "id": "entry-934880",
       "label": "speech",
       "level": "3",
@@ -2811,7 +2799,7 @@
       "text": "Thank you very much, Sen. (Dr.) Musuruve. That is what we call true representation. You are representing the people you were nominated to represent well. Kindly proceed, Sen. (Prof.) Kamar."
     },
     {
-      "order": 235,
+      "order": 234,
       "id": "entry-934881",
       "label": "speech",
       "level": "3",
@@ -2823,7 +2811,7 @@
       "text": "Mr. Temporary Speaker, Sir, I rise to second the Kenyan Sign Language Bill, 2019. I take this opportunity to thank His Excellency the President for appointing me to be a trustee in the National Fund for the Disabled of Kenya. The appointment was brought to my attention by Sen. Mwaruma when I was away attending a meeting of the United Nations Educational, Scientific and Cultural Organization (UNESCO) meeting. I would like to assure President Kenyatta that I will do my best to contribute to the disabled in this country and make them feel as Kenyan as they should be. I thank the co-sponsor of this Bill, Sen. (Dr.) Musuruve, who has a great passion not only for the deaf but for the disabled. While working with Sen. (Dr.) Musuruve, I learnt a lot from her. I congratulate her for the strides she has made since she came to this House. Mr. Temporary Speaker, Sir, my encounter with the deaf started when I met Prof. Ndurumo at Moi University when I was a Deputy Vice Chancellor. At the time, I was not very sure on how a deaf person could train or how they are trained. However, Prof. Ndurumo turned the perspective of Moi University on deaf people around. Better still, I was transformed by a beautiful deaf girl who I employed as my secretary when I was the Member of Parliament for Eldoret East Constituency. That girl was beautiful at heart and physically. More importantly, she was extremely efficient. She quietly moved the office. She was one of the best secretaries I have ever met. Many people did not know she was deaf when they first met her because she knew how to receive guests and make them comfortable. I believe that deaf people can perform extremely well. While working with my deaf secretary, I was interested in knowing how she learnt to perform her secretarial duties so well. I was surprised when she told me that she had taught herself the skills before she was given an opportunity to work in an office where she learnt more. Mr. Temporary Speaker, Sir, you will realize that the deaf are normal in all ways except that they cannot express themselves verbally. The Bill before us highlights the issue of the language of expression. The Kenyan sign language can be used by the deaf to express themselves. Article 54(1)(b) of the Constitution states that: 'A person with any disability is entitled-- (b) to access educational institutions and facilities for persons with disabilities that are integrated into society to the extent compatible with the interests of the person;' If that is the case, how do we realize that sub-article? We can provide ramps for persons with physical disability or braille for persons with visual disability. Article 54(1)(d) of the Constitution states that - \"A person with any disability is entitled-- (d) to use Sign language, Braille or other appropriate means of communication\" It is a means of accessing education. When you read Article 55 (10 (a) of the Constitution that talks of the rights of the youth; the right to education and the right to training, we must ask ourselves if we have enabled everybody to enjoy these rights to education and training. Can they all access education? As I said, we have different ways of accessing education. You can access it because you are okay or as a disabled person, because the disabled nature of your body is enabled. As we have always said, there is nothing called disability; people are enabled differently. We need to start recognizing that. As a country, we must start looking at how we enable the different categories of youth to access education and training as per Article 55 (1) (c) of the Constitution. Therefore, this is a very important Bill. We have had very wide consultations on this. As you have heard from Sen. (Dr.) Musuruve, we have talked to a number of experts; the main guru of this Bill being Prof. Ndurumo. I was privileged to Chair the public hearing of this Bill. We even learnt more during this public hearing than what we had drafted because we had parents of the deaf coming in. These parents said that they first encountered deafness when they gave birth to a deaf child. This is when they asked themselves at what point they were supposed to know how to communicate with a deaf child. In fact, one of the parents suggested that all Kenyans should learn how to communicate in sign language because you never know until you have a deaf child. Some of the parents thanked the Senate for fishing out one of the most important rights of children that seem to have been ignored for a very long time. Going back to the Kenyan sign language which as I said is a means to communicate, we tell ourselves that when we go to school, we learn how to communicate in Kiswahili or English where the blind use the braille and the deaf use sign language. That is a means of communication. But beyond there, you then develop yourself to be a professional. The question that Sen. (Dr.) Musuruve has asked, and which I want this Senate to keep thinking about - even as we develop this Bill - is where the deaf people in the professions that we have in this country are. A deaf person can see, write and calculate. How come we do not have deaf accountants? How come we do not have them in professions that do not require too much hearing? Mr. Temporary Speaker, Sir, this is an area that has been limited. I looked at my secretary and I say, she would have been a professor for all you could see. She is extremely intelligent. You send her and she writes down what she has been asked. She can withdraw money from a bank. She does not have to do much talking when she is cashing money. There is also no need to communicate to a cashier. So, how come we do not have our deaf as cashiers in banks yet you are not supposed to be communicating with a teller. They are only supposed pay you your money. Looking at this, you realise that for a very long time, we have under-developed the deaf. We have not realized that they are extremely intelligent human beings. They are okay in everything except the fact that they do not have a sense of hearing. It is possible to develop the deaf to the highest level possible. They can be anything and they can do anything. This Bill is, therefore, going beyond the language. It is looking at how we as a country should use the sign language to enable all Kenyans to enjoy their rights, especially the deaf. I like Article 6 that talks about the use of sign language in legal proceedings. Many people have suffered because of misrepresentations. The elderly and the illiterate have suffered enough but they have their own ability to argue and fight back when they hear. In this case, the deaf do not get to know what the judge is saying. God forbid, they will be betrayed, if they have taken someone who is ready to betray them. So, it is extremely important that for avoidance of misrepresentation and deaf enjoying the right to legal services, that we actually use sign language in the legal proceedings, alongside all the other languages. This is a language too. Those who cannot speak in English, their proceedings should be in Kiswahili. They should be asked questions in Kiswahili. The same thing should apply to the deaf. They need to be addressed in their language. That is why we are saying that it must be developed to the level that it can be used. In fact, the Bill in Clause 7 on the roles that we expect the Cabinet Secretary (CS) of Education to do says that a lot of support must be given to the deaf learners because they are late-comers. As much we are talking of affirmative action on other areas and development for marginalised areas, this is an area that was forgotten for a very long time. There is need for the Kenya Institute of Curriculum Development (KICD) and the CS to champion affirmative action activities that will enable us to come up with curricular documents and books required by the deaf, so that they are enabled to move further. Further still, there has to be a way of progression so that we do not just use sign language for communicating alone, but also to progress the person. How can we train them? This brings us to the big question that we are trying to bring in the Bill; that is, when we are training our teachers, how many teachers do we have today who know how to communicate to the deaf? A deaf child goes to school, watches everyone, plays with the other children and goes home because no one has communicated to them. We know that we do not even have enough schools for the deaf in our country. You will find that in Clause 17, we have said that there has to be promotion of the Kenya sign language both at the national and county level. Every county must have its own school for the deaf. This is very important. In Eldoret, we have a school for the deaf that a number of Members from this House visited when we held the Senate Mashinani in Uasin Gishu County. At that time, we were again honored to have the Speaker launch sign language pamphlets and books from Sen. (Dr.) Musuruve. But we have realized that there are people who are keeping their deaf children at home because of the costs of boarding schools. In fact, that school takes care of most people from the North Rift and not Uasin Gishu County because there are no schools for the deaf in that area. It is our hope that as we talk of promotion of the Kenya sign language both at county and national governments, counties will seriously consider developing schools for the deaf in each and every county. That way only, shall we be able to take care of them. This also affects us in Uasin Gishu where we have a primary school for the deaf but we do not have a secondary school. So they finish the primary level and they do not have anywhere else to go. I recommended some of them to come to Karen Technical School, but then cartels stops them. From Class Eight, they go straight to a technical institution instead of progressing, whereas there has to be progression. We are hoping that when this Bill is passed, we can ask the county governments, not only to promote this sign language by promoting schools for the deaf, but also promoting schools for progression so that we have certain primary and secondary schools. Beyond that, we expect that the CS, through institutions of higher learning and technical colleges, will facilitate the progression of this young Kenyans. As I talk of progression, it means the learning of the sign language will not only be confined to those who will use it for communication, but we, as parents and communities must learn it. I dare say that as the CS is promoting the Competency Based Curriculum (CBC), this should be one of subjects to be introduced in primary schools. We know that children can learn anything, anytime. You can teach them three languages and they will distinguish them. This is one language that we need to interest our children to learn. As much as we want our children to learn their mother tongues, we need to provide for children who would be interested in learning for future purposes, both braille as well as sign language. This is the only way they can communicate, not only with their friends, but also they are able to be special teachers of the same, in future. As one parent said, that is the only way that we can all be equipped. They were surprised that Senators noticed this, because as parents of the deaf, they are actually taking their children for special tuition so that they learn other things. They have realized that the only thing their children are taught is to sign. If they are being taught to sign, they are being taught to communicate. If they are being taught to communicate, it is not so much for their sake, but it is for the sake of the person who is receiving information from them. This is because within themselves, they are not growing and not becoming anything. I will be that brief because I know that we have colleagues that would like to contribute to this Bill. I second the Kenya Sign Language Bill, 2019."
     },
     {
-      "order": 236,
+      "order": 235,
       "id": "entry-934895",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2823,7 @@
       "text": "Thank you, Sen. (Prof.) Kamar for that very good and emphatic seconding and for the lovely story of the secretary who worked in your office. I am sure through public participation, there are a lot of amendments that you will bring on this Bill, including making it mandatory for all public communication to be accompanied by sign language interpretation."
     },
     {
-      "order": 237,
+      "order": 236,
       "id": "entry-934896",
       "label": "scene",
       "level": "3",
@@ -2847,7 +2835,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 238,
+      "order": 237,
       "id": "entry-934897",
       "label": "speech",
       "level": "3",
@@ -2859,7 +2847,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I thought it is important that we continue with the debate so that we can give life to this very valuable Bill. Like the proposer and the seconder have well stated, some of these issues are issues that we live with. These are issues that are within our societies. As a society and a country, for that matter, we need to take cognizant of, take care of and, indeed, be able to give the people with this kind of disabilities, issues or inefficiencies, to be able to be accorded the light---"
     },
     {
-      "order": 239,
+      "order": 238,
       "id": "entry-934899",
       "label": "scene",
       "level": "3",
@@ -2871,7 +2859,7 @@
       "text": "[The Temporary Speaker (Sen. Sakaja) left the Chair]"
     },
     {
-      "order": 240,
+      "order": 239,
       "id": "entry-934900",
       "label": "scene",
       "level": "3",
@@ -2883,7 +2871,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar) in Chair]"
     },
     {
-      "order": 241,
+      "order": 240,
       "id": "entry-934901",
       "label": "speech",
       "level": "3",
@@ -2895,7 +2883,7 @@
       "text": "Make it brief!"
     },
     {
-      "order": 242,
+      "order": 241,
       "id": "entry-934902",
       "label": "speech",
       "level": "3",
@@ -2907,7 +2895,7 @@
       "text": "Madam Temporary Speaker, I need protection from an intruder who is telling me to make it as short as possible. I do not know for what reason."
     },
     {
-      "order": 243,
+      "order": 242,
       "id": "entry-934903",
       "label": "speech",
       "level": "3",
@@ -2919,7 +2907,7 @@
       "text": "You are protected. Go ahead."
     },
     {
-      "order": 244,
+      "order": 243,
       "id": "entry-934904",
       "label": "speech",
       "level": "3",
@@ -2931,7 +2919,7 @@
       "text": "Thank you, Madam Temporary Speaker, but like I have always done, I will keep it short and sweet. As I was saying, sign language is something that we have lived with. We have family members and people in our society who need to be encouraged not to feel inferior. They can use their limbs to articulate their issues. Madam Temporary Speaker, the Bill states that schools and institutions such as the Judiciary and Parliament need to have sign language interpreters. These people will assist in communicating what Members are saying in the House. In support of this Bill, I urge that all the Senators, counties and the national Government to take note of the serious issues that have been proposed here, so that we articulate this issue. The principle objectives of the Bill are well articulated. Majorly, it is to enable our siblings, friends, the Kenyan population and all the visitors, an opportunity to communicate. We have tourists who visit this country and are in this kind of state. Therefore, at the airports we need interpreters. When we are promoting the Kenyan brand out there, we need to, like we do for Persons with Disabilities (PWDs), state that when a visitor comes to Kenya, they will get someone to provide interpretation services. Madam Temporary Speaker, we have maps and tourist destinations. We need to take statistics of the visitors who come and how many have this inability. By providing these services, they will feel comfortable and become our ambassadors when they go back to their countries. One can never over-emphasize the importance of looking at the entire spectrum of this country; the economic and social issues, including the public transport system. We have the Standard Gauge Railway (SGR). Do we have interpreters for the people who are travelling using the SGR? It is good to have interpreters so that they make announcements such as: \"We are about two kilometers away from our destination\" I wanted to give my small piece of support to this Bill so that we at least encourage Senators to support the Bill in the reaming time. With those very few remarks, as I have been requested, this is a wonderful Bill and I thank you, Madam Speaker and Sen. (Dr.) Musuruve, for coming up with it."
     },
     {
-      "order": 245,
+      "order": 244,
       "id": "entry-934905",
       "label": "speech",
       "level": "3",
@@ -2943,7 +2931,7 @@
       "text": "On a point of order, Madam Temporary Speaker."
     },
     {
-      "order": 246,
+      "order": 245,
       "id": "entry-934906",
       "label": "speech",
       "level": "3",
@@ -2955,7 +2943,7 @@
       "text": "What is your point of order, Sen. Sakaja?"
     },
     {
-      "order": 247,
+      "order": 246,
       "id": "entry-934907",
       "label": "speech",
       "level": "3",
@@ -2967,7 +2955,7 @@
       "text": "Madam Temporary Speaker, I beg your indulgence. Pursuant to Standing Order No.105 (1), I beg to move that debate on this Bill be now adjourned. Many more Members would like to contribute, so if it is adjourned to a later date, we will have more meaningful and deeper contributions by Members."
     },
     {
-      "order": 248,
+      "order": 247,
       "id": "entry-934908",
       "label": "speech",
       "level": "3",
@@ -2979,7 +2967,7 @@
       "text": "Do we have a seconder for this?"
     },
     {
-      "order": 249,
+      "order": 248,
       "id": "entry-934909",
       "label": "speech",
       "level": "3",
@@ -2991,7 +2979,7 @@
       "text": "Madam Temporary Speaker, I second."
     },
     {
-      "order": 250,
+      "order": 249,
       "id": "entry-934910",
       "label": "scene",
       "level": "3",
@@ -3003,7 +2991,7 @@
       "text": "(Question, that debate on the Bill be now adjourned, put and agreed to)"
     },
     {
-      "order": 251,
+      "order": 250,
       "id": "entry-934911",
       "label": "scene",
       "level": "3",
@@ -3015,7 +3003,7 @@
       "text": "(Debate on the Bill was adjourned)"
     },
     {
-      "order": 252,
+      "order": 251,
       "id": "entry-934912",
       "label": "speech",
       "level": "3",
@@ -3027,7 +3015,7 @@
       "text": "The Bill will come back next time for debate. Next Order."
     },
     {
-      "order": 253,
+      "order": 252,
       "id": "entry-934913",
       "label": "heading",
       "level": "1",
@@ -3039,7 +3027,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 254,
+      "order": 253,
       "id": "entry-934914",
       "label": "heading",
       "level": "3",
@@ -3051,7 +3039,7 @@
       "text": "THE COUNTY LICENSING (UNIFORM PROCEDURE) BILL (SENATE BILLS NO. 17 OF 2019)"
     },
     {
-      "order": 255,
+      "order": 254,
       "id": "entry-934915",
       "label": "speech",
       "level": "3",
@@ -3063,7 +3051,7 @@
       "text": "Hon. Senators, I will defer Order No. 20 because of the absence of the Member."
     },
     {
-      "order": 256,
+      "order": 255,
       "id": "entry-934916",
       "label": "scene",
       "level": "3",
@@ -3075,7 +3063,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 257,
+      "order": 256,
       "id": "entry-934917",
       "label": "speech",
       "level": "3",
@@ -3087,7 +3075,7 @@
       "text": "Next Order."
     },
     {
-      "order": 258,
+      "order": 257,
       "id": "entry-934918",
       "label": "heading",
       "level": "1",
@@ -3099,7 +3087,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 259,
+      "order": 258,
       "id": "entry-934919",
       "label": "heading",
       "level": "3",
@@ -3111,7 +3099,7 @@
       "text": "THE STATUTE LAW (MISCELLANEOUS AMENDMENTS) (NO. 2) BILL (NATIONAL ASSEMBLY BILLS NO. 13 OF 2018)"
     },
     {
-      "order": 260,
+      "order": 259,
       "id": "entry-934920",
       "label": "speech",
       "level": "3",
@@ -3123,7 +3111,7 @@
       "text": "Hon. Senators, the Senate Majority Leader is away officially so that Bill is deferred."
     },
     {
-      "order": 261,
+      "order": 260,
       "id": "entry-934921",
       "label": "scene",
       "level": "3",
@@ -3135,7 +3123,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 262,
+      "order": 261,
       "id": "entry-934922",
       "label": "speech",
       "level": "3",
@@ -3147,7 +3135,7 @@
       "text": "Next Order."
     },
     {
-      "order": 263,
+      "order": 262,
       "id": "entry-934923",
       "label": "heading",
       "level": "1",
@@ -3159,7 +3147,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 264,
+      "order": 263,
       "id": "entry-934924",
       "label": "heading",
       "level": "3",
@@ -3171,7 +3159,7 @@
       "text": "THE INDEPENDENT ELECTORAL AND BOUNDARIES (AMENDMENT) (NO. 3) BILL (NATIONAL ASSEMBLY BILLS NO. 35 OF 2019)"
     },
     {
-      "order": 265,
+      "order": 264,
       "id": "entry-934926",
       "label": "speech",
       "level": "3",
@@ -3183,7 +3171,7 @@
       "text": "Hon. Senators, the Senate Majority Leader is away, so we defer this Order."
     },
     {
-      "order": 266,
+      "order": 265,
       "id": "entry-934927",
       "label": "scene",
       "level": "3",
@@ -3195,7 +3183,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 267,
+      "order": 266,
       "id": "entry-934928",
       "label": "speech",
       "level": "3",
@@ -3207,7 +3195,7 @@
       "text": "Next Order."
     },
     {
-      "order": 268,
+      "order": 267,
       "id": "entry-934929",
       "label": "heading",
       "level": "1",
@@ -3219,7 +3207,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 269,
+      "order": 268,
       "id": "entry-934930",
       "label": "heading",
       "level": "3",
@@ -3231,7 +3219,7 @@
       "text": "FREE ADMINISTRATION OF THE SNAKE BITES ANTI-VENOM IN PUBLIC HEALTH FACILITIES"
     },
     {
-      "order": 270,
+      "order": 269,
       "id": "entry-934931",
       "label": "speech",
       "level": "3",
@@ -3243,7 +3231,7 @@
       "text": "THAT, AWARE THAT, there is an abundance of snakes in various parts of the country namely; Kitui, Baringo, Wajir, Kajiado, Embu and Tana River Countiesamong others, which poses a high mortality rate of snake bites across these counties; FURTHER AWARE THAT, all patients bitten by snakes should be assessed bymedically-trained staff to determine the species responsible, the amount of venom injected and the variable time course for development of signs, requiring that patients be kept under observation for at least 24 hours; CONCERNED THAT, these incidences of snake bites are a neglected emergency in Kenya owing to the low awareness of snake bites as a public health problem in the country resulting to victims being maimed and even losing lives; FURTHER CONCERNED THAT, poor infrastructure and poverty contribute to delays in seeking and receiving treatment for snake bites including the high cost of acquiring and storing the anti-venom; RECOGNIZING THAT, it is essential for snakebite victims to get supportive carefollowed by the administration of the anti-venom as soon as possible following a snakebite; NOTING THAT, Article 43 (1) (a) of the Constitution provides that every person has the right to the highest attainable standard of health; NOW THERFORE, the Senate urges the Ministry of Health in collaboration with the County governments to establish programs to sensitize people on the management of snake bites and to ensure timely supply and free administration of the anti-venom inpublic health facilities, concentrating on sub county health facilities in the affected counties, and further ensure that these facilities are equipped with the necessary infrastructure for the storage of the anti-venom."
     },
     {
-      "order": 271,
+      "order": 270,
       "id": "entry-934932",
       "label": "speech",
       "level": "3",
@@ -3255,7 +3243,7 @@
       "text": "Hon. Senators, the Member, Sen. Beatrice Kwamboka has requested that we defer this Motion. It is so deferred."
     },
     {
-      "order": 272,
+      "order": 271,
       "id": "entry-934934",
       "label": "scene",
       "level": "3",
@@ -3267,7 +3255,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 273,
+      "order": 272,
       "id": "entry-934935",
       "label": "speech",
       "level": "3",
@@ -3279,7 +3267,7 @@
       "text": "Next Order."
     },
     {
-      "order": 274,
+      "order": 273,
       "id": "entry-934936",
       "label": "heading",
       "level": "3",
@@ -3291,7 +3279,7 @@
       "text": "NOTING OF REPORT ON THE 3RD STATUTORY MEETING OF THE FP-ICGLR COMMITTEE ON ECONOMIC DEVELOPMENT"
     },
     {
-      "order": 275,
+      "order": 274,
       "id": "entry-934937",
       "label": "speech",
       "level": "3",
@@ -3303,7 +3291,7 @@
       "text": "THAT, this House notes the Report on the 3rdStatutory Meeting of the Committee on Economic Development, Regional Integration and Natural Resources of the Forum of Parliaments of the International Conference of the Great Lakes Region (FP-ICGLR) held in Bujumbura, Burundi, from 13thto 14th March, 2019, laid on the Table of the House on Tuesday, 21stMay, 2019."
     },
     {
-      "order": 276,
+      "order": 275,
       "id": "entry-934938",
       "label": "speech",
       "level": "3",
@@ -3315,7 +3303,7 @@
       "text": "Hon. Senators, Sen. Samuel Poghisio had requested for deferment."
     },
     {
-      "order": 277,
+      "order": 276,
       "id": "entry-934939",
       "label": "scene",
       "level": "3",
@@ -3327,7 +3315,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 278,
+      "order": 277,
       "id": "entry-934940",
       "label": "speech",
       "level": "3",
@@ -3339,7 +3327,7 @@
       "text": "Hon. Senators, Orders No. 25 and 26 under Sen. (Dr.) Ali are also deferred on request by the Member."
     },
     {
-      "order": 279,
+      "order": 278,
       "id": "entry-934941",
       "label": "heading",
       "level": "3",
@@ -3351,7 +3339,7 @@
       "text": "NOTING OF REPORT ON THE 6TH ORDINARY SESSION OF THE 4TH PAP AND 1ST ORDINARY SESSION OF THE 5TH PAP"
     },
     {
-      "order": 280,
+      "order": 279,
       "id": "entry-934942",
       "label": "speech",
       "level": "3",
@@ -3363,7 +3351,7 @@
       "text": "THAT, this House notes the Reports of the Sixth Ordinary Session of the Fourth Pan- African Parliament held in Midrand, South Africa, from 7th to 18th May, 2018,laid on the Table of the House on Tuesday, 24th July, 2018; the First Ordinary Session of the Fifth Parliament of the Pan African Parliament held in Kigali, Rwanda, from 18th October to 3rd November, 2018, laid on the Table of the House on Tuesday, 12thMarch, 2019; and, the Second Ordinary Session of the Fifth Parliament of the PanAfrican Parliament, held in Midrand, South Africa from 6th to 18th May, 2019 laid on the Table of the Senate on Tuesday, 10th September, 2019."
     },
     {
-      "order": 281,
+      "order": 280,
       "id": "entry-934943",
       "label": "scene",
       "level": "3",
@@ -3375,7 +3363,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 282,
+      "order": 281,
       "id": "entry-934944",
       "label": "heading",
       "level": "3",
@@ -3387,7 +3375,7 @@
       "text": "NOTING OF REPORT ON THE UN CONFERENCE ON CLIMATE CHANGE (COP 24)"
     },
     {
-      "order": 283,
+      "order": 282,
       "id": "entry-934945",
       "label": "speech",
       "level": "3",
@@ -3399,7 +3387,7 @@
       "text": "THAT, the Senate notes the Report of the Parliament of Kenya Delegation to the United Nations Conference on Climate Change (COP 24) held in Katowice, Poland, from 3rd to 14th December, 2018, laid on the Table of the Senate on Thursday, 25thJuly, 2019."
     },
     {
-      "order": 284,
+      "order": 283,
       "id": "entry-934946",
       "label": "scene",
       "level": "3",
@@ -3411,7 +3399,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 285,
+      "order": 284,
       "id": "entry-934947",
       "label": "speech",
       "level": "3",
@@ -3423,7 +3411,7 @@
       "text": "Next Order."
     },
     {
-      "order": 286,
+      "order": 285,
       "id": "entry-934948",
       "label": "heading",
       "level": "3",
@@ -3435,7 +3423,7 @@
       "text": "NOTING OF REPORT OF PARLIAMENT OF KENYA DELEGATION TO THE 64TH CPC"
     },
     {
-      "order": 287,
+      "order": 286,
       "id": "entry-934949-split-before-b4788747-00bf-400b-acbf-1daba049c57c",
       "label": "speech",
       "level": "3",
@@ -3447,7 +3435,7 @@
       "text": "Thank you, Madam Temporary Speaker. I beg to move that this House notes the report of the Parliament of Kenya Delegation to the 64th Commonwealth Parliamentary Conference (CPC) held in Kampala, Uganda from the 22nd to 29th September, 2019 laid on the Table of the House on Wednesday, 6th November, 2019. As you are aware, the Commonwealth Parliamentary Association (CPA) is an association of all Commonwealth Parliamentarians, an active network of over 17,000 parliamentarians from 180 national States, provincial and territorial Parliaments and Legislatures. The CPA organizes the Commonwealth Parliamentary Conference (CPC) annually to address the global political issues and developments in the Parliamentary system through conference workshops sessions and sessions for parliamentarians representing Parliament and legislatures throughout the Commonwealth. The CPA Uganda branch and the Parliament of Uganda hosted the 64th CPC that took place from the 22nd September to 29th September, 2019. The overarching theme for the 2019 Conference was adaptation, engagement and evolution of Parliaments in a rapidly changing Commonwealth. The Conference drew over 500 participants among them presiding officers in parliament, legislators, decision makers and parliamentary staff. The highlights of the major events during the Conference are as follows - 1. The Commonwealth Women Parliamentarians Conference (CWP) which celebrated their 30th Anniversary this year, 2019. The theme for the 6th Triennial CWP Conference was; \"CWP at 30 years: \"Achievements and Unfinished Business - Looking forward to the next 30 years.\" There were several issues discussed including the importance of mentoring for new parliamentarians, promoting women leadership positions and senior portfolios, empowering women as effective legislatures in the 21st Century, and combating bullying and harassment within Parliament. The Conference endorsed several resolutions as outlined in the Report for implementation by member governments. The Conference also elected new Chairperson, Ms. Shandana Gulzar Khan, Member of National Assembly from Pakistan. Dr. Zainab Gimba, MP from Nigeria and Chairperson of CWP Africa region was thereafter elected as the Vice Chairperson of the CWP. The Conference had a total of 10 stimulating workshops that provided an avenue for delegates to exchange ideas and experiences of global and pertinent issues affecting their countries. They were as follows: (1) Climate Change: Achievements, Challenges and Efficacy of Parliament Interventions. The workshop focused on the impacts of climate change and the interventions that Commonwealth Parliaments are employing to address them. Unless human beings stop fuelling climate change, it is expected that future impacts will increase evaporation hence water scarcity, shift in areas of disease patterns, biodiversity loss and extinction of species, reduced productivity of major crops and decline in pasture resulting into increased conflicts among pastoralists. I am happy to report that in this Senate, we have Sen. Olekina who is a champion fighting for the Mau Forest. (2)Innovation in Parliament: The Impact of Science and Technology on how Parliament works today. The workshop focused on how ICT can be integrated in parliaments as an enabler and tool for the promotion of openness, transparency and Parliamentary outreach. This was through sharing of specific examples and experiences in the use of ICT in Parliament. Delegates observed that technological engagement increases participation by citizens in the work of Parliament. Therefore, CPA branches are increasingly adapting new technologies. (3) Mentoring Session: The Role of Parliament in Facilitating Persons with Disabilities as Electors, Candidates and Legislators. The workshop focused on the role of Parliament in facilitating PWDs as electors, candidates and legislators. It was encouraging to note that most countries in the Commonwealth had ratified the UN Convention on Persons with Disabilities (UN- CRPD), specifically Article 29 which provides that every person with disability has political rights and the right to effectively and fully participate in conduct of public affairs without discrimination and on equal basis with others. (4) Youth Roundtable: Strategies to Deal with Youth Unemployment. During the discussions, it was clear that there are three aspects of unemployment which are; unemployment, underemployment and un-employability. We focused on the approach by the Government of Uganda to address youth unemployment and underemployment which included a conducive policy and legal framework for job creation and upscaling of productive capacity, strengthening skilling for enhanced labour productivity, strengthening the labour market information system to ease job matching and increase access to available jobs, and strengthening mechanisms of ensuring organised, regulated and safe labour migration for those youth who are have the desire to work outside the country. (5)Combatting Rapid Urbanization and Rural Decline: A Challenge for the Commonwealth. The workshop focused on the impact of rapid urbanization and rural decline in various jurisdictions within the Commonwealth. It was highlighted that with over half of the world's population currently living in the urban areas and a further 2.5 billion expected to be added to that population by 2050, urbanization and the concurrent rural decline will be an increasingly salient issue for leaders and policy makers in the coming years. (6)Innovation in Parliament: The Possible Effects of the United Kingdom 'Brexit' on Small Branches. The workshop focused on the effects of 'Brexit' on the parliamentary procedures in the UK and how small parliaments can benefit, learn from the ramifications, and strengthen the workings of their legislatures. (7)Fostering a Culture of Respect, Fairness and Dignity: Sexual Harassment has no place in Legislatures. The workshop established that it is the responsibility of all political actors, men and women to delegitimize such deplorable and dehumanising cultures and create free and secure legislatures for all parliamentarians. (8)The role of Parliament in the doctrine of separation of powers enhancing transparency and accountability; The Doctrine of the Separation of powers proposes that there should be a distinction between the Executive, Legislative and Judicial Arms of Government principally in terms of powers, functions and personnel. (9)Post-Legislative Scrutiny (PLS) by dimension of the oversight function of the Parliament; how is this represented within different political systems? The workshop discussion centred on post-legislative scrutiny as a tool in assessing relevancy and equality of regulations and laws enacted in relation to the intended objectives. Parliaments across the Commonwealth have variations in their approach to PLS process with some focusing more on legislation and less and less on Post-Legislative Activities. However, they remain key engines of PLS. (10) How the updated CPA benchmarks for domestic democratic legislatures has been used to strengthen the capacity of CPA legislatures. This workshop focused on CPA Benchmarks which are aimed at improving the quality of democratic practice around the world by demonstrating the central importance of parliaments to democracy and creation of an agreed framework on impact of Parliament. At the very end of the workshop, the delegates adopted several resolutions as indicated in the report for implementation by Government arms, political parties, relevant institutions and stakeholders. At the General Assembly, there was a consideration on the adoption of various reports of meetings and activities of CPA during the year and for the coming year including the proposed budget for 2020. Important to note from the General Assembly is that:\n\n(1) The process of the change of legal status of the CPA is still underway.\n\n(2) The General Assembly approved the readmission of Gambia into the CPA. (3) The CPA Canada Region will be hosting the 65th Parliamentary Conference (CPC) in Halifax of Nova Scotia, Canada, from 10th to 18th January 2021 with the CPA Ghana branch possibly hosting the 66th Commonwealth Parliamentary Conference. The General Assembly endorsed the appointment of Hon. Datuk Seri Shamsul, Iskandar Muhammad Akim, MP Malaysian, as the new CPA Treasurer, Hon. John George Ajaka MLC; President of the Legislative Council of New South Wales was confirmed by Members as the Executive Committee to the position of Vice Chairperson of the CPA Executive Committee. In conclusion, I urge the Senate to note this Report and put in place mechanisms for the implementation of the resolution of the various sessions and workshops of the conference. Madam Temporary Speaker, I beg to move and now request Sen. Madzayo to second the Motion."
     },
     {
-      "order": 288,
+      "order": 287,
       "id": "entry-934953",
       "label": "speech",
       "level": "3",
@@ -3459,7 +3447,7 @@
       "text": "Thank you, Sen. Sen. Madzayo"
     },
     {
-      "order": 289,
+      "order": 288,
       "id": "entry-934954",
       "label": "speech",
       "level": "3",
@@ -3471,7 +3459,7 @@
       "text": "Asante, Bi Spika wa Muda, kwa kunipa nafasi hii ili pia mimi niweze kuiunga mkono Ripoti hii iliyo na maendeleo ya nchi zote za Jumia ya Madola katika taratibu zao za kuendesha mkutano ambao ulifanyika Kampala, Uganda. Mambo yaliyozungumzwa katika mkutano huo yalikuwa mengi, haswa ikijulikana ya kwamba, taratibu na utendakazi wa bunge zote ambazo ziko katika Jumuia ya Madola; yaani Commonwealth countries ambazo taratibu zake zote katika ulimwengu huwa sawa. Ukiangalia nchi ambazo zilitawaliwa na Mwingereza kama vile Kenya, Uganda na Tanzania, taratibu za utendaji kazi ni sawa. Bi. Spika wa Muda, nitaiunga mkono Ripoti hii ikiwa italetwa hapa tuijadili. Itakuwa jukumu la hili Bunge kuangalia jinsi ambavyo inaweza kukubaliana na mapendekezo ya Ripoti kutoka Kampala. Mkutano huu uliongea juu ya mazingira ya nchi katika Jumuiya za Madola. Tumeona ni ukweli katika hii Ripoti kwamba sintofahamu nyingi sasa zinaelenda. Msimu ambao si wa mvua sasa umekuwa wa mvua. Msimu ambao watu hawafi katika mito mikubwa wakati masika, sasa wanakufa maji. Maji yanaenda kwa fujo muno na kufagia udongo unaofunika nyumba mabondeni. Kumekuwa na majanga mengi sana kulingana na Ripoti hii. Itakuwa heri kama Bunge la Seneti na Bunge la Kitaifa litaunga mkono Ripoti hii. Tuliona vile mambo yalifanyika katika Mau Forest, hasa kule Kaunti ya Narok. Ilikuwa jambo muhimu sana kuzingatia kwamba mazingira yetu hapa Kenya yasiingiliwe kisha tuwe katika sintofahamu mbalimbali na kusababisha kukosa mvua kwa sababu ya ukataji miti katika Mau Forest. Ninampa kongole Seneta wa Kaunti ya Narok, Sen. Olekina, kwa sababu yeye alisimama kidete na Wakenya wakati mambo haya yalikuwa yakiendelea. Alisema kwaamba ikiwa unataka maji mazuri, mazingira bora, mvua na chakula, ni sharti tupande miti ndani ya Mlima wa Mau. Bi. Spika wa Muda, katika juhudi zake, ilimbidi Waziri wa Mazingira, Hon. Tobiko, aingilie kati na kupanda miti takribani milioni 10. Huyu ndugu yangu alileta vifaa ambavyo vilistaajabisha Wakenya sana na kupanda miti zaidi ya milioni 20. Siku hizi kuna teknolojia ya upazi wa miti. Unaweza kupanda miti kupitia kwa ndege kama unamwaga mbegu kutoka angani na miti itamea. Tunaisifu sana Serikali yetu kwa kuweka mazingira yetu mbele. Wale waliokuwa wamevamia msitu waliulizwa kuondoka huko pole pole na kwa hisani yao. Walifanya hivyo kwa hiari yao wenyewe. Hili ni ambo tunafurahia kwa sababu lilizungumziwa katika Ripoti hii. Mwisho, kuna utendakazi na heshima ndani ya Bunge. Kuna wasichana kwa wavulana wanaoajiriwa ndani ya Bunge zetu za Jumuiya ya Madola. Wakati mwingine utapata kuna kukoseana heshima aidha kati ya wafanyikazi na Wabunge. Mambo haya yalijadiliwa katika mkutano wa Kampala. Sisi Wakenya, hasa Bunge la Seneti, tulifanya jambo muhimu sana kumtuma Sen. Faki, Seneta wa Kaunti ya Mombasa. Alienda kutuwakilisha katika mkutano huo muhimu ambao utaangalia na kuleta Ripoti ambayo itatekelezwa na Serikali yetu. Bi. Spika wa Muda, nilipokuwa Hakimu katika Mahakama Kuu, tuliangalia mambo ya wafanyikazi. Wafanyakazi wa Bunge na Waheshimiwa ambao wanafanya kazi pamoja, ni lazima wawe na heshima ili tusilete maonevu ya aina yoyote ambayo yanaweza kuleta madhara katika utendakazi. Bi. Spika wa Muda, naunga mkono kwa dhati Ripoti hii ambayo imeletwa na Sen. Faki, 001, wa Kaunti ya Mombasa. Ripoti hii ni ya kufana sana na ni nzuri. Ninaiunga mkono ili Bunge letu liweze kutekeleza wajibu kulingana na Ripoti ambayo imewekwa kinaga ubaga mbele ya Bunge hili. Asante."
     },
     {
-      "order": 290,
+      "order": 289,
       "id": "entry-934961",
       "label": "speech",
       "level": "3",
@@ -3483,7 +3471,7 @@
       "text": "Thank you, Senator."
     },
     {
-      "order": 291,
+      "order": 290,
       "id": "entry-934962",
       "label": "scene",
       "level": "3",
@@ -3495,7 +3483,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 292,
+      "order": 291,
       "id": "entry-934963",
       "label": "speech",
       "level": "3",
@@ -3507,7 +3495,7 @@
       "text": "Proceed, Sen. Olekina, Narok County."
     },
     {
-      "order": 293,
+      "order": 292,
       "id": "entry-934964",
       "label": "speech",
       "level": "3",
@@ -3519,7 +3507,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to support and make my comments on this very important Report on the Parliament of Kenya Delegation to the 64th Commonwealth Parliamentary Conference that has been tabled by Sen. Faki. One of the things that has made me happy when I was reading this Report was that for once a delegation has gone to discuss things that affect us directly. In this country, we have been grappling with the challenges that face the doctrine of separation of powers between the three arms of Government. I am quite happy that in the Conference, that is an issue that was given a lot of weight to make it clear that the role of Parliament is to ensure they provide oversight, legislate and also to make a clear distinction between the three arms of Government. Madam Temporary Speaker, I am quite impressed that this Conference also focused on issues of climate change. I echo the words of my two colleagues who have spoken that it is imperative that we focus on improving our climate. We should always ask ourselves: How did we find this world? When I was growing up as a boy we did not have problems of drought. I did not know anything about it. In fact, we used to read about drought in other countries, but not Kenya. However, because of human activities, we have destroyed all our water towers, forests and the entire environment. The issue of rural-urban migration is making it even worse. I am happy the issue of the environment is something which is being taken seriously by Commonwealth Parliaments. This is because what will affect us here in Kenya will also affect other countries. I hope that this House will make it its business to come up with clear policies that define the future of this country. The challenge we have as politicians is that we only care about ourselves and not about the future generations whom we argue on a daily basis that we are bequeathing this world to. When I see such a delegation coming back and reporting that they went there to deliberate on issues of the environment, it makes me very hopeful about the future of this great country called Kenya. Madam Temporary Speaker the issue of respect is also something very important. We have young children, brothers and sisters who work in Parliament whom we have to respect. We have to show the distinction between legislators and people who work there. I am happy that the Conference was bold enough to discuss the issue of sexual harassment because we live in a world that has many different kinds of people; some who do not respect themselves. Am happy that as legislators, we distinguish that it is imperative and important for us to respect the people who work for us. I am also quite happy that youth unemployment was discussed in this Conference. Uganda was used as an example to show how they are creating opportunities for the youth. This is something that Kenya must follow to ensure that there are opportunities for the youth. People keep on saying that the youth are future leaders. There is no future if we destroy the environment and continue inculcating the culture of corruption in this country. It is important that current leaders come up with proper policies that define the current position of the youth and look at it every five years. It is bad that in this country, the youth no longer care about the five years; it is about today because they do not have a clear future. This is something which happens in the Government. Some of the people who are recycled on a daily basis raped this country and took many resources. However, they are recycled and given big jobs. It is time for this country to follow the example of countries that have put the youth up there. Madam Temporary Speaker, the issue of disability is important. I am happy that this House is encouraging it. Earlier on, we discussed about the KSL. That shows maturity and willingness to accommodate our brothers and sisters who came into this world differently. We are willing to acknowledge that it is by sheer luck that, for example, I can stand here wholly and speak for people to hear. We must recognize them so that when we communicate and come up with legislation to care for the disabled people. I hope that this House and the National Assembly will look at all pieces of legislation, particularly, the ones that deal with development. When developing new housing units, it would be important, for a person to be given the first form of approval to proceed with the construction, to clearly show that they have taken care of people who are different and have special needs. That is the only time we can progress as a country. Having such delegations go out there and table a report on their deliberations is important. It is important to note this, as a House, and take action. If there are any special lessons or take home that we can learn, this House can pronounce itself through Motions or follow up with other legislations to ensure that, as a country, we are aware of what is happening around all the Commonwealth countries. Madam Temporary Speaker, the issue of technology is important. I am happy that it was discussed in this conference. We are trying to use technology. I hope that we can encourage it. This is because the more we use technology, the more we will save our environment. I am happy that the Parliament of Kenya is slowly by slowly becoming paperless. This is a culture that some of us will learn slowly by slowly because we like to write. However, when I come here, I can turn on the iPad and look at the Order Paper. So, this is important. Madam Temporary Speaker, the issue of being role models is also important. We should make sure that we mentor future leaders. I was quite happy yesterday when I saw students from Strathmore University Debate Club come here to see how we debate. I bet you, some of them debate better than we do. So, it is important for them to see what we are doing so that we can work together. We can mentor them in terms of leadership. However, they can also tell us how they want to be led. One of the challenges that we have in this country is that we, the leaders, always assume that we know everything. During these mentoring sessions, one way or the other, we learn that the youth may want to be led a certain way. We may have solutions to their problems but they can tell us the best way for us to offer them solutions. Finally, regarding the issue of urbanization, I looked at a report that the good Senator for Nairobi can confirm. The population of Nairobi City alone increased by almost 39 per cent from 2009 to what we have at the moment. It is quite clear that all urban areas, particularly because of devolved systems of Government, will be more congested. Therefore, this House must come up with proper legislation and planning so that we do not create more slums."
     },
     {
-      "order": 294,
+      "order": 293,
       "id": "entry-934976",
       "label": "speech",
       "level": "3",
@@ -3531,7 +3519,7 @@
       "text": "Order, Senators. Sen. Olekina, although you said 'finally' you still have five minutes if you would like to wind-up properly in the next session."
     },
     {
-      "order": 295,
+      "order": 294,
       "id": "entry-934977",
       "label": "heading",
       "level": "1",
@@ -3543,7 +3531,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 296,
+      "order": 295,
       "id": "entry-934978",
       "label": "speech",
       "level": "1",

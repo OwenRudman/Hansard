@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-10-06-14-30-00",
-  "exported_at": "2026-10-05T08:07:45.525Z",
+  "exported_at": "2026-10-15T19:31:40.054Z",
   "entries": [
     {
       "order": 1,
@@ -1569,7 +1569,7 @@
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof) Kamar)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Hon. Senators, we are waiting for the Whips to signal us. Sen. Kang'ata, kindly approach the Chair."
@@ -1716,22 +1716,10 @@
       "speaker": "The Teller for Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Farhiya\n\nNOES:"
+      "text": "Sen. Farhiya\n\nNOES:\n\nNil."
     },
     {
       "order": 144,
-      "id": "entry-1012917",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "The Teller for Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 145,
       "id": "entry-1012918",
       "label": "speech",
       "level": "3",
@@ -1743,7 +1731,7 @@
       "text": "Sen. Kibiru"
     },
     {
-      "order": 146,
+      "order": 145,
       "id": "entry-1012919",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1743,7 @@
       "text": "Hon. Senators, these are results of the Division:\n\nAYES:\n\n24\n\nNOES:\n\n0\n\nABSTENTIONS:"
     },
     {
-      "order": 147,
+      "order": 146,
       "id": "entry-1012925",
       "label": "speech",
       "level": "3",
@@ -1767,7 +1755,7 @@
       "text": "Nil. The \"Ayes\" have it."
     },
     {
-      "order": 148,
+      "order": 147,
       "id": "entry-1012926",
       "label": "scene",
       "level": "3",
@@ -1779,7 +1767,7 @@
       "text": "(Question carried to by 24 votes to nil)"
     },
     {
-      "order": 149,
+      "order": 148,
       "id": "entry-1012927",
       "label": "speech",
       "level": "3",
@@ -1791,7 +1779,7 @@
       "text": "Senator for Murang'a, please, be quiet as the pronouncement of the Bill is being made."
     },
     {
-      "order": 150,
+      "order": 149,
       "id": "entry-1012928",
       "label": "scene",
       "level": "3",
@@ -1803,7 +1791,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 151,
+      "order": 150,
       "id": "entry-1012929",
       "label": "speech",
       "level": "3",
@@ -1815,7 +1803,7 @@
       "text": "Thank you. Next Order!"
     },
     {
-      "order": 152,
+      "order": 151,
       "id": "entry-1012930",
       "label": "speech",
       "level": "3",
@@ -1827,7 +1815,7 @@
       "text": "On a point of order, Madam Deputy Speaker."
     },
     {
-      "order": 153,
+      "order": 152,
       "id": "entry-1012931",
       "label": "speech",
       "level": "3",
@@ -1839,7 +1827,7 @@
       "text": "We have a point of order from Sen. Wetangula."
     },
     {
-      "order": 154,
+      "order": 153,
       "id": "entry-1012932",
       "label": "speech",
       "level": "3",
@@ -1851,7 +1839,7 @@
       "text": "Madam Deputy Speaker, for those of us who appreciate and value decorum in this House, we get disturbed when the Speaker is on her feet announcing the outcome of a Division and Members including the Majority Whip are busy laughing away the afternoon. Congregating as if it is a Kamukunji, where is the decorum in this House? When we came to this House for the first time - my distinguished colleague, the ambassador can bear me out - when the Speaker stands, he or she does not need to say \"order\" it comes naturally in the House. However, you are standing up to announce the results of a Division and it is as if you are not on the Chair. Where is this House getting to? We want to urge Members to uphold the decorum of the House. Otherwise, we cease to be a House and become a baraza, if we wish."
     },
     {
-      "order": 155,
+      "order": 154,
       "id": "entry-1012935",
       "label": "speech",
       "level": "3",
@@ -1863,7 +1851,7 @@
       "text": "There is another point of order from Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 156,
+      "order": 155,
       "id": "entry-1012936",
       "label": "speech",
       "level": "3",
@@ -1875,7 +1863,7 @@
       "text": "Madam Deputy Speaker, unlike the substantive Chair who raises his voice, when you are on the Chair, the people out there should increase the volume so that you can be heard. You are soft and it is a possibility that on top of Sen. Kang'ata laughing, your voice disappears."
     },
     {
-      "order": 157,
+      "order": 156,
       "id": "entry-1012937",
       "label": "speech",
       "level": "3",
@@ -1887,7 +1875,7 @@
       "text": "Thank you, Senators. The mask is the problem. As my student confirmed, I lectured in a lecture hall of 3,000 students and they heard. My biggest problem is with this mask. Sen. Wetangula has been repeating this. This is a House of decorum and order, let us respect that. Thank you. Next Order!"
     },
     {
-      "order": 158,
+      "order": 157,
       "id": "entry-1012938",
       "label": "heading",
       "level": "1",
@@ -1899,7 +1887,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 159,
+      "order": 158,
       "id": "entry-1012939",
       "label": "heading",
       "level": "3",
@@ -1908,22 +1896,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE COMMUNITY HEALTH SERVICES BILL"
+      "text": "THE COMMUNITY HEALTH SERVICES BILL\n\n(SENATE BILLS NO. 5 OF 2020)"
     },
     {
-      "order": 160,
-      "id": "entry-1012940",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(SENATE BILLS NO. 5 OF 2020)"
-    },
-    {
-      "order": 161,
+      "order": 159,
       "id": "entry-1012941",
       "label": "scene",
       "level": "3",
@@ -1935,7 +1911,7 @@
       "text": "(Sen. (Dr.) Zani on 4.8.2020)"
     },
     {
-      "order": 162,
+      "order": 160,
       "id": "entry-1012942",
       "label": "scene",
       "level": "3",
@@ -1947,7 +1923,7 @@
       "text": "(Resumption of debate interrupted on 1.10.2020)"
     },
     {
-      "order": 163,
+      "order": 161,
       "id": "entry-1012943",
       "label": "speech",
       "level": "3",
@@ -1959,7 +1935,7 @@
       "text": "Hon. Senators, this is resumption of debate. Sen. Omogeni had a balance of 11 minutes, if he wishes to use all of them."
     },
     {
-      "order": 164,
+      "order": 162,
       "id": "entry-1012944",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1947,7 @@
       "text": "Thank you, Madam Deputy Speaker. I may not use the entire 11 minutes because I had already summed up my thoughts. I will proceed from where I had stopped and emphasize that community volunteers have always been based on the concept that people want to volunteer their services to enhance community health care. I still want to persuade the Sponsor of this Bill that if we can move this Bill from the idea of having community health workers to community health volunteers, it will be very helpful to our counties. In terms of the wage bill - if we all interact with our counties - if you speak to the health executives in most counties, our health sector wage bill is already taking almost 50 per cent of the total wage bill. In my particular case, in the County Government of Nyamira, 50 per cent of our wage bill is taken up by people who serve in the health sector. If we push the community health workers to be absorbed into the wage bill of counties, if you take an estimate of the County Government of Nyamira, we are talking about an increase of over Kshs1 billion. Madam Deputy Speaker, having fought very hard for enhanced allocation to the County Government of Nyamira, if the National Treasury will avail Kshs50 billion next year, the most we will be able to get is Kshs5.1 billion. If we surrender another Kshs1 billion to be taken care of by the wage bill, it means that the County Government of Nyamira may not even have money for development. Another point that I want to make is that I do not see what mechanism can be put in place, where all the community healthcare volunteers serving in various counties in the Republic, whom I must say are doing a very good job, can be absorbed into the wage bill without going through interviews. I received a report on an outbreak of one case of Coronavirus Disease (COVID- 19) that happened in one of my local markets, in a place called Ikonge in Nyamira today. When I spoke to the County Executive Committee (CEC) member for Health, he told me that he had already gotten in touch with the community healthcare workers, to mobilize the contacts of the people who had gotten in touch with that patient. That goes to show how important these people are to our communities. Sen. (Dr.) Zani, who sponsored this particular Bill---"
     },
     {
-      "order": 165,
+      "order": 163,
       "id": "entry-1012945",
       "label": "scene",
       "level": "3",
@@ -1983,7 +1959,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 166,
+      "order": 164,
       "id": "entry-1012946",
       "label": "speech",
       "level": "3",
@@ -1995,7 +1971,7 @@
       "text": "Hon Senators, please, consult in low tones. He is making a very important point."
     },
     {
-      "order": 167,
+      "order": 165,
       "id": "entry-1012947",
       "label": "speech",
       "level": "3",
@@ -2007,7 +1983,7 @@
       "text": "Sen. (Dr.) Zani, who came up with this Bill has fantastic ideas, and we should not kill this baby. we should save it. I propose that we should propose amendments that will make this Bill retain the original intention of community healthcare workers, which is volunteerism, and remove the technical word of them being workers from this Bill. I think that if we make a few of those amendments, this is a Bill that I fully support. I applaud the people in my county of Nyamira and other counties, who have volunteered their services towards enhancing healthcare within our counties for many years."
     },
     {
-      "order": 168,
+      "order": 166,
       "id": "entry-1012948",
       "label": "scene",
       "level": "3",
@@ -2019,7 +1995,7 @@
       "text": "(Sen. Cherargei spoke off record)"
     },
     {
-      "order": 169,
+      "order": 167,
       "id": "entry-1012949",
       "label": "speech",
       "level": "3",
@@ -2031,7 +2007,7 @@
       "text": "Madam Deputy Speaker, I am told that there is a point of order. I am getting some interruption from Sen. Cherargei. I do not know what point of order he has."
     },
     {
-      "order": 170,
+      "order": 168,
       "id": "entry-1012950",
       "label": "speech",
       "level": "3",
@@ -2043,7 +2019,7 @@
       "text": "There is a point of order from Sen. Cherargei."
     },
     {
-      "order": 171,
+      "order": 169,
       "id": "entry-1012951",
       "label": "speech",
       "level": "3",
@@ -2055,7 +2031,7 @@
       "text": "Madam Deputy Speaker, with all due respect to my learned senior, the Senior Counsel, I think that Sen. Mutula Kilonzo Jnr. raised a very important point. We are having a problem hearing. Therefore, we request the officers in charge of the gadgets to increase the volume. It is hard to follow what my learned senior is saying, and I would like to drink from the fountain of his wisdom as he dispenses it freely. Can you kindly guide the department to at least improve on the volume, so that we are able to follow?"
     },
     {
-      "order": 172,
+      "order": 170,
       "id": "entry-1012952",
       "label": "speech",
       "level": "3",
@@ -2067,7 +2043,7 @@
       "text": "Audio team, can we have the volume increased, please? Sen. Omogeni, you can wind up."
     },
     {
-      "order": 173,
+      "order": 171,
       "id": "entry-1012953",
       "label": "speech",
       "level": "3",
@@ -2079,7 +2055,7 @@
       "text": "Thank you, Madam Deputy Speaker. In winding up, I fully support this Bill with the suggested amendments. Thank you."
     },
     {
-      "order": 174,
+      "order": 172,
       "id": "entry-1012954",
       "label": "speech",
       "level": "3",
@@ -2091,7 +2067,7 @@
       "text": "Sen. (Dr.) Mbito, that was your turn. Sen. Sakaja and then Sen. (Dr.) Mbito."
     },
     {
-      "order": 175,
+      "order": 173,
       "id": "entry-1012955",
       "label": "scene",
       "level": "3",
@@ -2103,7 +2079,7 @@
       "text": "(An. hon. Senator spoke off record)"
     },
     {
-      "order": 176,
+      "order": 174,
       "id": "entry-1012956",
       "label": "speech",
       "level": "3",
@@ -2115,7 +2091,7 @@
       "text": "Why should he be first? The Chairperson of the Committee on Health should actually speak last because he needs to take into account what Members have spoken to this Bill. This is the Second Reading, and Members have very different analysis. I applaud Sen. (Dr.) Zani for this Bill. Healthcare workers are a core part of our healthcare system. If you look at the Memorandum and Objectives of this Bill, it really addresses the issue of focus on the community. This comes at a time when we are looking at the most noble of professions, which is healthcare. That includes our doctors, nurses, medical officers and teachers. Those were the professions that were regarded as the most noble in the past. When you asked anyone in the community what they wanted to do, they wanted to be a nurse, a teacher or a doctor. Nowadays everybody wants to study procurement. I do not understand what happened. Procurement is the most sought after course these days. On Thursday 15th April, 2020, while chairing the Committee on the COVID-19 Situation in Kenya, after chairing over 70 sessions I became a healthcare volunteer. I got to learn a lot about these community health workers. We met a consortium of community health workers, led by one Julius Mbeya of Lwala Community Alliance; we met Dr. Angela Gichaga from the Financing Alliance for Health; Dr. Meshack Ndirangu from Amref Health Kenya; Ms. Doreen Kuduoli from Medic Mobile Africa; Mr. Victor Rotich from An Eye 4 Africa; Ms. Caroline for Kibra; Mr. Omala; Mr. Wendo from Dandelion Africa; and Living Goods. Madam Deputy Speaker, they brought to the Floor not just to the great work that community health volunteers have done in this country, but also the challenges that they face; and not just the opportunities that present themselves if we focus on community health services, but also the successes that have been seen across the world. The greatest pointer of the impact of community health workers was in the fight against the Ebola Pandemic in West Africa. Community health workers played a critical role in driving the success of the Ebola Pandemic response. The world still wonders how they were able to deal with something that was much more contagious and deadly than COVID-19. If you get Ebola on a Friday, by Sunday you are dead. However, because of community health volunteers--- I want acknowledge them, especially the ones in my county, Nairobi City County. They are the ones that know each and every household. They know who stays where, which family has which preexisting conditions; who has diabetes, who did not get a polio shot, who has not been vaccinated; who is pregnant, and when we expect a new child. Madam Deputy Speaker, one of the key issues in designing an effective healthcare system--- COVID-19 has shown us the vulnerability and the soft underbelly of our healthcare system. The most important is information which becomes power. That is why I believe we need to relook at this Managed Equipment Services (MES) Report. The issue of healthcare information system is important. It helps one know what to procure, which kind of drugs are needed in what area, the epidemic likely to come upon certain areas and what people are dealing with. That has not been done despite the huge investment that was put in to address the issue of information. There is need to strengthen the community health strategy of this country. I pray that the pandemic goes down and we do not have a second wave. Even when dealing with the pandemic, we must still be vigilant enough to leverage on the great network that community health workers have for management and control of our health system. There is need to scale up training. I am glad this Bill provides for that of Community Health Workers (CHVs) to help us in early detection, contact tracing, in psychosocial support to increase financing for health and better investment by counties. County governments must lead in funding CHVs. I am glad that Sen. Omogeni has insisted we call them CHVs because once we call them workers it brings some complications. CHVs should be given a minimum of half of the minimum wage as a monthly stipend. This came up out of discussion with them. I am proud as the Senator of Nairobi City County that I pushed for the allocation from an additional Kshs100 million to an addition Kshs3.3 billion. if Ksh1billionis set aside for CHVs we can have more than 10, 000 of them being paid Nairobi City County. That investment in the CHVs will reduce the amount of money being spent in the health docket because we have seen a lot or preventative interventions reduce the burden and the cost of healthcare became we have less need for drugs and hospitalization. Some communicable diseases such as cholera that happen because of lack of cleanliness go down in the community. I advocate and urge the county assemblies as they are budgeting because we are able to do Kshs19 billion the next financial year--- For the Kshs19 billion that is coming to Nairobi City County, set aside Kshs1 billion for CHVs. I have seen and interacted with them especially the ones in Mutu-ini, Dagoretti South, Roysambu, Kibera, Mathare, Mowlem, Embakasi and Pipeline they know what the health challenges are in every part of my county. I am pushing that we set aside a Kshs19 billion from the additional because we were only going to get Kshs100 million. Now we have Kshs3 billion more. Just set aside Kshs1billion can help us reduce even how much we are spending on Mbagathi Hospital, Mama Lucy and those around this city in the sub counties. We have seen how they helped in reproductive and maternal healthcare. Many of the mothers sometimes comes unexpectedly especially when there is no elective caesarian being planned. Many of them have had to deliver at home. It is these CHVs who have been able to assist. They have been able to bring down the numbers in the spread of Tuberculosis (TB) and Human Immunodeficiency Virus (HIV). This is one area where many parts of our country have performed well with only a few lagging behind for different reasons. It is CHVs who have been able to sensitize the community, helped people understand what they need to do and reduce the spread of these diseases. This Bill talks about proper structured supervision and support through deployment of sufficient community health assistants in planning interventions. These CHVs are not just workers. They need to be engaged in planning interventions because of the information and knowledge they have of communities. This is because this country is built from the family to the community and then to the larger society. The wealth of information they have on the community does not go hand in hand with the manner in which we have been able to provide for them. We are opening schools. I expected the Chair of the Senate Committee on Education who is sitting next to me to give us a Statement on the announcement we have heard. This is because children have been at home for a long time. Many of them and even teachers need some support including psychosocial. People have lost loved ones and families have lost livelihoods. Parents have been given a week and that decision was done too quickly. Anyone with children below the age of 10 years will tell you that in those last six months, many have gained weight. They will need new uniform and a lot of interventions. I think the Committee on Health needs to look into that. Class Eight and Form Four are maybe where they were. With a properly structured community health system they would be able to have known that these are behaviors that have come out in society. We have seen increased cases of teenage pregnancy. There is need not just for sensitization but psychosocial support to our children. The best people to do that would be the CHVs. We to enable and facilitate CHVs across the wards and even lower into the villages. Those are the one who should play this role. Madam Deputy Speaker, we need to challenge the counties. Sen. Omogeni started a line of thought that he dropped along the way. I think it was because he was interrupted by his former Chair of the Senate Committee on Justice, Legal Affairs and human rights. That line of thought is important. If we acknowledge as a Senate how critical community health is, in the next County Allocation of Revenue Act (CARA) I would urge the Senate of the Republic of Kenya to ring-fence allocations for CHVS in each county. There is no county that does not have community health volunteers but none is engaging them properly or giving them a stipend. Since the governors and county assemblies will not appropriate for them the Senate can ring-fence in the CARA of the next financial year resources for CHVs. We will be able to see a reduction in the health burdening terms of cost in less than two subsequent financial years. The health strategy is outdated, and I am sure Sen. (Dr.) Zani has done enough research. Policy papers in the Sessional Papers that came are outdated. That needs to be revived. The CS for Health together with county governments need to think about that critically. Today, we have around 60,00 community health workers with a reach of over 9 million households. If properly deployed, they will cover the whole country. Out of the 60,000, 10,000 are in Nairobi City County only. That is why I have calculated how much it would cost. Since this function has been transferred to the Nairobi Metropolitan Services (NMS), I urge Gen. Badi and the Director Josephine to appropriate money for this. There is also my good friend, Mr. Oluga, who has been a doctor. He knows the interventions that have been done by the time a patient is coming to a health facility. Beyond the object of the Bill, Sen. (Dr.) Zani is talking about inclusivity and equity. During the debate we had on the revenue sharing formula, it was clear that the parameter of healthcare was measured poorly because a huge percentage of it was being measured on the number of visits to a hospital. There are counties with no hospitals to visit and a small percentage was on facility gap. When we are talking about equity and inclusivity, we need to think how we will develop these indices that tell us the need and burden of healthcare. There are some counties, for example, Makueni where because of their vastness and how spaced the facilities are, you do not have that number of visits for simple things that can be cured using herbs such as Mwarubaini and such things. Madam Deputy Speaker, in a county like Nairobi City County where a health centre is very close to you, somebody will go for a very simple thing to get assistance. Conversely, Nairobi needs much more drugs and investment in drugs than Makueni County would because of the number of people. We saw lack of creativity in how these indices were being formulated. I hope the Committee on Health chaired by Sen. (Dr.) Mbito, who is a doctor and understand these issues, will help recalibrate how we inform these indices. This is because any formula used is as good or as bad as the thought that has been put in on how you measure that index that you are looking at. Madam Deputy Speaker, this Bill pushes for collaboration between both levels of government, which is necessary. It is has not been going on. We just gave the example of agriculture where governors are up in arms because they were not involved in the formulation of regulations which they are supposed to execute them. I am sure this lack of coordination or silo mentality is existing in health care as well and in other sectors. There needs to be coordination and I hope this can be implemented; as well as qualifications, the technical resources, the structures required, the reporting tools that are needed and the county government then implements that national policy and standards on community health services. Madam Deputy Speaker, there are specific roles that have been given to specific people. The Country Executive Committee Member (CECM) for Health in a county has been given a specific role in Clause 9 to ensure the effective performance of the functions and to delegate the performance of any function specified to such public officers within the respective department as maybe necessary. Madam Deputy Speaker, I will be bringing in a few amendments. I hope I will have a chance to discuss them with Sen. (Dr.) Zani or with the Committee on Health. This is because the practically of some of these provisions in a county of 17 constituencies and 85 wards and 4.3 million people, there are certain ways we need to strengthen how we address all of those community health volunteers, especially in a city like Nairobi. I hope the Committee on Health has not exhausted public participation on this Bill. I hope they have undertaken it. Madam Deputy Speaker, while recognizing what community health volunteers have done and today being World International Teachers' Day, I must also recognize what teachers of this country have been able to do. It is the teachers who have taught these doctors and community heath volunteers. It is the teachers who have taught us. Madam Deputy Speaker, I want to recognize specifically teachers who have taught me and who have made me who I am today. From Ms. Lusala who taught me how to hold a pen properly in class one to Mrs. Wafula, to Ms. Dangi, Ms. Kibutu and Ms. Mganga at Lenana School, to Ms. Kihumba who refused for me to be demoted when I was in Class 7 and said, \"if Sakaja is no longer a prefect, there will be no peace in this school.\" I was reinstated as a prefect. Those teachers do not know how they mould society. The impact of a teacher to a young child stays for life. Madam Deputy Speaker, I want to acknowledge them. I want to acknowledge Mr. Kengwe and Mr. Wala who caned me thoroughly and brought me back to line and helped me get grade 'A' in mathematics and physics despite being very naughty in Form One and Two. I want to acknowledge them and tell them their names have been read out in the Senate of the Republic of Kenya. That boy you thought was naughty, today, he is a Senators because you are a good teacher. Madam Deputy Speaker, this morning we were debating with my cousins on a\n\nWhatsApp\n\ngroup. They said that all our parents were teachers. All my mother's sisters - apart from my mother, of course, she was a teacher as a mother - were teachers; from the late Grace Namasaka to Easter Muhanji, whom I am sure Sen. Wetangula and Sen. Khaniri know. She has been a leading light. She led Bunyore Girls School for the longest time and made sure it is successful as a national school. Today, Mrs. Namaska comes from Sen. Wetangula's county. They were many; it was a family of 12. Madam Deputy Speaker, we acknowledge the role teachers play, including yourself. You have been a teacher at the university. Sometimes, when you are in this House, you go back to being a teacher. We acknowledge the role teachers play. We want to urge the Government to stop trying to break the Kenya National Union of Teachers (KNUT) because teachers need a strong union. As the Chairperson of the Committee on Labour and Social Welfare, we will not allow any breakdown in unions. The Constitution and the Labour Relations Act talk about the right of any worker to unionize, including community health volunteers and teachers. They have a right to come together, to agitate for their rights. That is a right that cannot be taken away by the Teachers Service Commission (TSC). That is a right that cannot be taken away by trying to starve the Kenya National Union of Teachers or Kenya Union of Post Primary Education Teachers (KUPPET) of funds. We will resist that. It goes against this Constitution. The battles that were fought by trade unionists who helped deliver this country led by Tom Mboya in those days---, we shall not let that go to waste. I salute teachers in Nairobi City County. They have the largest burden because of the number of students that they have. Teachers, community health volunteers, we are here to fight for you. We hope that this Bill passes and later on, substantively, we shall address that very burning issue of the teachers of this country. I thank you, Madam Deputy Speaker."
     },
     {
-      "order": 177,
+      "order": 175,
       "id": "entry-1012969",
       "label": "speech",
       "level": "3",
@@ -2127,7 +2103,7 @@
       "text": "Thank you, Senator. Hon. Senators, for the four Members who are on the list, I want to plead with you because I cannot limit the time at this stage, but I want you be conscious of the fact that we are going on recess in the next two days and there are very important Bills that we would like to finish alongside this one. I am pleading that you use your discretion to reduce your time of contribution to the very minimum. Sen. Wetangula, kindly, proceed."
     },
     {
-      "order": 178,
+      "order": 176,
       "id": "entry-1012970",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2115,7 @@
       "text": "Thank you, Madam Deputy Speaker, let me see if I can compress my thoughts in the next 10 minutes. Madam Deputy Speaker, this is a Bill that requires all of us to support. Last Monday when we had the National COVID-19 Conference at Kenyatta International Conference Centre (KICC), I was happy to hear that since COVID-19 hit Kenya, the positive side effect is that diseases like diarrhea, dysentery and cholera have all disappeared. Why? Because of the improvement of personal hygiene. Madam Deputy Speaker, when we were growing up in the villages, there were people who are envisaged in this Bill by Sen. (Dr.) Zani, whom I salute for the Bill called bora afya. They were in every village. They went to every homestead showing home owners how to have a pit latrine and maintain it, how to manage their drinking water wells, how to eliminate mosquitos by destroying their breeding areas around houses, how to clear rodents, and how to keep heath as a primary issue in every family. Because of them, we ended up with a very robust healthy population. Today, if you go to all our counties, health is 95 per cent devolved, but what we have devolved are problems. You go to the villages, health centres, dispensaries and all those units have no medicines. People come there just to die et cetera. It is important that we invest in preventive processes, primary health care where people are taught basics of hygiene. You may not be a rich person, but you may be taught how to have a balanced diet from the little you have. You may not be a rich person, but you may be taught how to collect water from the available spring and well and boil it and drink it without getting any diseases out of it. You may not have a lot of money, but you may be told to eliminate mosquitos from your sleeping environment. I remember small boys sleeping in my grandmother's house. As we go to sleep in the evening, my grandmother would put some little dry cow dung in the jiko . It will smoke the whole night. That smoke would eliminate every single mosquito from the room and we would wake up very well. This used to happen in many homes. My grandmother never saw any classroom. The only thing she knew was how to recite a rosary in the Catholic Church and nothing else. However, she knew that we needed to eat well and to sleep in a clean environment. Every morning, the house had to be swept. Every Friday, the floor had to be smeared with cow dung to eliminate fleas and any other harmful insects that would come into the house. Every day something was done. We used to be conditioned to clear the grass around the house so that snakes could not come into the house to harm us. All this is basic health care that this Bill is talking about. What I hope will happen after we pass this Bill, is to avail sufficient resources because out there, currently, the avenue for theft of public funds in the counties is through construction and health services. That is where most funds are stolen. In many counties where money was sent for COVID-19, almost Kshs200 million in every county - my county Bungoma got Kshs213 million - they cannot account for it. They are calling meetings of people to play politics, trick them to sign attendance sheets and then they go and add figures of money as allowances so that they can appear to be accounting for the money. Madam Deputy Speaker, there are so many layers of employment going on now in the counties. If this was diverted to primary health care, lives would be improved. I was amused to read the other day that my governor has 168 casual workers working in his office. Obviously, these are ghost workers who are used to steal money. One hundred and sixty-eight casual workers in the governor's office, where do they sit in the first place? What do they do? Where are their names? You cannot find them and yet they are paying them every month. If this Bill is passed, and I have no doubt it will, it is going to be a paradigm shift. We would want to see that the National Government prepare, in consultation, not only with the counties but with this Senate, the formulation of proper policy. Under our new Constitution, any policy formulated is legislated legislation. It must come to this House so that we improve on it and make it workable for the counties. I want to urge Sen. (Dr.) Zani that in Clause 10(2) which talks about the Committee that we are setting up in the counties for the health services, which states that: \"A person is eligible for appointment as a member of the committee if that person is an adult of good standing with the leadership qualities, a member of the community is literate and can read and write, is not disqualified under any written law, meet such requirements that the County Executive Committee may legislate.\" There is no mention of any knowledge of health background. People who sit in a committee of primary health care must have some basic knowledge of primary health. We have many people who are training as nurses, training as public health workers, meat inspectors, public health record keepers and doctors. I know doctors who are graduating and going back to the villages because the Government cannot employ them. Nobody can employ them because there are no opportunities. They start small clinics here and there. Those are people who are eligible also to chair this kind of committees so that they can impart their knowledge. When you say that somebody must be an adult and literate, you will find some character who will just go there because they are looking for an income and do nothing to help the enhancement of public health care. I would want to urge the sponsor of the Bill, to strengthen Clause 10 so that it can give some recognition of those people with the knowledge in public health. Equally important are the persons who are eligible for appointment as public health workers. We should also emphasize those who are trained. This country has moved a great deal. Right now, hardly any county does not have one or two medical training centres. We are training many people. The public cannot absorb all of them. The National Government has no capacity to employ them. So, these are the sort of people who would then be enlisted as volunteers but be paid a stipend. Like Sen. Sakaja said, if we pay attention to this, our budget for curative processes in the health sector would easily go down by 50 per cent, if not more. Last year, I went to Embu for the burial of an old man who was 118 years. He had never been to any hospital or dispensary for the whole of his life. The only time he went there is when his body literally gave way because of age and that was the time he succumbed and passed on. We have many people who grow up to the ages of 80, 90, and 100 years without ever seeing a doctor. The only person they encounter is the villager dressers, nurses and other public health officers who advise them on simple things such as clean water. Madam Deputy Speaker, you may realise - Senators here can notice - that since COVID-19 came and the protocols of public health behavior were imposed, common colds have been a thing of the past. You sit in this Chamber and the whole afternoon you hardly hear any Senator coughing. Previously, there would be a cough shooting from every direction in this Chamber because of poor public hygiene; shaking hands with somebody who has been sneezing and he stretches his hand to shake yours. If you do not shake the hand, they think you are arrogant without knowing that you are caring about your health. Sen. (Dr.) Zani, you need to look at some of the practical and applicable COVID- 19 protocols and incorporate them in this Bill, because they have been making very major strides in improving public hygiene and making people realize and understand that failing to shake hands is not a matter of disrespect for each other, but a matter of public health. That failing to sit so close to each other for no reason is not a matter of arrogance but a matter of public hygiene. That going to less crowded places including churches, bars and areas of recreation is not because you do not want to interact with people, but because it is important that we keep a safe distance for purposes of each other's hygiene. Communicable diseases can be eliminated if we impose all these measures on ourselves. More importantly, as I finish, is the need - I agree with Sen. Sakaja - that perhaps in the future as this House helps to design allocation of revenues to counties, we try to also ring-fence some portion of resources that will be geared towards public health - public health that will help improve health for everybody. There are places in this country where people just take milk from the cows' udder and drink it. It is a simple thing to tell them to boil the milk because the milk remains yours. Kids go to the udder and suckle directly. They should be told not to be in a hurry because the milk will still come out of the udder and it should be boiled. It takes no effort to boil milk and give it to the kid as they will grow healthier. All these things amount to public health concerns. We are now going back to the basics. Perhaps those who are young, like Sen. (Dr.) Mwaura do not know that there existed officers in Government called Bora Afya . In my area, we shortened it and started calling them borafya, they were called Bora Afya. They provided good health services. Sen. Poghisio may remember this.\n\nBora Afya\n\nwere allocated homesteads. One Bora Afya would run two to three villages. Every morning, they used not to go to the headquarters in Bungoma or Siaya. They lived and worked in the village, walking from house to house. When you find that this house is not focusing, agreeing and doing what you told them previously, there were penal sanctions. One would be taken to the village elder and punished. They would be made to go sweep the local market and be humiliated before their children and wife when they see a grown up sweeping the market. However, these were very important sanctions. In this Bill, I can see that we do not have sufficient sanctions. Sen. (Dr.) Zani, Kenyans are very undisciplined. Even if you are telling them to do something very good that benefits them, they do not follow unless there are tendered sanctions. So, put in some sanctions. If you constantly keep pools of water outside your house, mosquitoes are breeding there, you are catching malaria every other week, you become a burden to the exchequer of your county and the National Government; you should be punished for it. How long does it take to eliminate pools of water outside your house? It takes very little time but you will find men in the market every day, playing \" Ubao\" and all sorts of games instead of looking after personal hygiene for themselves and their families. I beg to support this important Bill. I hope that this House will pass this Bill and make it very beneficial to our counties and population."
     },
     {
-      "order": 179,
+      "order": 177,
       "id": "entry-1012980",
       "label": "speech",
       "level": "3",
@@ -2151,7 +2127,7 @@
       "text": "Thank you, Sen. Wetangula. Kindly proceed, Sen. Cherargei."
     },
     {
-      "order": 180,
+      "order": 178,
       "id": "entry-1012981",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2139,7 @@
       "text": "Madam Deputy Speaker, I thank you for giving me this opportunity. I commend Sen. (Dr.) Zani for this wonderful Bill. I hope that this Bill will be enacted into an Act of Parliament in the fullness of time. I hope Sen. (Dr.) Zani will receive many awards for this Bill that will change many lives. I congratulate her for this Bill and hope that our counterparts in the National Assembly will expeditiously process it without bringing the narrative of it being a money Bill. Community health workers are very important in this country. We have about 6,087 community units across the country which have done so many things. Article 43 of the Constitutions talks on issues of health being part of the social and economic rights. Articles 10 and 174 of the Constitution give powers to communities to decide things at their own level. Community health workers do a lot of things because they ensure that maternal services are received promptly. Many of our mothers were assisted by community health workers during birth because many of us were born at home. For many years, community health workers have provided support on nutrition issues and extension services. Community health workers help in the promotion of health rights because they go from house to house in the community to sensitize people on issues relating to communicable and non-communicable diseases. Community health workers are also very critical in home-based care for people who are suffering from chronical illnesses such as Cancer. They provide support to families with chronically or terminally ill persons. I am sure that Sen. (Dr.) Musuruve will be happy to note that the community health workers assist Persons with Disabilities (PwDs) by creating data and ensuring that they receive the health attention that they deserve. Community health workers participate in community based surveillance. They are the people that you can use for proper community based surveillance in many issues apart from the volunteer work that they do. Community health workers also assist in mitigating health disparities. Article 43 of the Constitution on Economic and Social Rights states that health is one of the basic human rights. How then can we bridge and mitigate disparity in a county like Nandi which has about 196 health centres against the more than 897,000 residents of Nandi County. How can we bridge and ensure that access to health care is achieved? Governors should be made to understand that construction of many health facilities should not be translated to mean that they have improved the access to health care in this country. The community health workers also assist in the care of Orphans and Vulnerable Children (OVC) and well as victims of gender based violence. The community health workers will have the role of isolating cases of gender based violence and coming up with data. I read the drafted Kenya Community Health Policy of 2020/2030 and one of the key things in that policy is to create the Sustainable Development Goals (SDG). One of the key issues in the policy is the universal health care. One of the Big Four Agenda of the Jubilee Government was the Universal Health Coverage (UHC). If the Universal Health care plan had left the shelves of Statehouse, I can assure you that the issue of community health workers could have been taken care of because it is part of the wider UHC. The Kenya Community Health Policy creates a 10-year space and niche for the community health workers. The policy might not have a legal enforcement or impetus but the fact that Sen. (Dr.) Zani's Bill has tried to give that legislative intervention, I hope that will be very important. The community health workers do a lot of work in the community which include tracing immunization. I hope the doctors in the House can confirm that because of the immunizations we receive as children this country and in many other African countries was a deterrent to the spread of the COVID-19. The community health workers in the rural areas have the role of tracing children in the community to confirm that they had been immunized. Further, the community health workers assist in communication of behavioral change because they understand the local languages. They also provide a link between the doctors and the local communities. My colleague spoke about early teenage pregnancies. I personally believe that the community health workers are the people that can intervene at the village level and in informal settlement areas to ensure that the number of teenage pregnancies is brought down. Sen. Wetangula has brought out the importance of community health workers in the cleanliness of the environment. It therefore goes without saying that we need proper coordinated public participation on this Bill. Madam Deputy Speaker, the one amendment that I would like to propose is the financing of the community health services. The policy that has been drafted by the Ministry of Health states that the National and county Governments will commit and that the Ministry of Health will talk to partners. I would like Sen. (Dr.) Zani to make it an obligation to fund the community health services. Health services under Article 43 of the Constitution is an obligation. Health is a right and not a privilege. If the Ministry of Health states in the policy that it will commit, it means that it can happen or not. Duties of the community health workers can be discussed but my problem is with the payment of the stipends. We should not pay our community health workers like they are in a church service where we are donating sadaka . We should ensure that the community health workers receive proper remuneration because they do more work than nurses and doctors. Their payment should not be based on stipends or any commitments that we are doing. The other day, Nandi County fired about 384 casuals; majority of whom were community health workers. If the community health workers were protected through competent hiring process and the county had an obligation, they could not have been fired. It shows those people undergo competent hiring process. The county had an obligation. They would not have fired them. Madam Deputy Speaker, most Senators will tell you that if we ensure that community health workers do their work properly, we will bring down the harambees for hospital bills. Most harambees are done because of skyrocketing hospital bills. Some diseases can be handled at the lowest level by community health workers. Finally, Madam Deputy Speaker, allow me to celebrate all the teachers. My mother retired last year from teaching. I am proud to be a son of a teacher. You were also my lecturer in Moi University, School of Law. We are proud of all teachers from Nandi County and the entire country. The Government should not break down the unions of teachers. According to Article 41, we should allow the unions to function so that our employees are protected from overreaching excesses of their employers. We wish well all the teachers. The greatest teacher of all time was Jesus Christ. As teachers fight for small money, they should know that their reward is in heaven because Jesus Christ is in heaven. As I congratulate Sen. (Dr.) Zani, I look forward to her bringing more amendments. I thank you."
     },
     {
-      "order": 181,
+      "order": 179,
       "id": "entry-1012984",
       "label": "speech",
       "level": "3",
@@ -2175,7 +2151,7 @@
       "text": "Thank you, Madam Deputy Speaker, for giving me this opportunity to speak to this important Bill. I have been told time is short and we must move on to the next Bill. This is one of the most important Bills that has been brought to this House. It is not an accident that an eminent teacher is the one who brought it. So, I will speak on both if you do not mind. I only have two points to make. We must remunerate community health workers. During my last campaign in Busia, I realised that we have many of them in every village, but they are not being paid. I undertook that we shall try our best to ensure that they are paid. I am glad that through this Bill, they will be adequately remunerated. That is provided in Clause 11(3) which states that- \"A community health worker shall be appointed on such terms and conditions and shall be paid such allowances as the county executive committee shall, in consultation with the respective County Public Service Board and the Salaries and Remuneration Commission, determine.\" That is a good step because they ought to be remunerated. Teachers also ought to be adequately remunerated and so are agriculture extension officers. Our salary policy in this country has been upside down. We tend to remunerate quite well people who are at the top and not people at the grassroots level. If community health workers, agricultural extension officers and teachers are adequately remunerated, there will be a lot of development in rural Kenya and not just here in Nairobi. Therefore, their remuneration should be part of our development. For them to be adequately remunerated, I am glad that the Bill proposes that they should have undergone a prescribed course or training at an institution. It is important that we do not leave it to the county governments to do come up with the policy as far as training is concerned. I believe that a community health worker in Vihiga, Busia or Maralal has the same qualifications and training. If we leave it to the counties, there will be discrepancies in the level of training community health workers. Therefore, I propose that the clause which deals with training should be enhanced to ensure that the policy and what is required on training and the qualifications needed are prescribed for the entire country at the national level. It should be the duty of a county government to ensure that it has enough people properly trained to be community health workers. There is also the issue of the community health committee. I prefer the provisions here, but I suggest that we do not leave out village elders and sub-chiefs as provided in the County Governments Act. Administrators at the village level should not be left out because it is a local community affair. Therefore, whoever has some influence in that community should also have a place in that committee. I am glad that members of the committee will be elected. That is what we mean by enhancing democracy. Madam Deputy Speaker, because of time, let me also talk about teachers. My father and mother were teachers and I thank them. I am what I am because of them. In fact, my father was one of the first African Education Officers in Kenya way back in 1956. He became the first Clerk of the East African Legislative Assembly (EALA) in 1961. Later, he became the Head of Education in the Community and then Secretary to the Authority of the Community before it collapsed. He later became the head of the agency which dealt with locusts in Kenya. So, I am proud of them."
     },
     {
-      "order": 182,
+      "order": 180,
       "id": "entry-1012986",
       "label": "scene",
       "level": "3",
@@ -2187,7 +2163,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kamar) left the Chair]"
     },
     {
-      "order": 183,
+      "order": 181,
       "id": "entry-1012987",
       "label": "scene",
       "level": "3",
@@ -2199,7 +2175,7 @@
       "text": "[The Temporary Speaker (Sen. Mwaura) in the Chair]"
     },
     {
-      "order": 184,
+      "order": 182,
       "id": "entry-1012988",
       "label": "speech",
       "level": "3",
@@ -2211,7 +2187,7 @@
       "text": "Madam Speaker---"
     },
     {
-      "order": 185,
+      "order": 183,
       "id": "entry-1012989",
       "label": "speech",
       "level": "3",
@@ -2223,7 +2199,7 @@
       "text": "Samahani. Sasa kuna Bw. Spika wa Muda."
     },
     {
-      "order": 186,
+      "order": 184,
       "id": "entry-1012990",
       "label": "speech",
       "level": "3",
@@ -2235,7 +2211,7 @@
       "text": "Sorry I did not see you. I thought the Deputy Speaker was still there, but I can see a white face. Huyo ni Mzungu?"
     },
     {
-      "order": 187,
+      "order": 185,
       "id": "entry-1012991",
       "label": "scene",
       "level": "3",
@@ -2247,7 +2223,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 188,
+      "order": 186,
       "id": "entry-1012992",
       "label": "speech",
       "level": "3",
@@ -2259,7 +2235,7 @@
       "text": "Huyu ni Mzungu wa Ruiru. Sen. Wako:\n\nMzungu wa Ruiru yuko hapo\n\n. Sorry, my eyesight is not good,\n\nMuthungu.\n\nIt is not by accident that it has taken a teacher to bring this Bill. It is not an accident that in the neighbouring country, they have done very well particularly on the issue of ethnicity and corruption. Tanzania has done well because their first president was also a mwalimu . It is not an accident that in the first Cabinet of Kenya, nearly 100 per cent of them were teachers.\n\nWe know that teachers play a big role. When we see the fights between the Kenya National Union of Teachers (KNUT) and the Teachers Service Commission (TSC), it is not good for this country. I would like to appeal to both sides or whoever is behind it, to solve that problem so that our teachers can have a union or constitutional commission to represent them. The constitutional commission should not be seen to be fighting teachers so that they are brought down. We should use the World Teachers Day to ensure that our teachers enjoy their profession. In fact, teachers can be instrumental in bringing what I call a national ethos in Kenya. One of the things we lack is an appropriate national ethos in Kenya. In fact, it is more fundamental than constitutional amendments to have a national ethos. In Britain, for example, they do not have a constitution, but they go by traditions and customs. I believe that teachers can be used, when they are properly remunerated, to play the role they used to play because we all look up to teachers for guidance. They can play a big role to have the right type of national ethos in this country. With those few remarks, because of brevity of time, I thank you for giving me this opportunity to speak."
     },
     {
-      "order": 189,
+      "order": 187,
       "id": "entry-1012999",
       "label": "speech",
       "level": "3",
@@ -2271,7 +2247,7 @@
       "text": "Asante sana Seneta wa Busia, Sen. Wako. Alikuwa Mkuu wa Sheria nchini. Nakumbuka nilipokuwa darasa la pili Sen. Wako alikuja katika shule yetu, akatangamana na waalimu na kunitunuku zawadi kwa kuwa mwanafunzi bora shuleni. Sasa hivi nampa fursa Seneta wa Makueni, wakili Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 190,
+      "order": 188,
       "id": "entry-1013000",
       "label": "speech",
       "level": "3",
@@ -2283,7 +2259,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. A lot of things have been said, and I support the Bill. This Bill could not have come at a better time. Sen. (Dr.) Zani is here and the Chairperson of the Standing Committee on Health invited me to a meeting with the Chief Administrative Secretary (CAS), Dr. Mwangangi. In the meeting we were discussing community health workers. It will shock you that the national Government, through the Principal Secretary (PS), Mochache and Sen. (Dr.) Mbito - we are calling upon you to interrogate PS Mwachache thoroughly - entered into a Memorandum of Understanding (MoU) and paid Red Cross Kshs400 million and the African Medical and Research Foundation (AMREF) Kshs300 million to train community health workers in a shadowy contract. It comes in the wake of this. Health is a devolved function and even the recent medical leasing equipment scheme, the contractual relationship between the national and county governments was done in the same way; very shadowy and small letters on MoUs on matters like this. Secondly, other than the fact that the national Government is also taking away this function in a manner I have suggested in the MoU--- I hope that the Chair, in his speech, will tell us why the national Government is spending money at the national level through conduits, as opposed to giving this to counties. The beauty of the community health workers, which I agree with Sen. Omogeni and Sen. Sakaja, is that this must be voluntary. The best way to ensure we deal with 'mafia house' cartels is to return public health to the public. Sen. (Dr.) Mbito, you know that public health has been taken over by cartels in the private sector. I recently met radiologists and their chairperson. The things they told me are disturbing; that whereas we have well trained radiologists, the people doing the biggest business in radiology are some of our colleagues. They are doing everything in the business to make sure that the imaging services in this country are not done through public health. You are aware that imaging Lot No.7, the biggest contract under the Medical Equipment Services--- There is something that is going on about public health. Thirdly, I agree with Sen. Wako that if we were to save money in the country, which we should champion, even with our recurrent expenses without additional resources, as suggested by Sen. Sakaja, we can pay community health workers. You are aware that governors in this country are spending up to Kshs400 million on teas, mandazi and other things, of no use in their offices. I hope we can count on you, Sen. (Dr.) Mbito. I will tie this subject to Board of Management (BoM) teachers. The national Government is paying BoM teachers Kshs10,000, and they have not been paid since the pandemic started in March. If we can afford through the Teacher Service Commission (TSC) to pay BoM teachers, how much more can we afford to pay community health workers who are doing a tremendous job that we do not need to reemphasize? Sen. (Dr.) Zani, many governors--- and the work that is being done in the public health is more of brick and mortar. Governors are celebrating big buildings and not the software. The software of our health faculty and function is the community health workers. We will never train enough doctors, like Sen. (Dr.) Mbito and Sen. (Dr.) Ali, who are here with us doing politics. We cannot have enough doctors; our ratios cannot be matched. Even if we train them day and night, we will never match the population increase. Lastly, I would like to celebrate teachers. I hope that when Sen. Orengo and Sen. Wako get an opportunity, they will speak about this. There was a reason Sen. Wako, as the Attorney-General, advised President Mwai Kibaki then and the team that were doing our Constitution to have TSC in the Constitution. Article 237 is clear that the TSC is supposed to advise Government on matters concerning teachers. However, the biggest headache and single largest thorn in the flesh for teachers is the TSC; making it not worthwhile to have it in the Constitution. They are an impediment. The TSC has killed the Kenya National Union for Teachers (KNUT) by making sure that money is not remitted. Teachers are leaving the union in droves. It is a violation of Article 41 of the Constitution to kill trade unionism. The second one is obviously to have trade unions under Article 41, under the Chapter of Bill of Rights. Through the backdoor, the TSC is violating Article 41, a fundamental right under the Bill of Rights by killing KNUT. We are not speaking enough about these violations. Mr. Temporary Speaker, Sir, I know that the substantive Speaker did not allow us an opportunity to speak about this. However, we must get an opportunity to condemn the TSC. We must call it as it is. It is a grave violation."
     },
     {
-      "order": 191,
+      "order": 189,
       "id": "entry-1013008",
       "label": "speech",
       "level": "3",
@@ -2295,7 +2271,7 @@
       "text": "Hoja ya kuarifu kutoka kwa Sen. Orengo Kiongozi wa Wachache."
     },
     {
-      "order": 192,
+      "order": 190,
       "id": "entry-1013009",
       "label": "speech",
       "level": "3",
@@ -2307,7 +2283,7 @@
       "text": "I want to inform the able Senator for Makueni that without teachers during the constitutional making process, there would have been no TSC. It is the teachers who said that without TSC, they were not going to support the Constitution. Therefore, I agree entirely with Sen. Mutula Kilonzo Jnr. that we should have a substantive debate on the TSC."
     },
     {
-      "order": 193,
+      "order": 191,
       "id": "entry-1013010",
       "label": "speech",
       "level": "3",
@@ -2319,7 +2295,7 @@
       "text": "Thank you, Sen. Orengo, for the information. In fact, that memory serves me well because my late father walked from his office at Jogoo House, all the way to the offices of KNUT. It is through that engagement and collaboration with teachers that we have the Constitution, 2010. I support this Bill and hope we can get this matter as quickly as possible, and resolve our issues with the National Assembly. I have looked at this Bill and am still wondering how somebody will find this a money Bill. I support."
     },
     {
-      "order": 194,
+      "order": 192,
       "id": "entry-1013011",
       "label": "speech",
       "level": "3",
@@ -2331,7 +2307,7 @@
       "text": "Asante sana, Sen. Mutula Kilonzo Jnr. Ile hoja unasisitiza ni kwamba Tume ya Waalimu iliweza kuzingatiwa katika Katiba kwa sababu ya Chama cha Walimu cha KNUT, lakini sasa hivi hiyo Tume ndiyo inamaliza hicho chama. Ni kama kumuua mama yako. Ni jambo la kufedhehessha sana. Mheshimiwa Seneta wa Trans Nzoia, Sen. (Dr.) Mbito."
     },
     {
-      "order": 195,
+      "order": 193,
       "id": "entry-1013012",
       "label": "speech",
       "level": "3",
@@ -2343,7 +2319,7 @@
       "text": "Thank you very much, Mr. Temporary Speaker, Sir. Let me start by thanking Sen. (Dr.) Zani for bringing this very important Bill, which will definitely have a profound effect on the way we conduct community health business in the counties. I am happy that Sen. Mutula Kilonzo Jnr. reminded me about the meeting that we had last week. Let me just inform him that we had the Principal Secretary (PS) with us this morning. We brought up the issues to do with community health and non-state actors with her, and issues came up. There were some funny Innovations for Poverty Action (IPAs) that were signed between governors and the Ministry giving back functions to the national Government that were county functions. We reminded the PS that health is a devolved function. We must ensure that anything that is done in the counties has the approval of the people and the county assembly. We have agreed that we will do things in the right way going forward. In as far as this Bill is concerned, I would have preferred that the Committee on Health gives its input before the debate, but, unfortunately, we had a little bit of delay and the debate continued, but my Committee has gone through the Bill with a tooth comb. We have looked at it critically and have been guided by the Constitution, existing laws and policy. We have come up with amendments that I am sure will be enriching to this very important Bill. We want to ensure that the amendments come in to help steer this beautiful Bill from the pitfalls that it might face. I am talking about pitfalls like---Sen. Omogeni informed us that it is a strain to the counties. We want to see how best we can make it less strenuous to counties. We also want to avoid the issue of this Bill being declared a money Bill. We want to ensure that this Bill sails through at the end of the day. We have done our work. We are finished with the amendment and we will be tabling our amendments at the Committee Stage. I am very sure that the amendments will enrich this Bill. Mine is to congratulate my sister Sen. (Dr.) Zani. This Bill was timely and it coincided with issues that the Committee also has been looking into. We will work together to ensure that this Bill is passed, and it will help our people. Let me just thank the Senator for bringing this good Bill. I thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 196,
+      "order": 194,
       "id": "entry-1013014",
       "label": "speech",
       "level": "3",
@@ -2355,7 +2331,7 @@
       "text": "Asante sana Sen. (Dr.) Mbito. Ni vizuri niseme kwamba ni kweli kuwa hawa wawezeshaji wa afya ya jamii ni muhimu sana, lakini wametelekezwa. Kwa sasa nampa fursa Mtoa Hoja wa huu Mswada, Sen. (Dr.) Zani, kujibu."
     },
     {
-      "order": 197,
+      "order": 195,
       "id": "entry-1013015",
       "label": "speech",
       "level": "3",
@@ -2367,7 +2343,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I beg to reply. Let me start by thanking---"
     },
     {
-      "order": 198,
+      "order": 196,
       "id": "entry-1013016",
       "label": "speech",
       "level": "3",
@@ -2379,7 +2355,7 @@
       "text": "Samahani kidogo. Kiongozi wa Walio Wachache, ulikuwa unataka kuchangia?"
     },
     {
-      "order": 199,
+      "order": 197,
       "id": "entry-1013017",
       "label": "scene",
       "level": "3",
@@ -2391,7 +2367,7 @@
       "text": "(Sen Orengo spoke off record)"
     },
     {
-      "order": 200,
+      "order": 198,
       "id": "entry-1013018",
       "label": "speech",
       "level": "3",
@@ -2403,7 +2379,7 @@
       "text": "Sawa."
     },
     {
-      "order": 201,
+      "order": 199,
       "id": "entry-1013019",
       "label": "speech",
       "level": "3",
@@ -2415,7 +2391,7 @@
       "text": "Let me start by thanking the Senators who have contributed to this Bill for their great insight and the great depths that they have gone to articulate the strategy, policy and reality on the ground, and the dynamics that we keep facing every single day. Through this, I have learnt backgrounds that I did not know. For example, that Sen. Poghisio's father was a community health worker, that Sen. (Rev.) Waqo's parents were teachers, and about all these workers who work for the community who make a difference. Cuba, Germany, Sweden, and other countries were able to face the Coronavirus Disease (COVID-19) Pandemic very well because they had a very strong primary care health system in place. Mr. Temporary Speaker, Sir, it does not take too much. We heard Sen. (Rev.) Waqo and Sen. Wetangula talking about homes that have herbs that burn and it chases away the mosquitoes. This is knowledge that needs to be transmitted from one family to another. Most of the community health workers in place, now volunteers, tend to be people who are well respected and well acknowledged within the community. They are well known. I was just whispering to Sen. (Rev.) Waqo next to me that the person you trust with your health is the person that you will listen to. I hoped that this Bill would coincide with the time that were dealing with the issues on the COVID-19 Pandemic. This is because just by having community health workers going out into the communities with masks and gloves explaining things to people, it would have helped up to 75 per cent. They can still help even now. It was already mentioned that because of the measures that we took during COVID-19, we have had fewer people in hospitals. This speaks to the fact that if you have a primary healthcare system that is very solid, then most of these issues are sorted out. Mr. Temporary Speaker, Sir, there is a Health Act in place. The Health Act articulates many things. It goes up to the community health extension workers, after which we have the community health volunteers. A lot of the legislation that is there has not touched on this particular category, and thus this particular proposed legislation. We hope that through this proposed legislation, we will be able to address--- I think it was Sen. Olekina who talked about secondary legislative systems. We do not want to do that. We want to come up with a system to empower this category of workers who are so strong, knowledgeable, and who the communities need. In fact, if we had very strong community health workers within the counties, we would be able to move very fast. I will move a bit faster because I think we also want to move the Equalization Fund Bill in the next few minutes. I would like to thank Sen. (Dr.) Milgo, who seconded this Bill, Sen. (Dr.) Musuruve, Sen. Were, Sen. Olekina, Sen. Poghisio, Sen. Omogeni, Sen. Sakaja, Sen. Wetangula, Sen. Cherargei, Sen. (Rev.) Waqo, Sen. Mutula Kilonzo Jnr., and Sen. (Dr.) Mbito. I want to pick three critical issues that I need to address. The first is the issue of the money Bill. You know that I have been one of the casualties in terms of legislation on money Bills. In any legislation, we work on now, we try to avoid that. One of the things that this Bill proposes right from the onset is that from the time that the money is allocated- and one of the Senators said this - is that we should be able to cascade and put in this money at the level of the County Allocation of Revenue Act (CARA) so that we are able to ring fence this money in the counties. Mr. Temporary Speaker, Sir, legislation has already started in the county assemblies on community health services. They are actually a step ahead. They are looking for the structural and functionality aspects to be legislated, so that this category of people who already exist and do too much--- I know that there is the issue of terminology that I will come to briefly, but when it comes to entrenching them in whichever way, that will be just fine. Homa Bay County has already passed their legislation, and so has Turkana. Migori, Siaya and Nairobi City counties are already debating this. This is the Bill from which we hope that the county assemblies can also spring up and cascade their Bills. It is, therefore, important that we get onto this. This Bills starts from the point that money that has been appropriated and gone to the counties, is what is going to be used. We are, therefore, not going through the Parliamentary Budget Office (PBO) in the National Assembly. We are talking about money that has already been appropriated into the counties. Some governors have said that there is a lot of work to be done at the counties, but we heard on the Floor of this House today that in some counties there are as many as 168 casual workers. If we just dreamt that the community health volunteers become the primary healthcare workers in the community and they are paid this money--- Do we not want to eradicate malaria, diarrhea and all these other diseases? This is the simplest way to go. That is the issue of the money Bill. The other issue which I want to address which is very critical and it has come up is the conflicting legislation between the Health Act and this particular Bill. I have already alluded to it. The Health Act just stops at where the community health volunteers should come in. We can streamline because we are not trying to create a parallel system. Mr. Temporary Speaker, Sir, there was a lot of stakeholder participation in this Bill. I thank the Committee on Health led by Sen. (Dr.) Mbito for the work that they have done. A lot of public participation brought a lot of different ideas. Many of these issues were brought on board and we are happy to amend. I always say legislation is not a one-person process. That is why we bring it to the Parliament; we debate it here and in the National Assembly. Already, I have been informally discussing with the Committee on Health and they are coming up with some amendments. All these issues are the same ones that we have been discussing. This is very critical to us. Therefore, we need to put all these things together and ensure that we get to where we want to be. We need to think national improved health strategies. In the interest of time and to allow the Equalization Fund Bill to be moved and seconded, I beg to reply at this point. I request that the putting of the question according to Standing Order No.61(3) be deferred to another appropriate time as deemed fit by the Speaker. I reply."
     },
     {
-      "order": 202,
+      "order": 200,
       "id": "entry-1013022",
       "label": "speech",
       "level": "3",
@@ -2427,7 +2403,7 @@
       "text": "Asante sana. Kwa sababu ya idadi ya Masenta hapa Bungeni, hilo swali litawekwa rasmi kesho saa nane unusu adhuhuri."
     },
     {
-      "order": 203,
+      "order": 201,
       "id": "entry-1013023",
       "label": "scene",
       "level": "3",
@@ -2439,7 +2415,7 @@
       "text": "(Putting of the question on the Bill deferred)"
     },
     {
-      "order": 204,
+      "order": 202,
       "id": "entry-1013024",
       "label": "speech",
       "level": "3",
@@ -2451,7 +2427,7 @@
       "text": "Hoja ifuatayo!"
     },
     {
-      "order": 205,
+      "order": 203,
       "id": "entry-1013025",
       "label": "heading",
       "level": "1",
@@ -2463,7 +2439,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 206,
+      "order": 204,
       "id": "entry-1013026",
       "label": "heading",
       "level": "3",
@@ -2475,7 +2451,7 @@
       "text": "THE EQUALIZATION FUND BILL (NATIONAL ASSEMBLY BILLS NO. 43 OF 2019)"
     },
     {
-      "order": 207,
+      "order": 205,
       "id": "entry-1013027",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2463,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to move that the Equalization Fund Bill (National Assembly Bills No. 43 of 2019) be now read a Second Time. The Equalization Fund Bill is a Bill referred to the Senate from the National Assembly which intends to give further effect to the provisions of Article 204 (1) of the Constitution which provides that and I quote - \"There is established an Equilisation Fund into which shall be paid one half per cent of all the revenue collected by the national government each year calculated on the basis of the most recent audited accounts of revenue received, as approved by the National Assembly.\" Mr. Temporary Speaker, Sir, the Equalization Fund is one of the special funds established under the Constitution with the intent of addressing historical marginalization in the country, accelerate development to the marginalized areas and ensuring as far as possible that those areas are at per with the rest of the country. It is, therefore, intended to address the fair distribution of resources in order to bridge the gap of poverty in Kenya. The National Assembly then debated and made the necessary amendments and the Bill is now before us. It has been before our Committee on Finance and Budget. I know that our Committee on Finance and Budget has done a good job looking at it. I am sure we will get the benefit of their report. Mr. Temporary Speaker, Sir, it is a well-established fact that poverty is the underlying source of most development issues in the world, but particularly in this country. The problems such as law, literacy rates, maternal deaths, malnutrition and poor health outcomes can all be linked to poverty. One of the most effective ways of alleviating poverty is ensuring access to certain vital public service such as water, electricity, roads and healthcare facilities. This is the entry point of the equalization fund. The Article 204(2) provides that and I quote- \"The national Government shall use the Equalization Fund only to provide basic services, including water, roads, health facilities and electricity to the marginalized areas to the extent necessary to bring the quality of those services in those areas to the level generally enjoyed by the rest of the nation, so far as possible.\" Mr. Temporary Speaker, Sir, it is in our interest as the Senate that we support and entrench the equalization fund in the way that we represent counties and the people. The people in these areas are the ones that suffer, especially those in the marginalized areas as we call them. This is so that they might be able to get an opportunity to literally \"catch up\" with the rest of the country. This Bill proposes to operationalize this Fund by providing for the administrative structure through which the Fund shall be administered. I dare say that for most part, this is what the National Assembly has proposed. The Bill then proposes to establish a board to administer the Fund. Mr. Temporary Speaker, Sir, the Bill proposes that the board shall comprise of a chairperson from the marginalized community appointed by the President with the approval of the National Assembly, the Principal Secretaries (PSs) in the Ministries responsible for matters relating to water, health services, roads, the National Treasury and four persons nominated by the Cabinet Secretary (CS). These are the functions of that board and just to quote a few- \"It shall be and include management of the fund, consideration of project proposals, disbursement or monies related to approved projects from the Fund, monitoring and evaluation the usage of monies disbursed from the Fund and receiving and addressing complaints and disputes related to the Fund.\" Mr. Temporary Speaker, Sir, this Bill further proposes the establishment of local Equalization Fund committees. At the national level, we have the board and then now we have at the lower levels of the ward. Each ward is to then have a local committee. That will cover areas in marginalized areas as determined by the Commission on Revenue Allocation (CRA) in their report prepared pursuant to Article 216 of the Constitution. We all went through that report when we had an interaction with the CRA. It proposes that the local committee shall comprise of national Government officials responsible for the coordination of national Government functions. There will be two men and two women nominated in accordance with the Sub Section 3. One shall be a youth at the date of their appointment. There will be one person with disability nominated by a registered group representing persons with disability in that area. There will be two persons nominated by the relevant constituency office established under regulations made pursuant to the Parliamentary Service Commission Act, 2000. Mr. Temporary Speaker, Sir, there will also be an officer of the board seconded to the committee by the board who shall be an ex-officio member. There will be an officer of the relevant county government who shall be an ex-officio member and on member adopted by the board in accordance with the regulations made by that board. Before coming to the conclusion, I would want to focus on this whole area of the Bill. The Bill itself as now proposed and amended requires that we look at it, but we do not want the Bill to look any more different. This House has dealt with the CRA and its proposals on this particular matter. Our understanding is that when our Committee on Finance and Budget gets the opportunity then to speak on this matter, we will then get the details of what our amendments should be to make this a stronger Bill. That will enable this Bill to serve our people even better. Mr. Temporary Speaker, Sir, we need to have this understanding ourselves. While the National Assembly may cover the larger image of the country, we on the other hand, are more focused when it comes to the counties. We look at our counties and we know exactly our county maps. We know which of our counties really have the issues that lead to poverty. Our understanding is not just that there is something called marginalized. We understand better in details who are those marginalized. That covers areas that hitherto may not have been seemingly looking like they had poverty. However, because we represent counties, we know exactly where the pockets of poverty exist. That is why our Committee on Finance and Budget - I know the Members of that Committee are present - would understand very easily, where we are coming from on this matter. There is the other matter which I would like to add and, of course, some of these things will come in the amendments later. We have the counties that are called, not just the northern frontier, but they are called the Arid and Semi-Arid Land (ASAL) counties. The ASAL counties are automatically counties that were marginalized for a long time. The ASAL or the frontier counties as they have been called, will then become the basic thread of determining those counties that will benefit. Mr. Temporary Speaker, Sir, of course, we have been given by the Commission on Revenue Allocation (CRA), the areas that will be covered. I also understand that poverty is found in the other areas of our counties which are non-ASAL. Our bone of contention has always been who then makes it to the list of counties that benefit from the Equalization Fund. Those questions are the ones, which will be addressed, maybe, by the Committee report that has been discussed. I have spoken to the Mover of this Motion in the National Assembly. I understand where they are coming from. The structure proposed here is that, we have a national board and ward boards, because of the fuss that people have for boards and creating centers of expenditure. Mr. Temporary Speaker, Sir, I think this is an area which I would recommend that our Committee clearly looks at. We have seen it. I do not know whether the Chair is aware. When the Fund was first expended, the very first time when it was done which is only once, it does not have a very good record. We are told that more money went to administrative courses and expenditure than the money that could have gone to the counties. In determining this particular Bill, we need to also underscore that if you want money to go to the counties, the total amount of money as determined should as nearly as possible end up in the counties and the people that we are going to get out of poverty."
     },
     {
-      "order": 208,
+      "order": 206,
       "id": "entry-1013031",
       "label": "scene",
       "level": "3",
@@ -2499,7 +2475,7 @@
       "text": "(Technical hitch)"
     },
     {
-      "order": 209,
+      "order": 207,
       "id": "entry-1013032",
       "label": "speech",
       "level": "3",
@@ -2511,7 +2487,7 @@
       "text": "Mr. Temporary Speaker, Sir, the other one matter which I just want to touch on, I know details will come out of the Committee that we have and of course from Members who are going to debate it. I have personally been a Member. I come from a county that has been classified as marginalized. I think, automatically West Pokot County has been a beneficiary of the Equalization Fund. Even if West Pokot County was not a beneficiary, I would still say this. We suffer the most from the leadership in our counties. If this Fund was to find its way into the pocket and hands of some of our governors, it would be a very difficult thing for us to manage to get it to reach places where it is supposed to. Governance in our counties is an area that even with the Equalization Fund, people look at the money that comes as though it is brought so that it is taken and misused. Mr. Temporary Speaker, Sir, I am not very sure that we should be spending a lot of our money trying to form more bodies that are going to create more corruption centres. It will end up bringing us back to square one as though we never started. There are areas that I think and I agree we may not be able to stop corruption because we have tried as a country. Even in this County Allocation of Revenue Act in the next financial year, we hope that more money will go to the counties. Sometimes I wish we could just allow the old money to be handled by the governors. This new money which is going there, we should really have focus on how does that money go to a particular thing that will not be affected by the normal erosion that we know happens to our money. Mr. Temporary Speaker, Sir, however, because I do not want to go into that area right now, I just want to emphasize that the people who are responsible for this money need to understand the greater good meant for this money. It is so that the counties which have been marginalized so badly and suffer poverty, the monies should be as safe as possible. It should be ring-fenced as much as possible, to allow these monies to land squarely where it can do the greatest good. This is a good Bill. It is just that we want to look at how we make it a better and more efficient Bill. This is so that it can actually now operationalize the Equalization Fund, which has failed to be operationalized for a long time. Mr. Temporary Speaker, Sir, at this moment, I beg to move and ask my colleagues to support this Bill. I request that we input this Bill. That is why we need more time on this Bill. We want to make sure that at the end, we get the best Bill out of this. I beg to move. In moving this, I ask my colleagues who have the benefit of hindsight and those of you who were here in the last House, I ask you as much as possible to be part of the ones that contribute. I know that mistakes were made initially, but they need to be corrected and we can now find a way of operationalizing this particular Bill. Mr. Temporary Speaker, Sir, with those few words, I beg to move and ask the Senate Minority Leader, Sen. Orengo to second the Bill. From there, I really hope that time will be found by Members to come and support this Bill. I beg to move."
     },
     {
-      "order": 210,
+      "order": 208,
       "id": "entry-1013034",
       "label": "speech",
       "level": "3",
@@ -2523,7 +2499,7 @@
       "text": "Asante sana. Kiongozi wa waliowachache, endelea."
     },
     {
-      "order": 211,
+      "order": 209,
       "id": "entry-1013035",
       "label": "speech",
       "level": "3",
@@ -2535,7 +2511,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I also thank the Senate Majority Leader for the manner in which he has moved this very important Bill. Just starting from where he left on his last remarks about the governors, I have got a copy of the report from the Committee here. Look at the suggestions of the governors. We have been talking about the composition of the board. They were very quick to suggest that three persons sitting on the board should be nominated by the Council of Governors (CoG). I was looking at a lot of legislation which with hindsight we had similar provisions where we think we are representing counties by giving governors or the CoG slots to appoint people into some of these boards. Unfortunately, I do not think that this has worked very effectively. Mr. Temporary Speaker, Sir, secondly, I think the Senate Majority Leader would remember talking about the governors again. There was a suggestion from the CoG that Senators would not vie for position of governors. I am sure if that story is allowed to continue, they will say Senators should not run for President."
     },
     {
-      "order": 212,
+      "order": 210,
       "id": "entry-1013036",
       "label": "scene",
       "level": "3",
@@ -2547,7 +2523,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 213,
+      "order": 211,
       "id": "entry-1013038",
       "label": "speech",
       "level": "3",
@@ -2559,7 +2535,7 @@
       "text": "I can tell you that if a referendum would be taken for people to be asked who should not be running for what positions, that list would have more governors than Senators. I am very sure about that. Be that as it may, this is a Bill that emanates from Article 204 of the Constitution as pointed out already by the Senate Majority Leader. Those provisions have got a sunset clause which we should all the time be putting on focus. We have got very limited time, unless these provisions of the Constitution are amended to try and achieve in the balance of the years. The sunset is 20 years and the National Assembly and the Senate can increase it by a further six years. However, it is important that when that sunset comes, we can say quite clearly that the mischief, complaints and the underdevelopment that took place in the areas that are targeted; something substantive would have happened by the time we come to the sunset of this particular provision in the Constitution. Mr. Temporary Speaker, Sir, the other thing that we should also look at carefully is that this is an enabling legislation. I have read the report by the relevant Committee. I must congratulate this Committee because they do wonderful work. However, I just want to point out that probably we should look at the provisions under the Public Finance Management Act. We should look at areas in which the Senate particularly, can make certain interventions, because these monies will go to the counties. Through this proposed legislation, there may be a more direct way for the Senate to make certain interventions. When we were talking about the Formula, you could see and feel the heat in this Chamber. Here again, we are talking about resources. One of the fears that I have is that if you look at the provisions in the Bill, it is still a National Treasury-driven legislation. A lot of decisions will be made by the National Treasury, including the appointment of the board. The only member of the board that requires the approval is from the National Assembly--- In fact, in all fairness, this approval should be an approval of Parliament as opposed to the National Assembly. These are funds which are going to the counties. We need at appropriate times when the Appropriations Bills come before the National Assembly, for us to have an input by way of having some lasting linkage with the manner in which the board is established. The way I see it, only the National Assembly has a role to play because they are required to approve the appointment of the chairperson by the President. The approval of the National Assembly is required. When you look at the other members, they are there because of their positions. However, if you look at the four other members who are appointed, they are appointed by the Cabinet Secretary (CS), for the time being, responsible for the National Treasure to represent marginalized communities. Mr. Temporary Speaker, Sir, I shudder to think that in the way the Government is structured at the moment, Cabinet Secretaries positions are not political as such. In fact, we were told at the beginning of the Jubilee Government's journey that there were only two politicians in the Cabinet. We have a situation here where the appointment of those who are going to sit over the Equalization Fund is only a matter that will be subject to three institutions. It is the Presidency, the National Assembly and the National Treasury, without the participation of the Senate. I think that is not appropriate. Mr. Temporary Speaker, Sir, there is the other thing that I would want probably the Committee to try and help us solve. I am glad that Sen. Mutula Kilonzo Jnr. is in this matter, because he has been in many of these controversies, where you establish a board and a Chief Executive Officer (CEO). We have seen the controversies that go on in a lot of these statutory bodies, including the Independent Electoral and Boundaries Commission (IEBC). The functions of the CEO vis-à-vis the functions of the board members should be clearly spelt out. You have some boards where the members effectively become the organization and the CEO and others are just in the periphery. Looking at the Kenya Medical Supplies Agency (KEMSA), that balance must be worked out very carefully. Mr. Temporary Speaker, Sir, because of these experiences, and Sen. Farhiya and Sen. Mutula Kilonzo Jnr. are in the House, I beg you that at the appropriate time, when these functions are delineated and established properly, we should have some amendments coming from the Senate to deal with these issues. Suffice to say that the effect of the enactment of this Bill will be the revocation of the guidelines, which are in place. I think that is a good thing. Again, those guidelines were for the benefit of the National Treasury and the Executive. Mr. Temporary Speaker, Sir, the other thing that will be repealed is Section 18 of the Public Finance Management Act. That is good. We should look at more carefully what Section 18 is saying. Where there is some relationship between the Public Finance Management Act and the Equalization Fund, we should make it very clear in the provision of this Bill that where there is conflict, the Equalization Fund Bill, when it becomes an Act, should prevail. The long and short of the Public Finance Management Act, and the way I look at it--- This is where I agree with Gov. Kiraitu Murungi; that the National Treasury has got a very imperial relationship with governors. It is just like even in matters to do with Parliament. You have seen when we have controversy with the National Treasury on matters that even relate to Parliament and the Senate. The attitude of the National Treasury normally is that you have it their way or you do not. I am happy that, that particular Section of the Public Finance Management Act will be repealed when this Bill is enacted. Mr. Temporary Speaker, Sir, to digress a little bit, because of the industry of Sen. Mutula Kilonzo Jnr. and Sen. Farhiya in the Committee on Finance and Budget, I urge you that at some point, we should look at The Public Finance Management Act very carefully and thoroughly. If possible, propose amendments to that Bill. Although the other House may say it is a money Bill, ultimately, going by the successes we are having- --"
     },
     {
-      "order": 214,
+      "order": 212,
       "id": "entry-1013047",
       "label": "speech",
       "level": "3",
@@ -2571,7 +2547,7 @@
       "text": "Kuna Hoja ya kuarifu. Sen. Farhiya, endelea."
     },
     {
-      "order": 215,
+      "order": 213,
       "id": "entry-1013048",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2559,7 @@
       "text": "Mr. Temporary Speaker, Sir, thank you. Thank you, Senate Minority Leader for acknowledging that. The Committee on Finance and Budget has gone ahead and amended almost every section of the Public Finance Management Act for it to be friendly to counties. It also includes some bits that were there in terms of enhancing audit function and all that. We have done well. We have also changed this Bill drastically."
     },
     {
-      "order": 216,
+      "order": 214,
       "id": "entry-1013050",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2571,7 @@
       "text": "Kiongozi wa Walio Wachache, Sen. Orengo, bado una salio ya muda wa dakika 48."
     },
     {
-      "order": 217,
+      "order": 215,
       "id": "entry-1013051",
       "label": "heading",
       "level": "1",
@@ -2607,7 +2583,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 218,
+      "order": 216,
       "id": "entry-1013052",
       "label": "speech",
       "level": "1",

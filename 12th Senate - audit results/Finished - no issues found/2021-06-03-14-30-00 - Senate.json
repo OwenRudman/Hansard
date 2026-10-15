@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-06-03-14-30-00",
-  "exported_at": "2026-10-13T17:33:47.165Z",
+  "exported_at": "2026-10-15T19:32:44.063Z",
   "entries": [
     {
       "order": 1,
@@ -2724,22 +2724,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kibiru.\n\nNOES"
+      "text": "Sen. Kibiru.\n\nNOES\n\n: Nil"
     },
     {
       "order": 228,
-      "id": "entry-1074898",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 229,
       "id": "entry-1074899",
       "label": "speech",
       "level": "3",
@@ -2748,22 +2736,10 @@
       "speaker": "Teller of the Noes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Outa\n\nABSTENTIONS:"
+      "text": "Sen. Outa\n\nABSTENTIONS:\n\nNil"
     },
     {
-      "order": 230,
-      "id": "entry-1074901",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Noes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 231,
+      "order": 229,
       "id": "entry-1074902",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2751,7 @@
       "text": "Hon. Senators, these are the results of the vote-\n\nAYES\n\n: 39\n\nNOES"
     },
     {
-      "order": 232,
+      "order": 230,
       "id": "entry-1074906",
       "label": "speech",
       "level": "3",
@@ -2787,7 +2763,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 233,
+      "order": 231,
       "id": "entry-1074908",
       "label": "speech",
       "level": "3",
@@ -2799,7 +2775,7 @@
       "text": ": Nil \"The Ayes have it\""
     },
     {
-      "order": 234,
+      "order": 232,
       "id": "entry-1074909",
       "label": "scene",
       "level": "3",
@@ -2811,7 +2787,7 @@
       "text": "(Question carried by 39 votes to Nil)"
     },
     {
-      "order": 235,
+      "order": 233,
       "id": "entry-1074910",
       "label": "scene",
       "level": "3",
@@ -2823,7 +2799,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 236,
+      "order": 234,
       "id": "entry-1074913",
       "label": "heading",
       "level": "1",
@@ -2835,7 +2811,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 237,
+      "order": 235,
       "id": "entry-1074914",
       "label": "heading",
       "level": "3",
@@ -2847,7 +2823,7 @@
       "text": "THE WILDLIFE CONSERVATION AND MANAGEMENT (AMENDMENT) BILL (SENATE BILLS NO. 30 OF 2020)"
     },
     {
-      "order": 238,
+      "order": 236,
       "id": "entry-1074915-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2859,7 +2835,7 @@
       "text": "(Sen. Mwaruma on 25.5.2021)"
     },
     {
-      "order": 239,
+      "order": 237,
       "id": "entry-1074915-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2871,7 +2847,7 @@
       "text": "(Resumption of debate interrupted on 2.6.2021)"
     },
     {
-      "order": 240,
+      "order": 238,
       "id": "entry-1074916",
       "label": "heading",
       "level": "3",
@@ -2883,7 +2859,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 241,
+      "order": 239,
       "id": "entry-1074918",
       "label": "scene",
       "level": "3",
@@ -2895,7 +2871,7 @@
       "text": "(Question, that the Wildlife Conversation and Management (Amendment) Bill (Senate Bills No.30 of 2020) be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 242,
+      "order": 240,
       "id": "entry-1074919",
       "label": "other",
       "level": "3",
@@ -2907,7 +2883,7 @@
       "text": "AYES:"
     },
     {
-      "order": 243,
+      "order": 241,
       "id": "entry-1074920",
       "label": "other",
       "level": "3",
@@ -2919,7 +2895,7 @@
       "text": "Sen. Abdul M. Haji, Garissa County; Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kavindu Muthama, Machakos County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Langat, Bomet County; Sen. M. Kajwang', Homa Bay County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. Moi, Baringo County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Ndwiga, Embu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 244,
+      "order": 242,
       "id": "entry-1074923",
       "label": "speech",
       "level": "3",
@@ -2928,22 +2904,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kibiru.\n\nNOES"
+      "text": "Sen. Kibiru.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 245,
-      "id": "entry-1074925",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 246,
+      "order": 243,
       "id": "entry-1074926",
       "label": "speech",
       "level": "3",
@@ -2952,22 +2916,10 @@
       "speaker": "Teller of the Noes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Outa\n\nABSTENTIONS:"
+      "text": "Sen. Outa\n\nABSTENTIONS:\n\nNil"
     },
     {
-      "order": 247,
-      "id": "entry-1074928",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Noes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 248,
+      "order": 244,
       "id": "entry-1074929",
       "label": "speech",
       "level": "3",
@@ -2979,7 +2931,7 @@
       "text": "Hon. Senators, these are the results of the vote-\n\nAYES\n\n: 37\n\nNOES"
     },
     {
-      "order": 249,
+      "order": 245,
       "id": "entry-1074933",
       "label": "speech",
       "level": "3",
@@ -2991,7 +2943,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 250,
+      "order": 246,
       "id": "entry-1074935",
       "label": "speech",
       "level": "3",
@@ -3003,7 +2955,7 @@
       "text": ": Nil \"The Ayes have it\""
     },
     {
-      "order": 251,
+      "order": 247,
       "id": "entry-1074936",
       "label": "scene",
       "level": "3",
@@ -3015,7 +2967,7 @@
       "text": "(Question carried by 37 votes to Nil)"
     },
     {
-      "order": 252,
+      "order": 248,
       "id": "entry-1074938",
       "label": "scene",
       "level": "3",
@@ -3027,7 +2979,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 253,
+      "order": 249,
       "id": "entry-1074939",
       "label": "heading",
       "level": "1",
@@ -3039,7 +2991,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 254,
+      "order": 250,
       "id": "entry-1074940",
       "label": "heading",
       "level": "3",
@@ -3051,7 +3003,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO. 30 OF 2021)"
     },
     {
-      "order": 255,
+      "order": 251,
       "id": "entry-1074941",
       "label": "scene",
       "level": "3",
@@ -3063,7 +3015,7 @@
       "text": "(Sen. Kibiru 2.6.2021)"
     },
     {
-      "order": 256,
+      "order": 252,
       "id": "entry-1074942",
       "label": "scene",
       "level": "3",
@@ -3075,7 +3027,7 @@
       "text": "(Resumption of debate interrupted on 2. 6.2021)"
     },
     {
-      "order": 257,
+      "order": 253,
       "id": "entry-1074943",
       "label": "heading",
       "level": "3",
@@ -3087,7 +3039,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 258,
+      "order": 254,
       "id": "entry-1074945",
       "label": "scene",
       "level": "3",
@@ -3099,7 +3051,7 @@
       "text": "(Question, that the County Allocation of Revenue Bill (Senate Bills No.30 of 2021) be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 259,
+      "order": 255,
       "id": "entry-1074946",
       "label": "other",
       "level": "3",
@@ -3111,7 +3063,7 @@
       "text": "AYES:"
     },
     {
-      "order": 260,
+      "order": 256,
       "id": "entry-1074947",
       "label": "other",
       "level": "3",
@@ -3123,7 +3075,7 @@
       "text": "Sen. Abdul M. Haji, Garissa County; Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kavindu Muthama, Machakos County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. M. Kajwang', Homa Bay County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Moi, Baringo County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Ndwiga, Embu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County; Sen. Wetangula, Bungoma County;"
     },
     {
-      "order": 261,
+      "order": 257,
       "id": "entry-1074950",
       "label": "speech",
       "level": "3",
@@ -3132,22 +3084,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kibiru.\n\nNOES"
+      "text": "Sen. Kibiru.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 262,
-      "id": "entry-1074952",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 263,
+      "order": 258,
       "id": "entry-1074953",
       "label": "speech",
       "level": "3",
@@ -3156,22 +3096,10 @@
       "speaker": "Teller of the Noes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Outa\n\nABSTENTIONS:"
+      "text": "Sen. Outa\n\nABSTENTIONS:\n\nNil"
     },
     {
-      "order": 264,
-      "id": "entry-1074955",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Noes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 265,
+      "order": 259,
       "id": "entry-1074956",
       "label": "speech",
       "level": "3",
@@ -3183,7 +3111,7 @@
       "text": "Hon. Senators, these are the results of the vote-\n\nAYES\n\n: 38\n\nNOES"
     },
     {
-      "order": 266,
+      "order": 260,
       "id": "entry-1074960",
       "label": "speech",
       "level": "3",
@@ -3192,22 +3120,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": ": Nil\n\nABSENTIONS"
+      "text": ": Nil\n\nABSENTIONS\n\n: Nil"
     },
     {
-      "order": 267,
-      "id": "entry-1074962",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 268,
+      "order": 261,
       "id": "entry-1074964",
       "label": "speech",
       "level": "3",
@@ -3219,7 +3135,7 @@
       "text": "\"The Ayes have it\""
     },
     {
-      "order": 269,
+      "order": 262,
       "id": "entry-1074965",
       "label": "scene",
       "level": "3",
@@ -3231,7 +3147,7 @@
       "text": "(Question carried by 38 votes to Nil)"
     },
     {
-      "order": 270,
+      "order": 263,
       "id": "entry-1074966",
       "label": "scene",
       "level": "3",
@@ -3243,7 +3159,7 @@
       "text": "(The Bill was accordingly read the Second Time and committed to a Committee of the Whole today by leave of the House)"
     },
     {
-      "order": 271,
+      "order": 264,
       "id": "entry-1074967",
       "label": "speech",
       "level": "3",
@@ -3255,7 +3171,7 @@
       "text": "We still have another vote. Members should not leave."
     },
     {
-      "order": 272,
+      "order": 265,
       "id": "entry-1074968",
       "label": "heading",
       "level": "1",
@@ -3267,7 +3183,7 @@
       "text": "MOTION"
     },
     {
-      "order": 273,
+      "order": 266,
       "id": "entry-1074969",
       "label": "heading",
       "level": "3",
@@ -3279,7 +3195,7 @@
       "text": "ADOPTION OF REPORT ON CONFERMENT OF CITY STATUS TO NAKURU MUNICIPALITY"
     },
     {
-      "order": 274,
+      "order": 267,
       "id": "entry-1074970",
       "label": "heading",
       "level": "3",
@@ -3291,7 +3207,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 275,
+      "order": 268,
       "id": "entry-1074972",
       "label": "scene",
       "level": "3",
@@ -3303,7 +3219,7 @@
       "text": "(Question, that the Senate adopts the Report of the Standing Committee on Devolution and Intergovernmental Relations on Conferment of City Status to Nakuru Municipality laid on the Table of the Senate on Tuesday, 25th May, 2021, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 276,
+      "order": 269,
       "id": "entry-1074973",
       "label": "other",
       "level": "3",
@@ -3315,7 +3231,7 @@
       "text": "AYES:"
     },
     {
-      "order": 277,
+      "order": 270,
       "id": "entry-1074974",
       "label": "other",
       "level": "3",
@@ -3327,7 +3243,7 @@
       "text": "Sen. Abdul M. Haji, Garissa County; Sen. Boy, Kwale County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kavindu Muthama, Machakos County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. M. Kajwang', Homa Bay County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Moi, Baringo County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Ndwiga, Embu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 278,
+      "order": 271,
       "id": "entry-1074975",
       "label": "speech",
       "level": "3",
@@ -3339,7 +3255,7 @@
       "text": "Sen. Kibiru.\n\nNOES"
     },
     {
-      "order": 279,
+      "order": 272,
       "id": "entry-1074977",
       "label": "other",
       "level": "3",
@@ -3351,7 +3267,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County and Sen. Cherargei, Nandi County;"
     },
     {
-      "order": 280,
+      "order": 273,
       "id": "entry-1074978",
       "label": "speech",
       "level": "3",
@@ -3360,22 +3276,10 @@
       "speaker": "Teller of the Noes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Outa\n\nABSTENTIONS:"
+      "text": "Sen. Outa\n\nABSTENTIONS:\n\nNil"
     },
     {
-      "order": 281,
-      "id": "entry-1074980",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Noes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 282,
+      "order": 274,
       "id": "entry-1074981",
       "label": "speech",
       "level": "3",
@@ -3384,22 +3288,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Hon. Senators, these are the results of the vote-\n\nAYES\n\n: 38\n\nNOES\n\n: 2\n\nABSENTIONS"
+      "text": "Hon. Senators, these are the results of the vote-\n\nAYES\n\n: 38\n\nNOES\n\n: 2\n\nABSENTIONS\n\n: Nil"
     },
     {
-      "order": 283,
-      "id": "entry-1074988",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 284,
+      "order": 275,
       "id": "entry-1074989",
       "label": "scene",
       "level": "3",
@@ -3411,7 +3303,7 @@
       "text": "(Question carried by 38 votes to 2)"
     },
     {
-      "order": 285,
+      "order": 276,
       "id": "entry-1074990",
       "label": "scene",
       "level": "3",
@@ -3423,7 +3315,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 286,
+      "order": 277,
       "id": "entry-1074991",
       "label": "speech",
       "level": "3",
@@ -3435,7 +3327,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 287,
+      "order": 278,
       "id": "entry-1074992",
       "label": "heading",
       "level": "1",
@@ -3447,7 +3339,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 288,
+      "order": 279,
       "id": "entry-1074993",
       "label": "scene",
       "level": "1",
@@ -3459,7 +3351,7 @@
       "text": "(Order for Committee read)"
     },
     {
-      "order": 289,
+      "order": 280,
       "id": "entry-1074994",
       "label": "scene",
       "level": "1",
@@ -3471,7 +3363,7 @@
       "text": "[The Speaker (Hon. Lusaka) left the Chair]"
     },
     {
-      "order": 290,
+      "order": 281,
       "id": "entry-1074995",
       "label": "heading",
       "level": "2",
@@ -3483,7 +3375,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 291,
+      "order": 282,
       "id": "entry-1074996",
       "label": "scene",
       "level": "2",
@@ -3495,7 +3387,7 @@
       "text": "[The Temporary Chairperson (Sen. (Nyamunga) in the Chair]"
     },
     {
-      "order": 292,
+      "order": 283,
       "id": "entry-1074997",
       "label": "heading",
       "level": "3",
@@ -3507,7 +3399,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO.30 OF 2021)"
     },
     {
-      "order": 293,
+      "order": 284,
       "id": "entry-1074998",
       "label": "scene",
       "level": "3",
@@ -3519,7 +3411,7 @@
       "text": "(By leave of the House)"
     },
     {
-      "order": 294,
+      "order": 285,
       "id": "entry-1074999",
       "label": "speech",
       "level": "3",
@@ -3531,7 +3423,7 @@
       "text": "Hon. Senators, kindly take your seats. We are now in the Committee of the Whole to consider the County Allocation of Revenue Bill (Senate Bills No.30 of 2021) Mover, Sen. Kibiru."
     },
     {
-      "order": 295,
+      "order": 286,
       "id": "entry-1075000-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3543,7 +3435,7 @@
       "text": "Clauses 3 and 4"
     },
     {
-      "order": 296,
+      "order": 287,
       "id": "entry-1075000-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3555,7 +3447,7 @@
       "text": "(Question that Clauses 3 and 4 be part of the Bill, proposed)"
     },
     {
-      "order": 297,
+      "order": 288,
       "id": "entry-1075001",
       "label": "speech",
       "level": "5",
@@ -3567,7 +3459,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 298,
+      "order": 289,
       "id": "entry-1075002",
       "label": "heading",
       "level": "5",
@@ -3579,7 +3471,7 @@
       "text": "Clause 5"
     },
     {
-      "order": 299,
+      "order": 290,
       "id": "entry-1075003",
       "label": "speech",
       "level": "5",
@@ -3591,7 +3483,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: THAT clause 5 of the Bill be amended by- (a) renumbering the existing provision as sub clause (1); and (b) inserting the following new sub clause immediately after the new sub clause (1)- (2) The Controller of Budget shall approve withdrawals from the county revenue fund with respect to recurrent expenditure in accordance with the ceilings set out in the Second Schedule. (3) The Controller of Budget shall not approve withdrawals from the county revenue fund to settle pending bills unless the county executive committee member responsible for finance has ascertained the amount of pending bills and transmitted supporting documents to the Controller of Budget."
     },
     {
-      "order": 300,
+      "order": 291,
       "id": "entry-1075006",
       "label": "scene",
       "level": "5",
@@ -3603,7 +3495,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 301,
+      "order": 292,
       "id": "entry-1075007",
       "label": "speech",
       "level": "5",
@@ -3615,7 +3507,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 302,
+      "order": 293,
       "id": "entry-1075008",
       "label": "heading",
       "level": "5",
@@ -3627,7 +3519,7 @@
       "text": "Clause 6"
     },
     {
-      "order": 303,
+      "order": 294,
       "id": "entry-1075009",
       "label": "speech",
       "level": "5",
@@ -3639,7 +3531,7 @@
       "text": "Madam Temporary Chairperson, I beg to move: THAT clause 6 of the Bill be amended by inserting the following new subclasses immediately after sub clause (3)- (4) The Cabinet Secretary shall prepare quarterly reports in respect of the expenditure of funds transferred to the national government under subsection (3). (5) A report prepared under subsection (4) shall - (a) contain information on the financial and non-financial performance of the entity; and (b) be in the form prescribed by the Accounting Standards Board. (6) A report prepared under subsection (4) shall be submitted to the Senate, the Controller of Budget, the Auditor-General and the respective county assembly."
     },
     {
-      "order": 304,
+      "order": 295,
       "id": "entry-1075010",
       "label": "scene",
       "level": "5",
@@ -3651,7 +3543,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 305,
+      "order": 296,
       "id": "entry-1075011",
       "label": "speech",
       "level": "5",
@@ -3663,7 +3555,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 306,
+      "order": 297,
       "id": "entry-1075012-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3675,7 +3567,7 @@
       "text": "Clauses 7, 8 9 and 10"
     },
     {
-      "order": 307,
+      "order": 298,
       "id": "entry-1075012-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3687,7 +3579,7 @@
       "text": "(Question that Clauses 7, 8, 9 and 10 be part of the Bill, proposed)"
     },
     {
-      "order": 308,
+      "order": 299,
       "id": "entry-1075013",
       "label": "speech",
       "level": "5",
@@ -3699,7 +3591,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 309,
+      "order": 300,
       "id": "entry-1075014",
       "label": "scene",
       "level": "5",
@@ -3711,7 +3603,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 310,
+      "order": 301,
       "id": "entry-1075015",
       "label": "speech",
       "level": "5",
@@ -3723,7 +3615,7 @@
       "text": "Hon. Senators, kindly consult in low tones so that you do not interrupt the proceedings of the House. What we are doing is very important.\n\nNew clause 11"
     },
     {
-      "order": 311,
+      "order": 302,
       "id": "entry-1075017-split-before-596b9766-3b75-446e-9cfa-33533b561e7d",
       "label": "speech",
       "level": "5",
@@ -3735,7 +3627,7 @@
       "text": "I beg to move - THAT, the Bill be amended by inserting the following new clause immediately after Clause 10- Consequential amendment. No. 18 of 2012. 11. Section 130 of the Public Finance Management Act is amended by inserting the following new subsections immediately after subsection (2)-\n\n(3) In preparing the annual appropriation Bill under subsection (2),\n\nthe county executive committee member responsible for finance shall include, in the allocation to the county assembly any unspent funds that had been appropriated to the county assembly in the immediate preceding financial year.\n\n(4) Where an Appropriation Bill is passed before the beginning of\n\nthe financial year to which it relates and does not contain unspent funds allocated to the county assembly in the immediate preceding financial year, the county executive committee member for finance shall prepare and submit to the county assembly a Supplementary Appropriation Bill allocating the unspent funds.\n\n(5) A Bill prepared under subsection (4) shall be introduced in the\n\ncounty assembly within two months of the commencement of the financial year.\n\n(6) Failure by the county executive committee member for finance\n\nto prepare a Supplementary Appropriation Bill under subsection (4) shall constitute an additional indicator of a serious or persistent material breach under section 94."
     },
     {
-      "order": 312,
+      "order": 303,
       "id": "entry-1075021",
       "label": "scene",
       "level": "5",
@@ -3747,7 +3639,7 @@
       "text": "(Question of New Clause 11 proposed)"
     },
     {
-      "order": 313,
+      "order": 304,
       "id": "entry-1075022",
       "label": "scene",
       "level": "5",
@@ -3759,7 +3651,7 @@
       "text": "(The New Clause 11 was read the First Time)"
     },
     {
-      "order": 314,
+      "order": 305,
       "id": "entry-1075023",
       "label": "scene",
       "level": "5",
@@ -3771,7 +3663,7 @@
       "text": "(Question that New Clause 11 be read a second time, proposed)"
     },
     {
-      "order": 315,
+      "order": 306,
       "id": "entry-1075024",
       "label": "scene",
       "level": "5",
@@ -3783,7 +3675,7 @@
       "text": "(Question that New Clause 11 be part of the Bill, proposed)"
     },
     {
-      "order": 316,
+      "order": 307,
       "id": "entry-1075025",
       "label": "speech",
       "level": "5",
@@ -3795,7 +3687,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 317,
+      "order": 308,
       "id": "entry-1075026-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3807,7 +3699,7 @@
       "text": "First Schedule"
     },
     {
-      "order": 318,
+      "order": 309,
       "id": "entry-1075026-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3819,7 +3711,7 @@
       "text": "(Question that the First Schedule be part of the Bill, proposed)"
     },
     {
-      "order": 319,
+      "order": 310,
       "id": "entry-1075027",
       "label": "speech",
       "level": "5",
@@ -3831,7 +3723,7 @@
       "text": "The Division will be at the end.\n\nThe Second Schedule"
     },
     {
-      "order": 320,
+      "order": 311,
       "id": "entry-1075030",
       "label": "speech",
       "level": "5",
@@ -3843,7 +3735,7 @@
       "text": "I beg to move- THAT, the Bill be amended by deleting the Second Schedule and substituting therefor the following new Schedule-"
     },
     {
-      "order": 321,
+      "order": 312,
       "id": "entry-1075032",
       "label": "heading",
       "level": "5",
@@ -3855,7 +3747,7 @@
       "text": "SECOND SCHEDULE ("
     },
     {
-      "order": 322,
+      "order": 313,
       "id": "entry-1075033",
       "label": "speech",
       "level": "5",
@@ -3867,7 +3759,7 @@
       "text": "s.5)"
     },
     {
-      "order": 323,
+      "order": 314,
       "id": "entry-1075033-inserted-853b8d87-48cd-4078-aa1b-37b149c63834",
       "label": "heading",
       "level": "5",
@@ -3879,7 +3771,7 @@
       "text": "SECOND SCHEDULE                                  (s.5)"
     },
     {
-      "order": 324,
+      "order": 315,
       "id": "entry-1075034",
       "label": "speech",
       "level": "5",
@@ -3891,7 +3783,7 @@
       "text": "Schedule II: County Government Budget Ceilings on Recurrent Expenditure in Financial Year2021/2022 (Figures are in Kenya Shillings) No. County County Assembly Ceilings County Executive Ceilings"
     },
     {
-      "order": 325,
+      "order": 316,
       "id": "entry-1075035",
       "label": "heading",
       "level": "3",
@@ -3903,7 +3795,7 @@
       "text": "FY 2020/21 FY 2021/22 FY 2020/21 FY 2021/22 1"
     },
     {
-      "order": 326,
+      "order": 317,
       "id": "entry-1075036",
       "label": "speech",
       "level": "3",
@@ -3915,7 +3807,7 @@
       "text": "Baringo 687,926,864"
     },
     {
-      "order": 327,
+      "order": 318,
       "id": "entry-1075037",
       "label": "heading",
       "level": "3",
@@ -3927,7 +3819,7 @@
       "text": "746,019,020"
     },
     {
-      "order": 328,
+      "order": 319,
       "id": "entry-1075038",
       "label": "heading",
       "level": "3",
@@ -3939,7 +3831,7 @@
       "text": "569,787,017"
     },
     {
-      "order": 329,
+      "order": 320,
       "id": "entry-1075039",
       "label": "heading",
       "level": "3",
@@ -3951,7 +3843,7 @@
       "text": "569,787,017 2"
     },
     {
-      "order": 330,
+      "order": 321,
       "id": "entry-1075040",
       "label": "speech",
       "level": "3",
@@ -3963,7 +3855,7 @@
       "text": "Bomet 606,321,526"
     },
     {
-      "order": 331,
+      "order": 322,
       "id": "entry-1075041",
       "label": "heading",
       "level": "3",
@@ -3975,7 +3867,7 @@
       "text": "648,066,449"
     },
     {
-      "order": 332,
+      "order": 323,
       "id": "entry-1075042",
       "label": "heading",
       "level": "3",
@@ -3987,7 +3879,7 @@
       "text": "552,531,315"
     },
     {
-      "order": 333,
+      "order": 324,
       "id": "entry-1075043",
       "label": "heading",
       "level": "3",
@@ -3999,7 +3891,7 @@
       "text": "552,531,315 3"
     },
     {
-      "order": 334,
+      "order": 325,
       "id": "entry-1075044",
       "label": "speech",
       "level": "3",
@@ -4011,7 +3903,7 @@
       "text": "Bungoma 852,697,315"
     },
     {
-      "order": 335,
+      "order": 326,
       "id": "entry-1075045",
       "label": "heading",
       "level": "3",
@@ -4023,7 +3915,7 @@
       "text": "890,983,497"
     },
     {
-      "order": 336,
+      "order": 327,
       "id": "entry-1075046",
       "label": "heading",
       "level": "3",
@@ -4035,7 +3927,7 @@
       "text": "621,554,119"
     },
     {
-      "order": 337,
+      "order": 328,
       "id": "entry-1075047",
       "label": "heading",
       "level": "3",
@@ -4047,7 +3939,7 @@
       "text": "621,554,119 4"
     },
     {
-      "order": 338,
+      "order": 329,
       "id": "entry-1075048",
       "label": "speech",
       "level": "3",
@@ -4059,7 +3951,7 @@
       "text": "Busia 738,972,659"
     },
     {
-      "order": 339,
+      "order": 330,
       "id": "entry-1075049",
       "label": "heading",
       "level": "3",
@@ -4071,7 +3963,7 @@
       "text": "801,409,679"
     },
     {
-      "order": 340,
+      "order": 331,
       "id": "entry-1075050",
       "label": "heading",
       "level": "3",
@@ -4083,7 +3975,7 @@
       "text": "587,042,718"
     },
     {
-      "order": 341,
+      "order": 332,
       "id": "entry-1075051",
       "label": "heading",
       "level": "3",
@@ -4095,7 +3987,7 @@
       "text": "587,042,718 5"
     },
     {
-      "order": 342,
+      "order": 333,
       "id": "entry-1075052",
       "label": "speech",
       "level": "3",
@@ -4107,7 +3999,7 @@
       "text": "Elgeyo/Marakwet 572,974,781"
     },
     {
-      "order": 343,
+      "order": 334,
       "id": "entry-1075053",
       "label": "heading",
       "level": "3",
@@ -4119,7 +4011,7 @@
       "text": "593,254,972"
     },
     {
-      "order": 344,
+      "order": 335,
       "id": "entry-1075054",
       "label": "heading",
       "level": "3",
@@ -4131,7 +4023,7 @@
       "text": "535,275,615"
     },
     {
-      "order": 345,
+      "order": 336,
       "id": "entry-1075055",
       "label": "heading",
       "level": "3",
@@ -4143,7 +4035,7 @@
       "text": "535,275,615 6"
     },
     {
-      "order": 346,
+      "order": 337,
       "id": "entry-1075056",
       "label": "speech",
       "level": "3",
@@ -4155,7 +4047,7 @@
       "text": "Embu 580,057,624"
     },
     {
-      "order": 347,
+      "order": 338,
       "id": "entry-1075057",
       "label": "heading",
       "level": "3",
@@ -4167,7 +4059,7 @@
       "text": "595,875,448"
     },
     {
-      "order": 348,
+      "order": 339,
       "id": "entry-1075058",
       "label": "heading",
       "level": "3",
@@ -4179,7 +4071,7 @@
       "text": "535,275,615"
     },
     {
-      "order": 349,
+      "order": 340,
       "id": "entry-1075059",
       "label": "heading",
       "level": "3",
@@ -4191,7 +4083,7 @@
       "text": "535,275,615 7"
     },
     {
-      "order": 350,
+      "order": 341,
       "id": "entry-1075060",
       "label": "speech",
       "level": "3",
@@ -4203,7 +4095,7 @@
       "text": "Garissa 758,771,695"
     },
     {
-      "order": 351,
+      "order": 342,
       "id": "entry-1075061",
       "label": "heading",
       "level": "3",
@@ -4215,7 +4107,7 @@
       "text": "829,101,968"
     },
     {
-      "order": 352,
+      "order": 343,
       "id": "entry-1075062",
       "label": "heading",
       "level": "3",
@@ -4227,7 +4119,7 @@
       "text": "569,787,017"
     },
     {
-      "order": 353,
+      "order": 344,
       "id": "entry-1075063",
       "label": "heading",
       "level": "3",
@@ -4239,7 +4131,7 @@
       "text": "569,787,017 8"
     },
     {
-      "order": 354,
+      "order": 345,
       "id": "entry-1075064",
       "label": "speech",
       "level": "3",
@@ -4251,7 +4143,7 @@
       "text": "Homa Bay 852,232,576"
     },
     {
-      "order": 355,
+      "order": 346,
       "id": "entry-1075065",
       "label": "heading",
       "level": "3",
@@ -4263,7 +4155,7 @@
       "text": "931,868,578"
     },
     {
-      "order": 356,
+      "order": 347,
       "id": "entry-1075066",
       "label": "heading",
       "level": "3",
@@ -4275,7 +4167,7 @@
       "text": "604,298,418"
     },
     {
-      "order": 357,
+      "order": 348,
       "id": "entry-1075067",
       "label": "heading",
       "level": "3",
@@ -4287,7 +4179,7 @@
       "text": "604,298,418 9"
     },
     {
-      "order": 358,
+      "order": 349,
       "id": "entry-1075068",
       "label": "speech",
       "level": "3",
@@ -4299,7 +4191,7 @@
       "text": "Isiolo 421,383,160"
     },
     {
-      "order": 359,
+      "order": 350,
       "id": "entry-1075069",
       "label": "heading",
       "level": "3",
@@ -4311,7 +4203,7 @@
       "text": "448,252,685"
     },
     {
-      "order": 360,
+      "order": 351,
       "id": "entry-1075070",
       "label": "heading",
       "level": "3",
@@ -4323,7 +4215,7 @@
       "text": "463,713,275"
     },
     {
-      "order": 361,
+      "order": 352,
       "id": "entry-1075071",
       "label": "heading",
       "level": "3",
@@ -4335,7 +4227,7 @@
       "text": "463,713,275 10"
     },
     {
-      "order": 362,
+      "order": 353,
       "id": "entry-1075072",
       "label": "speech",
       "level": "3",
@@ -4347,7 +4239,7 @@
       "text": "Kajiado 666,147,523"
     },
     {
-      "order": 363,
+      "order": 354,
       "id": "entry-1075073",
       "label": "heading",
       "level": "3",
@@ -4359,7 +4251,7 @@
       "text": "765,404,524"
     },
     {
-      "order": 364,
+      "order": 355,
       "id": "entry-1075074",
       "label": "heading",
       "level": "3",
@@ -4371,7 +4263,7 @@
       "text": "527,830,690"
     },
     {
-      "order": 365,
+      "order": 356,
       "id": "entry-1075075",
       "label": "heading",
       "level": "3",
@@ -4383,7 +4275,7 @@
       "text": "527,830,690 11"
     },
     {
-      "order": 366,
+      "order": 357,
       "id": "entry-1075076",
       "label": "speech",
       "level": "3",
@@ -4395,7 +4287,7 @@
       "text": "Kakamega 1,066,936,774"
     },
     {
-      "order": 367,
+      "order": 358,
       "id": "entry-1075077",
       "label": "heading",
       "level": "3",
@@ -4407,7 +4299,7 @@
       "text": "1,189,967,209"
     },
     {
-      "order": 368,
+      "order": 359,
       "id": "entry-1075078",
       "label": "heading",
       "level": "3",
@@ -4419,7 +4311,7 @@
       "text": "673,321,221"
     },
     {
-      "order": 369,
+      "order": 360,
       "id": "entry-1075079",
       "label": "heading",
       "level": "3",
@@ -4431,7 +4323,7 @@
       "text": "673,321,221 12"
     },
     {
-      "order": 370,
+      "order": 361,
       "id": "entry-1075080",
       "label": "speech",
       "level": "3",
@@ -4443,7 +4335,7 @@
       "text": "Kericho 692,058,978"
     },
     {
-      "order": 371,
+      "order": 362,
       "id": "entry-1075081",
       "label": "heading",
       "level": "3",
@@ -4455,7 +4347,7 @@
       "text": "728,813,928"
     },
     {
-      "order": 372,
+      "order": 363,
       "id": "entry-1075082",
       "label": "heading",
       "level": "3",
@@ -4467,7 +4359,7 @@
       "text": "569,787,017"
     },
     {
-      "order": 373,
+      "order": 364,
       "id": "entry-1075083",
       "label": "heading",
       "level": "3",
@@ -4479,7 +4371,7 @@
       "text": "569,787,017 13"
     },
     {
-      "order": 374,
+      "order": 365,
       "id": "entry-1075084",
       "label": "speech",
       "level": "3",
@@ -4491,7 +4383,7 @@
       "text": "Kiambu 1,085,527,936"
     },
     {
-      "order": 375,
+      "order": 366,
       "id": "entry-1075085",
       "label": "heading",
       "level": "3",
@@ -4503,7 +4395,7 @@
       "text": "1,206,180,907"
     },
     {
-      "order": 376,
+      "order": 367,
       "id": "entry-1075086",
       "label": "heading",
       "level": "3",
@@ -4515,7 +4407,7 @@
       "text": "673,321,221"
     },
     {
-      "order": 377,
+      "order": 368,
       "id": "entry-1075087",
       "label": "heading",
       "level": "3",
@@ -4527,7 +4419,7 @@
       "text": "673,321,221 14"
     },
     {
-      "order": 378,
+      "order": 369,
       "id": "entry-1075088",
       "label": "speech",
       "level": "3",
@@ -4539,7 +4431,7 @@
       "text": "Kilifi 756,635,440"
     },
     {
-      "order": 379,
+      "order": 370,
       "id": "entry-1075089",
       "label": "heading",
       "level": "3",
@@ -4551,7 +4443,7 @@
       "text": "797,062,541"
     },
     {
-      "order": 380,
+      "order": 371,
       "id": "entry-1075090",
       "label": "heading",
       "level": "3",
@@ -4563,7 +4455,7 @@
       "text": "587,042,718"
     },
     {
-      "order": 381,
+      "order": 372,
       "id": "entry-1075091",
       "label": "heading",
       "level": "3",
@@ -4575,7 +4467,7 @@
       "text": "587,042,718 15"
     },
     {
-      "order": 382,
+      "order": 373,
       "id": "entry-1075092",
       "label": "speech",
       "level": "3",
@@ -4587,7 +4479,7 @@
       "text": "Kirinyaga 569,393,333"
     },
     {
-      "order": 383,
+      "order": 374,
       "id": "entry-1075093",
       "label": "heading",
       "level": "3",
@@ -4599,7 +4491,7 @@
       "text": "634,065,925"
     },
     {
-      "order": 384,
+      "order": 375,
       "id": "entry-1075094",
       "label": "heading",
       "level": "3",
@@ -4611,7 +4503,7 @@
       "text": "522,925,302"
     },
     {
-      "order": 385,
+      "order": 376,
       "id": "entry-1075095",
       "label": "heading",
       "level": "3",
@@ -4623,7 +4515,7 @@
       "text": "522,925,302 16"
     },
     {
-      "order": 386,
+      "order": 377,
       "id": "entry-1075096",
       "label": "speech",
       "level": "3",
@@ -4635,7 +4527,7 @@
       "text": "Kisii 919,508,597"
     },
     {
-      "order": 387,
+      "order": 378,
       "id": "entry-1075097",
       "label": "heading",
       "level": "3",
@@ -4647,7 +4539,7 @@
       "text": "990,572,876"
     },
     {
-      "order": 388,
+      "order": 379,
       "id": "entry-1075098",
       "label": "heading",
       "level": "3",
@@ -4659,7 +4551,7 @@
       "text": "621,554,119"
     },
     {
-      "order": 389,
+      "order": 380,
       "id": "entry-1075099",
       "label": "heading",
       "level": "3",
@@ -4671,7 +4563,7 @@
       "text": "621,554,119 17"
     },
     {
-      "order": 390,
+      "order": 381,
       "id": "entry-1075100",
       "label": "speech",
       "level": "3",
@@ -4683,7 +4575,7 @@
       "text": "Kisumu 701,921,494"
     },
     {
-      "order": 391,
+      "order": 382,
       "id": "entry-1075101",
       "label": "heading",
       "level": "3",
@@ -4695,7 +4587,7 @@
       "text": "745,033,801"
     },
     {
-      "order": 392,
+      "order": 383,
       "id": "entry-1075102",
       "label": "heading",
       "level": "3",
@@ -4707,7 +4599,7 @@
       "text": "587,042,718"
     },
     {
-      "order": 393,
+      "order": 384,
       "id": "entry-1075103",
       "label": "heading",
       "level": "3",
@@ -4719,7 +4611,7 @@
       "text": "587,042,718 18"
     },
     {
-      "order": 394,
+      "order": 385,
       "id": "entry-1075104",
       "label": "speech",
       "level": "3",
@@ -4731,7 +4623,7 @@
       "text": "Kitui 836,025,472"
     },
     {
-      "order": 395,
+      "order": 386,
       "id": "entry-1075105",
       "label": "heading",
       "level": "3",
@@ -4743,7 +4635,7 @@
       "text": "886,616,229"
     },
     {
-      "order": 396,
+      "order": 387,
       "id": "entry-1075106",
       "label": "heading",
       "level": "3",
@@ -4755,7 +4647,7 @@
       "text": "604,298,418"
     },
     {
-      "order": 397,
+      "order": 388,
       "id": "entry-1075107",
       "label": "heading",
       "level": "3",
@@ -4767,7 +4659,7 @@
       "text": "604,298,418 19"
     },
     {
-      "order": 398,
+      "order": 389,
       "id": "entry-1075108",
       "label": "speech",
       "level": "3",
@@ -4779,7 +4671,7 @@
       "text": "Kwale 591,895,413"
     },
     {
-      "order": 399,
+      "order": 390,
       "id": "entry-1075109",
       "label": "heading",
       "level": "3",
@@ -4791,7 +4683,7 @@
       "text": "618,445,792"
     },
     {
-      "order": 400,
+      "order": 391,
       "id": "entry-1075110",
       "label": "heading",
       "level": "3",
@@ -4803,7 +4695,7 @@
       "text": "535,275,615"
     },
     {
-      "order": 401,
+      "order": 392,
       "id": "entry-1075111",
       "label": "heading",
       "level": "3",
@@ -4815,7 +4707,7 @@
       "text": "535,275,615 20"
     },
     {
-      "order": 402,
+      "order": 393,
       "id": "entry-1075112",
       "label": "speech",
       "level": "3",
@@ -4827,7 +4719,7 @@
       "text": "Laikipia 452,388,054"
     },
     {
-      "order": 403,
+      "order": 394,
       "id": "entry-1075113",
       "label": "heading",
       "level": "3",
@@ -4839,7 +4731,7 @@
       "text": "470,108,195"
     },
     {
-      "order": 404,
+      "order": 395,
       "id": "entry-1075114",
       "label": "heading",
       "level": "3",
@@ -4851,7 +4743,7 @@
       "text": "493,319,288"
     },
     {
-      "order": 405,
+      "order": 396,
       "id": "entry-1075115",
       "label": "heading",
       "level": "3",
@@ -4863,7 +4755,7 @@
       "text": "493,319,288 21"
     },
     {
-      "order": 406,
+      "order": 397,
       "id": "entry-1075116",
       "label": "speech",
       "level": "3",
@@ -4875,7 +4767,7 @@
       "text": "Lamu 405,697,936"
     },
     {
-      "order": 407,
+      "order": 398,
       "id": "entry-1075117",
       "label": "heading",
       "level": "3",
@@ -4887,7 +4779,7 @@
       "text": "418,152,304"
     },
     {
-      "order": 408,
+      "order": 399,
       "id": "entry-1075118",
       "label": "heading",
       "level": "3",
@@ -4899,7 +4791,7 @@
       "text": "463,713,275"
     },
     {
-      "order": 409,
+      "order": 400,
       "id": "entry-1075119",
       "label": "heading",
       "level": "3",
@@ -4911,7 +4803,7 @@
       "text": "463,713,275 22"
     },
     {
-      "order": 410,
+      "order": 401,
       "id": "entry-1075120",
       "label": "speech",
       "level": "3",
@@ -4923,7 +4815,7 @@
       "text": "Machakos 841,145,156"
     },
     {
-      "order": 411,
+      "order": 402,
       "id": "entry-1075121",
       "label": "heading",
       "level": "3",
@@ -4935,7 +4827,7 @@
       "text": "907,790,391"
     },
     {
-      "order": 412,
+      "order": 403,
       "id": "entry-1075122",
       "label": "heading",
       "level": "3",
@@ -4947,7 +4839,7 @@
       "text": "604,298,418"
     },
     {
-      "order": 413,
+      "order": 404,
       "id": "entry-1075123",
       "label": "heading",
       "level": "3",
@@ -4959,7 +4851,7 @@
       "text": "604,298,418 23"
     },
     {
-      "order": 414,
+      "order": 405,
       "id": "entry-1075124",
       "label": "speech",
       "level": "3",
@@ -4971,7 +4863,7 @@
       "text": "Makueni 703,984,829"
     },
     {
-      "order": 415,
+      "order": 406,
       "id": "entry-1075125",
       "label": "heading",
       "level": "3",
@@ -4983,7 +4875,7 @@
       "text": "756,641,539"
     },
     {
-      "order": 416,
+      "order": 407,
       "id": "entry-1075126",
       "label": "heading",
       "level": "3",
@@ -4995,7 +4887,7 @@
       "text": "569,787,017"
     },
     {
-      "order": 417,
+      "order": 408,
       "id": "entry-1075127",
       "label": "heading",
       "level": "3",
@@ -5007,7 +4899,7 @@
       "text": "569,787,017 24"
     },
     {
-      "order": 418,
+      "order": 409,
       "id": "entry-1075128",
       "label": "speech",
       "level": "3",
@@ -5019,7 +4911,7 @@
       "text": "Mandera 726,834,897"
     },
     {
-      "order": 419,
+      "order": 410,
       "id": "entry-1075129",
       "label": "heading",
       "level": "3",
@@ -5031,7 +4923,7 @@
       "text": "811,048,184"
     },
     {
-      "order": 420,
+      "order": 411,
       "id": "entry-1075130",
       "label": "heading",
       "level": "3",
@@ -5043,7 +4935,7 @@
       "text": "578,963,987"
     },
     {
-      "order": 421,
+      "order": 412,
       "id": "entry-1075131",
       "label": "heading",
       "level": "3",
@@ -5055,7 +4947,7 @@
       "text": "578,963,987"
     },
     {
-      "order": 422,
+      "order": 413,
       "id": "entry-1075133",
       "label": "heading",
       "level": "3",
@@ -5067,7 +4959,7 @@
       "text": "25"
     },
     {
-      "order": 423,
+      "order": 414,
       "id": "entry-1075134",
       "label": "speech",
       "level": "3",
@@ -5079,7 +4971,7 @@
       "text": "Marsabit 640,182,991"
     },
     {
-      "order": 424,
+      "order": 415,
       "id": "entry-1075135",
       "label": "heading",
       "level": "3",
@@ -5091,7 +4983,7 @@
       "text": "715,654,362"
     },
     {
-      "order": 425,
+      "order": 416,
       "id": "entry-1075136",
       "label": "heading",
       "level": "3",
@@ -5103,7 +4995,7 @@
       "text": "535,275,615"
     },
     {
-      "order": 426,
+      "order": 417,
       "id": "entry-1075137",
       "label": "heading",
       "level": "3",
@@ -5115,7 +5007,7 @@
       "text": "535,275,615 26"
     },
     {
-      "order": 427,
+      "order": 418,
       "id": "entry-1075138",
       "label": "speech",
       "level": "3",
@@ -5127,7 +5019,7 @@
       "text": "Meru 914,997,229"
     },
     {
-      "order": 428,
+      "order": 419,
       "id": "entry-1075139",
       "label": "heading",
       "level": "3",
@@ -5139,7 +5031,7 @@
       "text": "988,437,598"
     },
     {
-      "order": 429,
+      "order": 420,
       "id": "entry-1075140",
       "label": "heading",
       "level": "3",
@@ -5151,7 +5043,7 @@
       "text": "621,554,119"
     },
     {
-      "order": 430,
+      "order": 421,
       "id": "entry-1075141",
       "label": "heading",
       "level": "3",
@@ -5163,7 +5055,7 @@
       "text": "621,554,119 27"
     },
     {
-      "order": 431,
+      "order": 422,
       "id": "entry-1075142",
       "label": "speech",
       "level": "3",
@@ -5175,7 +5067,7 @@
       "text": "Migori 836,834,225"
     },
     {
-      "order": 432,
+      "order": 423,
       "id": "entry-1075143",
       "label": "heading",
       "level": "3",
@@ -5187,7 +5079,7 @@
       "text": "863,486,098"
     },
     {
-      "order": 433,
+      "order": 424,
       "id": "entry-1075144",
       "label": "heading",
       "level": "3",
@@ -5199,7 +5091,7 @@
       "text": "604,298,418"
     },
     {
-      "order": 434,
+      "order": 425,
       "id": "entry-1075145",
       "label": "heading",
       "level": "3",
@@ -5211,7 +5103,7 @@
       "text": "604,298,418 28"
     },
     {
-      "order": 435,
+      "order": 426,
       "id": "entry-1075146",
       "label": "speech",
       "level": "3",
@@ -5223,7 +5115,7 @@
       "text": "Mombasa 658,609,194"
     },
     {
-      "order": 436,
+      "order": 427,
       "id": "entry-1075147",
       "label": "heading",
       "level": "3",
@@ -5235,7 +5127,7 @@
       "text": "679,254,392"
     },
     {
-      "order": 437,
+      "order": 428,
       "id": "entry-1075148",
       "label": "heading",
       "level": "3",
@@ -5247,7 +5139,7 @@
       "text": "569,787,017"
     },
     {
-      "order": 438,
+      "order": 429,
       "id": "entry-1075149",
       "label": "heading",
       "level": "3",
@@ -5259,7 +5151,7 @@
       "text": "569,787,017 29"
     },
     {
-      "order": 439,
+      "order": 430,
       "id": "entry-1075150",
       "label": "speech",
       "level": "3",
@@ -5271,7 +5163,7 @@
       "text": "Murang'a 735,143,240"
     },
     {
-      "order": 440,
+      "order": 431,
       "id": "entry-1075151",
       "label": "heading",
       "level": "3",
@@ -5283,7 +5175,7 @@
       "text": "761,307,014"
     },
     {
-      "order": 441,
+      "order": 432,
       "id": "entry-1075152",
       "label": "heading",
       "level": "3",
@@ -5295,7 +5187,7 @@
       "text": "587,042,718"
     },
     {
-      "order": 442,
+      "order": 433,
       "id": "entry-1075153",
       "label": "heading",
       "level": "3",
@@ -5307,7 +5199,7 @@
       "text": "587,042,718 30"
     },
     {
-      "order": 443,
+      "order": 434,
       "id": "entry-1075154",
       "label": "speech",
       "level": "3",
@@ -5319,7 +5211,7 @@
       "text": "Nairobi City 1,409,977,879"
     },
     {
-      "order": 444,
+      "order": 435,
       "id": "entry-1075155",
       "label": "heading",
       "level": "3",
@@ -5331,7 +5223,7 @@
       "text": "1,545,872,087"
     },
     {
-      "order": 445,
+      "order": 436,
       "id": "entry-1075156",
       "label": "heading",
       "level": "3",
@@ -5343,7 +5235,7 @@
       "text": "759,599,725"
     },
     {
-      "order": 446,
+      "order": 437,
       "id": "entry-1075157",
       "label": "heading",
       "level": "3",
@@ -5355,7 +5247,7 @@
       "text": "759,599,725 31"
     },
     {
-      "order": 447,
+      "order": 438,
       "id": "entry-1075158",
       "label": "speech",
       "level": "3",
@@ -5367,7 +5259,7 @@
       "text": "Nakuru 983,219,236"
     },
     {
-      "order": 448,
+      "order": 439,
       "id": "entry-1075159",
       "label": "heading",
       "level": "3",
@@ -5379,7 +5271,7 @@
       "text": "1,049,146,986"
     },
     {
-      "order": 449,
+      "order": 440,
       "id": "entry-1075160",
       "label": "heading",
       "level": "3",
@@ -5391,7 +5283,7 @@
       "text": "656,065,520"
     },
     {
-      "order": 450,
+      "order": 441,
       "id": "entry-1075161",
       "label": "heading",
       "level": "3",
@@ -5403,7 +5295,7 @@
       "text": "656,065,520 32"
     },
     {
-      "order": 451,
+      "order": 442,
       "id": "entry-1075162",
       "label": "speech",
       "level": "3",
@@ -5415,7 +5307,7 @@
       "text": "Nandi 649,760,252"
     },
     {
-      "order": 452,
+      "order": 443,
       "id": "entry-1075163",
       "label": "heading",
       "level": "3",
@@ -5427,7 +5319,7 @@
       "text": "669,452,972"
     },
     {
-      "order": 453,
+      "order": 444,
       "id": "entry-1075164",
       "label": "heading",
       "level": "3",
@@ -5439,7 +5331,7 @@
       "text": "569,787,017"
     },
     {
-      "order": 454,
+      "order": 445,
       "id": "entry-1075165",
       "label": "heading",
       "level": "3",
@@ -5451,7 +5343,7 @@
       "text": "569,787,017 33"
     },
     {
-      "order": 455,
+      "order": 446,
       "id": "entry-1075166",
       "label": "speech",
       "level": "3",
@@ -5463,7 +5355,7 @@
       "text": "Narok 709,598,198"
     },
     {
-      "order": 456,
+      "order": 447,
       "id": "entry-1075167",
       "label": "heading",
       "level": "3",
@@ -5475,7 +5367,7 @@
       "text": "769,346,518"
     },
     {
-      "order": 457,
+      "order": 448,
       "id": "entry-1075168",
       "label": "heading",
       "level": "3",
@@ -5487,7 +5379,7 @@
       "text": "569,787,017"
     },
     {
-      "order": 458,
+      "order": 449,
       "id": "entry-1075169",
       "label": "heading",
       "level": "3",
@@ -5499,7 +5391,7 @@
       "text": "569,787,017 34"
     },
     {
-      "order": 459,
+      "order": 450,
       "id": "entry-1075170",
       "label": "speech",
       "level": "3",
@@ -5511,7 +5403,7 @@
       "text": "Nyamira 596,107,510"
     },
     {
-      "order": 460,
+      "order": 451,
       "id": "entry-1075171",
       "label": "heading",
       "level": "3",
@@ -5523,7 +5415,7 @@
       "text": "612,444,433"
     },
     {
-      "order": 461,
+      "order": 452,
       "id": "entry-1075172",
       "label": "heading",
       "level": "3",
@@ -5535,7 +5427,7 @@
       "text": "535,275,615"
     },
     {
-      "order": 462,
+      "order": 453,
       "id": "entry-1075173",
       "label": "heading",
       "level": "3",
@@ -5547,7 +5439,7 @@
       "text": "535,275,615 35"
     },
     {
-      "order": 463,
+      "order": 454,
       "id": "entry-1075174",
       "label": "speech",
       "level": "3",
@@ -5559,7 +5451,7 @@
       "text": "Nyandarua 633,970,935"
     },
     {
-      "order": 464,
+      "order": 455,
       "id": "entry-1075175",
       "label": "heading",
       "level": "3",
@@ -5571,7 +5463,7 @@
       "text": "664,643,697"
     },
     {
-      "order": 465,
+      "order": 456,
       "id": "entry-1075176",
       "label": "heading",
       "level": "3",
@@ -5583,7 +5475,7 @@
       "text": "552,531,315"
     },
     {
-      "order": 466,
+      "order": 457,
       "id": "entry-1075177",
       "label": "heading",
       "level": "3",
@@ -5595,7 +5487,7 @@
       "text": "552,531,315 36"
     },
     {
-      "order": 467,
+      "order": 458,
       "id": "entry-1075178",
       "label": "speech",
       "level": "3",
@@ -5607,7 +5499,7 @@
       "text": "Nyeri 676,085,232"
     },
     {
-      "order": 468,
+      "order": 459,
       "id": "entry-1075179",
       "label": "heading",
       "level": "3",
@@ -5619,7 +5511,7 @@
       "text": "717,305,285"
     },
     {
-      "order": 469,
+      "order": 460,
       "id": "entry-1075180",
       "label": "heading",
       "level": "3",
@@ -5631,7 +5523,7 @@
       "text": "569,787,017"
     },
     {
-      "order": 470,
+      "order": 461,
       "id": "entry-1075181",
       "label": "heading",
       "level": "3",
@@ -5643,7 +5535,7 @@
       "text": "569,787,017 37"
     },
     {
-      "order": 471,
+      "order": 462,
       "id": "entry-1075182",
       "label": "speech",
       "level": "3",
@@ -5655,7 +5547,7 @@
       "text": "Samburu 490,297,034"
     },
     {
-      "order": 472,
+      "order": 463,
       "id": "entry-1075183",
       "label": "heading",
       "level": "3",
@@ -5667,7 +5559,7 @@
       "text": "518,009,214"
     },
     {
-      "order": 473,
+      "order": 464,
       "id": "entry-1075184",
       "label": "heading",
       "level": "3",
@@ -5679,7 +5571,7 @@
       "text": "480,968,975"
     },
     {
-      "order": 474,
+      "order": 465,
       "id": "entry-1075185",
       "label": "heading",
       "level": "3",
@@ -5691,7 +5583,7 @@
       "text": "480,968,975 38"
     },
     {
-      "order": 475,
+      "order": 466,
       "id": "entry-1075186",
       "label": "speech",
       "level": "3",
@@ -5703,7 +5595,7 @@
       "text": "Siaya 666,308,584"
     },
     {
-      "order": 476,
+      "order": 467,
       "id": "entry-1075187",
       "label": "heading",
       "level": "3",
@@ -5715,7 +5607,7 @@
       "text": "686,651,724"
     },
     {
-      "order": 477,
+      "order": 468,
       "id": "entry-1075188",
       "label": "heading",
       "level": "3",
@@ -5727,7 +5619,7 @@
       "text": "569,787,017"
     },
     {
-      "order": 478,
+      "order": 469,
       "id": "entry-1075189",
       "label": "heading",
       "level": "3",
@@ -5739,7 +5631,7 @@
       "text": "569,787,017 39"
     },
     {
-      "order": 479,
+      "order": 470,
       "id": "entry-1075190",
       "label": "speech",
       "level": "3",
@@ -5751,7 +5643,7 @@
       "text": "Taita/Taveta 601,130,595"
     },
     {
-      "order": 480,
+      "order": 471,
       "id": "entry-1075191",
       "label": "heading",
       "level": "3",
@@ -5763,7 +5655,7 @@
       "text": "631,282,421"
     },
     {
-      "order": 481,
+      "order": 472,
       "id": "entry-1075192",
       "label": "heading",
       "level": "3",
@@ -5775,7 +5667,7 @@
       "text": "535,275,615"
     },
     {
-      "order": 482,
+      "order": 473,
       "id": "entry-1075193",
       "label": "heading",
       "level": "3",
@@ -5787,7 +5679,7 @@
       "text": "535,275,615 40"
     },
     {
-      "order": 483,
+      "order": 474,
       "id": "entry-1075194",
       "label": "speech",
       "level": "3",
@@ -5799,7 +5691,7 @@
       "text": "Tana River 486,497,243"
     },
     {
-      "order": 484,
+      "order": 475,
       "id": "entry-1075195",
       "label": "heading",
       "level": "3",
@@ -5811,7 +5703,7 @@
       "text": "588,396,752"
     },
     {
-      "order": 485,
+      "order": 476,
       "id": "entry-1075196",
       "label": "heading",
       "level": "3",
@@ -5823,7 +5715,7 @@
       "text": "505,669,601"
     },
     {
-      "order": 486,
+      "order": 477,
       "id": "entry-1075197",
       "label": "heading",
       "level": "3",
@@ -5835,7 +5727,7 @@
       "text": "505,669,601 41"
     },
     {
-      "order": 487,
+      "order": 478,
       "id": "entry-1075198",
       "label": "speech",
       "level": "3",
@@ -5847,7 +5739,7 @@
       "text": "Tharaka -Nithi 423,104,928"
     },
     {
-      "order": 488,
+      "order": 479,
       "id": "entry-1075199",
       "label": "heading",
       "level": "3",
@@ -5859,7 +5751,7 @@
       "text": "455,222,064"
     },
     {
-      "order": 489,
+      "order": 480,
       "id": "entry-1075200",
       "label": "heading",
       "level": "3",
@@ -5871,7 +5763,7 @@
       "text": "493,319,288"
     },
     {
-      "order": 490,
+      "order": 481,
       "id": "entry-1075201",
       "label": "heading",
       "level": "3",
@@ -5883,7 +5775,7 @@
       "text": "493,319,288 42"
     },
     {
-      "order": 491,
+      "order": 482,
       "id": "entry-1075202",
       "label": "speech",
       "level": "3",
@@ -5895,7 +5787,7 @@
       "text": "Trans Nzoia 628,139,110"
     },
     {
-      "order": 492,
+      "order": 483,
       "id": "entry-1075203",
       "label": "heading",
       "level": "3",
@@ -5907,7 +5799,7 @@
       "text": "676,650,593"
     },
     {
-      "order": 493,
+      "order": 484,
       "id": "entry-1075204",
       "label": "heading",
       "level": "3",
@@ -5919,7 +5811,7 @@
       "text": "552,531,315"
     },
     {
-      "order": 494,
+      "order": 485,
       "id": "entry-1075205",
       "label": "heading",
       "level": "3",
@@ -5931,7 +5823,7 @@
       "text": "552,531,315 43"
     },
     {
-      "order": 495,
+      "order": 486,
       "id": "entry-1075206",
       "label": "speech",
       "level": "3",
@@ -5943,7 +5835,7 @@
       "text": "Turkana 767,192,392"
     },
     {
-      "order": 496,
+      "order": 487,
       "id": "entry-1075207",
       "label": "heading",
       "level": "3",
@@ -5955,7 +5847,7 @@
       "text": "821,950,164"
     },
     {
-      "order": 497,
+      "order": 488,
       "id": "entry-1075208",
       "label": "heading",
       "level": "3",
@@ -5967,7 +5859,7 @@
       "text": "569,787,017"
     },
     {
-      "order": 498,
+      "order": 489,
       "id": "entry-1075209",
       "label": "heading",
       "level": "3",
@@ -5979,7 +5871,7 @@
       "text": "569,787,017 44"
     },
     {
-      "order": 499,
+      "order": 490,
       "id": "entry-1075210",
       "label": "speech",
       "level": "3",
@@ -5991,7 +5883,7 @@
       "text": "Uasin Gishu 686,014,946"
     },
     {
-      "order": 500,
+      "order": 491,
       "id": "entry-1075211",
       "label": "heading",
       "level": "3",
@@ -6003,7 +5895,7 @@
       "text": "707,791,808"
     },
     {
-      "order": 501,
+      "order": 492,
       "id": "entry-1075212",
       "label": "heading",
       "level": "3",
@@ -6015,7 +5907,7 @@
       "text": "569,787,017"
     },
     {
-      "order": 502,
+      "order": 493,
       "id": "entry-1075213",
       "label": "heading",
       "level": "3",
@@ -6027,7 +5919,7 @@
       "text": "569,787,017 45"
     },
     {
-      "order": 503,
+      "order": 494,
       "id": "entry-1075214",
       "label": "speech",
       "level": "3",
@@ -6039,7 +5931,7 @@
       "text": "Vihiga 621,955,167"
     },
     {
-      "order": 504,
+      "order": 495,
       "id": "entry-1075215",
       "label": "heading",
       "level": "3",
@@ -6051,7 +5943,7 @@
       "text": "659,609,764"
     },
     {
-      "order": 505,
+      "order": 496,
       "id": "entry-1075216",
       "label": "heading",
       "level": "3",
@@ -6063,7 +5955,7 @@
       "text": "552,531,315"
     },
     {
-      "order": 506,
+      "order": 497,
       "id": "entry-1075217",
       "label": "heading",
       "level": "3",
@@ -6075,7 +5967,7 @@
       "text": "552,531,315"
     },
     {
-      "order": 507,
+      "order": 498,
       "id": "entry-1075218",
       "label": "scene",
       "level": "3",
@@ -6087,7 +5979,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 508,
+      "order": 499,
       "id": "entry-1075219",
       "label": "speech",
       "level": "3",
@@ -6099,7 +5991,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 509,
+      "order": 500,
       "id": "entry-1075220",
       "label": "heading",
       "level": "5",
@@ -6111,7 +6003,7 @@
       "text": "Clause 2, the Title and Clause 1"
     },
     {
-      "order": 510,
+      "order": 501,
       "id": "entry-1075221",
       "label": "scene",
       "level": "5",
@@ -6123,7 +6015,7 @@
       "text": "(Question that Clause 2, the Title and Clause 1 be part of the Bill proposed)"
     },
     {
-      "order": 511,
+      "order": 502,
       "id": "entry-1075222",
       "label": "speech",
       "level": "5",
@@ -6135,7 +6027,7 @@
       "text": "The Division will be at the end. Hon Senators, we are now going into divisions. Can the Division Bell be rung for two minutes?"
     },
     {
-      "order": 512,
+      "order": 503,
       "id": "entry-1075223",
       "label": "scene",
       "level": "5",
@@ -6147,7 +6039,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 513,
+      "order": 504,
       "id": "entry-1075224",
       "label": "speech",
       "level": "5",
@@ -6159,7 +6051,7 @@
       "text": "We still do not have quorum. Can we ring the Division Bell for another five minutes please?"
     },
     {
-      "order": 514,
+      "order": 505,
       "id": "entry-1075225",
       "label": "scene",
       "level": "5",
@@ -6171,7 +6063,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 515,
+      "order": 506,
       "id": "entry-1075227",
       "label": "speech",
       "level": "5",
@@ -6183,7 +6075,7 @@
       "text": "Can the Division Bell be rung for another two minutes."
     },
     {
-      "order": 516,
+      "order": 507,
       "id": "entry-1075228",
       "label": "scene",
       "level": "5",
@@ -6195,7 +6087,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 517,
+      "order": 508,
       "id": "entry-1075229",
       "label": "speech",
       "level": "5",
@@ -6207,7 +6099,7 @@
       "text": "We now have quorum. You can stop the Division Bell. Hon. Senators, we are going to do three Divisions and we will take them at once. So, if you are voting, you have to vote three times for whatever way you want to vote. The first one is for the New Clause. The second one is for the Clauses with amendments. The third one is for all the Clauses. Hon. Senators, you have to indicate how you are voting. We are going to have three divisions. I have already explained that. Can the tellers; Sen. Outa and Sen. Kibiru, come forward? We are taking three votes so you will respond on the three. Hon. Senators, I will now put the questions."
     },
     {
-      "order": 518,
+      "order": 509,
       "id": "entry-1075230",
       "label": "scene",
       "level": "5",
@@ -6219,7 +6111,7 @@
       "text": "(Questions put and the Senators proceeded to vote)"
     },
     {
-      "order": 519,
+      "order": 510,
       "id": "entry-1075231",
       "label": "scene",
       "level": "5",
@@ -6231,7 +6123,7 @@
       "text": "(Roll call voting in progress)"
     },
     {
-      "order": 520,
+      "order": 511,
       "id": "entry-1075232",
       "label": "scene",
       "level": "5",
@@ -6243,7 +6135,7 @@
       "text": "(Several Senators consulted loudly)"
     },
     {
-      "order": 521,
+      "order": 512,
       "id": "entry-1075233",
       "label": "speech",
       "level": "5",
@@ -6255,7 +6147,7 @@
       "text": "Hon. Senators, can we have some order? Order!"
     },
     {
-      "order": 522,
+      "order": 513,
       "id": "entry-1075234",
       "label": "scene",
       "level": "5",
@@ -6267,7 +6159,7 @@
       "text": "(Roll call voting in progress)"
     },
     {
-      "order": 523,
+      "order": 514,
       "id": "entry-1075235",
       "label": "speech",
       "level": "5",
@@ -6279,7 +6171,7 @@
       "text": "Hon. Senators, we agreed that you vote for the three. Do not vote for one. We have three divisions."
     },
     {
-      "order": 524,
+      "order": 515,
       "id": "entry-1075236",
       "label": "heading",
       "level": "3",
@@ -6291,7 +6183,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 525,
+      "order": 516,
       "id": "entry-1075238",
       "label": "scene",
       "level": "3",
@@ -6303,7 +6195,7 @@
       "text": "(Question, that New Clause 11 be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 526,
+      "order": 517,
       "id": "entry-1075239",
       "label": "other",
       "level": "3",
@@ -6315,7 +6207,7 @@
       "text": "AYES:"
     },
     {
-      "order": 527,
+      "order": 518,
       "id": "entry-1075240",
       "label": "other",
       "level": "3",
@@ -6327,7 +6219,7 @@
       "text": "Sen. Abdul M. Haji, Garissa County; Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kavindu Muthama, Machakos County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Lang'at, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. M. Kajwang', Homa Bay County; Sen. (Eng.) Mahamud,"
     },
     {
-      "order": 528,
+      "order": 519,
       "id": "entry-1075242",
       "label": "other",
       "level": "3",
@@ -6339,7 +6231,7 @@
       "text": "Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Moi, Baringo County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Ndwiga, Embu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County, and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 529,
+      "order": 520,
       "id": "entry-1075243",
       "label": "speech",
       "level": "3",
@@ -6348,22 +6240,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kibiru.\n\nNOES"
+      "text": "Sen. Kibiru.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 530,
-      "id": "entry-1075245",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 531,
+      "order": 521,
       "id": "entry-1075246",
       "label": "speech",
       "level": "3",
@@ -6372,22 +6252,10 @@
       "speaker": "Teller of the Noes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Outa\n\nABSENTIONS:"
+      "text": "Sen. Outa\n\nABSENTIONS:\n\nNil"
     },
     {
-      "order": 532,
-      "id": "entry-1075248",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Noes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 533,
+      "order": 522,
       "id": "entry-1075249",
       "label": "speech",
       "level": "3",
@@ -6399,7 +6267,7 @@
       "text": "Hon. Senators, Order. Order, Please. I wish to announce results as follows-\n\nAYES\n\n: 39\n\nNOES"
     },
     {
-      "order": 534,
+      "order": 523,
       "id": "entry-1075253",
       "label": "speech",
       "level": "3",
@@ -6411,7 +6279,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 535,
+      "order": 524,
       "id": "entry-1075255",
       "label": "speech",
       "level": "3",
@@ -6423,7 +6291,7 @@
       "text": ": Nil \"The Ayes have it\""
     },
     {
-      "order": 536,
+      "order": 525,
       "id": "entry-1075256",
       "label": "scene",
       "level": "3",
@@ -6435,7 +6303,7 @@
       "text": "(Question carried by 39 votes to Nil)"
     },
     {
-      "order": 537,
+      "order": 526,
       "id": "entry-1075257",
       "label": "heading",
       "level": "3",
@@ -6447,7 +6315,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 538,
+      "order": 527,
       "id": "entry-1075259",
       "label": "scene",
       "level": "3",
@@ -6459,7 +6327,7 @@
       "text": "(Question, that Clauses 5 and 6, and the Second Schedule be amended as proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 539,
+      "order": 528,
       "id": "entry-1075260",
       "label": "other",
       "level": "3",
@@ -6471,7 +6339,7 @@
       "text": "AYES:"
     },
     {
-      "order": 540,
+      "order": 529,
       "id": "entry-1075261",
       "label": "other",
       "level": "3",
@@ -6483,7 +6351,7 @@
       "text": "Sen. Abdul M. Haji, Garissa County; Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kavindu Muthama, Machakos County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. M. Kajwang', Homa Bay County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Moi, Baringo County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Ndwiga, Embu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County; and Sen. Wetangula, Bungoma County;"
     },
     {
-      "order": 541,
+      "order": 530,
       "id": "entry-1075264",
       "label": "speech",
       "level": "3",
@@ -6492,22 +6360,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kibiru.\n\nNOES"
+      "text": "Sen. Kibiru.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 542,
-      "id": "entry-1075267",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 543,
+      "order": 531,
       "id": "entry-1075268",
       "label": "speech",
       "level": "3",
@@ -6516,22 +6372,10 @@
       "speaker": "Teller of the Noes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Outa\n\nABSENTIONS:"
+      "text": "Sen. Outa\n\nABSENTIONS:\n\nNil"
     },
     {
-      "order": 544,
-      "id": "entry-1075270",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Noes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 545,
+      "order": 532,
       "id": "entry-1075271",
       "label": "speech",
       "level": "3",
@@ -6543,7 +6387,7 @@
       "text": "Hon. Senators, division two-\n\nAYES\n\n: 39\n\nNOES"
     },
     {
-      "order": 546,
+      "order": 533,
       "id": "entry-1075275",
       "label": "speech",
       "level": "3",
@@ -6555,7 +6399,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 547,
+      "order": 534,
       "id": "entry-1075277",
       "label": "speech",
       "level": "3",
@@ -6567,7 +6411,7 @@
       "text": ": Nil \"The Ayes have it\""
     },
     {
-      "order": 548,
+      "order": 535,
       "id": "entry-1075278",
       "label": "scene",
       "level": "3",
@@ -6579,7 +6423,7 @@
       "text": "(Question carried by 39 votes to Nil)"
     },
     {
-      "order": 549,
+      "order": 536,
       "id": "entry-1075279",
       "label": "heading",
       "level": "3",
@@ -6591,7 +6435,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 550,
+      "order": 537,
       "id": "entry-1075281",
       "label": "scene",
       "level": "3",
@@ -6603,7 +6447,7 @@
       "text": "(Question, that Clauses 3, 4, 5 (as amended), 6 (as amended), 7, 8, 9 and 10, New Clauses 11, the First Schedule, the Second Schedule (as amended), Clause 2, the Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 551,
+      "order": 538,
       "id": "entry-1075282",
       "label": "other",
       "level": "3",
@@ -6615,7 +6459,7 @@
       "text": "AYES:"
     },
     {
-      "order": 552,
+      "order": 539,
       "id": "entry-1075283",
       "label": "other",
       "level": "3",
@@ -6627,7 +6471,7 @@
       "text": "Sen. Abdul M. Haji, Garissa County; Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kavindu Muthama, Machakos County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. M. Kajwang', Homa Bay County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Moi, Baringo County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Ndwiga, Embu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County; Sen. Wetangula, Bungoma County;"
     },
     {
-      "order": 553,
+      "order": 540,
       "id": "entry-1075286",
       "label": "speech",
       "level": "3",
@@ -6636,22 +6480,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kibiru.\n\nNOES"
+      "text": "Sen. Kibiru.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 554,
-      "id": "entry-1075288",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 555,
+      "order": 541,
       "id": "entry-1075289",
       "label": "speech",
       "level": "3",
@@ -6660,22 +6492,10 @@
       "speaker": "Teller of the Noes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Outa\n\nABSTENTIONS:"
+      "text": "Sen. Outa\n\nABSTENTIONS:\n\nNil"
     },
     {
-      "order": 556,
-      "id": "entry-1075291",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Noes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 557,
+      "order": 542,
       "id": "entry-1075292",
       "label": "speech",
       "level": "3",
@@ -6687,7 +6507,7 @@
       "text": "Hon. Senators, on the third division-\n\nAYES\n\n: 39\n\nNOES"
     },
     {
-      "order": 558,
+      "order": 543,
       "id": "entry-1075296",
       "label": "speech",
       "level": "3",
@@ -6696,22 +6516,10 @@
       "speaker": "Rose Nyamunga Ogendo",
       "speaker_title": "(The Temporary Chairperson)",
       "reviewed": true,
-      "text": ": Nil\n\nABSENTIONS"
+      "text": ": Nil\n\nABSENTIONS\n\n: Nil"
     },
     {
-      "order": 559,
-      "id": "entry-1075298",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 560,
+      "order": 544,
       "id": "entry-1075300",
       "label": "speech",
       "level": "3",
@@ -6723,7 +6531,7 @@
       "text": "\"The Ayes have it\""
     },
     {
-      "order": 561,
+      "order": 545,
       "id": "entry-1075301",
       "label": "scene",
       "level": "3",
@@ -6735,7 +6543,7 @@
       "text": "(Question carried by 39 votes to Nil)"
     },
     {
-      "order": 562,
+      "order": 546,
       "id": "entry-1075302",
       "label": "speech",
       "level": "3",
@@ -6747,7 +6555,7 @@
       "text": "I call upon the Mover to report."
     },
     {
-      "order": 563,
+      "order": 547,
       "id": "entry-1075303",
       "label": "speech",
       "level": "3",
@@ -6759,7 +6567,7 @@
       "text": "Madam Temporary Chairperson, I beg to move that the Committee do report to the Senate its consideration of the County Allocation of Revenue Bill (Senate Bills No.30 of 2021) and its approval thereof with or without amendments."
     },
     {
-      "order": 564,
+      "order": 548,
       "id": "entry-1075304",
       "label": "speech",
       "level": "3",
@@ -6771,7 +6579,7 @@
       "text": "With amendments!"
     },
     {
-      "order": 565,
+      "order": 549,
       "id": "entry-1075305",
       "label": "speech",
       "level": "3",
@@ -6783,7 +6591,7 @@
       "text": "With amendments."
     },
     {
-      "order": 566,
+      "order": 550,
       "id": "entry-1075306",
       "label": "scene",
       "level": "3",
@@ -6795,7 +6603,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 567,
+      "order": 551,
       "id": "entry-1075307",
       "label": "speech",
       "level": "3",
@@ -6807,7 +6615,7 @@
       "text": "Order! Order Hon. Members!"
     },
     {
-      "order": 568,
+      "order": 552,
       "id": "entry-1075308",
       "label": "scene",
       "level": "3",
@@ -6819,7 +6627,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 569,
+      "order": 553,
       "id": "entry-1075309",
       "label": "scene",
       "level": "3",
@@ -6831,7 +6639,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 570,
+      "order": 554,
       "id": "entry-1075310",
       "label": "scene",
       "level": "3",
@@ -6843,7 +6651,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 571,
+      "order": 555,
       "id": "entry-1075311",
       "label": "scene",
       "level": "3",
@@ -6855,7 +6663,7 @@
       "text": "[The Temporary Speaker (Sen. (Dr.) Lelegwe) in the Chair]"
     },
     {
-      "order": 572,
+      "order": 556,
       "id": "entry-1075312",
       "label": "speech",
       "level": "3",
@@ -6867,7 +6675,7 @@
       "text": "Hon. Senators, I now call upon the Mover to report progress."
     },
     {
-      "order": 573,
+      "order": 557,
       "id": "entry-1075313",
       "label": "heading",
       "level": "3",
@@ -6879,7 +6687,7 @@
       "text": "REPORT AND CONSIDERATION OF REPORT"
     },
     {
-      "order": 574,
+      "order": 558,
       "id": "entry-1075314",
       "label": "heading",
       "level": "3",
@@ -6891,7 +6699,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO. 30 OF 2021)"
     },
     {
-      "order": 575,
+      "order": 559,
       "id": "entry-1075315",
       "label": "speech",
       "level": "3",
@@ -6903,7 +6711,7 @@
       "text": "The Temporary Chairperson."
     },
     {
-      "order": 576,
+      "order": 560,
       "id": "entry-1075316",
       "label": "speech",
       "level": "3",
@@ -6915,7 +6723,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to report that the Committee of the Whole has considered the County Allocation of Revenue Bill (Senate Bills No.30 of 2021) and its approval thereof with amendments."
     },
     {
-      "order": 577,
+      "order": 561,
       "id": "entry-1075317",
       "label": "speech",
       "level": "3",
@@ -6927,7 +6735,7 @@
       "text": "Mover."
     },
     {
-      "order": 578,
+      "order": 562,
       "id": "entry-1075318",
       "label": "speech",
       "level": "3",
@@ -6939,7 +6747,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to move that the House do agree with the Committee in the said Report."
     },
     {
-      "order": 579,
+      "order": 563,
       "id": "entry-1075319",
       "label": "speech",
       "level": "3",
@@ -6951,7 +6759,7 @@
       "text": "Call upon the seconder."
     },
     {
-      "order": 580,
+      "order": 564,
       "id": "entry-1075320",
       "label": "speech",
       "level": "3",
@@ -6963,7 +6771,7 @@
       "text": "Mr. Temporary Speaker, Sir, I call Sen. Olekina to second."
     },
     {
-      "order": 581,
+      "order": 565,
       "id": "entry-1075321",
       "label": "speech",
       "level": "3",
@@ -6975,7 +6783,7 @@
       "text": "Mr. Temporary Speaker, Sir, I second."
     },
     {
-      "order": 582,
+      "order": 566,
       "id": "entry-1075322",
       "label": "scene",
       "level": "3",
@@ -6987,7 +6795,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 583,
+      "order": 567,
       "id": "entry-1075323",
       "label": "scene",
       "level": "3",
@@ -6999,7 +6807,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 584,
+      "order": 568,
       "id": "entry-1075325",
       "label": "speech",
       "level": "3",
@@ -7011,7 +6819,7 @@
       "text": "Mover, proceed"
     },
     {
-      "order": 585,
+      "order": 569,
       "id": "entry-1075326",
       "label": "speech",
       "level": "3",
@@ -7023,7 +6831,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to move that the County Allocation of Revenue Bill (Senate Bills No. 30 of 2021) be now read a Third Time. I request Sen. Olekina to second."
     },
     {
-      "order": 586,
+      "order": 570,
       "id": "entry-1075327",
       "label": "speech",
       "level": "3",
@@ -7035,7 +6843,7 @@
       "text": "Mr. Temporary Speaker, Sir, I second."
     },
     {
-      "order": 587,
+      "order": 571,
       "id": "entry-1075328",
       "label": "scene",
       "level": "3",
@@ -7047,7 +6855,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 588,
+      "order": 572,
       "id": "entry-1075329",
       "label": "speech",
       "level": "3",
@@ -7059,7 +6867,7 @@
       "text": "Ring the division bell for two minutes."
     },
     {
-      "order": 589,
+      "order": 573,
       "id": "entry-1075330",
       "label": "scene",
       "level": "3",
@@ -7071,7 +6879,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 590,
+      "order": 574,
       "id": "entry-1075331",
       "label": "scene",
       "level": "3",
@@ -7083,7 +6891,7 @@
       "text": "(Roll call voting in progress)"
     },
     {
-      "order": 591,
+      "order": 575,
       "id": "entry-1075332",
       "label": "heading",
       "level": "1",
@@ -7095,7 +6903,7 @@
       "text": "THIRD READING"
     },
     {
-      "order": 592,
+      "order": 576,
       "id": "entry-1075333",
       "label": "heading",
       "level": "3",
@@ -7107,7 +6915,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO.30 OF 2021)"
     },
     {
-      "order": 593,
+      "order": 577,
       "id": "entry-1075334",
       "label": "heading",
       "level": "3",
@@ -7119,7 +6927,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 594,
+      "order": 578,
       "id": "entry-1075336",
       "label": "scene",
       "level": "3",
@@ -7131,7 +6939,7 @@
       "text": "(Question, that the County Allocation of Revenue Bill (Senate Bills No. 30 of 2021) be now Read a Third Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 595,
+      "order": 579,
       "id": "entry-1075337",
       "label": "other",
       "level": "3",
@@ -7143,7 +6951,7 @@
       "text": "AYES"
     },
     {
-      "order": 596,
+      "order": 580,
       "id": "entry-1075338",
       "label": "other",
       "level": "3",
@@ -7155,7 +6963,7 @@
       "text": ": Sen. Abdul M. Haji, Garissa County; Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Kavindu Muthama, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita Taveta County; Sen. Ndwiga, Embu County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 597,
+      "order": 581,
       "id": "entry-1075339",
       "label": "speech",
       "level": "3",
@@ -7164,22 +6972,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kibiru\n\nNOES"
+      "text": "Sen. Kibiru\n\nNOES\n\n: Nil"
     },
     {
-      "order": 598,
-      "id": "entry-1075341",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 599,
+      "order": 582,
       "id": "entry-1075342",
       "label": "speech",
       "level": "3",
@@ -7191,7 +6987,7 @@
       "text": "Sen. Outa."
     },
     {
-      "order": 600,
+      "order": 583,
       "id": "entry-1075344",
       "label": "speech",
       "level": "3",
@@ -7200,34 +6996,10 @@
       "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
-      "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES"
+      "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES\n\n: 32.\n\nNOES"
     },
     {
-      "order": 601,
-      "id": "entry-1075346",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": 32."
-    },
-    {
-      "order": 602,
-      "id": "entry-1075347",
-      "label": "other",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "NOES"
-    },
-    {
-      "order": 603,
+      "order": 584,
       "id": "entry-1075348",
       "label": "speech",
       "level": "3",
@@ -7236,22 +7008,10 @@
       "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
-      "text": ": Nil.\n\nABSTENTIONS"
+      "text": ": Nil.\n\nABSTENTIONS\n\n: Nil."
     },
     {
-      "order": 604,
-      "id": "entry-1075350",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Speaker",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 605,
+      "order": 585,
       "id": "entry-1075351",
       "label": "scene",
       "level": "3",
@@ -7263,7 +7023,7 @@
       "text": "(Question carried by 32 votes to nil)"
     },
     {
-      "order": 606,
+      "order": 586,
       "id": "entry-1075352",
       "label": "scene",
       "level": "3",
@@ -7275,7 +7035,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 607,
+      "order": 587,
       "id": "entry-1075353",
       "label": "speech",
       "level": "3",
@@ -7287,7 +7047,7 @@
       "text": "Next Order."
     },
     {
-      "order": 608,
+      "order": 588,
       "id": "entry-1075354",
       "label": "heading",
       "level": "1",
@@ -7299,7 +7059,7 @@
       "text": "MOTION FOR ADJOURNMENT"
     },
     {
-      "order": 609,
+      "order": 589,
       "id": "entry-1075355",
       "label": "heading",
       "level": "3",
@@ -7311,7 +7071,7 @@
       "text": "ADJOURNMENT OF THE SENATE PURSUANT TO THE APPROVED CALENDAR FOR THE 2021 SESSION"
     },
     {
-      "order": 610,
+      "order": 590,
       "id": "entry-1075356",
       "label": "speech",
       "level": "3",
@@ -7323,7 +7083,7 @@
       "text": "Mr. Temporary Speaker, Sir, pursuant to Standing Orders 28 and 29, I beg to move: THAT, the Senate do adjourn until Tuesday, 6th July, 2021. Mr. Temporary Speaker, Sir, the Calendar of the Senate was altered earlier. It is high time Members took a rest after the work they have done. It has culminated in the passage of the County Allocation of Revenue Bill, which county governments can now enjoy. The funds have been long awaited. We know there is still a long way to go but counties will receive much more than they received last year. We still have a long journey to ensure we reach a threshold where counties receive funds that can adequately address the needs of county governments. On that note, I congratulate and thank all the Senators who have waited patiently and participated until this moment. It is also noteworthy that this afternoon, this House has passed other important legislation including the Motion to elevate Nakuru County into city status. Nakuru County now begins the growth that will eventually translate into a city that is worthy of the effort that have been put in this endeavor. Mr. Temporary Speaker, Sir, it is also noteworthy that Senators need to go and mingle and talk to their people. We need to find out how our counties are doing especially during this Coronavirus (COVID-19) pandemic. We need to find out what has been done since we dealt with the Kenya Medical Supplies Authority (KEMSA) scandal. Since the first dosage of vaccinations against Coronavirus (COVID-19) came, we need to go and see how our people are doing. We know the second doze of the vaccination is yet to be done en masse, although some people have already enjoyed it. Are we doing what we should do? With the scare of the Indian variant that has been reported in various towns, alarming reports indicate the variant is moving from Kisumu County to sections of remote counties like Kericho and others within that region. What is the preparedness of our county governments? These are questions, among many others, that Members can now meet the people who sponsored them to this House, find out more and offer solutions. When we convene here next time, we will have more answers than questions. I believe it will shape our minds and debate and culminate in better and fruitful discussions. Finally, as Senators, it is important we remind ourselves that we have less than two sessions that will be useful to whatever agenda we have. After we come back, within the next one and second sessions, we will all disperse to our counties. The questions that should be lingering on our minds are what kind of a House, what kind of a legacy, what kind of work have we done? Will we be proud of it? I believe that as we take a break, these are questions that will be on Members' minds. I wish all Senators a good time when we go on recess. Let us make it useful and by being careful. We should take care of yourselves and ensure that when you come back here, we will be better than we were. Mr. Temporary Speaker, Sir, with those few remarks, I beg to move and I request Sen. Mutula Kilonzo Jnr, the Senate Minority Whip to second."
     },
     {
-      "order": 611,
+      "order": 591,
       "id": "entry-1075359",
       "label": "speech",
       "level": "3",
@@ -7335,7 +7095,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. This is a procedural Motion. I rise to second the Motion to adjourn to 6th July, 2021 and adjust the calendar so that we can give our good staff a break. Sen. Wamatangi has forgotten to congratulate our support staff. Without our support staff at the Senate and in our Committees, we would not get very far with all the reports. On behalf of our colleagues, I want to give you a hand for the work that you do including our able team of Serjeant-at- Arms who are always with us and all our assistants for the work they have done and braved the COVID-19. This is a good opportunity for everybody to take a break. The Chamber can be sanitized and committees can engage in some of the petitions that are pending in reports because they still have a lot of work, including the Committee on Health. We still want to know the fate of COVID-19 funds, misappropriation or lack thereof by county governors. As we go on a break, I wish my colleagues all the best in whatever endeavour they get themselves up to. I hope that we can find a method to fast-track every pending Bill. The Bills that Senators passed in the last Senate should come here. We should dedicate one afternoon or one morning and pass all those Bills because we have debated them so I do not see the reason why we should repeat the same debate or regurgitate the same arguments we have had here so that when all these Senators go back to their respective counties at the very least, they will have done their duty. The Senator for Kirinyaga County has a very interesting Bill on people using nicknames and other things in the elections. It would be unfair for people to go to elections and his well-researched Bill has not been passed. It would be a gross injustice to a lot of the people who have put in a lot of work. I hope that by the time we come back from recess, the Court of Appeal would have resolved the question of the Constitution Amendment Bill so that we know what to do. This country must move forward. By the time we finish our work, I hope and I pray that we will not have to adjust any other date. We must go for elections on 9th August, 2022. Thank you, Mr. Temporary Speaker, Sir, I support."
     },
     {
-      "order": 612,
+      "order": 592,
       "id": "entry-1075361",
       "label": "speech",
       "level": "3",
@@ -7347,7 +7107,7 @@
       "text": "Honourable Senators, I now use my discretion before I put the question to call upon the Chair, Standing Committee on Energy to make a statement relating to the activities of the Committee."
     },
     {
-      "order": 613,
+      "order": 593,
       "id": "entry-1075362",
       "label": "scene",
       "level": "3",
@@ -7359,7 +7119,7 @@
       "text": "(Loud Consultations)"
     },
     {
-      "order": 614,
+      "order": 594,
       "id": "entry-1075363",
       "label": "speech",
       "level": "3",
@@ -7371,7 +7131,7 @@
       "text": "Hon. Senators. I will first proceed to propose the question."
     },
     {
-      "order": 615,
+      "order": 595,
       "id": "entry-1075364",
       "label": "scene",
       "level": "3",
@@ -7383,7 +7143,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 616,
+      "order": 596,
       "id": "entry-1075365",
       "label": "speech",
       "level": "3",
@@ -7395,7 +7155,7 @@
       "text": "Before we proceed with the motion, I now call upon the Chair of the Standing Committee on Energy to make the statement on the activities of the Committee."
     },
     {
-      "order": 617,
+      "order": 597,
       "id": "entry-1075366",
       "label": "scene",
       "level": "3",
@@ -7407,7 +7167,7 @@
       "text": "(Interruption of debate on Motion)"
     },
     {
-      "order": 618,
+      "order": 598,
       "id": "entry-1075367",
       "label": "heading",
       "level": "1",
@@ -7419,7 +7179,7 @@
       "text": "STATEMENT"
     },
     {
-      "order": 619,
+      "order": 599,
       "id": "entry-1075368",
       "label": "heading",
       "level": "2",
@@ -7431,7 +7191,7 @@
       "text": "ACTIVITIES OF THE COMMITTEE ON ENERGY"
     },
     {
-      "order": 620,
+      "order": 600,
       "id": "entry-1075369",
       "label": "speech",
       "level": "2",
@@ -7443,7 +7203,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. It is a brief Statement and I thank everybody who is in this Chamber at this hour for being patient. Mr. Temporary Speaker, Sir, I rise pursuant to Standing Order 51(1) (b) to make a Statement on the activities of the standing Committee on Energy for the period up to 22nd March, 2021. During the period under review, the Committee held a total of about 24 meetings, considered two Statements, visited government installations and undertook an induction retreat of all the parastatals under our deliberation. With regard to the first Statement pursuant to Standing Order 47(1), Sen. Khaniri made a Statement on an issue of topical concern regarding the electrocution of wild animals. We held various meetings and have agreed that both the Ministry of Energy and the Ministry of Lands and Physical Planning will work together to ensure that what happened at Soysambu Conservancy does not happen anywhere else. The Committee has written to the CS of Energy seeking the response in respect of the issues raised with the Kenya Power and Lighting Company and will furnish the Senate with the response in its next Session. My Committee has been extremely concerned with the rising cost of bills in electricity and the rising cost of fuel which Kenyans are grappling with. Yesterday we had a fairly heated session with the CS of Energy. The Committee has written to the Ministry of Energy seeking the response in respect of issues raised by many Kenyans and we are going to continue pursing. With regard to the Second Statement pursuant to Standing Order 48, Sen. Khaniri requested the Statement from the Committee on the frequent power outages in Vihiga County. We adjudicated the matter and we are informed that the line which is supposed to ensure that western region has reliable power has already been connected through Kisumu. During the period under review, the Committee conducted a familiarization tour to Kipevu Oil Terminal where we noted that the land and the investment were lying idle. We engaged the Ministry and they agreed that they are going to begin generating power out of the installations that used to be the Kenya Oil Refineries. During the tour, the Committee also noted that there are three more berths being built at the port to ensure that ships can dock and discharge the oil without having to wait. At present it is only one berth that has been serving this country. In regard to the familiarization tour, I can report as follows: The Kenya Petroleum and Refineries is sitting on idle land. We agreed that has to come to an end and it will be released to the Kenya Pipeline Company (KPL) Kenya Ports Authority (KPA) is currently building the floating berths I have mentioned and they should be operational within this year. Kenya Pipeline Company is in the process of procuring a leak detector between the line from Mombasa to Nairobi. It is a matter we have adjudicated. We also adjudicated some serious matter and at Kiboko where there was an oil spill. Seeing as Sen. Mutula Kilonzo Jnr. does not harass me these days, I take it that all is well there. Therefore, we have to be keen on things touching wananchi. The oil detector is a serious thing. These are some of the issues you cannot understand. How an oil pipeline can be put, which is carrying hazardous fuel, could bring extreme disaster to the life and environment and a simple leak detector could not be installed. However, whatever the reasons, these are some of the strange things in this country. Mr. Temporary Speaker, Sir, we held an induction retreat on 10th March, 2021 with the Ministry of Energy. On the issue of fuel prices in this country, we have been promised in at least 10 meetings that the sudden increases Kenyans are grappling with have to come to an end. We were promised that in March, within one month they would bring what they are calling, 'a fuel development levy' which would cushion the consumers. When I talk about this, as Senators, we are having a barrage of protestations from Kenyans regarding the high cost of fuel. I must point out that one of the causes of this is the big taxation on the fuel. We wish to coordinate with the relevant Committee in the National Assembly and see what we can do because we cannot continue this way. Mr. Temporary Speaker, Sir, as I conclude, the Committee intends to carry out the following key activities during the next quarter. The Committee has scheduled meetings with the Ministry of Petroleum and Mining. We will continue to pursue issues with the Ministry of Energy. As I have mentioned, we are concerned that the legislation for the petroleum development levy, which we have been told is a solution to the sudden and high price increases, is still not in place. Therefore, we will continue pursuing all things to ensure the energy sector is streamlined. It has been our emphasis, as contained in this Statement, that Kenya should endeavour to move from the diesel generating sets which bring high electricity prices. Then move towards the renewable form of energy. I wish to conclude and thank everybody for their patience and tolerance against their human needs."
     },
     {
-      "order": 621,
+      "order": 601,
       "id": "entry-1075388",
       "label": "speech",
       "level": "2",
@@ -7455,7 +7215,7 @@
       "text": "Let us go back to order No. 19. Sen. Cherargei, proceed."
     },
     {
-      "order": 622,
+      "order": 602,
       "id": "entry-1075389",
       "label": "scene",
       "level": "2",
@@ -7467,7 +7227,7 @@
       "text": "(Resumption of Debate on the Adjournment Motion)"
     },
     {
-      "order": 623,
+      "order": 603,
       "id": "entry-1075390",
       "label": "speech",
       "level": "2",
@@ -7479,7 +7239,7 @@
       "text": "Mr. Temporary Speaker, Sir, I want to commend the Chairperson of the Committee on Energy, my brother, senior Sen. (Eng.) Maina, for that precise and concise Statement on issues of energy. I laud him for the good work that we did. I have attended one of the few sessions where he has chaired. I am happy yesterday he issued summons against the Cabinet Secretary Ministry of Petroleum and Mining, hon. Munyes. I assure the Committee that you have the support of some of the colleagues who are not Members of the Committee. Energy is critical especially with the fuel hikes and electricity connectivity across the country. We are proud of the Committee on Energy led by our brother Sen. (Eng.) Maina. We wish him well. Since energy is a crosscutting issue, I would request him to, once in a while, be inviting all Senators, so that we can be of assistance. Mr. Temporary Speaker, Sir, I support the adjournment Motion. It has been long overdue. We were supposed to go on a recess at some point. The people who have suffered the most is our support staff. Mr. Temporary Speaker, Sir, you have to note that our support staff have been up, more than us, to make sure that we are comfortable and the place is ready and sanitised. I am happy that as the Senate through the Office of the Speaker and the Secretariat we have adhered to the COVID-19 protocols and have been comfortable despite the challenging times that we are undergoing through as Parliament since Independence in this Republic. As we go to recess, my colleague, Sen. Wamatangi moved the Motion and seconded by Sen. Mutula Kilonzo Jnr.--- I hope the Standing Committee on Health is here. As we talk today, 471 Kenyans have been given full dose of AstraZeneca vaccination and that is unfortunate. I am worried because I am a neighbour to Kisumu County where it looks like according to today's positivity rate, it is approaching over 11 per cent. Counties like Kericho and Nandi are neighbours to Kisumu and we are worried because 471 people have been fully vaccinated and going into the future, I want to challenge our Standing Committee on Health to engage the Ministry of Health to find out why it is that 7.5 million Kenyans are yet to receive their vaccine. Mr. Temporary Speaker, Sir, I want to call upon the Standing Committee Health to assist us by finding out the problem. You can see Europe and America is reopening up and people are no longer using masks. Many people in the United Kingdom (UK) and America are no longer using masks because over half of them have received the full dose and they are reopening their economy. I hope it is not the strategy our Government to use lockdowns and curfews to contain COVID-19. We need to become more innovative by vaccinating our population across the country so that our people can go back to their jobs. We need to fix the bottom-up approach. We need the mama mboga, boda bodas and everybody to get back to their jobs. Mr. Temporary Speaker, Sir, it is worth to note that in July 2020, the Kenya National Bureau of Statistics indicated that 1.7 million Kenyans had lost their livelihoods. I think those are people like watch men, waiters, waitresses, car washers, people who hawk maize and sweets in the bus stops; those are the small people we are discussing about. We are yet to know the number of Kenyans that continue to lose their jobs because of the pandemic. The third point I wanted to make is economic recovery. The economy is not doing as well as it should be because of the pandemic. I hope that when we come back from the recess, the Standing Committee of Finance and Budget and other relevant committees will come up with a rescue or recovery package so that people who lost their jobs can be cushioned. The Government through the Ministry of Finance and Planning should share with us what is really happening so that as the economy recovers we can--- I want to call upon counties that as they plan for COVID-19, the special audit is being done. We need to see where counties have allocated money on how to assist the vulnerable. For example, in Nandi, I would have expected the County Government of Nandi to give subsidised seeds and fertilisers since this is the planting season so that our people can go to farms, realise more foods and ensure that we maintain the inflation rate. Non- availability of food will always push the inflation rate up. Mr. Temporary Speaker, Sir, the fourth point is on the appointment of judges. I have seen the President has gazetted 34 judges out of the 40. I think under the Judicial Service Commission---"
     },
     {
-      "order": 624,
+      "order": 604,
       "id": "entry-1075393",
       "label": "speech",
       "level": "2",
@@ -7491,7 +7251,7 @@
       "text": "Sen. Wambua, what is it?"
     },
     {
-      "order": 625,
+      "order": 605,
       "id": "entry-1075394",
       "label": "speech",
       "level": "2",
@@ -7503,7 +7263,7 @@
       "text": "Mr. Temporary Speaker, Sir, on a point of order. This Motion was moved, seconded and they even proposed the question. You gave Sen. Cherargei a minute to say something about the Motion, but he has gone into debate. Please, guide us on this matter."
     },
     {
-      "order": 626,
+      "order": 606,
       "id": "entry-1075395",
       "label": "speech",
       "level": "2",
@@ -7515,7 +7275,7 @@
       "text": "Sen. Cherargei, restrict your contributions to the Motion of Adjournment as contained in the Order No.19. You are making your personal statement now."
     },
     {
-      "order": 627,
+      "order": 607,
       "id": "entry-1075396",
       "label": "speech",
       "level": "2",
@@ -7527,7 +7287,7 @@
       "text": "Mr. Temporary Speaker, Sir, I stand guided. I do not know why Sen. Wambua is getting agitated. I am concluding. The Standing Committee on Justice, Legal Affairs and Human Rights were arguing - I remember being invited when the Attorney-General appeared - that it is a public matter. I was saying that as we go for recess, we must become cognizant of the fact that the appointments have been made and several judges have been left out. I hope the Standing Committee on Justice, Legal Affairs and Human Rights will intervene so that we are told whether these six that were left out were corrupt, or there is another political vendetta. Mr. Temporary Speaker, Sir, on the issue of corruption touching on the Kenya Medical Supplies Agency (KEMSA), I call upon the Committee on Health to work with KEMSA so that they fix the issue of the supplies there. We need to fix this issue of corruption that is rampant. When we go to the counties, we should not only restrict ourselves to sanitization, wearing masks and social distancing. We should walk around those counties. I challenge Senators to find time be it in Kitui, Makueni or any other county to visit the county projects which could be white elephants. What we see in Nairobi looks so nice, just like a beauty contest, but when you go deeper, vitu kwa ground ni different. For example, we are seeing corruption happening in the Harambee Savings and Credit Co-operation (SACCO) Society Ltd. We have seen senior management people walking out and non-performance of loans within the SACCO. It is time that the Committee on Justice, Legal Affairs and Human Rights is requested to look at these issues. Mr. Temporary Speaker, Sir, what is happening at Harambee SACCO is very sad. You will find that senior management are walking out of the Harambee SACCO, in which the Government has shares. There is non-performance of loans at a time when we are dealing with Coronavirus Disease (COVID-19). The Harambee SACCO is now becoming a bastion of corrupt practices, poor public relations services and poor governance. I think that the board and the management should be careful. I am pointing out Harambee SACCO because that is what is happening to Kenyans as we talk about the future. Finally, as Sen. Mutula Kilonzo Jnr. has said, I hope that the issue of the Building Bridges Initiative (BBI) appeal will be resolved once and for all. I support the Episcopal Conference and Catholic Bishops who said that BBI is not a necessity. We can do it after 2022. Let us have our elections, then when the hustler nation has taken over, we can now come and fix the country through BBI. I support the Motion."
     },
     {
-      "order": 628,
+      "order": 608,
       "id": "entry-1075401",
       "label": "speech",
       "level": "2",
@@ -7539,7 +7299,7 @@
       "text": "Hon. Senators, there is no more interest on this matter."
     },
     {
-      "order": 629,
+      "order": 609,
       "id": "entry-1075402",
       "label": "heading",
       "level": "1",
@@ -7551,7 +7311,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 630,
+      "order": 610,
       "id": "entry-1075403",
       "label": "speech",
       "level": "1",

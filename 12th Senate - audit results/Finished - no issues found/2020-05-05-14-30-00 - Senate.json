@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-05-05-14-30-00",
-  "exported_at": "2026-10-05T08:06:34.594Z",
+  "exported_at": "2026-10-15T19:30:47.417Z",
   "entries": [
     {
       "order": 1,
@@ -1452,46 +1452,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil\n\nABSTENSIONS\n\n: Nil"
     },
     {
       "order": 122,
-      "id": "entry-990134",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 123,
-      "id": "entry-990135",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "ABSTENSIONS"
-    },
-    {
-      "order": 124,
-      "id": "entry-990136",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 125,
       "id": "entry-990137",
       "label": "scene",
       "level": "3",
@@ -1503,7 +1467,7 @@
       "text": "(The Clerk-at-the-Table tallied the results and transmitted them to the Speaker)"
     },
     {
-      "order": 126,
+      "order": 123,
       "id": "entry-990138",
       "label": "speech",
       "level": "3",
@@ -1515,7 +1479,7 @@
       "text": "Hon. Senators, these are the results of the Division: Ayes: 26 Noes: 0 Abstentions: 0 The \"Ayes\" have it."
     },
     {
-      "order": 127,
+      "order": 124,
       "id": "entry-990139",
       "label": "scene",
       "level": "3",
@@ -1527,7 +1491,7 @@
       "text": "(Question carried by 26 votes to nil)"
     },
     {
-      "order": 128,
+      "order": 125,
       "id": "entry-990140",
       "label": "scene",
       "level": "3",
@@ -1539,7 +1503,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 129,
+      "order": 126,
       "id": "entry-990142",
       "label": "heading",
       "level": "1",
@@ -1551,7 +1515,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 130,
+      "order": 127,
       "id": "entry-990143",
       "label": "heading",
       "level": "3",
@@ -1563,7 +1527,7 @@
       "text": "THE INDEPENDENT ELECTORAL AND BOUNDARIES COMMISSION (AMENDMENT) (NO. 3) BILL (NATIONAL ASSEMBLY BILLS NO.35 OF 2019)"
     },
     {
-      "order": 131,
+      "order": 128,
       "id": "entry-990144",
       "label": "scene",
       "level": "3",
@@ -1575,7 +1539,7 @@
       "text": "(Sen. Murkomen on 19.2.2020)"
     },
     {
-      "order": 132,
+      "order": 129,
       "id": "entry-990145",
       "label": "scene",
       "level": "3",
@@ -1587,7 +1551,7 @@
       "text": "(Resumption of debate interrupted on 20.2.2020)"
     },
     {
-      "order": 133,
+      "order": 130,
       "id": "entry-990146",
       "label": "heading",
       "level": "3",
@@ -1599,7 +1563,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 134,
+      "order": 131,
       "id": "entry-990148",
       "label": "scene",
       "level": "3",
@@ -1611,7 +1575,7 @@
       "text": "(Question, that the Independent Electoral and Boundaries Commission (Amendment) (No. 3) Bill (National Assembly Bills No.35 of 2019) be Read a Second Time, Put and The Senate Proceeded to Vote by County Delegations)"
     },
     {
-      "order": 135,
+      "order": 132,
       "id": "entry-990149",
       "label": "other",
       "level": "3",
@@ -1623,7 +1587,7 @@
       "text": "AYES:"
     },
     {
-      "order": 136,
+      "order": 133,
       "id": "entry-990150",
       "label": "other",
       "level": "3",
@@ -1635,7 +1599,7 @@
       "text": "Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kihika, Nakuru County; Sen. Linturi, Meru County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. (Dr.) Milgo, Bomet County; Sen. Murkormen, Elgeyo Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Ndwiga, Embu; Sen. Ochilo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi City County; Sen. Wamatangi, Kiambu County; Sen. Wetangula, Bungoma County and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 137,
+      "order": 134,
       "id": "entry-990151",
       "label": "other",
       "level": "3",
@@ -1647,7 +1611,7 @@
       "text": "NOES:"
     },
     {
-      "order": 138,
+      "order": 135,
       "id": "entry-990152",
       "label": "speech",
       "level": "3",
@@ -1659,7 +1623,7 @@
       "text": "Sen. Malalah, Kakamega County."
     },
     {
-      "order": 139,
+      "order": 136,
       "id": "entry-990153",
       "label": "scene",
       "level": "3",
@@ -1671,7 +1635,7 @@
       "text": "(The Clerk-at-the-Table tallied the results and transmitted them to the Speaker)"
     },
     {
-      "order": 140,
+      "order": 137,
       "id": "entry-990154",
       "label": "speech",
       "level": "3",
@@ -1683,7 +1647,7 @@
       "text": "Hon. Senators, the results of the voting are as follows-\n\nAYES: 25 NOES: 1 ABSTENTIONS:\n\nNil The \"Ayes\" have it."
     },
     {
-      "order": 141,
+      "order": 138,
       "id": "entry-990157",
       "label": "scene",
       "level": "3",
@@ -1695,7 +1659,7 @@
       "text": "(Question carried by 25 votes to 1)"
     },
     {
-      "order": 142,
+      "order": 139,
       "id": "entry-990158",
       "label": "scene",
       "level": "3",
@@ -1707,7 +1671,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 143,
+      "order": 140,
       "id": "entry-990161",
       "label": "heading",
       "level": "1",
@@ -1719,7 +1683,7 @@
       "text": "MOTION"
     },
     {
-      "order": 144,
+      "order": 141,
       "id": "entry-990162",
       "label": "heading",
       "level": "3",
@@ -1731,7 +1695,7 @@
       "text": "ADOPTION OF REPORT REGARDING THE IMPLEMENTATION STATUS OF THE SENATE RESOLUTION ON COUNTY GOVERNMENTS' INFRASTRUCTURE PROJECTS"
     },
     {
-      "order": 145,
+      "order": 142,
       "id": "entry-990162-inserted-d3cff91c-6230-49a9-acbd-db2ff7aad08b",
       "label": "heading",
       "level": "3",
@@ -1743,7 +1707,7 @@
       "text": "ADOPTION OF REPORT ON THE IMPLEMENTATION STATUS OF THE SENATE RESOLUTION ON COUNTY GOVERNMENTS’ INFRASTRUCTURE PROJECTS"
     },
     {
-      "order": 146,
+      "order": 143,
       "id": "entry-990163",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1719,7 @@
       "text": "THAT, the Senate adopts the Report of the Standing Committee on Finance and Budget regarding the implementation status of the Senate Resolution on County Governments' infrastructure projects comprising County Executive Headquarter offices, Assembly chambers and offices and County State officers' residences laid on the Table of the Senate on 28th April, 2020."
     },
     {
-      "order": 147,
+      "order": 144,
       "id": "entry-990164",
       "label": "scene",
       "level": "3",
@@ -1767,7 +1731,7 @@
       "text": "(Sen. (Eng.) Mahamud 0n 28.4.2020)"
     },
     {
-      "order": 148,
+      "order": 145,
       "id": "entry-990165",
       "label": "scene",
       "level": "3",
@@ -1779,7 +1743,7 @@
       "text": "(Resumption of Debate interrupted on 28.4.2020)"
     },
     {
-      "order": 149,
+      "order": 146,
       "id": "entry-990166",
       "label": "heading",
       "level": "3",
@@ -1791,7 +1755,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 150,
+      "order": 147,
       "id": "entry-990168",
       "label": "scene",
       "level": "3",
@@ -1803,7 +1767,7 @@
       "text": "(Question, that the Senate adopts the Report Regarding the Implementation Status of the Resolution on county Governments' Infrastructure Projects put, and the Senate proceeded to vote by county delegations)"
     },
     {
-      "order": 151,
+      "order": 148,
       "id": "entry-990169",
       "label": "other",
       "level": "3",
@@ -1815,7 +1779,7 @@
       "text": "AYES:"
     },
     {
-      "order": 152,
+      "order": 149,
       "id": "entry-990170",
       "label": "other",
       "level": "3",
@@ -1827,7 +1791,7 @@
       "text": "Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kihika, Nakuru County; Sen. Linturi, Meru County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. (Dr.) Milgo, Bomet County; Sen. Murkormen, Elgeyo Marakwet County; Sen. Mutula kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Ndwiga, Embu; Sen. Ochilo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi City County; Sen. Wamatangi, Kiambu County; Sen. Wetangula, Bungoma County and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 153,
+      "order": 150,
       "id": "entry-990171",
       "label": "other",
       "level": "3",
@@ -1836,22 +1800,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 154,
-      "id": "entry-990172",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 155,
+      "order": 151,
       "id": "entry-990173",
       "label": "speech",
       "level": "3",
@@ -1863,7 +1815,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 156,
+      "order": 152,
       "id": "entry-990174",
       "label": "speech",
       "level": "3",
@@ -1875,7 +1827,7 @@
       "text": "What is your point of order, Sen. (Dr.) Mwaura?"
     },
     {
-      "order": 157,
+      "order": 153,
       "id": "entry-990175",
       "label": "speech",
       "level": "3",
@@ -1887,7 +1839,7 @@
       "text": "Mr. Speaker, Sir, I have just received some concern from some other quarters saying that the Senate Majority Leader and the Senate Minority Leader are voting on behalf of Senators. If that is the case, I think the Bills from this House might be rejected by the other House. Since the Senators are here, would it not be in order for them to vote even when the delegations have been confirmed?"
     },
     {
-      "order": 158,
+      "order": 154,
       "id": "entry-990177",
       "label": "speech",
       "level": "3",
@@ -1899,7 +1851,7 @@
       "text": "I think I gave guidelines. If that is the issue, I will give a further ruling in the next Sitting."
     },
     {
-      "order": 159,
+      "order": 155,
       "id": "entry-990178",
       "label": "speech",
       "level": "3",
@@ -1911,7 +1863,7 @@
       "text": "Mr. Speaker, Sir, I am equally concerned where Sen. (Dr.) Mwaura is sitting vis-a-vis where Sen. Halake is sitting. There is no distance in between them. It is in complete violation of the rules. I am actually more concerned about Sen. Halake."
     },
     {
-      "order": 160,
+      "order": 156,
       "id": "entry-990179",
       "label": "speech",
       "level": "3",
@@ -1923,7 +1875,7 @@
       "text": "Okay, let us proceed. These are the results -\n\nAYES: 26 NOES: 0 ABSTENTIONS:\n\nNil The \"Ayes\" have it."
     },
     {
-      "order": 161,
+      "order": 157,
       "id": "entry-990182",
       "label": "scene",
       "level": "3",
@@ -1935,7 +1887,7 @@
       "text": "(Question carried by 26 votes to 0)"
     },
     {
-      "order": 162,
+      "order": 158,
       "id": "entry-990183",
       "label": "speech",
       "level": "3",
@@ -1947,7 +1899,7 @@
       "text": "I now direct that the Bars be withdrawn and doors opened."
     },
     {
-      "order": 163,
+      "order": 159,
       "id": "entry-990184",
       "label": "scene",
       "level": "3",
@@ -1959,7 +1911,7 @@
       "text": "(The Bars were withdrawn and doors opened)"
     },
     {
-      "order": 164,
+      "order": 160,
       "id": "entry-990185",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1923,7 @@
       "text": "We will now go to the next Order; Order No.13. Please bite that we still have Division on the County Allocation Revenue Act (CARA)."
     },
     {
-      "order": 165,
+      "order": 161,
       "id": "entry-990186",
       "label": "heading",
       "level": "1",
@@ -1983,7 +1935,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 166,
+      "order": 162,
       "id": "entry-990188",
       "label": "heading",
       "level": "3",
@@ -1995,7 +1947,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO. 7 OF 2020)"
     },
     {
-      "order": 167,
+      "order": 163,
       "id": "entry-990189",
       "label": "speech",
       "level": "3",
@@ -2007,7 +1959,7 @@
       "text": "Mr. Speaker, Sir, I beg to move that The County Allocation of Revenue Bill (Senate Bills No.7 of 2020) be now read a Second Time. The House will recall that we passed the Division of Revenue Bill 2020/2021 and Kshs339.8 billion enabling it to be allocated to counties. This is made up of Equitable Share of Kshs316.5 billion as set out in the First Schedule to the Bill. The second is the conditional allocations from the national Government share of Revenue - Kshs.23.16 billion - as indicated in Schedule No.2 of the Bill. Third is conditional allocations as loans and grants from development partners totaling to Kshs30.2 billion as indicated in the Third Schedule. The House is aware that we are seized of the third generation revenue sharing formula which supposed to guide revenue sharing between counties, but this has not been finalized to date. The law under Article 217 of the Constitution requires that Parliament, by resolution of both Houses, adopts a new formula as submitted by Commission of Revenue Allocation (CRA). The House is aware that we have gone through that substantially, but because of the situation we are in today, we have not been able to finalise it. The County Allocation of Revenue Act (CARA) has been introduced as required under Article 218(b) of the Constitution, which required that the Bill be introduced two months before the end of the financial year so that counties can do their budgets. Mr. Speaker, Sir, Article 217(7) of the Constitution provides that a basis that has been approved by Parliament shall be binding until a subsequent resolution is approved. For us as a Committee, we are of the view that the second generation formula can still be used because the other one has not been put in place. The process thus required under the third generation is very rigorous because the third generation introduces different parameters. In fact, the parameters are very elaborate and as good as they are, we have not been able to finalise it. Before the onset of COVID19, we were planning to have a series of engagements with Senators and stakeholders and sessions to elaborate so that we can finalise the formula. Since we have not finalized, we are proposing as per Article 217 of the Constitution, the Bill that had already been approved by Parliament, that the second generation be utilised. As you are aware, the other part of the Bill is the issue of Nairobi City County and pursuant to Article 187(2) of the Constitution and Gazette Notice No. 1609 of February 2020, some functions of Nairobi County government as set out in part two of the Fourth Schedule of the Constitution were transferred to the national Government."
     },
     {
-      "order": 168,
+      "order": 164,
       "id": "entry-990191",
       "label": "speech",
       "level": "3",
@@ -2019,7 +1971,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 169,
+      "order": 165,
       "id": "entry-990192",
       "label": "speech",
       "level": "3",
@@ -2031,7 +1983,7 @@
       "text": "What is your point of order, Sen. Sakaja?"
     },
     {
-      "order": 170,
+      "order": 166,
       "id": "entry-990193",
       "label": "scene",
       "level": "3",
@@ -2043,7 +1995,7 @@
       "text": "(Sen. (Eng.) Mahamud remained standing)"
     },
     {
-      "order": 171,
+      "order": 167,
       "id": "entry-990194",
       "label": "speech",
       "level": "3",
@@ -2055,7 +2007,7 @@
       "text": "Mr. Speaker, Sir, please, advise the Finance Committee Chair to sit down."
     },
     {
-      "order": 172,
+      "order": 168,
       "id": "entry-990195",
       "label": "scene",
       "level": "3",
@@ -2067,7 +2019,7 @@
       "text": "(Interruption of debate on Bill)"
     },
     {
-      "order": 173,
+      "order": 169,
       "id": "entry-990196",
       "label": "heading",
       "level": "1",
@@ -2079,7 +2031,7 @@
       "text": "POINT OF ORDER"
     },
     {
-      "order": 174,
+      "order": 170,
       "id": "entry-990197",
       "label": "heading",
       "level": "2",
@@ -2091,7 +2043,7 @@
       "text": "FAILURE TO PASS THE THIRD GENERATION REVENUE SHARING FORMULA"
     },
     {
-      "order": 175,
+      "order": 171,
       "id": "entry-990198",
       "label": "speech",
       "level": "2",
@@ -2103,7 +2055,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. Please, advise the Chairperson of the Committee on Finance and Budget to sit. No two Members shall be on their feet at the same time. Mr. Speaker, Sir, the Chairman of the Committee on Finance and Budget has raised an issue that I think truly needs your direction. The Constitution is very clear with respect to the basis for sharing of revenue. At this time, we have been waiting for the Third Generation Formula of revenue sharing since many of us feel that the second generation formula has been disfranchising our counties, especially counties that are populous. Mr. Speaker, Sir, before moving forward on this stage of this Bill, I want to ask that you rule on whether, despite the provisions of the Constitution and the fact that it is the same Committee that has sat on the formula for many months, we should proceed with this Bill. Mr. Speaker, Sir, I feel very strongly for the people of Nairobi City County, that we deserve a new formula. I know very many other counties know that it is not just a suggestion; the Constitution is clear about how long one formula should stay. We cannot benefit from them not doing their work of giving us a formula. Mr. Speaker, Sir, I want you to rule on whether we should proceed on this before we have the formula brought by the same Committee. Could you rule that the Committee within one week--- Even if they want to bring the same formula, let them do so and let us consider a formula for sharing revenue. There is no other more serious work that a Senator has apart from determining the manner in which our counties shall divide money. Mr. Speaker, Sir, I beg for your ruling on this matter before we proceed any further."
     },
     {
-      "order": 176,
+      "order": 172,
       "id": "entry-990200",
       "label": "speech",
       "level": "2",
@@ -2115,7 +2067,7 @@
       "text": "Sen. Olekina, kindly, proceed."
     },
     {
-      "order": 177,
+      "order": 173,
       "id": "entry-990201",
       "label": "speech",
       "level": "2",
@@ -2127,7 +2079,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I would like to join my colleague, Sen. Sakaja, and express my dissatisfaction with the Committee. This is a very important matter. Right now, Narok County is receiving money based on a population of 850,000 people, yet we know that the people who reside in that county, based on the 2019 Population Census, are 1.1 million. The amount of money being divided for the people of Narok County is less than what they should get. Mr. Speaker, Sir, it is about time that we stopped rushing things and decide matters for the interest of the 47 million people of Kenya. The Commission on Revenue Allocation (CRA) has come up with a proposed formula, which I believe is what we should be discussing here, instead of hearing the Chairperson of the Committee on Finance and Budget, whom I have a lot of respect for, talking about the challenges that they have encountered dealing with the issue of the third generation formula. We cannot be setting the Constitution in abeyance. We need to sit down and discuss, so that when we divide money, it does not matter who gets what, but we are within the law. Mr. Speaker, Sir, I would like to request that stop the debate on this County Allocation of Revenue Bill until we are able to comply with the Constitution in terms of the third generation formula. I thank you."
     },
     {
-      "order": 178,
+      "order": 174,
       "id": "entry-990202",
       "label": "speech",
       "level": "2",
@@ -2139,7 +2091,7 @@
       "text": "Sen. Wamatangi, kindly, proceed."
     },
     {
-      "order": 179,
+      "order": 175,
       "id": "entry-990203",
       "label": "speech",
       "level": "2",
@@ -2151,7 +2103,7 @@
       "text": "Thank you, Mr. Speaker, Sir. The record of this House and the activities of the Senate bear witness to the fact that the endeavour to have the formula that is supposed to be used in disbursement of funds at this time--- The record has been so clear. Indeed, this matter has been before the Committee on Finance and Budget for so many times. There has been numerous correspondence and endeavours by the Members of this House to have this matter resolved by the Committee on Finance and Budget. Mr. Speaker, Sir, it is completely out of order that the House can and should endorse an unconstitutional process. That is outside the Constitution in lieu of excuses by the Committee on Finance and Budget."
     },
     {
-      "order": 180,
+      "order": 176,
       "id": "entry-990207",
       "label": "speech",
       "level": "2",
@@ -2163,7 +2115,7 @@
       "text": "What is your point of order, Senate Majority Leader? Order, Senate Majority Leader! Sen. Wamatangi is still on a point of order."
     },
     {
-      "order": 181,
+      "order": 177,
       "id": "entry-990208",
       "label": "speech",
       "level": "2",
@@ -2175,7 +2127,7 @@
       "text": "Mr. Speaker, Sir, I am on a point of order. My point of order is simple; that it is unconstitutional. Is the Chairperson in order to fail to live up to his responsibility and the mandate of his Committee, in terms of facilitating this House to be in line and compliant to the constitutional requirements of disbursing monies to our counties? Mr. Speaker, Sir, in that respect, I want to firmly join my colleagues in saying that the Committee must - they should - and this House cannot agree with the Committee, until they bring the formula that has been discussed here. We shall only pass the County Allocation of Revenue Bill based on a third generation formula; not any other formula, but the one that we have discussed. Mr. Speaker, Sir, we have had meetings---"
     },
     {
-      "order": 182,
+      "order": 178,
       "id": "entry-990209",
       "label": "speech",
       "level": "2",
@@ -2187,7 +2139,7 @@
       "text": "You have made your point. Sen. Kihika, kindly, proceed. Senate Majority Leader, I will give you a chance."
     },
     {
-      "order": 183,
+      "order": 179,
       "id": "entry-990210",
       "label": "speech",
       "level": "2",
@@ -2199,7 +2151,7 @@
       "text": "Thank you. I also join my colleagues in restating almost the same thing. I believe very strongly that there is no reason we should proceed with The County Allocation of Allocation Bill based on the previous formula. This issue has been in the Committee on Finance and Budget for a very long time. I actually remember very many meetings last year, including many breakfast meetings that were called and cancelled, and never really upheld. So, we are wondering if there is mischief in bringing The County Allocation of Revenue Bill before bringing the third generation formula However, I have a lot of respect for the Chairperson of the Committee on Finance and Budget. Maybe there is a misunderstanding, but as a House, I believe we should not proceed until we have the new third general formula."
     },
     {
-      "order": 184,
+      "order": 180,
       "id": "entry-990211",
       "label": "speech",
       "level": "2",
@@ -2211,7 +2163,7 @@
       "text": "Senate Majority Leader, kindly, proceed."
     },
     {
-      "order": 185,
+      "order": 181,
       "id": "entry-990212",
       "label": "speech",
       "level": "2",
@@ -2223,7 +2175,7 @@
       "text": "Mine is just more or less on the way forward. Mr. Speaker, Sir, the issues being raised are valid and are the same. I did not just want to over repeat. My suggestion to you is, first, listen to the Chairperson with regard to why they have not brought the formula. Secondly, since there is usually no guarantee that the formula will pass in the manner each one of us thinks for their benefit---. It usually comes back here and is negotiated like we did last time. I would suggest the way forward that if Members feel that the formula must be used for this year, in whatever form we will have passed, we continue today with the Second Reading, with part of the contribution saying that it will be amended in the Committee stage to follow the formula. We should complete the Second Reading and before the Committee stage, sort out the formula first before we go and amend. If not, the next step is to advise the Chairperson of the Committee to withdraw, depending on the answer he has concerning the formula. However, the concerns are valid."
     },
     {
-      "order": 186,
+      "order": 182,
       "id": "entry-990214",
       "label": "speech",
       "level": "2",
@@ -2235,7 +2187,7 @@
       "text": "The Chairperson of Committee on Finance and Budget, can you respond before I make a ruling? Sorry, Sen. Orengo. Please, proceed."
     },
     {
-      "order": 187,
+      "order": 183,
       "id": "entry-990215",
       "label": "speech",
       "level": "2",
@@ -2247,7 +2199,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. If there is a provision in the Constitution that is clear on the power and authority of the Senate, it is on the question of the generation of the formula. Every other action that is taken by other organs of State is dependent on the resolution of the Senate. If the Senate is not clear on that resolution, then every other action that follows consequentially is not based on a material that has been properly considered by the Senate. I believe that in times like this, when the county governments are being put against the wall on what they are doing about many challenges, and at the end of the day the question of the sharing of revenue and what goes to the counties is central--- We cannot proceed without abiding by that constitutional provision."
     },
     {
-      "order": 188,
+      "order": 184,
       "id": "entry-990216",
       "label": "scene",
       "level": "2",
@@ -2259,7 +2211,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 189,
+      "order": 185,
       "id": "entry-990217",
       "label": "speech",
       "level": "2",
@@ -2271,7 +2223,7 @@
       "text": "We have been complaining about what the other House does when they pass things without abiding by the Constitution. Now, we want to, for convenience, pass something because we are going to the Third Reading. The most dangerous phase in the deliberation in the House is the Third Reading. This is because in the Third Reading there is no debate. But at the point at which Senators can talk significantly and concretely on the issue of the formula is during the Second Reading. I plead with the Chairperson of the Committee. You have been doing a very good job, but on this question, where the Constitution is very clear, we do not share this power with any other authority. Other powers are shared. Please, on this one, come with what the Constitution demands and we shall agree with you if you persuade us, but not on the condition that we just pass and then go to the Third Reading."
     },
     {
-      "order": 190,
+      "order": 186,
       "id": "entry-990218",
       "label": "speech",
       "level": "2",
@@ -2283,7 +2235,7 @@
       "text": "What is your point of order, Sen. Sakaja?"
     },
     {
-      "order": 191,
+      "order": 187,
       "id": "entry-990219",
       "label": "speech",
       "level": "2",
@@ -2295,7 +2247,7 @@
       "text": "On a point of order, Mr. Speaker, Sir, I am glad that my colleagues have been put on their toes and we are in agreement, majorly and again, as Sen. Kihika has said, this is with a lot of respect and high regard to the Chairman of this Committee. Fortunately, our Standing Orders give us a way out; in Standing Order No.32; Adjournment of the Senate: (1) A Senator may, at any time, for reasons stated, seek leave to move \"That, the Senate do now adjourn\". Mr. Speaker, Sir, we can use this provision to adjourn debate on this Motion so that we can thereafter consult and agree on how the formula is brought to us. However, we can use this provision to adjourn debate on this Motion of this Bill."
     },
     {
-      "order": 192,
+      "order": 188,
       "id": "entry-990220",
       "label": "speech",
       "level": "2",
@@ -2307,7 +2259,7 @@
       "text": "Mr. Speaker, Sir, as I said, we must find a way forward. There is a better Standing Order than the one Sen. Sakaja has referred to. I am trying to get it; which I used last time to withdraw a Bill from the House. It was actually midway when I was moving it. That is not even the issue. However, on this particular issue, I want you to prepare the House on the issue of the formula, which is very important for all of us, if that is where we are going now, if we agree today that we withdraw the County Allocation of Revenue Bill (CARB) and deal with the formula first. First of all, the Chair and the Clerk must prepare a better Chamber for that debate because it cannot be delegated to 28 Senators. All 47 counties must be represented. Sen. Orengo has said as he has done that it is a very weighty matter; there is no one who will delegate to someone to say that this or that person will represent us. So, Chair, please give us the formula but during the debate of this formula and in future, of course, on issues that are of that nature or comparative level, it will be very difficult to designate 28 Senators."
     },
     {
-      "order": 193,
+      "order": 189,
       "id": "entry-990222",
       "label": "speech",
       "level": "2",
@@ -2319,7 +2271,7 @@
       "text": "You have not given an alternative Standing Order. You said that there was a better one."
     },
     {
-      "order": 194,
+      "order": 190,
       "id": "entry-990223",
       "label": "speech",
       "level": "2",
@@ -2331,7 +2283,7 @@
       "text": "No, I said that I will get it for you; if I do not give it to you, then the clerks will give you. But I will do so shortly. The main point that I was making was not about the Standing Order. The main issue, from my experience, when it comes to this formula itself, everybody usually wants to go on record about their county. The 47 counties must be in the Chamber when that decision is being made. It is very weighty, it takes five years and it has great implications on how resources are going to be shared. So, this is one of those issues that as a Majority Leader, I will not be comfortable to designate 15 Senators to come and deliberate."
     },
     {
-      "order": 195,
+      "order": 191,
       "id": "entry-990224",
       "label": "speech",
       "level": "2",
@@ -2343,7 +2295,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I am a Member of the Committee on Finance and Budget and like everybody else has said, Sen. (Eng.) Mahamud has steered this Committee very well. The Committee has met with the Commission on Revenue Allocation (CRA), and we have gone through the formula. We have actually had a unanimous view on the formula. So, what we need and I agree with Members who have raised concerns that this is one singular most important constitutional assignment for this House, there is no other. This is a very important assignment because it is the only time that the relevance of this House rises to the highest notch; sharing of revenue. I want to urge my Chair, following what the Senate Majority Leader has said; it is very simple. Erect a dome at the Nyayo Stadium or Moi International Stadium, Kasarani, for the entire Senate to sit and deliberate on this important issue. This can be done very easily or take the entire plenary of Kenyatta International Conference Centre (KICC) or the National Assembly, which accommodates all of us so that, because of the importance of this matter and the constitutional budgetary cycle going on - I would even urge the leadership of the House - that this House can actually sit on Thursday this week and go through the formula. Once we approve it, then we move to CARA. I also share the view that certain counties including mine are not getting a very good deal, hanging on to the old formula. The work has already been done and I must say that CRA has done a very commendable job in bringing a new formula."
     },
     {
-      "order": 196,
+      "order": 192,
       "id": "entry-990225",
       "label": "speech",
       "level": "2",
@@ -2355,7 +2307,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I agree with the views of the Members, and of course, I must disclose that I sit in the Committee on Finance and Budget with Sen. (Eng.) Mahamud. Just like Sen. Wetangula has mentioned, the Report of this formula is already with us. I think that what needs to be done, like you have proposed, is that the information needs to be given to the Senators. Once the information is given to the Senators, then you can make a decision but with a variation. In the last formula, the Senate Committee on Finance and Budget invited all Senators, first into an informal setting. The reason is as follows; eventually, all these Senators, including Sen. Sakaja, whatever formula is adopted, everybody wants to know what the bottom line is. That is what we ended up with in the last formula; everybody looked at the bottom line irrespective of what the formula was saying. It will necessitate that, in fact, not only the Senate, including CRA will be required to do some elements of permutations. I will give an example if you allow me an extra minute. In the last formula, those who had proposed that population quota was too high at 45 per cent, there was a permutation where it was reduced to 43 percent. In the format of reducing population at that time, Nairobi City County went to the bottom and Lamu County went to the top. So, there should be an informal setting first and make sure that all these Senators can sit. The National Assembly is not enough for us to sit because at any given time now, they can only accommodate 70 Members. We cannot be 70, we must be more because we must involve CRA and possibly other stakeholders. So, we need a bigger field where Members can be given an opportunity to interrogate these issues vis-à-vis the amount that has been allocated so that when we come back to the county revenue formula that we have as a Committee and the understanding that we are moving this Bill as a Committee, we can then come to pass. Mr. Speaker, Sir, on disclosure, there is nothing that the Committee is hiding; only that the information should be given to all our colleagues so that a decision can be made. Thank you."
     },
     {
-      "order": 197,
+      "order": 193,
       "id": "entry-990226",
       "label": "speech",
       "level": "2",
@@ -2367,7 +2319,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I heard the Senate Majority Leader say that we can debate and then later on have the amendments brought. That is the point that I want to speak to. From my feeling and the feeling of Members, I think that the meat, the substance of the debate is in what we are waiting for. It would not be an efficacious way of using time to debate in a way that will be altered completely when the substance is brought. So, I want to agree with Sen. Sakaja that this debate be adjourned so that when we see the substance; the meat, we can freely debate and conclude in an informed way on the way forward. Thank you."
     },
     {
-      "order": 198,
+      "order": 194,
       "id": "entry-990227",
       "label": "speech",
       "level": "2",
@@ -2379,7 +2331,7 @@
       "text": "Mr. Speaker, Sir, just finally, this Committee is one of the committees that does a very good job. However, my problem all the time with this Committee is that, they come at the last minute, that is, CARA, Division on Revenue Act (DORA) and now the formula, we must pass it. Let me use this word, which the Senate Majority Leader was using in some platform; you know, we are supposed to be the sages. Things do not just come to you at the last minute, then you rush through it and then you say that we agree. Mr. Speaker, Sir, on the question of the formula, I urge you to let us get the Report because I understand that there is a Report and even that Report is not being made available to us. I think that before we meet formally or informally; we must get the report in advance. Some people do not read it. That is justifiable in the sense that somebody has chosen not to read it. They always say that \"the devil is in the details\". Let us have this Report in good time and we will support the Committee in its work."
     },
     {
-      "order": 199,
+      "order": 195,
       "id": "entry-990229",
       "label": "speech",
       "level": "2",
@@ -2391,7 +2343,7 @@
       "text": "I will give one minute to those who have not spoken."
     },
     {
-      "order": 200,
+      "order": 196,
       "id": "entry-990230",
       "label": "speech",
       "level": "2",
@@ -2403,7 +2355,7 @@
       "text": "Mr. Speaker, Sir, I will take 10 seconds. For the reflection of the record, I said that there is a better Standing Order for withdrawal. So, I report to the House that it is Standing Order No. 154 where the Mover of the Bill, on his own volition, can withdraw the Bill at any given time. I could not remember at that point in time."
     },
     {
-      "order": 201,
+      "order": 197,
       "id": "entry-990231",
       "label": "speech",
       "level": "2",
@@ -2415,7 +2367,7 @@
       "text": "Mr. Speaker, Sir, I agree that we need an informal session to freely discuss and ask the Commission to give us different formulas so that we can go through them. By the time we have the sitting, we would have agreed. I suggest that we have the informal session on Thursday morning and an afternoon sitting to pass it. That is my proposal."
     },
     {
-      "order": 202,
+      "order": 198,
       "id": "entry-990232",
       "label": "speech",
       "level": "2",
@@ -2427,7 +2379,7 @@
       "text": "Mr. Speaker, Sir, I agree with Sen. Mutula Kilonzo Jnr. that it is imperative for all Senators to understand how much money is going to their counties. This is the most important thing. The only way for us to understand is if the Commission on Revenue Allocation (CRA) walks us through each and every parameter, for example, for population and health. This is because there are those who believe that population is 18 per cent while health is between 17 to 22 per cent. What does that mean? I understand the predicament that the Chairperson of the Committee on Finance, Commerce and Budget is facing. There was that debate which we cannot run away from on whether we are looking at the size of the land or distance to service. These are things that all of us must understand so that by the time we go back to our counties, we will say that as a Senator, I have worked to bring a certain amount of money into the county. If we read the report the last minute and vote for it, we will not explain anything. So, this informal session between CRA and the Senators will help us to ask questions. For instance, if we decide health is no longer 17 per cent but 22 per cent, what impact does it have? Mr. Speaker, Sir, one other important thing for all Senators to understand is that these factors are not just brought in arbitrarily. They look at the Ministry policies. We need to understand how the CRA came up with this policy."
     },
     {
-      "order": 203,
+      "order": 199,
       "id": "entry-990233",
       "label": "speech",
       "level": "2",
@@ -2439,7 +2391,7 @@
       "text": "What you are now delving in is what will be looked at in the informal sitting."
     },
     {
-      "order": 204,
+      "order": 200,
       "id": "entry-990234",
       "label": "speech",
       "level": "2",
@@ -2451,7 +2403,7 @@
       "text": "Mr. Speaker, Sir, I appreciate the concerns of the Senators. I believe that what they have said is correct. The Committee is not hiding anything; it has been grappling with that formula. In fact, before Covid-19, we had planned for a three-day retreat for CRA to take us through the formula, the parameters and the data that they use. There are things, for example, hospital visits and facility gaps which we do not have with us and we wanted the CRA to bring before us."
     },
     {
-      "order": 205,
+      "order": 201,
       "id": "entry-990235",
       "label": "scene",
       "level": "2",
@@ -2463,7 +2415,7 @@
       "text": "(Sen. Orengo consulted loudly)"
     },
     {
-      "order": 206,
+      "order": 202,
       "id": "entry-990236",
       "label": "speech",
       "level": "2",
@@ -2475,7 +2427,7 @@
       "text": "I do not expect people to cast aspersions on our Committee that we are hiding something. We are not hiding anything. In fact, we wanted to have a two-day informal session to go through this together. I assure you that we told CRA to provide further simulations. This is because the parameters and percentage have been set---"
     },
     {
-      "order": 207,
+      "order": 203,
       "id": "entry-990237",
       "label": "speech",
       "level": "2",
@@ -2487,7 +2439,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 208,
+      "order": 204,
       "id": "entry-990238",
       "label": "speech",
       "level": "2",
@@ -2499,7 +2451,7 @@
       "text": "What is your point of order?"
     },
     {
-      "order": 209,
+      "order": 205,
       "id": "entry-990239",
       "label": "speech",
       "level": "2",
@@ -2511,7 +2463,7 @@
       "text": "Mr. Speaker, Sir, he has had his time."
     },
     {
-      "order": 210,
+      "order": 206,
       "id": "entry-990240",
       "label": "speech",
       "level": "2",
@@ -2523,7 +2475,7 @@
       "text": "Mr. Speaker, Sir, the Chairperson should not be worried. The Members of his Committee, that is, Sen. Wetangula and Sen. Mutula Kilonzo Jnr. have said that there is nothing to hide. So, we do not need to go through that. All that he needs to do is to agree with us and follow the Senate Majority Leader and defer the Bill so that we meet at a convenient time informally. Nobody has cast aspersions; everybody has said that you are good and are doing a good job."
     },
     {
-      "order": 211,
+      "order": 207,
       "id": "entry-990241",
       "label": "speech",
       "level": "2",
@@ -2535,7 +2487,7 @@
       "text": "Mr. Speaker, Sir, the HANSARD has recorded and I will be cleared. As the Chairperson of this Committee, we have done a lot for this House. It should be on record that I am not hiding anything. I know the thinking behind some Members. We will bring this. Give us the time and facilities so that we can go through it. For the time being, I will not go further. With the reasoning given by the Members of the Senate, I withdraw the Bill. It is not reasonable to go to the Second Reading."
     },
     {
-      "order": 212,
+      "order": 208,
       "id": "entry-990242",
       "label": "scene",
       "level": "2",
@@ -2547,7 +2499,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 213,
+      "order": 209,
       "id": "entry-990243",
       "label": "speech",
       "level": "2",
@@ -2559,7 +2511,7 @@
       "text": "We elect not to proceed further with this Bill."
     },
     {
-      "order": 214,
+      "order": 210,
       "id": "entry-990244",
       "label": "speech",
       "level": "2",
@@ -2571,7 +2523,7 @@
       "text": "Hon. Members, I direct the Clerk to facilitate an informal session within this week so that this matter can be discussed conclusively. By the time we discuss the County Allocation of Revenue Act, we have a new formula to use."
     },
     {
-      "order": 215,
+      "order": 211,
       "id": "entry-990245",
       "label": "speech",
       "level": "2",
@@ -2583,7 +2535,7 @@
       "text": "Mr. Speaker, Sir, according to your direction, if at all we meet, I request that we should have that Report in advance. We should not walk into the meeting and be given the Report to read as the meeting goes on. It is an ambush and not qualitative."
     },
     {
-      "order": 216,
+      "order": 212,
       "id": "entry-990246",
       "label": "speech",
       "level": "2",
@@ -2595,7 +2547,7 @@
       "text": "Chairperson, you will avail the Report to Members before then. Clerk, we will agree on when we are meeting informally."
     },
     {
-      "order": 217,
+      "order": 213,
       "id": "entry-990248",
       "label": "speech",
       "level": "2",
@@ -2607,7 +2559,7 @@
       "text": "Mr. Speaker, Sir, we want the CRA to take Members through the formula of all the parameters. So, Members should be ready. The Report will be submitted to us by the CRA then we forward to you. A week will be short. I will discuss with the Office of the Clerk to see how to go about it. Thereafter, we require this matter to go to the National Assembly. They must agree with it so that we have the formula done."
     },
     {
-      "order": 218,
+      "order": 214,
       "id": "entry-990249",
       "label": "speech",
       "level": "2",
@@ -2619,7 +2571,7 @@
       "text": "Mr. Speaker, Sir, if I heard right, Members of this Committee have said that the Committee has a Report. We are not asking for the CRA report. The Constitution is clear. Article 216 says that CRA recommends. The purpose of this Committee under Article 217 is to deliberate upon those recommendations by the CRA and do their report. This is because it is only the Senate that can determine the basis. In fact, without the CRA report, Sen. Olekina, for example, can write a formula and we will pass it. That mandate is ours. The Commission on Revenue Allocation (CRA) only recommends. Is there a committee report that we are getting? I think Sen. Mutula Kilonzo Jnr. was clear that the Committee already has a report. So, are we getting a committee report or a CRA recommendation?"
     },
     {
-      "order": 219,
+      "order": 215,
       "id": "entry-990250",
       "label": "scene",
       "level": "2",
@@ -2631,7 +2583,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 220,
+      "order": 216,
       "id": "entry-990251",
       "label": "speech",
       "level": "2",
@@ -2643,7 +2595,7 @@
       "text": "Mr. Speaker, Sir, if the Committee had actually tabled a report that is the property of the House, that is where our discussion starts. Everything else is just additional information. I yield completely."
     },
     {
-      "order": 221,
+      "order": 217,
       "id": "entry-990252",
       "label": "speech",
       "level": "2",
@@ -2655,7 +2607,7 @@
       "text": "Mr. Speaker Sir, let me say this: We have no report. What we have is the CRA's recommendation to us as a Committee, which they took us through two weeks ago. We will prepare a report now, but I think that by the time we come to the informal meeting, we need the CRA to take the members through their recommendations first. However, there is no report which we have actually finalized."
     },
     {
-      "order": 222,
+      "order": 218,
       "id": "entry-990253",
       "label": "speech",
       "level": "2",
@@ -2667,7 +2619,7 @@
       "text": "I think that the Committee can give whatever it has, whether it is a report or some draft, so that Members can go through, then the CRA can take the Members through it in the informal sitting."
     },
     {
-      "order": 223,
+      "order": 219,
       "id": "entry-990254",
       "label": "scene",
       "level": "2",
@@ -2679,7 +2631,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 224,
+      "order": 220,
       "id": "entry-990255",
       "label": "speech",
       "level": "2",
@@ -2691,7 +2643,7 @@
       "text": "Order, Hon. Members! We are not proceeding with the moving of the Bill under Order No. 13. The debate on the Bill is adjourned. We shall, therefore, resume the Second Reading after the meetings and consultations with CRA."
     },
     {
-      "order": 225,
+      "order": 221,
       "id": "entry-990256",
       "label": "scene",
       "level": "2",
@@ -2703,7 +2655,7 @@
       "text": "(Debate on the Bill was adjourned)"
     },
     {
-      "order": 226,
+      "order": 222,
       "id": "entry-990257",
       "label": "speech",
       "level": "2",
@@ -2715,7 +2667,7 @@
       "text": "Next Order."
     },
     {
-      "order": 227,
+      "order": 223,
       "id": "entry-990259",
       "label": "heading",
       "level": "1",
@@ -2727,7 +2679,7 @@
       "text": "MOTION"
     },
     {
-      "order": 228,
+      "order": 224,
       "id": "entry-990260",
       "label": "heading",
       "level": "3",
@@ -2739,7 +2691,7 @@
       "text": "ALTERATION OF THE HOURS OF MEETING OF THE SENATE"
     },
     {
-      "order": 229,
+      "order": 225,
       "id": "entry-990261",
       "label": "speech",
       "level": "3",
@@ -2751,7 +2703,7 @@
       "text": "Mr. Speaker, Sir, I beg to move the Motion: THAT, pursuant to the Senate Resolution made on 27th February, 2020 (approval of Senate Calendar) and 14th April, 2020 (alteration of the Senate Calendar), the Senate, pursuant to Standing Order 31(3)(b) resolves to hold additional Sittings every Tuesday morning, starting from 10.00 am and ending at 12.30 pm, commencing from Tuesday, 12th May, 2020 until Tuesday, 2nd June, 2020. Mr. Speaker Sir, the Senate Business Committee felt like there are many Statements that are coming to the Floor. We also have a lot of other business and considering that we are sitting for only a day, it was necessary to have more time for Members to prosecute the Statements that are coming from the constituents and concerns that usually do not wait for a long period of time as has been demonstrated today by the many Statements that are before you. Since this is also a procedural issue and a very necessary change for this House to move forward, I would request the Senate Minority Leader to second, and also request the House that we do not deliberate on this one so that we can proceed to the more substantive issues. I, therefore, beg to move and request Sen. Orengo to second."
     },
     {
-      "order": 230,
+      "order": 226,
       "id": "entry-990262",
       "label": "speech",
       "level": "3",
@@ -2763,7 +2715,7 @@
       "text": "Mr. Speaker, Sir, I wish to second this Motion and abide by the wishes of the Senate Majority Leader in that we do not spend time on this. We have seen that in the last three weeks, other issues are emerging. We have been dealing with the Coronavirus (COVID-19), now there is the issue of floods, and there are other issues that may arise. Therefore, it is important that the Senate or Parliament as a whole, have more sittings in order to deal with these problems. Like today, if you look at the business that we are supposed to deal with, maybe we will not be able to cover even half of the business that is in the Order Paper. Mr. Speaker Sir, I support this and wish to second. Thank you."
     },
     {
-      "order": 231,
+      "order": 227,
       "id": "entry-990263",
       "label": "scene",
       "level": "3",
@@ -2775,7 +2727,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 232,
+      "order": 228,
       "id": "entry-990264",
       "label": "speech",
       "level": "3",
@@ -2787,7 +2739,7 @@
       "text": "Sen. Wetangula."
     },
     {
-      "order": 233,
+      "order": 229,
       "id": "entry-990265",
       "label": "speech",
       "level": "3",
@@ -2799,7 +2751,7 @@
       "text": "Mr. Speaker Sir, I urge the Senate Majority Leader that the known sitting times of Parliament is 9.00 a.m. to 12.30 p.m., and 2.30 p.m. to 6.30 p.m. If we agree to sit on Tuesday, let us go by the norm of House sittings, because we have a lot of business. I have Motions of Adjournment to discuss the issue of floods, the issue of trucks on the Malaba border that are now queuing for 40 kilometers before they cross the border, and many others. I want to urge the Senate Majority Leader to shift the time from 10.00 a.m. to 9.00 a.m., so that we do not lose this valuable one hour, to cover as much business as we can. We agree to sit on Tuesday morning and Tuesday afternoon, but let us not lose that critical hour, because precedence tells us that Houses of Parliament in this country always sit from 9.00 a.m. to 12.30 p.m. and 2.30 p.m. to 6.30 p.m."
     },
     {
-      "order": 234,
+      "order": 230,
       "id": "entry-990267",
       "label": "speech",
       "level": "3",
@@ -2811,7 +2763,7 @@
       "text": "Let that, therefore, appear as an amendment."
     },
     {
-      "order": 235,
+      "order": 231,
       "id": "entry-990268",
       "label": "speech",
       "level": "3",
@@ -2823,7 +2775,7 @@
       "text": "Mr. Speaker, Sir, I think that the sentiments by Sen. Wetangula are justified, but let us take it in its stride. Originally, we had said that we are going to meet until 5.00 p.m., but we have amended that as time progressed. I think that the Motion can be passed as it is, so that next week we meet at 10.00 a.m., but the following week the appropriate amendment can be made so that we meet at 9.00 a.m. in the morning."
     },
     {
-      "order": 236,
+      "order": 232,
       "id": "entry-990269",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2787,7 @@
       "text": "I think that in the interest of time---"
     },
     {
-      "order": 237,
+      "order": 233,
       "id": "entry-990270",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2799,7 @@
       "text": "I can live with that."
     },
     {
-      "order": 238,
+      "order": 234,
       "id": "entry-990271",
       "label": "scene",
       "level": "3",
@@ -2859,7 +2811,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 239,
+      "order": 235,
       "id": "entry-990272",
       "label": "speech",
       "level": "3",
@@ -2871,7 +2823,7 @@
       "text": "Next Order. Clerk, let us go back to Statements. Sen. Sakaja."
     },
     {
-      "order": 240,
+      "order": 236,
       "id": "entry-990273",
       "label": "heading",
       "level": "1",
@@ -2883,7 +2835,7 @@
       "text": "STATEMENTS"
     },
     {
-      "order": 241,
+      "order": 237,
       "id": "entry-990274",
       "label": "heading",
       "level": "2",
@@ -2895,7 +2847,7 @@
       "text": "DEMOLITION OF HOUSES IN KARIOBANGI NORTH WARD"
     },
     {
-      "order": 242,
+      "order": 238,
       "id": "entry-990275",
       "label": "speech",
       "level": "2",
@@ -2907,7 +2859,7 @@
       "text": "Thank you very much, Mr. Speaker Sir, for your very kind indulgence on this matter. I would like to request a Statement. Pursuant to Standing Order No.48 (1), I rise to seek a Statement from the chairperson of the Standing Committee on Lands, Environment and Natural Resources on the demolition of Houses that has left more than 5,000 residents of Kariobangi North Ward in Embakasi North Constituency homeless. This is an exercise that is totally inhuman, ill advised, and executed at the wrong time without even giving reasonable notice to the residents to vacate. It is sad to note that despite a court order that was issued stopping the demolitions until the case is heard and determined, government agencies have acted with impunity and evicted 5,000 residents out into the cold and the rain during the COVID-19 pandemic. It is completely incomprehensible as to why anybody would be in such a rush to render thousands of families homeless at such a time when we are facing a pandemic and citizens are being urged to stay at home. The Government is contravening its own guidelines by removing those homes where those people would stay in. In as much as we support the repossession of public land, proper humane methods must be used. Those affected by these demolitions are the most vulnerable in our society and they deserve protection from the Government. Mr. Speaker Sir, in view of the above, I would like to request the Chairperson, in his response, to address the following:- (1) Give us a detailed report explaining the circumstances that have led to eviction of the residents of Kariobangi Sewerage Area in Kariobangi North Ward, because we know about the other demolitions that are being planned. (2) Give a report on all the land in Nairobi City County that is officially mapped as public land and road reserves and tell us where else these people intend to demolish so that we take care of our people. (3) Outline the mechanisms that have been put in place to ensure human rights of innocent residents are not infringed upon during such exercises. (4) Give the status of any legal action taken to charge Government officials involved in illegal allocation of public land in Nairobi City County. (5) Explain how the Government is going to compensate the affected residents, take care, and cushion them. Mr. Speaker, Sir, the Chair should note that today the Government announced that there are 29 COVID-19 cases just five kilometres from where those people have been evicted. We need to know the urgency of leaving people out in the cold at a time when they have been restricted because they cannot even go to their rural homes if they want to leave Nairobi. Mr. Speaker, Sir, kindly direct that we get a response in a week."
     },
     {
-      "order": 243,
+      "order": 239,
       "id": "entry-990277",
       "label": "speech",
       "level": "2",
@@ -2919,7 +2871,7 @@
       "text": "Mr. Speaker, Sir, time and again, this Senate has been firm on issues that affect the common mwananchi. I, therefore, congratulate the Senator for Nairobi for coming up with this Statement. I watched with awe and shock the event of demolition. It is not just in Nairobi alone because this has been happening in other parts of the country for a long period of time. We need to remind public officers that the fact that we are facing a pandemic does not mean there is suspension of human rights, the rule of law, and that persons holding public office are not going to be held accountable for their actions under their departments or dockets. Therefore, so that this Senate can be taken seriously, I think even one week is long. The Committee must act immediately, so that by tomorrow, they update this House about the progress, even online. We want to see action being taken. The Committee should summon the officers involved to appear before them tomorrow and tell the public the remedial actions they have taken. As I speak, Sen. Sakaja knows that his county has been militarised; it is no longer a civilian government. Nairobi is now a military county, something I would have never imagined when we passed the Constitution of Kenya, 2010. It is shocking that active military men who are supposed to operate in barracks and on borders of Kenya are running civilian governments, yet Members of this House are sitting here ululating, clapping and cheering. When functions of Nairobi City County were handed over, I made a Statement here. However, the newspapers reported that I am so and so's man. I want to remain consistent. The militarisation of a civilian government in a county government is the worst form of violation and overturn of our Constitution. I want to warn this House. You may not agree with the Governor or the leadership of Nairobi City County, at the moment. Tomorrow when we become governors and a worst president is in office, all our counties will be militarised and taken over by force. It must be known by the people of Kenya that I, Kipchumba Murkomen, am totally opposed to the manner in which Nairobi is being run by military men and many more being seconded to this County. What the hell is happening in this country? What is going on? As I said outside this Chamber, the authority of the Senate and Parliament must be restored and truth and justice must be seen. Sen. Sakaja, you may be happy with the transfer of functions but as long as you continue asking questions here against the military men, you should know that their place of trial is a court martial and not the court of public opinion. Therefore, we must fight for the management of Nairobi City County in a manner that is responsive to our Constitution and civilian rule."
     },
     {
-      "order": 244,
+      "order": 240,
       "id": "entry-990279",
       "label": "speech",
       "level": "2",
@@ -2931,7 +2883,7 @@
       "text": "I can see a lot of interest. So, let us limit it to three minutes. We will have Sen. Mutula Kilonzo Jnr. then Sen. Olekina before we hear from Members from this side."
     },
     {
-      "order": 245,
+      "order": 241,
       "id": "entry-990280",
       "label": "speech",
       "level": "2",
@@ -2943,7 +2895,7 @@
       "text": "Mr. Speaker, Sir, what is happening in Nairobi, particularly regarding the evictions is a violation of human rights. What is happening in Nairobi in the middle of a pandemic is actually an international crime because those people are staying out in the cold and mixing with people who they do not know whether they are infected. Something is wrong with this Government. The Coalition for Reforms and Democracy (CORD) needs to find out something about this Government. There is something wrong about the way they treat human beings as if this Government was elected by cows and goats. I wish I was in Government because the majority of the complaints are from those in the Government. What are we people seated on this side supposed to do when the majority of the people who issue complaints are sitting on the majority side?"
     },
     {
-      "order": 246,
+      "order": 242,
       "id": "entry-990281",
       "label": "speech",
       "level": "2",
@@ -2955,7 +2907,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. Apart from the point of order on relevance, because I am talking about people who are homeless, every Senator in this House, whether on the majority or minority side, are supposed to oversight the Government. I do not know why Members of the minority side are cheering. We are also oversighting and nobody complains. This is not a House of complaints. It is a House of oversight. Whether you are in the Jubilee Party or the National Super Alliance (NASA), let us oversight the Government."
     },
     {
-      "order": 247,
+      "order": 243,
       "id": "entry-990282",
       "label": "speech",
       "level": "2",
@@ -2967,7 +2919,7 @@
       "text": "Let us not lose focus. Proceed, Senate Majority Leader."
     },
     {
-      "order": 248,
+      "order": 244,
       "id": "entry-990283",
       "label": "speech",
       "level": "2",
@@ -2979,7 +2931,7 @@
       "text": "Mr. Speaker, Sir, as the Senate Majority Leader, I have said over and over again, that this House is called the Senate. It is not the \"Government of President Uhuru Kenyatta\" or the \"Executive.\" All over the world, whether you are elected by the party that forms the Government or not, your responsibility is to oversight the Executive. In many counties, including mine, there is no minority side. Do you want to tell me that there is no oversight of Elgeyo-Marakwet County because everybody was elected on Jubilee Party? Please give us a break! We are Parliament and everybody here has a responsibility to oversight the Executive because we are not the Executive."
     },
     {
-      "order": 249,
+      "order": 245,
       "id": "entry-990285",
       "label": "speech",
       "level": "2",
@@ -2991,7 +2943,7 @@
       "text": "Proceed, Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 250,
+      "order": 246,
       "id": "entry-990286",
       "label": "speech",
       "level": "2",
@@ -3003,7 +2955,7 @@
       "text": "Mr. Speaker, Sir, the statements I am making are bitter, but I have to make them for them to understand that there is a reason why we are the minority and why there is the majority. That said, there is no difference between what happened in Elgeyo-Marakwet where people were abandoned after the mudslide; there is no difference about what happened in Solai when people died; and there is no difference about what is happening in Nairobi. All of it is the same. We have a Government that does not value human beings. They have power and power is sweet. It is sweeter and it is concentrated. Power corrupts and it has corrupted. I agree with Sen. Murkomen that we cannot wait for a week. Children are hungry and it is possible that nobody is going to offer any of the landless people accommodation. It is sad. Could somebody wait for another day to do this? Therefore, the answer must come immediately. There is nothing that prevents the Senate Committee from getting Personal Protective Equipment (PPE) tomorrow and going to Kariobangi. If we are serious, we must be seen where these things are happening. Let us go together with Sen. Sakaja and find out where the people who have been evicted slept, where they get food, and where the children go for the most simple basic human dignity such as toilets. Mr. Speaker, Sir, recently I mentioned the Book of Revelations. Sen. Ochillo- Ayacko told us where the Book was written. When judgment is finally written about this Government, I am telling you only the Book of Revelation is going to tell you; there will be gnashing of teeth. There will be a bottomless pit for members of this Government. Thank you."
     },
     {
-      "order": 251,
+      "order": 247,
       "id": "entry-990288",
       "label": "speech",
       "level": "2",
@@ -3015,7 +2967,7 @@
       "text": "Proceed, Sen. Olekina, then Sen. Halake."
     },
     {
-      "order": 252,
+      "order": 248,
       "id": "entry-990289",
       "label": "speech",
       "level": "2",
@@ -3027,7 +2979,7 @@
       "text": "Mr. Speaker, Sir, I am ashamed to be in this House during this period. We are completely failing. Human beings are being terrorized and stigmatized even during the Holy month of Ramadan. I am not a Muslim, but I sympathize with the people who were evicted. It is about time that we say 'no' to the executive. I am completely against the militarization of this county called Nairobi. What is happening is against the Constitution. Article 187 of the Constitution is clear on the issue of transfer of functions. I am so glad that even today we suspended debate on County Allocation of Revenue Act. Whatever is driving this move of demolition of houses which I can only sum up as commodity interest versus community interest, must come to an end. Mr. Speaker, Sir, this Senate must come out very clearly and tell the executive that what they are doing is evil. It is completely abominable. Some of us on a daily basis, our Mpesa savings are empty because of the amount of money we load and send to the village. What about the people who live here? I request that the Committee and the entire Senate must come out and audit this Government."
     },
     {
-      "order": 253,
+      "order": 249,
       "id": "entry-990291",
       "label": "scene",
       "level": "2",
@@ -3039,7 +2991,7 @@
       "text": "(Sen. Malalah moved from his seat to consult)"
     },
     {
-      "order": 254,
+      "order": 250,
       "id": "entry-990292",
       "label": "speech",
       "level": "2",
@@ -3051,7 +3003,7 @@
       "text": "Order, Sen. Malalah! Observe the social distancing please."
     },
     {
-      "order": 255,
+      "order": 251,
       "id": "entry-990293",
       "label": "speech",
       "level": "2",
@@ -3063,7 +3015,7 @@
       "text": "Mr. Speaker, Sir, they must call this Government. Whatever interest or drive that is moving these people to abuse human rights of individuals who live in this county must come to an end. I would request each Senator that tomorrow let us go there and stand with those Kenyans. They need us now. All these commodity interests will mean nothing during this COVID-19 period. Let us respect human beings."
     },
     {
-      "order": 256,
+      "order": 252,
       "id": "entry-990294",
       "label": "speech",
       "level": "2",
@@ -3075,7 +3027,7 @@
       "text": "Proceed, Sen. Halake."
     },
     {
-      "order": 257,
+      "order": 253,
       "id": "entry-990295",
       "label": "speech",
       "level": "2",
@@ -3087,7 +3039,7 @@
       "text": "Mr. Speaker, Sir, thank you. I do not want to belabor this, but the gross violation of the rights of the most vulnerable in our society at a time like this cannot be gainsaid. One of the things that I have observed is the fact that there is no consequence to violation of rights in this country. Even if we go, we might be seen to have reacted to it, but as long as those people go without accounting for the things they have done, the duty bearer for this is Government or executive. Be it the Solai case or other gross violations, we have not seen consequences. So, how different is this going to be even if we all go there? Sen. Sakaja, congratulations for bringing it. We have a thematic area under social justice and human rights even in the Adhoc Committee on COVID-19 in Kenya. These people have been exposed to the Ad hoc Committee as well. We could join hands with the Committee on Land, Environment and Natural Resources where I sit and make sure that we bring the people to book and hold Government accountable. Mr. Speaker, Sir, the issue is that there is never a consequence. When is this House going to achieve a situation where gross violation of our Constitution and the rights of our people get a consequence for what they perpetrate? We are looking like we just want to go there. Let us see what action will ensure that people pay for these violations."
     },
     {
-      "order": 258,
+      "order": 254,
       "id": "entry-990296",
       "label": "speech",
       "level": "2",
@@ -3099,7 +3051,7 @@
       "text": "Sen. (Dr.) Mwaura."
     },
     {
-      "order": 259,
+      "order": 255,
       "id": "entry-990297",
       "label": "speech",
       "level": "2",
@@ -3111,7 +3063,7 @@
       "text": "Thank you, Mr. Speaker, Sir. Since people started wearing masks, I think they are speaking from both ends of the mouth because some sound must come from somewhere. Who is speaking here really? By the end of the day we are living in very interesting times. The moment COVID-19 came and there is no official opposition then you are hearing what Meyers Arthur calls contradiction in the womb of the people. That the people around here are the ones who are complaining. We must also legislate maybe in future that you should always have an official opposition so that Government must not speak against itself."
     },
     {
-      "order": 260,
+      "order": 256,
       "id": "entry-990298",
       "label": "speech",
       "level": "2",
@@ -3123,7 +3075,7 @@
       "text": "What is your Point of Order, Sen. Orengo?"
     },
     {
-      "order": 261,
+      "order": 257,
       "id": "entry-990299",
       "label": "speech",
       "level": "2",
@@ -3135,7 +3087,7 @@
       "text": "Mr. Speaker, Sir, Sen. (Dr.) Mwaura cannot get away with this. He is living in an age which is gone. The official opposition existed at the time when we had a parliamentary system. We now have a presidential system where the Senate as Chamber is a distinct organ of Government. The minority and majority are supposed to put the Government of the day in check. The executive is not in this House. In fact, Sen. (Dr.) Mwaura once used to associate with the official opposition when we had a parliamentary system. However, when we came to the presidential system, he for very good reasons left the party that he used to support. I agreed with him because there was no longer an official opposition. There was only a minority and majority and no executive in the Chamber. Is he right to say that there is no official opposition when I know he has been serving that role quite well? Mr. Speaker, Sir, when the issues of Kiambu County came here, he took a very strong stand. He was being cheered out in the streets there. I saw Sen. (Dr.) Mwaura for the first time being carried shoulder high and he seemed to enjoy it."
     },
     {
-      "order": 262,
+      "order": 258,
       "id": "entry-990300",
       "label": "scene",
       "level": "2",
@@ -3147,7 +3099,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 263,
+      "order": 259,
       "id": "entry-990301",
       "label": "speech",
       "level": "2",
@@ -3159,7 +3111,7 @@
       "text": "I had never seen him dance, but I saw him dance in front of Parliament. Continue doing that because you are part of the organ for oversight and putting the executive to book."
     },
     {
-      "order": 264,
+      "order": 260,
       "id": "entry-990302",
       "label": "speech",
       "level": "2",
@@ -3171,7 +3123,7 @@
       "text": "Sen. (Dr.) Mwaura, proceed."
     },
     {
-      "order": 265,
+      "order": 261,
       "id": "entry-990303",
       "label": "speech",
       "level": "2",
@@ -3183,7 +3135,7 @@
       "text": "Mr. Speaker, Sir, thank you very much. My senior and elder, Sen. Orengo who I have admired since my childhood has elucidated very well the role that we are supposed to play as a Parliament. Look at Socrates when he was criticizing Plato in his Republic. He talks about the rule of law that is executed by the elite as the justice of a band of robbers. That is what we are seeing here in Kariobangi. The rule of law requires that you should execute and secure property and contracts. Whose property is this that is being secured during a global pandemic? Where is the security of the person that you fear not to be killed when you are walking in the streets of Nairobi? Mr. Speaker, Sir, the other day we heard Gov. Sonko saying that he did not know what he signed. I think I saw Sen. Sakaja there also. I am also surprised. In fact, when you are directing where this Statement should go, it should not to the Ad hoc Committee on COVID-19, because it will go back to Sen. Sakaja. By the end of the day, we must also---. You made your bed; sleep on it."
     },
     {
-      "order": 266,
+      "order": 262,
       "id": "entry-990304",
       "label": "speech",
       "level": "2",
@@ -3195,7 +3147,7 @@
       "text": "Mr. Speaker, Sir, on a Point of Order."
     },
     {
-      "order": 267,
+      "order": 263,
       "id": "entry-990305",
       "label": "speech",
       "level": "2",
@@ -3207,7 +3159,7 @@
       "text": "What is your Point of Order, Sen. Sakaja?"
     },
     {
-      "order": 268,
+      "order": 264,
       "id": "entry-990306",
       "label": "speech",
       "level": "2",
@@ -3219,7 +3171,7 @@
       "text": "Mr. Speaker, Sir, it seems as if a certain spirit - I am not sure if it is holy - has descended upon Sen. (Dr.) Mwaura. For the record of the House, which is this place where he says he saw me? I have not attended any signing of any transfer unless he thinks I look like someone. In fact, one Member currently in the House is better placed to say who was in that function. I was not there. My sentiments on the transfer were made in this House and I still stand by them. We are talking about the people of Nairobi County. May he substantiate or withdraw that allegation."
     },
     {
-      "order": 269,
+      "order": 265,
       "id": "entry-990308",
       "label": "speech",
       "level": "2",
@@ -3231,7 +3183,7 @@
       "text": "Let us make progress. Proceed. Sen. (Prof.) Ongeri."
     },
     {
-      "order": 270,
+      "order": 266,
       "id": "entry-990309",
       "label": "speech",
       "level": "2",
@@ -3243,7 +3195,7 @@
       "text": "Mr. Speaker, Sir, the reason I am saying that is for the record of this House. If what he is saying which is not factually true stays on the record, ten, twenty or thirty years from now, somebody will assume that what he has said, which is manifestly wrong, is what happened, which is not true."
     },
     {
-      "order": 271,
+      "order": 267,
       "id": "entry-990310",
       "label": "speech",
       "level": "2",
@@ -3255,7 +3207,7 @@
       "text": "Sen. (Dr.) Mwaura, you want to clarify whether you are sure of what you are saying or withdraw."
     },
     {
-      "order": 272,
+      "order": 268,
       "id": "entry-990311",
       "label": "speech",
       "level": "2",
@@ -3267,7 +3219,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I am very sure Sen. Sakaja supports the best interests of Nairobi City County. I am with him in ensuring that we, as a House, stand with the people of Kariobangi and we must defend them at all cost. To the extent, maybe a caricature of himself appeared to have been in the signing ceremony, but I stand guided."
     },
     {
-      "order": 273,
+      "order": 269,
       "id": "entry-990312",
       "label": "speech",
       "level": "2",
@@ -3279,7 +3231,7 @@
       "text": "No! No! It is a very straightforward question. Are you sure that you saw him or not so that we make progress? It is as simple as that."
     },
     {
-      "order": 274,
+      "order": 270,
       "id": "entry-990313",
       "label": "speech",
       "level": "2",
@@ -3291,7 +3243,7 @@
       "text": "Mr. Speaker, Sir, you were privy to the signing ceremony. So, I stand guided as to who was present."
     },
     {
-      "order": 275,
+      "order": 271,
       "id": "entry-990314",
       "label": "speech",
       "level": "2",
@@ -3303,7 +3255,7 @@
       "text": "Order! As far as I know, he was not there. If that is what you want me to say."
     },
     {
-      "order": 276,
+      "order": 272,
       "id": "entry-990315",
       "label": "speech",
       "level": "2",
@@ -3315,7 +3267,7 @@
       "text": "Mr. Speaker, Sir, I stand guided."
     },
     {
-      "order": 277,
+      "order": 273,
       "id": "entry-990316",
       "label": "speech",
       "level": "2",
@@ -3327,7 +3279,7 @@
       "text": "Mr. Speaker, Sir, I did not ask him to be guided, but to either withdraw or substantiate. This is not Ruiru Market. He should say matters of fact."
     },
     {
-      "order": 278,
+      "order": 274,
       "id": "entry-990317",
       "label": "speech",
       "level": "2",
@@ -3339,7 +3291,7 @@
       "text": "Sen. (Dr.) Mwaura, can you withdraw or substantiate."
     },
     {
-      "order": 279,
+      "order": 275,
       "id": "entry-990318",
       "label": "speech",
       "level": "2",
@@ -3351,7 +3303,7 @@
       "text": "Mr. Speaker, Sir, Sen. Sakaja should not lose his cool. He is known to be a sober debater. Since you have confirmed that he was not there, I withdraw. However, I will continue to support him on the crisis in Kariobangi South. I kindly ask him to remain sober."
     },
     {
-      "order": 280,
+      "order": 276,
       "id": "entry-990319",
       "label": "speech",
       "level": "2",
@@ -3363,7 +3315,7 @@
       "text": "Proceed, Sen. (Prof.) Ongeri."
     },
     {
-      "order": 281,
+      "order": 277,
       "id": "entry-990320",
       "label": "speech",
       "level": "2",
@@ -3375,7 +3327,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I am very amazed because Sen. Sakaja has brought an issue of a humanitarian crisis which is affecting some parts of this country into this House, but some of us have hijacked it and brought in very erroneous issues at this stage. For instance, in my county of Kisii, yesterday there was a landslide that affected many people. It destroyed homes and property in Bomachoge-Borabu. You know there, since you were an administrator. People are already out there. This morning we were grappling with the issue of feeding them. Therefore, when Sen. Sakaja brought this issue of Kariobangi South, I empathize with the people who are out there. From my perspective as a professional what is going through my mind is that, these people are in the cold and exposed to malaria. They are exposed to COVID-19 because they may not be able to observe social distance. They are going hungry. They do not have clean water and descent latrines. So, the public health aspect of it is out of hand. This House should be serious enough to address a crisis. Right now as I speak, people living along River Nyando which burst its banks are suffering. The other day, I saw people in Budalangi in that kind of circumstance. Recently, we all saw the effects of landslide in Elgeyo- Marakwet and some parts of the former coast province. My take on this issue is that rather than some of us bringing our political sentiments, which are allowed here because this is a House of debate, we confine our remarks on human beings who are suffering in Kariobangi South. We should request the Government of the day to take a humanitarian angle and make its presence felt rather than eviction element. They should look at these children and poor people who are suffering. It should assist them on how they will get their daily meals and blankets to cover themselves. It can deal with the land issue in a different forum."
     },
     {
-      "order": 282,
+      "order": 278,
       "id": "entry-990322",
       "label": "speech",
       "level": "2",
@@ -3387,7 +3339,7 @@
       "text": "Asante sana, Bw. Spika. Kwanza, ninamshukuru ndugu yangu Sen. Sakaja kwa kuleta jambo hili. Cha muhimu zaidi ni kwamba kukitokea shida kama ile niliyoiona katika sehemu fulani ya Nairobi ambayo ameitaja, ni jambo la kusikitisha kuona watoto wachanga, akina mama na vijana wakihangaika sana. Niliona kama ni kitendo cha unyama ambacho hakijatendeka katika taifa hili; kuona mama na mtoto wakitupwa kando bila kujali kilicho ndani ya nyumba. Mali inatupwa na kuvunjwa. Hata sufuria ambazo pengine wangeweza kupikia baada ya hiyo ghasia, nazo pia zinatupwa. Hao Wakenya wenzetu ambao hata kama wameketi kwenya ardhi ambayo si yao, si vizuri kufurushwa kama kwamba hawalindwi na sheria zetu. Kuna wakati inatakikana tuweke sura ya ubinadamu katika utendakazi wetu, hasa polisi ama kukiwa kuna amri ya kwenda kuvunja makao fulani. Inatakikana tuone ya kwamba hata ikiwa hayo yatafanyika, watoto, akina mama na vijana wadogo wanaokwenda skuli hawataathirika. Ni picha mbaya kuona vitabu vyao vikiloa maji na kutapakaa kila pahali. Wakati mwingine mbinu zao za kujikimu zinaharibiwa na hata wakitolewa kwenye makao hayo hawateweza kuendelea na maisha yao. Waswahili walisema kwamba mwenzako akinyolewa, nawe tia kichwa chako maji. Nilikuwa katika lili hili Bunge na Sen. Sakaja akiwa hapa na nikasema kwamba maeneo ya Mtwapa watu wanavunjiwa nyumba, wanateswa sana na kutupwa nje; mali inatupwa pande zote kwa sababu ya bwanyenye mmoja aliyedai kuwa ardhi hiyo ni yake. Baadaye mnakuja kujua kwamba hiyo hati miliki aliyonayo ni bandia. Wale watu waliofurushwa, watafanywa namna gani na yeye alikuwa na amri ya kortini? Ubinadamu ni kitu muhimu sana na Serikali ni lazima iangalie. Wakati huu wa COVID-19 ni mbaya. Sio wakati wa kuchukua hatua kama hii. Huu si ugonjwa wa kucheka. Kila mtu ulimwengu mzima anauogopa. Ni jambo la kuzingatia sana kama Wakenya. Si kuwadharau Wakenya wenzetu kwa sababu wameketi mahali na kuwatoa kwa sababu tuna uwezo. Lazima Serikali ikomeshe mambo kama haya kwa wakati huu na iangalie mambo ya ugonjwa kwanza. Bw. Spika, la mwisho ni kwamba, wale watu wakati huu wanahitaji dawa na chakula. Wanaishi hapa Nairobi na ni Wakenya. Ni wagonjwa, wanalala barabarani, kwenye misitu na maeneo ambayo hayafai binadamu ama mnyama yeyote kulala. Langu ni kwamba, mkondo uliochukuliwa na Serikali kuwafurusha watu hapa Nairobi ndivyo ilivyo Kilifi. Juzi wametoa Malindi nzima wakapiga watu kila mahali. Wamenunua mijeledi ya kuchapa watu. Sijui ni sheria gani katika Serikali hii inasema polisi sasa wanaweza kutumia mjeledi kuchapa Mkenya mwingine. Ni lazima heshima iwepo. Mkenya ana haki ya kuishi hapa na kuheshimiwa."
     },
     {
-      "order": 283,
+      "order": 279,
       "id": "entry-990324",
       "label": "speech",
       "level": "2",
@@ -3399,7 +3351,7 @@
       "text": "Let us have Sen. Malalah and then Sen. Dullo."
     },
     {
-      "order": 284,
+      "order": 280,
       "id": "entry-990325",
       "label": "speech",
       "level": "2",
@@ -3411,7 +3363,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I stand to support my distinguished cousin, Sen. Sakaja---"
     },
     {
-      "order": 285,
+      "order": 281,
       "id": "entry-990326",
       "label": "scene",
       "level": "2",
@@ -3423,7 +3375,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 286,
+      "order": 282,
       "id": "entry-990327",
       "label": "speech",
       "level": "2",
@@ -3435,7 +3387,7 @@
       "text": "I thought you were cautioned about relatives and ranking them whether they are distinguished or not."
     },
     {
-      "order": 287,
+      "order": 283,
       "id": "entry-990328",
       "label": "speech",
       "level": "2",
@@ -3447,7 +3399,7 @@
       "text": "I stand guided."
     },
     {
-      "order": 288,
+      "order": 284,
       "id": "entry-990329",
       "label": "speech",
       "level": "2",
@@ -3459,7 +3411,7 @@
       "text": "I have also noted most of them are not even your relatives. Be careful. Proceed."
     },
     {
-      "order": 289,
+      "order": 285,
       "id": "entry-990330",
       "label": "speech",
       "level": "2",
@@ -3471,7 +3423,7 @@
       "text": "Mr. Speaker, Sir, I stand to support the Senator of Nairobi for bringing out this matter. I watched and read it in the media and I was perturbed. I was perturbed after seeing this matter in both print and broadcast media. The intent might be right, but the timing is wrong. We are all alive to the fact that we are fighting with the COVID-19 pandemic. These families are left in a catch-22 situation, where both \"yes\" and \"no\" are wrong for them. They have been kicked out of their houses. They have no shelter and yet today at 7.00 p.m. we expect them to be in their houses because of the curfew. Where will they be during the curfew hours? Mr. Speaker, Sir, Nairobi is under partial lockdown. Most of these people come from the rural parts of Kakamega, Bungoma, Busia and Siaya. Since they have been evicted from their houses in Nairobi, do we expect them to travel back to their rural homes? We exist in a dispensation where even the Government disregards the rule of law. The Chief Justice recently issued a circular stating clearly that he has suspended execution of any court order. I do not know why the same Government defies the direction given by another arm of the Government. We have very many vulnerable cases in Kenya, but we have Government officers who do not have a sense of humanity. We have seen people suffering in constituencies like Matungu and Mumias West because of the floods. At the same time, we have seen Government officials spending Kshs4 million on teas. This Government has misplaced priorities. Lastly, in as much as we are condemning the Government, I want to commend them on the issue of the Ruai land. They did the correct thing, but did not handle the matter conclusively. Repossessing the Ruai land is not an issue, but we want to know who the grabber was."
     },
     {
-      "order": 290,
+      "order": 286,
       "id": "entry-990331",
       "label": "speech",
       "level": "2",
@@ -3483,7 +3435,7 @@
       "text": "Are you asking another question? You are digressing now."
     },
     {
-      "order": 291,
+      "order": 287,
       "id": "entry-990332",
       "label": "speech",
       "level": "2",
@@ -3495,7 +3447,7 @@
       "text": "Mr. Speaker, Sir, it is a matter related to evictions and I am free to comment on it."
     },
     {
-      "order": 292,
+      "order": 288,
       "id": "entry-990333",
       "label": "speech",
       "level": "2",
@@ -3507,7 +3459,7 @@
       "text": "Your time is up."
     },
     {
-      "order": 293,
+      "order": 289,
       "id": "entry-990334",
       "label": "speech",
       "level": "2",
@@ -3519,7 +3471,7 @@
       "text": "Mr. Speaker, Sir, I am finalising. On the Ruai issue, I want the land grabber brought to book and charged in a court of law. Repossessing land from a ghost will not help this country because the same grabber will continue grabbing other parcels of land. If we have repossession of Government property, we must be given details as to who the perpetrator or thief of the said parcel of land is."
     },
     {
-      "order": 294,
+      "order": 290,
       "id": "entry-990335",
       "label": "speech",
       "level": "2",
@@ -3531,7 +3483,7 @@
       "text": "Sen. Dullo, then we will have Sen. Omogeni."
     },
     {
-      "order": 295,
+      "order": 291,
       "id": "entry-990336",
       "label": "speech",
       "level": "2",
@@ -3543,7 +3495,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I wish to support this Statement. We, as a country, have done so badly in terms of evictions. I do sympathise with the Committee on Lands, Environment and Natural Resources in this House despite the fact that the Chairperson is active and vibrant on so many lands issues that are brought to this House. Do we not have legislations and regulations in terms of how evictions are conducted? It looks like some people are violating the rights of individuals and legislations. People are evicted left, right and centre. Evictions are done in favour of the rich against the poor. This is very wrong. Mr. Speaker, Sir, a good example is my county. I know that the Committee on Lands, Environment and Natural Resources has a matter before it concerning Isiolo County which has not been resolved. Currently, you will find people coming with title deeds. There are arsonists who are actually individuals' houses in a place called Kambi ya Garba in Isiolo County, so that people can vacate those lands and they take over. We, as a country, must review how eviction is carried out. Secondly, we are exposing these people to a lot of danger. They are in the cold right now and do not have anywhere to go. There is the risk of contracting COVID-19. They do not have food and jobs. This is a very serious matter. Thirdly, we have an organisation called Kenya National Commission on Human Rights (KNCHR) that needs to look at such matters. I am appealing to KNCHR if they are listening to the Senate that tomorrow they must be on the ground to investigate what happened and make sure that the people are settled, once and for all. As far as the Senate is concerned, the Committee on Lands, Environment and Natural Resources should be sitting from tomorrow to investigate this matter and make sure that Kenyans are safe."
     },
     {
-      "order": 296,
+      "order": 292,
       "id": "entry-990337",
       "label": "speech",
       "level": "2",
@@ -3555,7 +3507,7 @@
       "text": "Sen. Omogeni, then Sen. (Prof.) Kamar."
     },
     {
-      "order": 297,
+      "order": 293,
       "id": "entry-990338",
       "label": "speech",
       "level": "2",
@@ -3567,7 +3519,7 @@
       "text": "Mr. Speaker, Sir, I join hands with Sen. Sakaja and congratulate him for bringing this issue to the attention of the House. As a leader, I want to say pole to the people of Kariobangi for the very inhuman acts that have been vested on them. We are living in very extraordinary times and anybody in Government should exercise a lot of caution when passing any decision. Our courts of law have stopped any form of enforcement of any court order. You cannot walk to any house and purport to enforce any judgement from the court of law because the Judiciary has taken cognizance of the fact that we are now facing a pandemic. The Holy Book says that do unto your neighbour what you would love to be done unto you. Before you take action, put yourself in the shoes of that person. Mr. Speaker, Sir, as we all know, our schools are closed. The people being evicted are staying with their children because we are facing a pandemic. Where do we want these people to go? They are also human beings. This world was created for haves and the have-nots. The rich and the poor deserve a decent living in any society that respects human rights. These are the times that we need the emergency response team to make a decree and pass a resolution that from now going forward we should not see any form of evictions. This is happening all over the country. Last week, there were some evictions taking place in Nyamira in a town called Keroka. To be fair to the people we represent, at this time when we have this pandemic, we need to extend sympathy, understanding and love to everybody, including people living in slums."
     },
     {
-      "order": 298,
+      "order": 294,
       "id": "entry-990340",
       "label": "speech",
       "level": "2",
@@ -3579,7 +3531,7 @@
       "text": "Before Sen. (Prof.) Kamar, we will have Sen. Orengo."
     },
     {
-      "order": 299,
+      "order": 295,
       "id": "entry-990341",
       "label": "speech",
       "level": "2",
@@ -3591,7 +3543,7 @@
       "text": "Mr. Speaker, Sir, the Senator for Nairobi City County, Sen. Sakaja, is bringing out a very important issue on International Law. Under our Constitution, the provisions are very clear that we are required to comply with the international statutes and conventions. It is part of the primary and basic law of the land. The provisions that talk about the supremacy of the Constitution are in the same Article that talks about International Law. The International Law has provided guidelines on forced evictions. If you have to evict forcefully, the guidelines are there. This is because those forced evictions have social and family consequences in terms of disruption. The Constitution also talks about the right to adequate housing. These international standards require that before you evict a family from a dwelling, you must, first of all, deal with the question of where that family will go before. That is what the guidelines say. In an urban area like Nairobi City County, evicting 5,000 people from an area is causing an absolute problem to the City as a whole. Mr. Speaker, Sir, in many cities in the world, it is possible to provide affordable housing because land is ordinarily available. In a city like Nairobi where every inch has an owner of somebody whom we never know until the day you are being evicted. Sen. Sakaja, we are with you on this. I hope that we can have a meeting with these families and be seen to be doing something about it instead of just talking about it in the Senate. When doctors were in trouble, we did not just talk about it. My friend, Sen. Mutula Kilonzo Jnr. and I went to court and dealt with that problem. Today, people are realising how important doctors are. Come 2022, people are going to find how important these 5,000 people are. We are going to be looking for those 5,000 people. Jubilee, watch out. There is a dysfunction in Jubilee. How can this thing happen?"
     },
     {
-      "order": 300,
+      "order": 296,
       "id": "entry-990344",
       "label": "speech",
       "level": "2",
@@ -3603,7 +3555,7 @@
       "text": "Absolutely."
     },
     {
-      "order": 301,
+      "order": 297,
       "id": "entry-990345",
       "label": "speech",
       "level": "2",
@@ -3615,7 +3567,7 @@
       "text": "Mr. Speaker, Sir, Sen. Sakaja should be able to walk in somebody's office and say; \"You are doing the wrong thing for this Government and for the President of the Republic of Kenya. Stop it.\" They cannot stop it because of the dysfunction in the Jubilee Government."
     },
     {
-      "order": 302,
+      "order": 298,
       "id": "entry-990346",
       "label": "scene",
       "level": "2",
@@ -3627,7 +3579,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 303,
+      "order": 299,
       "id": "entry-990348",
       "label": "speech",
       "level": "2",
@@ -3639,7 +3591,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 304,
+      "order": 300,
       "id": "entry-990349",
       "label": "speech",
       "level": "2",
@@ -3651,7 +3603,7 @@
       "text": "Sen. (Prof.) Kamar, what is your point of order?"
     },
     {
-      "order": 305,
+      "order": 301,
       "id": "entry-990350",
       "label": "speech",
       "level": "2",
@@ -3663,7 +3615,7 @@
       "text": "Mr. Speaker, Sir, I do not know whether Sen. Orengo is right to accuse the Jubilee House without substantiating it either."
     },
     {
-      "order": 306,
+      "order": 302,
       "id": "entry-990351",
       "label": "speech",
       "level": "2",
@@ -3675,7 +3627,7 @@
       "text": "I can."
     },
     {
-      "order": 307,
+      "order": 303,
       "id": "entry-990352",
       "label": "speech",
       "level": "2",
@@ -3687,7 +3639,7 @@
       "text": "Mr. Speaker, Sir, I would like to support this Statement from Sen. Sakaja and thank him for bringing it to the House."
     },
     {
-      "order": 308,
+      "order": 304,
       "id": "entry-990353",
       "label": "speech",
       "level": "2",
@@ -3699,7 +3651,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 309,
+      "order": 305,
       "id": "entry-990354",
       "label": "speech",
       "level": "2",
@@ -3711,7 +3663,7 @@
       "text": "What is your point of order?"
     },
     {
-      "order": 310,
+      "order": 306,
       "id": "entry-990355",
       "label": "speech",
       "level": "2",
@@ -3723,7 +3675,7 @@
       "text": "Mr. Speaker, Sir, we talk about houses. There are houses of Parliament. That is the Senate and the National Assembly. I hear Sen. (Prof.) Kamar talking about Jubilee house. Is she referring to the Jubilee Party which has not met for a long time or Jubilee house in Pangani?"
     },
     {
-      "order": 311,
+      "order": 307,
       "id": "entry-990356",
       "label": "scene",
       "level": "2",
@@ -3735,7 +3687,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 312,
+      "order": 308,
       "id": "entry-990357",
       "label": "speech",
       "level": "2",
@@ -3747,7 +3699,7 @@
       "text": "Sen. (Prof.) Kamar, proceed, but let us focus."
     },
     {
-      "order": 313,
+      "order": 309,
       "id": "entry-990358",
       "label": "speech",
       "level": "2",
@@ -3759,7 +3711,7 @@
       "text": "Yes, Mr. Speaker, Sir. I would rather focus because I said \"I did not know\" about what Sen. Orengo was referring to. I do not want him to substantiate because he will take my time. I thank Sen. Sakaja for bringing this Statement to the House. When I watched it, I was in horror because I have never seen a thing like that happening at a time when we say there is a pandemic, which require us to observe social distancing and washing hands. When you evict people on a rainy day and you are telling them to wash their hands, are you telling them to wash in the rain or what are we trying to do? Mr. Speaker, Sir, it is true we have a problem with our law enforcers. They are taking the law in their own hands and trying to do things the way they wish. In fact, as I was watching what was going on in Kariobangi, I was strongly reminded what went on between my county and that of the Senate Majority Leader. Chiefs from my county went to chase brewers in the next county. I do not know whether they forgot the boundary, but they chased a woman into a river and she died. A few weeks earlier, we also had an incident where a disabled woman was brewing and busaa was poured on her. You wonder how a law enforcer chases a crippled woman. How do you expect somebody who cannot even wash herself to save themselves? Mr. Speaker, Sir, I think the biggest problem we are having is that our law enforcers are not following the law. They are the ones violating the human rights of these people. We really need to look at the human rights of these people. As I was listening to the details from Sen. Sakaja, I was wondering, will the Standing Committee on Lands, Environment and National Resources be the only Committee that will be---"
     },
     {
-      "order": 314,
+      "order": 310,
       "id": "entry-990361",
       "label": "speech",
       "level": "2",
@@ -3771,7 +3723,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 315,
+      "order": 311,
       "id": "entry-990362",
       "label": "speech",
       "level": "2",
@@ -3783,7 +3735,7 @@
       "text": "What is your point of order, Sen. Ochillo-Ayacko?"
     },
     {
-      "order": 316,
+      "order": 312,
       "id": "entry-990363",
       "label": "speech",
       "level": "2",
@@ -3795,7 +3747,7 @@
       "text": "Mr. Speaker, Sir, with utmost respect to Sen. (Prof.) Kamar - and I hold her in true respect - is she in order to pile blame on law enforcement officers when they are merely acting on orders of a rogue Government?"
     },
     {
-      "order": 317,
+      "order": 313,
       "id": "entry-990364",
       "label": "speech",
       "level": "2",
@@ -3807,7 +3759,7 @@
       "text": "Mr. Speaker, Sir, even the law enforcers must be dealt with when they break the law. Therefore, we cannot say that the law enforcer is implementing something blindly without following the law. This is because these officers have sworn to uphold the law. Chiefs and police officers have sworn to uphold the law. Therefore, they must take care of the people according to the law of the country. We are a law abiding nation and we believe in the Rule of Law. Whoever breaks the law, whether you are the President or whoever, you must be dealt with. We cannot say that the law enforcer should break the law and undermine the constitutional rights of the residents. This is exactly what happened in Kariobangi. Regarding the committee that has been assigned to deal with this, I think it will only be fair that this Committee starts its work now. However, the Committee should work with the Committee on Health. We need to know the opinion of the Cabinet Secretary of Health on what happened because we should have heard him condemning this activity. The reason he needed to condemn is because everything that he has been talking about was violated in Kariobangi at 3.00 p.m. We need the Committee on Health to also deal with this matter so that they interrogate the two Cabinet Secretaries; Cabinet Secretary of Lands on eviction and the Cabinet Secretary of Health on the situation on the ground. Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 318,
+      "order": 314,
       "id": "entry-990365",
       "label": "speech",
       "level": "2",
@@ -3819,7 +3771,7 @@
       "text": "We are going to hear from Sen. Kihika then Sen. Faki because we have two more Statements."
     },
     {
-      "order": 319,
+      "order": 315,
       "id": "entry-990366",
       "label": "speech",
       "level": "2",
@@ -3831,7 +3783,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I support this Statement by Sen. Sakaja on what is going on in Nairobi County, specifically the evictions at Kariobangi. It is horrifying when we see these sorts of things happening, especially when they are carried out by the Government. This is a matter of concern because we know it is during---"
     },
     {
-      "order": 320,
+      "order": 316,
       "id": "entry-990367",
       "label": "scene",
       "level": "2",
@@ -3843,7 +3795,7 @@
       "text": "(A Senator laughed)"
     },
     {
-      "order": 321,
+      "order": 317,
       "id": "entry-990368",
       "label": "speech",
       "level": "2",
@@ -3855,7 +3807,7 @@
       "text": "You can laugh all you want, Senator, and you seem very hyped today; I am not quite sure what is going on. However, at the same time, it is important to realize that we must oversight whether we are in the Majority Party or not. That is why we stand here sometimes to oppose some policies. Allow me to detour here when we hear that seven military officers have joined the Nairobi Metropolitan Service (NMS) that becomes a matter of serious concern to some of us. When you then go ahead and find a Government that is evicting 5,000 people during a time of a pandemic and in a city that has so many numbers of people infected with COVID-19, then we really wonder who is making some decisions in this country. Are they using any common sense or is common sense no longer common anymore? I will have to agree with Sen. Halake who stated that a big part of the problem is the level of impunity in this country. Anybody can do anything and get away with it tomorrow. We keep crying here with Sen. Mutula Kilonzo Jnr. about Solai Dam that killed many Kenyans. We keep trying, but nothing seems to be done because of the level of impunity. The other day in my county we had some millers, Mombasa Millers, who have leased railway land and the lease is valid for another eight years. The county government just come in, burnt everything down and repossessed the land despite them having a legitimate lease. The level of impunity across the country is insane. Since nobody is personally held liable, that is why some people will do whatever they want to do regardless of the law. More so, just from a little research here, it seems there was a court order restraining police officers from evicting these 5,000. When the Government is evicting people in contempt of a court order, then there is a problem. It is a pity this keeps on happening. We have seen contempt of court orders, time and again, and nothing happens. We talk here, keep moving on, but nothing happens. That is why they keep on evicting families with children at a time of a pandemic and when the weather is cold outside. I can only imagine what it must be like for these families outside. We also have the Ministry of Health guidelines at this time where people are supposed to stay home. So, when it is the same Government destroying homes and people are thrown out, it just begs the question as to what really is going on in this country. I also agree with the other Senator who said that, maybe, we should go out there. Sometimes, it helps. As much as we may not see the benefit or a resolution immediately, it helps to show that even though COVID-19 is around, we have not suspended our oversight role."
     },
     {
-      "order": 322,
+      "order": 318,
       "id": "entry-990371",
       "label": "speech",
       "level": "2",
@@ -3867,7 +3819,7 @@
       "text": "Finally, Sen. Faki."
     },
     {
-      "order": 323,
+      "order": 319,
       "id": "entry-990372",
       "label": "speech",
       "level": "2",
@@ -3879,7 +3831,7 @@
       "text": "Asante sana, Bw. Spika, kwa kunipa fursa hii kuchangia taarifa ya Seneta wa Nairobi, Sen. Sakaja. Swala la watu kufurushwa katika makaazi yao limekuwa ni jambo la kawaida katika nchi hii. Kule Mombasa, imekuwa kila wiki unapata ripoti za watu kufurushwa, hasa maeneo ya Bamburi. Imekuwa ni kama mchezo wa paka na panya. Hii ni kwa sababu hata ukimwonyesha mhusika Officer Commanding Police Station (OCS) kwamba hakuna amri ya korti yoyote inayotekelezwa hivi sasa, anakwenda mpaka siku za Jumapili ambapo watu wameenda kanisani na kufurusha wanachi ambao wako nyumbani. Bw. Spika, kisa cha Nakuru cha juzi kilikuwa ni cha kusikitiza, kwa sababu eviction ilifanywa wakati wa---"
     },
     {
-      "order": 324,
+      "order": 320,
       "id": "entry-990375",
       "label": "speech",
       "level": "2",
@@ -3891,7 +3843,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 325,
+      "order": 321,
       "id": "entry-990376",
       "label": "speech",
       "level": "2",
@@ -3903,7 +3855,7 @@
       "text": "What is your point of order, Sen. Ochillo-Ayacko?"
     },
     {
-      "order": 326,
+      "order": 322,
       "id": "entry-990377",
       "label": "speech",
       "level": "2",
@@ -3915,7 +3867,7 @@
       "text": "Mr. Speaker, Sir, just for the record, I have heard my brother and fellow advocate, Sen. Faki say that evictions go on on Sundays when people have gone to church. Is it true that under the COVID-19 regulations, people in Mombasa County go to church?"
     },
     {
-      "order": 327,
+      "order": 323,
       "id": "entry-990378",
       "label": "speech",
       "level": "2",
@@ -3927,7 +3879,7 @@
       "text": "Bw. Spika, Jumapili ni siku ya kanisa. Kama watu waenda kanisani ama hawaendi, ni suala jingine. Jumapili twajuwa ni siku ya kanisa kama vile Ijumaa ni siku ya ibada ya Waislamu. Kwa hivyo, kama watu wanaenda au hawaendi, hiyo ni siku ya amani, watu wanapumzika na hakuna kazi inayofanyika. Swala la Nakuru; mwenye biashara Mombasa Maize Millers halali. Yadi yake ilivamiwa usiku wakati kuna curfew. Sisi tunajuwa ya kwamba mwananchi akipatikana barabarani wakati wa curfew, huwa ni hatia kubwa. Unapelekwa quarantine na baada kumaliza quarantine, unalipishwa. Kuna wengine walipigwa wakauliwa wakati wa curfew. Lakini, genge la majambazi walivamia yadi ya Mombasa Maize Millers usiku wakavunja magari, wakaiba mali, wote wakisimamiwa na polisi katika Kaunti ya Nakuru. Bw. Spika, hii inamaanisha kwamba tuna Serikali ya kihuni. Hatuna Serikali ambayo inaheshimu sheria na utengamano. Waziri wa Afya anasema kwamba tuondoe kutanagamana kwa sababu ya COVID-19, lakini wale wanaofurushwa Kariobangi, wanasongamana. Polisi wanaokuja kufurusha watu hatujui kama wana COVID-19 ama hawana. Wao wanatangamana na watu katika maeneo ambayo hakuna njia yeyote ambayo tunaweza kuwatengenisha. Bw. Spika, nchi yetu imekuwa sasa ni mtu mwenye nguvu afanye vile anavyotaka kwa sababu unaeza kutoa watu usiku wa manane bila sababu yeyote. Ardhi na stakabadhi zinaonyesha kwamba anayemiliki ama aliye pale yuko pale kihalali. Kwa hivyo, ni lazima kama Seneti, tukemee swala hili kwa sababu ni jukumu letu kuhakiksha kwamba Serikali inatekeleza mambo kulingana na sheria. Kwa hivyo, ikiwa Serikali yenyewe ndio inavunja sheria, ina maana kwamba nchi yetu inakwenda mkondo ambao si sawa. Asante kwa kunipa fursa hii."
     },
     {
-      "order": 328,
+      "order": 324,
       "id": "entry-990381",
       "label": "speech",
       "level": "2",
@@ -3939,7 +3891,7 @@
       "text": "Thank you so much. I think the Chairperson of the Committee on Land, Environment and Natural Resources is here. He has heard the sentiments and what has been raised. Mobilize your Committee as quickly as tomorrow so that you are able to go on site in liaison with the Senator of Nairobi City County and provide us with a comprehensive report when we meet on Tuesday, next week, at 10.00 a.m. The next Statement is from Sen. Outa."
     },
     {
-      "order": 329,
+      "order": 325,
       "id": "entry-990382",
       "label": "speech",
       "level": "2",
@@ -3951,7 +3903,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 330,
+      "order": 326,
       "id": "entry-990383",
       "label": "speech",
       "level": "2",
@@ -3963,7 +3915,7 @@
       "text": "What is your point of order, Sen. Ochillo-Ayacko?"
     },
     {
-      "order": 331,
+      "order": 327,
       "id": "entry-990384",
       "label": "speech",
       "level": "2",
@@ -3975,7 +3927,7 @@
       "text": "Mr. Speaker, Sir, I appreciate the fact that you have referred this weighty matter to the Committee on Land, Environment and Natural Resources, but a lot of aspects of this matter relate to human rights. That is within the purview of the Committee on Justice, Legal Affairs and Human Rights. Would I be in order to plead with you to also find if that other committee can also come in? This is because it is not about investigating the legality of the title deeds or such related matters."
     },
     {
-      "order": 332,
+      "order": 328,
       "id": "entry-990385",
       "label": "speech",
       "level": "2",
@@ -3987,7 +3939,7 @@
       "text": "I think the lead Committee will be the Committee on Land, Environment and Natural Resources, but administratively, the Committee on Justice, Legal Affairs and Human Rights can also be enjoined as they investigate the matter. You know the problem of assigning two Committees is quorum. It has been a challenge, but the Chair has heard."
     },
     {
-      "order": 333,
+      "order": 329,
       "id": "entry-990386",
       "label": "speech",
       "level": "2",
@@ -3999,7 +3951,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 334,
+      "order": 330,
       "id": "entry-990387",
       "label": "speech",
       "level": "2",
@@ -4011,7 +3963,7 @@
       "text": "What is your point of order, Sen. Mwangi?"
     },
     {
-      "order": 335,
+      "order": 331,
       "id": "entry-990388",
       "label": "speech",
       "level": "2",
@@ -4023,7 +3975,7 @@
       "text": "Mr. Speaker, Sir, from our experiences, it is a little difficult for a matter like this to be handled by two committees. This is because when we want the two committees to meet, the issue of quorum has been a challenge. We had a case of Kericho Tea Farms that was given to us and the Committee on Justice, Legal Affairs and Human Rights. One and a half year ago down the line, we have not been able to handle it. I would rather we handle it as Committee on Lands, Environment and Natural Resources as Sen. Sakaja requested."
     },
     {
-      "order": 336,
+      "order": 332,
       "id": "entry-990389",
       "label": "speech",
       "level": "2",
@@ -4035,7 +3987,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 337,
+      "order": 333,
       "id": "entry-990390",
       "label": "speech",
       "level": "2",
@@ -4047,7 +3999,7 @@
       "text": "What is your point of order, Sen. Sakaja?"
     },
     {
-      "order": 338,
+      "order": 334,
       "id": "entry-990391",
       "label": "speech",
       "level": "2",
@@ -4059,7 +4011,7 @@
       "text": "Mr. Speaker, Sir, I want to thank you for your directions and insisting that we move very quickly on this matter because these people have nothing right now. I have really been struggling personally to even give support to a number of families. The Senate donated Kshs200 million to the COVID-19 Fund. Can we get support from the Senate or even from the Senators themselves because it is such a bad situation? It is one thing for us just to go there and be followed by cameras, which is not the real need right now. So, I think that we can pursue that informally outside the Chamber. Those families right now need food and shelter. You know that my resources are limited. I am a young man who started working just the other day."
     },
     {
-      "order": 339,
+      "order": 335,
       "id": "entry-990392",
       "label": "scene",
       "level": "2",
@@ -4071,7 +4023,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 340,
+      "order": 336,
       "id": "entry-990393",
       "label": "speech",
       "level": "2",
@@ -4083,7 +4035,7 @@
       "text": "There are those who started working less than a year ago and they are richer than those who have worked for more than 10 years."
     },
     {
-      "order": 341,
+      "order": 337,
       "id": "entry-990394",
       "label": "speech",
       "level": "2",
@@ -4095,7 +4047,7 @@
       "text": "You know people like Sen. Orengo and Sen. (Prof.) Ongeri have worked for many years---"
     },
     {
-      "order": 342,
+      "order": 338,
       "id": "entry-990395",
       "label": "speech",
       "level": "2",
@@ -4107,7 +4059,7 @@
       "text": "Okay, we can pursue that informally. Sen. Outa, your Statement."
     },
     {
-      "order": 343,
+      "order": 339,
       "id": "entry-990396",
       "label": "heading",
       "level": "2",
@@ -4119,7 +4071,7 @@
       "text": "HUMANITARIAN RESPONSE IN KISUMU COUNTY ON CURRENT FLOODS AND COVID-19 PANDEMIC"
     },
     {
-      "order": 344,
+      "order": 340,
       "id": "entry-990397",
       "label": "speech",
       "level": "2",
@@ -4131,7 +4083,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving this opportunity to request for a Statement on humanitarian response in Kisumu County in the wake of the current floods and the COVID-19 pandemic. I arise pursuant to Standing Order 48(1) to seek a Statement from the Standing Committee of National Security, Defence and Foreign Relations regarding the humanitarian response in Kisumu County following the current floods as well as the COVID-19 pandemic. In the Statement, I would want the humanitarian response in Kisumu---"
     },
     {
-      "order": 345,
+      "order": 341,
       "id": "entry-990398",
       "label": "scene",
       "level": "2",
@@ -4143,7 +4095,7 @@
       "text": "(Sen. (Dr.) Mwaura consulted with other Senators)"
     },
     {
-      "order": 346,
+      "order": 342,
       "id": "entry-990400",
       "label": "speech",
       "level": "2",
@@ -4155,7 +4107,7 @@
       "text": "Order! Sen. Mwaura, observe social distancing."
     },
     {
-      "order": 347,
+      "order": 343,
       "id": "entry-990401",
       "label": "speech",
       "level": "2",
@@ -4167,7 +4119,7 @@
       "text": "Mr. Speaker, Sir, in the statement, I want the Chairperson to state the following - (1) The humanitarian aid, if any, that has been provided to victims of the on- going floods and vulnerable persons since the outbreak of the Coronavirus pandemic. (2) Explain the lack of transparency and accountability by the Kisumu County Government regarding handling of food and non-food donations from the national Government, corporate entities and individuals. (3) To outline the plans being put in place, if any, to ensure the provision of a long lasting solution to mitigate against the perennial suffering experienced by the residents of the flood prone areas in the county. Mr. Speaker, Sir, I want to congratulate my City Senator, Sen. Sakaja for bringing all these out. As a city, we are facing a lot of humanitarian challenges by the Government. Like in Kisumu, there are a number of people who are now camping in various sites. As I speak today, we have not seen any response at all from the national Government. Last time when we were waiting for the two Cabinet Secretaries to come to the ground and assess the situation, their visit was cancelled at the last minute. Our people are camping outside in the cold and here we are talking about COVID-19. For us to fight the dreadful COVID-19, the Government should respond to these humanitarian challenges. People have been forced to leave their homes because of the raging floods yet the Government has not provided anything. When I asked whether the national Government has provided any food or non- food items, the county commissioner had the audacity to tell me if I want to know what has been contributed, I need to ask his boss Dr. Matiang'i. That is the response I got yet people are in the camp and cannot account for the little that the national Government has given as food or non-food items. So far, we have seen few---"
     },
     {
-      "order": 348,
+      "order": 344,
       "id": "entry-990402",
       "label": "speech",
       "level": "2",
@@ -4179,7 +4131,7 @@
       "text": "Sen. Outa, you are now discussing your own Statement. You have made your point."
     },
     {
-      "order": 349,
+      "order": 345,
       "id": "entry-990403",
       "label": "speech",
       "level": "2",
@@ -4191,7 +4143,7 @@
       "text": "Mr. Speaker, Sir, people are suffering. This Committee must move with speed to make sure that people who are suffering are protected and provided for."
     },
     {
-      "order": 350,
+      "order": 346,
       "id": "entry-990404",
       "label": "speech",
       "level": "2",
@@ -4203,7 +4155,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I thank my brother and colleague, Sen. Outa for raising this matter. All counties along Lake Victoria, Elgeyo-Marakwet and neigbouring areas are victims of torrents of rain that is falling in that part of the world. In Migori County, the people of Nyatike sub-county are under siege from flooding rivers and a swollen lake. Migingo Island, Remba Island and other islands are on the verge of being submerged by water. If you go to places called Nyora, Modi, Kabuto, Got Kachola and Ameko, no families are living in their normal homes. They are currently squatting somewhere on public land without food, medical help, shelter and attention yet it continues to rain. Mr. Speaker, Sir, I beg that as you commit this matter to the relevant Committee, it should make similar inquiries about Migori County and give an answer before I get an opportunity to raise a Statement similar to this one. The same questions that are asked by Senator for Kisumu County are the same questions that the people of Migori, Siaya, Homa Bay and Busia are seeking because they neighbour Lake Victoria. You have seen in the media how River Yala and River Nzoia have flooded and people are suffering. We only hear about COVID-19 from the Government. We fear it because it is about death. People should also be concerned about death that arises from other causes and misery arising from floods."
     },
     {
-      "order": 351,
+      "order": 347,
       "id": "entry-990406",
       "label": "speech",
       "level": "2",
@@ -4215,7 +4167,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I emphasize what Sen. Outa has said. It is important for the Government to prioritize people that have been affected by floods. This is not only happening in Kisumu. In Kakamega, we have constituencies which have been affected. For example, in Shibale, Mumias West, families have suffered the effects of the bursting of River Nzoia. In Matungu Constituency, many people are suffering from this tragedy. Therefore, it is important that as we try to deal with this issue, the affected families get timely support. Mr. Speaker, Sir, some families have not received any support for the fifth day. It is on humanitarian grounds that Government officials should move with speed and ensure that all the families in the respective sub counties are taken good care of. Secondly, the Kenya National Highways Authority (KeNHA) should also be on high alert, because we have seen very critical bridges collapsing. A case in point is the Mayoni Bridge, connecting Mumias West and Matungu constituencies in Kakamega County. That bridge has collapsed and KeNHA has taken more than two days to be on site, until a local contractor, called Sebema, came in to help to avert the situation. Therefore, I would like to encourage the Director-General of KeNHA to move with speed to ensure that all our highways are in good shape in this time of flooding."
     },
     {
-      "order": 352,
+      "order": 348,
       "id": "entry-990407",
       "label": "speech",
       "level": "2",
@@ -4227,7 +4179,7 @@
       "text": "Sen. Orengo, then I will come to Sen. (Dr.) Milgo."
     },
     {
-      "order": 353,
+      "order": 349,
       "id": "entry-990408",
       "label": "speech",
       "level": "2",
@@ -4239,7 +4191,7 @@
       "text": "Thank you, Mr. Speaker Sir. Seeing we have a little time, I want to appreciate this Statement by Sen. Outa. The only thing that I need to say about this is that floods in Nyando, Budalang'i and certain parts of Migori are not things that come without an element of expectation. These are floods that come annually. Therefore, over the years, the Government must have systems in place. I can understand about the COVID-19, because this is a pandemic that is worldwide and the origin is still being investigated. Scientists and doctors are still trying to find out the origin, the cure and the vaccine. However, for floods we needed to have put in place systems to mitigates on their effects. I remember the lady who used to cry in Nyando saying, \"Serikali, Serikali.\" Even this year, that poor lady is again crying to Sen. Outa saying, \"Serikali\". I repeat that the Jubilee Government must wake up. You must get together to ensure that you are in a position to address the problems of the people of this country. This is because the internal differences in Jubilee are making it difficult for Jubilee as a Government to react to situations, which are perennial and are expected. Instead of addressing those problems, they cannot sit as Cabinet Secretary (CS) with another CS or Member of Parliament with another Member of Parliament. Even here, I know who cannot sit next to so and so. You should get together because you have only two years to go. Wake up! Sen. Sakaja, you are the wrong person to talk to me now."
     },
     {
-      "order": 354,
+      "order": 350,
       "id": "entry-990410",
       "label": "speech",
       "level": "2",
@@ -4251,7 +4203,7 @@
       "text": "On a point of order, Mr. Speaker Sir."
     },
     {
-      "order": 355,
+      "order": 351,
       "id": "entry-990411",
       "label": "speech",
       "level": "2",
@@ -4263,7 +4215,7 @@
       "text": "What is your point of order, Sen. Sakaja?"
     },
     {
-      "order": 356,
+      "order": 352,
       "id": "entry-990412",
       "label": "speech",
       "level": "2",
@@ -4275,7 +4227,7 @@
       "text": "Mr. Speaker, Sir, today everybody has had such a go at the Jubilee Government. Is it in order for the Senior Counsel to squarely blame the Jubilee Government on issues that have been recurring even when he was the Minister for Lands? Is it right to now put all the blame on the Jubilee Government? Yes, there is a problem, but we must apportion the right amount of blame by saying: \"When I was in Government, we tried to do this, this is where we reached, and this is what the current Government needs to do.\""
     },
     {
-      "order": 357,
+      "order": 353,
       "id": "entry-990413",
       "label": "speech",
       "level": "2",
@@ -4287,7 +4239,7 @@
       "text": "If Sen. Sakaja goes to the records, he will find whatever happened, including what the Kibaki Government did with to the people of Budalang'i. As soon as the Jubilee Government took over, when the President went there, even a bridge that they tried to build crashed. Hiyo ndio sura ya Jubilee kwaukweli. You must wake up. This is the time to wake up."
     },
     {
-      "order": 358,
+      "order": 354,
       "id": "entry-990414",
       "label": "speech",
       "level": "2",
@@ -4299,7 +4251,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 359,
+      "order": 355,
       "id": "entry-990415",
       "label": "speech",
       "level": "2",
@@ -4311,7 +4263,7 @@
       "text": "What is your point of order, Sen. (Dr.) Mwaura?"
     },
     {
-      "order": 360,
+      "order": 356,
       "id": "entry-990416",
       "label": "speech",
       "level": "2",
@@ -4323,7 +4275,7 @@
       "text": "Mr. Speaker, Sir, I really respect my elder, Sen. Orengo. Is Sen. Orengo in order to blame the Jubilee Government when the monopoly of opposition has fused with the monopoly of Government to create the handshake?"
     },
     {
-      "order": 361,
+      "order": 357,
       "id": "entry-990417",
       "label": "speech",
       "level": "2",
@@ -4335,7 +4287,7 @@
       "text": "The only problem is that even when the handshake happened, they were asleep and were not aware, including Sen. (Dr.) Mwaura. This is the problem that they have. Wake up! That is all that I am telling you."
     },
     {
-      "order": 362,
+      "order": 358,
       "id": "entry-990418",
       "label": "speech",
       "level": "2",
@@ -4347,7 +4299,7 @@
       "text": "Order! Let us make progress. We will have Sen. (Dr.) Milgo and finally, Sen. Dullo."
     },
     {
-      "order": 363,
+      "order": 359,
       "id": "entry-990419",
       "label": "speech",
       "level": "2",
@@ -4359,7 +4311,7 @@
       "text": "Mr. Speaker, Sir, it is not in order for the Senate Minority Leader to squarely blame the Jubilee Party. Most of the Members of the Opposition have been blaming the Jubilee Party. Let us approach issues as a Senate. Mr. Speaker, Sir, I want to speak to the Statement that was sought by Sen. Outa. There is a lot to be done when it comes to issues of disaster management in our country. This is because many times our people suffer a lot when disasters occur. I empathise with the people who are cooking by the side of the lake as we are shown by the media. It is not in Kisumu alone where there are floods. Recently there was a disaster in Elgeyo-Marakwet. There were also mudslides in Kiharu. In my Bomet County, some people were swept away by rainwater. One section of the Sotik-Kericho Road is almost cut off. We call upon the disaster management team to rise to the occasion and respond to the issues affecting the entire country. We have had drought, locust invasion and right now it is rain. In fact, a lot of water is being wasted, but after a short while, we will start complaining about drought where people die because of food shortage. They should respond to particular people that are being affected. Most of the attention has been on the COVID-19. I am sure that many people in areas experiencing floods will die due to cold. I saw some expectant women, children and older persons. Those people will be affected either by stress,or other diseases. The disaster management team should take up this challenge seriously so that it is solved, once and for all."
     },
     {
-      "order": 364,
+      "order": 360,
       "id": "entry-990421",
       "label": "speech",
       "level": "2",
@@ -4371,7 +4323,7 @@
       "text": "Mr. Speaker, Sir---"
     },
     {
-      "order": 365,
+      "order": 361,
       "id": "entry-990422",
       "label": "speech",
       "level": "2",
@@ -4383,7 +4335,7 @@
       "text": "What is it, Sen. Sakaja? Are you on a point of order?"
     },
     {
-      "order": 366,
+      "order": 362,
       "id": "entry-990423",
       "label": "speech",
       "level": "2",
@@ -4395,7 +4347,7 @@
       "text": "Mr. Speaker, Sir, Sen. (Dr.) Milgo is not out of order. I just need to seek your direction on a matter. We have now met a couple of times. We meet once a week because of COVID-19. The country urgently needs a legislative framework. For two weeks in a row, we have not been able to move the Bill. I am glad there are senior Members of the Senate Business Committee (SBC) here. I would like to request that you direct that in the next sitting, because we have to wait for another week to deal with this Bill that we really need, that we reduce the period to allow us to do both Second Reading on Tuesday morning and have the Committee of the Whole in the afternoon. The country urgently needs that legislative framework."
     },
     {
-      "order": 367,
+      "order": 363,
       "id": "entry-990424",
       "label": "speech",
       "level": "2",
@@ -4407,7 +4359,7 @@
       "text": "A decision will be made by the SBC. However, what we have discussed this afternoon is equally important and has a relationship with what you are talking about. Sen. Dullo, please take a short time so that we allow Sen. Mutula Kilonzo Jnr. some time."
     },
     {
-      "order": 368,
+      "order": 364,
       "id": "entry-990425",
       "label": "speech",
       "level": "2",
@@ -4419,7 +4371,7 @@
       "text": "Mr. Speaker, Sir, mine will be brief. As I support this Statement, I really sympathise with the people of Kisumu County. It is pathetic that year in, year out, we talk of floods and droughts. Whenever it rains, we run around saying that we have floods. When the rains go, we run around saying that we have drought. We do not even have a strategy as a country. We should be harvesting the rainwater that is causing havoc. I have a similar situation in my county. The people of Iresaboru and Gaharsa are experiencing floods. Those poor people do not have homes, but nobody is caring at all. Secondly, I remember well that in the previous Senate, we set aside Kshs2 billion under the National Drought Management Authority (NDMA). Simply because the regulation is not there, it is not operational. Maybe we need the relevant Committee of the House to follow up and find out what happened and how we can operationalise that budget. Thirdly, the committees should be active right now, trying to see how we can solve the challenges facing our country. Our basket is now full with the COVID-19. We have forgotten about other challenges Kenyans are facing. It is something our people will blame us for. We need to make sure that the committees are running so that we can help our people and solve the current challenges we are facing as a country."
     },
     {
-      "order": 369,
+      "order": 365,
       "id": "entry-990426",
       "label": "speech",
       "level": "2",
@@ -4431,7 +4383,7 @@
       "text": "The Statement is committed to the Committee on National Security, Defense and Foreign Relations. Proceed, Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 370,
+      "order": 366,
       "id": "entry-990428",
       "label": "heading",
       "level": "2",
@@ -4443,7 +4395,7 @@
       "text": "DELAY IN APPOINTMENT OF 41 JUDGES FOR THE HIGH COURT AND THE COURT OF APPEAL"
     },
     {
-      "order": 371,
+      "order": 367,
       "id": "entry-990429",
       "label": "speech",
       "level": "2",
@@ -4455,7 +4407,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I rise pursuant to Standing Order No.41 to seek a Statement from the Standing Committee on Justice, Legal Affairs and Human Rights regarding the delay in appointment of 41 judges for the High Court and the Court of Appeal. In the Statement, the Committee should- (i) Explain the reasons for the delay in gazettement of the 41 judges; (ii) Explain the continued failure to effect the recommendations of the Judicial Service Commission (JSC) thus occasioning violations of fundamental rights of persons designated as judges of the Court of Appeal; (iii) Explain the continued failure by the Executive to obey court orders under a judgment delivered on 6th February, 2020; hence jeopardizing the administration on justice; and, (iv) State when the gazettement of the said judges is to be done in order to beat the backlog experienced in courts."
     },
     {
-      "order": 372,
+      "order": 368,
       "id": "entry-990430",
       "label": "speech",
       "level": "2",
@@ -4467,7 +4419,7 @@
       "text": "Sen. Orengo, proceed."
     },
     {
-      "order": 373,
+      "order": 369,
       "id": "entry-990431",
       "label": "speech",
       "level": "2",
@@ -4479,7 +4431,7 @@
       "text": "Mr. Speaker, Sir, I support this Statement. The last component of that Statement is very important. It is on the question of compliance with court orders. One of the fundamental provisions of the Constitution is the rule of law. The moment a Government does not comply with or obey the court orders that Government could not sit and preside over the affairs of a constitutionally or democratically elected Government. I sit in that Committee with Sen. Mutula Kilonzo Jnr. we should come out with a firm answer. That answer should come from the top to tell us why it is so difficult to comply with court orders. This is primary. How can you ask a policeman like we have been complaining about eviction that they are being carried by police officers. If the police officers are required to comply with legal court orders, how can you expect them to undertake faithfully their work under the principle of the rule of law? Mr. Speaker, Sir, finally, a country which cannot have judges is a banana republic. I am saying that without fear of contradiction. It is only in a banana republic where you cannot have a system of courts. The Court of Appeal is the second ranking level of our court system. I am asking that this Committee should come out with answers. The last time we were very embarrassed as lawyers who appeared in court, which found Cabinet Secretaries (CSs) not being compliant with court orders. They were sentenced. If we were in a country of a rule of law, they would not be serving. I said in this House that when we are talking about these court orders and the rule of law, they will not look at us in the eye. Now they are facing the music. I want Sen. Kihika to look at me in the eye. You are the Whip of a ruling party. You cannot be crying. Give us those answers. We do not need even to go to State House. You should provide us with answers. As a Chairperson of committees and the leadership of the side opposite, we should come out with these answers. Mr. Speaker, Sir, I beg you that we should have these answers next week. Sen. Mutula Kilonzo Jnr., you are going to go very far in being in the frontline of fighting for the rule of law and democracy. My son, you will achieve the top."
     },
     {
-      "order": 374,
+      "order": 370,
       "id": "entry-990433",
       "label": "scene",
       "level": "2",
@@ -4491,7 +4443,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 375,
+      "order": 371,
       "id": "entry-990434",
       "label": "speech",
       "level": "2",
@@ -4503,7 +4455,7 @@
       "text": "Today, there is some level of very good excitement in the House. Proceed, Sen. Faki."
     },
     {
-      "order": 376,
+      "order": 372,
       "id": "entry-990435",
       "label": "speech",
       "level": "2",
@@ -4515,7 +4467,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this to support the Statement by the Senator of Makueni County, Sen. Mutula Kilonzo Jnr. Court services have ground to a halt as a result of the delay in the appointment of these judges. The Court of Appeal had branches in Mombasa, Nakuru and Kisumu counties. All of them have been disbanded and the court brought to Nairobi. It means that court services are no longer devolved. We have to spend a lot of money to come to Nairobi to access services of the Judiciary. I beg that this Statement be dealt with as soon as possible because legal services are grinding to a halt in this country. Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 377,
+      "order": 373,
       "id": "entry-990437",
       "label": "speech",
       "level": "2",
@@ -4527,7 +4479,7 @@
       "text": "The Committee should provide us with a response by Tuesday, next week."
     },
     {
-      "order": 378,
+      "order": 374,
       "id": "entry-990438",
       "label": "heading",
       "level": "1",
@@ -4539,7 +4491,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 379,
+      "order": 375,
       "id": "entry-990439",
       "label": "speech",
       "level": "1",

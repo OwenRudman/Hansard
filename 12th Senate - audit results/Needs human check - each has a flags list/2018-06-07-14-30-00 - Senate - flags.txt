@@ -4,11 +4,11 @@
    Couldn't find this text in the PDF. Check it against the PDF.
    Text: "BILLS Second Reading"
 
-2. block 162, PDF p.34 [speech | George Khaniri]
+2. block 159, PDF p.34 [speech | George Khaniri]
    PDF shows a new speaker ('Sen. (Dr.) Musuruve') starting inside this block: "Thank you, Madam Temporary Speaker, for the opportunity to s...". May need a split.
    Text: "Thank you, Madam Temporary Speaker, for granting me this opportunity to move this important Motion. I beg to m"
 
-3. block 180 [heading]
+3. block 177 [heading]
    Suggest hierarchy gave this heading no level. Check whether it is really a heading (front matter and fragments should be other/deleted).
    Text: "."
 

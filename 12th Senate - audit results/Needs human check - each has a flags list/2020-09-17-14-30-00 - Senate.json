@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-09-17-14-30-00",
-  "exported_at": "2026-10-13T17:33:23.659Z",
+  "exported_at": "2026-10-15T19:31:31.651Z",
   "entries": [
     {
       "order": 1,
@@ -3324,22 +3324,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": ": Nil\n\nABSTENTIONS:"
+      "text": ": Nil\n\nABSTENTIONS:\n\nNil"
     },
     {
       "order": 278,
-      "id": "entry-1018526",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 279,
       "id": "entry-1018527",
       "label": "speech",
       "level": "3",
@@ -3351,7 +3339,7 @@
       "text": "Sen. Kasanga"
     },
     {
-      "order": 280,
+      "order": 279,
       "id": "entry-1018528",
       "label": "speech",
       "level": "3",
@@ -3363,7 +3351,7 @@
       "text": "Sen. Omanga"
     },
     {
-      "order": 281,
+      "order": 280,
       "id": "entry-1018529",
       "label": "speech",
       "level": "3",
@@ -3375,7 +3363,7 @@
       "text": "Order, hon. Senators. The results of the Division are follows-\n\nAYES:\n\n41\n\nNOES:"
     },
     {
-      "order": 282,
+      "order": 281,
       "id": "entry-1018533",
       "label": "speech",
       "level": "3",
@@ -3384,22 +3372,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "Nil\n\nABSENTIONS:"
+      "text": "Nil\n\nABSENTIONS:\n\nNil."
     },
     {
-      "order": 283,
-      "id": "entry-1018535",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 284,
+      "order": 282,
       "id": "entry-1018536",
       "label": "scene",
       "level": "3",
@@ -3411,7 +3387,7 @@
       "text": "(Question carried by 41 votes to 0)"
     },
     {
-      "order": 285,
+      "order": 283,
       "id": "entry-1018537",
       "label": "speech",
       "level": "3",
@@ -3423,7 +3399,7 @@
       "text": "Hon. Senators, for the convenience of the House, I want to amend the Order so that we also deal with the County Allocation of Revenue Bill and then comments will be made together for both because they are matters dealing with finance. Let us move to Order No.14."
     },
     {
-      "order": 286,
+      "order": 284,
       "id": "entry-1018538",
       "label": "heading",
       "level": "1",
@@ -3435,7 +3411,7 @@
       "text": "PROCEDURAL MOTION"
     },
     {
-      "order": 287,
+      "order": 285,
       "id": "entry-1018539",
       "label": "heading",
       "level": "2",
@@ -3447,7 +3423,7 @@
       "text": "EXTENSION OF SITTING TIME"
     },
     {
-      "order": 288,
+      "order": 286,
       "id": "entry-1018540",
       "label": "speech",
       "level": "2",
@@ -3459,7 +3435,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. I rise pursuant to the provisions of our Standing Orders and in particular Standing Order No. 31(3)(a). You realize that we have got only 45 minutes to adjournment of the House. Our Standing Orders are that if we were to extend, you have to raise the Motion, 30 minutes before 6.30 p.m. Mr. Speaker, Sir, I rise pursuant to the provisions of that Standing Order and move that the Senate resolves to extend its sitting, until the conclusion of business listed in the Order Paper as Order Nos.13, 14 and 15 in the Supplementary Order Paper. Deputy Speaker, could you second?"
     },
     {
-      "order": 289,
+      "order": 287,
       "id": "entry-1018541",
       "label": "speech",
       "level": "2",
@@ -3471,7 +3447,7 @@
       "text": "Mr. Speaker, Sir, I second."
     },
     {
-      "order": 290,
+      "order": 288,
       "id": "entry-1018542",
       "label": "scene",
       "level": "2",
@@ -3483,7 +3459,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 291,
+      "order": 289,
       "id": "entry-1018543",
       "label": "scene",
       "level": "2",
@@ -3495,7 +3471,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 292,
+      "order": 290,
       "id": "entry-1018544",
       "label": "speech",
       "level": "2",
@@ -3507,7 +3483,7 @@
       "text": "Let us now move to Order No.14."
     },
     {
-      "order": 293,
+      "order": 291,
       "id": "entry-1018545",
       "label": "heading",
       "level": "1",
@@ -3519,7 +3495,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 294,
+      "order": 292,
       "id": "entry-1018547",
       "label": "heading",
       "level": "3",
@@ -3531,7 +3507,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO.7 OF 2020)"
     },
     {
-      "order": 295,
+      "order": 293,
       "id": "entry-1018548",
       "label": "scene",
       "level": "3",
@@ -3543,7 +3519,7 @@
       "text": "(Sen. (Eng.) Mahamud on 5.5.2020)"
     },
     {
-      "order": 296,
+      "order": 294,
       "id": "entry-1018549",
       "label": "scene",
       "level": "3",
@@ -3555,7 +3531,7 @@
       "text": "(Resumption of Debate interrupted on 5.5.2020)"
     },
     {
-      "order": 297,
+      "order": 295,
       "id": "entry-1018550",
       "label": "speech",
       "level": "3",
@@ -3567,7 +3543,7 @@
       "text": "Yes, Sen. Orengo."
     },
     {
-      "order": 298,
+      "order": 296,
       "id": "entry-1018551",
       "label": "speech",
       "level": "3",
@@ -3579,7 +3555,7 @@
       "text": "Mr. Speaker, Sir, since the Bill had been moved and seconded and essentially CARA and the formula are related, am I in order to ask you to call upon the Mover to reply, then we vote and then the comments be made together?"
     },
     {
-      "order": 299,
+      "order": 297,
       "id": "entry-1018552",
       "label": "speech",
       "level": "3",
@@ -3591,7 +3567,7 @@
       "text": "The records we have are different because they indicate that the Mover had only spoken for three minutes and the Speaker ruled that the mover be suspended pending the meeting with the CRA on the Formula for the Third Basis for Revenue Allocation. So you move. Yes, Sen. Murkomen."
     },
     {
-      "order": 300,
+      "order": 298,
       "id": "entry-1018553",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3579,7 @@
       "text": "Mr. Speaker, Sir, in that regard, it means the Motion was not moved. Would I be in order then, to request the Mover to move it as amended? Since it had not been moved, we move it as amended. We do not have to go through all these amendments that are in the Order Paper. He can move it together with the amendments. I think that is in order within the Standing Orders."
     },
     {
-      "order": 301,
+      "order": 299,
       "id": "entry-1018554",
       "label": "speech",
       "level": "3",
@@ -3615,7 +3591,7 @@
       "text": "This is Second Reading. The new Chairperson, can you move it."
     },
     {
-      "order": 302,
+      "order": 300,
       "id": "entry-1018555",
       "label": "speech",
       "level": "3",
@@ -3627,7 +3603,7 @@
       "text": "But it is 20 pages. Mr. Speaker, Sir, I beg to move the following- The County Allocation of Revenue Bill (Senate Bill No. 7 of 2020). The amendments are there. The County Allocation of Revenue Bill (Senate Bill No. 7 of 2020) is prepared in accordance with Article 217 and Article 218 (1)(b) of the Constitution. The Bill guarantees the county governments their respective share or revenue---"
     },
     {
-      "order": 303,
+      "order": 301,
       "id": "entry-1018556",
       "label": "speech",
       "level": "3",
@@ -3639,7 +3615,7 @@
       "text": "Order, Sen. Kibiru. Could you move it so that the Bill be read a Second Time first?"
     },
     {
-      "order": 304,
+      "order": 302,
       "id": "entry-1018557",
       "label": "speech",
       "level": "3",
@@ -3651,7 +3627,7 @@
       "text": "Mr. Speaker, Sir, I beg to move that the County Allocation of Revenue Bill (Senate Bills No.7 of 2020) be now Read a Second Time. Mr. Speaker, Sir, the annual allocation to counties is based on the provisions of the Division of Revenue Act (DORA) as required by Section 191(3) of the Public Finance Management Act, 2012. The Division of Revenue Act, 2020 gives a total allocation of Kshs369.8 billion to county governments for the Financial Year 2020/2021. The allocation of Kshs369.8 billion is an aggregate of the following- (1) Equitable share of Kshs316.5 billion as set out in the First Schedule of the Bill; (2) Conditional allocation from the national Government share of Kshs23.16 billion as indicated in the Second Schedule; and, (3) Conditional allocation as loans and grants from development partners of Kshs30.2 billion as indicated in the Third Schedule. Mr. Speaker, Sir, the First Schedule of the Bill sets the allocation of each county government's equitable share of revenue raised nationally in the Financial Year 2020/2021. The Second Schedule of the Bill sets out the six conditions for allocation to the counties from the share of national Government revenue for the Financial Year 2020/2021. This constitutes a total of Kshs23.1 billion, including Kshs9 billion from the Roads Maintenance Levy Board Fund. The six conditional allocations to the county governments are: (i) Leasing of medical equipment of Kshs6.05 billion has increased to Kshs6.2 billion allocated in the financial year 2019/2020. (ii) Level 5 hospitals of Kshs4.33billion. (iii) Compensation for user fee foregone of Kshs900 million. (iv) Rehabilitation of youth polytechnics of Kshs2 billion. (v) Supplementary for construction of county headquarters of five counties of Kshs300 million, which has decreased from Kshs485 million allocated in the Financial Year 2019/2020. (vi) Road Maintenance Fuel Levy funds of Kshs9.43 billion which has increased from the allocation of Kshs8.98 billion in the Financial Year 2019/2020. The increase is attributable to higher projected revenues from the fuel levy in the Financial Year 2020/2021. Mr. Speaker, Sir, the Second Schedule with respect to conditional allocations to county governments from loans and grants from development partners during the Financial Year 2020/2021, the National Treasury is a signatory to the financing agreement with development partners. During the Financial Year 2020/2021, the total additional conditional allocations from the development partners amounts to Kshs30.2 billion which is a decrease from the allocation of Kshs39.09 billion allocated in the Financial Year 2019/2020. Mr. Speaker, Sir, the conditional allocations from the development partners are as follows- (i) International Development Association (IDA) - Kenya Devolution Support Programme (KDSP) level one of Kshs2.115 billion. (ii) Transfer of health services for Universal Health Care (UHC), Universal Care Project of Kshs4.345 billion. (iii) DANIDA universal health for devolved system programme of Kshs900 million. (iv) National Agriculture and Rural Inclusive Growth Projects, (NARIGP) of Kshs4.261 billion. (v) African Union (AU) instruments for devolution advice and support ideas of Kshs216 million. (vi) IDA-World Bank Kenya Climate Smart Agriculture Project of Kshs7.119 billion. (vii) World Bank-Kenya Urban Support Programme (UDG) of Kshs6.366 billion. (viii) Water and Sanitation Development Projects of Kshs3.4 billion. (ix) Sweden Agriculture Sector Programme II of Kshs652.584 million. (x) AU Water Tower Protection and Climate Change Mitigation Adaptation Programme of Kshs528 million. (xi) Drought Resilience Programme in Norther Kenya of Kshs300 million. Mr. Speaker, Sir, the Fourth Schedule is on the budget ceilings on Recurrent Expenditure of county governments and county assemblies for the Financial Year 2021. Aware that the County Equitable Share for the Financial Year 2020/2021 remained the same as Equitable Share Allocation for the Financial Year 2019/2020, it is proposed that recurrent expenditure ceilings remain the same. Mr. Speaker, Sir, it is important for the House to note that the Equitable share Allocation provided in the Bill is based on Second Basis for sharing national revenue among counties. Having approved the Third Basis, it is proposed that the First Schedule of the Bill be amended to reflect county allocation based on the Third Basis. Mr. Speaker, Sir, pursuant to Article 187(2) of the Constitution and Gazette Notice No.1609 of 25th February, 2020, some functions of Nairobi City County, as set out in Part 2 of the Fourth Schedule of the Constitution were transferred to the national Government. Article 187(2)(a) of the Constitution requires that arrangements be put in place to ensure resources necessary to undertake or perform the functions transferred are provided. Article 219 of the Constitution provides that- \"A county's share of revenue raised by the national Government shall be transferred to the county without undue delay and without deduction, except when the transfer has been stopped under Article 225\". It is, therefore, important for the Bill to clarify on how matters concerning transfer of functions from the county governments to national Government would be dealt with. In line with the above provisions, the Committee proposed amendments to Clause 7 of the Bill, which currently provides that- \"Where a county government has transferred functions to national Government, pursuant to Article 187 of the Constitution---"
     },
     {
-      "order": 305,
+      "order": 303,
       "id": "entry-1018560",
       "label": "scene",
       "level": "3",
@@ -3663,7 +3639,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 306,
+      "order": 304,
       "id": "entry-1018561",
       "label": "speech",
       "level": "3",
@@ -3675,7 +3651,7 @@
       "text": "Mr. Speaker, Sir, in the interest of time, as stated in the Order Paper, those are the amendments that we have recommended. These provisions are intended to ensure the transferred functions are appropriately funded from the respective county government budget through the implementation of programmes under such functions under the national Government. Mr. Speaker, Sir, I beg to move and request Sen. (Dr.) Ochillo-Ayacko, my distinguished brother from Migori County, to second."
     },
     {
-      "order": 307,
+      "order": 305,
       "id": "entry-1018562",
       "label": "scene",
       "level": "3",
@@ -3687,7 +3663,7 @@
       "text": "(Sen. Kang'ata spoke of the record)"
     },
     {
-      "order": 308,
+      "order": 306,
       "id": "entry-1018563",
       "label": "speech",
       "level": "3",
@@ -3699,7 +3675,7 @@
       "text": "Thank you, Mr. Speaker, Sir. Protect me from Sen. Kang'ata. I am the Vice-Chairperson of the Committee and he cannot load it over me. I want to thank the Committee on Finance and Budget. I also want to thank colleague Senators for the good work that they have done. I want to appreciate my able Chairperson for moving this Bill. Mr. Speaker, Sir, we have had discussions to the extent that we are nearly exhausted on matters of finance. I just want to say a few things by way of seconding. I hope all of us will be in support of this Bill. A politician in my backyard, who is deceased, once said that: \"In order for conception to take place or in order for pregnancy to take place, there must be physical and robust engagement of a man and a woman\". That engagement is the engagement that leads to conception and all of us were conceived that way. Mr. Speaker, Sir, I want to say that this Bill has been preceded by that kind of engagement. This House and the nation have engaged robustly. Some people were apprehensive that the engagement would tear the nation apart. I am happy and so are my colleagues that out of that engagement, a healthy child has been born. You can see every person clinging parentage to that child. I think that is a wonderful thing. Many people have called us names, but those people have nothing to show for the success we have today. Some of them are waiting for this money, which they have not fought for, but do not want to come to this House to account. I do not want to mention them. I just want them to appreciate the fact that, it is this robust engagement that has led to the monies that they are expecting to utilize. I hope they utilize that it well. Mr. Speaker, Sir, I want to say that the amendments that are being proposed are also healthy amendments to have the monies released to the counties in time. One of the proposed issues is to enjoin the National Treasury and the Controller of Budget (CoB) to release monies to counties in a timely way and to ensure that counties are not starved of funds. Lastly, I want to thank Members of this Senate for that kind of engagement. It caught the attention of everybody, including the \"People's President\" and the President of the Republic of Kenya. When the Senate and its leadership met in that House, everything good came out of it. I am happy to be associated with what has come out of it. I want to conclude because the mood of the House is that we dispense and dispatch money to counties, so that the \"council of gangsters\" do not continue with their gangsterism. Mr. Speaker, Sir, I propose and second that we do so. Thank you very much."
     },
     {
-      "order": 309,
+      "order": 307,
       "id": "entry-1018565",
       "label": "speech",
       "level": "3",
@@ -3711,7 +3687,7 @@
       "text": "You second and not propose."
     },
     {
-      "order": 310,
+      "order": 308,
       "id": "entry-1018566",
       "label": "speech",
       "level": "3",
@@ -3723,7 +3699,7 @@
       "text": "I want to propose and second. I am doing both. These are just semantics."
     },
     {
-      "order": 311,
+      "order": 309,
       "id": "entry-1018567",
       "label": "speech",
       "level": "3",
@@ -3735,7 +3711,7 @@
       "text": "That is not your work."
     },
     {
-      "order": 312,
+      "order": 310,
       "id": "entry-1018568",
       "label": "speech",
       "level": "3",
@@ -3747,7 +3723,7 @@
       "text": "Mr. Speaker, Sir, it is semantics."
     },
     {
-      "order": 313,
+      "order": 311,
       "id": "entry-1018569",
       "label": "speech",
       "level": "3",
@@ -3759,7 +3735,7 @@
       "text": "Do not get into semantics that will mislead the House, just for the record."
     },
     {
-      "order": 314,
+      "order": 312,
       "id": "entry-1018570",
       "label": "speech",
       "level": "3",
@@ -3771,7 +3747,7 @@
       "text": "Mr. Speaker, Sir, I stand advised and I second. Thank you for the honor and correction."
     },
     {
-      "order": 315,
+      "order": 313,
       "id": "entry-1018571",
       "label": "scene",
       "level": "3",
@@ -3783,7 +3759,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 316,
+      "order": 314,
       "id": "entry-1018572",
       "label": "speech",
       "level": "3",
@@ -3795,7 +3771,7 @@
       "text": "Again, we are going to use the Roll Call to vote just like we did the other time. I direct that the Bell be rung for five minutes."
     },
     {
-      "order": 317,
+      "order": 315,
       "id": "entry-1018573",
       "label": "scene",
       "level": "3",
@@ -3807,7 +3783,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 318,
+      "order": 316,
       "id": "entry-1018574",
       "label": "speech",
       "level": "3",
@@ -3819,7 +3795,7 @@
       "text": "The Whips, make sure your Members are here. Who are the Tellers? Sen. Cherargei, are you the teller for the \"Ayes\" or \"Noes\"? Who is the Teller for the \"noes\"? Okay. Can we start? Let us start the voting."
     },
     {
-      "order": 319,
+      "order": 317,
       "id": "entry-1018575",
       "label": "scene",
       "level": "3",
@@ -3831,7 +3807,7 @@
       "text": "(Hon. Senators proceeded to vote by Roll Call Voting)"
     },
     {
-      "order": 320,
+      "order": 318,
       "id": "entry-1018576",
       "label": "speech",
       "level": "3",
@@ -3843,7 +3819,7 @@
       "text": "Take your seats, Senators. Order, Senators! Before I read the results, I just want to remind Senators that there is another voting. You will hang around so that we conclude this business tonight."
     },
     {
-      "order": 321,
+      "order": 319,
       "id": "entry-1018577",
       "label": "heading",
       "level": "3",
@@ -3855,7 +3831,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 322,
+      "order": 320,
       "id": "entry-1018579",
       "label": "scene",
       "level": "3",
@@ -3867,7 +3843,7 @@
       "text": "(Question, that The County Allocation of Revenue Bill (Senate Bills No. 7 of 2020) be read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 323,
+      "order": 321,
       "id": "entry-1018580",
       "label": "other",
       "level": "3",
@@ -3879,7 +3855,7 @@
       "text": "AYES:"
     },
     {
-      "order": 324,
+      "order": 322,
       "id": "entry-1018581",
       "label": "other",
       "level": "3",
@@ -3891,7 +3867,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Lang'at, Bomet County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. (Dr.) Mwaura, Kiambu County; Sen. Mwaruma, Taita-Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Omogeni, Nyamira County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wako, Busia County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County and; Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 325,
+      "order": 323,
       "id": "entry-1018582",
       "label": "speech",
       "level": "3",
@@ -3903,7 +3879,7 @@
       "text": "Sen. Cherargei."
     },
     {
-      "order": 326,
+      "order": 324,
       "id": "entry-1018583",
       "label": "speech",
       "level": "3",
@@ -3915,7 +3891,7 @@
       "text": "Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 327,
+      "order": 325,
       "id": "entry-1018584",
       "label": "speech",
       "level": "3",
@@ -3927,7 +3903,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 37\n\nNOES"
     },
     {
-      "order": 328,
+      "order": 326,
       "id": "entry-1018588",
       "label": "speech",
       "level": "3",
@@ -3936,22 +3912,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": ": Nil\n\nABSENTIONS"
+      "text": ": Nil\n\nABSENTIONS\n\n: Nil"
     },
     {
-      "order": 329,
-      "id": "entry-1018590",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 330,
+      "order": 327,
       "id": "entry-1018591",
       "label": "scene",
       "level": "3",
@@ -3963,7 +3927,7 @@
       "text": "(Question carried by 37 votes to nil)"
     },
     {
-      "order": 331,
+      "order": 328,
       "id": "entry-1018592",
       "label": "scene",
       "level": "3",
@@ -3975,7 +3939,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole today by leave of the House)"
     },
     {
-      "order": 332,
+      "order": 329,
       "id": "entry-1018593",
       "label": "speech",
       "level": "3",
@@ -3987,7 +3951,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 333,
+      "order": 330,
       "id": "entry-1018594",
       "label": "heading",
       "level": "1",
@@ -3999,7 +3963,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 334,
+      "order": 331,
       "id": "entry-1018595",
       "label": "scene",
       "level": "1",
@@ -4011,7 +3975,7 @@
       "text": "(Order for Committee read)"
     },
     {
-      "order": 335,
+      "order": 332,
       "id": "entry-1018596",
       "label": "scene",
       "level": "1",
@@ -4023,7 +3987,7 @@
       "text": "[The Speaker (Hon. Lusaka) left the Chair\n\n]"
     },
     {
-      "order": 336,
+      "order": 333,
       "id": "entry-1018598",
       "label": "heading",
       "level": "2",
@@ -4035,7 +3999,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 337,
+      "order": 334,
       "id": "entry-1018599",
       "label": "scene",
       "level": "2",
@@ -4047,7 +4011,7 @@
       "text": "[The Temporary Chairperson (Sen. (Dr.) Mwaura) in the Chair]"
     },
     {
-      "order": 338,
+      "order": 335,
       "id": "entry-1018600",
       "label": "heading",
       "level": "3",
@@ -4059,7 +4023,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO.7 OF 2020)"
     },
     {
-      "order": 339,
+      "order": 336,
       "id": "entry-1018601",
       "label": "speech",
       "level": "3",
@@ -4071,7 +4035,7 @@
       "text": "Waheshimiwa Maseneta sasa tuko katika Kamati ya Jumla ili tuweze kuanza kufuatilizia."
     },
     {
-      "order": 340,
+      "order": 337,
       "id": "entry-1018602",
       "label": "heading",
       "level": "5",
@@ -4083,7 +4047,7 @@
       "text": "Clauses 3, 4, 5 and 6"
     },
     {
-      "order": 341,
+      "order": 338,
       "id": "entry-1018603",
       "label": "scene",
       "level": "5",
@@ -4095,7 +4059,7 @@
       "text": "(Question, that Clause 3, 4, 5, and 6 be part of the Bill proposed)"
     },
     {
-      "order": 342,
+      "order": 339,
       "id": "entry-1018604",
       "label": "speech",
       "level": "5",
@@ -4107,7 +4071,7 @@
       "text": "Tutapiga kura hapo mwisho."
     },
     {
-      "order": 343,
+      "order": 340,
       "id": "entry-1018605",
       "label": "heading",
       "level": "5",
@@ -4119,7 +4083,7 @@
       "text": "Clause 7"
     },
     {
-      "order": 344,
+      "order": 341,
       "id": "entry-1018606",
       "label": "speech",
       "level": "5",
@@ -4131,7 +4095,7 @@
       "text": "Mwenyekiti, endelea."
     },
     {
-      "order": 345,
+      "order": 342,
       "id": "entry-1018607-split-before-61a502c2-acee-4fc6-be37-e2ee63e05b82",
       "label": "speech",
       "level": "5",
@@ -4143,7 +4107,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move- THAT, Clause 7 of the Bill be amended by inserting the following new sub clauses immediately after sub clause (3)- (4)The Cabinet Secretary shall prepare a report for each quarter of the financial year in respect of the expenditure of funds transferred to the National Government pursuant to subsection (3). (5) In preparing a report under subsection (4), the Cabinet Secretary shall ensure that the report- (a) contains information on the financial and non-financial performance of the entity assigned to carry out the transferred functions on behalf of the National Government;\n\n(b) is in a form determined by the Accounting Standards Board; and\n\n(c) contains such further information as the Senate or the National Assembly may, pursuant to section 34 of the Public Finance Management Act, require.\n\n(6) The Cabinet Secretary shall submit the report prepared\n\nunder subsection (5) to the Senate, the National Assembly, the Controller of Budget, the Auditor General and the respective county assembly."
     },
     {
-      "order": 346,
+      "order": 343,
       "id": "entry-1018613",
       "label": "scene",
       "level": "5",
@@ -4155,7 +4119,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 347,
+      "order": 344,
       "id": "entry-1018614",
       "label": "speech",
       "level": "5",
@@ -4167,7 +4131,7 @@
       "text": "Tutapiga kura tukimaliza."
     },
     {
-      "order": 348,
+      "order": 345,
       "id": "entry-1018615-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -4179,7 +4143,7 @@
       "text": "Clauses 8 and 9"
     },
     {
-      "order": 349,
+      "order": 346,
       "id": "entry-1018615-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4191,7 +4155,7 @@
       "text": "(Question, that Clauses 8 and 9 be part of the Bill proposed)"
     },
     {
-      "order": 350,
+      "order": 347,
       "id": "entry-1018616",
       "label": "speech",
       "level": "5",
@@ -4203,7 +4167,7 @@
       "text": "Tutapiga kura mwishowe."
     },
     {
-      "order": 351,
+      "order": 348,
       "id": "entry-1018617",
       "label": "heading",
       "level": "5",
@@ -4215,7 +4179,7 @@
       "text": "Clause 10"
     },
     {
-      "order": 352,
+      "order": 349,
       "id": "entry-1018618",
       "label": "speech",
       "level": "5",
@@ -4227,7 +4191,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move - THAT, Clause 10 of the Bill be amended by deleting the words \"any serious or persistent\" appearing immediately after the words \"any other law\"."
     },
     {
-      "order": 353,
+      "order": 350,
       "id": "entry-1018620",
       "label": "scene",
       "level": "5",
@@ -4239,7 +4203,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 354,
+      "order": 351,
       "id": "entry-1018621",
       "label": "speech",
       "level": "5",
@@ -4251,7 +4215,7 @@
       "text": "Tutapiga kura mwishowe."
     },
     {
-      "order": 355,
+      "order": 352,
       "id": "entry-1018622",
       "label": "heading",
       "level": "5",
@@ -4263,7 +4227,7 @@
       "text": "Clause 11"
     },
     {
-      "order": 356,
+      "order": 353,
       "id": "entry-1018623",
       "label": "speech",
       "level": "5",
@@ -4275,7 +4239,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move - THAT Clause 11 of the Bill be deleted and substituted therefor with the following new clause- Applicable 11. For the avoidance of doubt the revenue- sharing allocation of the equitable share of revenue to the county formula. governments under section 4 of this Act is in accordance with the third determination of the basis of the division of revenue among counties approved by Parliament pursuant to Article 217 of the Constitution."
     },
     {
-      "order": 357,
+      "order": 354,
       "id": "entry-1018624",
       "label": "scene",
       "level": "5",
@@ -4287,7 +4251,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 358,
+      "order": 355,
       "id": "entry-1018625",
       "label": "speech",
       "level": "5",
@@ -4299,7 +4263,7 @@
       "text": "Tutapiga kura tukitamatisha. Sen. Mutula Kilonzo Jnr., proceed."
     },
     {
-      "order": 359,
+      "order": 356,
       "id": "entry-1018626",
       "label": "speech",
       "level": "5",
@@ -4311,7 +4275,7 @@
       "text": "Mr. Temporary Chairman, Sir, I thought that in your communication, you would say that \"I propose that Clause 11 be amended\" as opposed to be saying \"be part of the Bill\" because it is being amended. Yaani Kiswahili chako kinaleta utata."
     },
     {
-      "order": 360,
+      "order": 357,
       "id": "entry-1018627",
       "label": "speech",
       "level": "5",
@@ -4323,7 +4287,7 @@
       "text": "Sen. Mutula Kilonzo Jnr., ninafikiri nimefanya vivyo hivyo. Nimesema kwamba \"ninapendekeza swala rasmi kwamba Kipengele 11 kiwe mojawapo kwa Mswada\". La pili ninasema kwamba \"ninapendekeza swali rasmi kwamba, Kipengele 11 kiweze kurekebishwa kama vile kimependekezwa na Mwenyekiti.\""
     },
     {
-      "order": 361,
+      "order": 358,
       "id": "entry-1018628",
       "label": "speech",
       "level": "5",
@@ -4335,7 +4299,7 @@
       "text": "Bwana Mwenyekiti wa Muda, kwa hivyo unasoma mara mbili."
     },
     {
-      "order": 362,
+      "order": 359,
       "id": "entry-1018629",
       "label": "heading",
       "level": "5",
@@ -4347,7 +4311,7 @@
       "text": "New Clause 12"
     },
     {
-      "order": 363,
+      "order": 360,
       "id": "entry-1018630",
       "label": "speech",
       "level": "5",
@@ -4359,7 +4323,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move - THAT the following new clause be inserted immediately after clause 11- Disbursement 12. (1) The Schedule prepared under Section Schedule. 17(7) of the Public Finance Management Act shall reflect that the disbursement of monies allocated to No. 18 of counties in Financial Year 2020/2021 is effective from 2012 1st July, 2020. (2) Notwithstanding the provisions of Subsection (1), the National Treasury shall transfer to the counties the total disbursement due in the first quarter of Financial Year 2020/2021 within seven days of the approval of the Schedule by the Senate."
     },
     {
-      "order": 364,
+      "order": 361,
       "id": "entry-1018635",
       "label": "scene",
       "level": "5",
@@ -4371,7 +4335,7 @@
       "text": "(Question of the New Clause 12 proposed)"
     },
     {
-      "order": 365,
+      "order": 362,
       "id": "entry-1018636",
       "label": "scene",
       "level": "5",
@@ -4383,7 +4347,7 @@
       "text": "(The New Clause 12 was read a First Time)"
     },
     {
-      "order": 366,
+      "order": 363,
       "id": "entry-1018637",
       "label": "speech",
       "level": "5",
@@ -4395,7 +4359,7 @@
       "text": "Mwenyekiti tafadhali karibia hapa ili tuweze kuwasiliana vyema. Tuwieni radhi. Hatuna ule uzoefu, lakini tunajaribu. Mwenyekiti ni wakati wako."
     },
     {
-      "order": 367,
+      "order": 364,
       "id": "entry-1018638",
       "label": "speech",
       "level": "5",
@@ -4407,7 +4371,7 @@
       "text": "Mr. Temporary Chairman, Sir, I propose that---"
     },
     {
-      "order": 368,
+      "order": 365,
       "id": "entry-1018639",
       "label": "speech",
       "level": "5",
@@ -4419,7 +4383,7 @@
       "text": "Samahani Mwenyekiti. Kama unaweza kuketi hapa karibu itatusaidia sana."
     },
     {
-      "order": 369,
+      "order": 366,
       "id": "entry-1018640",
       "label": "speech",
       "level": "5",
@@ -4431,7 +4395,7 @@
       "text": "Mr. Temporary Chairman, Sir, I propose that New Clause 12 be now read a Second Time."
     },
     {
-      "order": 370,
+      "order": 367,
       "id": "entry-1018641",
       "label": "scene",
       "level": "5",
@@ -4443,7 +4407,7 @@
       "text": "(Question, that the New Clause 12 be read a Second Time proposed)"
     },
     {
-      "order": 371,
+      "order": 368,
       "id": "entry-1018642",
       "label": "scene",
       "level": "5",
@@ -4455,7 +4419,7 @@
       "text": "(Question, that the New Clause 12 be part of the Bill proposed)"
     },
     {
-      "order": 372,
+      "order": 369,
       "id": "entry-1018643",
       "label": "speech",
       "level": "5",
@@ -4467,7 +4431,7 @@
       "text": "Tutapiga kura tukitamatisha."
     },
     {
-      "order": 373,
+      "order": 370,
       "id": "entry-1018644",
       "label": "heading",
       "level": "5",
@@ -4479,7 +4443,7 @@
       "text": "First Schedule"
     },
     {
-      "order": 374,
+      "order": 371,
       "id": "entry-1018645",
       "label": "speech",
       "level": "5",
@@ -4491,7 +4455,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move - THAT, the Bill be amended by deleting the First Schedule and substituting therefor the following new schedule-"
     },
     {
-      "order": 375,
+      "order": 372,
       "id": "entry-1018646",
       "label": "scene",
       "level": "5",
@@ -4503,7 +4467,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 376,
+      "order": 373,
       "id": "entry-1018647",
       "label": "speech",
       "level": "5",
@@ -4515,7 +4479,7 @@
       "text": "Tutapiga kura hapo mwishowe.\n\nThe Second Schedule, Third Schedule and Fourth Schedule"
     },
     {
-      "order": 377,
+      "order": 374,
       "id": "entry-1018648-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -4527,7 +4491,7 @@
       "text": "(Question, that the Second Schedule, Third Schedule and Fourth Schedule, be part of the Bill proposed)"
     },
     {
-      "order": 378,
+      "order": 375,
       "id": "entry-1018649",
       "label": "speech",
       "level": "5",
@@ -4539,7 +4503,7 @@
       "text": "Tutapiga kura hapo mwishowe."
     },
     {
-      "order": 379,
+      "order": 376,
       "id": "entry-1018650",
       "label": "heading",
       "level": "5",
@@ -4551,7 +4515,7 @@
       "text": "Clause 2 and the Title"
     },
     {
-      "order": 380,
+      "order": 377,
       "id": "entry-1018651",
       "label": "scene",
       "level": "5",
@@ -4563,7 +4527,7 @@
       "text": "(Question, that Clause 2 and the Title be part of the Bill proposed)"
     },
     {
-      "order": 381,
+      "order": 378,
       "id": "entry-1018652",
       "label": "speech",
       "level": "5",
@@ -4575,7 +4539,7 @@
       "text": "Tutapiga kura hapo mwishowe."
     },
     {
-      "order": 382,
+      "order": 379,
       "id": "entry-1018653",
       "label": "heading",
       "level": "5",
@@ -4587,7 +4551,7 @@
       "text": "Clause 1"
     },
     {
-      "order": 383,
+      "order": 380,
       "id": "entry-1018654",
       "label": "speech",
       "level": "5",
@@ -4599,7 +4563,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move - THAT Clause 1 of the Bill be deleted and substituted with the following new clause- Short title and 1. This Act may be cited as the County Allocation of Revenue commencement. Act, 2020 and shall be deemed to have come into force on 1st July, 2020."
     },
     {
-      "order": 384,
+      "order": 381,
       "id": "entry-1018656",
       "label": "scene",
       "level": "5",
@@ -4611,7 +4575,7 @@
       "text": "Question of the amendment proposed)"
     },
     {
-      "order": 385,
+      "order": 382,
       "id": "entry-1018657",
       "label": "speech",
       "level": "5",
@@ -4623,7 +4587,7 @@
       "text": "Tutapiga kura hapo mwisho. Asanteni sana Waheshimiwa. Tumefika tamati ya Mswada huu. Ningependa kuomba kwamba, kengele ipigwe kwa dakika mbili ndipo tuweze kurejea katika kikao rasmi. Asante."
     },
     {
-      "order": 386,
+      "order": 383,
       "id": "entry-1018658",
       "label": "scene",
       "level": "5",
@@ -4635,7 +4599,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 387,
+      "order": 384,
       "id": "entry-1018659",
       "label": "speech",
       "level": "5",
@@ -4647,7 +4611,7 @@
       "text": "Kengele iweze kupigwa kwa dakika zingine tatu kwa sababu hatuna Maseneta wa kutosha kupiga kura."
     },
     {
-      "order": 388,
+      "order": 385,
       "id": "entry-1018660",
       "label": "scene",
       "level": "5",
@@ -4659,7 +4623,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 389,
+      "order": 386,
       "id": "entry-1018661",
       "label": "scene",
       "level": "5",
@@ -4671,7 +4635,7 @@
       "text": "(Several hon. Senators walked into the chamber)"
     },
     {
-      "order": 390,
+      "order": 387,
       "id": "entry-1018662",
       "label": "speech",
       "level": "5",
@@ -4683,7 +4647,7 @@
       "text": "Waheshimiwa Maseneta, tunaweza kuketi ili tuweze kuendelea. Maseneta tafadhali tutapiga kura. Nitasoma maswala yote matatu, ukipiga kura unasema, unapiga ndio au la kwa maswala yote matatu."
     },
     {
-      "order": 391,
+      "order": 388,
       "id": "entry-1018663",
       "label": "scene",
       "level": "5",
@@ -4695,7 +4659,7 @@
       "text": "(Roll Call voting in progress)"
     },
     {
-      "order": 392,
+      "order": 389,
       "id": "entry-1018664",
       "label": "speech",
       "level": "5",
@@ -4707,19 +4671,19 @@
       "text": "Sasa tunangoja matokeo. Mhakikishe kwamba hakuna wizi wa kura."
     },
     {
-      "order": 393,
+      "order": 390,
       "id": "entry-1018665",
       "label": "speech",
       "level": "5",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Dr.) Mwaura)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
       "text": "Waheshimiwa Maseneta, haya ndio matokeo ya kura ambayo tumepiga sasa hivi."
     },
     {
-      "order": 394,
+      "order": 391,
       "id": "entry-1018666",
       "label": "heading",
       "level": "3",
@@ -4731,7 +4695,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO.7 OF 2020)"
     },
     {
-      "order": 395,
+      "order": 392,
       "id": "entry-1018667",
       "label": "heading",
       "level": "3",
@@ -4743,7 +4707,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 396,
+      "order": 393,
       "id": "entry-1018669",
       "label": "scene",
       "level": "3",
@@ -4755,7 +4719,7 @@
       "text": "(Question, that New Clause 12 be now Read a Second time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 397,
+      "order": 394,
       "id": "entry-1018670",
       "label": "other",
       "level": "3",
@@ -4767,7 +4731,7 @@
       "text": "AYES:"
     },
     {
-      "order": 398,
+      "order": 395,
       "id": "entry-1018671",
       "label": "other",
       "level": "3",
@@ -4779,7 +4743,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi City County; Sen. Haji, Garissa County; Sen. M. Kajwang', Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen.(Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Lang'at, Bomet County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita/Taveta County; Sen. (Dr.) Mwaura, Kiambu County; Sen. Nyamunga, Kisumu County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Wako, Busia County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County, Sen. Wario, Tana River County and; Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 399,
+      "order": 396,
       "id": "entry-1018672",
       "label": "other",
       "level": "3",
@@ -4788,22 +4752,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 400,
-      "id": "entry-1018673",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 401,
+      "order": 397,
       "id": "entry-1018674",
       "label": "speech",
       "level": "3",
@@ -4815,7 +4767,7 @@
       "text": "Sen. Loitiptip."
     },
     {
-      "order": 402,
+      "order": 398,
       "id": "entry-1018675",
       "label": "speech",
       "level": "3",
@@ -4827,7 +4779,7 @@
       "text": "Sen. Were."
     },
     {
-      "order": 403,
+      "order": 399,
       "id": "entry-1018676",
       "label": "speech",
       "level": "3",
@@ -4839,7 +4791,7 @@
       "text": "Matokeo ya Kura ambayo tumepiga ni kama ifuatavyo-\n\nAYES:\n\n32\n\nNOES\n\n: 0\n\nABSTENTIONS"
     },
     {
-      "order": 404,
+      "order": 400,
       "id": "entry-1018682",
       "label": "speech",
       "level": "3",
@@ -4851,7 +4803,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 405,
+      "order": 401,
       "id": "entry-1018683",
       "label": "scene",
       "level": "3",
@@ -4863,7 +4815,7 @@
       "text": "(Question carried by 32 votes to nil)"
     },
     {
-      "order": 406,
+      "order": 402,
       "id": "entry-1018684",
       "label": "heading",
       "level": "3",
@@ -4875,7 +4827,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 407,
+      "order": 403,
       "id": "entry-1018686",
       "label": "scene",
       "level": "3",
@@ -4887,7 +4839,7 @@
       "text": "(Question, that, Clauses 7, 10, 11, the First Schedule and Clause 1 be amended as proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 408,
+      "order": 404,
       "id": "entry-1018687",
       "label": "other",
       "level": "3",
@@ -4899,7 +4851,7 @@
       "text": "AYES:"
     },
     {
-      "order": 409,
+      "order": 405,
       "id": "entry-1018688",
       "label": "other",
       "level": "3",
@@ -4911,7 +4863,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi City County; Sen. Haji, Garissa County; Sen. M. Kajwang', Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen.(Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Lang'at, Bomet County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita/Taveta County; Sen. (Dr.) Mwaura, Kiambu County; Sen. Nyamunga, Kisumu County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Wako, Busia County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County, Sen. Wario, Tana River County and; Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 410,
+      "order": 406,
       "id": "entry-1018689",
       "label": "other",
       "level": "3",
@@ -4920,22 +4872,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 411,
-      "id": "entry-1018690",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Mwaura)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 412,
+      "order": 407,
       "id": "entry-1018691",
       "label": "speech",
       "level": "3",
@@ -4947,7 +4887,7 @@
       "text": "Sen. Loitiptip."
     },
     {
-      "order": 413,
+      "order": 408,
       "id": "entry-1018692",
       "label": "speech",
       "level": "3",
@@ -4959,7 +4899,7 @@
       "text": "Sen. Were."
     },
     {
-      "order": 414,
+      "order": 409,
       "id": "entry-1018693",
       "label": "speech",
       "level": "3",
@@ -4971,7 +4911,7 @@
       "text": "Matokeo ya Kura ambayo tumeipiga ni kama ifuatavyo:\n\nAYES:\n\n32\n\nNOES\n\n: 0\n\nABSENTIONS"
     },
     {
-      "order": 415,
+      "order": 410,
       "id": "entry-1018699",
       "label": "speech",
       "level": "3",
@@ -4983,7 +4923,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 416,
+      "order": 411,
       "id": "entry-1018700",
       "label": "scene",
       "level": "3",
@@ -4995,7 +4935,7 @@
       "text": "(Question carried by 32 votes to nil)"
     },
     {
-      "order": 417,
+      "order": 412,
       "id": "entry-1018701",
       "label": "heading",
       "level": "3",
@@ -5007,7 +4947,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 418,
+      "order": 413,
       "id": "entry-1018703",
       "label": "scene",
       "level": "3",
@@ -5019,7 +4959,7 @@
       "text": "(Question, that, Clauses 3, 4, 5, 6, 7(as amended, 8,9,10 (as amended), 11(as amended), New Clause 12 the First Schedule (as amended), the Second Schedule, the Third Schedule, the Fourth Schedule, Clause 2, the Title and Clause 1(as amended) be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 419,
+      "order": 414,
       "id": "entry-1018704",
       "label": "other",
       "level": "3",
@@ -5031,7 +4971,7 @@
       "text": "AYES:"
     },
     {
-      "order": 420,
+      "order": 415,
       "id": "entry-1018705",
       "label": "other",
       "level": "3",
@@ -5043,7 +4983,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Farhiya,"
     },
     {
-      "order": 421,
+      "order": 416,
       "id": "entry-1018706",
       "label": "other",
       "level": "3",
@@ -5055,7 +4995,7 @@
       "text": "Nairobi City County; Sen. Haji, Garissa County; Sen. M. Kajwang', Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Lang'at, Bomet County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita/Taveta County; Sen.(Dr.) Mwaura, Kiambu County; Sen. Nyamunga, Kisumu County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Wako, Busia County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County, Sen. Wario, Tana River County and; Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 422,
+      "order": 417,
       "id": "entry-1018707",
       "label": "other",
       "level": "3",
@@ -5064,22 +5004,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 423,
-      "id": "entry-1018708",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Mwaura)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 424,
+      "order": 418,
       "id": "entry-1018709",
       "label": "speech",
       "level": "3",
@@ -5091,7 +5019,7 @@
       "text": "Sen. Loitiptip."
     },
     {
-      "order": 425,
+      "order": 419,
       "id": "entry-1018710",
       "label": "speech",
       "level": "3",
@@ -5103,7 +5031,7 @@
       "text": "Sen. Were."
     },
     {
-      "order": 426,
+      "order": 420,
       "id": "entry-1018711",
       "label": "speech",
       "level": "3",
@@ -5115,7 +5043,7 @@
       "text": "Matokeo ya Kura ambayo tumeipiga ni kama ifuatavyo:\n\nAYES:\n\n32\n\nNOES\n\n: 0\n\nABSENTIONS"
     },
     {
-      "order": 427,
+      "order": 421,
       "id": "entry-1018717",
       "label": "speech",
       "level": "3",
@@ -5127,7 +5055,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 428,
+      "order": 422,
       "id": "entry-1018718",
       "label": "scene",
       "level": "3",
@@ -5139,7 +5067,7 @@
       "text": "(Question carried by 32 votes to nil)"
     },
     {
-      "order": 429,
+      "order": 423,
       "id": "entry-1018718-inserted-7104ddb0-208a-4479-8d6d-8f14ffb4aa26",
       "label": "heading",
       "level": "5",
@@ -5151,7 +5079,7 @@
       "text": "Clause 2, the Title and Clause 1(as amended)"
     },
     {
-      "order": 430,
+      "order": 424,
       "id": "entry-1018719",
       "label": "speech",
       "level": "5",
@@ -5163,7 +5091,7 @@
       "text": "I now call upon the Mover."
     },
     {
-      "order": 431,
+      "order": 425,
       "id": "entry-1018720",
       "label": "speech",
       "level": "5",
@@ -5175,7 +5103,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move that the Committee of the Whole do report to the Senate its consideration of The County Allocation of Revenue Bill (Senate Bills No.7 of 2020) and its approval thereof with amendments."
     },
     {
-      "order": 432,
+      "order": 426,
       "id": "entry-1018721",
       "label": "scene",
       "level": "5",
@@ -5187,7 +5115,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 433,
+      "order": 427,
       "id": "entry-1018722",
       "label": "scene",
       "level": "5",
@@ -5199,7 +5127,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 434,
+      "order": 428,
       "id": "entry-1018723",
       "label": "scene",
       "level": "5",
@@ -5211,7 +5139,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 435,
+      "order": 429,
       "id": "entry-1018724",
       "label": "scene",
       "level": "5",
@@ -5223,7 +5151,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 436,
+      "order": 430,
       "id": "entry-1018725",
       "label": "heading",
       "level": "3",
@@ -5235,7 +5163,7 @@
       "text": "REPORT AND CONSIDERATION OF REPORT"
     },
     {
-      "order": 437,
+      "order": 431,
       "id": "entry-1018726",
       "label": "heading",
       "level": "3",
@@ -5247,7 +5175,7 @@
       "text": "THE COUNTY ALLOCATION OF REVENUE BILL (SENATE BILLS NO. 7 OF 2020)"
     },
     {
-      "order": 438,
+      "order": 432,
       "id": "entry-1018727",
       "label": "speech",
       "level": "3",
@@ -5259,7 +5187,7 @@
       "text": "I now call upon the Chairperson of the Committee of the Whole to report progress."
     },
     {
-      "order": 439,
+      "order": 433,
       "id": "entry-1018728",
       "label": "speech",
       "level": "3",
@@ -5271,7 +5199,7 @@
       "text": "Bi. Spika wa Muda, ningependa kuweka rasmi Ripoti ya Kamati ya Bunge nzima ambayo imeweza kuangazia na kujadiliana kuhusu Mswada wa Ugavi wa Fedha (Mswada wa Bunge la Seneti No.7 wa 2020) kwa Kaunti zote 47, na vile ambavyo tumeweza kupitisha pamoja na marekebisho."
     },
     {
-      "order": 440,
+      "order": 434,
       "id": "entry-1018730",
       "label": "speech",
       "level": "3",
@@ -5283,7 +5211,7 @@
       "text": "I now call upon the Mover."
     },
     {
-      "order": 441,
+      "order": 435,
       "id": "entry-1018731",
       "label": "speech",
       "level": "3",
@@ -5295,7 +5223,7 @@
       "text": "I beg to move that the House do agree with the Committee in the said Report. I ask Sen. Faki to second."
     },
     {
-      "order": 442,
+      "order": 436,
       "id": "entry-1018732",
       "label": "speech",
       "level": "3",
@@ -5307,7 +5235,7 @@
       "text": "seconded."
     },
     {
-      "order": 443,
+      "order": 437,
       "id": "entry-1018733",
       "label": "scene",
       "level": "3",
@@ -5319,7 +5247,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 444,
+      "order": 438,
       "id": "entry-1018734",
       "label": "scene",
       "level": "3",
@@ -5331,7 +5259,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 445,
+      "order": 439,
       "id": "entry-1018735",
       "label": "speech",
       "level": "3",
@@ -5343,7 +5271,7 @@
       "text": "I now call upon the Mover."
     },
     {
-      "order": 446,
+      "order": 440,
       "id": "entry-1018736",
       "label": "speech",
       "level": "3",
@@ -5355,7 +5283,7 @@
       "text": "I beg to move that The County Allocation of Revenue Bill (Senate Bills No. 7 of 2020) be now Read a Third time and ask Sen. (Prof.) Ongeri to second."
     },
     {
-      "order": 447,
+      "order": 441,
       "id": "entry-1018737",
       "label": "speech",
       "level": "3",
@@ -5367,7 +5295,7 @@
       "text": "seconded."
     },
     {
-      "order": 448,
+      "order": 442,
       "id": "entry-1018738",
       "label": "scene",
       "level": "3",
@@ -5379,7 +5307,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 449,
+      "order": 443,
       "id": "entry-1018738-inserted-4a6f573d-162e-4ac5-8786-6384d09b0379",
       "label": "heading",
       "level": "1",
@@ -5391,7 +5319,7 @@
       "text": "THIRD READING"
     },
     {
-      "order": 450,
+      "order": 444,
       "id": "entry-1018739",
       "label": "speech",
       "level": "1",
@@ -5403,7 +5331,7 @@
       "text": "Hon. Senators, we are not putting the question because the formula has just been taken to the National Assembly. We will have to do it next week. For now, we can debate on the same formula. Let us give the Senate Minority Leader a chance."
     },
     {
-      "order": 451,
+      "order": 445,
       "id": "entry-1018741",
       "label": "speech",
       "level": "1",
@@ -5415,7 +5343,7 @@
       "text": "Thank you, Madam Temporary Speaker. I will speak after him."
     },
     {
-      "order": 452,
+      "order": 446,
       "id": "entry-1018742",
       "label": "speech",
       "level": "1",
@@ -5427,7 +5355,7 @@
       "text": "Mr. Speaker, Sir, this is a great day."
     },
     {
-      "order": 453,
+      "order": 447,
       "id": "entry-1018745",
       "label": "speech",
       "level": "1",
@@ -5439,7 +5367,7 @@
       "text": "It is Madam Speaker!"
     },
     {
-      "order": 454,
+      "order": 448,
       "id": "entry-1018746",
       "label": "speech",
       "level": "1",
@@ -5451,7 +5379,7 @@
       "text": "I am sorry, it is Madam Temporary Speaker. In the old order, whether it was lady or a man on the Chair, it was always 'Mr. Speaker.' I am very grateful for what has happened today in the Senate. You can see that we have achieved 100 per cent consensus on this issue."
     },
     {
-      "order": 455,
+      "order": 449,
       "id": "entry-1018748",
       "label": "scene",
       "level": "1",
@@ -5463,7 +5391,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 456,
+      "order": 450,
       "id": "entry-1018749",
       "label": "speech",
       "level": "1",
@@ -5475,7 +5403,7 @@
       "text": "In contributing to this matter, I thank His Excellency the President Uhuru Kenyatta because we had gone for weeks and months without a resolution. The authority and dignity of the Senate was being questioned. The Council of Governors (CoG) have this body, where they meet with the Executive; a high sounding name called the National and County Governors Coordination Summit, where the President is the Chair and the Vice-Chair is the Chair of the CoG. This issue would have been so easy had governors sat on their own and said: \"We have sat down and agreed that this is how we are going to share the cake.\" However, they left it to the Senate and did not want any Senator to go back to their counties and say that they had lost even a Shilling. I remember the case of Machakos County, where the county was not losing, and the Governor of Machakos, who is my friend, had already gone to the media to say that the Senator of Machakos, Sen. (Dr.) Kabaka, had sold out Machakos. Woe unto that Governor because Sen. (Dr.) Kabaka is taking Kshs1.4 billion to Machakos instead of the Kshs42 million. The Council of Governors (CoG) should act with a lot of introspection. I want to congratulate the Governor of Mandera, because he said there is no shutdown in Mandera. I hope that one of these days, I will hear a governor who has said because the breadwinner in the family cannot make ends meet, he will shut down his family. I hope one day, I will hear a governor who is courageous enough to say that since I cannot provide for my family, I have now shut it down. There are areas in Kenya which you shutdown, for example, Lamu County where there are terrorist activities, how can you shut them down? I want to again congratulate the President of the Republic of Kenya because last year we were told that we could not add Kshs5 billion. However, the Senate has negotiated and gotten an extra Kshs53.5 billion. The governors sat with the President last year and they have even been sitting with the President this year, but they did not get a single cent on top of what was allocated by the National Treasury. Shame unto these governors! Shame unto these governors!"
     },
     {
-      "order": 457,
+      "order": 451,
       "id": "entry-1018753",
       "label": "speech",
       "level": "1",
@@ -5487,7 +5415,7 @@
       "text": "Shame! Shame!"
     },
     {
-      "order": 458,
+      "order": 452,
       "id": "entry-1018754",
       "label": "speech",
       "level": "1",
@@ -5499,7 +5427,7 @@
       "text": "I have several press statements here from last year. Governors and Senators moved to court for the revenue Bill, to protest over cash impasse last year. Governors did not have any friends in this Republic and they depended on the Senate to go with them to the Supreme Court. I am glad that, that decision of the Supreme Court has played a role in the decision that we have made today. Madam Temporary Speaker, one of the reasons we are winning all the time--- I want Senators to listen to what Hon. Chief Justice Dr. Willy Mutunga said on the question of devolution. I want Sen. Mutula Kilonzo Jnr. to listen to this because he likes referring to the advisory opinion of the Supreme Court, which was a concurring decision. Sen. Mutula Kilonzo Jnr. normally refers to the decision on the Court, but I now want to refer to the decision of the Hon. Chief Justice (Dr.) Willy Mutunga, the Chief Justice at that time. Hon. Chief Justice (Dr.) Willy Mutunga said- \"Realising the role of the Senate, the Supreme Court in this reference bares a duty of care to ensure the Senate shall realise its Constitutional duty to protect the devolution process in Kenya's history and heritage.\" Hon. Chief Justice (Dr.) Willy Mutunga was saying knowing from the history we have had since we had the Senate, the only institution that was speaking for devolution was the Senate. He made a statement, which is part of this judgment that the Supreme Court bares a duty of care to us. I dare say, that is why we keep winning every case that we are doing. We are going to win the case that we had yesterday, but I do not want to say it loudly but as a lawyer, I am entitled to say. Madam Temporary Speaker, this Senate has a constitutional duty. When the three arms of Government cannot work in a harmonious way, the Senate has a role to bring that harmony. Last year, when the Senate was fighting very hard to increase the amount that would be allocated to counties to be more than Kshs335 billion--- I want to commend the Members of the Standing Committee on Finance and Budget and the Mediation Committee. I photocopied part of the record of this House and I want to table the debates we had in June, 2019, on 11th and 17th September, 2019. If you read what every Senator said that time and if the governors had read what we said at that time, they would not have allowed the allocation to be less than Kshs350 billion this year. However, we have done better than them and increased the allocation for the next financial year to Kshs370 billion. I hope that we will come together and reason together in this conversation. Martin Luther King Jr, who I respect, said- \"Only when it is dark enough can you see the stars\" When it looked like the Senate was divided, it was not division. I am one of the students of dialectical materialism as a logic. Until you have a thesis and antithesis, you cannot get a proper synthesis. You have to have two arguments from both sides and that is what all science is about. This world is based on friction. Without friction, there cannot be many things that we take for granted. That is the law of science. Even to produce children, the law of friction applies. There is a constant universal struggle between man and man, man and woman, woman and woman and between man and nature. Dialectics are very important as a rule of logic to enable us reach where we are. I want to be grateful for whatever formations we had, including Team Kenya and Team Katiba. I can tell you that if we had a world where everybody says, yes, this Senate is not a Church where you come in and ask people to close their eyes and say amen. No, we can never close our eyes. We will keep our eyes open at every moment and every time. These divisions are the very principle of democracy. Somebody said in the United States of America (USA) that demonstrations are part of democracy in America. As I conclude, I am now talking as Sen. Orengo, free speech is a central pillar of our democracy, inside and outside the Senate. I am hoping that everybody who wants Kenya to move forward, the medicine of bringing law and order is not to curtail free speech. In order to bring democracy in this country, when somebody says something that you do not agree with, you should have more free speech since that is the only way of resolving issues. In this Kenyan tent, we need to think about other things that are happening because if we do not have free speech, which is central to operations of Parliament, we will be moving backwards. However, I am glad that at least President Uhuru Kenyatta has looked over this particular issue and said we must come up with a formula that is good for all Kenyans. I also thank my party leader because without his interjection, probably getting there would have been extremely difficult. I say that without fear of contradiction because it reached a moment of trying to find out what we should do. I said at the beginning that we were quarrelling over a squirrel because we had Kshs316 billion to divide. My proposal was that we should get Kshs400 billion. The governors failed to get one shilling more, but the Senate has been able to get Kshs53 billion more. Siaya County will get more than Kshs1.1 billion, more. Next time the Senate calls governors to come here for accountability, they had better come running because the money that we give to them is not for them to use the way they like. Madam Temporary Speaker, I was trying to find out. Each county has a Fund and an account at the Central Bank of Kenya (CBK) because it is provided for in the Constitution. The Judiciary also has a Fund. Do you know that Parliament is supposed to have a Parliamentary Fund, but it has not been put into effect? We do not have such a Fund. We are just getting money anyhow. In fact, that constitutional arrangement is not complete until we get a proper Parliamentary Fund. When we wanted funds for oversight, we did not go on strike or shut down our operations. I cannot believe that a governor who has five vehicles and five homes can tell us that they will shut down because they cannot get extra money. Now they have got COVID-19 money on top of the money they want us to give them. I think governors have a lot of explanation to give. I hope that in the time to come, the question of accountability will be taken as seriously as the question of allocation. I have CPAIC reports about governors in volumes. Every time they do not get some little money, they run to the Senate, but when we want them for accountability, they say they cannot come. There are governors who said they will shut down their counties. It is only the Governor of Mandera who said he will not shut down. That is a Kenyan patriot. I thank you."
     },
     {
-      "order": 459,
+      "order": 453,
       "id": "entry-1018763",
       "label": "speech",
       "level": "1",
@@ -5511,7 +5439,7 @@
       "text": "Hon. Senators, I would like to give Sen. Haji the first opportunity before we continue. Sen. Malalah, what is your point of intervention?"
     },
     {
-      "order": 460,
+      "order": 454,
       "id": "entry-1018765",
       "label": "speech",
       "level": "1",
@@ -5523,7 +5451,7 @@
       "text": "Madam Temporary Speaker, I do not wish to delay Sen. Haji further. However, because it is getting late and due to the gravity of this matter, I request that we limit our time to five minutes each."
     },
     {
-      "order": 461,
+      "order": 455,
       "id": "entry-1018766",
       "label": "speech",
       "level": "1",
@@ -5535,7 +5463,7 @@
       "text": "Is that the mood of the House?"
     },
     {
-      "order": 462,
+      "order": 456,
       "id": "entry-1018767",
       "label": "speech",
       "level": "1",
@@ -5547,7 +5475,7 @@
       "text": "Yes!"
     },
     {
-      "order": 463,
+      "order": 457,
       "id": "entry-1018768",
       "label": "speech",
       "level": "1",
@@ -5559,7 +5487,7 @@
       "text": "Then we will reduce it to five minutes after Sen. Haji."
     },
     {
-      "order": 464,
+      "order": 458,
       "id": "entry-1018769",
       "label": "speech",
       "level": "1",
@@ -5571,7 +5499,7 @@
       "text": "Madam Temporary Speaker, I thank and salute you for giving me this opportunity. This is the first time for me to talk about the issue of the revenue formula which has been going on for the past one month. The only time I spoke about it is when we held a press conference at the gate of the Senate. At that time, I said that while it is quite in order for people who need to be given more money because they have to give more services, at the same time, there is nowhere in the Bible or the Quran where it is stated that you should take away from the poor. This has been proven by the fact that our 12-Member Committee has tirelessly worked and met more than 17 times for this to be achieved."
     },
     {
-      "order": 465,
+      "order": 459,
       "id": "entry-1018770",
       "label": "scene",
       "level": "1",
@@ -5583,7 +5511,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 466,
+      "order": 460,
       "id": "entry-1018771",
       "label": "speech",
       "level": "1",
@@ -5595,7 +5523,7 @@
       "text": "They are disturbing me, Madam Temporary Speaker."
     },
     {
-      "order": 467,
+      "order": 461,
       "id": "entry-1018772",
       "label": "speech",
       "level": "1",
@@ -5607,7 +5535,7 @@
       "text": "What is your point of intervention?"
     },
     {
-      "order": 468,
+      "order": 462,
       "id": "entry-1018773",
       "label": "speech",
       "level": "1",
@@ -5619,7 +5547,7 @@
       "text": "Madam Temporary Speaker, the Senator for County 007 rarely comes to the Dispatch Box. He does not have the gift of a loud voice like some of us. I urge that you direct that this gentleman be heard in silence."
     },
     {
-      "order": 469,
+      "order": 463,
       "id": "entry-1018774",
       "label": "speech",
       "level": "1",
@@ -5631,7 +5559,7 @@
       "text": "The unfortunate thing is that everybody is coming in front so that they are given an opportunity. I will strictly go by the list."
     },
     {
-      "order": 470,
+      "order": 464,
       "id": "entry-1018775",
       "label": "speech",
       "level": "1",
@@ -5643,7 +5571,7 @@
       "text": "Madam Temporary Speaker, if we pushed and pulled each other--- In my community, we have a saying that if you see people quarrelling over inheritance, you do not need to ask what they are to each other. It is because they are related. We are related as brothers and sisters in Kenya. This House is known for its impartiality and doing its work diligently. I appeal to my colleagues, now that this issue is a thing of the past, we should not antagonise each other by saying that there are winners and losers. We are all winners because we have broken the eyes of suspicion and disagreement. In the same breath, I would like to thank the leadership of the country. I should be forgiven, but I am not criticising anybody. I just want to give advice. The leadership of the House should carry out its responsibilities by doing public relations between the Senate and the Executive. If the President was given a good explanation on this matter, I am sure we would have resolved this issue early. I am saying this because I know the President is a kind and good-hearted person and he always gives consideration to the voice of leaders. Colleagues, I thank you very much. Unity is the pillar of any nation. We have shown that we are united in considering the welfare of Kenyans all over this country, irrespective of population or land mass, and ensure that everybody gets at least something. My county was going to lose Kshs900 million. Now they will get Kshs1.8 billion. On behalf of the people of Garissa, I thank you for doing that. I encourage you to continue with the spirit. Madam Temporary Speaker, since Senators have said that we should limit ourselves due to time, once again, I thank you. May God bless Kenya. Long live Kenya!"
     },
     {
-      "order": 471,
+      "order": 465,
       "id": "entry-1018781",
       "label": "speech",
       "level": "1",
@@ -5655,7 +5583,7 @@
       "text": "Sen. Haji, go ahead."
     },
     {
-      "order": 472,
+      "order": 466,
       "id": "entry-1018782",
       "label": "speech",
       "level": "1",
@@ -5667,7 +5595,7 @@
       "text": "Madam Temporary Speaker, I have been away for the last one year on the business of the Building Bridges Initiative (BBI). I thank Sen. Iman who stood in for me while I was away. I want to appeal to the people of Garissa, that come next general elections, she should be given the vote for Women Representative."
     },
     {
-      "order": 473,
+      "order": 467,
       "id": "entry-1018783",
       "label": "scene",
       "level": "1",
@@ -5679,7 +5607,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 474,
+      "order": 468,
       "id": "entry-1018784",
       "label": "scene",
       "level": "1",
@@ -5691,7 +5619,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 475,
+      "order": 469,
       "id": "entry-1018785",
       "label": "speech",
       "level": "1",
@@ -5703,7 +5631,7 @@
       "text": "Hon. Senators, kindly keep order. We are taking a lot of time instead of listening, so that we finish and dispense of this matter and go home."
     },
     {
-      "order": 476,
+      "order": 470,
       "id": "entry-1018786",
       "label": "speech",
       "level": "1",
@@ -5715,7 +5643,7 @@
       "text": "Thank you, Madam Temporary Speaker. Like Sen. Haji, I think I have spoken to this only once. My speech will be very short. I want to agree with the majority of us that this is a great day. When I saw Team Kenya and Kenya taking a photograph together, I felt that there is something that has changed in this House. I felt very delighted because if there is anything I was dreading it was this weekend. I asked myself: \"What will happen to us this weekend\"? We were expecting that at funerals and weddings, this would all be anti-Senate. We were expecting a lot of people to talk against the Senate. It is a great day and I really want to thank God that his far we have arrived as a Senate. It is my prayer that there will be unity of purpose from now onwards because united, we will be able to change this country. I want to give a special word of appreciation to the leadership that went to negotiate; the Majority Leader, Sen. Poghisio, the Minority Leader, Sen. Orengo, Majority Whip, Sen. Kang'ata, Minority Whip, Sen. Mutula Kilonzo Jnr., the Deputy Majority Whip, Sen. Dullo, the Deputy Minority Whip, Sen. Kwamboka and the peacemaker Sen. Mwaruma. I really want to appreciate them for the way they negotiated. In the Bible, according to the book of Proverbs, it takes a very wise negotiator to touch the heart of a Head of State like you did. We want to congratulate you for bringing this to our table and we hope that in the future, everything will be negotiations only because we had reached a point that was very uncomfortable. There is one person I must mention Sen. Petronilla Lokorio Were because she saw, before any of us saw that the route for us to go is to increase the allocation. It looked impossible, it looked like we were not going to go anywhere with her proposal, but it then turned out although she was asking for Kshs48 million, we could even get more. I want to thank you, Sen. Were, for fighting hard in the social forum and insisting that this is the way to go. We really must thank you for that. You have always played a mediator; I wish you had joined Sen. Mwaruma in that trip because you have always played the middle in-between the two sides of the House and we cannot take that for granted. Madam Temporary Speaker, I just want to add one more thing. First, I must recognize the work that was done by the Head of State. The President did us proud by solving this impasse because it would have taken us a long time. We really thank him. Without the Kshs53 billion, there was no way we were going to have no loser if any county was going to win. Although, I have always believed that we must have resources following functions, the way the Constitution states, sometimes we must"
     },
     {
-      "order": 477,
+      "order": 471,
       "id": "entry-1018788",
       "label": "speech",
       "level": "1",
@@ -5727,7 +5655,7 @@
       "text": "some of what we are discussing with kindness, so that we do not shock one another. That was why my sister, Sen. Dullo, was very passionate that there is no way she can go home with less. Yes, it is something that we must always stumper with kindness because if do not do that, then when you go home, everybody will think you have done the worst. I think we have done very well. Madam Temporary Speaker, we thank the President and the leadership for doing what they did, including the former Prime Minister for being part of this. However, what happens when the resources reach the counties? We have a major responsibility. We have fought over the money and released the money. After releasing the money, we are left with money going into hands, where we have already lined a good number of Governors to come here to answer to accountability. Madam Temporary Speaker, we have been talking about being funded to go and oversight. I am starting to think differently. We need to have a structured way of doing oversight. We can do so using the resources that we have because if we wait, we will finish the remaining two years without doing anything. Madam Temporary Speaker, we have made savings because of COVID-19. We need to ask ourselves in a retreat set up, which I hope the Speaker allow us, so that we reorganize and ask ourselves how we are to do oversight. This is because we may be remembered for a long a time for releasing this money, but we will be remembered more for not taking the accountability part of our role seriously. We need to think of other ways; whether we use our Committees or ourselves, but we need to have concerted effort. One thing about the Senate is that it is not every Senator taking care of his or her own county, but the interests of the 47 counties. Sen. Murkomen always reminds us that we are responsible for the whole country, and not one individual county. We need to have a way in which all of us can oversight the whole country. It is my plea that we change our strategy. Let us not continue to plead for this money that does not seem to be coming, but use the resources that we have and ensure that we do proper accountability as far as the resources are concerned. To the governors, I was very shocked by my friend and former colleague in the Cabinet, Governor Oparanya. I was shocked because he drank the same tea that our leadership drank in State House. He went for the meeting and thereafter, he flipped. I want to plead with our governors that they must take accountability of the resources very seriously. They should not take advantage of any--- It is done."
     },
     {
-      "order": 478,
+      "order": 472,
       "id": "entry-1018790",
       "label": "speech",
       "level": "1",
@@ -5739,7 +5667,7 @@
       "text": "Your time is up. The way you always switch off our microphones---"
     },
     {
-      "order": 479,
+      "order": 473,
       "id": "entry-1018791",
       "label": "speech",
       "level": "1",
@@ -5751,7 +5679,7 @@
       "text": "Well, I always switch everybody off. So, I better give him in---"
     },
     {
-      "order": 480,
+      "order": 474,
       "id": "entry-1018792",
       "label": "speech",
       "level": "1",
@@ -5763,7 +5691,7 @@
       "text": "Thank you, Deputy Speaker, for that understanding. We want to give the next opportunity to the Co-Chair of this Committee. Sen. Sakaja, kindly proceed."
     },
     {
-      "order": 481,
+      "order": 475,
       "id": "entry-1018793",
       "label": "speech",
       "level": "1",
@@ -5775,7 +5703,7 @@
       "text": "Thank you, Madam Temporary Speaker. I will just beg you, since you have been lenient with the previous two speakers, to give us some time. Madam Temporary Speaker, I am trying to catch your attention. I have seen that you have been lenient to the Deputy Speaker and everybody else. Allow some latitude to the Co-Chairpersons because we did not move the Report. Can I get a response? I am making a request. I am sorry you are being distracted. I have seen the previous speakers got some more time. Since we did not move the Report, we are giving some background and we are pleading that you be lenient on us. I am not asking for 10 minutes, but some leniency. I am sure you are kind. Madam Temporary Speaker, I want to start by noting that this is a special day that good things normally happen. I wish the Speaker, hon. Lusaka was here, because it is also his birthday tomorrow. The first time we all met was during induction on his birthday and there is usually some magic that happens around that date. Happy birthday to our Speaker and maybe that is why we got some good luck. I want to join the Senators who have spoken to thank all of us, as a Senate. This has been a tough period, tougher for some than for others. At the end of the day, we have come out strong, united and as one Senate; the Senate of the Republic of Kenya. When we started this debate, we insisted that Kenya must remain one indivisible country. The result we have today is a Kenya that is indivisible with no A or B. This is the resolution of the Senate. We insisted that the victory we are looking for was not for any political side because in the midst of our work, people insinuated that there are political issues and ambitions. The victory we have today of an extra Kshs50 billion is for devolution and Kenya. Of all the Senators, I want to note that I feel what Sen. Malalah, Sen. (Dr.) Lang'at, Sen. Murkomen and Senators from counties who were allegedly gaining have gone through. They were told that they are selling out these counties. If anybody thought that the Senator of Kakamega was making his county lose Kshs1 billion, they should know he has gotten Kshs2 billion. If anybody thought that the Senator of Bomet was selling out his county that was getting Kshs700million, they are getting Kshs1.1 billion. If anybody thought that the Senator of Elgeyo Marakwet, the indomitable effervescent, undisputable and 'unbwogwable', Sen. Murkomen, was making his county lose because his county was getting Kshs300 million, they should know that Elgeyo-Marakwet has left with Kshs747 million. There are people who put up billboards across this City saying that I am a traitor. Hired bloggers tried to arrest me and gave me names because Nairobi City was getting Kshs100 million and a formula that says Nairobi City County is not the top 20 gainers, yet it has the biggest population, at number 28 is a fraudulent formula. Let them know today that the highest allocation we have found is Kshs3.5 billion for the County of Nairobi City. As a leader, when you do something, never be afraid to be misunderstood. If your conscience is clear and you are doing the right thing, do it and they will understand it later. I hope those who put up billboards will put one saying: \"Thank you for the Kshs3.3 billion\". Those who said that I thought there was no poverty in Korogocho can say, thank you. It is not hubris, but we must acknowledge the strides we have made for this country. We said no county should lose as a principle and no county has lost. We said Y= A+B and that is the case now. Madam Temporary Speaker, that is what we have ended up with, because we have said that we will hold what counties would have got at Kshs316 billion, and no county will ever get below what they got. Kenya is indivisible. Let there be no one who ever thinks that there is a part of Kenya that does a favour to another part of Kenya. Devolution is not a competition amongst counties; it is cooperation for us to move forward together. As I move towards finishing, I want to remind my colleagues of the words of the Bible in Philippians 2:3-4 that says- \"Let nothing be done out of selfish ambition or conceit, but in lowliness of mind, let each esteem each other better than himself. Let each of you look out not only for his own interest, but also for the interest of others.\" Madam Temporary Speaker, I think only my friends and family know how it has been a tough one or two months, but I thank God that we have emerged victorious. After this, Members, let us finish this debate. We have other things to get into. There are other things that are coming, but let us always remember to remain together. There are Members here who were possibly not seeing eye to eye. Please, let us restore those relationships. Finally, we prayed for a unanimous vote, and we have gotten one. Let us have the same vigour as we oversight the counties. I want to make a special mention to the Parliamentary Budget Office (PBO) of the Parliament of Kenya; Mr. Martin Masinde, Ms. Amran Mursal, and the entire team. The three of them presented to us and gave us better options than the entire Commission on Revenue Allocation (CRA) and the National Treasury. They worked day and night, and they never got the credit that they deserve. We must thank them, and the Secretariat led by Mr. Nyegenye. I want to thank Mr. Mogere who has done an amazing job throughout this process. On behalf of the Committee of 12 who have met 17 times, we want to thank Mr. Mogere, Mr. Nyegenye and the Parliamentary Budget Office (PBO) for what they have done for this country. Let it be known, remembered and go down in history that the Senate of the Republic of Kenya in 2020 stood up for the rights of this country and believed that every Kenyan, no matter where they are, invariably wants the same thing; no matter your race, colour or tribe. Every Kenyan wants the same thing; to go about their lives peacefully, make something out of themselves and guarantee their children a future. Today, the child in Mandera will sleep as soundly as the child in Kakamega. I thank you, Madam Temporary Speaker, on behalf of everyone. God bless this country."
     },
     {
-      "order": 482,
+      "order": 476,
       "id": "entry-1018802",
       "label": "speech",
       "level": "1",
@@ -5787,7 +5715,7 @@
       "text": "Senate Majority Leader."
     },
     {
-      "order": 483,
+      "order": 477,
       "id": "entry-1018803",
       "label": "speech",
       "level": "1",
@@ -5799,7 +5727,7 @@
       "text": "Thank you, Madam Temporary Speaker. I will try to kill two birds with one stone and say that our business for next week on 22nd, 23rd and 24th September, 2020 will be the County Allocation of Revenue Act (CARA). We have not finished CARA, and we will finish it then. We have some 20 Bills, which are due for Second Reading, and 17 that are due for the Third Reading on the Committee of the Whole. Madam Temporary Speaker, let me now use this opportunity to thank the Members of this House for being so steadfast in considering and passing the critical business relating to financial matters, namely, the Third Basis for Revenue Allocation among county governments and the County Allocation of Revenue Bill that we have started today. I am very grateful that when the chips are down, the Senate is one. Even if the last few weeks, to some extent have been a study on human behaviour, it has taught us that Senators will always be Senators. Out there, they say boys will always be boys. Although there came a time when Kenyans thought Senators were fighting each other, as has explained, it finally bore fruit that we were not able to be \"yes\" and \"no\" people, but it was one fight for devolution. It is very clear now that the Senate has the highest interests in defending devolution. It is higher than any other person who claims that they do. It is very clear now that the naysayers and those who have been trying the Senate now can reverse what they have been saying about the Senate. It is also very clear that the Senate is now a household name in Kenya. I thank those Members who every day and evening always kept the world talking about the Senate."
     },
     {
-      "order": 484,
+      "order": 478,
       "id": "entry-1018807",
       "label": "scene",
       "level": "1",
@@ -5811,7 +5739,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 485,
+      "order": 479,
       "id": "entry-1018808",
       "label": "speech",
       "level": "1",
@@ -5823,7 +5751,7 @@
       "text": "Madam Temporary Speaker, the use of the grouping as this team or that should now be dropped. We are one Senate Team. It must be said that this victory belongs to the Senate and to all of us. If we have to be grateful, all of us have to, and not just one wing or the other. We send a special vote of thanks to the leadership of the country, especially to His Excellency the President of the Republic."
     },
     {
-      "order": 486,
+      "order": 480,
       "id": "entry-1018810",
       "label": "scene",
       "level": "1",
@@ -5835,7 +5763,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 487,
+      "order": 481,
       "id": "entry-1018811",
       "label": "speech",
       "level": "1",
@@ -5847,7 +5775,7 @@
       "text": "It agonizes the President when he sees that sometimes it has been misunderstood that the meaning of the one-man-one-vote-one-shilling would deprive others of their rights. That should not be the aim of that slogan. It is very clear that no county should be left behind or lose any money. That is what the President used to allocate Ksh53.5 billion. He said it very clearly that we make sure that no county loses a shilling. When we started seeing counties in permutations beginning to gain slowly at Kshs50 million or Kshs100 million going upwards, we realized we were now getting somewhere. Eventually, it was very clear that we all need each other. The populated counties, those with large sizes of land have peculiar problems and needs. Those are the things we needed to address. I thank the President and the former Prime Minister, hon. Raila Odinga, who took the initiative and presented the situation as we saw it and worked with the President. By the time we went there, our negotiation was easier."
     },
     {
-      "order": 488,
+      "order": 482,
       "id": "entry-1018814",
       "label": "scene",
       "level": "1",
@@ -5859,7 +5787,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 489,
+      "order": 483,
       "id": "entry-1018815",
       "label": "speech",
       "level": "1",
@@ -5871,7 +5799,7 @@
       "text": "I thank my colleagues who came along and those who led the team, Sen. Orengo and I. I also thank the Chairperson of the Council of Governors (CoG) who was there."
     },
     {
-      "order": 490,
+      "order": 484,
       "id": "entry-1018816",
       "label": "scene",
       "level": "1",
@@ -5883,7 +5811,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 491,
+      "order": 485,
       "id": "entry-1018817",
       "label": "speech",
       "level": "1",
@@ -5895,7 +5823,7 @@
       "text": "Madam Temporary Speaker, I am only thanking him for being there. I have to thank him for having been there."
     },
     {
-      "order": 492,
+      "order": 486,
       "id": "entry-1018818",
       "label": "scene",
       "level": "1",
@@ -5907,7 +5835,7 @@
       "text": "(Loud interjections)"
     },
     {
-      "order": 493,
+      "order": 487,
       "id": "entry-1018819",
       "label": "speech",
       "level": "1",
@@ -5919,7 +5847,7 @@
       "text": "Order, Members."
     },
     {
-      "order": 494,
+      "order": 488,
       "id": "entry-1018820",
       "label": "speech",
       "level": "1",
@@ -5931,7 +5859,7 @@
       "text": "Our friends - the governors- have put so much pressure on us. Now we tell them, the funds can come your way. You have not shown that those funds are safe when they get to you. You have not proved to us. If everybody was to take care of those resources, there should be no reason for shutting down services. We believe that something is going wrong which is why we must now use our opportunity as Senators to oversight these resources. I thank you Senators and the Committee of 12 led by Sen. Wetangula and Sen. Sakaja who were Co-Chairs. Thank you very much for the work that you have done and, of course, the other 10 Members. I shall not endeavour to name all of them because they are well known. I want to thank them for the way they have conducted themselves. Usually, in their competitive spirits, they should have rushed to the media and claimed accolades, but they did not do so. They would have probably said that they are the ones who brokered this deal. For those who may want to say so, you are at liberty to say so because you had a role to play as long as you recognise that the whole House is responsible for this process. Madam Temporary Speaker, we now come back to the issues ahead of us. If we bring ourselves to a place where we do not allow the Senate to be ridiculed or belittled by anyone, we will stand together. We ask our friends and colleagues in the other House, the National Assembly, that in this process, we should all consider the counties as our responsibility. If it were not for the other House working against the Division of Revenue Authority (DORA), we would been way ahead. There should have been no need for us to haggle over meagre resources when it was possible to get more resources than this. I remember in the last DORA, governors gave in so quickly and we could not negotiate. Our team that went to negotiate was very disappointed, but through that we got our wish. Therefore, the team led by Sen. Mutula Kilonzo Jnr. that went to the negotiation table have literally succeeded through other means. I want to thank all the Members as you enjoy this weekend with the promise that we will finish the County Allocation Revenue Act (CARA) on Tuesday. Everything else will move in tandem with our promise that the country will start getting resources very soon. I will now lay the Business of the Senate for the week."
     },
     {
-      "order": 495,
+      "order": 489,
       "id": "entry-1018823",
       "label": "scene",
       "level": "1",
@@ -5943,7 +5871,7 @@
       "text": "(Sen. Poghisio laid the document on the Table)"
     },
     {
-      "order": 496,
+      "order": 490,
       "id": "entry-1018824",
       "label": "speech",
       "level": "1",
@@ -5955,7 +5883,7 @@
       "text": "Thank you."
     },
     {
-      "order": 497,
+      "order": 491,
       "id": "entry-1018825",
       "label": "speech",
       "level": "1",
@@ -5967,7 +5895,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to congratulate fellow Senators. I will start by congratulating His Excellency President Uhuru Kenyatta for hosting us yesterday. We had a very good and fruitful meeting together with the Leader of the Orange Democratic Movement (ODM), the former Prime Minister Raila Odinga and my colleagues who attended that meeting. Through that meeting, we were able to procure Kshs50 billion and we brought it to the Senate. We were also able to break the stalemate that has been in this House. This stalemate started two years ago. Since that period, we have never had a situation where Senators are agreeing on the way forward. I want to congratulate all Senators, whether Team Kenya or Team Katiba. I understand the pain of losing. I recall the day Team Kenya put Murang'a among the losing counties in the so-called Sen. Linturi formula, I can tell you I felt it. I rarely speak in loud voices. However, when I felt it then I realised that no county should lose. That is when I started coming up with ideas of how we can increase money. Madam Temporary Speaker, allow me to confess many things in this House. The first confession is that I was the one behind Sen. Were's amendment. When I took that proposal to Sen. Mutula Kilonzo Jnr., he opposed it immediately. I realised that these guys in Team Kenya are training all guns on me. I realised that the best way to reduce the bullets that were being aimed at me was to talk to Sen. Were. Indeed, she was able to bring that amendment. Sen. Were brought that amendment. Based on that amendment, we now moved to the final solution. Let me also confess that on Saturday, I met with Sen. Omogeni, my brother from Nyamira, at Concorde Hotel and he signed an amendment for Kshs370 billion. I do not understand how he changed because he turned against me the following day. The good thing is that when Sen. Omogeni turned against me, I had already escalated that idea to my colleagues, in particular, Sen. Orengo and we took it to more senior persons in the Executive. It was on the basis of that agreement we had with Sen. Omogeni that ultimately we were able to come up with the extra Kshs50 billion. Therefore, in a way, I thank my brother for the discussion we had. I also thank the Senate Minority Leader, Sen. Orengo, because had it not been for that discussion we had at a certain hotel room, we would not be here. I thank them for that agreement which has brought us to where we are. Another confession is that I was not behind the arrests that happened to Members of this House. I am saying so because there have been a lot of rumours. I am happy with two things. First, unlike Sen. Linturi's formula, Murang'a will now gain Kshs800 million. According to Sen. Linturi's formula, Murang'a would have lost Kshs15 million. For the first time, we have a formula where Murang'a will gain Kshs800 million. I am so happy about that. I agree with my brother from Kericho. The CRA formula had proposed Murang'a to lose about Kshs150 million. Therefore, the formula was not good. Sen. Linturi's formula was also problematic. It is only this one that has rescued Murang'a because we will now get Kshs800 million. Finally, this one is a simulation where no county will lose because every county will gain. On that basis, His Excellency President Uhuru Kenyatta has united Kenya. Now my county is not going to lose money. That is the same case with all the other counties in this Republic. He has ensured that we are a united as a Senate and speak in one voice going forward. I thank you."
     },
     {
-      "order": 498,
+      "order": 492,
       "id": "entry-1018827",
       "label": "speech",
       "level": "1",
@@ -5979,7 +5907,7 @@
       "text": "Madam Temporary Speaker, this has been challenging. Just like Sen. Kang'ata, let me make my remarks---"
     },
     {
-      "order": 499,
+      "order": 493,
       "id": "entry-1018828",
       "label": "speech",
       "level": "1",
@@ -5991,7 +5919,7 @@
       "text": "Sorry Senator, we have reduced the time to four minutes."
     },
     {
-      "order": 500,
+      "order": 494,
       "id": "entry-1018829",
       "label": "speech",
       "level": "1",
@@ -6003,7 +5931,7 @@
       "text": "Madam Temporary Speaker, since Sen. Kang'ata has started, let us all confess our sins or whatever it is. I want to tell you that believing in God helps. I sat in a committee where some of the people, including Sen. Wetangula who was a Co-Convener of the mediation voted for the contentious formula. I must say that I told the Co-Chair that this is problematic way of doing things. He told me that we needed 24 votes and we will get them. As the Whip, I told him that we will not get the 24. It has come to pass. The arrest of the Senators was challenging. Let me tell you another confession. I have been admiring Sen. Orengo since I was 17. I used to do my research for the legal cases and petitions where they were against my father, but I used to take notes about what Sen. Orengo would say about my cases because he used to demolish them one by one. When there was something wrong, normally he would not look at you in the eye or talk. I can assure you that Sen. Orengo is one of the Senators and leaders of this country who is pro-reform. That is the reason why this issue disturbed him. I am the one who gave him a tie of Team Kenya. He did not wear it, but he went with it; and he did not return it either."
     },
     {
-      "order": 501,
+      "order": 495,
       "id": "entry-1018831",
       "label": "scene",
       "level": "1",
@@ -6015,7 +5943,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 502,
+      "order": 496,
       "id": "entry-1018832",
       "label": "speech",
       "level": "1",
@@ -6027,7 +5955,7 @@
       "text": "Madam Temporary Speaker, if there is one thing we should know is that we are stronger together. We did not know the talents of Sen. Sakaja until he started drafting formulas ya + yb, those things. The same applies to Sen. Farhiya and Sen. Wetangula. All this has been realized because we have used all our talents to get this thing together. There are several Senators who took a political risk. The political risk is this; that you are gaining but you are supporting losers. It is a political risk! Sen. Malalah and the Senator for Bomet are among them. The Governor of Machakos County went bonkers over Sen. (Dr.) Kabaka; we had to take him to a church to commit him there because he went bonkers on him. It is a political risk when you are gaining, to support losers. Some of our Members here who want to become governors were thinking \"how am I going to divorce myself from a gain and become a governor?\" Therefore, we must congratulate those Senators who took that sacrifice, political risk. Sen. Sakaja was arrested; there were many things that were happening to him. More importantly, Sen. Malalah said something about the contentious formula. He said to take away money from one county to give to another is ungodly. It reminded me of the verse in the Bible that says, and I wish Sen. Kibiru was here because I would have referred this to him to go and read- \"Those who have more shall be given. Those who do not have, even the little they have, shall be taken away from them.\" It sounded more like that. However, we want to tell the people of Kiambu and Nairobi that we love you more than you love us, because the people of Nairobi host the people of Makueni. The people of Makueni are possibly contributing to the second or third largest tribe outside Nairobi, and the same applies to Taita/Taveta. We must love this nation and love one another. The church which Sen. Sakaja and I belong to, the African Inland Church (AIC) is the church with the majority followers in Sen. Cherargei's place. That is why I was telling him to turn to the Lord when he kept on talking about bushes and shrubs. I hope you have turned to the Lord and confessed your sins so that you are forgiven. Lastly let me say this, I am beginning to wonder because in the mediation committee, the CRA came with an even worse formula than the first one. They created 28 losers. In fact, the formula for Mr. Masinde and Ms. Amran is better than the one for the CRA and the National Treasury combined. The CAS, National Treasury sat here, you know some things in this country are like voodoo. He told us that they cannot guarantee even the Kshs316 billion. The President has given us 53 billion extra and we must thank him for seeing it fit to support devolution, otherwise there was going to be gnashing of teeth. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 503,
+      "order": 497,
       "id": "entry-1018834",
       "label": "speech",
       "level": "1",
@@ -6039,7 +5967,7 @@
       "text": "Madam Temporary Speaker, I must say I am a very happy woman today simply because I remember the last time we were here, most of us were wondering how we would go back to our counties. However today I am really very grateful that I have something to smile about. Over the last two months we did not know who to trust in this House. We turned either side asking ourselves, is this person going to betray me?"
     },
     {
-      "order": 504,
+      "order": 498,
       "id": "entry-1018835",
       "label": "scene",
       "level": "1",
@@ -6051,7 +5979,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 505,
+      "order": 499,
       "id": "entry-1018836",
       "label": "speech",
       "level": "1",
@@ -6063,7 +5991,7 @@
       "text": "Fortunately, I must be very grateful to Team Kenya. To Team Kenya, may God bless you. The reason why I am thanking Team Kenya is because this team has stuck together for two months with all the threats and pressure; people writing messages in the middle of the night at 3.00 a.m. Some of them did not sleep. I must be grateful. We must get something out of Team Kenya to take us to the next step. Secondly, our seven brothers who sacrificed their lives, their families' lives, God will pay you. We will not be able to pay you. Thirdly, I wish to thank our nominated Senators who stood with us despite the challenges and threats, especially on procedural Motions. Our sisters and brothers, we are very grateful and, more so, to my delegation; my sister, Sen. Abshiro Halake, God bless you. We are very proud as the people of Isiolo to have you in this House. She has undergone threats. Pongezi kwako. I hope the people of Isiolo will have something for you in store in 2022."
     },
     {
-      "order": 506,
+      "order": 500,
       "id": "entry-1018837",
       "label": "scene",
       "level": "1",
@@ -6075,7 +6003,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 507,
+      "order": 501,
       "id": "entry-1018838",
       "label": "speech",
       "level": "1",
@@ -6087,7 +6015,7 @@
       "text": "Madam Temporary Speaker, people will look at those figures and say: \"Has Isiolo County really received anything?\" Initially, we were losing Kshs869 million, but we managed to retain Kshs869 million and we got Kshs469 million. As far as that figure is concerned, we managed to get Kshs1.3 billion. This is actually a sign to governors who are saying that Senators are doing nothing, but making noise. I remember last night, Sen. Halake was being bashed by Members of the National Assembly saying that Senators were only playing politics. Clearly, it has come out that Senators are not playing politics. This is a signal to the governors; when they will be summoned to come and be accountable to the Senate and to Kenyans, they should prepare themselves to come and be accountable for every Shilling we have worked for today. Madam Temporary Speaker, I am very grateful to the leadership that brought us together on Tuesday morning. Although I was hesitating whether to go or not, when I woke up in the morning and found a message from Sen. Kang'ata, the first person I called was Sen. (Eng.) Mahamud and asked him: \"Are things okay?\""
     },
     {
-      "order": 508,
+      "order": 502,
       "id": "entry-1018839",
       "label": "scene",
       "level": "1",
@@ -6099,7 +6027,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 509,
+      "order": 503,
       "id": "entry-1018840",
       "label": "speech",
       "level": "1",
@@ -6111,7 +6039,7 @@
       "text": "The second person I called was Sen. Mutula Kilonzo Jnr. I asked him: \"Senator, are you going to State House?\" He said: \"I do not know\". I said, let me just go. In fact, Sen. (Eng.) Mahamud encouraged me to go and see why I was being called. I must say I am grateful because it was my first time to sit down with \"Baba\" in his office, which I did not know where it was. To His Excellency, the President of this country, we are very grateful for coming up with the solution. Finally, to all Kenyans, politicians; I remember the Deputy President was also heard very loud saying that we must share this revenue equally. Thank you so much, to all politicians, all leaders and Kenyans who supported the Senate to have a win-win situation in this country today. I thank you."
     },
     {
-      "order": 510,
+      "order": 504,
       "id": "entry-1018841",
       "label": "speech",
       "level": "1",
@@ -6123,7 +6051,7 @@
       "text": "Thank you, Madam Temporary Speaker. Let me also add my voice. I want at the onset to thank my wife for being a prayer partner."
     },
     {
-      "order": 511,
+      "order": 505,
       "id": "entry-1018842",
       "label": "scene",
       "level": "1",
@@ -6135,7 +6063,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 512,
+      "order": 506,
       "id": "entry-1018843",
       "label": "speech",
       "level": "1",
@@ -6147,7 +6075,7 @@
       "text": "We realized that this country was headed for a split and she reminded me of 2007, 2008 when we had similar circumstances. We went to prayer and vividly remembered Philippians 2:13 which states- \"For it is God who works in you to will and to act in order to fulfill his good purpose.\" The purpose we were praying for is that this country stands united and no one goes home losing. Even if a vote had been taken and had won marginally, the end result would have been that everybody, in one way or the other, would have lost through that formula. God at his own appointed time, when this formula should come to force, has reminded me that in mathematics, and I think Sen. Sakaja knows it, that we will break a small mass; the theory of relativity, which is, Energy = MC2, where Energy is the amount of energy spent to split the atom mass times the speed of the light squared. When you look at this voluminous energy being spent, I remembered all the parties that were antagonistic to one another; Team Kenya and the other team. There was a lot of energy that must have used up so much energy from you, and I was worried that, health wise, we might suffer some of the elements. However, I thank God that today we can speak of a win-win situation. At that time I said that time is a healer, and I have been proven right that when we are patient, time heals. This is why we can record today in this House that this is the most important occasion that we can delight and glorify God. We have come to a level where there is no acrimony or any other element that will divide us. Hopefully, God willing, in the same spirit we have moved in uniting this nation together, we shall not lose another opportunity to put this nation together. I want to thank the leadership of this nation, President Uhuru Kenyatta and the former Prime Minister Raila Amollo Odinga for leading the pack. They have shown us the way and we can now add to the formula some of the elements that had not been captured in the Third Generation Formula, like the blue economy, extractive economy, pastoralism and other elements not captured. I hope that henceforth God will stand for this nation, like He stood for it in 2007 and 2008. I thank you."
     },
     {
-      "order": 513,
+      "order": 507,
       "id": "entry-1018845",
       "label": "speech",
       "level": "1",
@@ -6159,7 +6087,7 @@
       "text": "Hon. Senators, it is in my interest that I give all of you an opportunity. However, at the rate of four minutes, we cannot achieve that. Can we reduce it to three minutes?"
     },
     {
-      "order": 514,
+      "order": 508,
       "id": "entry-1018846",
       "label": "speech",
       "level": "1",
@@ -6171,7 +6099,7 @@
       "text": "Four minutes!"
     },
     {
-      "order": 515,
+      "order": 509,
       "id": "entry-1018847",
       "label": "speech",
       "level": "1",
@@ -6183,7 +6111,7 @@
       "text": "Is four minutes the mood of the House?"
     },
     {
-      "order": 516,
+      "order": 510,
       "id": "entry-1018848",
       "label": "speech",
       "level": "1",
@@ -6195,7 +6123,7 @@
       "text": "Yes!"
     },
     {
-      "order": 517,
+      "order": 511,
       "id": "entry-1018849",
       "label": "speech",
       "level": "1",
@@ -6207,7 +6135,7 @@
       "text": "We are ending at 8.30 p.m. because the curfew is on. We must end by 8.30 p.m. Sen. Farhiya."
     },
     {
-      "order": 518,
+      "order": 512,
       "id": "entry-1018850",
       "label": "speech",
       "level": "1",
@@ -6219,7 +6147,7 @@
       "text": "Thank you, Madam Temporary Speaker for giving me this opportunity. First and foremost, I wish to thank His Excellency Uhuru Muigai Kenyatta who made the cake bigger for us to share. Had that cake not been made bigger, the stalemate would never have ended. I also wish to thank all the leaders who have contributed to ensure that no county is losing in this country. Through increasing the cake, Wajir County moved for Kshs2.04 billion loss to gain Kshs900 million; giving it Kshs2.953 billion. I also owe special thanks to all the Senators in Team Kenya, especially those seven, as Sen. Mutula Kilonzo Jnr. has said, who took a political risk to support the counties that were losing. My special thanks goes to Sen. Malalah. Since he stood with people who were losing, Sen. Malalah is a gainer of Kshs954 billion because of his stand. This should shame those who thought he was short sighted. I, therefore, thank him for his foresight. Madam Temporary Speaker, the other Senator I wish to thank is the Senator for Machakos. As a result of his great courage, he is enjoying an extra Kshs1.15 billion that he never had before. Shame on the Governor of Machakos for making life difficult for Sen. (Dr.) Kabaka because he was supporting the losing counties. Someone who is only thinking about his own county is purportedly saying that he wants to be the President of this country. I hope he does not get even the vote of his wife. Madam Temporary Speaker, I also wish to thank Sen. Murkomen. As a result of his hard work, his county got almost double what it ought to have gotten. He got Kshs427 million instead of Kshs318 million. Sen. Murkomen is our hero. I also wish to thank Sen. Linturi. Seeing to his steadfastness, from Kshs473 million, he got Kshs1.46 billion. I thank Sen. Linturi for his steadfastness. I wish to thank Sen. Sakaja, the Super Senator. Now that he stood with the---"
     },
     {
-      "order": 519,
+      "order": 513,
       "id": "entry-1018851",
       "label": "scene",
       "level": "1",
@@ -6231,7 +6159,7 @@
       "text": "(Sen. Farhiya's microphone went off)"
     },
     {
-      "order": 520,
+      "order": 514,
       "id": "entry-1018852",
       "label": "speech",
       "level": "1",
@@ -6243,7 +6171,7 @@
       "text": "(Sen.) Nyamunga): Yes, Sen. Were."
     },
     {
-      "order": 521,
+      "order": 515,
       "id": "entry-1018853",
       "label": "scene",
       "level": "1",
@@ -6255,7 +6183,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 522,
+      "order": 516,
       "id": "entry-1018854",
       "label": "speech",
       "level": "1",
@@ -6267,7 +6195,7 @@
       "text": "Sen. Were, go ahead."
     },
     {
-      "order": 523,
+      "order": 517,
       "id": "entry-1018855",
       "label": "speech",
       "level": "1",
@@ -6279,7 +6207,7 @@
       "text": "Thank you, Madam Temporary Speaker. I thank all those who are thanking the people who brought us to this stage. I want to start by stating that when we started this clamour for more funds to the counties, very many people did not believe that it was possible. In fact, at some point I was being called the Kshs348 billion girl. Every time I passed by Sen. Murkomen or Sen. Mutula Kilonzo Jnr., that is the name they referred to me as. It seemed like something that was so farfetched, but the principle behind that proposal was the fact that the national Government is holding 85 per cent of the national revenue and giving counties only 15 per cent. We need more of the monies from the 85 per cent, following the functions that have already been devolved to the counties. We have functions that are devolved, but funds are still at the national level. Those are the funds we were targeting, so that they are released. I am glad that the Executive, headed by President Uhuru Kenyatta, has heeded to the call that we need more funds to follow the functions that were devolved to the counties. He heeded that and gave us Kshs53 billion in addition to the Kshs316 billion, to get a total of Kshs370 billion. With Kshs370 billion, we were able to resolve this issue, remove the stalemate, and we got all counties to gain. No county is losing. Madam Temporary Speaker, because people are thanking others, I want to thank Sen. Kang'ata, with whom we worked on this proposal. I want to thank the Parliamentary Budget Office (PBO) for going through our figures and approving them before we presented that proposal to the Senate Business Committee (SBC). I also thank Sen. Cherargei who contributed to this proposal. Most importantly, I failed to get a Seconder to that proposal completely because everyone was stuck to their team. I could not get Senators from Team Kenya. I pleaded with some of them; they refused because they were so tight. I was so impressed by their unity. I ended up getting Sen.(Dr.) Mwaura. Thank you, very much Sen.(Dr.) Mwaura for believing in that proposal that I brought. You seconded me and we named it the Nominated Members' proposal."
     },
     {
-      "order": 524,
+      "order": 518,
       "id": "entry-1018857",
       "label": "scene",
       "level": "1",
@@ -6291,7 +6219,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 525,
+      "order": 519,
       "id": "entry-1018858",
       "label": "speech",
       "level": "1",
@@ -6303,7 +6231,7 @@
       "text": "Madam Temporary Speaker, I support this Motion, the Third Generation Formula as presented to us by the Consensus Committee of 12 Members."
     },
     {
-      "order": 526,
+      "order": 520,
       "id": "entry-1018859",
       "label": "speech",
       "level": "1",
@@ -6315,7 +6243,7 @@
       "text": "Sen. (Eng.) Hargura is not in the House. So, I will give that chance to Sen. (Eng. Mahamud)."
     },
     {
-      "order": 527,
+      "order": 521,
       "id": "entry-1018860",
       "label": "scene",
       "level": "1",
@@ -6327,7 +6255,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 528,
+      "order": 522,
       "id": "entry-1018861",
       "label": "speech",
       "level": "1",
@@ -6339,7 +6267,7 @@
       "text": "Thank you very much, Madam Temporary Speaker. This is a great day; success for all us, the Senate and this country. This Senate of the Republic of Kenya has functions given to it under the Constitution. In fact, Article 93 of the Constitution gives the mandate for us to deal with revenue sharing between the counties. As a former Chairperson of the Senate Committee on Finance and Budget, the process we have gone through has taught me many things. My de-whipping from the Committee and subsequent loss of the chairmanship energized me to fight harder for the downtrodden counties in this country. Madam Temporary Speaker, when we got the formula from the CRA and we were being accused of sitting on it for one year, there was a reason why we were not dealing with it for over a year. First of all, in the first one year we were dealing with the Division of Revenue Bill which was very protracted and we were not able to move to anything else apart from it. We can remember when we were dealing with the Division of Revenue Bill in the Financial Year 2018/2019, we were proposing that we give the counties Kshs335 billion for Financial Year 2019/2020. The CoG who are making noise today were the ones who went behind our back and settled for a figure which was far less. This House got divided right in the middle. Instead of acting as Senators for Kenya, working for the counties and defending them as per the Constitution, we got divided because we competing among ourselves on very little money that was allocated to counties. I am happy today as Members of Team Kenya. Let me confess that as the Chair of Team Kenya, we have reached where we are today because our colleagues who were not listening to us have listened. We were able to force ourselves to the table with the Executive to promise some figure."
     },
     {
-      "order": 529,
+      "order": 523,
       "id": "entry-1018863",
       "label": "scene",
       "level": "1",
@@ -6351,7 +6279,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 530,
+      "order": 524,
       "id": "entry-1018864",
       "label": "speech",
       "level": "1",
@@ -6363,7 +6291,7 @@
       "text": "It might not have been possible if we had all just agreed as the Senate and said, \"Yes\" and left this to fate. I thank the President for seeing the danger this country is in. He called the leadership and said that money would be allocated. I hope that money will be available. As the Senate, we must ensure we will not pass the next Division of Revenue Bill, without the Kshs53.5 billion."
     },
     {
-      "order": 531,
+      "order": 525,
       "id": "entry-1018865",
       "label": "scene",
       "level": "1",
@@ -6375,7 +6303,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 532,
+      "order": 526,
       "id": "entry-1018866",
       "label": "speech",
       "level": "1",
@@ -6387,7 +6315,7 @@
       "text": "You have the authority because Parliament makes the budget and is not at the mercy of the Executive. Let us stop being at the mercy of the Executive so as to run away from our responsibilities. The Executive is taking us for granted. We, as the Senate, have allowed ourselves to play boys and girls for the Executive. That must stop. The Council of Governors (CoG) was never our partner in budget making. Every time they go to the Intergovernmental Budget and Economic Council ( IBEC ), they settle for a small figure and we are told: \"Governors have agreed\". What is your problem?\" We want to tell the governors that their job is to run counties and not to do budget figures for the counties. I want to thank the Senators who stood with the counties that were losing. The seven Senators, Sen. Murkomen, Sen. Sakaja, Sen. Malalah, Sen. (Dr.) Kabaka, Sen. (Dr.) Langat, and Sen. Cheruiyot. All these Senators put their careers on line and supported us. Some of them had to pay heavily because they were arrested and molested for nothing. Madam Temporary Speaker, I want to thank Sen. Sakaja for being innovative. Sen. Sakaja is the one who brought the formula of Y=A+B and I want to thank him. I will not forget our nominated Senators, the gallant ladies in this House who have been very strong. They have been intimidated by the leadership led by Sen. Kang'ata and his team. They were harassed for nothing, but they have stood for this country. They have been very useful."
     },
     {
-      "order": 533,
+      "order": 527,
       "id": "entry-1018867",
       "label": "speech",
       "level": "1",
@@ -6399,7 +6327,7 @@
       "text": "Madam Temporary Speaker, thank you very much. I am a very happy man tonight. I am happy because we achieved what I told the Speaker of the Senate: \"Do not sacrifice Kenya. Kenya is more important than individual counties or individual citizens.\" We set to fight for a united nation. I joined Team Kenya because I believe in one indivisible country, from Oloitokitok to Lokichogio, from Lamu Port to Got Huma in Homa Bay and from Embobut where I come from, to Holili in Taita/Taveta. I believe in the diversity of this country, its people and its land. I believe that God has blessed this nation with landmass, good beaches, game reserves, game parks, rivers and the sea. My commitment is to fight for a united country. Because of that, I had a simple choice to make. It may sound very difficult among selfish people who are used to thinking about themselves, but it was not difficult for me to choose the side I was going to be. It was so easy because the choice between Elgeyo-Marakwet as an isolated county and a choice of Elgeyo-Marakwet as part of Kenya was very easy and I chose Elgeyo-Marakwet as part of Kenya. For that reason, I joined Team Kenya. Madam Temporary Speaker, sometimes we think that the task of building the nation and uniting this country is complete. Sometimes we think that a savior will come from mars to come and save this country. I must remind this House what Tom Mboya once said: \"I have news for you, there is no superman, and it is up to us\". It is up to those of us who are sitting in this House and those of us who have been given leadership opportunity. Secondly, as defenders and protectors of counties and their governments, we have succeeded to get an extra Kshs.53.5 billion commitment from the national Government. However, I must hasten to remind the Senate that we should stop sycophancy and vain praises that are intended to attract the attention of the same people that persecuted and sacrificed us. The Kshs.53.5 billion we got was not because of the generosity of the national Government, the President or an individual. It was because we performed our duties under Article 96 of the Constitution and we suffered through the process. People were arrested and punished. There were prints and placards in Nairobi of Sen. Sakaja looking like he was selfish and betraying a certain community. There were many statements made about me, Sen. Cheruiyot and Sen. (Dr.) Lang'at, where we were accused that we were working at the behest of an individual to deny a certain community resources. Madam Temporary Speaker, we must say as a nation that the money we got was from a battle. That battle is only one battle that we won. There is war ahead and the war is the Division of Revenue Bill for next year. The war is continuous; to fight for the unity of this country and we must stick together. As we stick together, we must tell the nation the truth. All the formulas that were brought here with the support of the Government and leaders in this House were supposed to divide this country. They were about win-lose. Today, we have passed a win-win formula because those of us in Team Kenya and leaders who were for win-win have guided us to make the right decision. I do not know why people fear to say this. The Deputy President was vocal on a win-win formula. The reason we are here is because---"
     },
     {
-      "order": 534,
+      "order": 528,
       "id": "entry-1018869",
       "label": "scene",
       "level": "1",
@@ -6411,7 +6339,7 @@
       "text": "(Sen. Murkomen's microphone went off)"
     },
     {
-      "order": 535,
+      "order": 529,
       "id": "entry-1018870",
       "label": "speech",
       "level": "1",
@@ -6423,7 +6351,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me an opportunity to celebrate with the nation, fellow Senators, counties, and all rich and poor as the Senate has finally lived to its expectation. The history of the oldest Senate in the world was a House of compromise. In fact, there is phrase that is attributed to George Washington and Thomas Jefferson called Senatorial Saucer. Legislations come from the Lower House. When they go to a House of senior citizens and experienced people, such pieces of legislation are cooled and discussed. Eventually when those pieces of legislation are enacted, they are cool enough to be consumed by each and every citizen of that nation. I saw that moment this evening. I see no anger or frustration. I see joy among our colleagues, county leaderships and all the people Kenya. This moment has been coming, but with difficultly. We have been polarised, divided and we were fighting. The cause of that division has not been any of us. The cause of the division has been the small cake that we were obligated by law to share through a formula. Basic mathematics will tell you that if you do not change the numerator which is the cake and try to change the denominator which is the formula, I can assure you the results will be different. Madam Temporary Speaker, I said it and I want to say it again. I thank the President of this country. I also thank each and every one of us. In the acrimony and cacophony of the fight that we had amongst us, the nation and the President became desperate. With a whiff of hand, he promised Kshs50 billion. He invited the leadership and a few witnesses to see the commitment. It is because of the increase in the numerator that we are celebrating today. We tried it last year but county executives got together and shot it down. This year, we were put into a room and told to come up with a formula, the consequence or logic of which would reduce the allocations of certain counties. That was a ridiculous position and we really fought against one another; a war that was totally unnecessary. I am happy that out of that contradiction, war, noise and the suffering that arose out of it, today we have a larger cake that we are sharing. Both of us are victorious because without that kind of acrimony, I am sure we would have reached a meaningless compromise to share something too little too late and---"
     },
     {
-      "order": 536,
+      "order": 530,
       "id": "entry-1018872",
       "label": "scene",
       "level": "1",
@@ -6435,7 +6363,7 @@
       "text": "(Sen. (Dr.) Ochillo-Ayacko's microphone went off)"
     },
     {
-      "order": 537,
+      "order": 531,
       "id": "entry-1018873",
       "label": "speech",
       "level": "1",
@@ -6447,7 +6375,7 @@
       "text": "Let us listen to Sen. (Prof.) Kindiki."
     },
     {
-      "order": 538,
+      "order": 532,
       "id": "entry-1018874",
       "label": "speech",
       "level": "1",
@@ -6459,7 +6387,7 @@
       "text": "Thank you, Madam Temporary Speaker. What does this consensus mean? This consensus means that unity has defeated division. This consensus means that equity has triumphed over marginalization. This consensus means that today devolution has won over centralism. I will take a very short time. I will only say that Tharaka Nithi was threatened with a revenue loss of nearly Kshs499 million. Today it will gain Kshs289 million, meaning the net gain is Kshs788 million; from Kshs-499 million to Kshs+289 million. The people of Tharaka Nithi will be forever grateful to this House. The people of Tharaka Nithi will be grateful to the seven Senators especially, whose counties were initially supposed to gain under a flawed formula, but they decided to forego the immediate gratification of their counties for the sake of the unity of our great nation. I am advised and instructed by the people of Tharaka Nithi to thank in particular, Sen. Kipchumba Murkomen, Sen. Johnson Sakaja, Sen.(Dr.) Langat, Sen. Malalah, Sen. (Dr.) Kabaka, Sen. Cheruiyot and Sen. Linturi who is also my neighbor. Due to the sacrifices they made today, it is not Tharaka Nithi that has won. Even the people behind the flawed formula have gained much more money than everybody else. Madam Temporary Speaker, I want to say that I am disappointed with what the Council of Governors (CoG) have done to devolution. The last time we had an effective chairperson of the CoG was when Peter Munya the CS for Agriculture was the chairman. The pioneer chairman, hon. Isaac Ruto did a spectacular job. As I end the CoG died the day it was taken over by the Governor for Turkana, it was buried by the Governor of Kakamega---"
     },
     {
-      "order": 539,
+      "order": 533,
       "id": "entry-1018876",
       "label": "speech",
       "level": "1",
@@ -6471,7 +6399,7 @@
       "text": "Your time is up."
     },
     {
-      "order": 540,
+      "order": 534,
       "id": "entry-1018877",
       "label": "speech",
       "level": "1",
@@ -6483,7 +6411,7 @@
       "text": "Madam Temporary Speaker, the unity of this nation is rooted in the blood and sweat of great men and women who fight and keep their interests aside for the unity of this country. In history, the unity and the future of this nation will also be rooted in distinguished Senators, particularly Team Kenya who stood firm and said: \"No way Jose\" to Sessional Paper No. 10. What we want is to take Kenya as a country that recognizes all 47 counties as counties that are supposed to develop, whether or not they are along the railway line, but counties that Kenyans live in. Today I want to remind this House that we were not given any gift by the President. No he did not! It is our responsibility as Parliament to divide revenue between the two Houses. This notion that the President is the one who gave us Kshs50 billion is a lie. It is a fallacy. I want to beseech you, distinguished Senators, that is why you are called distinguished men and women; Senators of the Republic of Kenya - wake up from your dream. You know you are doing your job. I am proud to be a Senator of the Republic of Kenya. I have stood my ground that anything to do with revenue shall be determined by the Parliament of Kenya. As I end, since my four minutes seem to have evaporated, we must respect separation of powers. I want tell Narok County that, today, we have gained a net of Kshs1.6 billion. We were going to lose Kshs800 million, but we gained Kshs800 million. That is Kshs.1.6 billion, and I am proud to be your Senator. I am proud to be in this House. I thank all Senators because, finally, you have woken up from your dreams."
     },
     {
-      "order": 541,
+      "order": 535,
       "id": "entry-1018878",
       "label": "scene",
       "level": "1",
@@ -6495,7 +6423,7 @@
       "text": "(Sen. Olekina's microphone went off)"
     },
     {
-      "order": 542,
+      "order": 536,
       "id": "entry-1018879",
       "label": "speech",
       "level": "1",
@@ -6507,7 +6435,7 @@
       "text": "Thank you, Madam Temporary Speaker. I will try to be very brief. This evening, I am among the happiest Senators. Madam Temporary Speaker, the Bible in Isaiah 1:18 says- \"Come, let us reason together. Although your sins be as scarlet, they shall be as white as snow\". Madam Temporary Speaker, I want to thank our President, His Excellency Uhuru Muigai Kenyatta. If he had not called the leadership yesterday, sat and reasoned with them, today, we would have been in the same state that we have been in. I want to thank and also congratulate him for unifying our country. Madam Temporary Speaker, I also want to thank the leadership of the Senate because of guiding us yesterday. On the same note, under this formula, today, we are glad as the people of Marsabit County. For two months we have been talking, crying and saying that we were losing Kshs2 billion but, today, Marsabit County is gaining over Kshs500 million. Madam Temporary Speaker, 86 per cent of Marsabit voters voted for Jubilee, and today, we can be proud of our party. Madam Temporary Speaker, many months before the stalemate, many counties stopped paying their staff. That is not right. I urge the county executives to plan well for any eventualities. This is because members of staff can only be motivated when they are paid on time. You cannot demand for them to do any good job when you have not paid them. Madam Temporary Speaker, the idea of shutting down the counties, as we condemned yesterday, is not good at all. Many of our people will suffer because of that. Madam Temporary Speaker, I want to move fast and say that today, our President together with our leadership have brought unity into our country. We are speaking in the same language because we have fought for that. Madam Temporary Speaker, I want to congratulate the 25 Senators or Team Kenya because they have been bold and fought for the rights of their citizens. Today, I am proud to be part of that team. I also want to thank the seven Senators - as you know Seven is a holy number in the Bible - who sacrificed and fought for us. Thank you, Madam Temporary Speaker. Today we are one Senate and one Kenya. Thank you, our President and Senators."
     },
     {
-      "order": 543,
+      "order": 537,
       "id": "entry-1018881",
       "label": "speech",
       "level": "1",
@@ -6519,7 +6447,7 @@
       "text": "Asante Sana, Bi. Spika wa Muda, kwa kunipa fursa hii. Kwanza, nataka kusema maneno ili maseneta wenzangu wasikie, kwamba leo ni siku ya furaha kwetu sisi maseneta na hasa nchi nzima. Kila pahali ukipita katika kila kaunti au kila mtu ukimuona anauliza vile mjadala kwa Seneti unaendelea. Msimamo wa Seneti ulipokuja, tumeamua kupitisha Hoja hii na hakuna hata Kaunti moja ambayo imepoteza pesa. Bi. Spika wa muda, natoa shukrani kubwa sana kwa T eam Kenya na wale maseneta saba ambao kaunti zao zilikuwa zimepata pesa zaidi lakini wakasimama na sisi imara. Mwenyezi Mungu awabariki na awazidishie imani ili muweze kusimama na sisi. Bi. Spika wa Muda, nikiendelea mbele, natoa shukrani kwa Rais wetu wa nchi yetu ya Kenya, Rais Uhuru Muigai Kenyatta kwa kuingilia kati ili huu mzozo uweze kumalizika. Amechukua jukumu kuonyesha yeye yuko tayari kuhakikisha kwamba hili swala limemalizika. Aliweza kuamrisha Ksh53.3 bilioni zisaidie kaunti. Siku mbili sijaweza kulala kwa kuwa sikujua nikitoka hapa niende Kaunti yangu ya Kwale nitawaambia nini watu wangu wa Kwale. Leo nimesimama hapa kwa raha ana furaha, Kaunti ya Kwale ilikuwa ipoteze Ksh1 billioni. Mimi ningesimama vipi? Kuna maseneta wengi hapa ambao 2022 tuna nia ya kupigania ugavana, tutawaambia nini watu wetu?\n\nI am proud,\n\nkwa nyinyi maseneta saba na maseneta wengine wote mliohakikisha tumekuwa kitu moja na hakuna ambaye amepoteza. Kwale imepata Ksh469 milioni na ile imerudi ni Ksh1.46 milioni. Asante sana, Bi. Spika wa Muda."
     },
     {
-      "order": 544,
+      "order": 538,
       "id": "entry-1018886",
       "label": "speech",
       "level": "1",
@@ -6531,7 +6459,7 @@
       "text": "Senator for Kericho, Sen. Cheruiyot, proceed."
     },
     {
-      "order": 545,
+      "order": 539,
       "id": "entry-1018887",
       "label": "speech",
       "level": "1",
@@ -6543,7 +6471,7 @@
       "text": "Thank you, Madam Temporary Speaker. I want to celebrate Team Kenya. Let us be honest. I can see that leadership has taken off from this House. I suspect it is because they do not believe the things, they said this evening. The people they were giving thanks to were the reason why for 10 times the Senate could not make a decision. It is unfortunate and the true history of this struggle must be written and documented. I am a writer and when we will be on recess next, I will explain to Kenyans in detail what happened in this House. There has been intimidation, blackmail and politics of exclusion. It is not easy how we won this victory. The true victory for Kenya belongs to the team of 25 Senators who said yes to devolution. We decided that a time has come to say no to some of our party leaders, who instead of viewing Kenya as one indivisible unit, consider other regions as lesser regions. The truth of the matter is that we are celebrating, but there are those of us hurting because there were people we held in high regard and thought they were leaders who could take this country forward and help us achieve great aspirations. Any leader who never took their time to tell their Senators individually and cooperatively that you need to find a formula that will ensure all the 47 devolved unites benefit, shame on you! You do not deserve to be anywhere near leadership of this country. Therefore, as we are gathered here, let us celebrate but always remember that the threat to devolution is alive and eminent. The formula is not the only threat, we are aware that in the coming few days there shall be a launch of the BBI Report. We shall be looking keenly. We want to tell those mandarins that are planning to merge certain counties and constituencies that Team Kenya will defeat you once again the same way they have humbled you in this House. We must respect each other as a people and know that there is no greater or lesser Kenya. I am happy tonight that this Senate has made a decision that is good for posterity. When I am asked to give an account of my work in the Senate 50 years down the line, I will list this formula as part of the achievements---"
     },
     {
-      "order": 546,
+      "order": 540,
       "id": "entry-1018890",
       "label": "scene",
       "level": "1",
@@ -6555,7 +6483,7 @@
       "text": "(Sen. Cheruiyot microphone went off)"
     },
     {
-      "order": 547,
+      "order": 541,
       "id": "entry-1018891",
       "label": "speech",
       "level": "1",
@@ -6567,7 +6495,7 @@
       "text": "Sen. (Dr.) Mwaura."
     },
     {
-      "order": 548,
+      "order": 542,
       "id": "entry-1018892",
       "label": "speech",
       "level": "1",
@@ -6579,7 +6507,7 @@
       "text": "Thank you very much MadamTemporary Speaker. I stand here very proud as a Kenyan because of this consensus that has come as a result of two sides that were really antagonistic. We were able to witness the contest between what I call majoritarian overconfidence and marginalization overplay. Some people felt that because they are the majority, they deserve more. Some people also felt that because they are marginalized, they deserve some kind of reparation. In the actual sense, our conversation was also between nationalism and countyism. Countyism is increasingly going to be a feature of our democracy which will actually divide people further from the tribe to inter tribal divisions. We, as a Senate, were facing a critical juncture of our history in this national conversation of whether to give a shot in the arm for devolution, which is the revolution, or to continue with some centralism where money from a county such as ours is stolen and taken to Swiss and offshore accounts, to the detriment of our development. Madam Temporary Speaker, today, this Senate has demonstrated that it has the capacity and the will to believe in the future of our great Republic. We stand here having insisted that we need more monies to the counties because they are going to generate the local economies of our people. We have seen the way devolution has been able to transform counties like Kitui that were erstwhile and had nothing to speak about. We were there during the Senate Mashinani. At the same time, we are also seeing counties that are reeling under the yoke of overpopulation because of the fact that, that is where Government services and amenities are found. Today, we are not here to say who was right and who was wrong. As Sen. Orengo said, it is friction that makes any motion occur. We stand proud and I want to congratulate President Uhuru Kenyatta for refusing to go by the nationalism that he would otherwise have been able to defend as the head of the national Executive."
     },
     {
-      "order": 549,
+      "order": 543,
       "id": "entry-1018894",
       "label": "scene",
       "level": "1",
@@ -6591,7 +6519,7 @@
       "text": "(Sen. (Dr.) Mwaura's microphone went off)"
     },
     {
-      "order": 550,
+      "order": 544,
       "id": "entry-1018895",
       "label": "speech",
       "level": "1",
@@ -6603,7 +6531,7 @@
       "text": "Sen. (Arch.) Kasanga."
     },
     {
-      "order": 551,
+      "order": 545,
       "id": "entry-1018896",
       "label": "speech",
       "level": "1",
@@ -6615,7 +6543,7 @@
       "text": "Thank you so much, Madam Temporary Speaker, for giving me this opportunity to add my voice to today's wins. Let me call them the Senate wins. A hundred per cent consensus is, indeed, a wonderful thing for this country and for us, as the Senate. We can now hold our heads high and say that we have done our constitutional duty by giving Kenyans what it is they are always asking for. Let me thank the mediation team, Team Kenya, and everybody. I do not want to keep on repeating. Four minutes is a very short time. From the beginning, I wanted this Senate to go back to that basis of the formula which I believe was the problem in the first place when it was presented to the Committee on Finance and Budget. There are some parameters there that I believe we needed to look back and ask: How did they come up with this?\" For instance, how is it that the agriculture parameter is still based on households and population? I have a bit of a problem with that because Kenyans want a Kenya of freedom. Kenyans want to be free to express themselves freely. I believe today we have given that freedom, but it still means we need to look into these formulas as we go ahead. Madam Temporary Speaker, we can say today we have freed Kenyans. Today a Kenyan in Kiambu can wake up and go settle in Ukambani or wherever, because we have said, Kenya is one. We have said that every part of this country must be uplifted to middle-income status by sharing these resources appropriately. I am happy that I am now going to write a paper where I can say: \"Senators we have done our bidding\". Kenyans have always asked to be free. This is one opportunity we have once every five years as a Senate. Yes, it was very noisy at the beginning, yes, we had differed a lot, yes, we had fought, but even the Bible, when the Lord showed Himself to Elijah, it came in silence. We have to thank the 12 Member Committee for having sat down and come out with this solution that everyone has agreed is a good one. In the end, as we uphold the Constitution, we must remember that the national Government is not a big mama to the county governments, but it is a constitutional mandate for money to be drawn from the national Government to the county government. It is not a favor and we must continue fighting for more money to the counties. Madam Temporary Speaker, I submit. Thank you, very much."
     },
     {
-      "order": 552,
+      "order": 546,
       "id": "entry-1018900",
       "label": "speech",
       "level": "1",
@@ -6627,7 +6555,7 @@
       "text": "Hon. Senators, we are doing very well. The next chance is for Sen. Faki."
     },
     {
-      "order": 553,
+      "order": 547,
       "id": "entry-1018901",
       "label": "speech",
       "level": "1",
@@ -6639,7 +6567,7 @@
       "text": "Asante, Bi. Spika wa Muda kwa kunipa fursa hii. Ninawapongeza Team Kenya kwa umoja wetu na kwa kazi nzuri ambayo tulifanya kuhakikisha kwamba tumeleta usawa katika ugavi wa rasilmali. Umoja wetu ndiyo ulikuwa nguvu yetu na sote tulisimama pamoja kidete kuhakikisha hakuna kaunti ambayo inapoteza pesa zozote. Pili, ninapongeza Kamati ya Maseneta kumi na wawili ambao walikaa pamoja tena baada ya kushindwa kupata muafaka kwa muda wa mikutano 19, lakini wamekaa pamoja wakapata muafaka. Ndiyo maana leo kila mtu anayetoka ana furaha. Hata wengine wanaweza kwenda kulala na viatu bila kuvivua. Sisi ni Maseneta wa Jamhuri ya Kenya, wala sio Meseneta wa kaunti zetu. Ninawakosoa wale walikuwa na hofu kwamba mimi nikifika kwetu nitaweza kupoteza kura kwa sababu nimepiga kura na wale ambao walikuwa wanapoteza wakati kaunti yangu inapata. Kwa sababu hiyo, ninawapongeza wale ndugu zangu saba ambao walisimama na sisi Team Kenya. Kwa kuwa nia yetu ilikuwa safi na ya Kenya, hata wale walikuwa na hofu kwamba kaunti zao zitapoteza wamepata. Tukiangalia, kwa mfano, Sen. Cherargei wa Kaunti ya Nandi, ameweza kupata zaidi ya zile ambazo alikuwa apate awali. Umoja wetu ndio umetuleta hapa ambapo tumefika. Kama Seneti, lazima tuweze kuhakikisha kwamba umoja huu unaendelea kutekelezwa. Kaunti kama vile Mombasa, ilikuwa inapoteza zaidi ya Kshs800 milioni, lakini kwa ushupavu wetu, tumeweza kuhakikisha kwamba, wameongezewa Kshs500 milioni zaidi. Mapato yetu sasa ni Kshs1.3 bilioni, katika Mwaka wa Kifedha 2021/2022. Mhe. Bi. Spika wa Muda, mapambano yanaendelea kwa sababu tatizo lililoko ni kuwa, lazima tuondoe suala la ugavi wa rasilmali kutoka kwa Wizara ya Fedha na Mipango na iletwe hapa Bunge. Hapa ndipo pahali maalum ambapo Katiba inasema pesa zigawanywe. Hatuwezi kuwa tukienda na bakuli kwa Wizara ya Fedha na Mipango kila mara kuomba na Idara ya Mahakama inakwenda pale pia kuomba. Hayo yote ni kinyume cha Katiba yetu. Kutekeleza Katiba kamili, ni lazima tuondoe vitengo vyote vya Serikali katika minyororo ya Serikali kuu ili kuhakikisha kwamba, kaunti zetu zinastawi."
     },
     {
-      "order": 554,
+      "order": 548,
       "id": "entry-1018902",
       "label": "speech",
       "level": "1",
@@ -6651,7 +6579,7 @@
       "text": "Thank you, Madam Temporary Speaker. When the people of the county of Nyamira learnt that they were about to lose Kshs545 million from the allocation, there was sadness and grief. There is joy and celebrations in Nyamira County today because we have saved that county from losing Kshs545 million. On top of that, we have added Nyamira County Kshs324 million. Madam Temporary Speaker, these could never have been possible without the support that we received from Team Kenya, and more so, my seven brothers, namely, Sen. Murkomen, Sen. Sakaja, Sen. (Dr.) Kabaka, Sen. Malalah, Sen. Linturi, Sen. Cheruiyot and Sen. (Dr.) Langat. Some of us felt orphaned. We were abandoned by our neighbouring counties. We once thought that we will never win the battle without our neighbours. However, our seven brothers came in and lived with the biblical verse that says, \"Love your neighbour as you love yourself.\" They came to the rescue of Nyamira and the larger Gusii region. Madam Temporary Speaker, as at that time, the only region that was gaining in the entire Gusii region was Kisii County that was going to get Kshs226 million. However, due to this battle that we mounted jointly as Team Kenya, the Gusii Region will gain a total of Kshs1.432 billion. Therefore, this is a big win for the Gusii Region. Going forward, I want to urge my colleagues to be your brother's keeper; to stand together and not fight for selfish interests, but for the interests of the 47 counties. Everybody is a winner today. My in-laws are winners, the President of this country is a winner and all counties of this country are winners. That should be the spirit. As we go forward, we must do an audit on some of the data that we have in this country. It is unbelievable that in Nyamira County, we are told that between 2009 and 2019, our population increased by only 7,132. That could never be possible. Going forward, we must audit the data that is in our Government offices. I thank Team Kenya and the Senators who stood with us. The people of Nyamira County will forever be grateful. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 555,
+      "order": 549,
       "id": "entry-1018904",
       "label": "speech",
       "level": "1",
@@ -6663,7 +6591,7 @@
       "text": "Madam Temporary Speaker, thank you very much for the opportunity. I stand up as a very proud Senator. The names that perhaps were known by notwithstanding, I am very proud that we have made sure that the new formula is not going to leave any county behind. The fact that for the duration of the operation of the Third Basis for allocation of revenue among counties no county shall receive in any financial year an amount of the shareable revenue less than the amount received in the previous year is a win for this country. So much has been said, but I would like to celebrate leadership today. I am one of those people that have been saying that there is a crisis of leadership. However, I would like to celebrate leadership today. I have always believed in a good challenge and this formula was a good challenge for this House. What makes it sweeter is that it is a good challenge tackled by good people. I would like to thank especially the seven colleagues, who were winning in the other flawed formula, but decided to stand up for this country instead of selfish interests. I celebrate Sen. Murkomen, who was the first to stand up and say: \"I stand for Kenya.\" I celebrate Sen. (Dr.) Kabaka, Sen. Sakaja, Sen. (Dr.) Langat, Sen. Linturi, Sen. Cheruiyot and Sen. Malalah. The celebration does not end there. I celebrate the leadership of my nominated sisters. Two of them are sitting here; Sen. (Rev.) Waqo from Marsabit County and Sen. Iman from Garissa, who already had a case against them. They looked beyond their families and decided to stand with their people. I hope those people they stood with are going to reward them abundantly. Madam Temporary Speaker, there is a general failure of nerve in leadership. If this formula is anything to go by, when we master our nerve as the leadership and stand up to whatever is not right, this is the result we get; we all win. Today, not only did the marginalised counties win, even the other counties won much more than they had won. There is scarcity mentality that was rubbished today. That is to say that there is not enough and that the leadership was not going---"
     },
     {
-      "order": 556,
+      "order": 550,
       "id": "entry-1018908",
       "label": "scene",
       "level": "1",
@@ -6675,7 +6603,7 @@
       "text": "(Sen. Halake's microphone went off)"
     },
     {
-      "order": 557,
+      "order": 551,
       "id": "entry-1018909",
       "label": "speech",
       "level": "1",
@@ -6687,7 +6615,7 @@
       "text": "Madam Temporary Speaker, from the outset, I thank all the Senators because we have made a milestone today. We had over 12 meetings and the eleventh wonder is that we have passed the stalemate. I am happy for Nandi because I have been consistent. Initially we had gained Kshs1.4 billion, but now we will gain Kshs1.7 billion. Therefore, our net gain is around Kshs3 billion. We should now see development in Nandi in terms of roads, bursary and many other things being done. I am happy with my colleagues who together we stood against isolation and bullying by other colleagues in the principle of one man, one vote, one shilling. That principle stands for fairness, equity and transparency when it comes to accountability. I thank Sen. Kinyua and Sen. Kihika who together we stood against any intimidation from colleagues who wanted to force us to a certain way of thinking. In future, governors should stick to their mandate of developing counties. They should not go behind our backs and connive when we push for more resources to go to the counties. Thirdly, now that we have added governors money, when we invite or summon them, they should come to account for every penny that we have given them. They must come running to account for the money. Finally, I thank everybody who participated in this process. Sen. Were was very optimistic. I am one of the people who supported her when she came with the idea of Kshs348 billion. If we want devolution to work in this country, we must push for more billions to go to the counties because we stand for one nation and 48 governments that we have in this Republic. When we will be faced with the next formula, the Senate should stand together for the benefit of this nation. Madam Temporary Speaker, I am happy that you and I are now in the league of billionaires. We are in the same economic bloc that will transform the western hemisphere of this country. I thank the Office of the Speaker because they have always been there. I do not need to apologise for anything. As I conclude, the reason the people of Nandi elected me to this Senate is for me to represent their interests first. Other interests can be secondary. I will always push for the interests of the people of Nandi. Other interests will follow. Let us continue fighting for resources and protect devolution. I am happy that today we will go home relaxed and our counties will move forward. I thank you."
     },
     {
-      "order": 558,
+      "order": 552,
       "id": "entry-1018910",
       "label": "speech",
       "level": "1",
@@ -6699,7 +6627,7 @@
       "text": "Madam Temporary Speaker, I also rise to support what my colleagues have said this afternoon. I want to start by congratulating the 67 Senators of this Senate for the hard work and the many sittings we have had in this Chamber. I believe that we have had over 11 sittings and we tried our best, but we could not never really unlock the stalemate. I also have sat in the special committee that was assigned to come up with a consensus and we had 17 sittings in that committee, where most days we went from 9.00 a.m. in the morning until about 7.00 p.m. We diligently sat here, went through the numbers and at the end of the day, this afternoon, we were able to come up with a consensus that was then also embraced by this House. So, I am extremely grateful. Madam Temporary Speaker, I would also wish to take this moment to state that there is a fallacy. While there are those who call themselves Team Kenya, which I appreciate, let them not imagine for a minute, that the rest of us are not Kenyans. Let them not imagine for a minute that the rest of us, whatever interests we stand for, emanates from selfishness and greed. We too, were fighting for our people. We too were fighting for the interests of our counties. Looking at the end result and what we have, I believe the one man, one vote, one shilling has also won the day today. As I conclude, I also take the opportunity to condemn in the strongest terms the very incompetent chairperson of the Council of Governors. That man, hon. Oparanya, the Governor of Kakamega County does not seem to understand his role. I speak as a Senator of this House, that, the next time we call them here as governors for accountability, they must run here. We cannot be sitting here, burning the midnight oil to get them more money and when we call them here for accountability, they drag their feet. That must not happen. As I conclude, I also want to say to Sen. Kang'ata, that a gentleman does not kiss and tell. So you should not have been coming here to tell us that you gave somebody else the Kshs348 billion formula for them to forward. Sen. Petronilla, I congratulate you for the great work you did. Initially we dismissed you but in the end you did exceedingly well. Today is a great day for the Senate. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 559,
+      "order": 553,
       "id": "entry-1018912",
       "label": "speech",
       "level": "1",
@@ -6711,7 +6639,7 @@
       "text": "Thank you, Madam Temporary Speaker for giving me the opportunity to say something. First, I would like to thank God the Almighty for the protection and the guidance that he has given this House up to today that we have resolved a lot of conflicts on matters to do with this particular formula. I would like to suggest that in future, the leadership and the Executive should be taking a proactive approach. They should not be waiting until the last minute when the country is almost divided in the middle that they come up with a solution. This particular House has gone through challenges right from last year. Remember when the Executive was telling us, share with the counties the salaries that you are getting. If the Executive had accepted what we had proposed last year, this particular Senate could not have reached the position it reached. I would like to thank even the community that I come from the Bomet people; the elders and the Bishops who came to my house at one time and told me: \"Langat, our community is not a community that takes from the poor. Give the Turkana and the rest their share and bring to Bomet whatever little and honest it may be.\" Today, the people of Bomet have been rewarded by God. You should have gotten Kshs600 million but because you stood with me and I stood with others in this country, we have gained Kshs1.184 million. So, I want to thank God. I want also to appreciate leaders who were bold right from the beginning. I want to congratulate the Deputy President of this country, who right from the onset promoted the win-win formula. He was so bold unlike other leaders who are even aspiring presidential candidates and they were mobilizing us here to go against the win-win formula. I want to congratulate him. He has been so bold. It was not easy but he advised the country and the Senate to go the win-win way. I want to thank God for this particular day because all of us Kenyans have a reason to smile. I do not know what those Senators who were losing, would have gone home to tell their people. The people down there in the village think that this is something that you come and struggle and when you go home without, you have been defeated. So, there is no one who has been defeated, there is no one who is a loser today. As I conclude we shall never forget some things. Some of us suffered. Some of us risked our lives. Some of us risked the gains of our counties. We thank God that today, all of us are gainers. I want to tell those counties we have supported that, \"A friend in need is a friend indeed\"."
     },
     {
-      "order": 560,
+      "order": 554,
       "id": "entry-1018914",
       "label": "scene",
       "level": "1",
@@ -6723,7 +6651,7 @@
       "text": "(Sen. (Dr.) Langat's microphone went off)"
     },
     {
-      "order": 561,
+      "order": 555,
       "id": "entry-1018915",
       "label": "speech",
       "level": "1",
@@ -6735,7 +6663,7 @@
       "text": "I can see the excitement from Sen. Susan Kihika. Finally, hon. Senators, we are giving the last opportunity to Sen. Wetangula, who will also give a reply to the Motion."
     },
     {
-      "order": 562,
+      "order": 556,
       "id": "entry-1018916",
       "label": "speech",
       "level": "1",
@@ -6747,7 +6675,7 @@
       "text": "Thank you, Madam Temporary Speaker. Thank you, Senators. Today is a great day. In ancient Greece, they would say this is a day set aside for heroes, legends and gods. Today is a day where this Senate has reclaimed its position. This Senate has stood to be counted. This Senate has defined clearly what it was meant to be and what it is. Patience pays. When we started, if Senators wanted a quick fix, we would have walked away with Kshs300 billion and at the very most at Kshs325 billion. However, people representing their counties, Senators, stood firm. It is not fair to hail one side and leave the other. If Sen. Kihika, Sen. Cherargei, Sen. Kinyua, Sen. Lotiptip, and Sen. Kajwang' wanted a quick win, they would have voted for anything. They stood firm. I want to hail Sen. Sakaja, Sen. (Eng.) Mahamud, Sen. Murkomen and the team they had for also standing firm. In fact, it is their ability to negotiate from a fixed position contrary to the tenets of negotiation that has brought the Kshs370 billion. There was no way out of this impasse. Madam Temporary Speaker, if governors were working with this Senate, we probably would have achieved what the Building Bridges Initiative (BBI) wants to bring; the 35 per cent of revenue going to the counties. Madam Temporary Speaker, for the previous years, whether it was the time of the former Sen. Billow Kerow as our Chair, or my brother from Mandera, the distinguished Sen. (Eng.) Mahamud, every time the Senate was pushing for more resources, governors went round the Senate. They went to the Intergovernmental Budget and Economic Council (IBEC), dismissed Senators, cut a deal and put us a fait accompli . They would say those Senators do not know what they are doing. When the money does not arrive, they say Senators are blocking the money. Madam Temporary Speaker, I was shocked when the Chair of the Council of Governors (CoG) directed governors to close down health facilities. Why did they not think of closing down the endless teas and mandazis they eat every day in their offices? Why did they not think of reducing the convoys that run around the counties creating nuisance? I have personally seen a pick up using public resources carrying a seat for the Governor of Kakamega to go and sit on at a funeral, 50 kilometers away. I have seen with my two eyes a &amp; like seat from Kakamega town all the way to corners of Kakamega for him to sit on at a funeral. When I turn up as a party leader, Senator and as a Presidential candidate, I sit on a plastic chair that everybody else is sitting on. These governors must be brought to order. This money---I want to urge the President, because the back of provision of our oversight money has always got stuck at his table, you have done very well in giving this money to go to the counties, but there is a serious deficit of accountability in the counties. There is a serious misapplication and outright theft of resources in the counties. Enable this House to carry out a better oversight role. Enable these Senators, over and above carrying out postmortems on expenditure, to go back to the counties and do budget tracking to ensure that whatever budgets are passed by the assemblies, are being spent in the manner they were budgeted for. Otherwise, we will continue as we have always done. We pass budgets, send money and what we are doing this evening is we have created an increased list of billionaires in Kenya. A few governors will deep their hand in the tin and will be sitting all over boasting how rich they are, knowing very well that yesteryears they were nothing. I want to urge the office of the Director of Public Prosecutors (DPP), the Ethics and Anti-Corruption Commission (EACC), the Directorate of Criminal Investigations (DCI), the Controller of Budget, the Auditor-General, the County Assemblies as the primary audit units and, finally, the Senate--- The county Public Accounts Committee (PAC), do not be frightened, intimidated or blackmailed by the outburst of Governor Oparanya saying that you are a cartel. People who do not want accountability will always look for excuses to escape. Do your work, do not wait to be cheered or praised. Let us make every shilling going to the county worthwhile for our being here. Finally, allow me to salute the team of 12 that I and my distinguished nephew, Sen. Sakaja led. They sat here and were meeting from 7.00 a.m. to 7.00 p.m. in the evening. We would leave here sometimes frustrated, but determined that we will get there. At one time, I asked my nephew: 'Are you sure we will get there?' I answered very quickly that I am determined we will get there. When I saw that this has happened by the intervention of the Head of State, I was happy because that is where we would have been long time ago. I want to urge people who work with the President to continue communicating the correct messages at the correct time to him. This is so that wherever it is necessary for him to intervene because he is the Chief Executive of this country, he can do so, make adjustments, sacrifices in one area to give comfort to another area so that this country can move forward. Madam Temporary Speaker, let me end by urging this House to be eternally vigilant. I dare say without any fear of contradiction that the biggest threat to devolution today in this country are some governors. There are some who are good, we cannot lump all of them together. Nonetheless, the majority of them are not walking the narrow path. They preach water and drink wine and loathe accountability. The majority of them believe that accountability is an option which they can avoid. It is not. When you accept to hold public office where you manage public resources, you must be ready to be asked questions, provide answers and account. There is no shortcut to this. This House must stand in unison and say accountability! Accountability! Accountability! is the modusoperandi of each and every governor in this country. There are counties like Mandera where they saw the first tarmac road because of devolution. We have counties in this country where children were reading about water in pipes in books. We have counties where the first caesarean section delivery could only be achieved because of devolution. Now we can sit back and say, this House makes us equal. This is the House of equity where Lamu, Nairobi, Kiambu, Isiolo, Laikipia and Kakamega each has one vote. It matters not how many Members of the delegation you have. We have equality of counties in this House and, that is the Kenya we want. Tonight, I have no doubt that the forefathers of devolution, Ronald Ngala, Masinde Muliro, and Daniel Moi will be sleeping wherever they are, because this House has given meaning to what they saw in 1963. I urge this House that devolution is a dream come true for every Kenyan. Let us make it work, let us hold it, strengthen it, and let us succeed with it. Madam Temporary Speaker, let me now turn to the County Allocation of Revenue (CARA) Bill that was at the Third Reading. I beg to reply to all the comments that colleagues have made on the CARA Bill, and move that you postpone the vote on the Third Reading to the next sitting when we shall have sufficient delegations to vote. Long live Kenya and long live the Senate. There is no winner and no loser. We are all winners. Thank you."
     },
     {
-      "order": 563,
+      "order": 557,
       "id": "entry-1018925",
       "label": "speech",
       "level": "1",
@@ -6759,7 +6687,7 @@
       "text": "Thank you, Hon. Senators, for the effort that you have put in to come to the end of this difficult Motion that we have engaged in for a very long time. I think that we have been very constructive in the way that we have engaged ourselves. This should be the spirit of the Senate. I urge you to continue with this great spirit that you have displayed to the nation of Kenya. Hon. Senators, we are not going to put the question. We will defer it to the next time that it is scheduled by the Senate Business Committee (SBC)."
     },
     {
-      "order": 564,
+      "order": 558,
       "id": "entry-1018927",
       "label": "scene",
       "level": "1",
@@ -6771,7 +6699,7 @@
       "text": "(Putting of the Question on the Third Reading to the Bill deferred)"
     },
     {
-      "order": 565,
+      "order": 559,
       "id": "entry-1018928",
       "label": "heading",
       "level": "1",
@@ -6783,7 +6711,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 566,
+      "order": 560,
       "id": "entry-1018929",
       "label": "speech",
       "level": "1",

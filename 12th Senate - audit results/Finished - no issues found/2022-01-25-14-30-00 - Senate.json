@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2022-01-25-14-30-00",
-  "exported_at": "2026-10-13T17:34:14.110Z",
+  "exported_at": "2026-10-15T19:33:56.489Z",
   "entries": [
     {
       "order": 1,
@@ -1476,25 +1476,13 @@
       "speaker": "Johnes Mwashushe Mwaruma",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Madam Temporary Chairperson, I beg to move - THAT, the Bill be amended by inserting the following new clause immediately after New Clause 2A- Heritage assessment criteria and grading."
+      "text": "Madam Temporary Chairperson, I beg to move - THAT, the Bill be amended by inserting the following new clause immediately after New Clause 2A- Heritage assessment criteria and grading.\n\n2B."
     },
     {
       "order": 124,
-      "id": "entry-1166562",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "2B."
-    },
-    {
-      "order": 125,
       "id": "entry-1166563",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1503,10 +1491,10 @@
       "text": "The National Museums of Kenya shall, in consultation with the Cabinet Secretary and the county executive committee member in each county prescribe a system of grading of places and objects which form part of the national heritage and shall distinguish between- (a) grade I category consisting of heritage resources with qualities so exceptional that they are of special national significance; (b) grade II consisting of heritage resources which, although forming part of the national heritage, can be considered to have special qualities which make them significant within the context of a county or a region; and (c) such other grade assessment criteria as the National Museum of Kenya shall consider appropriate."
     },
     {
-      "order": 126,
+      "order": 125,
       "id": "entry-1166564",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1515,10 +1503,10 @@
       "text": "(Question of the New Clause 2B proposed)"
     },
     {
-      "order": 127,
+      "order": 126,
       "id": "entry-1166565",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1527,10 +1515,10 @@
       "text": "(New Clause 2B Read the First Time)"
     },
     {
-      "order": 128,
+      "order": 127,
       "id": "entry-1166566",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1539,10 +1527,10 @@
       "text": "(Question, that the New Clause 2B be read a Second Time, proposed)"
     },
     {
-      "order": 129,
+      "order": 128,
       "id": "entry-1166567",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1551,10 +1539,10 @@
       "text": "(Question, that the New Clause 2B be part of the Bill proposed)"
     },
     {
-      "order": 130,
+      "order": 129,
       "id": "entry-1166568",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Rose Nyamunga Ogendo",
@@ -1563,7 +1551,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 131,
+      "order": 130,
       "id": "entry-1166569",
       "label": "heading",
       "level": "5",
@@ -1575,7 +1563,7 @@
       "text": "New Clause 7A"
     },
     {
-      "order": 132,
+      "order": 131,
       "id": "entry-1166570",
       "label": "speech",
       "level": "5",
@@ -1584,25 +1572,13 @@
       "speaker": "Johnes Mwashushe Mwaruma",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Madam Temporary Chairperson, I beg to move - THAT, the Bill be amended by inserting the following new clause immediately after Clause 7-"
+      "text": "Madam Temporary Chairperson, I beg to move - THAT, the Bill be amended by inserting the following new clause immediately after Clause 7-\n\n7A."
     },
     {
-      "order": 133,
-      "id": "entry-1166572",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "7A."
-    },
-    {
-      "order": 134,
+      "order": 132,
       "id": "entry-1166573",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1611,10 +1587,10 @@
       "text": "(1) A county executive committee member may establish a county museum for the management of the heritage resources within the respective county;"
     },
     {
-      "order": 135,
+      "order": 133,
       "id": "entry-1166574",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1623,10 +1599,10 @@
       "text": "(2) Notwithstanding the generality of subsection (1), a county museum shall-"
     },
     {
-      "order": 136,
+      "order": 134,
       "id": "entry-1166576",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1635,10 +1611,10 @@
       "text": "(a) advise the county executive committee member on the implementation of this Act or relevant county legislation;"
     },
     {
-      "order": 137,
+      "order": 135,
       "id": "entry-1166577",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1647,10 +1623,10 @@
       "text": "(b) submit an annual report to the county executive committee member regarding its activities for each financial year;"
     },
     {
-      "order": 138,
+      "order": 136,
       "id": "entry-1166578",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1659,10 +1635,10 @@
       "text": "(c) promote the systematic identification, recording and assessment of heritage resources and heritage objects which form part of the national heritage in a county;"
     },
     {
-      "order": 139,
+      "order": 137,
       "id": "entry-1166579",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1671,10 +1647,10 @@
       "text": "(d) protect and manage heritage resources in a county which fulfil the heritage assessment criteria prescribed under this Act for grade II status;"
     },
     {
-      "order": 140,
+      "order": 138,
       "id": "entry-1166580",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1683,10 +1659,10 @@
       "text": "(e) notify the National Museums of Kenya of the presence of any heritage resource in the county which fulfils the heritage assessment criteria prescribed under this Act for grade I status;"
     },
     {
-      "order": 141,
+      "order": 139,
       "id": "entry-1166581",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1695,10 +1671,10 @@
       "text": "(f) maintain data bases on heritage resources in accordance with national standards, and at regular intervals furnish the National Museums of Kenya with such data and (g) establish policy, objectives and strategic plans for heritage resources management in the county."
     },
     {
-      "order": 142,
+      "order": 140,
       "id": "entry-1166582",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1707,10 +1683,10 @@
       "text": "(Question of the New Clause 7A proposed)"
     },
     {
-      "order": 143,
+      "order": 141,
       "id": "entry-1166583",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1719,10 +1695,10 @@
       "text": "(New Clause 7A Read the First Time)"
     },
     {
-      "order": 144,
+      "order": 142,
       "id": "entry-1166584",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1731,10 +1707,10 @@
       "text": "(Question, that the New Clause 7A be read a Second Time, proposed)"
     },
     {
-      "order": 145,
+      "order": 143,
       "id": "entry-1166585",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1743,10 +1719,10 @@
       "text": "(Question, that the New Clause 7A be part of the Bill proposed)"
     },
     {
-      "order": 146,
+      "order": 144,
       "id": "entry-1166586",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Rose Nyamunga Ogendo",
@@ -1755,7 +1731,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 147,
+      "order": 145,
       "id": "entry-1166587",
       "label": "heading",
       "level": "5",
@@ -1767,7 +1743,7 @@
       "text": "New Clause 33A"
     },
     {
-      "order": 148,
+      "order": 146,
       "id": "entry-1166588",
       "label": "speech",
       "level": "5",
@@ -1776,25 +1752,13 @@
       "speaker": "Johnes Mwashushe Mwaruma",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Madam Temporary Chairperson, I beg to move- THAT, the Bill be amended by inserting the following new clause immediately after Clause 33- Petition for declaration of National and county heritage sites"
+      "text": "Madam Temporary Chairperson, I beg to move- THAT, the Bill be amended by inserting the following new clause immediately after Clause 33- Petition for declaration of National and county heritage sites\n\n33A."
     },
     {
-      "order": 149,
-      "id": "entry-1166589",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "33A."
-    },
-    {
-      "order": 150,
+      "order": 147,
       "id": "entry-1166590",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1803,10 +1767,10 @@
       "text": "(1) A person may petition- (a) the National Museums of Kenya for a place to be declared a national heritage site; or (b) the respective county museum for a place to be declared a county heritage site. (2) The Cabinet Secretary shall develop regulations on petitions for declaration of National and county heritage sites."
     },
     {
-      "order": 151,
+      "order": 148,
       "id": "entry-1166592",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1815,10 +1779,10 @@
       "text": "(Question of the New Clause 33A proposed)"
     },
     {
-      "order": 152,
+      "order": 149,
       "id": "entry-1166593",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1827,10 +1791,10 @@
       "text": "(New Clause 33A Read the First Time)"
     },
     {
-      "order": 153,
+      "order": 150,
       "id": "entry-1166594",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1839,10 +1803,10 @@
       "text": "(Question, that the New Clause 33A be read a Second Time, proposed)"
     },
     {
-      "order": 154,
+      "order": 151,
       "id": "entry-1166595",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -1851,10 +1815,10 @@
       "text": "(Question, that the New Clause 33A be part of the Bill proposed)"
     },
     {
-      "order": 155,
+      "order": 152,
       "id": "entry-1166596",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Rose Nyamunga Ogendo",
@@ -1863,7 +1827,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 156,
+      "order": 153,
       "id": "entry-1166597",
       "label": "heading",
       "level": "5",
@@ -1875,7 +1839,7 @@
       "text": "New Clause 33B"
     },
     {
-      "order": 157,
+      "order": 154,
       "id": "entry-1166598",
       "label": "speech",
       "level": "5",
@@ -1884,25 +1848,13 @@
       "speaker": "Johnes Mwashushe Mwaruma",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Madam Temporary Chairperson, I beg to move- THAT, the Bill be amended by inserting the following new clause immediately after New Clause 33A- Inventory of national heritage"
+      "text": "Madam Temporary Chairperson, I beg to move- THAT, the Bill be amended by inserting the following new clause immediately after New Clause 33A- Inventory of national heritage\n\n33B."
     },
     {
-      "order": 158,
-      "id": "entry-1166600",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "33B."
-    },
-    {
-      "order": 159,
+      "order": 155,
       "id": "entry-1166601",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1911,10 +1863,10 @@
       "text": "(1) The National Museums of Kenya shall keep and maintain an inventory of national heritage."
     },
     {
-      "order": 160,
+      "order": 156,
       "id": "entry-1166602",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1923,10 +1875,10 @@
       "text": "(2) The inventory of national heritage shall be in the form of a data base of information on heritage resources, including-"
     },
     {
-      "order": 161,
+      "order": 157,
       "id": "entry-1166603",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1935,10 +1887,10 @@
       "text": "(a) an object, monument or protected area declared this Act to be a protected object, monument or protected area;"
     },
     {
-      "order": 162,
+      "order": 158,
       "id": "entry-1166604",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -1947,7 +1899,7 @@
       "text": "(b) all places and objects protected through the publication of notices in the"
     },
     {
-      "order": 163,
+      "order": 159,
       "id": "entry-1166605",
       "label": "heading",
       "level": "3",
@@ -1959,7 +1911,7 @@
       "text": "Gazette"
     },
     {
-      "order": 164,
+      "order": 160,
       "id": "entry-1166606",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1923,7 @@
       "text": "or county gazette, whether under this Act or a county legislation; and"
     },
     {
-      "order": 165,
+      "order": 161,
       "id": "entry-1166607",
       "label": "speech",
       "level": "3",
@@ -1983,7 +1935,7 @@
       "text": "(c) places and objects subject to general protection under this Act or a county legislation for the management of heritage resources."
     },
     {
-      "order": 166,
+      "order": 162,
       "id": "entry-1166608",
       "label": "speech",
       "level": "3",
@@ -1995,7 +1947,7 @@
       "text": "(3) The National Museums of Kenya shall list heritage resources in the inventory under the categories prescribed under this Act."
     },
     {
-      "order": 167,
+      "order": 163,
       "id": "entry-1166609",
       "label": "speech",
       "level": "3",
@@ -2007,7 +1959,7 @@
       "text": "(4) The National Museums of Kenya shall from time to time, and in consultation with the relevant county museum review and update the inventory of national heritage."
     },
     {
-      "order": 168,
+      "order": 164,
       "id": "entry-1166610",
       "label": "speech",
       "level": "3",
@@ -2019,7 +1971,7 @@
       "text": "(5) The National Museums of Kenya shall make the inventory of national heritage accessible to members of the public."
     },
     {
-      "order": 169,
+      "order": 165,
       "id": "entry-1166611",
       "label": "speech",
       "level": "3",
@@ -2031,7 +1983,7 @@
       "text": "(6) The National Museums of Kenya shall, at regular intervals, publish a summary and analysis of the inventory of national heritage."
     },
     {
-      "order": 170,
+      "order": 166,
       "id": "entry-1166612",
       "label": "scene",
       "level": "3",
@@ -2043,7 +1995,7 @@
       "text": "(Question of the New Clause 33B proposed)"
     },
     {
-      "order": 171,
+      "order": 167,
       "id": "entry-1166613",
       "label": "scene",
       "level": "3",
@@ -2055,7 +2007,7 @@
       "text": "(New Clause 33B Read the First Time)"
     },
     {
-      "order": 172,
+      "order": 168,
       "id": "entry-1166614",
       "label": "scene",
       "level": "3",
@@ -2067,7 +2019,7 @@
       "text": "(Question, that the New Clause 33B be read a Second Time, proposed)"
     },
     {
-      "order": 173,
+      "order": 169,
       "id": "entry-1166617-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2079,7 +2031,7 @@
       "text": "(Question, that the New Clause 33B be part of the Bill proposed)"
     },
     {
-      "order": 174,
+      "order": 170,
       "id": "entry-1166617-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "5",
@@ -2091,7 +2043,7 @@
       "text": "New Clause 33C"
     },
     {
-      "order": 175,
+      "order": 171,
       "id": "entry-1166618",
       "label": "speech",
       "level": "5",
@@ -2100,25 +2052,13 @@
       "speaker": "Johnes Mwashushe Mwaruma",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Madam Temporary Chairperson, I beg to move- THAT, the Bill be amended by inserting the following new clause immediately after Clause 33- Heritage registers"
+      "text": "Madam Temporary Chairperson, I beg to move- THAT, the Bill be amended by inserting the following new clause immediately after Clause 33- Heritage registers\n\n33C."
     },
     {
-      "order": 176,
-      "id": "entry-1166619",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "33C."
-    },
-    {
-      "order": 177,
+      "order": 172,
       "id": "entry-1166620",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -2127,10 +2067,10 @@
       "text": "(1) A county museum shall compile and maintain heritage register specifying the heritage resources in the respective county in accordance with this Act."
     },
     {
-      "order": 178,
+      "order": 173,
       "id": "entry-1166621",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -2139,10 +2079,10 @@
       "text": "(2) A county museum shall, in the heritage register, set out the heritage resources in accordance with- (a) the sub categories prescribed under this Act; (b) the area of jurisdiction; and (c) such other categories as the Cabinet Secretary shall prescribe. (3) The respective county executive committee member shall prescribe for the procedures and information required for- (a) the entry of a resource into the heritage register; and (b) the compilation of an inventory of heritage resources."
     },
     {
-      "order": 179,
+      "order": 174,
       "id": "entry-1166622",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -2151,10 +2091,10 @@
       "text": "(4) A county museum may approve an application for the entry of heritage resource in the heritage register submitted to it by any person in the prescribed form. (5) A county museum shall not enter a place in a heritage register unless the museum has consulted with the owner of such place regarding the protection of that place."
     },
     {
-      "order": 180,
+      "order": 175,
       "id": "entry-1166623",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2163,10 +2103,10 @@
       "text": "(Question of the New Clause 33C proposed)"
     },
     {
-      "order": 181,
+      "order": 176,
       "id": "entry-1166624",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2175,10 +2115,10 @@
       "text": "(New Clause 33C Read the First Time)"
     },
     {
-      "order": 182,
+      "order": 177,
       "id": "entry-1166625",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2187,10 +2127,10 @@
       "text": "(Question, that the New Clause 33C be read a Second Time, proposed)"
     },
     {
-      "order": 183,
+      "order": 178,
       "id": "entry-1166626",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2199,10 +2139,10 @@
       "text": "(Question, that the New Clause 33C be part of the Bill proposed)"
     },
     {
-      "order": 184,
+      "order": 179,
       "id": "entry-1166627",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Rose Nyamunga Ogendo",
@@ -2211,7 +2151,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 185,
+      "order": 180,
       "id": "entry-1166628",
       "label": "heading",
       "level": "5",
@@ -2223,7 +2163,7 @@
       "text": "New Clause 33D"
     },
     {
-      "order": 186,
+      "order": 181,
       "id": "entry-1166629",
       "label": "speech",
       "level": "5",
@@ -2232,25 +2172,13 @@
       "speaker": "Johnes Mwashushe Mwaruma",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by inserting the following New Clause immediately after New Clause 33C- National heritage"
+      "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by inserting the following New Clause immediately after New Clause 33C- National heritage\n\n33D."
     },
     {
-      "order": 187,
-      "id": "entry-1166633",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "33D."
-    },
-    {
-      "order": 188,
+      "order": 182,
       "id": "entry-1166634",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -2259,10 +2187,10 @@
       "text": "(1) The National Museums of Kenya may provide financial resources assistance assistance in the form of a grant or a loan to an approved body or an programme. individual for a project in line with the provisions and the principles prescribed under this Act. (2) The Cabinet Secretary shall, in consultation with the National Museums of Kenya, prescribe the procedure for the application for approval and granting of financial assistance and the criteria for the assessment of projects."
     },
     {
-      "order": 189,
+      "order": 183,
       "id": "entry-1166635",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2271,10 +2199,10 @@
       "text": "(Question of New Clause 33D proposed)"
     },
     {
-      "order": 190,
+      "order": 184,
       "id": "entry-1166636",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2283,10 +2211,10 @@
       "text": "(New Clause 33D read the First time)"
     },
     {
-      "order": 191,
+      "order": 185,
       "id": "entry-1166637",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2295,10 +2223,10 @@
       "text": "(Question that New Clause 33D be read a Second Time proposed)"
     },
     {
-      "order": 192,
+      "order": 186,
       "id": "entry-1166638",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2307,10 +2235,10 @@
       "text": "(Question that New Clause 33D be part of the Bill proposed)"
     },
     {
-      "order": 193,
+      "order": 187,
       "id": "entry-1166639",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Rose Nyamunga Ogendo",
@@ -2319,7 +2247,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 194,
+      "order": 188,
       "id": "entry-1166640",
       "label": "heading",
       "level": "5",
@@ -2331,7 +2259,7 @@
       "text": "New Clause 33E"
     },
     {
-      "order": 195,
+      "order": 189,
       "id": "entry-1166641-split-before-000ba45a-0f61-4cad-8b7f-66cbed9c85a0",
       "label": "speech",
       "level": "5",
@@ -2343,7 +2271,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by inserting the following New Clause immediately after New Clause 33D- Heritage agreements. 33E (1) The National Museums of Kenya or a county museum may enter into an agreement with a conservation body, a person, or a community for the conservation or improvement of a heritage resource. (2) A heritage agreement may provide for-- (a) the maintenance and management of a heritage resource; (b)the custody of the resource;\n\n(c) the occupation or use of the place by the owner; (d)the facilities of access to be permitted to the public;\n\n(e) the payment of any expenses incurred by the owner in connection with the maintenance of the heritage resource;\n\n(f) the duration of the agreement; and\n\n(g) the procedure for the resolution of any dispute arising out of the agreement."
     },
     {
-      "order": 196,
+      "order": 190,
       "id": "entry-1166642",
       "label": "scene",
       "level": "5",
@@ -2355,7 +2283,7 @@
       "text": "(Question of New Clause 33E proposed)"
     },
     {
-      "order": 197,
+      "order": 191,
       "id": "entry-1166644",
       "label": "scene",
       "level": "5",
@@ -2367,7 +2295,7 @@
       "text": "(New Clause 33E read the First time)"
     },
     {
-      "order": 198,
+      "order": 192,
       "id": "entry-1166645",
       "label": "scene",
       "level": "5",
@@ -2379,7 +2307,7 @@
       "text": "(Question that New Clause 33E be read a Second Time proposed)"
     },
     {
-      "order": 199,
+      "order": 193,
       "id": "entry-1166646",
       "label": "scene",
       "level": "5",
@@ -2391,7 +2319,7 @@
       "text": "(Question that New Clause 33E be part of the Bill proposed)"
     },
     {
-      "order": 200,
+      "order": 194,
       "id": "entry-1166647",
       "label": "speech",
       "level": "5",
@@ -2403,7 +2331,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 201,
+      "order": 195,
       "id": "entry-1166648",
       "label": "heading",
       "level": "5",
@@ -2415,7 +2343,7 @@
       "text": "New Clause 33F"
     },
     {
-      "order": 202,
+      "order": 196,
       "id": "entry-1166649",
       "label": "speech",
       "level": "5",
@@ -2427,7 +2355,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by inserting the following New Clause immediately after New Clause 33E- Compulsory repair The National Museums of Kenya or a county museum may, where it order. appears that any place or object is in imminent danger of serious damage or destruction and requires to be protected by a declaration under this Act, make an order protecting the said place or object in the prescribed manner."
     },
     {
-      "order": 203,
+      "order": 197,
       "id": "entry-1166653",
       "label": "scene",
       "level": "5",
@@ -2439,7 +2367,7 @@
       "text": "(Question of New Clause 33F proposed)"
     },
     {
-      "order": 204,
+      "order": 198,
       "id": "entry-1166654",
       "label": "scene",
       "level": "5",
@@ -2451,7 +2379,7 @@
       "text": "(New Clause 33F read the First time)"
     },
     {
-      "order": 205,
+      "order": 199,
       "id": "entry-1166655",
       "label": "scene",
       "level": "5",
@@ -2463,7 +2391,7 @@
       "text": "(Question that New Clause 33F be read a Second Time proposed)"
     },
     {
-      "order": 206,
+      "order": 200,
       "id": "entry-1166656",
       "label": "scene",
       "level": "5",
@@ -2475,7 +2403,7 @@
       "text": "(Question that New Clause 33F be part of the Bill proposed)"
     },
     {
-      "order": 207,
+      "order": 201,
       "id": "entry-1166657",
       "label": "speech",
       "level": "5",
@@ -2487,7 +2415,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 208,
+      "order": 202,
       "id": "entry-1166658",
       "label": "heading",
       "level": "5",
@@ -2499,7 +2427,7 @@
       "text": "New Clause 33G"
     },
     {
-      "order": 209,
+      "order": 203,
       "id": "entry-1166659",
       "label": "speech",
       "level": "5",
@@ -2511,7 +2439,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by inserting the following New Clause immediately after New Clause 33F- Heritage areas. governments shall at the time of revision of a national or county planning laws, or the compilation or revision of a spatial plan, take into account the need for the designation of heritage areas to protect any place of environmental or cultural interest. (2) A county government may, by notice in the county gazette designate any area or land to be a heritage area if such area or land is of environmental or cultural interest or has heritage resources. 33G (1) The (3) A county government shall provide for the protection of a National and heritage area through the provisions of its planning laws or legislation. county"
     },
     {
-      "order": 210,
+      "order": 204,
       "id": "entry-1166669",
       "label": "scene",
       "level": "5",
@@ -2523,7 +2451,7 @@
       "text": "(Question of New Clause 33G proposed)"
     },
     {
-      "order": 211,
+      "order": 205,
       "id": "entry-1166670",
       "label": "scene",
       "level": "5",
@@ -2535,7 +2463,7 @@
       "text": "(New Clause 33G read the First time)"
     },
     {
-      "order": 212,
+      "order": 206,
       "id": "entry-1166671",
       "label": "scene",
       "level": "5",
@@ -2547,7 +2475,7 @@
       "text": "(Question that New Clause 33G be read a Second Time proposed)"
     },
     {
-      "order": 213,
+      "order": 207,
       "id": "entry-1166672",
       "label": "scene",
       "level": "5",
@@ -2559,7 +2487,7 @@
       "text": "(Question that New Clause 33G be part of the Bill proposed)"
     },
     {
-      "order": 214,
+      "order": 208,
       "id": "entry-1166673",
       "label": "speech",
       "level": "5",
@@ -2571,7 +2499,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 215,
+      "order": 209,
       "id": "entry-1166674",
       "label": "heading",
       "level": "5",
@@ -2583,7 +2511,7 @@
       "text": "New Clause 33H"
     },
     {
-      "order": 216,
+      "order": 210,
       "id": "entry-1166675",
       "label": "speech",
       "level": "5",
@@ -2595,7 +2523,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by inserting the following New Clause immediately after New Clause 33G- Burial grounds and\n\n33H."
     },
     {
-      "order": 217,
+      "order": 211,
       "id": "entry-1166678",
       "label": "speech",
       "level": "5",
@@ -2607,7 +2535,7 @@
       "text": "(1) Where it is not the responsibility of any other body, the graves. National Museums of Kenya shall conserve and generally care for burial grounds and graves protected under this Act. (2) The National Museums of Kenya shall identify and record the graves of victims of conflict and any other graves which it considers to be of cultural significance and may, or this purpose, erect memorials associated with the graves and maintain such memorials. (3) A person shall not, unless such person has applied for and obtained a permit from by the National Museums of Kenya or a county museum-- (a) destroy, damage, alter, exhume or remove from its original position or otherwise disturb the grave of a victim of conflict, or any burial ground or part thereof which contains such graves; (b) destroy, damage, alter, exhume, remove from its original position or otherwise disturb any grave or burial ground older than sixty years which is situated outside a formal cemetery administered by a county"
     },
     {
-      "order": 218,
+      "order": 212,
       "id": "entry-1166680",
       "label": "speech",
       "level": "5",
@@ -2619,7 +2547,7 @@
       "text": "government; or (c) bring onto or use at a burial ground or grave referred to in paragraph (a) or (b) any excavation equipment, or any equipment which assists in the detection or recovery of metals. (4) The National Museums of Kenya or a county museum may not issue a permit for the destruction or damage of any burial ground or grave referred to in subsection (3)unless it is satisfied that the applicant has made satisfactory arrangements for the exhumation and re-interment of the contents of such graves, at the cost of the applicant."
     },
     {
-      "order": 219,
+      "order": 213,
       "id": "entry-1166681",
       "label": "scene",
       "level": "5",
@@ -2631,7 +2559,7 @@
       "text": "(Question of New Clause 33H proposed)"
     },
     {
-      "order": 220,
+      "order": 214,
       "id": "entry-1166682",
       "label": "scene",
       "level": "5",
@@ -2643,7 +2571,7 @@
       "text": "(New Clause 33H read the First time)"
     },
     {
-      "order": 221,
+      "order": 215,
       "id": "entry-1166683",
       "label": "scene",
       "level": "5",
@@ -2655,7 +2583,7 @@
       "text": "(Question that New Clause 33H be read a Second Time proposed)"
     },
     {
-      "order": 222,
+      "order": 216,
       "id": "entry-1166684",
       "label": "scene",
       "level": "5",
@@ -2667,7 +2595,7 @@
       "text": "(Question that New Clause 33H be part of the Bill proposed)"
     },
     {
-      "order": 223,
+      "order": 217,
       "id": "entry-1166685",
       "label": "speech",
       "level": "5",
@@ -2679,7 +2607,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 224,
+      "order": 218,
       "id": "entry-1166686",
       "label": "heading",
       "level": "5",
@@ -2691,7 +2619,7 @@
       "text": "New Clause 33I"
     },
     {
-      "order": 225,
+      "order": 219,
       "id": "entry-1166687",
       "label": "speech",
       "level": "5",
@@ -2700,25 +2628,13 @@
       "speaker": "Johnes Mwashushe Mwaruma",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by inserting the following New Clause immediately after New Clause 33H- Establishment of research"
+      "text": "Madam Temporary Chairperson, I beg to move- THAT the Bill be amended by inserting the following New Clause immediately after New Clause 33H- Establishment of research\n\n33I."
     },
     {
-      "order": 226,
-      "id": "entry-1166689",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "33I."
-    },
-    {
-      "order": 227,
+      "order": 220,
       "id": "entry-1166690",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -2727,10 +2643,10 @@
       "text": "(1) The Cabinet Secretary may, on the recommendation of the institutions No. 28 of National Museums of Kenya, by notice in the Gazette establish research 2013. institutes and grant a Certificate of Registration in accordance with the provisions of the Science, Technology and Innovation Act."
     },
     {
-      "order": 228,
+      "order": 221,
       "id": "entry-1166691",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -2739,10 +2655,10 @@
       "text": "(2) The research institutes established under subsection (1) may research and conduct other activities of - (a) scientific, natural, cultural or technological importance by means of exploration and field investigations, data analysis, public programmes, exhibitions, tours or publications; (b) biomedical importance by use of non-human primates and other animal models; (c) importance to conservation of biodiversity, including identification, documentation, establishment and curation of a national biodiversity inventory; (d) research in fields of ancient, historical, scientific, cultural, natural,"
     },
     {
-      "order": 229,
+      "order": 222,
       "id": "entry-1166693",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Johnes Mwashushe Mwaruma",
@@ -2751,10 +2667,10 @@
       "text": "technological, biomedical and human interest; and (e) dissemination and transmission of knowledge from research on cultural heritage, natural heritage, biomedical, ancient and historical monuments and sites of national importance. (3) An order under this section may specify-- (a) that the institute to which it relates shall have corporate personality; (b) the duties, powers and functions of the institute; (c) the manner in which the institute shall be governed; and (d) such other matters with respect to the conduct and management of the institute, as the Cabinet Secretary may find it necessary or desirable to provide for."
     },
     {
-      "order": 230,
+      "order": 223,
       "id": "entry-1166694",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2763,10 +2679,10 @@
       "text": "(Question of New Clause 33I proposed)"
     },
     {
-      "order": 231,
+      "order": 224,
       "id": "entry-1166695",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2775,10 +2691,10 @@
       "text": "(New Clause 33I read the First time)"
     },
     {
-      "order": 232,
+      "order": 225,
       "id": "entry-1166696",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2787,10 +2703,10 @@
       "text": "(Question that New Clause 33I be read a Second Time proposed)"
     },
     {
-      "order": 233,
+      "order": 226,
       "id": "entry-1166697",
       "label": "scene",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "",
@@ -2799,10 +2715,10 @@
       "text": "(Question that New Clause 33I be part of the Bill proposed)"
     },
     {
-      "order": 234,
+      "order": 227,
       "id": "entry-1166698",
       "label": "speech",
-      "level": "3",
+      "level": "5",
       "cutout": false,
       "original_label": "",
       "speaker": "Rose Nyamunga Ogendo",
@@ -2811,7 +2727,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 235,
+      "order": 228,
       "id": "entry-1166699",
       "label": "heading",
       "level": "5",
@@ -2823,7 +2739,7 @@
       "text": "Clause 2"
     },
     {
-      "order": 236,
+      "order": 229,
       "id": "entry-1166700-split-before-cd093a82-7d21-4603-be50-3e460a4e6fc6",
       "label": "speech",
       "level": "5",
@@ -2835,7 +2751,7 @@
       "text": "Madam Temporary Chairperson, I beg to move- THAT, Clause 2 of the Bill be amended by inserting the following new definition immediately after the definition of the word \"heritage\"- \"living heritage\" means the intangible aspects of inherited culture, and may include-- (a) cultural tradition; (b) oral history; (c) performance; (d) ritual; (e) popular memory; (f) skills and techniques; (g) indigenous knowledge systems; or\n\n(h)the holistic approach to nature, society and social\n\nrelationships; Madam Temporary Chairperson, I beg to move that Clause 2 be read a second time."
     },
     {
-      "order": 237,
+      "order": 230,
       "id": "entry-1166702",
       "label": "scene",
       "level": "5",
@@ -2847,7 +2763,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 238,
+      "order": 231,
       "id": "entry-1166703",
       "label": "speech",
       "level": "5",
@@ -2859,7 +2775,7 @@
       "text": "Division will be at the end.\n\nThe Title and Clause 1"
     },
     {
-      "order": 239,
+      "order": 232,
       "id": "entry-1166704-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2871,7 +2787,7 @@
       "text": "(Question, that the Title and Clause 1 be part of the Bill, proposed)"
     },
     {
-      "order": 240,
+      "order": 233,
       "id": "entry-1166705",
       "label": "speech",
       "level": "5",
@@ -2883,7 +2799,7 @@
       "text": "Division will be at the end. Let the Bell be rung for five minutes."
     },
     {
-      "order": 241,
+      "order": 234,
       "id": "entry-1166706",
       "label": "scene",
       "level": "5",
@@ -2895,7 +2811,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 242,
+      "order": 235,
       "id": "entry-1166707",
       "label": "speech",
       "level": "5",
@@ -2907,7 +2823,7 @@
       "text": "Hon. Senators, we do not seem to have the numbers. Kindly pay attention to the proceedings. We do not seem to have the requisite numbers to do the Division. Therefore, I would like to call the Mover to come and move."
     },
     {
-      "order": 243,
+      "order": 236,
       "id": "entry-1166708",
       "label": "speech",
       "level": "5",
@@ -2919,7 +2835,7 @@
       "text": "Madam Temporary Chairperson, pursuant to Standing Order No.148 I beg to move that the Committee of the Whole do report progress on the consideration of The Heritage and Museums Bill (Senate Bills No.22 of 2021) and seek leave to sit again tomorrow"
     },
     {
-      "order": 244,
+      "order": 237,
       "id": "entry-1166709",
       "label": "scene",
       "level": "5",
@@ -2931,7 +2847,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 245,
+      "order": 238,
       "id": "entry-1166710",
       "label": "scene",
       "level": "5",
@@ -2943,7 +2859,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 246,
+      "order": 239,
       "id": "entry-1166711",
       "label": "scene",
       "level": "5",
@@ -2955,7 +2871,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 247,
+      "order": 240,
       "id": "entry-1166712",
       "label": "scene",
       "level": "5",
@@ -2967,7 +2883,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kamar) in the Chair]"
     },
     {
-      "order": 248,
+      "order": 241,
       "id": "entry-1166713",
       "label": "heading",
       "level": "2",
@@ -2979,7 +2895,7 @@
       "text": "PROGRESS REPORTED"
     },
     {
-      "order": 249,
+      "order": 242,
       "id": "entry-1166714",
       "label": "heading",
       "level": "3",
@@ -2991,7 +2907,7 @@
       "text": "THE HERITAGE AND MUSEUM BILL (SENATE BILLS NO. 22 OF 2021)"
     },
     {
-      "order": 250,
+      "order": 243,
       "id": "entry-1166715",
       "label": "speech",
       "level": "3",
@@ -3003,7 +2919,7 @@
       "text": "Hon. Senators, this is reporting progress and I would like to call upon the Chairperson."
     },
     {
-      "order": 251,
+      "order": 244,
       "id": "entry-1166716",
       "label": "speech",
       "level": "3",
@@ -3015,7 +2931,7 @@
       "text": "Madam Deputy Speaker, I beg to report progress that the Committee of the Whole has considered The Heritage and Museums Bill (Senate Bills No.22 of 2021) and seeks leave to sit again tomorrow."
     },
     {
-      "order": 252,
+      "order": 245,
       "id": "entry-1166717",
       "label": "speech",
       "level": "3",
@@ -3027,7 +2943,7 @@
       "text": "Hon. Speaker, I beg to move that the House do agree with the Committee on the said Report, and I ask Sen. Seneta to second."
     },
     {
-      "order": 253,
+      "order": 246,
       "id": "entry-1166718",
       "label": "speech",
       "level": "3",
@@ -3039,7 +2955,7 @@
       "text": "Madam Deputy Speaker, I second."
     },
     {
-      "order": 254,
+      "order": 247,
       "id": "entry-1166719",
       "label": "scene",
       "level": "3",
@@ -3051,7 +2967,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 255,
+      "order": 248,
       "id": "entry-1166720",
       "label": "scene",
       "level": "3",
@@ -3063,7 +2979,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 256,
+      "order": 249,
       "id": "entry-1166721",
       "label": "speech",
       "level": "3",
@@ -3075,7 +2991,7 @@
       "text": "Hon. Senators, as you are aware, we do not have quorum, we therefore cannot proceed to the Division. Therefore, I formally defer Order Nos. 9, 10 and 11, all of which are supposed to be subjected to Division."
     },
     {
-      "order": 257,
+      "order": 250,
       "id": "entry-1166722",
       "label": "heading",
       "level": "1",
@@ -3087,7 +3003,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 258,
+      "order": 251,
       "id": "entry-1166723",
       "label": "heading",
       "level": "2",
@@ -3099,7 +3015,7 @@
       "text": "THE COUNTY OVERSIGHT AND ACCOUNTABILITY BILL (SENATE BILLS NO. 17 OF 2021)"
     },
     {
-      "order": 259,
+      "order": 252,
       "id": "entry-1166724",
       "label": "scene",
       "level": "2",
@@ -3111,7 +3027,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 260,
+      "order": 253,
       "id": "entry-1166725",
       "label": "heading",
       "level": "1",
@@ -3123,7 +3039,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 261,
+      "order": 254,
       "id": "entry-1166726",
       "label": "heading",
       "level": "2",
@@ -3135,7 +3051,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL, (SENATE BILLS NO. 38 OF 2021)"
     },
     {
-      "order": 262,
+      "order": 255,
       "id": "entry-1166727",
       "label": "scene",
       "level": "2",
@@ -3147,7 +3063,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 263,
+      "order": 256,
       "id": "entry-1166728",
       "label": "heading",
       "level": "1",
@@ -3159,7 +3075,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 264,
+      "order": 257,
       "id": "entry-1166729",
       "label": "heading",
       "level": "2",
@@ -3171,7 +3087,7 @@
       "text": "THE INTERGOVERNMENTAL RELATIONS (AMENDMENT) BILL, (SENATE BILLS NO. 37 OF 2021)"
     },
     {
-      "order": 265,
+      "order": 258,
       "id": "entry-1166730",
       "label": "scene",
       "level": "2",
@@ -3183,7 +3099,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 266,
+      "order": 259,
       "id": "entry-1166731",
       "label": "heading",
       "level": "1",
@@ -3195,7 +3111,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 267,
+      "order": 260,
       "id": "entry-1166732",
       "label": "speech",
       "level": "1",

@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2022-05-05-14-30-00",
-  "exported_at": "2026-10-13T17:34:22.673Z",
+  "exported_at": "2026-10-15T19:34:31.683Z",
   "entries": [
     {
       "order": 1,
@@ -1716,22 +1716,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE IRRIGATION (AMENDMENT) BILL"
+      "text": "THE IRRIGATION (AMENDMENT) BILL\n\n(NATIONAL ASSEMBLY BILLS NO.12 OF 2021)"
     },
     {
       "order": 144,
-      "id": "entry-1152227",
-      "label": "scene",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(NATIONAL ASSEMBLY BILLS NO.12 OF 2021)"
-    },
-    {
-      "order": 145,
       "id": "entry-1152228",
       "label": "scene",
       "level": "2",
@@ -1743,7 +1731,7 @@
       "text": "(Division)"
     },
     {
-      "order": 146,
+      "order": 145,
       "id": "entry-1152229",
       "label": "scene",
       "level": "2",
@@ -1755,7 +1743,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 147,
+      "order": 146,
       "id": "entry-1152230",
       "label": "heading",
       "level": "1",
@@ -1767,7 +1755,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 148,
+      "order": 147,
       "id": "entry-1152232",
       "label": "heading",
       "level": "3",
@@ -1779,7 +1767,7 @@
       "text": "THE SUSTAINABLE WASTE MANAGEMENT BILL (NATIONAL ASSEMBLY BILLS NO.22 OF 2021)"
     },
     {
-      "order": 149,
+      "order": 148,
       "id": "entry-1152233",
       "label": "scene",
       "level": "3",
@@ -1791,7 +1779,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 150,
+      "order": 149,
       "id": "entry-1152234",
       "label": "heading",
       "level": "1",
@@ -1803,7 +1791,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 151,
+      "order": 150,
       "id": "entry-1152235",
       "label": "heading",
       "level": "2",
@@ -1815,7 +1803,7 @@
       "text": "THE ELECTIONS (AMENDMENT) (NO.3) BILL (SENATE BILLS NO.48 OF 2021)"
     },
     {
-      "order": 152,
+      "order": 151,
       "id": "entry-1152236",
       "label": "scene",
       "level": "2",
@@ -1827,7 +1815,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 153,
+      "order": 152,
       "id": "entry-1152237",
       "label": "heading",
       "level": "1",
@@ -1839,7 +1827,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 154,
+      "order": 153,
       "id": "entry-1152238",
       "label": "heading",
       "level": "2",
@@ -1851,7 +1839,7 @@
       "text": "THE KENYA MEDICAL SUPPLIES AUTHORITY (AMENDMENT) BILL (SENATE BILLS NO.53 OF 2021)"
     },
     {
-      "order": 155,
+      "order": 154,
       "id": "entry-1152239",
       "label": "scene",
       "level": "2",
@@ -1863,7 +1851,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 156,
+      "order": 155,
       "id": "entry-1152240",
       "label": "heading",
       "level": "1",
@@ -1875,7 +1863,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 157,
+      "order": 156,
       "id": "entry-1152241",
       "label": "heading",
       "level": "2",
@@ -1887,7 +1875,7 @@
       "text": "THE STREET VENDORS (PROTECTION OF LIVELIHOOD) BILL (SENATE BILLS NO.7 OF 2021)"
     },
     {
-      "order": 158,
+      "order": 157,
       "id": "entry-1152242",
       "label": "scene",
       "level": "2",
@@ -1899,7 +1887,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 159,
+      "order": 158,
       "id": "entry-1152243",
       "label": "heading",
       "level": "1",
@@ -1911,7 +1899,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 160,
+      "order": 159,
       "id": "entry-1152244",
       "label": "heading",
       "level": "2",
@@ -1923,7 +1911,7 @@
       "text": "THE COUNTY RESOURCE DEVELOPMENT BILL (SENATE BILLS NO.45 OF 2021)"
     },
     {
-      "order": 161,
+      "order": 160,
       "id": "entry-1152245",
       "label": "scene",
       "level": "2",
@@ -1935,7 +1923,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 162,
+      "order": 161,
       "id": "entry-1152246",
       "label": "heading",
       "level": "1",
@@ -1947,7 +1935,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 163,
+      "order": 162,
       "id": "entry-1152248",
       "label": "heading",
       "level": "2",
@@ -1959,7 +1947,7 @@
       "text": "THE COMMUNITY GROUPS REGISTRATION BILL (NATIONAL ASSEMBLY BILLS NO.20 OF 2021)"
     },
     {
-      "order": 164,
+      "order": 163,
       "id": "entry-1152249",
       "label": "scene",
       "level": "2",
@@ -1971,7 +1959,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 165,
+      "order": 164,
       "id": "entry-1152250",
       "label": "heading",
       "level": "1",
@@ -1983,7 +1971,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 166,
+      "order": 165,
       "id": "entry-1152251",
       "label": "speech",
       "level": "1",

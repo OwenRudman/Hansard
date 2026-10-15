@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2019-02-20-14-30-00",
-  "exported_at": "2026-10-05T08:03:04.285Z",
+  "exported_at": "2026-10-15T19:27:58.105Z",
   "entries": [
     {
       "order": 1,
@@ -1692,22 +1692,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "ABSTENTIONS:"
+      "text": "ABSTENTIONS:\n\nNil"
     },
     {
       "order": 142,
-      "id": "entry-873187",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 143,
       "id": "entry-873188",
       "label": "speech",
       "level": "3",
@@ -1716,22 +1704,10 @@
       "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
-      "text": "Hon. Senators, the results of the voting are as follows:-\n\nAYES:\n\n9\n\nNOES:\n\n24\n\nABSTENTIONS:"
+      "text": "Hon. Senators, the results of the voting are as follows:-\n\nAYES:\n\n9\n\nNOES:\n\n24\n\nABSTENTIONS:\n\nNil"
     },
     {
-      "order": 144,
-      "id": "entry-873194",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 145,
+      "order": 143,
       "id": "entry-873195",
       "label": "speech",
       "level": "3",
@@ -1743,7 +1719,7 @@
       "text": "The \"Noes\" have it"
     },
     {
-      "order": 146,
+      "order": 144,
       "id": "entry-873196",
       "label": "scene",
       "level": "3",
@@ -1755,7 +1731,7 @@
       "text": "(Question negatived by 24 votes to 9)"
     },
     {
-      "order": 147,
+      "order": 145,
       "id": "entry-873197",
       "label": "heading",
       "level": "3",
@@ -1767,7 +1743,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 148,
+      "order": 146,
       "id": "entry-873200",
       "label": "scene",
       "level": "3",
@@ -1779,7 +1755,7 @@
       "text": "(Question that Clauses 3-225, First, Second, Third and Fourth Schedules, Clause 2, the Title and Clause 1 be part of the Bill put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 149,
+      "order": 147,
       "id": "entry-873201",
       "label": "other",
       "level": "3",
@@ -1791,7 +1767,7 @@
       "text": "AYES:"
     },
     {
-      "order": 150,
+      "order": 148,
       "id": "entry-873202",
       "label": "other",
       "level": "3",
@@ -1803,7 +1779,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, (Delegate, Kiambu County); Sen. Ndwiga, Embu County; Sen. Olekina, Narok County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 151,
+      "order": 149,
       "id": "entry-873203",
       "label": "other",
       "level": "3",
@@ -1815,7 +1791,7 @@
       "text": "NOES:"
     },
     {
-      "order": 152,
+      "order": 150,
       "id": "entry-873204",
       "label": "other",
       "level": "3",
@@ -1827,7 +1803,7 @@
       "text": "Sen. Faki, Mombasa County; and Sen. (Dr.) Musuruve, Kakamega County."
     },
     {
-      "order": 153,
+      "order": 151,
       "id": "entry-873205",
       "label": "other",
       "level": "3",
@@ -1836,22 +1812,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "ABSTENTIONS:"
+      "text": "ABSTENTIONS:\n\nNil"
     },
     {
-      "order": 154,
-      "id": "entry-873206",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 155,
+      "order": 152,
       "id": "entry-873207",
       "label": "speech",
       "level": "3",
@@ -1860,22 +1824,10 @@
       "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": false,
-      "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES:\n\n30\n\nNOES:\n\n2\n\nABSTENTIONS:"
+      "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES:\n\n30\n\nNOES:\n\n2\n\nABSTENTIONS:\n\nNil"
     },
     {
-      "order": 156,
-      "id": "entry-873213",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 157,
+      "order": 153,
       "id": "entry-873214",
       "label": "speech",
       "level": "3",
@@ -1887,7 +1839,7 @@
       "text": "The \"Ayes\" have it"
     },
     {
-      "order": 158,
+      "order": 154,
       "id": "entry-873215",
       "label": "scene",
       "level": "3",
@@ -1899,7 +1851,7 @@
       "text": "(Question carried by 30 votes to 2)"
     },
     {
-      "order": 159,
+      "order": 155,
       "id": "entry-873216",
       "label": "speech",
       "level": "3",
@@ -1911,7 +1863,7 @@
       "text": "Hon. Senators, I now call upon the Mover to move."
     },
     {
-      "order": 160,
+      "order": 156,
       "id": "entry-873217",
       "label": "speech",
       "level": "3",
@@ -1923,7 +1875,7 @@
       "text": "Mr. Temporary Chairperson, Sir, I beg to move that the Committee do report to the Senate its consideration of The Energy Bill (National Assembly Bill No.50 of 2017) and its approval thereof without amendments."
     },
     {
-      "order": 161,
+      "order": 157,
       "id": "entry-873218",
       "label": "scene",
       "level": "3",
@@ -1935,7 +1887,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 162,
+      "order": 158,
       "id": "entry-873219",
       "label": "scene",
       "level": "3",
@@ -1947,7 +1899,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 163,
+      "order": 159,
       "id": "entry-873220",
       "label": "speech",
       "level": "3",
@@ -1959,19 +1911,19 @@
       "text": "Hon. Senators, we will have Division to consider The Petroleum Bill (National Assembly Bills No.48 of 2017). I will go ahead to put the question, which is that the New clauses 13A, 13B, 13C, 13D, 13E,"
     },
     {
-      "order": 164,
+      "order": 160,
       "id": "entry-873221",
       "label": "speech",
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
       "text": "13F, 13G 13F, 13I, 13J, 13K, 13L, 13M, 13N, 130, 13P, 13Q, 13R, 13S, 13T, 13U, 13V, 13W, 13X, 13Y, 13Z, 13AA, 13BB and the New Schedule be now read a Second Time. Hon. Senators, start voting now."
     },
     {
-      "order": 165,
+      "order": 161,
       "id": "entry-873223",
       "label": "scene",
       "level": "3",
@@ -1983,7 +1935,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 166,
+      "order": 162,
       "id": "entry-873224",
       "label": "speech",
       "level": "3",
@@ -1995,7 +1947,7 @@
       "text": "Hon. Senators, we will announce the results of the three Divisions together. Therefore, we will go ahead to vote on clauses of the same Bill without amendment. I now put the question, which is that clauses, 5, 6, 18, 22, 50, 58, 88, 92, 117, 125, 127, the Schedule and Clause 2 be amended as proposed. Start voting now."
     },
     {
-      "order": 167,
+      "order": 163,
       "id": "entry-873226",
       "label": "scene",
       "level": "3",
@@ -2007,7 +1959,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 168,
+      "order": 164,
       "id": "entry-873227",
       "label": "speech",
       "level": "3",
@@ -2019,7 +1971,7 @@
       "text": "Delegations of Nakuru, Kiambu, and Murang'a Counties, please approach the Chair."
     },
     {
-      "order": 169,
+      "order": 165,
       "id": "entry-873228",
       "label": "scene",
       "level": "3",
@@ -2031,7 +1983,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 170,
+      "order": 166,
       "id": "entry-873229",
       "label": "speech",
       "level": "3",
@@ -2043,7 +1995,7 @@
       "text": "Hon. Senators, we are now in the third part of the Divisions. I will now put the question that Clauses 3 to 128, Clause 2, the Title, and Clause 1be part of the Bill. Senators, please vote."
     },
     {
-      "order": 171,
+      "order": 167,
       "id": "entry-873230",
       "label": "scene",
       "level": "3",
@@ -2055,7 +2007,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 172,
+      "order": 168,
       "id": "entry-873231",
       "label": "heading",
       "level": "3",
@@ -2067,7 +2019,7 @@
       "text": "THE PETROLEUM BILL (NATIONAL ASSEMBLY BILLS NO.48 OF 2017)"
     },
     {
-      "order": 173,
+      "order": 169,
       "id": "entry-873232",
       "label": "heading",
       "level": "3",
@@ -2079,7 +2031,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 174,
+      "order": 170,
       "id": "entry-873234",
       "label": "scene",
       "level": "3",
@@ -2091,7 +2043,7 @@
       "text": "(Question, that New Clauses 13A, 13B, 13C, 13D, 3E, 13F, 13G, 13H, 13I,13J,13K,13L,13M,13N,13O,13P,13Q,13R,13S,13T,13U,13V,13W, 13X, 13Y, 13Z, 13AA and13BB and the New Schedule be now read a Second Time, put and the Senate proceeded to vote by County delegations)"
     },
     {
-      "order": 175,
+      "order": 171,
       "id": "entry-873235",
       "label": "other",
       "level": "3",
@@ -2103,7 +2055,7 @@
       "text": "AYES:"
     },
     {
-      "order": 176,
+      "order": 172,
       "id": "entry-873236",
       "label": "other",
       "level": "3",
@@ -2115,7 +2067,7 @@
       "text": "Sen. M. Kajwang', Homa Bay County; Sen. Madzayo, Kilifi County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Olekina, Narok County; Sen. Orengo, Siaya County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 177,
+      "order": 173,
       "id": "entry-873237",
       "label": "other",
       "level": "3",
@@ -2127,7 +2079,7 @@
       "text": "NOES:"
     },
     {
-      "order": 178,
+      "order": 174,
       "id": "entry-873238",
       "label": "other",
       "level": "3",
@@ -2139,7 +2091,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu"
     },
     {
-      "order": 179,
+      "order": 175,
       "id": "entry-873239",
       "label": "other",
       "level": "3",
@@ -2151,7 +2103,7 @@
       "text": "County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County and Sen. Sakaja, Nairobi City County."
     },
     {
-      "order": 180,
+      "order": 176,
       "id": "entry-873240",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2115,7 @@
       "text": "Order, Hon. Senators! These are the results of the Division on the new clauses:\n\nAYES\n\n: 8\n\nNOES\n\n: 25\n\nABSTENTIONS"
     },
     {
-      "order": 181,
+      "order": 177,
       "id": "entry-873246",
       "label": "speech",
       "level": "3",
@@ -2175,7 +2127,7 @@
       "text": ": Nil The \"Noes\" have it."
     },
     {
-      "order": 182,
+      "order": 178,
       "id": "entry-873247",
       "label": "scene",
       "level": "3",
@@ -2187,7 +2139,7 @@
       "text": "(Question negatived by 25 votes to 8)"
     },
     {
-      "order": 183,
+      "order": 179,
       "id": "entry-873248",
       "label": "heading",
       "level": "3",
@@ -2199,7 +2151,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 184,
+      "order": 180,
       "id": "entry-873250",
       "label": "scene",
       "level": "3",
@@ -2211,7 +2163,7 @@
       "text": "(Question that Clauses 5, 6, 18, 22, 50, 58, 88, 92, 117, 125, 127, the Schedule and Clause 2 be amended as proposed, put and the Senate proceeded to vote by County delegations)"
     },
     {
-      "order": 185,
+      "order": 181,
       "id": "entry-873251",
       "label": "other",
       "level": "3",
@@ -2223,7 +2175,7 @@
       "text": "AYES:"
     },
     {
-      "order": 186,
+      "order": 182,
       "id": "entry-873252",
       "label": "other",
       "level": "3",
@@ -2235,7 +2187,7 @@
       "text": "Sen. Faki, Mombasa County; Sen. M. Kajwang', Homa Bay County; Sen. Madzayo, Kilifi County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Olekina, Narok County; Sen. Orengo, Siaya County; and, Sen. Wambua, Kitui County."
     },
     {
-      "order": 187,
+      "order": 183,
       "id": "entry-873253",
       "label": "other",
       "level": "3",
@@ -2247,7 +2199,7 @@
       "text": "NOES:"
     },
     {
-      "order": 188,
+      "order": 184,
       "id": "entry-873254",
       "label": "other",
       "level": "3",
@@ -2259,7 +2211,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 189,
+      "order": 185,
       "id": "entry-873255",
       "label": "speech",
       "level": "3",
@@ -2271,7 +2223,7 @@
       "text": "Order, Hon. Senators! These are the results of the second Division on the clauses to be amended:\n\nAYES\n\n: 8\n\nNOES"
     },
     {
-      "order": 190,
+      "order": 186,
       "id": "entry-873259",
       "label": "speech",
       "level": "3",
@@ -2283,7 +2235,7 @@
       "text": ": 25\n\nABSTENTIONS"
     },
     {
-      "order": 191,
+      "order": 187,
       "id": "entry-873261",
       "label": "speech",
       "level": "3",
@@ -2295,7 +2247,7 @@
       "text": ": Nil The \"Noes\" have it."
     },
     {
-      "order": 192,
+      "order": 188,
       "id": "entry-873262",
       "label": "scene",
       "level": "3",
@@ -2307,7 +2259,7 @@
       "text": "(Question negatived by 25 votes to 8)"
     },
     {
-      "order": 193,
+      "order": 189,
       "id": "entry-873263",
       "label": "heading",
       "level": "3",
@@ -2319,7 +2271,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 194,
+      "order": 190,
       "id": "entry-873265",
       "label": "scene",
       "level": "3",
@@ -2331,7 +2283,7 @@
       "text": "(Question that Clauses 3 to 128, Clause 2, the Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County delegations)"
     },
     {
-      "order": 195,
+      "order": 191,
       "id": "entry-873266",
       "label": "other",
       "level": "3",
@@ -2343,7 +2295,7 @@
       "text": "AYES:"
     },
     {
-      "order": 196,
+      "order": 192,
       "id": "entry-873267",
       "label": "other",
       "level": "3",
@@ -2355,7 +2307,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr.; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Orengo, Siaya County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 197,
+      "order": 193,
       "id": "entry-873268",
       "label": "other",
       "level": "3",
@@ -2367,7 +2319,7 @@
       "text": "NOES:"
     },
     {
-      "order": 198,
+      "order": 194,
       "id": "entry-873269",
       "label": "speech",
       "level": "3",
@@ -2379,7 +2331,7 @@
       "text": "Nil\n\nABSTENTION"
     },
     {
-      "order": 199,
+      "order": 195,
       "id": "entry-873271",
       "label": "speech",
       "level": "3",
@@ -2391,7 +2343,7 @@
       "text": ": Sen. Olekina, Narok County."
     },
     {
-      "order": 200,
+      "order": 196,
       "id": "entry-873272",
       "label": "speech",
       "level": "3",
@@ -2403,7 +2355,7 @@
       "text": "Hon. Senators, these are the results of the final Division:\n\nAYES\n\n: 30\n\nNOES"
     },
     {
-      "order": 201,
+      "order": 197,
       "id": "entry-873276",
       "label": "speech",
       "level": "3",
@@ -2415,7 +2367,7 @@
       "text": ": Nil\n\nABSTENTIONS"
     },
     {
-      "order": 202,
+      "order": 198,
       "id": "entry-873278",
       "label": "speech",
       "level": "3",
@@ -2427,7 +2379,7 @@
       "text": ": 1 The \"Noes\" have it."
     },
     {
-      "order": 203,
+      "order": 199,
       "id": "entry-873279",
       "label": "scene",
       "level": "3",
@@ -2439,7 +2391,7 @@
       "text": "(Question carried by 30 votes to nil)"
     },
     {
-      "order": 204,
+      "order": 200,
       "id": "entry-873280",
       "label": "speech",
       "level": "3",
@@ -2451,7 +2403,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move that the Committee do report to the Senate its consideration of The Petroleum Bill (National Assembly Bills No.48 of 2017) and its approval thereof without amendments."
     },
     {
-      "order": 205,
+      "order": 201,
       "id": "entry-873281",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2415,7 @@
       "text": "seconded"
     },
     {
-      "order": 206,
+      "order": 202,
       "id": "entry-873282",
       "label": "scene",
       "level": "3",
@@ -2475,7 +2427,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 207,
+      "order": 203,
       "id": "entry-873284",
       "label": "scene",
       "level": "3",
@@ -2487,7 +2439,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 208,
+      "order": 204,
       "id": "entry-873285",
       "label": "speech",
       "level": "3",
@@ -2499,7 +2451,7 @@
       "text": "Hon. Senators, we will now proceed to The Copyright (Amendment) Bill (National Assembly Bills No.33 of 2017)."
     },
     {
-      "order": 209,
+      "order": 205,
       "id": "entry-873286",
       "label": "heading",
       "level": "3",
@@ -2511,7 +2463,7 @@
       "text": "THE COPYRIGHT (AMENDMENT) BILL, (NATIONAL ASSEMBLY BILLS NO. 33 OF 2017)"
     },
     {
-      "order": 210,
+      "order": 206,
       "id": "entry-873287",
       "label": "heading",
       "level": "3",
@@ -2523,7 +2475,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 211,
+      "order": 207,
       "id": "entry-873289",
       "label": "scene",
       "level": "3",
@@ -2535,7 +2487,7 @@
       "text": "(Question that Clauses 5 and 6 be amended as proposed, put and put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 212,
+      "order": 208,
       "id": "entry-873290",
       "label": "other",
       "level": "3",
@@ -2547,7 +2499,7 @@
       "text": "AYES:"
     },
     {
-      "order": 213,
+      "order": 209,
       "id": "entry-873291",
       "label": "other",
       "level": "3",
@@ -2559,7 +2511,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Ndwiga, Embu County; Sen. Olekina, Narok County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 214,
+      "order": 210,
       "id": "entry-873292",
       "label": "other",
       "level": "3",
@@ -2568,22 +2520,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 215,
-      "id": "entry-873293",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 216,
+      "order": 211,
       "id": "entry-873294",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2535,7 @@
       "text": "Order, Senators! The results of the Division are as follows:\n\nAYES:\n\n30\n\nNOES"
     },
     {
-      "order": 217,
+      "order": 212,
       "id": "entry-873298",
       "label": "speech",
       "level": "3",
@@ -2604,22 +2544,10 @@
       "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
-      "text": ": Nil\n\nABSTENTIONS"
+      "text": ": Nil\n\nABSTENTIONS\n\n: Nil"
     },
     {
-      "order": 218,
-      "id": "entry-873300",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 219,
+      "order": 213,
       "id": "entry-873301",
       "label": "scene",
       "level": "3",
@@ -2631,7 +2559,7 @@
       "text": "(Question carried by 30 votes to nil)"
     },
     {
-      "order": 220,
+      "order": 214,
       "id": "entry-873302",
       "label": "heading",
       "level": "3",
@@ -2643,7 +2571,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 221,
+      "order": 215,
       "id": "entry-873304",
       "label": "scene",
       "level": "3",
@@ -2655,7 +2583,7 @@
       "text": "(Question that Clauses 3, 4, Clause 5 (as amended), Clause 6 (as amended), Clauses 7 to 35, Clause 2, the Title and Clause 1 be part of the Bill put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 222,
+      "order": 216,
       "id": "entry-873306",
       "label": "other",
       "level": "3",
@@ -2667,7 +2595,7 @@
       "text": "AYES:"
     },
     {
-      "order": 223,
+      "order": 217,
       "id": "entry-873307",
       "label": "other",
       "level": "3",
@@ -2679,7 +2607,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Orengo, Siaya County; Sen. Prengei, Nakuru County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 224,
+      "order": 218,
       "id": "entry-873308",
       "label": "other",
       "level": "3",
@@ -2691,7 +2619,7 @@
       "text": "NOES:"
     },
     {
-      "order": 225,
+      "order": 219,
       "id": "entry-873309",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2631,7 @@
       "text": "Nil\n\nABSTENTION:"
     },
     {
-      "order": 226,
+      "order": 220,
       "id": "entry-873311",
       "label": "speech",
       "level": "3",
@@ -2715,7 +2643,7 @@
       "text": "Sen. Olekina, Narok County."
     },
     {
-      "order": 227,
+      "order": 221,
       "id": "entry-873312",
       "label": "speech",
       "level": "3",
@@ -2727,7 +2655,7 @@
       "text": "Order, Senators! The results of the Division are as follows:\n\nAYES:\n\n29\n\nNOES"
     },
     {
-      "order": 228,
+      "order": 222,
       "id": "entry-873316",
       "label": "speech",
       "level": "3",
@@ -2739,7 +2667,7 @@
       "text": ": Nil\n\nABSTENTIONS"
     },
     {
-      "order": 229,
+      "order": 223,
       "id": "entry-873318",
       "label": "speech",
       "level": "3",
@@ -2751,7 +2679,7 @@
       "text": ": 1 The Ayes have it."
     },
     {
-      "order": 230,
+      "order": 224,
       "id": "entry-873319",
       "label": "scene",
       "level": "3",
@@ -2763,7 +2691,7 @@
       "text": "(Question carried by 29 votes to nil)"
     },
     {
-      "order": 231,
+      "order": 225,
       "id": "entry-873320",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2703,7 @@
       "text": "Mover!"
     },
     {
-      "order": 232,
+      "order": 226,
       "id": "entry-873321",
       "label": "speech",
       "level": "3",
@@ -2787,7 +2715,7 @@
       "text": "Mr. Temporary Chairperson, Sir, I beg to move that the Committee do report to the Senate its consideration of The Copyright (Amendment) Bill (National Assembly Bills No. 33 of 2017) and its approval thereof with amendments."
     },
     {
-      "order": 233,
+      "order": 227,
       "id": "entry-873322",
       "label": "scene",
       "level": "3",
@@ -2799,7 +2727,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 234,
+      "order": 228,
       "id": "entry-873323",
       "label": "scene",
       "level": "3",
@@ -2811,7 +2739,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 235,
+      "order": 229,
       "id": "entry-873324",
       "label": "speech",
       "level": "3",
@@ -2823,7 +2751,7 @@
       "text": "Hon. Senators, let us proceed to Order No.11; Committee of the Whole on The Public Private Partnerships (Amendment) Bill (National Assembly Bills No.52 of 2017)"
     },
     {
-      "order": 236,
+      "order": 230,
       "id": "entry-873325",
       "label": "heading",
       "level": "3",
@@ -2835,7 +2763,7 @@
       "text": "THE PUBLIC PRIVATE PARTNERSHIP (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO.52 OF 2017)"
     },
     {
-      "order": 237,
+      "order": 231,
       "id": "entry-873326",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2775,7 @@
       "text": "Hon. Senators, we will proceed with the first Division on the Clause for deletion."
     },
     {
-      "order": 238,
+      "order": 232,
       "id": "entry-873328",
       "label": "scene",
       "level": "3",
@@ -2859,7 +2787,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 239,
+      "order": 233,
       "id": "entry-873329",
       "label": "heading",
       "level": "3",
@@ -2871,7 +2799,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 240,
+      "order": 234,
       "id": "entry-873331",
       "label": "scene",
       "level": "3",
@@ -2883,7 +2811,7 @@
       "text": "(Question, that Clause 7 be deleted put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 241,
+      "order": 235,
       "id": "entry-873332",
       "label": "other",
       "level": "3",
@@ -2895,7 +2823,7 @@
       "text": "AYES:"
     },
     {
-      "order": 242,
+      "order": 236,
       "id": "entry-873333",
       "label": "other",
       "level": "3",
@@ -2907,7 +2835,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo- Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 243,
+      "order": 237,
       "id": "entry-873334",
       "label": "other",
       "level": "3",
@@ -2916,22 +2844,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 244,
-      "id": "entry-873335",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 245,
+      "order": 238,
       "id": "entry-873336",
       "label": "speech",
       "level": "3",
@@ -2943,7 +2859,7 @@
       "text": "Hon. Senators, the results of the first Division are as follows:\n\nAYES:\n\n31\n\nNOES:"
     },
     {
-      "order": 246,
+      "order": 239,
       "id": "entry-873340",
       "label": "speech",
       "level": "3",
@@ -2955,7 +2871,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 247,
+      "order": 240,
       "id": "entry-873342",
       "label": "speech",
       "level": "3",
@@ -2967,7 +2883,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 248,
+      "order": 241,
       "id": "entry-873343",
       "label": "scene",
       "level": "3",
@@ -2979,7 +2895,7 @@
       "text": "( Question carried by 31 votes to nil)"
     },
     {
-      "order": 249,
+      "order": 242,
       "id": "entry-873344",
       "label": "scene",
       "level": "3",
@@ -2991,7 +2907,7 @@
       "text": "(Clause 7 was deleted)"
     },
     {
-      "order": 250,
+      "order": 243,
       "id": "entry-873345",
       "label": "speech",
       "level": "3",
@@ -3003,7 +2919,7 @@
       "text": "Let us go to the Second Division."
     },
     {
-      "order": 251,
+      "order": 244,
       "id": "entry-873346",
       "label": "heading",
       "level": "3",
@@ -3015,7 +2931,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 252,
+      "order": 245,
       "id": "entry-873348",
       "label": "scene",
       "level": "3",
@@ -3027,7 +2943,7 @@
       "text": "(Question, that Clauses 8, 12, 16 and 19 be amended as proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 253,
+      "order": 246,
       "id": "entry-873350",
       "label": "other",
       "level": "3",
@@ -3039,7 +2955,7 @@
       "text": "AYES:"
     },
     {
-      "order": 254,
+      "order": 247,
       "id": "entry-873351",
       "label": "other",
       "level": "3",
@@ -3051,7 +2967,7 @@
       "text": "Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; County) Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Omanga, Nairobi City County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County"
     },
     {
-      "order": 255,
+      "order": 248,
       "id": "entry-873352",
       "label": "other",
       "level": "3",
@@ -3063,7 +2979,7 @@
       "text": "NOES"
     },
     {
-      "order": 256,
+      "order": 249,
       "id": "entry-873353",
       "label": "speech",
       "level": "3",
@@ -3075,7 +2991,7 @@
       "text": ": Nil\n\nABSTENTION:"
     },
     {
-      "order": 257,
+      "order": 250,
       "id": "entry-873355",
       "label": "speech",
       "level": "3",
@@ -3087,7 +3003,7 @@
       "text": "Sen. Faki, Mombasa County."
     },
     {
-      "order": 258,
+      "order": 251,
       "id": "entry-873356",
       "label": "speech",
       "level": "3",
@@ -3099,7 +3015,7 @@
       "text": "Hon. Senators, the results of the first Division are as follows:\n\nAYES:\n\n29\n\nNOES:"
     },
     {
-      "order": 259,
+      "order": 252,
       "id": "entry-873360",
       "label": "speech",
       "level": "3",
@@ -3111,7 +3027,7 @@
       "text": "Nil\n\nABSTENTIONS:\n\n1 The \"Ayes\" have it."
     },
     {
-      "order": 260,
+      "order": 253,
       "id": "entry-873363",
       "label": "scene",
       "level": "3",
@@ -3123,7 +3039,7 @@
       "text": "( Question carried by 29 votes to nil)"
     },
     {
-      "order": 261,
+      "order": 254,
       "id": "entry-873364",
       "label": "heading",
       "level": "3",
@@ -3135,7 +3051,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 262,
+      "order": 255,
       "id": "entry-873366",
       "label": "scene",
       "level": "3",
@@ -3147,7 +3063,7 @@
       "text": "(Question, that New Clauses 4A, 5A, 20, be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 263,
+      "order": 256,
       "id": "entry-873367",
       "label": "other",
       "level": "3",
@@ -3159,7 +3075,7 @@
       "text": "AYES:"
     },
     {
-      "order": 264,
+      "order": 257,
       "id": "entry-873368",
       "label": "other",
       "level": "3",
@@ -3171,7 +3087,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo- Marakwet County; Sen. (Dr.) Musuruve, Kakamega County); Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County;Sen. Ndwiga, Embu County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County;"
     },
     {
-      "order": 265,
+      "order": 258,
       "id": "entry-873369",
       "label": "other",
       "level": "3",
@@ -3183,7 +3099,7 @@
       "text": "Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County and Sen. Wetangula, Bungoma County"
     },
     {
-      "order": 266,
+      "order": 259,
       "id": "entry-873370",
       "label": "heading",
       "level": "3",
@@ -3192,22 +3108,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": ". NOES:"
+      "text": ". NOES:\n\nNil"
     },
     {
-      "order": 267,
-      "id": "entry-873371",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 268,
+      "order": 260,
       "id": "entry-873372",
       "label": "speech",
       "level": "3",
@@ -3219,7 +3123,7 @@
       "text": "Hon. Senators, the results for the third Division are as follows:\n\nAYES:\n\n31\n\nNOES:"
     },
     {
-      "order": 269,
+      "order": 261,
       "id": "entry-873376",
       "label": "speech",
       "level": "3",
@@ -3231,7 +3135,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 270,
+      "order": 262,
       "id": "entry-873378",
       "label": "speech",
       "level": "3",
@@ -3243,7 +3147,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 271,
+      "order": 263,
       "id": "entry-873379",
       "label": "scene",
       "level": "3",
@@ -3255,7 +3159,7 @@
       "text": "( Question carried by 31 votes to Nil)"
     },
     {
-      "order": 272,
+      "order": 264,
       "id": "entry-873380",
       "label": "heading",
       "level": "3",
@@ -3267,7 +3171,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 273,
+      "order": 265,
       "id": "entry-873382",
       "label": "scene",
       "level": "3",
@@ -3279,7 +3183,7 @@
       "text": "(Question, that Clauses 3, 4, 5, 6, Clause 8(as amended), Clauses 9, 10, 11, Clause 12(as amended), 13, 14, 15, Clause 16(as amended), Clauses 17 and 18, Clause 19(as amended), New Clause 4A, New Clause 5A, New Clause 20,Clause 2(as amended), the Title and Clause 1 be part of the Bill put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 274,
+      "order": 266,
       "id": "entry-873383",
       "label": "other",
       "level": "3",
@@ -3291,7 +3195,7 @@
       "text": "AYES:"
     },
     {
-      "order": 275,
+      "order": 267,
       "id": "entry-873384",
       "label": "other",
       "level": "3",
@@ -3303,7 +3207,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County ."
     },
     {
-      "order": 276,
+      "order": 268,
       "id": "entry-873385",
       "label": "other",
       "level": "3",
@@ -3312,22 +3216,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 277,
-      "id": "entry-873386",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 278,
+      "order": 269,
       "id": "entry-873387",
       "label": "speech",
       "level": "3",
@@ -3339,7 +3231,7 @@
       "text": "Hon. Senators, the results of the fourth Division are:\n\nAYES:\n\n30\n\nNOES:"
     },
     {
-      "order": 279,
+      "order": 270,
       "id": "entry-873391",
       "label": "speech",
       "level": "3",
@@ -3351,7 +3243,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 280,
+      "order": 271,
       "id": "entry-873393",
       "label": "speech",
       "level": "3",
@@ -3363,7 +3255,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 281,
+      "order": 272,
       "id": "entry-873394",
       "label": "scene",
       "level": "3",
@@ -3375,7 +3267,7 @@
       "text": "( Question carried by 30 votes to nil)"
     },
     {
-      "order": 282,
+      "order": 273,
       "id": "entry-873395",
       "label": "speech",
       "level": "3",
@@ -3387,7 +3279,7 @@
       "text": "Mover, proceed."
     },
     {
-      "order": 283,
+      "order": 274,
       "id": "entry-873396",
       "label": "speech",
       "level": "3",
@@ -3399,7 +3291,7 @@
       "text": "Mr. Temporary Chairperson, Sir, I beg to move that the Committee of the Whole do report to the Senate its consideration of The Public Partnership Bill (Amendment) Bill (National Assembly Bills N0.52 of 2017) and it is approval thereof with amendments."
     },
     {
-      "order": 284,
+      "order": 275,
       "id": "entry-873397",
       "label": "scene",
       "level": "3",
@@ -3411,7 +3303,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 285,
+      "order": 276,
       "id": "entry-873398",
       "label": "scene",
       "level": "3",
@@ -3423,7 +3315,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 286,
+      "order": 277,
       "id": "entry-873399",
       "label": "speech",
       "level": "3",
@@ -3435,7 +3327,7 @@
       "text": "Hon. Senators, we will now proceed to Order No. 12, which is the Committee of the Whole to consider The Irrigation Bill (National Assembly Bills N0 46 of 2017."
     },
     {
-      "order": 287,
+      "order": 278,
       "id": "entry-873400",
       "label": "heading",
       "level": "3",
@@ -3447,7 +3339,7 @@
       "text": "THE IRRIGATION BILL (NATIONAL ASSEMBLY BILLS NO. 46 OF 2017)"
     },
     {
-      "order": 288,
+      "order": 279,
       "id": "entry-873401",
       "label": "heading",
       "level": "3",
@@ -3459,7 +3351,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 289,
+      "order": 280,
       "id": "entry-873403",
       "label": "scene",
       "level": "3",
@@ -3471,7 +3363,7 @@
       "text": "(Question, that Clauses 3, 6, 8, 9,14,16,17, 20, 25, 34, Schedule and Clause 2 be amended as proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 290,
+      "order": 281,
       "id": "entry-873404",
       "label": "other",
       "level": "3",
@@ -3483,7 +3375,7 @@
       "text": "AYES:"
     },
     {
-      "order": 291,
+      "order": 282,
       "id": "entry-873405",
       "label": "other",
       "level": "3",
@@ -3495,7 +3387,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 292,
+      "order": 283,
       "id": "entry-873406",
       "label": "other",
       "level": "3",
@@ -3504,22 +3396,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 293,
-      "id": "entry-873407",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Kipchumba Murkomen",
-      "speaker_title": "(The Senate Majority Leader)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 294,
+      "order": 284,
       "id": "entry-873408",
       "label": "speech",
       "level": "3",
@@ -3531,7 +3411,7 @@
       "text": "Order, Hon. Senators. The results of the Division are as follows:\n\nAYES:\n\n31\n\nNOES:"
     },
     {
-      "order": 295,
+      "order": 285,
       "id": "entry-873412",
       "label": "speech",
       "level": "3",
@@ -3540,22 +3420,10 @@
       "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
-      "text": "Nil\n\nABSTENTIONS:"
+      "text": "Nil\n\nABSTENTIONS:\n\nNil"
     },
     {
-      "order": 296,
-      "id": "entry-873414",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 297,
+      "order": 286,
       "id": "entry-873415",
       "label": "speech",
       "level": "3",
@@ -3567,7 +3435,7 @@
       "text": "The 'Ayes' have it."
     },
     {
-      "order": 298,
+      "order": 287,
       "id": "entry-873416",
       "label": "scene",
       "level": "3",
@@ -3579,7 +3447,7 @@
       "text": "(Question carried by 31 votes to nil)"
     },
     {
-      "order": 299,
+      "order": 288,
       "id": "entry-873417",
       "label": "heading",
       "level": "3",
@@ -3591,7 +3459,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 300,
+      "order": 289,
       "id": "entry-873419",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3471,7 @@
       "text": "( Question that Clauses 3 (as amended), 4,5,6 (as amended), 7,8 (as amended), 9 (as"
     },
     {
-      "order": 301,
+      "order": 290,
       "id": "entry-873420",
       "label": "scene",
       "level": "3",
@@ -3615,7 +3483,7 @@
       "text": "amended), 10 to13, 14 (as amended), 15, 16 (as amended), 17 (as amended), 18, 19, 20 (as amended), 21 to24, 25 (as amended), 26 to33, 34 (as amended), 35, Schedule (as amended), Clause 2 (as amended), the Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations\n\n)"
     },
     {
-      "order": 302,
+      "order": 291,
       "id": "entry-873422",
       "label": "other",
       "level": "3",
@@ -3627,7 +3495,7 @@
       "text": "AYES:"
     },
     {
-      "order": 303,
+      "order": 292,
       "id": "entry-873423",
       "label": "other",
       "level": "3",
@@ -3639,7 +3507,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 304,
+      "order": 293,
       "id": "entry-873424",
       "label": "other",
       "level": "3",
@@ -3648,22 +3516,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 305,
-      "id": "entry-873425",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 306,
+      "order": 294,
       "id": "entry-873426",
       "label": "speech",
       "level": "3",
@@ -3675,7 +3531,7 @@
       "text": "Hon. Senators, the results of the last Division on this Bill are as follows:\n\nAYES:\n\n31\n\nNOES:"
     },
     {
-      "order": 307,
+      "order": 295,
       "id": "entry-873430",
       "label": "speech",
       "level": "3",
@@ -3687,7 +3543,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 308,
+      "order": 296,
       "id": "entry-873432",
       "label": "speech",
       "level": "3",
@@ -3699,7 +3555,7 @@
       "text": "Nil The 'Ayes' have it."
     },
     {
-      "order": 309,
+      "order": 297,
       "id": "entry-873433",
       "label": "scene",
       "level": "3",
@@ -3711,7 +3567,7 @@
       "text": "(Question carried by 31 votes to nil)"
     },
     {
-      "order": 310,
+      "order": 298,
       "id": "entry-873434",
       "label": "speech",
       "level": "3",
@@ -3723,7 +3579,7 @@
       "text": "Mr. Temporary Chairperson, Sir, I beg to move that the Committee of the Whole do report to the House its consideration of The Irrigation Bill (National Assembly Bills No.46 of 2017) and its approval thereof with amendments."
     },
     {
-      "order": 311,
+      "order": 299,
       "id": "entry-873435",
       "label": "scene",
       "level": "3",
@@ -3735,7 +3591,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 312,
+      "order": 300,
       "id": "entry-873437",
       "label": "scene",
       "level": "3",
@@ -3747,7 +3603,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 313,
+      "order": 301,
       "id": "entry-873438",
       "label": "speech",
       "level": "3",
@@ -3759,7 +3615,7 @@
       "text": "Hon. Senators, we will now move to The Urban Areas and Cities (Amendment) Bill (Senate Bills No. 4 of 2017), consideration of the National Assembly amendment."
     },
     {
-      "order": 314,
+      "order": 302,
       "id": "entry-873439",
       "label": "heading",
       "level": "3",
@@ -3771,7 +3627,7 @@
       "text": "THE URBAN AREAS AND CITIES (AMENDMENT) BILL (SENATE BILLS NO.4 OF 2017)"
     },
     {
-      "order": 315,
+      "order": 303,
       "id": "entry-873440",
       "label": "scene",
       "level": "3",
@@ -3783,7 +3639,7 @@
       "text": "(Consideration of the National Assembly Amendment)"
     },
     {
-      "order": 316,
+      "order": 304,
       "id": "entry-873441",
       "label": "heading",
       "level": "3",
@@ -3795,7 +3651,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 317,
+      "order": 305,
       "id": "entry-873443",
       "label": "speech",
       "level": "3",
@@ -3807,7 +3663,7 @@
       "text": "( Question, that the National Assembly Amendment to Clause 19 of the Urban Areas and"
     },
     {
-      "order": 318,
+      "order": 306,
       "id": "entry-873444",
       "label": "scene",
       "level": "3",
@@ -3819,7 +3675,7 @@
       "text": "Cities (Amendment) Bill (Senate Bills No.4 of 2017) be now approved put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 319,
+      "order": 307,
       "id": "entry-873445",
       "label": "other",
       "level": "3",
@@ -3831,7 +3687,7 @@
       "text": "AYES:"
     },
     {
-      "order": 320,
+      "order": 308,
       "id": "entry-873446",
       "label": "other",
       "level": "3",
@@ -3843,7 +3699,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. Kajwang'. M, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 321,
+      "order": 309,
       "id": "entry-873447",
       "label": "other",
       "level": "3",
@@ -3852,22 +3708,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 322,
-      "id": "entry-873448",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 323,
+      "order": 310,
       "id": "entry-873449",
       "label": "speech",
       "level": "3",
@@ -3879,7 +3723,7 @@
       "text": "Order, Hon. Senators. These are the results for the Division:\n\nAYES:\n\n31\n\nNOES:"
     },
     {
-      "order": 324,
+      "order": 311,
       "id": "entry-873453",
       "label": "speech",
       "level": "3",
@@ -3891,7 +3735,7 @@
       "text": "Nil\n\nABSTENTIONS"
     },
     {
-      "order": 325,
+      "order": 312,
       "id": "entry-873455",
       "label": "speech",
       "level": "3",
@@ -3903,7 +3747,7 @@
       "text": ": Nil The 'Ayes' have it."
     },
     {
-      "order": 326,
+      "order": 313,
       "id": "entry-873456",
       "label": "scene",
       "level": "3",
@@ -3915,7 +3759,7 @@
       "text": "(Question carried by 31 votes to nil)"
     },
     {
-      "order": 327,
+      "order": 314,
       "id": "entry-873457",
       "label": "speech",
       "level": "3",
@@ -3927,7 +3771,7 @@
       "text": "Order, hon. Senators!"
     },
     {
-      "order": 328,
+      "order": 315,
       "id": "entry-873459",
       "label": "scene",
       "level": "3",
@@ -3939,7 +3783,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 329,
+      "order": 316,
       "id": "entry-873460",
       "label": "scene",
       "level": "3",
@@ -3951,7 +3795,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) in the Chair]"
     },
     {
-      "order": 330,
+      "order": 317,
       "id": "entry-873461",
       "label": "speech",
       "level": "3",
@@ -3963,7 +3807,7 @@
       "text": "Order, Senators. I direct the Bars be undrawn and the doors opened."
     },
     {
-      "order": 331,
+      "order": 318,
       "id": "entry-873462",
       "label": "scene",
       "level": "3",
@@ -3975,7 +3819,7 @@
       "text": "(The Bars were undrawn and the doors opened)"
     },
     {
-      "order": 332,
+      "order": 319,
       "id": "entry-873463",
       "label": "speech",
       "level": "3",
@@ -3987,7 +3831,7 @@
       "text": "Order, Senators! Please resume your seats. We are almost at the tail end of the exercise and I want to thank all Senators for cooperation. We have already done much of the work. We are now reporting and will do Division. It should not take a lot of time. We will do every Bill separately, that is, the reporting and voting. Order, Senate Majority Leader! Resume your seat. I understand your interest, having been in that office before."
     },
     {
-      "order": 333,
+      "order": 320,
       "id": "entry-873464",
       "label": "scene",
       "level": "3",
@@ -3999,7 +3843,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 334,
+      "order": 321,
       "id": "entry-873465",
       "label": "speech",
       "level": "3",
@@ -4011,7 +3855,7 @@
       "text": "It is more expedient that we do the reporting on all the six Bills and then ring the Division Bell once and vote six times. Chairperson."
     },
     {
-      "order": 335,
+      "order": 322,
       "id": "entry-873466",
       "label": "heading",
       "level": "3",
@@ -4023,7 +3867,7 @@
       "text": "REPORTS AND CONSIDERATION OF REPORTS"
     },
     {
-      "order": 336,
+      "order": 323,
       "id": "entry-873467",
       "label": "heading",
       "level": "3",
@@ -4035,7 +3879,7 @@
       "text": "THE ENERGY BILL (NATIONAL ASSEMBLY BILLS NO. 50 OF 2017)"
     },
     {
-      "order": 337,
+      "order": 324,
       "id": "entry-873468",
       "label": "speech",
       "level": "3",
@@ -4047,7 +3891,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to report that the Committee of the Whole has considered The Energy Bill (National Assembly Bills No.50 of 2017) and its approval thereof without amendments."
     },
     {
-      "order": 338,
+      "order": 325,
       "id": "entry-873469",
       "label": "speech",
       "level": "3",
@@ -4059,7 +3903,7 @@
       "text": "Mover."
     },
     {
-      "order": 339,
+      "order": 326,
       "id": "entry-873470",
       "label": "speech",
       "level": "3",
@@ -4071,7 +3915,7 @@
       "text": "Hon. Speaker, I beg to move that the House do agree with the Committee on the said Report. I ask the Senate Minority Leader to second."
     },
     {
-      "order": 340,
+      "order": 327,
       "id": "entry-873471",
       "label": "speech",
       "level": "3",
@@ -4083,7 +3927,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 341,
+      "order": 328,
       "id": "entry-873472",
       "label": "scene",
       "level": "3",
@@ -4095,7 +3939,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 342,
+      "order": 329,
       "id": "entry-873473",
       "label": "scene",
       "level": "3",
@@ -4107,7 +3951,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 343,
+      "order": 330,
       "id": "entry-873474",
       "label": "speech",
       "level": "3",
@@ -4119,7 +3963,7 @@
       "text": "Mover."
     },
     {
-      "order": 344,
+      "order": 331,
       "id": "entry-873475",
       "label": "speech",
       "level": "3",
@@ -4131,7 +3975,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that The Energy Bill (National Assembly Bills No.50 of 2017) be now read a Third Time and ask the Senate Minority Leader to Second."
     },
     {
-      "order": 345,
+      "order": 332,
       "id": "entry-873476",
       "label": "speech",
       "level": "3",
@@ -4143,7 +3987,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 346,
+      "order": 333,
       "id": "entry-873477",
       "label": "scene",
       "level": "3",
@@ -4155,7 +3999,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 347,
+      "order": 334,
       "id": "entry-873478",
       "label": "speech",
       "level": "3",
@@ -4167,7 +4011,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 348,
+      "order": 335,
       "id": "entry-873479",
       "label": "heading",
       "level": "3",
@@ -4179,7 +4023,7 @@
       "text": "THE PETROLEUM BILL (NATIONAL ASSEMBLY BILLS NO. 48 OF 2017)"
     },
     {
-      "order": 349,
+      "order": 336,
       "id": "entry-873480",
       "label": "speech",
       "level": "3",
@@ -4191,7 +4035,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to report that the Committee of the Whole has considered The Petroleum Bill (National Assembly Bills No.48 of 2017) and its approval thereof without amendments."
     },
     {
-      "order": 350,
+      "order": 337,
       "id": "entry-873481",
       "label": "speech",
       "level": "3",
@@ -4203,7 +4047,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the House do agree with the Committee on the said Report. I ask the Senate Minority Leader to second."
     },
     {
-      "order": 351,
+      "order": 338,
       "id": "entry-873482",
       "label": "speech",
       "level": "3",
@@ -4215,7 +4059,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 352,
+      "order": 339,
       "id": "entry-873483",
       "label": "scene",
       "level": "3",
@@ -4227,7 +4071,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 353,
+      "order": 340,
       "id": "entry-873484",
       "label": "scene",
       "level": "3",
@@ -4239,7 +4083,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 354,
+      "order": 341,
       "id": "entry-873485",
       "label": "speech",
       "level": "3",
@@ -4251,7 +4095,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that The Petroleum Bill (National Assembly Bills No.48 of 2017) be now read a Third Time. I request the Senate Minority Leader to second."
     },
     {
-      "order": 355,
+      "order": 342,
       "id": "entry-873486",
       "label": "speech",
       "level": "3",
@@ -4263,7 +4107,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 356,
+      "order": 343,
       "id": "entry-873487",
       "label": "scene",
       "level": "3",
@@ -4275,7 +4119,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 357,
+      "order": 344,
       "id": "entry-873488",
       "label": "speech",
       "level": "3",
@@ -4287,7 +4131,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 358,
+      "order": 345,
       "id": "entry-873489",
       "label": "heading",
       "level": "3",
@@ -4299,7 +4143,7 @@
       "text": "THE COPYRIGHT (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO. 33 OF 2017)"
     },
     {
-      "order": 359,
+      "order": 346,
       "id": "entry-873490",
       "label": "speech",
       "level": "3",
@@ -4311,7 +4155,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to report that the Committee of the Whole has considered The Copyright (Amendment) Bill (National Assembly Bills No.33 of 2017) and its approval thereof with amendments."
     },
     {
-      "order": 360,
+      "order": 347,
       "id": "entry-873491",
       "label": "speech",
       "level": "3",
@@ -4323,7 +4167,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the House do agree with the Committee on the said Report. I request the Senate Minority Leader to second."
     },
     {
-      "order": 361,
+      "order": 348,
       "id": "entry-873492",
       "label": "speech",
       "level": "3",
@@ -4335,7 +4179,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 362,
+      "order": 349,
       "id": "entry-873493",
       "label": "scene",
       "level": "3",
@@ -4347,7 +4191,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 363,
+      "order": 350,
       "id": "entry-873495",
       "label": "scene",
       "level": "3",
@@ -4359,7 +4203,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 364,
+      "order": 351,
       "id": "entry-873496",
       "label": "speech",
       "level": "3",
@@ -4371,7 +4215,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the Copyright (Amendment) Bill (National Assembly Bills No. 33 of 2017) be now read a Third Time. I request the Senate Minority Leader, to second."
     },
     {
-      "order": 365,
+      "order": 352,
       "id": "entry-873497",
       "label": "speech",
       "level": "3",
@@ -4383,7 +4227,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 366,
+      "order": 353,
       "id": "entry-873498",
       "label": "scene",
       "level": "3",
@@ -4395,7 +4239,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 367,
+      "order": 354,
       "id": "entry-873499",
       "label": "speech",
       "level": "3",
@@ -4407,7 +4251,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 368,
+      "order": 355,
       "id": "entry-873500",
       "label": "heading",
       "level": "3",
@@ -4419,7 +4263,7 @@
       "text": "THE PUBLIC PRIVATE PARTNERSHIPS (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO. 52 OF 2017)"
     },
     {
-      "order": 369,
+      "order": 356,
       "id": "entry-873501",
       "label": "speech",
       "level": "3",
@@ -4431,7 +4275,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to report that the Committee of the Whole has considered the Public Private Partnerships (Amendment) Bill (National Assembly Bills No. 52 of 2017) and its approval thereof with amendments."
     },
     {
-      "order": 370,
+      "order": 357,
       "id": "entry-873502",
       "label": "speech",
       "level": "3",
@@ -4443,7 +4287,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the House do agree with the Committee on the said report. I ask the Senate Minority Leader to second."
     },
     {
-      "order": 371,
+      "order": 358,
       "id": "entry-873503",
       "label": "speech",
       "level": "3",
@@ -4455,7 +4299,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 372,
+      "order": 359,
       "id": "entry-873504",
       "label": "scene",
       "level": "3",
@@ -4467,7 +4311,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 373,
+      "order": 360,
       "id": "entry-873505",
       "label": "scene",
       "level": "3",
@@ -4479,7 +4323,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 374,
+      "order": 361,
       "id": "entry-873506",
       "label": "speech",
       "level": "3",
@@ -4491,7 +4335,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the Public Private Partnerships (Amendment) Bill (National Assembly Bills No. 52 of 2017) be now read a Third Time. I request the Senate Minority Leader to second."
     },
     {
-      "order": 375,
+      "order": 362,
       "id": "entry-873507",
       "label": "speech",
       "level": "3",
@@ -4503,7 +4347,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 376,
+      "order": 363,
       "id": "entry-873508",
       "label": "scene",
       "level": "3",
@@ -4515,7 +4359,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 377,
+      "order": 364,
       "id": "entry-873509",
       "label": "speech",
       "level": "3",
@@ -4527,7 +4371,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 378,
+      "order": 365,
       "id": "entry-873510",
       "label": "heading",
       "level": "3",
@@ -4539,7 +4383,7 @@
       "text": "THE IRRIGATION BILL (NATIONAL ASSEMBLY BILLS NO. 46 OF 2017)"
     },
     {
-      "order": 379,
+      "order": 366,
       "id": "entry-873511",
       "label": "speech",
       "level": "3",
@@ -4551,7 +4395,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to report that the Committee of the Whole has considered The Irrigation Bill (National Assembly Bills No. 46 of 2017) and its approval thereof with amendments."
     },
     {
-      "order": 380,
+      "order": 367,
       "id": "entry-873512",
       "label": "speech",
       "level": "3",
@@ -4563,7 +4407,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the House do agree with the Committee in the said report. I ask the Senate Minority Leader to second."
     },
     {
-      "order": 381,
+      "order": 368,
       "id": "entry-873513",
       "label": "speech",
       "level": "3",
@@ -4575,7 +4419,7 @@
       "text": "Mr. Deputy Speaker, Sir, I second."
     },
     {
-      "order": 382,
+      "order": 369,
       "id": "entry-873514",
       "label": "scene",
       "level": "3",
@@ -4587,7 +4431,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 383,
+      "order": 370,
       "id": "entry-873515",
       "label": "scene",
       "level": "3",
@@ -4599,7 +4443,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 384,
+      "order": 371,
       "id": "entry-873516",
       "label": "speech",
       "level": "3",
@@ -4611,7 +4455,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that The Irrigation Bill (National Assembly Bills No. 46 of 2017) be now read a Third Time. I request the Senate Minority Leader to second."
     },
     {
-      "order": 385,
+      "order": 372,
       "id": "entry-873517",
       "label": "speech",
       "level": "3",
@@ -4623,7 +4467,7 @@
       "text": "Mr. Deputy Speaker, Sir, I do second."
     },
     {
-      "order": 386,
+      "order": 373,
       "id": "entry-873518",
       "label": "scene",
       "level": "3",
@@ -4635,7 +4479,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 387,
+      "order": 374,
       "id": "entry-873519",
       "label": "speech",
       "level": "3",
@@ -4647,7 +4491,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 388,
+      "order": 375,
       "id": "entry-873520",
       "label": "heading",
       "level": "3",
@@ -4659,7 +4503,7 @@
       "text": "THE URBAN AREAS AND CITIES (AMENDMENT) BILL (SENATE BILLS NO.4 OF 2017)"
     },
     {
-      "order": 389,
+      "order": 376,
       "id": "entry-873521",
       "label": "speech",
       "level": "3",
@@ -4671,7 +4515,7 @@
       "text": "Order No. 13, The Urban Areas and Cities (Amendment) Bill (Senate Bills No.4 of 2017) is a recommittal so there is no question to be put. We will now proceed to vote for the five Bills including Order No. 13. I direct that the Division Bell be rung for three minutes."
     },
     {
-      "order": 390,
+      "order": 377,
       "id": "entry-873522",
       "label": "scene",
       "level": "3",
@@ -4683,7 +4527,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 391,
+      "order": 378,
       "id": "entry-873523",
       "label": "scene",
       "level": "3",
@@ -4695,7 +4539,7 @@
       "text": "(Several Senators stood in their places)"
     },
     {
-      "order": 392,
+      "order": 379,
       "id": "entry-873524",
       "label": "speech",
       "level": "3",
@@ -4707,7 +4551,7 @@
       "text": "Order, Senators. Kindly, let us wind up this appropriately. We still need the numbers. Sen. (Rev.) Waqo, I hope you are not carrying away a vote. I now direct that the doors be locked and the Bar drawn."
     },
     {
-      "order": 393,
+      "order": 380,
       "id": "entry-873525",
       "label": "scene",
       "level": "3",
@@ -4719,7 +4563,7 @@
       "text": "(The Bars were drawn and the doors locked)"
     },
     {
-      "order": 394,
+      "order": 381,
       "id": "entry-873526",
       "label": "speech",
       "level": "3",
@@ -4731,19 +4575,19 @@
       "text": "Order, Senators! Prepare for voting. As I have clarified, we will vote on five Bills. The sixth Bill, which is, The Urban Areas and Cities (Amendment) Bill (Senate Bills No.4 of 2017), originated from this House, went to the National Assembly and came back to the Senate. Considering that we have"
     },
     {
-      "order": 395,
+      "order": 382,
       "id": "entry-873527",
       "label": "speech",
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "concurred with the amendments of the National Assembly, the voting on the item appearing on Order No.13 ends at the Committee of the Whole stage. Therefore, the Bill will proceed directly to the President for assent. That is why we will vote on the others and not the Bill in Order No.13."
     },
     {
-      "order": 396,
+      "order": 383,
       "id": "entry-873528",
       "label": "heading",
       "level": "1",
@@ -4755,7 +4599,7 @@
       "text": "THIRD READINGS"
     },
     {
-      "order": 397,
+      "order": 384,
       "id": "entry-873529",
       "label": "heading",
       "level": "3",
@@ -4767,7 +4611,7 @@
       "text": "THE ENERGY BILL (NATIONAL ASSEMBLY BILLS NO.50 OF 2017)"
     },
     {
-      "order": 398,
+      "order": 385,
       "id": "entry-873530",
       "label": "speech",
       "level": "3",
@@ -4779,7 +4623,7 @@
       "text": "We will start with Order No.8; the Energy Bill (National Assembly Bills No.50 of 2017). Are we ready? Senators, vote now."
     },
     {
-      "order": 399,
+      "order": 386,
       "id": "entry-873531",
       "label": "scene",
       "level": "3",
@@ -4791,7 +4635,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 400,
+      "order": 387,
       "id": "entry-873532",
       "label": "speech",
       "level": "3",
@@ -4803,7 +4647,7 @@
       "text": "End of voting. Assisted voters led by Sen. Prengei on behalf of Nakuru County and deputised by Sen. Mwaura of Kiambu County, come."
     },
     {
-      "order": 401,
+      "order": 388,
       "id": "entry-873533",
       "label": "scene",
       "level": "3",
@@ -4815,7 +4659,7 @@
       "text": "(Sen. Prengei, Sen. Mwaura, Sen. Kang'ata and Sen. (Dr.) Musuruve proceeded to vote)"
     },
     {
-      "order": 402,
+      "order": 389,
       "id": "entry-873534",
       "label": "speech",
       "level": "3",
@@ -4827,7 +4671,7 @@
       "text": "Order, Sen. Kang'ata, do you also fall in that category? Are there any other assisted voters? Ensure that the Senator for Tharaka-Nithi also votes. We will announce the results at the end. Let us go to Order No.9;- The Petroleum Bill (National Assembly Bills No.48 of 2017)."
     },
     {
-      "order": 403,
+      "order": 390,
       "id": "entry-873535",
       "label": "heading",
       "level": "3",
@@ -4839,7 +4683,7 @@
       "text": "THE PETROLEUM BILL (NATIONAL ASSEMBLY BILLS NO.48 OF 2017)"
     },
     {
-      "order": 404,
+      "order": 391,
       "id": "entry-873536",
       "label": "speech",
       "level": "3",
@@ -4851,7 +4695,7 @@
       "text": "Get ready for voting. Vote now, hon. Senators."
     },
     {
-      "order": 405,
+      "order": 392,
       "id": "entry-873537",
       "label": "scene",
       "level": "3",
@@ -4863,7 +4707,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 406,
+      "order": 393,
       "id": "entry-873538",
       "label": "speech",
       "level": "3",
@@ -4875,7 +4719,7 @@
       "text": "End of voting. The assisted voters should approach the Clerks-at the Table."
     },
     {
-      "order": 407,
+      "order": 394,
       "id": "entry-873539",
       "label": "scene",
       "level": "3",
@@ -4887,7 +4731,7 @@
       "text": "(Sen. Prengei, Sen. Mwaura, Sen. Kang'ata and Sen. (Dr.) Musuruve registered their vote)"
     },
     {
-      "order": 408,
+      "order": 395,
       "id": "entry-873540",
       "label": "speech",
       "level": "3",
@@ -4899,7 +4743,7 @@
       "text": "Let us go to Order No.10; The Copyright (Amendment) Bill (National Assembly Bills No.33 of 2017)."
     },
     {
-      "order": 409,
+      "order": 396,
       "id": "entry-873541",
       "label": "heading",
       "level": "3",
@@ -4911,7 +4755,7 @@
       "text": "THE COPYRIGHT (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO.33 OF 2017)"
     },
     {
-      "order": 410,
+      "order": 397,
       "id": "entry-873542",
       "label": "speech",
       "level": "3",
@@ -4923,7 +4767,7 @@
       "text": "Get ready to vote. Vote now."
     },
     {
-      "order": 411,
+      "order": 398,
       "id": "entry-873543",
       "label": "scene",
       "level": "3",
@@ -4935,7 +4779,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 412,
+      "order": 399,
       "id": "entry-873544",
       "label": "speech",
       "level": "3",
@@ -4947,7 +4791,7 @@
       "text": "End of voting. The assisted voters should approach the Table."
     },
     {
-      "order": 413,
+      "order": 400,
       "id": "entry-873545",
       "label": "scene",
       "level": "3",
@@ -4959,7 +4803,7 @@
       "text": "(Sen. Prengei, Sen. Mwaura, Sen. Kang'ata and Sen. (Dr.) Musuruve proceeded to vote)"
     },
     {
-      "order": 414,
+      "order": 401,
       "id": "entry-873546",
       "label": "speech",
       "level": "3",
@@ -4971,7 +4815,7 @@
       "text": "Very well. Let us move to the next Bill, which is, The Public Private Partnerships (Amendment) Bill (National Assembly Bills No.52 of 2017)."
     },
     {
-      "order": 415,
+      "order": 402,
       "id": "entry-873547",
       "label": "heading",
       "level": "3",
@@ -4983,7 +4827,7 @@
       "text": "THE PUBLIC PRIVATE PARTNERSHIPS (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO.52 OF 2017"
     },
     {
-      "order": 416,
+      "order": 403,
       "id": "entry-873548",
       "label": "speech",
       "level": "3",
@@ -4995,7 +4839,7 @@
       "text": "Get ready for voting. You may start voting now."
     },
     {
-      "order": 417,
+      "order": 404,
       "id": "entry-873549",
       "label": "scene",
       "level": "3",
@@ -5007,7 +4851,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 418,
+      "order": 405,
       "id": "entry-873550",
       "label": "speech",
       "level": "3",
@@ -5019,7 +4863,7 @@
       "text": "That is the end of voting. Assisted voters, please, approach the Clerks-at-the- Table."
     },
     {
-      "order": 419,
+      "order": 406,
       "id": "entry-873551",
       "label": "scene",
       "level": "3",
@@ -5031,7 +4875,7 @@
       "text": "(Several Senators walked to the Clerks-at-the-Table and registered their votes)"
     },
     {
-      "order": 420,
+      "order": 407,
       "id": "entry-873552",
       "label": "speech",
       "level": "3",
@@ -5043,7 +4887,7 @@
       "text": "We will now go to the last Bill that requires voting, that is, The Irrigation Bill (National Assembly Bills No.46 of 2017)."
     },
     {
-      "order": 421,
+      "order": 408,
       "id": "entry-873553",
       "label": "heading",
       "level": "3",
@@ -5055,7 +4899,7 @@
       "text": "THE IRRIGATION BILL (NATIONAL ASSEMBLY BILLS NO.46 OF 2017)"
     },
     {
-      "order": 422,
+      "order": 409,
       "id": "entry-873554",
       "label": "speech",
       "level": "3",
@@ -5067,7 +4911,7 @@
       "text": "Hon. Senators, get ready for voting. That is the final vote and then we will announce the results."
     },
     {
-      "order": 423,
+      "order": 410,
       "id": "entry-873555",
       "label": "scene",
       "level": "3",
@@ -5079,7 +4923,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 424,
+      "order": 411,
       "id": "entry-873556",
       "label": "speech",
       "level": "3",
@@ -5091,7 +4935,7 @@
       "text": "Assisted voters, please, proceed to the Clerks-at-the-Table."
     },
     {
-      "order": 425,
+      "order": 412,
       "id": "entry-873558",
       "label": "scene",
       "level": "3",
@@ -5103,7 +4947,7 @@
       "text": "(Several Senators walked to the Clerks-at-the-Table and registered their votes)"
     },
     {
-      "order": 426,
+      "order": 413,
       "id": "entry-873559",
       "label": "speech",
       "level": "3",
@@ -5115,7 +4959,7 @@
       "text": "Hon. Senators, the following are the results of the five Divisions. I will announce the results of every Bill, one by one."
     },
     {
-      "order": 427,
+      "order": 414,
       "id": "entry-873560",
       "label": "heading",
       "level": "3",
@@ -5127,7 +4971,7 @@
       "text": "THE ENERGY BILL (NATIONAL ASSEMBLY BILLS NO.50 OF 2017)"
     },
     {
-      "order": 428,
+      "order": 415,
       "id": "entry-873561",
       "label": "heading",
       "level": "3",
@@ -5139,7 +4983,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 429,
+      "order": 416,
       "id": "entry-873563",
       "label": "scene",
       "level": "3",
@@ -5151,7 +4995,7 @@
       "text": "(Question, that The Energy Bill (National Assembly Bill No.50 of 2017) be now read a Third Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 430,
+      "order": 417,
       "id": "entry-873564",
       "label": "other",
       "level": "3",
@@ -5163,7 +5007,7 @@
       "text": "AYES:"
     },
     {
-      "order": 431,
+      "order": 418,
       "id": "entry-873565",
       "label": "other",
       "level": "3",
@@ -5175,7 +5019,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 432,
+      "order": 419,
       "id": "entry-873566",
       "label": "other",
       "level": "3",
@@ -5184,22 +5028,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 433,
-      "id": "entry-873567",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 434,
+      "order": 420,
       "id": "entry-873568",
       "label": "speech",
       "level": "3",
@@ -5211,7 +5043,7 @@
       "text": "Hon. Members, the results of the Division are as follows:\n\nAYES\n\n: 33\n\nNOES"
     },
     {
-      "order": 435,
+      "order": 421,
       "id": "entry-873572",
       "label": "speech",
       "level": "3",
@@ -5223,7 +5055,7 @@
       "text": ": Nil\n\nABSTENTIONS"
     },
     {
-      "order": 436,
+      "order": 422,
       "id": "entry-873574",
       "label": "speech",
       "level": "3",
@@ -5235,7 +5067,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 437,
+      "order": 423,
       "id": "entry-873575",
       "label": "scene",
       "level": "3",
@@ -5247,7 +5079,7 @@
       "text": "(Question carried by 33 votes to nil)"
     },
     {
-      "order": 438,
+      "order": 424,
       "id": "entry-873576",
       "label": "scene",
       "level": "3",
@@ -5259,7 +5091,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 439,
+      "order": 425,
       "id": "entry-873578",
       "label": "heading",
       "level": "3",
@@ -5271,7 +5103,7 @@
       "text": "THE PETROLEUM BILL (NATIONAL ASSEMBLY BILL NO. 48 OF 2017)"
     },
     {
-      "order": 440,
+      "order": 426,
       "id": "entry-873579",
       "label": "heading",
       "level": "3",
@@ -5283,7 +5115,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 441,
+      "order": 427,
       "id": "entry-873581",
       "label": "scene",
       "level": "3",
@@ -5295,7 +5127,7 @@
       "text": "(Question, that the Petroleum Bill (National Assembly Bill No. 48 of 2017) be now read a Third Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 442,
+      "order": 428,
       "id": "entry-873582",
       "label": "other",
       "level": "3",
@@ -5307,7 +5139,7 @@
       "text": "AYES:"
     },
     {
-      "order": 443,
+      "order": 429,
       "id": "entry-873583",
       "label": "other",
       "level": "3",
@@ -5319,7 +5151,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County ; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County ; Sen. (Eng.) Maina, Nyeri County ; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 444,
+      "order": 430,
       "id": "entry-873584",
       "label": "other",
       "level": "3",
@@ -5328,22 +5160,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 445,
-      "id": "entry-873585",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 446,
+      "order": 431,
       "id": "entry-873586",
       "label": "speech",
       "level": "3",
@@ -5355,7 +5175,7 @@
       "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES\n\n: 31\n\nNOES"
     },
     {
-      "order": 447,
+      "order": 432,
       "id": "entry-873590",
       "label": "speech",
       "level": "3",
@@ -5367,7 +5187,7 @@
       "text": ": Nil\n\nABSTENTIONS"
     },
     {
-      "order": 448,
+      "order": 433,
       "id": "entry-873592",
       "label": "speech",
       "level": "3",
@@ -5379,7 +5199,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 449,
+      "order": 434,
       "id": "entry-873593",
       "label": "scene",
       "level": "3",
@@ -5391,7 +5211,7 @@
       "text": "(Question carried by 31 votes to nil)"
     },
     {
-      "order": 450,
+      "order": 435,
       "id": "entry-873594",
       "label": "scene",
       "level": "3",
@@ -5403,7 +5223,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 451,
+      "order": 436,
       "id": "entry-873595",
       "label": "heading",
       "level": "3",
@@ -5415,7 +5235,7 @@
       "text": "THE COPYRIGHT (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO. 33 OF 2017)"
     },
     {
-      "order": 452,
+      "order": 437,
       "id": "entry-873596",
       "label": "heading",
       "level": "3",
@@ -5427,7 +5247,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 453,
+      "order": 438,
       "id": "entry-873598",
       "label": "scene",
       "level": "3",
@@ -5439,7 +5259,7 @@
       "text": "(Question, that the Copyright (Amendment) Bill (National Assembly Bills No. 33 of 2017) be now read a Third Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 454,
+      "order": 439,
       "id": "entry-873601",
       "label": "other",
       "level": "3",
@@ -5451,7 +5271,7 @@
       "text": "AYES:"
     },
     {
-      "order": 455,
+      "order": 440,
       "id": "entry-873602",
       "label": "other",
       "level": "3",
@@ -5463,7 +5283,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei,; Sen. Sakaja, Nairobi City County; and Sen. Wambua, Kitui County."
     },
     {
-      "order": 456,
+      "order": 441,
       "id": "entry-873603",
       "label": "other",
       "level": "3",
@@ -5472,22 +5292,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 457,
-      "id": "entry-873604",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 458,
+      "order": 442,
       "id": "entry-873605",
       "label": "speech",
       "level": "3",
@@ -5499,7 +5307,7 @@
       "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES\n\n: 32\n\nNOES"
     },
     {
-      "order": 459,
+      "order": 443,
       "id": "entry-873609",
       "label": "speech",
       "level": "3",
@@ -5511,7 +5319,7 @@
       "text": ": Nil\n\nABSTENTIONS"
     },
     {
-      "order": 460,
+      "order": 444,
       "id": "entry-873611",
       "label": "speech",
       "level": "3",
@@ -5523,7 +5331,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 461,
+      "order": 445,
       "id": "entry-873612",
       "label": "scene",
       "level": "3",
@@ -5535,7 +5343,7 @@
       "text": "(Question carried by 32 votes to 0)"
     },
     {
-      "order": 462,
+      "order": 446,
       "id": "entry-873613",
       "label": "scene",
       "level": "3",
@@ -5547,7 +5355,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 463,
+      "order": 447,
       "id": "entry-873614",
       "label": "heading",
       "level": "3",
@@ -5559,7 +5367,7 @@
       "text": "THE PUBLIC PRIVATE PARTNERSHIPS (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO. 52 OF 2017)"
     },
     {
-      "order": 464,
+      "order": 448,
       "id": "entry-873615",
       "label": "heading",
       "level": "3",
@@ -5571,7 +5379,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 465,
+      "order": 449,
       "id": "entry-873617",
       "label": "scene",
       "level": "3",
@@ -5583,7 +5391,7 @@
       "text": "(Question that the Public Private Partnerships (Amendment) Bill (National Assembly Bills No. 52 of 2017) be now read a third time was put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 466,
+      "order": 450,
       "id": "entry-873618",
       "label": "other",
       "level": "3",
@@ -5595,7 +5403,7 @@
       "text": "AYES:"
     },
     {
-      "order": 467,
+      "order": 451,
       "id": "entry-873619",
       "label": "other",
       "level": "3",
@@ -5607,7 +5415,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki,"
     },
     {
-      "order": 468,
+      "order": 452,
       "id": "entry-873620",
       "label": "other",
       "level": "3",
@@ -5619,7 +5427,7 @@
       "text": "Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County ; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County ; Sen. (Eng.) Maina, Nyeri County ; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 469,
+      "order": 453,
       "id": "entry-873621",
       "label": "other",
       "level": "3",
@@ -5628,22 +5436,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 470,
-      "id": "entry-873622",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 471,
+      "order": 454,
       "id": "entry-873623",
       "label": "speech",
       "level": "3",
@@ -5655,7 +5451,7 @@
       "text": "Hon. Senators, the results of the voting are as follows:-\n\nAYES\n\n: 32\n\nNOES"
     },
     {
-      "order": 472,
+      "order": 455,
       "id": "entry-873627",
       "label": "speech",
       "level": "3",
@@ -5667,7 +5463,7 @@
       "text": ": Nil\n\nABSTENTIONS"
     },
     {
-      "order": 473,
+      "order": 456,
       "id": "entry-873629",
       "label": "speech",
       "level": "3",
@@ -5679,7 +5475,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 474,
+      "order": 457,
       "id": "entry-873630",
       "label": "scene",
       "level": "3",
@@ -5691,7 +5487,7 @@
       "text": "(Question carried by 32 votes to Nil)"
     },
     {
-      "order": 475,
+      "order": 458,
       "id": "entry-873631",
       "label": "scene",
       "level": "3",
@@ -5703,7 +5499,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 476,
+      "order": 459,
       "id": "entry-873632",
       "label": "heading",
       "level": "3",
@@ -5715,7 +5511,7 @@
       "text": "THE IRRIGATION BILL (NATIONAL ASSEMBLY BILLS NO. 46 OF 2017)"
     },
     {
-      "order": 477,
+      "order": 460,
       "id": "entry-873633",
       "label": "heading",
       "level": "3",
@@ -5727,7 +5523,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 478,
+      "order": 461,
       "id": "entry-873635",
       "label": "scene",
       "level": "3",
@@ -5739,7 +5535,7 @@
       "text": "(Question that the Irrigation Bill (National Assembly Bills No. 46 of 2017) be now read a Third Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 479,
+      "order": 462,
       "id": "entry-873636",
       "label": "other",
       "level": "3",
@@ -5751,7 +5547,7 @@
       "text": "AYES:"
     },
     {
-      "order": 480,
+      "order": 463,
       "id": "entry-873637",
       "label": "other",
       "level": "3",
@@ -5763,7 +5559,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County ; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County ; Sen. (Eng.) Maina, Nyeri County ; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen."
     },
     {
-      "order": 481,
+      "order": 464,
       "id": "entry-873638",
       "label": "other",
       "level": "3",
@@ -5775,7 +5571,7 @@
       "text": "Ochillo-Ayacko, Migori County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County;Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 482,
+      "order": 465,
       "id": "entry-873639",
       "label": "other",
       "level": "3",
@@ -5784,22 +5580,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil"
     },
     {
-      "order": 483,
-      "id": "entry-873640",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 484,
+      "order": 466,
       "id": "entry-873641",
       "label": "speech",
       "level": "3",
@@ -5811,7 +5595,7 @@
       "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES\n\n: 33\n\nNOES"
     },
     {
-      "order": 485,
+      "order": 467,
       "id": "entry-873645",
       "label": "speech",
       "level": "3",
@@ -5823,7 +5607,7 @@
       "text": ": Nil\n\nABSTENTIONS"
     },
     {
-      "order": 486,
+      "order": 468,
       "id": "entry-873647",
       "label": "speech",
       "level": "3",
@@ -5835,7 +5619,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 487,
+      "order": 469,
       "id": "entry-873648",
       "label": "scene",
       "level": "3",
@@ -5847,7 +5631,7 @@
       "text": "(Question carried by 33 votes to 0)"
     },
     {
-      "order": 488,
+      "order": 470,
       "id": "entry-873649",
       "label": "scene",
       "level": "3",
@@ -5859,7 +5643,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 489,
+      "order": 471,
       "id": "entry-873650",
       "label": "speech",
       "level": "3",
@@ -5871,7 +5655,7 @@
       "text": "Very well. Thank you for your co-operation. I now direct that the doors be opened and the Bars undrawn."
     },
     {
-      "order": 490,
+      "order": 472,
       "id": "entry-873651",
       "label": "scene",
       "level": "3",
@@ -5883,7 +5667,7 @@
       "text": "(The doors were opened and the Bars undrawn)"
     },
     {
-      "order": 491,
+      "order": 473,
       "id": "entry-873652",
       "label": "speech",
       "level": "3",
@@ -5895,7 +5679,7 @@
       "text": "Once more, thank you very much. That was a very long period of Division. We will now go back to Order No.15, of which I think the Mover and Seconder had finished their part and the Question had been proposed. We will resume Debate."
     },
     {
-      "order": 492,
+      "order": 474,
       "id": "entry-873653",
       "label": "scene",
       "level": "3",
@@ -5907,7 +5691,7 @@
       "text": "(Sen. Were stood in her place)"
     },
     {
-      "order": 493,
+      "order": 475,
       "id": "entry-873654",
       "label": "scene",
       "level": "3",
@@ -5919,7 +5703,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 494,
+      "order": 476,
       "id": "entry-873655",
       "label": "scene",
       "level": "3",
@@ -5931,7 +5715,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar) in the Chair]"
     },
     {
-      "order": 495,
+      "order": 477,
       "id": "entry-873656",
       "label": "speech",
       "level": "3",
@@ -5943,7 +5727,7 @@
       "text": "Hon. Members, before Sen. Were gives her contribution, I would like to defer Order No.14, Committee of the Whole House to tomorrow for the record."
     },
     {
-      "order": 496,
+      "order": 478,
       "id": "entry-873657",
       "label": "speech",
       "level": "3",
@@ -5955,7 +5739,7 @@
       "text": "Thank you."
     },
     {
-      "order": 497,
+      "order": 479,
       "id": "entry-873658",
       "label": "heading",
       "level": "1",
@@ -5967,7 +5751,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 498,
+      "order": 480,
       "id": "entry-873659",
       "label": "heading",
       "level": "2",
@@ -5979,7 +5763,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO.13 OF 2018)"
     },
     {
-      "order": 499,
+      "order": 481,
       "id": "entry-873660",
       "label": "scene",
       "level": "2",
@@ -5991,7 +5775,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 500,
+      "order": 482,
       "id": "entry-873661",
       "label": "heading",
       "level": "1",
@@ -6003,7 +5787,7 @@
       "text": "MOTION"
     },
     {
-      "order": 501,
+      "order": 483,
       "id": "entry-873662",
       "label": "speech",
       "level": "1",
@@ -6015,7 +5799,7 @@
       "text": "ADOPTION OF REPORT OF THE AD-HOC COMMITTEE"
     },
     {
-      "order": 502,
+      "order": 484,
       "id": "entry-873663",
       "label": "heading",
       "level": "3",
@@ -6027,7 +5811,7 @@
       "text": "ON THE MAIZE CRISIS IN KENYA"
     },
     {
-      "order": 503,
+      "order": 485,
       "id": "entry-873664",
       "label": "speech",
       "level": "3",
@@ -6039,7 +5823,7 @@
       "text": "THAT, this House adopts The Report of the ad-hoc Committee on the Maize crisis in Kenya, laid on the Table of the House on Tuesday, 27th November, 2018."
     },
     {
-      "order": 504,
+      "order": 486,
       "id": "entry-873665",
       "label": "scene",
       "level": "3",
@@ -6051,7 +5835,7 @@
       "text": "(Sen. (Prof.) Kamar on 20.2.2019)"
     },
     {
-      "order": 505,
+      "order": 487,
       "id": "entry-873666",
       "label": "scene",
       "level": "3",
@@ -6063,7 +5847,7 @@
       "text": "(Resumption of Debate interrupted on 20.2.2019)"
     },
     {
-      "order": 506,
+      "order": 488,
       "id": "entry-873667",
       "label": "speech",
       "level": "3",
@@ -6075,7 +5859,7 @@
       "text": "Thank you, Madam Temporary Speaker. I beg to move- THAT, the Motion be amended by deleting the full stop at the end thereof, and inserting the following words \"subject to the following amendments to the Report\" - (a) By inserting the words - \"and the inter-ministerial Committee on food security\" immediately after the words Cabinet Secretary, the National Treasury and Planning and the Cabinet Secretary, Ministry of Agriculture, Arid Lands, appearing in paragraph three on page 11 of the Report. (b) By inserting the words - \"and the inter-ministerial Committee on food security\" immediately after the words \"Cabinet Secretary National Treasury, Cabinet Secretary (CS) Agriculture appearing in column three of recommendation seven on page 111 of the Report. Madam Temporary Speaker, I have found it necessary to move these amendments because in our previous Report, we had---"
     },
     {
-      "order": 507,
+      "order": 489,
       "id": "entry-873669",
       "label": "speech",
       "level": "3",
@@ -6087,7 +5871,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 508,
+      "order": 490,
       "id": "entry-873670",
       "label": "speech",
       "level": "3",
@@ -6099,7 +5883,7 @@
       "text": "What is your point of Order, Sen. Orengo?"
     },
     {
-      "order": 509,
+      "order": 491,
       "id": "entry-873671",
       "label": "speech",
       "level": "3",
@@ -6111,7 +5895,7 @@
       "text": "Madam Temporary Speaker, since you are the Mover of the Motion and are now presiding over debate on the Motion which you moved, that would not be correct. This is because issues may arise on the Floor while you are on the Chair. I think that is not in order because you are the Mover and you are presiding over your own Motion. The Clerk should have guided you accordingly."
     },
     {
-      "order": 510,
+      "order": 492,
       "id": "entry-873672",
       "label": "speech",
       "level": "3",
@@ -6123,7 +5907,7 @@
       "text": "Yes. I take note of that. In fact, my Vice Chairperson is taking notes. However, my other colleague has just gone out for five minutes and will be coming back. Therefore, in the meantime, we should allow Sen. Were to proceed because all I can do is write notes, and my able Vice Chairperson is doing so for us. Thank you."
     },
     {
-      "order": 511,
+      "order": 493,
       "id": "entry-873673",
       "label": "speech",
       "level": "3",
@@ -6135,7 +5919,7 @@
       "text": "No, Madam Temporary Speaker. That does not solve the problem. We may excuse it, but it should not happen."
     },
     {
-      "order": 512,
+      "order": 494,
       "id": "entry-873674",
       "label": "speech",
       "level": "3",
@@ -6147,7 +5931,7 @@
       "text": "You are not on record."
     },
     {
-      "order": 513,
+      "order": 495,
       "id": "entry-873675",
       "label": "speech",
       "level": "3",
@@ -6159,7 +5943,7 @@
       "text": "Madam Temporary Speaker, we can say, \"Okay, we are going on,\" and the distinguished Senator for Bungoma County, who is the Vice Chairperson of the Committee may very well be taking notes. However, the very fact that you are the Mover--- In fact, you had more time than he had, and it would not be right for the Mover to preside. It is just like the Senate Majority Leader sitting on that Chair; it cannot happen."
     },
     {
-      "order": 514,
+      "order": 496,
       "id": "entry-873676",
       "label": "speech",
       "level": "3",
@@ -6171,7 +5955,7 @@
       "text": "There is another point of order from Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 515,
+      "order": 497,
       "id": "entry-873677",
       "label": "speech",
       "level": "3",
@@ -6183,7 +5967,7 @@
       "text": "On a point of order, Madam Temporary Speaker. I propose that for good order, if we do not have a replacement for you, you adjourn the business of the House to tomorrow, otherwise then, the confusion that will be created by you just sitting for two minutes is bad enough to mess the whole exercise. Therefore, as a matter of practice, it is absolutely wrong. You will look like a judge in her own course. So, in the absence of a replacement, we can adjourn the business of the House; there are only 19 or so minutes left."
     },
     {
-      "order": 516,
+      "order": 498,
       "id": "entry-873678",
       "label": "speech",
       "level": "3",
@@ -6195,7 +5979,7 @@
       "text": "On a point of order, Madam Temporary Speaker. When you moved this Motion, I was not in the Chamber, but I listened to you on television, and you made a very great presentation. I have read the Report that you have tabled before the House and it is brilliant. Considering the debate we had yesterday and the one we are having today, it might discolour the very serious recommendations that you have made. I wish to join the other Members who think that whereas we are not imputing any improper motive on your part, it is untidy when the Speaker on that Chair is the Mover of the Motion and would at some point be called upon to reply. I do not understand how that will happen when you will be required to reply to the Motion. We could just do something to avoid the sideshows."
     },
     {
-      "order": 517,
+      "order": 499,
       "id": "entry-873679",
       "label": "speech",
       "level": "3",
@@ -6207,7 +5991,7 @@
       "text": "I take note of what you are saying. I promised you that Sen. Pareno would be here in exactly three minutes, and she has made it."
     },
     {
-      "order": 518,
+      "order": 500,
       "id": "entry-873680",
       "label": "speech",
       "level": "3",
@@ -6219,7 +6003,7 @@
       "text": "The Senate Majority Leader."
     },
     {
-      "order": 519,
+      "order": 501,
       "id": "entry-873681",
       "label": "speech",
       "level": "3",
@@ -6231,7 +6015,7 @@
       "text": "On a point of order, Madam Temporary Speaker. My concern is with regard to the amount of protestation that has visited this Report from yesterday. I am speaking out of anxiety because, as a maize farmer and a representative of maize farmers, I am more interested in the substance and form. There seems to be a lot of resistance on this Report from the beginning."
     },
     {
-      "order": 520,
+      "order": 502,
       "id": "entry-873682",
       "label": "scene",
       "level": "3",
@@ -6243,7 +6027,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar left the Chair]"
     },
     {
-      "order": 521,
+      "order": 503,
       "id": "entry-873683",
       "label": "scene",
       "level": "3",
@@ -6255,7 +6039,7 @@
       "text": "[The Temporary Speaker Sen. (Pareno) in the Chair]"
     },
     {
-      "order": 522,
+      "order": 504,
       "id": "entry-873684",
       "label": "speech",
       "level": "3",
@@ -6267,7 +6051,7 @@
       "text": "Even as you leave the Chair, I would like to request you to focus more now going forward with the substance and form, considering that we have come here to ensure that this Report can be dealt with expeditiously. This is because some of us believe that the proposals that come from the Report are meant to solve the problems that have bedevilled the sector. That is why I would like us to focus more on the substance."
     },
     {
-      "order": 523,
+      "order": 505,
       "id": "entry-873686",
       "label": "speech",
       "level": "3",
@@ -6279,7 +6063,7 @@
       "text": "What is it, Senate Minority Leader?"
     },
     {
-      "order": 524,
+      "order": 506,
       "id": "entry-873687",
       "label": "speech",
       "level": "3",
@@ -6291,7 +6075,7 @@
       "text": "Madam Temporary Speaker, is it right for the Senate Majority Leader to impute improper motive, when he stood as we talked about the Mover being the Chair on proceedings that relate to a Motion that she moved? Is it right for the Senate Majority Leader to impute that, that point of order is for purposes of delaying or trying to water down the Motion? In fact, I can tell the Senate Majority Leader that whenever there is a Motion in this House, I will vote according to its merits or substance. We cannot allow the practices and conventions of this Parliament to be violated. The next time you will find the Majority Leader sitting on the Speaker's Chair and feeling very comfortable, and behold that should not happen. Is it in order to impute improper motive; that we are doing this to remove focus from the debate?"
     },
     {
-      "order": 525,
+      "order": 507,
       "id": "entry-873691",
       "label": "speech",
       "level": "3",
@@ -6303,7 +6087,7 @@
       "text": "Madam Temporary Speaker, you should rule the Senate Majority Leader out of order. Yesterday, there were points of order that led to a beautiful amendment, which was agreed on and the Speaker issued directions. In regards to the one of today, Sen. Wetangula mentioned yesterday that impressions are everything. However, the impression that will be created when the Mover is seated on the Chair will be the wrong impression. Therefore, we are trying to make sure that people do not cast stones at the Chair and the Committee. We want to make sure that it is correct. Therefore, he should calm down and not sacrifice merit for expediency."
     },
     {
-      "order": 526,
+      "order": 508,
       "id": "entry-873692",
       "label": "speech",
       "level": "3",
@@ -6315,7 +6099,7 @@
       "text": "On a point of order, Madam Temporary Speaker."
     },
     {
-      "order": 527,
+      "order": 509,
       "id": "entry-873693",
       "label": "scene",
       "level": "3",
@@ -6327,7 +6111,7 @@
       "text": "(Sen. Murkomen consulted loudly)"
     },
     {
-      "order": 528,
+      "order": 510,
       "id": "entry-873694",
       "label": "speech",
       "level": "3",
@@ -6339,7 +6123,7 @@
       "text": "Order, Senate Majority Leader! Proceed, Sen. Ochillo-Ayacko."
     },
     {
-      "order": 529,
+      "order": 511,
       "id": "entry-873695",
       "label": "speech",
       "level": "3",
@@ -6351,7 +6135,7 @@
       "text": "Madam Temporary Speaker, I do not know why the Senate Majority Leader is trying to heckle me. I request you to rule him out of order. This is a House of procedure and proceedings. If we do whatever we do here outside the procedure, we will not do substantive justice to the people, who will likely condemn us. Madam Temporary Speaker, on the point that the Senate Majority Leader is of the opinion that we should ignore procedure and emphasise on substance, I request you to rule him out of order."
     },
     {
-      "order": 530,
+      "order": 512,
       "id": "entry-873696",
       "label": "speech",
       "level": "3",
@@ -6363,7 +6147,7 @@
       "text": "Hon. Senators, I am not necessarily imputing any ill motive on the Mover of the Motion, but it would be neater for us to have another Chair or Speaker sit in, so that she can respond and concentrate on what will be debated. It was an oversight and not her intention to sit on the Chair during this debate. Therefore, we have corrected it quickly. I am here to sit and guide the debate. Proceed, Sen. Were."
     },
     {
-      "order": 531,
+      "order": 513,
       "id": "entry-873697",
       "label": "speech",
       "level": "3",
@@ -6375,7 +6159,7 @@
       "text": "Thank you, Madam Temporary Speaker, for that guidance. This amendment was necessary to expand the scope of culpability on the maize crisis that we experienced last year. We had the Inter-ministerial Committee that must be included and the entities to be culpable, for example, the Head of Public Service Commission (PSC), who was chairing the Committee, The Ministry of Devolution and ASALs, The Ministry of Public Service, Youth and Gender Affairs and The Ministry of Internal Security and Coordination of National Government under special programmes. Madam Temporary Speaker, this Committee gazetted the haphazard extension of importation of maize. It allowed maize to come in when farmers were harvesting. It also allowed people to import white maize, but restricted people to import the yellow maize and how much maize should be imported. Therefore, it would have been wrong to keep this Inter-ministerial Committee out of the Report as the people who are culpable on the crisis that bedeviled this country last year. Madam Temporary Speaker, I now call upon Sen. (Dr.) Langat to second these amendments."
     },
     {
-      "order": 532,
+      "order": 514,
       "id": "entry-873698",
       "label": "speech",
       "level": "3",
@@ -6387,7 +6171,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to second this particular Motion with the said amendments. The inclusion of these particular members in this Committee will be important. These are high level Government officials whom we expected to act with decorum concerning such a crisis in our country during that particular time. Madam Temporary Speaker, when you check in Page 3, these are the people who resolved that the duty-free waiver for the maize should within five days be extended without any good reason. This is the same group that in the second paragraph, mentioned that the Kenya Revenue Authority and the Ministry of Interior and Coordination of National Government should by Tuesday, 27th June, deploy the officers to large millers to ensure accountability. During our discussion, the same large deployment never took place. More so, this is the group that made such an erratic decision that the maize docked at the port and facing documentation challenges in Mombasa was to be cleared and discharged immediately. This is the window that led to the free opening of the maize to be brought to our country, which later on became a problem, because the same decision violated the conditions of the Gazette Notice that was supposed to guide the importation of maize. I also second strongly the amendments to expand the dragnet of this particular culpable people, because this is the same group of people that in a meeting which they had on 14th November, 2017, made very erratic decision up to and including, expanding exportation of maize from Mexico to the tune of four million bags. They lowered the purchase of maize from the local people to the tune of 1.5 million bags of 90kgs. These particular decisions of 14th November, 2017 were made outside the legal notice that had been given and which ended on 15th October. Looking at this particular list of these particular members---"
     },
     {
-      "order": 533,
+      "order": 515,
       "id": "entry-873699",
       "label": "scene",
       "level": "3",
@@ -6399,7 +6183,7 @@
       "text": "(Senators consulted loudly)"
     },
     {
-      "order": 534,
+      "order": 516,
       "id": "entry-873701",
       "label": "speech",
       "level": "3",
@@ -6411,7 +6195,7 @@
       "text": "Order, Senators! Kindly, can you consult in low tones, so that we allow the seconder to second the Motion?"
     },
     {
-      "order": 535,
+      "order": 517,
       "id": "entry-873702",
       "label": "speech",
       "level": "3",
@@ -6423,7 +6207,7 @@
       "text": "I am seconding the amendments. The decisions that were made by these particular high level Government officials, which violated the GazetteNotice and anything else, make me feel that they are the people who should carry the highest responsibility of the very mess. Excluding them is actually robbing this particular Report a great authenticity and the availability of people who can carry the highest responsibility on the mess that happened. For us who went to the field and experienced a lot of issues facing the farmers, it is actually in order that these particular amendments be approved. When we were in Bungoma, I remember 21 farmers from Bungoma had been paid and---"
     },
     {
-      "order": 536,
+      "order": 518,
       "id": "entry-873703",
       "label": "scene",
       "level": "3",
@@ -6435,7 +6219,7 @@
       "text": "(The red timer was switched on)"
     },
     {
-      "order": 537,
+      "order": 519,
       "id": "entry-873704",
       "label": "speech",
       "level": "3",
@@ -6447,7 +6231,7 @@
       "text": "I want to finish by saying that this particular committee made very erratic decisions that affected farmers. As a result, 21 purported farmers in Bungoma were paid a lot of money. We shall continue later. I second the amendments."
     },
     {
-      "order": 538,
+      "order": 520,
       "id": "entry-873705",
       "label": "scene",
       "level": "3",
@@ -6459,7 +6243,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 539,
+      "order": 521,
       "id": "entry-873706",
       "label": "speech",
       "level": "3",
@@ -6471,7 +6255,7 @@
       "text": "Madam Temporary Speaker, I want to oppose the amendments to the Report. I listened very carefully to the Mover of the Motion; my teacher and a good Professor, Sen. Kamar, when she was moving it. There is one statement that she made then and I even wrote it down. She said that flooding of maize in this country happened after the Kenya Gazette notices lapsed. That is something that is on record and also captured in the Report that was brought before this House. Madam Temporary Speaker, the amendment seeks to broaden responsibility, to move from specific public officers, who in this case is the CS, National Treasury and Planning and CS for Agriculture, Livestock, Fisheries and Irrigation to a committee of a dozen or so people. Part of the mandate of this Senate Ad hoc Committee on the maize crisis in Kenya was to find out the problem bedeviling the sector; how the imports came in and the circumstances around the gazette notices. Ultimately, this Committee has gone beyond that to define responsibility; the persons who bear the greatest responsibility for the flooding that occurred in the market. It will be fairly lazy if this House would be convinced that we hold an entire Inter-Ministerial Committee responsible. The CS, National Treasury and Planning has a role defined by the Constitution. The National Treasury and Planning is defined in the Constitution and more so in the Public Finance Management (PFM) Act. It has powers to issue certain notices, guidelines and regulations. The CS for Agriculture, Livestock, Fisheries and Irrigation has got some specific responsibilities and obligations because this was about maize. Madam Temporary Speaker, when I look at the composition of that Inter- Ministerial Committee, it has everyone, including the Head of Public Service. I am just wondering how the Head of Public Service will be held responsible for the flooding which happened after the gazette notices. The notices that the Mover had talked about were three; that were issued by this Inter-Ministerial Committee. However, once the gazette notice is issued, there are those public officers with a responsibility to execute. We have been told that Kenya Revenue Authority (KRA) did not collect taxes and the Kenya Bureau of Standards (KeBS) did not have the capacity to conduct quality assurance of the maize coming in. We need to be specific on the people who bear responsibility for the mess that is killing an entire sector in this country. Madam Temporary Speaker, it is for that reason that I discourage the Committee from moving these amendments. Indeed, you had ruled yesterday that it was important to provide of two things; one, that the Ad hoc Committee sat and agreed on these amendments. Secondly, the amendments were considered within timelines---."
     },
     {
-      "order": 540,
+      "order": 522,
       "id": "entry-873713",
       "label": "speech",
       "level": "3",
@@ -6483,7 +6267,7 @@
       "text": "Order, Senator. You will have a balance of 17 minutes."
     },
     {
-      "order": 541,
+      "order": 523,
       "id": "entry-873714",
       "label": "heading",
       "level": "1",
@@ -6495,7 +6279,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 542,
+      "order": 524,
       "id": "entry-873715",
       "label": "speech",
       "level": "1",

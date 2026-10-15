@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-06-14-14-30-00",
-  "exported_at": "2026-10-13T17:30:35.185Z",
+  "exported_at": "2026-10-15T19:26:24.647Z",
   "entries": [
     {
       "order": 1,
@@ -1176,22 +1176,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
       "order": 99,
-      "id": "entry-805062",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 100,
       "id": "entry-805063",
       "label": "speech",
       "level": "3",
@@ -1203,7 +1191,7 @@
       "text": "Hon. Members, the results of the Division are as follows:-\n\nAYES:\n\n29\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n0 The \"Ayes\" have it."
     },
     {
-      "order": 101,
+      "order": 100,
       "id": "entry-805070-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1215,7 +1203,7 @@
       "text": "(Question carried by 29 votes to 0)"
     },
     {
-      "order": 102,
+      "order": 101,
       "id": "entry-805070-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1227,7 +1215,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 103,
+      "order": 102,
       "id": "entry-805071",
       "label": "speech",
       "level": "3",
@@ -1239,7 +1227,7 @@
       "text": "Hon. Senators, I now direct that the doors be unlocked and the Bar drawn)"
     },
     {
-      "order": 104,
+      "order": 103,
       "id": "entry-805072",
       "label": "scene",
       "level": "3",
@@ -1251,7 +1239,7 @@
       "text": "(The doors were opened and the Bar drawn)"
     },
     {
-      "order": 105,
+      "order": 104,
       "id": "entry-805073",
       "label": "speech",
       "level": "3",
@@ -1263,7 +1251,7 @@
       "text": "Hon. Senators, we will resume our debate on Order No.10"
     },
     {
-      "order": 106,
+      "order": 105,
       "id": "entry-805074-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1275,7 +1263,7 @@
       "text": "(Resumption of debate on Order No. 10)"
     },
     {
-      "order": 107,
+      "order": 106,
       "id": "entry-805074-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -1287,7 +1275,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 108,
+      "order": 107,
       "id": "entry-805075",
       "label": "heading",
       "level": "3",
@@ -1299,7 +1287,7 @@
       "text": "THE OFFICE OF THE COUNTY ATTORNEY BILL (SENATE BILLS NO. 3 OF 2018)"
     },
     {
-      "order": 109,
+      "order": 108,
       "id": "entry-805076",
       "label": "speech",
       "level": "3",
@@ -1311,7 +1299,7 @@
       "text": "Mr. Speaker, Sir, I stand to support this Bill as well because nowadays all matters are legal. There is nothing you can do which does not have a legal implication and legal fees are always very expensive. So, the idea of having a county attorney is important. The two speakers who have spoken have highlighted specific areas which are key and quite helpful in enhancing this Bill. It therefore becomes an instrumental Bill for the functioning of county governments. This is one of the Bills that will devolve functions that have been held at the national level to the county level. It therefore, becomes county governance which is very critical and one of the Bills that devolves functions that have been held at a national level to the county level. Mr. Speaker, Sir, the County Attorney will also give legal advice to the County Executive who will have a chance to look at the issues and figure out whether those are the important legal issues and get the necessary advice. The County Attorney also represent the executives in court, because before, we had various people representing counties in court. This will also create a level of systemacy so that it become easy to follow up on a case. I can imagine the level of chaos that must have been there when different people are representing the county; one lawyer comes with one idea, another lawyer comes with another idea. That can create some contradiction and disharmony in the way legal matters are addressed."
     },
     {
-      "order": 110,
+      "order": 109,
       "id": "entry-805079-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1323,7 +1311,7 @@
       "text": "[The Speaker (Hon. Lusaka) left the Chair]"
     },
     {
-      "order": 111,
+      "order": 110,
       "id": "entry-805079-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1335,7 +1323,7 @@
       "text": "[The Temporary Speaker (Sen. Lelegwe) in the Chair]"
     },
     {
-      "order": 112,
+      "order": 111,
       "id": "entry-805080",
       "label": "speech",
       "level": "3",
@@ -1347,7 +1335,7 @@
       "text": "Mr. Temporary Speaker, Sir, it will definitely cut down our legal costs of litigation in the counties because these attorneys will be employed full time. Even though this Bill suggests the possibility of having a consultant, I have heard other Members argue that maybe it is not a very good idea. But in cases where there really is just a need for a consultant, I think there should also be capping in terms of the amount of money that, that consultant should be paid. So, we could have a lower cap and an upper cap to ensure that this particular clause is not exploited. Some of the issues that happened in Makueni County, which was almost dissolved, would not have happened if we had had such a Bill in place because I think certain legal matters at that time seemed to have been missing. The members of the county would have been advised. This Bill not only gives the provisions for the County Attorney, but also for the County Solicitor, County Legal Counsel and other officers who will perform. So, it is an all-inclusive Bill that has all these other provisions that are very key. In Clause 5, the County Attorney shall be appointed by the governor with the approval of the county assembly. That is important because that makes it a rigorous process. This person who is appointed will have seven years experience; I think that is a good figure. Seven years is better than the five years I have been seeing in the other Bills. There are chances that this person probably has no experience because everybody will be trying to give different ideas and versions. It is important that they are quite grounded in their legal training so that they know what is going on. Mr. Temporary Speaker, Sir, there is also a code of conduct in the Second Schedule. This is to ensure that apart from the qualifications, this person is able to do the job properly. I have heard other Senators who presented before me say that this can be removed because it is part of what is essentially already entrenched in Cap. 6 of the Constitution. I think it is very key and detailed. They have up to almost 16 provisions including 15 which is a conflict of interest that needs to be declared that is usually the beginning of impropriety. The County Attorney's roles are classified in Clause 6 very clearly:- (a) shall be the principal legal advisor to the county executive; (b) shall also attend the meetings of the county executive as an ex-officio member of the executive committee; (d) shall advise departments in the county executive on legislative and other legal matters; (f) shall be responsible for the revision of the county laws. That clarity of what is expected is very key."
     },
     {
-      "order": 113,
+      "order": 112,
       "id": "entry-805082",
       "label": "speech",
       "level": "3",
@@ -1359,7 +1347,7 @@
       "text": "Clause 9 is very important. It gives the protection from personal liability so that this person is actually acting in their capacity as a public officer and not an individual and that is also very key. Clause 10 states that the County Attorney shall have the status and rank of a member of the county Executive committee. I think some sort of rationale needs to be given for that. Arbitrarily deciding that the CEC and the County Attorney are at the same level is not right. At Committee stage, we need to justify why the County Attorney should be at par with a member of the CEC.If they are the same rank, what level of authority does this person have over the CECs? Clause 11 states that the County Attorney, County Solicitor and County Legal Counsel shall not engage in any other official gainful employment. That is also very standard. Clause 12 states that the County Attorney may resign from office, that is wise. There is a possibility that he can refuse to resign, then what will the county do? I think that is addressed by Clause 13 and therefore, gives the governor power to remove him from office. It reads: \"The Governor may with approval of the county assembly---\"So, the Governor and the county assembly can trigger a process for the resignation. This is a good clause because then we do not have an over-confident County Attorney who just decides to refuse to leave office even when he is dysfunctional within that particular county. Clause 16 is a mis-representation. The small title on the side gives the title as engagement of consultant. It should be non-engagement of consultant. It says: \"A department or public entity established within a county executive shall not engage the services of a consultant to render any legal services relating to the functions. It is actually disregarding and discouraging the engagement of the consultant. But the side title reads \"engagement\". I would suggest that it reads \"non-engagement\" for it to flow. Part IV of the Bill is critical because it gives the various details for the other categories apart from the County Attorney, the Solicitor, the County Legal Counsel and the other workers in terms of the provisions of what is expected. One thing in the Miscellaneous provisions is the Penalty Clause. If an officer discloses any information, the punishment is a fine of up to Kshs200,000 and less than two years imprisonment. I think the fine of Kshs200,000 is low in terms of penalty. It is very easy for somebody to raise that amount and give information that is very key and critical and create disharmony within the county. I think that clause needs to be re-looked at. I know in various legislations especially where there is a provision for imprisonment, people take it more seriously. So, it should be \"a fine and imprisonment\", then we will get people to adhere more easily. Mr. Temporary Speaker, Sir, my worry is with Clause 28. As I was reading this Bill, what came to my mind was how will this office be funded? In Clause 28(a) it says \"monies that may be\" I think there we are really getting into a very dangerous area because we are saying \"money that may\". It is a guesswork that money may be allocated by the county assembly for the purpose of the office. I think it needs to be very precise to read \"money that shall be allocated from the county assembly\". This Bill will collapse if the interpretation of that clause is given to"
     },
     {
-      "order": 114,
+      "order": 113,
       "id": "entry-805084",
       "label": "speech",
       "level": "3",
@@ -1371,7 +1359,7 @@
       "text": "mean; may is \"I can or I cannot; at my own discretion.\" Then we have that problem. By doing that, it has avoided to be a money Bill and therefore, the monies will be allocated at the county level. It is important that that provision for the funding for this is certain. So, Clause 28(a) definitely needs more concrete wording so that that can happen. Clause 29(c) states that the copy that should be given to the county assembly shall submit to the clerk of the county assembly a copy of the report. As much as we have devolved, it is important to have some sort of connection with the national Government. I suggest that a copy should be given to the Attorney-General and also to the Senate so that the Senate can also keep track of what is going on in the counties and be able to arrest a matter that might come up at any one time. I support and congratulate the provisions that this Bill brings on board and the Committee that has prepared and brought this Bill on the Floor of the House with those specific areas for recommendation and especially Clause 28(a) is mandatory for the provision of the survival of this Bill within the counties. Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 115,
+      "order": 114,
       "id": "entry-805085",
       "label": "speech",
       "level": "3",
@@ -1383,7 +1371,7 @@
       "text": "Thank you, Mr. Temporary Speaker. I rise to support this Bill. From the outset, I will support any Bill or any move that seeks to devolve offices, services and money to the people. This is one such Bill that intends to devolve the services of the Attorney General, which is in line with our devolution goals. We had an eye-opener when we visited Trans Nzoia, Busia and Bungoma counties as the Committee on Delegated Legislation. We had a discussion with the relevant committees on delegated legislation and they told us that they do not understand their mandate as committees on delegated legislation. It came to our mind that if we had attorneys in the counties, it would be so easy for them to give them legal guidance and interpretation as to their mandate as provided for by the law. Therefore, the need to have legal advice and chief legal officers in the counties is something that we cannot overlook. It is a requirement that is very important to the counties. Mr. Temporary Speaker, you can imagine what happens when they do not have somebody to oversee the enforcement of the by-laws and the laws that they pass. Legal minds within the counties would give advice with regard to where the law is good and where it is not good. In fact, legal counsels will also help them in terms of the quality of the laws that they pass as assemblies. Therefore, this is important as it will help them to draft good laws that are of good quality and pass the test of time if we have that kind of law. You are aware that we have had county assemblies passing laws that are contrary to natural justice and even the supreme law of the land. This is because of the lack of necessary legal guidance within the assemblies. So, this Bill will ensure that they have the necessary backup for them to do the drafting. We have drafters in the National Assembly and the Senate. In fact, some of our clerks are lawyers. This has an impact on the quality of the service that we get from our own secretariat and the legal directorate. We have a directorate which helps with legal issues and drafting. This helps in shaping the law into what you want it to be and serve the people. The same set up should be replicated in the county. Therefore, this particular Bill will bring some sense of sanity in terms of drafting and passing quality laws within the counties. Madam Temporary Speaker, the other issue is the cost. I am a lawyer by profession and know that we have a Remuneration Order when charging for our services. However, when you look at the bills that we have within the counties for lawyers, they are very high. I do not advocate that they do not send their matters to lawyers, because those lawyers are also there to do their work. However, if we had an attorney or a legal office within the county, they would determine which cases need external lawyers and which ones can be handled by the attorneys themselves; the in-house lawyers. For me, this will cut down the cost of legal services that are provided to the counties assemblies, as much they will still need external lawyers. The county attorneys will also initiate the suits themselves. If we have a unit that is able to defend the county assemblies, then they can initiate what they think is a law that can defend the interest of the assembly. They can sue and act on behalf of the assemblies. Therefore, they do not have to outsource everything; the internal unit within the legal department can actually defend. The counties also need legal guidance with regard to the contracts and memoranda of understanding they enter into. They need to draft their contracts in a manner that does not compromise their interests. They need people to review and look at the regulations that they pass. After passing the laws they need to pass regulations. Who helps them to come up with those regulations? Who helps the executive arm to come up with regulations? The review of contracts and advice on contracts and memoranda of understanding require a legal unit within the county. Mr. Temporary Speaker, if you look at Clause 6, it provides for a county attorney to sit in the county executive. That will help them to give them guidance even as they do their work. At the national level we have the Attorney General and an office that helps them with legal advice. If we have the county attorneys sitting in the meetings of the executive, then of course, we will expect that they do the right thing within the law. Some counties have been taken to court for violating labour laws and regulations that govern employment and even cover procurement. Right now in this country we have an outcry over violation of procurement laws. We even thought there would be a standstill in the procurement departments because of the directive that was given requiring all heads of procurement to step aside to allow for investigations. Yesterday, none other than the President issued a directive that all tenders and awards should be published. We can arrest this kind of a situation when it comes to the county assemblies if we have an office of the attorneys. They will guide the procurement officers on the procurement laws and how not to violate them. There are times when our county assemblies have overstepped their mandate. A legal mind would guide them not to overstep their mandate or act ultra vires. They would ensure that they serve the interest of the citizens. From the records and practices that we have, some of the county assemblies already have county attorneys. However, under which system have they been employed? What is their security of tenure? Which law allows them to have a unit and how do they operate without a law? This Bill will help---"
     },
     {
-      "order": 116,
+      "order": 115,
       "id": "entry-805089",
       "label": "scene",
       "level": "3",
@@ -1395,7 +1383,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 117,
+      "order": 116,
       "id": "entry-805090",
       "label": "speech",
       "level": "3",
@@ -1407,7 +1395,7 @@
       "text": "On a point of order, Mr. Temporary Speaker, Sir. Can you kindly call this House to order? We cannot hear what the Senator, who is contributing, is saying. We want to follow debate on this important Bill."
     },
     {
-      "order": 118,
+      "order": 117,
       "id": "entry-805091",
       "label": "speech",
       "level": "3",
@@ -1419,7 +1407,7 @@
       "text": "Order! Order, Hon. Senators. You need to consult in law tones. Continue, Sen. Pareno."
     },
     {
-      "order": 119,
+      "order": 118,
       "id": "entry-805092",
       "label": "speech",
       "level": "3",
@@ -1431,7 +1419,7 @@
       "text": "Mr. Temporary Speaker, Sir, sometimes we address empty seats and when they are not empty, there is too much noise. Thank you for protecting the integrity of this House, so that Members can address people who are listening when they are around. Sometimes, many of them are not around and you end up talking to yourself. I was submitting that sometimes county assemblies act in excess of their powers and overstep their mandate. We saw laws that touch on chicken and what we think is the very basics of humanity. Therefore, with a unit that helps in legal guidance and attorneys in the counties, we will have quality service for the people in the counties. Already, some counties have attorneys, for they have hired lawyers but when one visits the counties, they realize that the lawyers feel so insecure. This is because they are hired with no security of tenure or no proper terms that are under any structure. In fact, the counties are unable to attract quality services because the lawyers feel that they are in today but when the next governor comes in, he brings in a new lot of people and those who do not have security of tenure have to leave for their home. It is good that we create a structure and a law that governs the office of attorneys so as to have quality lawyers being attracted to the counties. I have seen cases where they have been put at a good grade and if that is done, the office of the attorney will be equivalent to the office of the executive and that is not bad. This law will definitely guarantee and attract lawyers to sit in the county assemblies. The lawyers will also help in development of their policies. We need a legal mind when developing policies that govern our people. We also need to look at proper remuneration for you cannot create an office of the County Attorney and then fail to remunerate them. Lawyers are on high demand in this country and if you do not remunerate them well, even if we have this law, they will shift and go for greener pastures. The remuneration bit should be looked into. A good package will attract them and that will help the counties to be run in a better way. This law will also guarantee that we protect the offices of the County Attorney from political interference because at the moment, an elected governor brings his team and walks out with them as the other person comes in with his team. This kind of law will guarantee that these offices are created by law and not on an individual's whims. Therefore, you cannot walk in and walk out the way you want. This law will be some sort of security of tenure. It will give some semblance of security as the officers are appointed. Clause 8 allows the County Attorney to be enjoined in a suit that the county is interested in, other than being ambushed. We have had a lot of cases where one finds auctioneers by their door who have come to attach their property in a case where they have not even been told about yet the case has gone all the way. The person only comes to know about the case at the time of execution. Allowing the attorneys to be enjoined and sue on behalf of the counties is good and it is provided for. This will make the counties secure for they will be defended accordingly, thus they will be some sort of watchman for these counties. They will also watch out for cases that are there, defend the counties and be able to respond on behalf of the counties. Clause 7 allows the County Attorney to collect evidence. They can direct the departments to give evidence and supply materials that touch on a particular case that involves the counties. Most of the cases in our courts are thrown out because there is no evidence or no witnesses. I am happy that this particular provision is there because the CountyAttorney will be able to defend the entire county from attacks and from shoddy proceedings. He will also be able to take them through the processes of the law. I thank you."
     },
     {
-      "order": 120,
+      "order": 119,
       "id": "entry-805095",
       "label": "speech",
       "level": "3",
@@ -1443,7 +1431,7 @@
       "text": "Thank you Mr. Temporary Speaker, Sir. I do not know the reason as to why Sen. Wambua is protesting. He should read the Standing Orders regarding the office of the Senate Majority Leader and the entitlements of the same office. I know that I have 60 minutes to speak but because of the interest that my colleagues have, I will only speak for about 10 minutes. This is a very important Bill that was developed by and now adopted by the Committee on Justice, Legal Affairs and Human Rights for purpose of equipping the counties. For the sake of the new Senators, the history of this Bill was as a result of what happened in Kericho County and I hope that the Senator of Kericho County will listen to this very keenly. The Governor of Kericho County faced impeachment in this House and the basis of that impeachment was because he had bad legal advice on public-private investment agreements that he entered into which was with regard to solar panels and so forth. The Senate and the Committee that was chaired by Sen. Murungi established that the Governor of Kericho was culpable for committing acts of omission and commission. The only reason as to why the Senate left him scot-free was because the Committee came to the conclusion that the threshold for removal of governor was not met. The Committee came to the conclusion that there is weakness in the counties in so far as legal advice is concerned and that most of the counties do not have qualified in-house lawyers who can advise the county executive to perform its functions as per the law. As a result, the Committee on Legal Affairs and Human Rights that was chaired by Sen. Wako and had Sen. Murungi together with myself, came up with this Bill to the extent that we must create and institutionalize a proper legal framework known as the Office of the County Attorney. This is a very important office when it comes to protection of the interests of the people of each of our counties at the county level. It mirrors the office of the Attorney- General and that is why it is called the County Attorney. The job of the Attorney-General at the national level is to give advice to the Presidency including advice on the viability and constitutionality of legislation that is passed in the Senate and National Assembly. By the time the President is assenting to a Bill, the Attorney-General will have played a very important role in advising the President in the same way the County Attorney will be playing a very important role in so far as advising the county government and the governor before he can assent to any Bill. It is good that it be known that we are not creating one office because when people hear the office of the County Attorney, they must understand that it will operate in the same way as the office of the Attorney-General which is not the office of the Attorney-General alone but the whole state law office. The office of the County Attorney will comprise the whole county law office which comprises the County Attorney himself just like the Attorney-General at the national level and all the other lawyers below them who will be assisting the counties to ensure that there is proper legal compliance. In the meeting that we had this morning with the arbitrators and the Center for Dispute Resolution, as a Senate, we are pursuing the new desire that counties depart from litigation to arbitration, reconciliation and mediation as a means of solving their disputes for us to do away with the run-away legal cost. I have said in this House - many Senators agree with me, including lawyers who are in this House - that there are situations in our counties that we are worried about such as the legal fees that are being paid to lawyers. The remuneration order makes it clear that one should not charge below a certain amount of money but it does not say up to how much. Unscrupulous, corrupt individuals and people who want to fleece our counties are using rogue lawyers as a conduit for corruption where they give somebody legal work yet when you measure the quality and the quantity of that work, it does not reach the extent that it would say that he should have paid a lawyer. If you give somebody work and measure the quantity and quality of that work, it cannot amount to what this lawyers demand. Governor Sonko of Nairobi County intercepted a payment of Kshs200 million to a lawyer. After taxation, it was reduced to Kshs3 million. The county was to be fleeced Kshs197 million. Therefore, the office of the County Attorney will be important to cure this malpractice and maladministration at the county level. The counties will reduce the amount of legal work that they will delegate to lawyers who are not working within the County Attorney's office. This Bill is critical in as far as our responsibilities are concerned. I believe we can pass this Bill by next week if we vote in the Second Reading, take it through the Committee of the Whole. The good thing with it is that it was published after it had been tidied up. Contributions on it were made in both the last and this Parliament and the Committee did public participation. I believe we will have a good and solid law that will help our counties to have an institutionalised office of the County Attorney and the staff therein. Mr. Speaker, Sir, I believe that the National Assembly will act expeditiously to pass all the legislation. However, there is something that worries me a lot; whereas we are pursuing mediation, conciliation, negotiation and all the good things that are related to the \"hand shake\", Bills that go to the National Assembly from this House can even take a year before they are tabled. That is sad and discouraging. I can say with confidence that since the inception of the National Assembly, it has never reached the number of Private Members Bills that the Senate has generated in its last term and this term. It is a shame to stifle Bills that are being generated and passed by Members of this House. They work hard to think through the issues that they want to be passed for the purpose of their counties. I talked to my colleague, Hon. Duale and I was disappointed. Yesterday I was sad because he asked on the Floor of the House why the Senate is given a budget. This kind of thinking must cease. People should not think that because I am diplomatic and I pursue a diplomatic approach, it makes this House weak. We have a serious wild card with Sen. Orengo as leaders of this House. The moment we will put that card on the table, people will listen. At the moment, in the spirit of the hand shake, conciliation, mediation and all the good spirits, I am giving the National Assembly the last chance so that we can pursue a process that can accept and obey the constitutional status of this office. This House needs to agree with the National Assembly to have timeframes within which a Bill can be introduced in either Houses. We do not have a problem if a Bill fails; it is not a must that it has to be passed. What it is important is that, it must not be inordinately delayed by a small group of people at the expense of the whole House having an opportunity to debate and come to a conclusion of either passing it or not, or take it to the Mediation Committee or not. As I have said before, those who are shortsighted must be reminded that the Senate is here to stay. The Members who are here are temporary, but the Senate is permanent. It is as permanent as the Constitution. Those who doubt what I am saying need to look at the constitution of this House. They will realise that five to six Members were Members of the National Assembly in the last Parliament. In the National Assembly, we also have five to six Members who were Senators in the last Parliament. We are all transient. We can change where we want to serve if we are given an opportunity to serve the people of Kenya, but we must continue to respect the Constitution. In the leadership tenure of Sen. James Orengo and I, we will not allow this House to be put to shame. We will call this House for another Kamukunji to update Members on the next steps. If we realise that there are people who cannot listen to Sen. Haji, Sen. Beth Mugo and Sen. (Prof.) Sam Ongeri who are elders here, we will pursue other legal and constitutional processes as we did in the year 2013. It restored the integrity and constitutional responsibility of this House in as far as the finance Bills that are related to counties are concerned. Mr. Speaker, Sir, I beg to support this Bill and congratulate Sen. Cheragei, the Chairperson of the Standing Committee on Justice, Legal Affairs and Human Rights, for bringing this Bill and doing a fantastic job with his colleagues."
     },
     {
-      "order": 121,
+      "order": 120,
       "id": "entry-805100",
       "label": "speech",
       "level": "3",
@@ -1455,7 +1443,7 @@
       "text": "Sen. Enock Wambua, you have the Floor."
     },
     {
-      "order": 122,
+      "order": 121,
       "id": "entry-805101",
       "label": "speech",
       "level": "3",
@@ -1467,7 +1455,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me the opportunity to contribute to this Bill. First of all, I thank the Chairperson and Members of the Standing Committee on Justice, Legal Affairs and Human Rights for bringing this Bill on the Floor of the House for debate. It is true as other Senators have pronounced themselves on his matter that the Auditor-General has found many county governments culpable for huge spending on bills arising from procurement of legal services. This Bill is good for two important reasons. One, the establishment of the office of the County Attorney will help to reduce and manage the costs that county governments across this country continue to accrue in relation to legal services. Two, the creation of this office will help us build institution memory on where each county stands in relation to legal matters; as opposed to the touch and go approach that is being used today where different lawyers are called to offer legal services in the counties. This morning there was a meeting on the alternative dispute resolutions mechanisms. On this Bill, I will urge the Committee to look for possibilities of encouraging the office of the County Attorney to exercise available alternative dispute resolution mechanisms which are found in almost all the communities in this country. That will help to reduce the cost and measure the quality and quantity of the output in as far as the legal services are concerned. Clause 5 of this Bill is on the appointment and qualifications for appointment of County Attorney. The expectation of this Bill is that the County Attorney shall bring to the executive and the governments in the counties requisite competence in legal matters, experience and respect among colleagues in the legal profession. The qualification of at least seven years experience as an Advocate of the High Court of Kenya is too low. There is a need to relook at the qualification of the person who shall sit in the office of the County Attorney. This is because that person is supposed to look at employees' contracts and contractual agreements between county governments and development partners. Therefore, that person should be one who is qualified, commands respect and has the right experience. Part (IV), Clause 18(1) says:- \"The county public service board shall appoint such County Legal Counsel as may be necessary for the proper and efficient discharge of the functions of the Office.\" That clause is too open ended. I think the intention is to manage costs and ensure efficiency in the operation of that office. The drafter of this Bill should consider proposing a minimum and maximum number of legal counsel to serve in the Office of the County Attorney. With those few remarks, I support."
     },
     {
-      "order": 123,
+      "order": 122,
       "id": "entry-805104",
       "label": "speech",
       "level": "3",
@@ -1479,7 +1467,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for finally giving me this chance. From the outset, I support this Bill although I have many reservations not extremely material to the content of this Bill but generally about many things that I will elaborate. Let me put to context my line of thought but I mean no offence to my friends and colleagues who are lawyers. I have a lot of respect for them and some of my best friends are lawyers. However, I have never found a line of profession so self-preserving and self-absorbed as the legal profession. In many of our constitutional commissions, out of the maybe 15 or 16 provisions, you will find that the chairperson must be from a legal background. This is even for commissions that have absolutely no legal work that they do. The Independent Electoral and Boundaries Commission (IEBC) is a perfect example and we spoke about it here when we were amending the electoral laws earlier on this year. Where they find that it is clearly stated that the chairperson, despite the fact that most of his work is of arithmetic and not legal nature, they still put a provision that the chairperson ought to be an advocate of the High Court having served x number of years and so forth. Mr. Temporary Speaker, Sir, it is the same with many of our constitutional commissions. There is little wonder then that when we put together the Committee on Justice, Legal affairs and Human Rights, they thought through about the many things that they want to consider in matters devolution, justice and legal affairs. They then decided that the first Bill that they want to bring to this House is to create employment for fellow lawyers. That worries me but what do I do? I have to support them because I know the history. The Senate Majority Leader spoke well and said that it is in relation to what happened in the county that I represent in this Senate, that the Senate thought it wise to have the Office of the County Attorney and the rest of the offices that are created by this Bill. This Bill is brilliantly drafted and well thought out in my opinion. It will save us. You will remember that in the last Parliament, there was tabled an extremely damning report before this Senate of colossal amounts of money that counties continue to send to that organisation that sits in Delta House - otherwise known as the Council of Governors (CoG) - to the tune of Kshs1 billion at that time. Out of this amount, almost Kshs300 million had been used to pay for legal services.Many of those cases were not against the county governments but the governors and their persons but county funds continue to be used by lawyers during allocations and payments from CoG. With the enactment of this Bill, I want to believe that such issues will cease to exist in our counties. One of the principle and cardinal duties of this House is to ensure that we protect devolution and continue to clean it up and ensure that on areas where there are inefficiencies, we put our foot down and draw a clean road map. Mr. Temporary Speaker, Sir, let me now go into the contents of this Bill and on to Clause 5. I have listened to colleagues contribute and give reservations about the number of years of experience that are expected of a county attorney. Some feel that seven years is perhaps too junior an advocate to sit in this office. However, I totally agree with the Committee that for a brilliant mind, seven years in a profession is enough for you to determine the very nature of work. After all, if there are issues that will be so complex in their nature that your experience as a lawyer will not guide and give you the clarity of mind that you need to execute some of these things---. Later on, it is provided in this Bill that there shall be cooperation between the office of the County Attorney and that of the Attorney-General of the Republic. Therefore, I support this particular provision especially on behalf of the young people of this country, many of whom continue to be denied employment opportunities based on this \"giant\" they call \"experience\". It is later on provided under Clause 7(c) that the county attorney, amongst the powers that they wield in a county, is to summon any officer in the public service to explain a matter. I would wish that is stated more elaborately whether this summoning should be in writing or verbally. This being an extremely litigant nation, it is very possible that if the county attorney gives only verbal summons to a member of staff in the County Public Service, they may choose to ignore it or it will be used to prove that this particular officer did not live up to the summons. Therefore, it should be expressly written and provided that the summons should be in writing. If it is verbally, then let those powers be. Mr. Temporary Speaker, Sir, Clause 8(2)(a) says:- \"In the exercise of the powers of the County Attorney under subsection (1), the County Attorney shall - (a) Notify any other court or administrative body of the intention to be enjoined in the suit, inquiry or administrative proceedings.\" This is important because if at a particular point either a CEC member has been sued for work that they have done in the line of duty, it is important the county attorney be given a line of entry and a position where they may be able to seek, get the attention of the court and provide the necessary legal services. Therefore, starving what we continue to see, is this wanton spendthrift nature of our county governments, where they want to hire legal services at any given point and where the fees - we have been told by lawyers who have spoken before us - vary. This is extremely important, and I agree with the wisdom of the Committee that has thought this through. In terms of issues on compliance, the county attorney is also expected to comply with directions of the court and this is important. We have found county governments that continue disrespecting court orders, orders of environmental tribunals and things of that nature. With the coming into effect of the county attorney, I want to believe that this being a properly schooled advocate of the High Court, when they see such directions, they shall live up to the oath of office and respect such advice or compliance that is needed of them. I also find it crucial that under Clause 8(3), the County Attorney shall have a right of audience. This is important because of the many occasions where county governments have been sued and county attorneys- for those counties that have these offices - have sought to be enjoined, they have been asked to consider on what basis or grounds they are seeking the court to grant them an audience. However, with the coming into effect of such provisions, you will now be given a basis as the county attorney, you can quote that these are the provisions of an Act of Parliament that directs me as a county attorney to always be given audience. They will not be pleading. It will be a direct guarantee that each and every time a county government is sued, the county attorney is given notice of the same and gives attention to the pleadings that are being made before the court on behalf of the county government and its residents. Mr. Temporary Speaker, Sir, Clause 11 speaks to the nature of the conflict of interest where the county attorney is not expected to participate in any other gainful employment within the county government that may result in conflict of interest. This is extremely important because, as a country, we are determined to fight corruption. Therefore, even in our legislation, it is good to see that we are becoming express and descriptive to a point that we are saying that once a person is appointed as a county attorney, they should forget doing any other legal work in the county. I find that to be extremely important. Moving on, Clause 15 states that:- \"All County Legal Counsel in any department in the county executive shall be officers of the Office and shall be answerable to the County Attorney.\" This gives strength to the thought that the county attorney's office and his or her directorate shall have officers under him or her who shall be serving the various departments of the county government. Therefore, it is expected that a particular department of a county government will not say that they have run into difficulty or headwinds with the law because they did not have sound legal advice. This should bring down the costs. The county governments are losing money because of the nature of some of the decisions that County Executive Committee (CEC) Members continue to make. Counties are sued and forced to pay. An example is where a CEC in charge of roads goes ahead to construct roads in areas that they should not. They ignore court orders and counties are forced to pay a lot of money. Sometimes, one wonders whether it is intentional or a collusion to destroy someone's property so that they are paid a higher amount and share the loot. This is Kenya and nothing is impossible. Some of these things are choreographed. However, this will be cured with the coming into effect of a directorate. These officers need to know that they are acting on behalf of residents of a particular county. Therefore, there should not be acts of negligence. I believe that they will be serving under an oath that I have seen at the end of this Bill. They will uphold their call of office and give sound legal advice. Therefore, it will bring down legal costs and other costs in the counties. Part III of the Bill is on the performance of functions of the County Attorney. Clause 16 says that before each department makes a decision and finalizes on the programmes and agenda they have for a particular county, they must seek approval in writing from the Office of the County Attorney. This speaks to the same point that I have spoken before and, therefore, there is no need to repeat it. Clause 16 (3) states that:- \"An approval by the County Attorney of a request by a department or public entity to engage the services of a consultant under subsection (1) shall be made in writing.\" Maybe, we need to add the words \"and justified,\" because we do not want to leave it open that for every particular request that is made, it is granted by the Attorney. There must be a justification that the reason the office of the County Attorney cannot be used in this office is because of A, B, C and D. That has happened."
     },
     {
-      "order": 124,
+      "order": 123,
       "id": "entry-805111-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1491,7 +1479,7 @@
       "text": "[The Temporary Speaker (Sen. Lelegwe) left the Chair]"
     },
     {
-      "order": 125,
+      "order": 124,
       "id": "entry-805111-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1503,7 +1491,7 @@
       "text": "[The Temporary Speaker (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 126,
+      "order": 125,
       "id": "entry-805112",
       "label": "speech",
       "level": "3",
@@ -1515,7 +1503,7 @@
       "text": "In my county, there is a particular case and matter of great interest, where the county government has decided to sue the British Government for atrocities and historical injustices committed against the citizens of Kericho County. It is a case of great concern to the people and they continue to ask whether they could have done it using the office of the County Attorney. Therefore, based on that experience, I believe that Clause 16 will be"
     },
     {
-      "order": 127,
+      "order": 126,
       "id": "entry-805114",
       "label": "speech",
       "level": "3",
@@ -1527,7 +1515,7 @@
       "text": "neater if we add the words \"and justified,\" after the words \"shall be made in writing.\" There will be need to give a justification as to why a particular department does not want to use the County Attorney's Office. Madam Temporary Speaker, Clause 17 speaks to the qualifications of a person to be appointed as a county solicitor, who is another lawyer that employment has been created for. He or she needs to be an advocate of the High Court, with at least five years of experience. This is brilliant and I agree with it because of the earlier thoughts that I shared. Clause 18 (3) states that:- \"Despite subsection (2), nothing in this Act shall be construed to entitle any officer who is not qualified in law to perform legal functions in the county public service\" This is another classic by lawyers, which ensures that only lawyers can do this particular work. There is no problem about it, but it is worth noting. Madam Temporary Speaker, Clause 22 is extremely interesting. I wish my colleague, Sen. M. Kajwang', was here because he ran into headwinds during the Legislative Summit when he tried to speak, before our colleagues from the county assemblies, on the prescriptive and descriptive nature of lawmaking. Clause 22 (2) states that:- \"The County Attorney may procure the services of such other persons as may be reasonably necessary for the purposes of assisting the County Attorney in the performance of the functions of the County Attorney.\" This is prescriptive of our nature, as the Senate, which gives more room for county assemblies. It is now upon the county assemblies of Bomet, Kisii or Nandi to sit down and bring a legislation of a descriptive nature, for example, through their committees on justice and legal affairs. For example, if the County Attorney wants to procure the legal services of another entity, what are some of the things that need to be considered? What will be the amount of money that can be charged and the nature of the cases allowed? That is the kind of description that the Senator was speaking about at that particular time. Therefore, each particular county assembly should develop interest and consider this. For example, what might be important to Kericho County may not be considered important in another county. Therefore, this is for the county assemblies to think through. Madam Temporary Speaker, Clause 29 (1) states that:- \"The County Attorney shall as soon as practicable after the thirtieth of June in each year, prepare and furnish to the governor a report of the operations of the Office during the year that ended on thirtieth June.\" I want to challenge the Chair of the Committee on Justice, Legal Affairs and Human Rights, my friend, Sen. Cherargei, to think through with his Committee why they have thought it wise that this office will only present a report to the governor and the county assemblies, but none to the office of the Senator. Oversight is important. We cannot legislate ourselves out of work as a Senate and say that we are on duty."
     },
     {
-      "order": 128,
+      "order": 127,
       "id": "entry-805116",
       "label": "speech",
       "level": "3",
@@ -1539,7 +1527,7 @@
       "text": "I have established a tradition that I look forward to find a way of having it legislated. As the Senator, I have written to the speaker of my county to send to my office a copy of each and every report my county assembly passes. It is important to be kept abreast with the happenings. There is nothing in the doctrine of separation of powers that we will be violating if we say that the County Attorney sends a report of the operations of his or her office to the office of the Senator. That is the first place they should send it to before thinking of the office of the governor. Madam Temporary Speaker, with very many remarks, I support this Bill. Thank you."
     },
     {
-      "order": 129,
+      "order": 128,
       "id": "entry-805117",
       "label": "speech",
       "level": "3",
@@ -1551,7 +1539,7 @@
       "text": "Let us have Sen. Shiyonga."
     },
     {
-      "order": 130,
+      "order": 129,
       "id": "entry-805118",
       "label": "speech",
       "level": "3",
@@ -1563,7 +1551,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to support this Bill on the creation of the Office of the County Attorney at the county level. Just as my colleagues have said, creation of employment in this country is wanting. The creation of this function, with the combination of the County Attorney, the County Solicitor and a member of the legal counsel in all the 47 counties is a large number of people that will contribute to employment opportunities in this country. With these skilled minds being employed at the county level where they are going to work and deliver services that we need, it will be of great importance to our country. We look forward to this Bill going through, so that this employment can be achieved. Hiring, especially the standardised legal services that we need in these counties, is very expensive. The passage of this Bill will salvage a large amount of money that has gone to unnecessary and short-term measure of hiring these services. It is my plea that we support this Bill fully so that we can limit the expenses of hiring these services in our counties as it currently is. Madam Temporary Speaker, there is so much money that has been deviated that needs to go to the development of services and projects in our counties. With the passage of this Bill, the money being allocated to this service will be put on the projects that are really wanting in our counties; hence development will be experienced. We shall achieve optimum services which will build the economy of this country through the services and functions of the county governments. Prevention is better than cure. We have seen cases come from the county level to the Senate, some of which are wanting, especially when it comes to impeachment of governors. It is with this in mind that quick and efficient services that will guide the county governments, especially in the legal sector, will be facilitated to avoid such being brought to the Senate, in spite of us doing the oversight role. Some of these disputes will be sorted out at the county level with these expert offices that we are creating. Hence, we shall have better service provision at the county level. Madam Temporary Speaker, I request the mover of this Bill to look at the issue of nepotism. With such functions being created at the county level, there is a great opportunity for nepotism to take place. It is important for us to put a caveat in this Bill to avoid nepotism. When we are creating this service at the county level, we need to put a stern warning so that those who will be involved in the recruitment of these officers will avoid nepotism and tribalism, so that this function can be without malice that I have just mentioned. Thank you. I fully support the Bill."
     },
     {
-      "order": 131,
+      "order": 130,
       "id": "entry-805121",
       "label": "speech",
       "level": "3",
@@ -1575,7 +1563,7 @@
       "text": "Let us have Sen. (Prof.) Ongeri."
     },
     {
-      "order": 132,
+      "order": 131,
       "id": "entry-805122-split-before-b01db19e-573c-42fe-8c6a-d2aa3cdaf287",
       "label": "speech",
       "level": "3",
@@ -1587,7 +1575,7 @@
       "text": "Thank you, Madam Temporary Speaker. First of all I want to lend my weight on the Office of the Attorney County Bill (Senate Bills No.3 of 2018), because I am a strong believer in devolution. People have not appreciated that there are two levels of government-the national and the county. All the activities that are rendered by the national Government are a mirror of what is being done at the county governments. The institution of the Attorney- General in this Republic has been there since Independence to date. The institution of the County Attorney that we are trying to create today will only be an institution for the last few months if we pass this Bill. There is, therefore, a tremendous need for capacity building to enable the County Attorney to perform services which are equivalent to what the Attorney- General does at the national Government. I thank the Senate Committee on Justice, Legal Affairs and Human Rights for seeing it fit that one of the major functions of the County Attorney will be one of advising the governor on various issues as enumerated in Clause 6 (a), (b) and (d) of this Bill. It says- \"The County Attorney-\n\n(a) Is the principal legal advisor to the county executive\n\ncommittee;\n\n(b) shall attend meetings of the county executive Committee as an\n\nex officio member of the executive committee;\n\n(d) shall advise the departments in the county executive on\n\nlegislative and other legal matters.\" Madam Temporary Speaker, I am a Member of the Senate Committee on County Public Accounts and Investment. One of the things I am seeing is the huge expenditure that is being incurred by the county executive on legal services. Some of it has formed part of the pending bills and is going to be very difficult to clear from the books of the county governments. The establishment of this service to the county governments will be a critical element in ensuring that whatever legal services may be required, either from within or hired, are in such a measure that is commensurate with the resources available within the county governments. There have been runaway costs in legal services. As a Senate, we must clump down on what happens in these areas. I have some difficulty in Clause 7(c) on the word \"summon\". I remember there was a time when we had a situation in this country where we had special District Officers (Dos) who became more powerful than the District Commissioners (DCs). I hope we are not creating another monster through this legal framework, where we will get people summoning others at will and when they feel like. It is a good thing to summon people for purposes of explaining issues. I hope the Senate Committee on Justice, Legal Affair and Human Rights will go back and look at the regulations that govern this summoning and read them jointly with the Standing Orders of the county assemblies. That will make a lot of meaning so that the word \"summon\" is clearly defined; how it should be done, how people should be respond and the next action-legal or quasi-judicial, in the event that they fail. It is important that we make this distinction clear. Otherwise, it remains to be a point of contention all along and throughout this period of time. Madam Temporary Speaker, I am grateful and happy that you managed to sneak this in and put it as substantive element of this Bill. That he or she will be substantive and have the same status and rank of the County Executive Committee. Otherwise, he or she will never have a point of reference when trying to advise the governor on what he or she should do. I have noticed over a period of time a number of issues when I was in the Cabinet. Sometimes in the Cabinet meetings, we used to discuss issues and before we arrive at a conclusion we always sought the opinion of the Attorney-General. This is because he would look at it from a legal perspective. We may have been looking at it from a political perspective and how we would achieve the means of politics in terms of goods and services that we wanted to offer the population we were serving. The legal framework would help us to achieve the same objective if it is put in the context of how it must be handled and implemented within the realms of that county assembly. Not all the time the laws may be together. One of the things that we have not done properly and is giving us a lot of difficulties is the assets and liabilities that were inherited from the defunct county councils. There is a lot of lacuna in that element of transfer of services. Even with the Intergovernmental Technical Relations Committee (ITRC) which is currently in force, there are a lot of missing links in terms of assets in millions and billions of shillings that the defunct county councils were supposed to hand over to the county governments that are unaccounted for. These are the ones that are finding their way through corruption. We need to be careful. This afternoon we have visited one of the schools where we had a big problem in Ruaraka. When you listen to the story going on there, you see the board reading the City Council of Nairobi. However, the happenings are completely different. In order to safeguard the county governments from litigations of such nature, it is important that the County Attorney is put in place to carry out this responsibility without any hindrance. I support the earlier speakers that the Senate plays an oversight role. You require the County Attorney to send the annual reports to both the governor and county assembly. The Senator is left in limbo yet he or she is supposed to oversee this element. I hope Sen. Cherargei, who is the Chairperson of the Justice, Legal Affairs and Human Rights Committee, will look again at Clause 29 of this Bill and see how best we can innovate it to serve the interests of the public. I am quite satisfied that the Bill does not delegate legislative powers nor does it limit fundamental rights and freedoms that we have taken so long to win. I am also quite satisfied that this office will be instrumental to the functioning of the county governments and do away with the current lacuna with regards to legal representation of county executives. I hope that our learning institutions and legal schools where Sen. Murkomen went through will include in their curriculum part of the elements of governance structures within the county governments. We hope this will be one of the topics to be taught. We do not have to start struggling that he or she should have seven or ten years' experience. Once they emanate from these universities with proper legal teaching and training, they should handle issues of such magnitude. County governments are there to stay. Whoever thinks otherwise, he or she is daydreaming. Once you scrap the county governments, you are scrapping out the wards. They are all hinged in the Constitution. There is no way we will separate them from the constitutional dispensation that we have today. Madam Temporary Speaker, I am quite happy that this is one Bill that I support fully. It is beginning to organize the manner in which counties must handle their businesses. Kenya is a country of the rule of law. Therefore, we must do our duties and functions in accordance with the laws of the land. Disregard to the law of the land is impunity. One of the problems we had to deal with during the Post-Election Violence (PEV) of 2007/2008 was impunity. I still see the ugly head of that impunity coming through to an extent that people can ignore this Senate as a creature of the Constitution of this country. Therefore, the Senate Majority Leader, if you have any gun smoking, you can count us in so that we can help you achieve that objective together with the Senate Minority Leader. We need to put things in order for posterity. We need to get the governing systems of this country moving properly for posterity. We need a nation that consults each other. If there is a crisis, there are mechanisms like the one of arbitration, which you have not included here. I am sure it will come in the way of rules and regulations - maybe I have not read it through. We should go for mediation and arbitration so that some of the thorny issues need not to have their ugly heads sticking out in newspapers or in this House. We can do it quietly and settle the minds of people without disturbing their peace. I support this Bill."
     },
     {
-      "order": 133,
+      "order": 132,
       "id": "entry-805129",
       "label": "speech",
       "level": "3",
@@ -1599,7 +1587,7 @@
       "text": "Proceed, Sen. (Dr.) Langat Christopher Andrew."
     },
     {
-      "order": 134,
+      "order": 133,
       "id": "entry-805130",
       "label": "speech",
       "level": "3",
@@ -1611,7 +1599,7 @@
       "text": "Thank you very much, Madam Temporary Speaker, for giving me this opportunity. I had really waited for it. I waited for it yesterday and it never came. However, I thank you that I have an opportunity to add my voice to this particular Bill. First, I agree with Clause 5(2)(a) on the number of years that will make the requirement for the office bearer of the County Attorney. This is the seven years that somebody had said is not enough. The current paradigm shifts in the places of work no longer rely on experience so much. Experience is today questioned because some people are experienced in doing the wrong things. What the world relies on today is innovation, research and consultation more than experience. I tend to think that in order to also develop our young people in the field of legal matters, that seven years is important. I add my voice on the functions of this County Attorney. When we were in the Third Annual Legislative Summit in Mombasa, there was an outcry. The Deputy President noted that most of our counties are unnecessarily spending a lot of money on the payment of advocates who are exploiting them. It is our mandate in Article 96 (1) of the Constitution to protect our counties. This particular Bill is timely because it in line with our mandate of protecting our counties. If we allow our counties to keep on hiring anybody to intervene on their issues, they will be exploited. This Bill will save our counties on the matters of being exploited by the advocates who are overcharging them. Secondly, another function of the County Attorney is in Clause 6(b). It provides that he or she shall attend the meetings of the county executive committees as an ex-officio member of the executive committee. This is important. Our County Executive Committees (CECs) are almost stagnating because most of them are not aware of the legal frameworks and guidelines on what they are supposed to do. So, this will be a great intervention to ensure that the work of our CECs is smooth. On top of all these other functions, we have seen some counties suffering because of poor transition of issues that were pending in courts. These were issues that were being handled by immediate former governors. This particular office will ensure smooth transition of issues that would be pending in courts from a given term of a governor to another. As Sen. (Prof.) Ongeri was saying, Clause 29(1) says that- \"The County Attorney shall, as soon as practicable after the thirtieth of June in each year, prepare and furnish to the Governor a report of the operations of the Office during the year that ended on thirtieth June.\" It should also furnish the same to the county assemblies and the Senate. This will ensure that we are part of it so that we are not just a rubberstamp of legislative things that do not come to us for oversight. So, Sen. Cherargei, I propose that this one be included so that the Senate getsinformation on what is happening. It will also help us to see on how we can improve on it every now and then. It will also assist us when it comes to legislation on matters of this House. Being on the ground, it will be able to establish gaps through research that requires our intervention in effective legislation on matters of this House. I also support Sen. Murkomen when he mentioned that nobody should think that the Senate is a temporary organ of the Government. We are here to stay. Our mature way of handling things should not be misconstrued by anybody that we are irrelevant in any way. So, I support the sentiments of Sen. Murkomen that if you think that some people in any quota are doing anything to intimidate this House, bring it to us and we shall handle it effectively."
     },
     {
-      "order": 135,
+      "order": 134,
       "id": "entry-805133",
       "label": "scene",
       "level": "3",
@@ -1623,7 +1611,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 136,
+      "order": 135,
       "id": "entry-805134",
       "label": "speech",
       "level": "3",
@@ -1635,7 +1623,7 @@
       "text": "Thank you, Madam Temporary Speaker. I support this Bill."
     },
     {
-      "order": 137,
+      "order": 136,
       "id": "entry-805135",
       "label": "speech",
       "level": "3",
@@ -1647,7 +1635,7 @@
       "text": "Proceed, Sen. (Dr.) Milgo."
     },
     {
-      "order": 138,
+      "order": 137,
       "id": "entry-805136",
       "label": "speech",
       "level": "3",
@@ -1659,7 +1647,7 @@
       "text": "Thank you, Madam Temporary Speaker. I also rise to support this Bill. From the word go, it shows that there has been lack of legal advice in the various counties. In any case, this has led to what we have been observing in our counties, particularly, in the first county governments. I wish to support this Bill because of a number of issues. First, this Bill, whose objective is to set the Office of the County Attorney, provides for the standards and the framework for recruiting qualified staff. I have an imagination that, because of this framework throughout the 47 counties, all the county attorneys shall have the same qualifications. I also wish to support this Bill because the County Attorney shall be a person of high qualifications. While I was looking at the qualifications, I saw a requirement of seven years' experience which is very high. I support my colleagues in the sense that the county government is a devolved unit of the national Government where we should have a very qualified person to advise the governor. Madam Temporary Speaker, the governor and the County Executive Committees (CECs) are the main managers of what is going on in the counties. Therefore, a reflection of the development that is going on in the various counties had to have problems because of lack of legal advice. If I can talk about the past, you do realise that we had a number of issues. In most cases, when it comes to the procurement of either human resource, recruitment, separation, deployment and even the management, there have been a lot of problems right now. Right from the first county governments, problems have been fed into the second county governments because of illegal ways of carrying out those particular issues in the counties. Right now, I am sure many of the governors are having problems of having to visit the legal institutions. In addition to that, a lot of money is being spent, just as my colleagues have said and as was underscored by the Deputy President when we were in the Legislative Summit in Mombasa. This morning, we realised that the legal staff normally charge for their services based on the abilities of their clients. I realised that they charge you for their services by looking at the way you dress and the amount of money you have. There are many counties that are suffering right now as a result of that. With this Office of the County Attorney, the governor and the CECs will have the right advice to carry out things in the best ways. Therefore, we expect to have better county governments in the future. I also support this Bill because of the fact that there are issues which are touching on various offices in the counties. A few minutes ago when I was walking in here, I met somebody and she complained about certain issues. She had even asked for permission to go for a three month leave because she was taken away from her job and sent to another area that is not her field of expertise. This is because of a poor legal framework in terms of recruitment. I was happy when I learnt that this Bill is going to enable the Office of the County Attorney to offer legal support in solving criminal issues or civil matters that are affecting the counties. By doing so, we will prevent the counties from losing a lot of money that we have been seeing for many years. Madam Temporary Speaker, last time when we were in the Legislative Summit, we witnessed a very ugly case that came up just because of a small word in English. This means that Members of the County Assemblies (MCAs) who are the first point of contact in terms of oversight are not very sure on how to conduct issues. If we have this Office of the County Attorney, the MCAs will be advised when it comes to legal matters. In addition to that one, I hope that the Members who were drafting this Bill will also add issues of arbitration that we learnt this morning that can be part of the various laws to assist in dispensing many cases that will come up. As I stand here today, I am glad that one of the counties in the first county governments that was able to put up the Office of the County Attorney was my county, that is, Bomet County. I am so proud and I will go back to find out how it is fairing on. This time round with this Bill, all the counties will not have any reason not to have this particular office in place. I also support this Bill because of Clause 23 which talks about ethical issues concerning the place of work as well as what an individual is supposed to divulge outside the place of work. If we have such a special legal framework, it will ensure that anybody who has worked in any office, in this case, the Office of the County Attorney, will not divulge confidential issues. We shall prevent what we have been getting of late from the various counties over what has been happening around. As my colleagues have already said, once this Office of the County Attorney is established, we hope that whatever report that shall come out from those offices should not only go to the MCAs who are the first point of conduct in terms of oversight, but also to the Senate. If that happens, the Senate in this case will have their work properly conducted or rather made very easy. Madam Temporary Speaker, with those few points, I beg to support."
     },
     {
-      "order": 139,
+      "order": 138,
       "id": "entry-805141",
       "label": "speech",
       "level": "3",
@@ -1671,7 +1659,7 @@
       "text": "Yes, Sen. Orengo."
     },
     {
-      "order": 140,
+      "order": 139,
       "id": "entry-805142",
       "label": "speech",
       "level": "3",
@@ -1683,7 +1671,7 @@
       "text": "Madam Temporary Speaker, I rise to support this Bill. Before I say anything on the Bill directly, I want to repeat what the Senate Majority Leader said here earlier; that the Senate is an institution which is recognised by the Constitution. Its powers, functions and mandate are clearly spelt in the Constitution. But, more importantly, any Act which emanates from any of the Houses does not have the force of law, unless it is enacted by Parliament. There is nothing in the Constitution that talks about an Act, which has got the force of law that is enacted by the National Assembly. There is nothing like that in the Constitution. Just like in the Constitution, we cannot enact a law until there is a Presidential assent although we are Parliament. The constitutional requirement for an assent is not a matter which was invented recently by constitution makers. It is something which has characterised all modern constitutions, including constitutions which emerge from monarchies. There cannot be an Act of Parliament that is not assented to by the President. Similarly, it is the Constitution itself which says that for an Act or Statute to have the force of law it must be passed by Parliament; not the National Assembly or the Senate. The reason I am talking about this issue is that if we do not respect institutions and the Constitution, then we have no business being lawmakers. We must live by the laws that create us and the institution that we serve in. Secondly, we must also respect the procedures which are well established in the Constitution and the Standing Orders. It is for this reason that there is some co-relation and harmony between the Standing Orders of the National Assembly and the Senate. We cannot act separately; there must be constitutional harmony in the conduct of our work as components of the legislature. I join the Senate Majority Leader in saying that this is the matter that we may not push, for the moment, intensively, but there may be a time when we have to put our foot down. When we put our foot down, as the Senate, and decided to go to the Supreme Court, it made a decision and it is binding on all organs of State and institutions, in so far as the process of legislation is concerned. That case has not been varied or reviewed; it is still the law of the land. I believe that if we continue to have unnecessary fights between the two Houses, then we will be not serving the people. Madam Temporary Speaker, representation of the people and setting out of the institutions of the legislature comes in one chapter, just like the courts. Some harmony and synergy is created through this architecture that is adapted by the Constitution. Having said that, I hope we will not continue to whine about this issue. There must be a moment when we have to cross the Rubicon and face the dragon, demon or whatever the animal is. On the Bill, it is important to create the Office of the County Attorney. In law, including the Constitution and the County Governments Act, it is quite clear that the functions of the devolved units require consideration of the law all the time. The institutions of the counties must be advised on the law of the land all the time. Just imagine a situation where we do not have the Office of the Attorney-General, and every time there needs to be a decision, the national Government has to run to lawyers who are in private practise. In fact, at the national level it is so important that the Attorney- General sits in the Cabinet, so that he or she is available, at the highest level, to advise the national Government on matters to do with the law. The law is not just a statutory law or the Constitution; there are matters that involve application of the law in contracts and treaties that the counties may enter into in accordance with the law and the Constitution. In fact, in application of financial regulations, the law of the land generally is - and the National Treasury is often advised - that on any matter concerning the law they must always consult with the office of the Attorney-General, just like many of the institutions of the Government. Even when there are in-house lawyers in Government departments, there is always a final word from the Office of the Attorney-General. This practice need to be replicated and devolved at the county level. This is not only good for good governance, but also for purposes of ensuring that the resources we send to the counties are not spent on matters which can be done by in-house lawyers, but who have got specific functions such as those spelt out in the County Attorneys Bill. Madam Temporary Speaker, I would agree with the Senate Majority Leader and we are practitioners of law, but it is true that sometimes no private institution would be prepared to pay the kind of fees that public institutions pay to lawyers. They are only paid through public institutions. In fact, I am afraid to say that some of the lawyers' fees sometimes are loaded, so that the beneficiaries are not just the lawyers. A lawyer with integrity, most often, will not be given some of these briefs because they will not share some of the fees which are paid to lawyers. If you look at the audits that have been carried out, you will see that a lot of money was paid to lawyers. I think I have done some of the most complicated cases in this country and I cannot imagine that I could charge obscene fees that I have seen very junior counsels being paid, including those that have been done by the County Government of Nairobi. In the counties, this is one of the areas where money is paid. In order to seal the loophole, I think this Office is important. At some point, we must have some kind of regulations which will set conditions under which county governments, just like the national Government, will justify sourcing or procuring services of a lawyer who is not part of the county government although there may be provisions in the County Governments Act which probably we will look at later but generally this is good. The only thing I would urge the counties to do is that if the Office if created, let them choose competent lawyers because they are now available. There are lawyers out there who are competent and it is important to choose competent people. There is a time we formed a committee co-chaired by the Senate Majority Leader and Sen. Mutula Kilonzo Jnr. and we said that vetting of appointments of officers in constitutional offices should be brought to the Senate because they are so important. Unless you get the right people through the process of vetting by Parliament, you may not get the kind of services that you require. Later on we complain about some of the constitutional commissions. What I am trying to say is that this is one of the things that the Senate is doing to enable counties get the right people. However, at the end of the day you may need to have regulations not only in relation to how a County Attorney will perform his or her functions but also if in the unlikely event that services are required from outside the county, because they may not have the skills or there could be areas where they need special professional advice, then that should be put clearly in the regulations. Without taking too much time, I hope that we will look at this Bill thoroughly at the time we will be considering clause by clause. I commend the Chairman who has been very active because his committee meets every day and I encourage him to continue with the good work. I think his is one of the committees that are portraying a good image out there. Initially, I felt that being my junior in the profession, I cannot be an ordinary Member in that committee but now I found him competent but as long as he does not enter into battles in Nandi and call for meetings when his is not there. Otherwise I congratulate him. I beg to support."
     },
     {
-      "order": 141,
+      "order": 140,
       "id": "entry-805147",
       "label": "speech",
       "level": "3",
@@ -1695,7 +1683,7 @@
       "text": "Thank you, Madam Temporary Speaker, for the opportunity to contribute to the Bill. This is a very important Bill. At the national level, the head of the Executive is the President and at the county level, the head of the executive is the governor. The President has the Attorney-General as the chief legal advisor and a county governor also needs a legal advisor. So, this Bill has come at the right time having been long overdue. Counties have been paying exorbitant fees in legal bills. Some of the pending bills we have heard that counties owe are because of the huge legal fees that have to be paid to the lawyers. With the Office of the County Attorney, the amount will be reduced and some of that money could be channeled to development projects. With the Office of the County Attorney, we will also see an improvement in the kind of legislation that comes from the county assemblies and that is laudable. County policies will also be checked by the Office of the County Attorney, so that as policies are implemented, they will be sure to have adhered to the Constitution and the clogs in the development process will be reduced. There are too many lawyers in Nairobi and other cities. Once we put the County Attorney Office in place, there will be need for some of the lawyers to go to the counties and, therefore, this will create jobs. The Office of the County Attorney will be working hand in hand with the Office of the County Printer whose Bill we passed this afternoon. This linkage will go towards strengthening devolution. As we proceed towards coming up with legislation to move services to the counties, we will be strengthening devolution, which is the core mandate of this Senate. With those few remarks, Madam Temporary Speaker, I beg to support."
     },
     {
-      "order": 142,
+      "order": 141,
       "id": "entry-805150",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1695,7 @@
       "text": "Hon. Senators, I see no further request. I, therefore, call upon the Mover to reply."
     },
     {
-      "order": 143,
+      "order": 142,
       "id": "entry-805151",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1707,7 @@
       "text": "Madam Temporary Speaker, I thank all Senators who have contributed. We have noted their concerns and we will ensure---"
     },
     {
-      "order": 144,
+      "order": 143,
       "id": "entry-805152",
       "label": "scene",
       "level": "3",
@@ -1731,7 +1719,7 @@
       "text": "(Sen. Olekina consulted with Sen. Orengo)"
     },
     {
-      "order": 145,
+      "order": 144,
       "id": "entry-805153",
       "label": "speech",
       "level": "3",
@@ -1743,7 +1731,7 @@
       "text": "I do not know why Sen. Olekina is excited. Is it because the World Cup is about to begin or because the opening match is a few minutes away? We have noted all concerns that have been raised by my colleagues. Since we want to improve the quality of legislative framework, we will endeavour to do our best. I agree largely with what most Senators have said concerning this Bill. As I indicated earlier that under Article 174 of the Constitution whose Part 1 is about Objects and Principles of Devolved Government, we should ensure that we always move with speed and assist the counties. I think one of the challenges counties are facing, apart from corruption and mismanagement of resources, is weak legislative and policy framework. I want to talk about the issue of experience. I know there are diverse opinions when it comes to experience that they need but the Committee proposed that it should be five years and not seven years. Secondly on the issues of money, we should put it that it \"shall\" and not \"may\" so that we protect the House. Another point that has been raised is that Senators should be included during presentation of annual reports. I agree that Senators are a key pillar because this will essentially form the basis of oversight that Members of County Assemblies (MCA) and Senators undertake at any given point. Madam Temporary Speaker, I want to agree that there are many important guidelines, comments or input that most of the colleagues have indicated. This Bill will go a long way. I want to agree with Members like Sen. Ledama ole Kina who is a member of the CPAIC and has said that counties are incurring a lot of expenses in outsourcing legal services and litigation fees. We are very grateful that the Chair is chairing the session very well and we are very impressed. One of the pending bills, and we discussed this during the Fifth Annual Devolution Conference and the Legislative Summit, and agreed that one of the most common ways in which money is misused in our counties is on legal fees and legal services. We do not have a proper law that guides such matters. I agree with the Senator for Narok regarding what should be done in instances where a county is involved in an international matter or issues that have an international aspect in nature. I am happy that my committee has a number of senior counsel like the Attorney-General Emeritus and Sen. Orengo, my senior. I want to thank him for that endorsement. I hope that endorsement will go a long way in ensuring that we become efficient and effective in the discharge of the mandate of this House and even politically that in future people will refer to those very kind words. So, I agree we need to look at that aspect. There were Senators who were wondering why it appears to be a closed shop for lawyers. The Chair is a long-term practitioner in the legal profession; Sen. Orengo is also one of the longest practising senior counsel in this country. I agree because of the nature of the work that we deal with. This is a very critical office where you cannot just bring in anybody. I am not trying to disparage or demean other professions; the profession of Sen. Ledama ole Kina, Sen. Were, among other professionals that assist us in this House or even elected Senators. What we are saying is critical, that involves the legal aspects of the on goings in the county governments. Madam Temporary Speaker, another issue that was raised was on the status of the County Attorney. It should be at the county government apex because most of the deliberations that are done by the CECs, governor and the county assembly need an informed legal advice or legal direction; even in the vetting and drafting of documents. I want to agree that it is important to have them as part of it. As a Committee, we had proposed that they require experience of seven years but when we deliberated with the Law Society of Kenya (LSK), because of the interest of ensuring a progressive growth within the legal profession, it came down to five years. As young people in this country, we are always interested in creating more opportunities for young people. We have another caucus with young lawyers associations across this country and their feeling has been that we need to ensure that we open other legal areas so that they can grow. I agree that experience sometimes is not good because once can be experienced in some bad things. I agree that we need to ensure that young people also have an opportunity. I know Senators who are here are always challenged by the issue of young people who do not have opportunities. This is one of the opportunities that we will have going forward. With regard to all those comments and proposals for amendments, I want to assure my colleagues that, as a Senate Committee, we will sit down and have a look at them. I have a well-balanced Justice and Legal Affairs Committee with Members who have serious legal experience in this country and who have served in various fields in the legal profession. Going forward, we will ensure that we factor in all that. Now that the national Budget has been read, I know county assemblies are now working on their county budgets upon the request from the county executives across country. It is important that I request and kindly call upon all my colleagues that we vote for this Bill so that we ensure it becomes an Act of Parliament. This will ensure we can allocate money as early as now so that we do not move to another financial year where we will be asking the CPAIC to summon county governments. One of the major pending bills has been outsourcing of legal services. I, therefore, request my colleagues that we expedite this process and vote for it so that county governments can allocate money for the same. The law is very clear on the issue of gifts and this is contained in the Anti- Corruption and Economic Crimes Act and the Leadership and Integrity Act. We want to put safeguards in place so that people are not given gifts like a nice car or house and land into problems. This Bill will ensure that the governor is given proper advice especially when investors come and they sweet talk the County Attorney so that they mislead the governor in some instances. There are many proposals; there is also a proposal to look into the gifts that State officers receive. I think the law has taken care of it. Finally, on the issue of leadership and integrity, my learned senior, Sen. Okong'o Omogeni, said that we do not need to reproduce it in the Second Schedule. I want to suggest that we look into that and factor all those proposals. Madam Temporary Speaker, finally the Senate is not going anywhere. All of us will be here. We might change professions; some might go back to farming, private practice or any other profession but the Senate is an institution that will outlive all of us. So anybody who in their wildest dreams and imaginations imagines that the Senate can be scrapped or sidelined - the moment you touch the Senate, you touch devolution. According to Article 96 one of the roles of the Senate is to protect the interests of counties and their governments. When you touch the Senate in any aspect, you are threatening devolution which has continued to pick momentum and made gains. Madam Temporary Speaker, I want to assure the Senate Majority Leader, who was my law lecturer way back, that if there is any way we will stand up for the Senate, we will do so until the last minute. During the retreat, the hon. Speaker said this is not the time to engage in supremacy battles between the National Assembly and the Senate. We want to tell our brothers that we are not interested in supremacy battles between the Senate and the National Assembly. What is important is service delivery to Kenyans, quality legislation, playing the oversight role, the protection of the counties interests and representation. Our people did not elect us to come to the Senate or the National Assembly to discuss who should be supreme or which direction Bills should go. We are now trying to profile the Senate so that Kenyans can appreciate the good work we are doing. In September, 2018, we will go to Uasin Gishu County which is my neighbouring county whereby we will tell Kenyans that the Senate has the interests of Kenyans at heart and will ensure devolution will go a long way. I urge my colleagues in the National Assembly that they do not need to sensationalize anything, run around and try to demean Senators and frustrate the agenda of the Senate because this Constitution is there to stay with us. Finally, the reason why some of us opposed the handshake at some given point in time is because there was talk of a referendum that was going to touch on the Constitution. We want to use this Constitution until we agree that by the time we are going for a referendum, we have agreed on many issues so that we do not need to amend it day in, day out. Therefore, in the spirit of the handshake, we want to tell our brothers in the National Assembly to allow us to work together for the benefit of all of us and the country. I beg to reply and request that you defer the vote. Thank you."
     },
     {
-      "order": 146,
+      "order": 145,
       "id": "entry-805160",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1743,7 @@
       "text": "Hon. Senators, I order that the putting of the question be deferred."
     },
     {
-      "order": 147,
+      "order": 146,
       "id": "entry-805161",
       "label": "scene",
       "level": "3",
@@ -1767,7 +1755,7 @@
       "text": "(Putting of the Question on the Bill deferred)"
     },
     {
-      "order": 148,
+      "order": 147,
       "id": "entry-805162",
       "label": "speech",
       "level": "3",
@@ -1779,7 +1767,7 @@
       "text": "I also order that further business be deferred to the next Order Paper."
     },
     {
-      "order": 149,
+      "order": 148,
       "id": "entry-805163",
       "label": "heading",
       "level": "1",
@@ -1791,7 +1779,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 150,
+      "order": 149,
       "id": "entry-805164-split-selected-43b60012-f5e7-40be-88c1-8fd0c84f7420",
       "label": "heading",
       "level": "3",
@@ -1803,7 +1791,7 @@
       "text": "REGISTRATION OF PERSONS WITH DISABILITIES"
     },
     {
-      "order": 151,
+      "order": 150,
       "id": "entry-805164-split-after-5a4248d8-1e3f-4d76-93bc-eb02a0076ab2",
       "label": "speech",
       "level": "3",
@@ -1815,7 +1803,7 @@
       "text": "THAT, AWARE that the National Council for Persons with Disabilities was established through the Persons with Disabilities Act, 2003; FURTHER AWARE that registration of persons living with disabilities is a function of the National Council for Persons with Disabilities; ALSO AWARE that persons living with disabilities are estimated to be about 10 per cent of any given population; COGNIZANT that for purposes of registration of persons living with disability, it is a mandatory requirement for one to undergo medical examination by a registered medical officer in a registered and certified health facility; CONCERNED that of the nearly four million Kenyans living with disabilities who reside in Kenya, there is a very small fraction of the number which is duly registered; AWARE that medical services are now a devolved function; FURTHER CONCERNED that without proper registration, many persons living with disabilities are denied services because they lack the necessary proof of disability; ALSO CONCERNED that owing to lack of accurate data on persons living with disabilities, the government at both levels cannot plan properly for this category of people; NOW THEREFORE, the Senate calls upon the National Council for Persons with Disabilities in collaboration with Ministry of East African Community, Labour and Social Protection and county governments, to carry out a nationwide registration of all persons living with disabilities in order to determine their exact population to facilitate effective service for this marginalized group of our society."
     },
     {
-      "order": 152,
+      "order": 151,
       "id": "entry-805167",
       "label": "scene",
       "level": "3",
@@ -1827,7 +1815,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 153,
+      "order": 152,
       "id": "entry-805170-split-selected-a6bc65bc-bfb6-4cf3-8fd2-26866dc5dbd1",
       "label": "heading",
       "level": "3",
@@ -1839,7 +1827,7 @@
       "text": "SITTING OF THE SENATE OUTSIDE PARLIAMENT BUILDINGS, NAIROBI"
     },
     {
-      "order": 154,
+      "order": 153,
       "id": "entry-805170-split-after-d69409be-0a41-46ac-aaea-073e84709b0c",
       "label": "speech",
       "level": "3",
@@ -1851,7 +1839,7 @@
       "text": "THAT AWARE that the Senate of Kenya is established by Article 93 of the Constitution and its main role, as set out in Article 96 of the Constitution, is to represent and serve the interests of the counties and their governments; FURTHER AWARE that the Senate plays a critical role in the linkage of the devolved governments and the national government; NOTING that since its inception the Senate has held its sittings in Nairobi with its committees occasionally visiting the devolved governments on fact finding missions; COGNIZANT of the need to enhance the interaction between the Senate and county governments as a means of bringing the Senate closer to the counties and the general public; APPRECIATING the recommendation of the Senate Business Committee that a Sitting of the Senate be held away from the traditional premises in Parliament Buildings, Nairobi, in order to- (i) provide an opportunity to members and staff of county assemblies to learn and borrow best practices from the Senate; (ii) promote the role and work of the Senate; (iii) highlight existing opportunities for people to get involved in the work of the Senate; and (iv) develop ad strengthen partnerships at the county level and enhance public awareness regarding the Business of the Senate. NOW THEREFORE, pursuant to Article 126 (1) of the Constitution and standing order 31(1) of the Senate Standing Orders, the Senate resolves that its plenary and committees sittings be held in Uasin Gishu County from 24th to 28th September, 2018."
     },
     {
-      "order": 155,
+      "order": 154,
       "id": "entry-805171",
       "label": "scene",
       "level": "3",
@@ -1863,7 +1851,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 156,
+      "order": 155,
       "id": "entry-805172-split-selected-de849236-bbea-46dc-9be6-2f2914ea0b3a",
       "label": "heading",
       "level": "3",
@@ -1875,7 +1863,7 @@
       "text": "FRAMEWORK TO PERMANENTLY ADDRESS EFFECTS OF FLOODS"
     },
     {
-      "order": 157,
+      "order": 156,
       "id": "entry-805172-split-after-dcd6aec1-da32-4c63-99e8-b01d58666498",
       "label": "speech",
       "level": "3",
@@ -1887,7 +1875,7 @@
       "text": "THAT, aware that several days of heavy rains recently have caused severe flooding in many parts of the country, resulting in multiple deaths and devastating damage to property and infrastructure; NOTING with concern that, whenever Kenya experiences periods of severe drought, torrential rains usually follow; CONCERNED that year in year out, the challenge of floods continues to recur, leading to loss of human and animal life, displacement of people and wanton destruction of property;"
     },
     {
-      "order": 158,
+      "order": 157,
       "id": "entry-805174",
       "label": "speech",
       "level": "3",
@@ -1899,7 +1887,7 @@
       "text": "COGNIZANT that the number of Kenyans needing emergency food aid as a result of displacement caused by the current floods continues to rise by the day, and that the floods have also washed away many bridges and destroyed roads in many parts of Kenya; ALSO CONCERNED that no effective measures, such as improved storm water harvesting, proper drainage infrastructure and preventing the destruction of riparian reserves and natural water courses, to mitigate and/or provide a lasting solution to the menace of flooding, have been taken; NOW THEREFORE, the Senate calls upon the National Government to develop a lasting framework to permanently address the challenge of effects of floods by, among other things- (i) developing and enforcing regulations for preventing the obstruction of riparian reserves and natural water courses; and (ii) preventing and regulating the construction of informal settlements and ensuring prevention of construction on low lying areas and flood plains. And further that the relevant Government agency to execute this task submits a report to the Senate within three months of the adoption of this Motion"
     },
     {
-      "order": 159,
+      "order": 158,
       "id": "entry-805175",
       "label": "scene",
       "level": "3",
@@ -1911,7 +1899,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 160,
+      "order": 159,
       "id": "entry-805176-split-selected-9e9c5840-e944-4e56-8cb7-1a39ec124ca0",
       "label": "heading",
       "level": "3",
@@ -1923,7 +1911,7 @@
       "text": "MANAGEMENT OF CONSTRUCTION CONTRACTORS"
     },
     {
-      "order": 161,
+      "order": 160,
       "id": "entry-805176-split-after-1a3d2418-2640-445b-b300-af86ba95ae55",
       "label": "speech",
       "level": "3",
@@ -1935,7 +1923,7 @@
       "text": "THAT, AWARE that Section 15 of the National Construction Authority (NCA) Act prescribes the requirements for registration as a contractor; ALSO AWARE that Section 18 of the Act mandates the NCA Board to accredit firms incorporated outside Kenya to carry out construction works in Kenya for a prescribed period; CONCERNED that a large number of registered local contractors cannot perform up to the expected standard leading to collapsed buildings, poor county roads and infrastructure and incomplete contracts; APPRECIATING that there is still a good number of local contractors that has demonstrated capacity to perform and deliver projects as required; DEEPLY CONCERNED that foreign contractors are now engaging in projects that local contractors have equal capacity and skill to perform, especially in the counties; RECOGNIZING THAT there is need to grow our local industries by giving job opportunities to Kenyan citizens and building their technical capacities;"
     },
     {
-      "order": 162,
+      "order": 161,
       "id": "entry-805178",
       "label": "speech",
       "level": "3",
@@ -1947,7 +1935,7 @@
       "text": "NOW THEREFORE, the Senate calls upon the Government through the NCA to- 1. conduct a fresh registration drive of all building and infrastructure contractors in order to weed out all non-performing ones and to identify those who demonstrate compliance; 2. enforce strict oversight on foreign contractors and institute a mechanism to handle complaints raised against contractors; 3. ensure that foreign contractors are only awarded contracts that local contractors cannot handle and require them to include technology transfer to locals; and, 4. require both local and foreign contractors to undertake corporate social responsibility activities in the counties where they operate."
     },
     {
-      "order": 163,
+      "order": 162,
       "id": "entry-805179",
       "label": "scene",
       "level": "3",
@@ -1959,7 +1947,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 164,
+      "order": 163,
       "id": "entry-805180-split-selected-55e9f4e0-bb82-43b5-b738-31f610cc40cc",
       "label": "heading",
       "level": "3",
@@ -1971,7 +1959,7 @@
       "text": "THE STATUS OF EDUCATION IN NORTHERN KENYA"
     },
     {
-      "order": 165,
+      "order": 164,
       "id": "entry-805180-split-after-4df66cf1-b53f-4f4e-a000-5bafb30e8e8a",
       "label": "speech",
       "level": "3",
@@ -1983,7 +1971,7 @@
       "text": "THAT, AWARE that Article 43 (f) of the Constitution of Kenya stipulates that every person has the right to education, and Article 53(1)(b) provides that every child has the right to free and compulsory basic education; ALSO AWARE that education is a basic need and a tool for intellectual empowerment and social-political development; FURTHER AWARE that education is a shared function between the national and the county levels of Government with the national Government being responsible for Primary, secondary and Higher education while the County Government is responsible for preprimary education, village polytechnics and home craft centers; COGNISANT that both levels of Government complement each other in promoting sustainable education; CONCERNED that the intake, uptake and quality of education in the Northern Kenya have adversely been affected owing to discrepancies in public resources allocation, insecurity, skewed staffing and teacher training in the region; FURTHER CONCERNED that both the school completion rate and the national examination outcomes in region are poor and that the number of students from Northern Kenya who qualify for core courses in universities, colleges, technical schools and village polytechnics is minimal compared to other parts of the country; NOTING WITH CONCERN that due to insecurity and other related concerns, the Teachers Service Commission (TSC) which is the body responsible for the employment and deployment of teachers, has in the recent past, taken steps to transfer non-local teachers from the northern region of Kenya to other parts of the country;"
     },
     {
-      "order": 166,
+      "order": 165,
       "id": "entry-805182",
       "label": "speech",
       "level": "3",
@@ -1995,7 +1983,7 @@
       "text": "CONCERNED THAT, the transfers have led to shortage of skilled teachers which has been a major cause of the dismal performance in examinations in schools in the region; NOW THEREFORE, the Senate resolves to task the Standing Committee on Education to conduct an inquiry into the challenges facing the education sector in Northern Kenya with a view to- 1. evaluating the effect of the teacher transfers from the region and recommending to the Ministry of Education, policy measures to address the challenge; 2. evaluating the status of the education infrastructure in the region and proposing solutions to mitigate the current and looming challenges; 3. proposing mechanisms for enhanced resource allocation at both levels of government to facilitate improved education facilities; and 4. assessing school intake compared completion levels in the region in order to ascertain the impact of the challenges facing the schools and how these disadvantages the region compared to other parts of Kenya and proposing ways of addressing the challenges. And that the Committee submits a report to the Senate within three months of adoption of this Motion by the Senate."
     },
     {
-      "order": 167,
+      "order": 166,
       "id": "entry-805183",
       "label": "scene",
       "level": "3",
@@ -2007,7 +1995,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 168,
+      "order": 167,
       "id": "entry-805184-split-selected-a65fff40-08ea-435b-bfb7-f077bb3b32ab",
       "label": "heading",
       "level": "3",
@@ -2019,7 +2007,7 @@
       "text": "ADOPTION OF REPORT ON  THE FIRST EXTRAORDINARY SESSION OF THE FP-ICGLR IN KINSHASA, DRC"
     },
     {
-      "order": 169,
+      "order": 168,
       "id": "entry-805184-split-after-5fbed848-89ee-4b7f-af84-988514d93181",
       "label": "speech",
       "level": "3",
@@ -2031,7 +2019,7 @@
       "text": "THAT, this House adopts the Report of the proceedings of the First Extraordinary Session of the Plenary Assembly of the Forum of Parliaments of Member States of the International Conference on the Great Lakes Region (FPICGLR)held in Kinshasa, Democratic Republic of Congo from 19th - 20th March,2018, laid on the Table of the Senate on Tuesday, 15th May, 2018."
     },
     {
-      "order": 170,
+      "order": 169,
       "id": "entry-805185",
       "label": "scene",
       "level": "3",
@@ -2043,7 +2031,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 171,
+      "order": 170,
       "id": "entry-805186-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -2055,7 +2043,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 172,
+      "order": 171,
       "id": "entry-805186",
       "label": "speech",
       "level": "1",

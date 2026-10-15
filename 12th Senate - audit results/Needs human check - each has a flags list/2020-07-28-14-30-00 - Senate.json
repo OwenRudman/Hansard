@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-07-28-14-30-00",
-  "exported_at": "2026-10-13T17:33:18.277Z",
+  "exported_at": "2026-10-15T19:31:22.328Z",
   "entries": [
     {
       "order": 1,
@@ -3744,22 +3744,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": "The results of the Division are follows.\n\nAYES:\n\n22\n\nNOES:\n\n25\n\nABSTENTIONS:"
+      "text": "The results of the Division are follows.\n\nAYES:\n\n22\n\nNOES:\n\n25\n\nABSTENTIONS:\n\nNil."
     },
     {
       "order": 313,
-      "id": "entry-1027244",
-      "label": "speech",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 314,
       "id": "entry-1027245",
       "label": "scene",
       "level": "2",
@@ -3771,7 +3759,7 @@
       "text": "(Question negatived by 25 votes to 22)"
     },
     {
-      "order": 315,
+      "order": 314,
       "id": "entry-1027246",
       "label": "scene",
       "level": "2",
@@ -3783,7 +3771,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 316,
+      "order": 315,
       "id": "entry-1027247",
       "label": "speech",
       "level": "2",
@@ -3795,7 +3783,7 @@
       "text": "Hon. Senators, the \"Noes\" have it. Therefore, we will resume the debate on the main Motion."
     },
     {
-      "order": 317,
+      "order": 316,
       "id": "entry-1027248",
       "label": "scene",
       "level": "2",
@@ -3807,7 +3795,7 @@
       "text": "(Resumption of Debate on the original Motion)"
     },
     {
-      "order": 318,
+      "order": 317,
       "id": "entry-1027249",
       "label": "scene",
       "level": "2",
@@ -3819,7 +3807,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 319,
+      "order": 318,
       "id": "entry-1027250",
       "label": "speech",
       "level": "2",
@@ -3831,7 +3819,7 @@
       "text": "Order, Senators! I am making that announcement knowing that there are amendments suggested by three Members. The amendments will be moved by one of them because they are similar. Proceed, Sen. Sakaja."
     },
     {
-      "order": 320,
+      "order": 319,
       "id": "entry-1027251",
       "label": "speech",
       "level": "2",
@@ -3843,7 +3831,7 @@
       "text": "Mr. Speaker, Sir, before I move my amendment to the Motion, I want to persuade my colleagues Sen. Mutula Kilonzo Jnr. and Sen Olekina to withdraw their amendments. However, I beg to move the following amendment: - THAT the Motion be amended by deleting the full stop at the end and inserting the following words- 'subject to the deletion of recommendation appearing as paragraph 26 of the Report and substituting therefor the following new recommendation- 26) The Senate resolves that pursuant to Article 217 (1) of the Constitution, the Third Basis for sharing revenue among counties, for the Financial Year 2020/2021 to 2024/2025 be as follows - a) Equitable share not exceeding Kshs. 316.50 billion The following formula shall apply CAi1= Allocation per County for FY 2019/20 b) Equitable share over and above Kshs. 316.50 billion The following formula shall apply CAi2\n\n=\n\n0.18*Population Indexi+ 0.17*Health Indexi+0.10* Agriculture Indexi+ 0.05*Urban Indexi+0.14* Poverty Indexi+ 0.08*Land Area Indexi +0.01*Fiscal Efforti+0.06*Roads Indexi+0.01* Prudence Indexi +0.20* Basic Share Indexi 4 Where,\n\nParameter Indicator of Expenditure Need Health services Health index- health facility-gaps (20%), three years average number of primary health care visits to levels 2 and 3 health facilities (60%)and three years average in-patient days in levels 4 and 5 hospitals (20%)\n\nAgriculture services\n\n4 The formula will use the 2019 population and 2015/16 KIHBS poverty statistics.\n\nOther county services\n\nMinimum share\n\nLand\n\nRoads\n\nPoverty level\n\nUrban service\n\nFiscal effort"
     },
     {
-      "order": 321,
+      "order": 320,
       "id": "entry-1027266",
       "label": "speech",
       "level": "2",
@@ -3855,7 +3843,7 @@
       "text": "Fiscal No. Variable Indicator Score Responsible Weighting prudence\n\n1"
     },
     {
-      "order": 322,
+      "order": 321,
       "id": "entry-1027268",
       "label": "speech",
       "level": "2",
@@ -3867,7 +3855,7 @@
       "text": "Audit Reports Non- 4 County Executiv CE=90% Qualified Assembly CA=10% Qualified 2 Adverse 0 Disclaimer 0\n\n2"
     },
     {
-      "order": 323,
+      "order": 322,
       "id": "entry-1027270",
       "label": "speech",
       "level": "2",
@@ -3879,7 +3867,7 @@
       "text": "Development At least 1 County 100% Expenditure 30% Government Below 0 30%\n\n4"
     },
     {
-      "order": 324,
+      "order": 323,
       "id": "entry-1027272",
       "label": "speech",
       "level": "2",
@@ -3891,7 +3879,7 @@
       "text": "Internal Audit In place 1 County Executiv CE=90% Committee Assembly CA=10%\n\n4"
     },
     {
-      "order": 325,
+      "order": 324,
       "id": "entry-1027274",
       "label": "speech",
       "level": "2",
@@ -3903,7 +3891,7 @@
       "text": "County Budget In place 1 County 100% Economic Forum Government Not In 0 place"
     },
     {
-      "order": 326,
+      "order": 325,
       "id": "entry-1027275",
       "label": "speech",
       "level": "2",
@@ -3915,7 +3903,7 @@
       "text": "c) Total Equitable share of a County The following formula shall apply TESi\n\n="
     },
     {
-      "order": 327,
+      "order": 326,
       "id": "entry-1027277",
       "label": "speech",
       "level": "2",
@@ -3927,7 +3915,7 @@
       "text": "CAi1+CAi2 Whereas; TESi\n\n="
     },
     {
-      "order": 328,
+      "order": 327,
       "id": "entry-1027279",
       "label": "speech",
       "level": "2",
@@ -3939,7 +3927,7 @@
       "text": "Total Equitable share of County i CAi1\n\n="
     },
     {
-      "order": 329,
+      "order": 328,
       "id": "entry-1027281",
       "label": "speech",
       "level": "2",
@@ -3951,7 +3939,7 @@
       "text": "Allocation per County for FY 2019/20"
     },
     {
-      "order": 330,
+      "order": 329,
       "id": "entry-1027282",
       "label": "speech",
       "level": "2",
@@ -3963,7 +3951,7 @@
       "text": "CAi2\n\n="
     },
     {
-      "order": 331,
+      "order": 330,
       "id": "entry-1027284",
       "label": "speech",
       "level": "2",
@@ -3975,7 +3963,7 @@
       "text": "Equitable share over and above Kshs. 316.50 billion"
     },
     {
-      "order": 332,
+      "order": 331,
       "id": "entry-1027285",
       "label": "speech",
       "level": "2",
@@ -3987,7 +3975,7 @@
       "text": "The basis used is as shown"
     },
     {
-      "order": 333,
+      "order": 332,
       "id": "entry-1027286",
       "label": "speech",
       "level": "2",
@@ -3999,7 +3987,7 @@
       "text": "No. Parameter Weight 1 Population 18% 2 Health 17% 3 Agriculture 10% 4 Urban 5% 5 Roads 6% 6 Poverty 14% 7 Land 8% capped 8 Basic Share 20% 9 Fiscal Effort 1% 10 Fiscal Prudence 1%"
     },
     {
-      "order": 334,
+      "order": 333,
       "id": "entry-1027287-split-selected-f6a5c8bc-825f-481f-88eb-f25d18e8cd2b",
       "label": "heading",
       "level": "2",
@@ -4011,7 +3999,7 @@
       "text": "FOR ILLUSTRATION ONLY"
     },
     {
-      "order": 335,
+      "order": 334,
       "id": "entry-1027287-split-after-b406c101-ef10-4edc-ba01-604e0550dbae",
       "label": "speech",
       "level": "2",
@@ -4023,7 +4011,7 @@
       "text": "Simulation using Equitable share of Kshs. 325.7 billion for FY 2021/22 (as per budget estimates FY 2020/21) using Committee proposal 1 for Illustration Purpose"
     },
     {
-      "order": 336,
+      "order": 335,
       "id": "entry-1027288",
       "label": "speech",
       "level": "2",
@@ -4035,7 +4023,7 @@
       "text": "No County Actual Allocations Additional 2020/21 allocation in FY 2021/22\n\n1"
     },
     {
-      "order": 337,
+      "order": 336,
       "id": "entry-1027290",
       "label": "speech",
       "level": "2",
@@ -4047,7 +4035,7 @@
       "text": "Baringo 5,095.65 164.90\n\n2"
     },
     {
-      "order": 338,
+      "order": 337,
       "id": "entry-1027292",
       "label": "speech",
       "level": "2",
@@ -4059,7 +4047,7 @@
       "text": "Bomet 5,507.10 172.10\n\n3"
     },
     {
-      "order": 339,
+      "order": 338,
       "id": "entry-1027294",
       "label": "speech",
       "level": "2",
@@ -4071,7 +4059,7 @@
       "text": "Bungoma 8,893.65 270.13\n\n4"
     },
     {
-      "order": 340,
+      "order": 339,
       "id": "entry-1027296",
       "label": "speech",
       "level": "2",
@@ -4083,7 +4071,7 @@
       "text": "Busia 6,013.50 182.45\n\n5"
     },
     {
-      "order": 341,
+      "order": 340,
       "id": "entry-1027298",
       "label": "speech",
       "level": "2",
@@ -4095,7 +4083,7 @@
       "text": "Elgeyo-Marakwet 3,861.30 115.20\n\n6"
     },
     {
-      "order": 342,
+      "order": 341,
       "id": "entry-1027300",
       "label": "speech",
       "level": "2",
@@ -4107,7 +4095,7 @@
       "text": "Embu 4,304.40 132.25\n\n7"
     },
     {
-      "order": 343,
+      "order": 342,
       "id": "entry-1027303",
       "label": "speech",
       "level": "2",
@@ -4119,7 +4107,7 @@
       "text": "Garissa 7,026.30 190.92\n\n8"
     },
     {
-      "order": 344,
+      "order": 343,
       "id": "entry-1027305",
       "label": "speech",
       "level": "2",
@@ -4131,7 +4119,7 @@
       "text": "Homa-Bay 6,741.45 189.83\n\n9"
     },
     {
-      "order": 345,
+      "order": 344,
       "id": "entry-1027307",
       "label": "speech",
       "level": "2",
@@ -4143,7 +4131,7 @@
       "text": "Isiolo 4,241.10 117.20\n\n10"
     },
     {
-      "order": 346,
+      "order": 345,
       "id": "entry-1027309",
       "label": "speech",
       "level": "2",
@@ -4155,7 +4143,7 @@
       "text": "Kajiado 6,424.95 207.43\n\n11"
     },
     {
-      "order": 347,
+      "order": 346,
       "id": "entry-1027311",
       "label": "speech",
       "level": "2",
@@ -4167,7 +4155,7 @@
       "text": "Kakamega 10,412.85 313.29\n\n12"
     },
     {
-      "order": 348,
+      "order": 347,
       "id": "entry-1027313",
       "label": "speech",
       "level": "2",
@@ -4179,7 +4167,7 @@
       "text": "Kericho 5,380.50 163.69\n\n13"
     },
     {
-      "order": 349,
+      "order": 348,
       "id": "entry-1027315",
       "label": "speech",
       "level": "2",
@@ -4191,7 +4179,7 @@
       "text": "Kiambu 9,431.70 308.37\n\n14"
     },
     {
-      "order": 350,
+      "order": 349,
       "id": "entry-1027317",
       "label": "speech",
       "level": "2",
@@ -4203,7 +4191,7 @@
       "text": "Kilifi 10,444.50 275.08\n\n15"
     },
     {
-      "order": 351,
+      "order": 350,
       "id": "entry-1027319",
       "label": "speech",
       "level": "2",
@@ -4215,7 +4203,7 @@
       "text": "Kirinyaga 4,241.10 136.46\n\n16"
     },
     {
-      "order": 352,
+      "order": 351,
       "id": "entry-1027321",
       "label": "speech",
       "level": "2",
@@ -4227,7 +4215,7 @@
       "text": "Kisii 7,785.90 218.52\n\n17"
     },
     {
-      "order": 353,
+      "order": 352,
       "id": "entry-1027323",
       "label": "speech",
       "level": "2",
@@ -4239,7 +4227,7 @@
       "text": "Kisumu 6,836.40 201.71\n\n18"
     },
     {
-      "order": 354,
+      "order": 353,
       "id": "entry-1027325",
       "label": "speech",
       "level": "2",
@@ -4251,7 +4239,7 @@
       "text": "Kitui 8,830.35 258.82\n\n19"
     },
     {
-      "order": 355,
+      "order": 354,
       "id": "entry-1027327",
       "label": "speech",
       "level": "2",
@@ -4263,7 +4251,7 @@
       "text": "Kwale 7,785.90 190.52\n\n20"
     },
     {
-      "order": 356,
+      "order": 355,
       "id": "entry-1027329",
       "label": "speech",
       "level": "2",
@@ -4275,7 +4263,7 @@
       "text": "Laikipia 4,177.80 136.33\n\n21"
     },
     {
-      "order": 357,
+      "order": 356,
       "id": "entry-1027331",
       "label": "speech",
       "level": "2",
@@ -4287,7 +4275,7 @@
       "text": "Lamu 2,595.30 80.17\n\n22"
     },
     {
-      "order": 358,
+      "order": 357,
       "id": "entry-1027333",
       "label": "speech",
       "level": "2",
@@ -4299,7 +4287,7 @@
       "text": "Machakos 7,754.25 232.84\n\n23"
     },
     {
-      "order": 359,
+      "order": 358,
       "id": "entry-1027335",
       "label": "speech",
       "level": "2",
@@ -4311,7 +4299,7 @@
       "text": "Makueni 7,406.10 195.41\n\n24"
     },
     {
-      "order": 360,
+      "order": 359,
       "id": "entry-1027337",
       "label": "speech",
       "level": "2",
@@ -4323,7 +4311,7 @@
       "text": "Mandera 10,222.95 250.32\n\n25"
     },
     {
-      "order": 361,
+      "order": 360,
       "id": "entry-1027339",
       "label": "speech",
       "level": "2",
@@ -4335,7 +4323,7 @@
       "text": "Marsabit 6,773.10 168.57\n\n26"
     },
     {
-      "order": 362,
+      "order": 361,
       "id": "entry-1027341",
       "label": "speech",
       "level": "2",
@@ -4347,7 +4335,7 @@
       "text": "Meru 8,039.10 236.25\n\n27"
     },
     {
-      "order": 363,
+      "order": 362,
       "id": "entry-1027343",
       "label": "speech",
       "level": "2",
@@ -4359,7 +4347,7 @@
       "text": "Migori 6,773.10 203.10\n\n28"
     },
     {
-      "order": 364,
+      "order": 363,
       "id": "entry-1027345",
       "label": "speech",
       "level": "2",
@@ -4371,7 +4359,7 @@
       "text": "Mombasa 7,057.95 180.39\n\n29"
     },
     {
-      "order": 365,
+      "order": 364,
       "id": "entry-1027347",
       "label": "speech",
       "level": "2",
@@ -4383,7 +4371,7 @@
       "text": "Murang'a 6,298.35 178.20\n\n30"
     },
     {
-      "order": 366,
+      "order": 365,
       "id": "entry-1027349",
       "label": "speech",
       "level": "2",
@@ -4395,7 +4383,7 @@
       "text": "Nairobi City 15,919.95 494.52\n\n31"
     },
     {
-      "order": 367,
+      "order": 366,
       "id": "entry-1027351",
       "label": "speech",
       "level": "2",
@@ -4407,7 +4395,7 @@
       "text": "Nakuru 10,476.15 332.22\n\n32"
     },
     {
-      "order": 368,
+      "order": 367,
       "id": "entry-1027353",
       "label": "speech",
       "level": "2",
@@ -4419,7 +4407,7 @@
       "text": "Nandi 5,348.85 183.14\n\n33"
     },
     {
-      "order": 369,
+      "order": 368,
       "id": "entry-1027355",
       "label": "speech",
       "level": "2",
@@ -4431,7 +4419,7 @@
       "text": "Narok 8,039.10 209.09\n\n34"
     },
     {
-      "order": 370,
+      "order": 369,
       "id": "entry-1027357",
       "label": "speech",
       "level": "2",
@@ -4443,7 +4431,7 @@
       "text": "Nyamira 4,810.80 121.30\n\n35"
     },
     {
-      "order": 371,
+      "order": 370,
       "id": "entry-1027360",
       "label": "speech",
       "level": "2",
@@ -4455,7 +4443,7 @@
       "text": "Nyandarua 4,874.10 143.03\n\n36"
     },
     {
-      "order": 372,
+      "order": 371,
       "id": "entry-1027362",
       "label": "speech",
       "level": "2",
@@ -4467,7 +4455,7 @@
       "text": "Nyeri 5,412.15 155.29\n\n37"
     },
     {
-      "order": 373,
+      "order": 372,
       "id": "entry-1027364",
       "label": "speech",
       "level": "2",
@@ -4479,7 +4467,7 @@
       "text": "Samburu 4,620.90 134.32\n\n38"
     },
     {
-      "order": 374,
+      "order": 373,
       "id": "entry-1027366",
       "label": "speech",
       "level": "2",
@@ -4491,7 +4479,7 @@
       "text": "Siaya 5,791.95 175.54\n\n39"
     },
     {
-      "order": 375,
+      "order": 374,
       "id": "entry-1027368",
       "label": "speech",
       "level": "2",
@@ -4503,7 +4491,7 @@
       "text": "Taita-Taveta 4,241.10 119.75\n\n40"
     },
     {
-      "order": 376,
+      "order": 375,
       "id": "entry-1027370",
       "label": "speech",
       "level": "2",
@@ -4515,7 +4503,7 @@
       "text": "Tana-River 5,855.25 156.01\n\n41"
     },
     {
-      "order": 377,
+      "order": 376,
       "id": "entry-1027372",
       "label": "speech",
       "level": "2",
@@ -4527,7 +4515,7 @@
       "text": "Tharaka-Nithi 3,924.60 98.91\n\n42"
     },
     {
-      "order": 378,
+      "order": 377,
       "id": "entry-1027374",
       "label": "speech",
       "level": "2",
@@ -4539,7 +4527,7 @@
       "text": "Trans-Nzoia 5,760.30 186.23\n\n43"
     },
     {
-      "order": 379,
+      "order": 378,
       "id": "entry-1027376",
       "label": "speech",
       "level": "2",
@@ -4551,7 +4539,7 @@
       "text": "Turkana 10,539.45 307.91\n\n44"
     },
     {
-      "order": 380,
+      "order": 379,
       "id": "entry-1027378",
       "label": "speech",
       "level": "2",
@@ -4563,7 +4551,7 @@
       "text": "Uasin-Gishu 6,330.00 212.02\n\n45"
     },
     {
-      "order": 381,
+      "order": 380,
       "id": "entry-1027380",
       "label": "speech",
       "level": "2",
@@ -4575,7 +4563,7 @@
       "text": "Vihiga 4,652.55 122.57\n\n46"
     },
     {
-      "order": 382,
+      "order": 381,
       "id": "entry-1027382",
       "label": "speech",
       "level": "2",
@@ -4587,7 +4575,7 @@
       "text": "Wajir 8,545.50 216.29\n\n47"
     },
     {
-      "order": 383,
+      "order": 382,
       "id": "entry-1027384",
       "label": "speech",
       "level": "2",
@@ -4599,7 +4587,7 @@
       "text": "West Pokot 5,000.70 161.43"
     },
     {
-      "order": 384,
+      "order": 383,
       "id": "entry-1027385",
       "label": "speech",
       "level": "2",
@@ -4611,7 +4599,7 @@
       "text": "Total 316,500.00 9,200.00"
     },
     {
-      "order": 385,
+      "order": 384,
       "id": "entry-1027386",
       "label": "speech",
       "level": "2",
@@ -4623,7 +4611,7 @@
       "text": "I will just mention two components of it, because the amendment is pretty straightforward. The import of the amendment is that in the previous financial year and in this current financial year, the amount of equitable share going to the counties has remained at Kshs316.5 billion. Everybody who spoke earlier, including Sen. Kang'ata, the Senate Majority Leader and Minority Leader, held that when they were pushing the earlier amendments, the basic principle that we all agree upon as a Senate is that no county should lose a shilling of its allocation. The formula then kicks in once we have devolved enough money to go to the counties."
     },
     {
-      "order": 386,
+      "order": 385,
       "id": "entry-1027387",
       "label": "scene",
       "level": "2",
@@ -4635,7 +4623,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 387,
+      "order": 386,
       "id": "entry-1027388",
       "label": "speech",
       "level": "2",
@@ -4647,7 +4635,7 @@
       "text": "The Senators who are standing, please, find a place to sit."
     },
     {
-      "order": 388,
+      "order": 387,
       "id": "entry-1027389",
       "label": "speech",
       "level": "2",
@@ -4659,7 +4647,7 @@
       "text": "Mr. Speaker, Sir, the formula is that for any amount of Kshs316.5 billion and below, the allocations shall be as per the 2019/2020 allocation to counties, and that does not change. If your county had Kshs8 billion, you will have a minimum of Kshs8 billion. If your county had Kshs10 billion, you will have a minimum of Kshs10 billion. Any amount above that, will then be applied based on the formula. The reason for doing this is because we have had to think as Kenyans and make painful decisions. I am the Senator for Nairobi City County. In the previous proposal of the Committee, my county was going to gain Kshs100 million, which is 0.6 per cent of our allocation. An amount of Kshs100 million here is not the same as Kshs100 million in Garissa, Turkana, Wajir or Tharaka-Nithi. What would it benefit the people of Nairobi - and many of the 4.3 million people that I represent also come from other counties - to gain 0.6 per cent and have our colleagues lose 25 per cent or 30 per cent of their budget? It will not be right and patriotic. Devolution is about this country. The Building Bridges Initiative (BBI), and I speak about this because I know where the heart of the President and that of the Former Prime Minister is, we cannot have cohesion without equalization of opportunities. A child in Mandera must have the same shot at life as the child in Makueni. There is no Kenya 'A' and Kenya 'B.' The notion that we have been having over the past few weeks that there are certain part of the country that have been giving to other parts of the country, is a fallacy and I will demonstrate it. We all belong to this country; one indivisible nation."
     },
     {
-      "order": 389,
+      "order": 388,
       "id": "entry-1027392",
       "label": "scene",
       "level": "2",
@@ -4671,7 +4659,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 390,
+      "order": 389,
       "id": "entry-1027393",
       "label": "speech",
       "level": "2",
@@ -4683,7 +4671,7 @@
       "text": "Mr. Speaker, Sir, if I go to the formula which came, I want to make it clear because Kenyans must know and we must debunk some of the myths that have been peddled. First, there was no Commission of Revenue Allocation (CRA) proposal before the House today. It was not the CRA formula; it was a formula that was originally CRAs' and amended by the Committee. Therefore, no one has rejected the CRA formula. Secondly, I need to be clear on this and I will demonstrate. With regard to the one man-one shilling principle, Nairobi would be the biggest beneficiary. However, there is no single proposal that has been brought to this House that is 'one man-one shilling.' If it was 'one man-one shilling,' Nairobi should be getting Kshs29.8 billion, but we are only getting Kshs15 billion. Many times, urban poverty burns more than rural poverty. For the people in Mathare and Kibra, if they do not have money, they cannot get a place to stay and food. So, the notion that people are being told that there is a 'one man- one shilling' formula is not true. I will demonstrate further. Mr. Speaker, Sir, one man-one shilling means the population of your county divided by the population of the country, multiplied by Kshs316.5 billion. People have been peddling a rumour that there are certain parts that have been treated unfairly because of not having 'one man-one shilling' allocation. According to 'one man-one shilling,' Kirinyaga County that has a population of 610,000 people should be getting Kshs4 billion. What did it get before and in what I am proposing? It is Kshs5.3 billion and Kshs4.2 billion above 'one man-one shilling.'"
     },
     {
-      "order": 391,
+      "order": 390,
       "id": "entry-1027394",
       "label": "scene",
       "level": "2",
@@ -4695,7 +4683,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 392,
+      "order": 391,
       "id": "entry-1027395",
       "label": "speech",
       "level": "2",
@@ -4707,7 +4695,7 @@
       "text": "Mr. Speaker, Sir, for Laikipia County with a population of 518,000 people, if it is 'one man-one shilling', it should be getting Kshs3.4 billion. However, Laikipia is getting Kshs4 billion in the first proposal and Kshs5 billion in the second proposal. Do we want 'one man-one shilling' to reduce the allocation to Laikipia or Kirinyaga? Let me show you Nyeri County because the Senator is here. Nyeri has a population of 759,000. You have been receiving Kshs5.4 billion and the new proposal is Kshs6 billion. If it is 'one man-one shilling,' Sen. (Eng.) Maina, you will receive Kshs5 billion, which is Kshs1 billion less. We must demystify this notion. If it was one man-one shilling, Kiambu County should be getting Kshs16 billion, yet they are getting Kshs10 billion. It is good for us to disabuse this notion because there are people out there fighting us saying that we do not support the agenda of the President. That is not true. That is conjecture and warped logic. Mr. Speaker, Sir, let me give you the last example---"
     },
     {
-      "order": 393,
+      "order": 392,
       "id": "entry-1027398",
       "label": "speech",
       "level": "2",
@@ -4719,7 +4707,7 @@
       "text": "On a point of order, Mr. Speaker."
     },
     {
-      "order": 394,
+      "order": 393,
       "id": "entry-1027399",
       "label": "speech",
       "level": "2",
@@ -4731,7 +4719,7 @@
       "text": "Order, Sen. Sakaja. There is a point of order from Sen. Wamatangi."
     },
     {
-      "order": 395,
+      "order": 394,
       "id": "entry-1027400",
       "label": "speech",
       "level": "2",
@@ -4743,7 +4731,7 @@
       "text": "Thank you, Mr. Speaker, Sir. Is the Senator for Nairobi City County in order to offer the misleading explanation he is giving about the one man, one vote, one shilling concept? That concept has been advanced by the people of Mt. Kenya. He has mentioned Kiambu County which I represent. It is a progressive agenda that we have picked as the starting point. We have been very loud and clear. Today, even if this formula was to pass the way it is, Kiambu County would get the allocation it was going to get and being called a gainer, each person in Kiambu has a per capita allocation. The allocation to each individual would have been Kshs4,700. This is when there are counties still in the same formula, for example, Tana River and Lamu who would be receiving Kshs21,000 and others Kshs19,000. The Senator for Nairobi City County is out of order because he has not first understood the concept and the mission of 'one man-one shilling'."
     },
     {
-      "order": 396,
+      "order": 395,
       "id": "entry-1027401",
       "label": "speech",
       "level": "2",
@@ -4755,7 +4743,7 @@
       "text": "Mr. Speaker, Sir, let me just leave that because it is not about understanding the concept. In the Republic of Kenya, I was the first person to write on fiscal decentralization more than ten years ago. I understand this formula very well. The examples I am giving are for illustrative purposes. Lastly, and I was going to give you a different county, for example, Siaya County, which is Sen. Orengo's county, with 900,000 people if it is 'one man-one shilling', it will get Kshs6.6 billion and they have been getting Kshs6.7 billion. These discrepancies are there. Mr. Speaker, Sir, the point I am making is in the initial formula, the highest per capita allocation was going to Lamu County at Kshs27,000 and the lowest was Nairobi City County at Kshs3,300 or there about. Even in this formula by the Committee, the highest per capita was still Kshs21,000 and Kshs3,500. The point is: If both formulas are not addressing one man-one shilling concept, and are not reducing the per capita discrepancy, why should we go with a formula that is hurting counties? That is political treason for these Members. I gave an example. If tomorrow Sen. Cherargei or Sen. (Dr.) Lelegwe go to their counties having lost Kshs500 million and the governor says: \"In this budget I wanted to give you people bursaries of Kshs500 million, but it is not there; go and find it from your Senator.\" What does it gain us to benefit two per cent when he is losing all of that percentage? Mr. Speaker, Sir, I want to move on to the part of the variables of that formula which I found completely wrong. Allow me to talk about my county. First, when we talk about health, that the variable is measuring how many people visit hospitals. What do you do to the counties that do not have hospitals to be visited, in the first place? That county will never ever rate anywhere on that health variable. You cannot use the number of outpatient visits to measure who needs hospitals. You need to see how many hospitals exist in those counties per person. Look at a variable like poverty index. I have spoken about this repeatedly for the last ten years. Poverty index is a measure of darkness. The world over, we have moved from poverty index and we use what we call human development index which tells you access to the actual facilities for which we were devolving funds. Mr. Speaker, Sir, in India, they even have something they call provincial Gross Domestic Product (GDP) as a key variable to help some of the states or provinces that are producing to also be encouraged to produce more. That is how we should have gone. I want the people of Nairobi City County to hear me very clearly. In the agriculture variable, Nairobi City County has been given nothing because of the notion that there is no agriculture in Nairobi City County. The allocation for agricultural activities in Nairobi City County is only Kshs40 million. If you go to Dagoretti South Constituency, you will see, for example, in Uthiru, Ruthimitu, Mutuini and Waithaka, people do more agriculture than some counties combined. There is a lot of agricultural activity in Njiru and Ruai in Kasarani Constituency and also in Karen. This formula has such a myopic view of agriculture because agriculture is end to end. The biggest market for agricultural produce in this country is Nairobi City County. It is a pity agricultural activity has been allocated Kshs40 million only. All the livestock from North Eastern is brought to Kiamaiko and Dagoretti markets. All your foodstuffs come to Wakulima Market. Are we saying then that there is no agriculture going on in Nairobi? We must never have a formula that advocates for such voodoo variables. There are studies that have been done to show that if we invest in storage in Nairobi as agriculture, it reduces post-harvest loses across by 80 per cent. We need to have a better view of what fiscal transfer to counties is. Nairobi City County does 15,000 extension visits every year yet we are being given Kshs40 million. All in all, a lot of those variables were not objective. We were not able as a Senate to understand how those statistics were arrived at. The real one man, one shilling formula has not been brought in this House. The day I will see it, I will support it if Nairobi will get the Kshs30 billion that it deserves. For now, for the sake of this country, we cannot allow any part of Kenya to be left behind or to feel less Kenyan than the other."
     },
     {
-      "order": 397,
+      "order": 396,
       "id": "entry-1027408",
       "label": "scene",
       "level": "2",
@@ -4767,7 +4755,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 398,
+      "order": 397,
       "id": "entry-1027409",
       "label": "speech",
       "level": "2",
@@ -4779,7 +4767,7 @@
       "text": "That is why today we are wearing the Kenyan ties because we have said it is team Kenya. I would rather not get that Kshs100 million more and defer my gratification to day when Nairobi will get the KShs15 billion extra it deserves, but safe 19 or 20 other counties. Mr. Speaker, Sir, I know the Collective Bargaining Agreement (CBA) negotiation because I am the Chairperson of the Senate Committee on Labour and Social Welfare. Counties will start paying higher salaries to doctors, but we are reducing their money during this COVID-19 period."
     },
     {
-      "order": 399,
+      "order": 398,
       "id": "entry-1027411",
       "label": "scene",
       "level": "2",
@@ -4791,7 +4779,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 400,
+      "order": 399,
       "id": "entry-1027412",
       "label": "speech",
       "level": "2",
@@ -4803,7 +4791,7 @@
       "text": "I have sat with the Parliamentary Budget Office (PBO) - an office to which we do not give enough credit - they have told us honestly that in the next financial year, it will be foolhardy to imagine that we will go above Kshs316.5 billion. There will be no enough money. There is a false narrative that some counties get a lot of money. Nairobi City County is given Kshs15.8 billion while our payroll in a year is KShs18 billion. It is more than the Kshs15.8 billion. In the past financial year, we raised only Kshs8 billion. The operation and maintenance budget in Nairobi City County alone is close to Kshs5 billion. A county of 4.3 million, 17 constituencies and 85 wards has less that Kshs5 billion for development, with the depth of the poverty. Until we get to a level where we are devolving Kshs400 billion or Kshs500 billion, nobody can say that any part of this country is getting money that it does not deserve. That is devolution. That is the true BBI and the true positon of our party leadership. Even in two years when the money increases, with two-thirds we can come to this House and amend this formula. For now, let us be our brothers' keepers. The Bible says, \"What does it benefit a man to gain the whole world and lose his soul?\" What will it benefit you to gain Kshs50 million extra for your county and we lose the unity of this country? Mr. Speaker, Sir, truly we have costed functions. Everybody talks about dividing the pie; that is what we are doing here today, but no one is talking of how we bake a bigger pie for this country. We have a CRA. We will soon need a Commission for Revenue Generation (CRG) in this country because we must start thinking of how to increase revenue and own-source revenue in counties. We must stop this issue of each governor having his or her own Information Technology (IT) system because that is where the corruption is. As a Senate, we must make sure the monies we are giving to counties are utilized properly. I heard people saying that governors in certain parts of the country are the ones stealing. That is an unfair assessment. Everybody is stealing across the country and we need to condemn it in full. We cannot say that theft is rife in certain parts of the country and yet there is theft in our own backyards. There has been theft in Nairobi. In fact, most of the impeachments have come from Central Kenya. There has been theft in Nyanza and in the Coast. Let us remember we have one indivisible country. I know Members want to vote quickly because the mood in the House is palpable. In the words of Sen. Gideon Moi, Alea iacta est \"The die is cast\". I want to tell Senators, please vote with your conscience. I want to assure Members that this vote is not a vote against the Government; because I support this Government. I was the founding Chairman of The National Alliance (TNA). When the formula first came to this House, Sen. Wetangula was in the other House. It was brought by the Minister for Finance. The Minister of Finance then was President Uhuru Kenyatta. The President was Hon. Mwai Kibaki. That first formula was brought and I can tell you in his heart of hearts, the President supports devolution and he will never push an agenda that pits ones of part of Kenya against the other. Hon. Members here should stop fearmongering and telling us t umeitwa ; we have been called. There is no such thing. He would have called me himself. This is in support of his agenda; BBI, uniting Kenya from Habaswein to Vanga, from Turkana to Lamu and from Kisumu to Nyeri; one Kenya. Mr. Speaker, Sir, I beg to move and ask Sen. Olekina to second."
     },
     {
-      "order": 401,
+      "order": 400,
       "id": "entry-1027421",
       "label": "speech",
       "level": "2",
@@ -4815,7 +4803,7 @@
       "text": "Mr. Speaker, Sir, I rise to second the Motion to amend the Committee Report. I will be very brief to the point because the distinguished Senator for Nairobi County has completely demystified the myth. Mr. Speaker, Sir, the reason why I support this amendment is because of one, it is illegal for a county like Turkana or Marsabit which is over 70,000 square kilometres to be reduced into a square root of 266. In that parameter alone, that county loses Kshs1.5 billion. It is evil. We must be our brother's keepers. When I came into this House, I said I am proud to be in this House because this is the House of union. If we are the House of union, it will be wrong for one county to gain, yet the people of Turkana just on the land parameter alone, we will lose Kshs1.4 billion. Mr. Speaker, Sir, the second reason why I support the amendment by Sen. Sakaja is because of the way that the Committee played around in terms of the parameters we have."
     },
     {
-      "order": 402,
+      "order": 401,
       "id": "entry-1027422",
       "label": "scene",
       "level": "2",
@@ -4827,7 +4815,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 403,
+      "order": 402,
       "id": "entry-1027423",
       "label": "speech",
       "level": "2",
@@ -4839,7 +4827,7 @@
       "text": "Hon. Senators, let us consult in low tones! Please Senators, observe social distancing. Kindly, proceed."
     },
     {
-      "order": 404,
+      "order": 403,
       "id": "entry-1027424",
       "label": "speech",
       "level": "2",
@@ -4851,7 +4839,7 @@
       "text": "Mr. Speaker, Sir, when you come and lie to the public that you have the CRA formula and you are now playing around with figures, you amend it and you raise it and give it a weight of 20 per cent then three counties take all the money; that is, Kirinyaga, Kakamega and Bungoma. It would have been a different story if we would have stuck with the issue of CRA. That is why in this amendment, the weight that we gave was the 17 per cent on health because it is in line with the Abuja Declaration. Mr. Speaker, Sir, the third point which is the last point for me to allow Members to vote is on the issue of agriculture. The Committee played with the weight and they raised it to 12 per cent. When they did that, they took away money from urban centres like Nairobi and Mombasa which benefit from the urban parameter. For the sake of the unity of this nation, I want to see Narok County receiving Kshs8 billion which they received last year for the next few years until the time that we can generate more money. I want to see the County of Kirinyaga getting what they got this year, which is Kshs4.2 billion. I want to see Lamu County getting at the minimum the amount of money they received this year, which was Kshs2.5 billion.\n\nThe Speaker (Hon. Lusaka) left the Chair]"
     },
     {
-      "order": 405,
+      "order": 404,
       "id": "entry-1027428",
       "label": "scene",
       "level": "2",
@@ -4863,7 +4851,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kamar) in the Chair]"
     },
     {
-      "order": 406,
+      "order": 405,
       "id": "entry-1027429",
       "label": "speech",
       "level": "2",
@@ -4875,7 +4863,7 @@
       "text": "Madam Deputy Speaker, Article 203 of the Constitution is very clear. When dividing revenue, we must take certain factors into consideration. The marginalized counties have been marginalized for too long. We cannot be the House that continues to kill devolution. We must stand with our people; from Turkana to Rombo in Kajiado. With those few remarks, I second."
     },
     {
-      "order": 407,
+      "order": 406,
       "id": "entry-1027430",
       "label": "speech",
       "level": "2",
@@ -4887,7 +4875,7 @@
       "text": "Put the question!"
     },
     {
-      "order": 408,
+      "order": 407,
       "id": "entry-1027431",
       "label": "speech",
       "level": "2",
@@ -4899,7 +4887,7 @@
       "text": "Order Members! You cannot tell me to put a question to something that has not been proposed. Let us do things in order. This is a House of order."
     },
     {
-      "order": 409,
+      "order": 408,
       "id": "entry-1027432",
       "label": "scene",
       "level": "2",
@@ -4911,7 +4899,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 410,
+      "order": 409,
       "id": "entry-1027433",
       "label": "speech",
       "level": "2",
@@ -4923,7 +4911,7 @@
       "text": "Thank you, Madam Deputy Speaker. I rise to oppose this Motion by my very able and distinguished Senator, who we were nominated together in the National Assembly, Sen. Sakaja. There have been a lot of contestations as to why we are debating this Motion. When you look at the history of this country, the making of Kenya as a nation was for extractive purposes by the colonialist. Indeed, they were able to extract and expropriate a lot of resources to the Crown in London. Upon Independence, with the advent of the Kenya African National Union (KANU) and Kenya African Democratic Union (KADU), there was a big debate about whether we should give monies at the centre or to the\n\nMajimbo\n\nsystem. It is on record that when Majimbo systems were told to generate their own resources they were not able to do so. The late Julius Kambarage Nyerere is on record having said that there is a big challenge of having only one centre because if you make the mistake at it, it affects the whole country. There is a clear case to justify why we should have many centres, hence the advent of our counties. However, it is true that the Sessional Paper No.10 of 1965 may have abrogated and allocated resources where the rail had passed. Indeed, the 2010 Constitution provided for counties."
     },
     {
-      "order": 411,
+      "order": 410,
       "id": "entry-1027436",
       "label": "scene",
       "level": "2",
@@ -4935,7 +4923,7 @@
       "text": "(Several Senators approached the Dispatch Box)"
     },
     {
-      "order": 412,
+      "order": 411,
       "id": "entry-1027438",
       "label": "speech",
       "level": "2",
@@ -4947,7 +4935,7 @@
       "text": "Order! Hon. Senators, you are crowding the Dispatch Box."
     },
     {
-      "order": 413,
+      "order": 412,
       "id": "entry-1027439",
       "label": "speech",
       "level": "2",
@@ -4959,7 +4947,7 @@
       "text": ".: On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 414,
+      "order": 413,
       "id": "entry-1027440",
       "label": "speech",
       "level": "2",
@@ -4971,7 +4959,7 @@
       "text": "What is your point of order, Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 415,
+      "order": 414,
       "id": "entry-1027441",
       "label": "speech",
       "level": "2",
@@ -4983,7 +4971,7 @@
       "text": ".: Madam Deputy Speaker, I am afraid there is a technicality that is going to put us in an awkward position. We asked the Speaker to make a ruling about the time. It is 10 minutes to 9.00 p.m. and we are not going to postpone this discussion. The police officers had better be outside Parliament to arrest us. The ruling we want from you---"
     },
     {
-      "order": 416,
+      "order": 415,
       "id": "entry-1027442",
       "label": "speech",
       "level": "2",
@@ -4995,7 +4983,7 @@
       "text": "Order, Sen. Mutula Kilonzo Jnr.! Why are you prescribing on a point of order? You cannot prescribe to the Deputy Speaker how you are ready to be arrested. I can see another point of order from Sen. (Dr.) Langat."
     },
     {
-      "order": 417,
+      "order": 416,
       "id": "entry-1027443",
       "label": "speech",
       "level": "2",
@@ -5007,7 +4995,7 @@
       "text": "On a point of order, Madam Deputy Speaker. I do not know why my friend, Sen. Mutula Kilonzo Jnr., is anticipating that we are going beyond time thus trying to tell us that we should hurry this debate. We would like to be given enough time to ventilate on this issue. I suggest that we adjourn at 9.00 p.m. which is the official curfew time, and pick up this debate later."
     },
     {
-      "order": 418,
+      "order": 417,
       "id": "entry-1027444",
       "label": "speech",
       "level": "2",
@@ -5019,7 +5007,7 @@
       "text": "No! No! No!"
     },
     {
-      "order": 419,
+      "order": 418,
       "id": "entry-1027445",
       "label": "speech",
       "level": "2",
@@ -5031,7 +5019,7 @@
       "text": "Madam Deputy Speaker, we must follow the COVID-19 protocols because we are risking the lives of other people."
     },
     {
-      "order": 420,
+      "order": 419,
       "id": "entry-1027446",
       "label": "speech",
       "level": "2",
@@ -5043,7 +5031,7 @@
       "text": "No! No! No!"
     },
     {
-      "order": 421,
+      "order": 420,
       "id": "entry-1027447",
       "label": "speech",
       "level": "2",
@@ -5055,7 +5043,7 @@
       "text": "What is your point of order, Sen. Wambua?"
     },
     {
-      "order": 422,
+      "order": 421,
       "id": "entry-1027448",
       "label": "speech",
       "level": "2",
@@ -5067,7 +5055,7 @@
       "text": "On a point of order, Madam Deputy Speaker. The matter raised by the Senator for Makueni County on a point of order is important. Sen. Mutula Kilonzo Jnr. wanted to know the determination as was promised by the Speaker. The issue came up when the Speaker was on the Chair because we needed to extend the time of sitting until such a time when we will have completed this debate. The Speaker was supposed to make ruling on that matter."
     },
     {
-      "order": 423,
+      "order": 422,
       "id": "entry-1027449",
       "label": "speech",
       "level": "2",
@@ -5079,7 +5067,7 @@
       "text": "What is your point of order, Sen. Cherargei?"
     },
     {
-      "order": 424,
+      "order": 423,
       "id": "entry-1027450",
       "label": "speech",
       "level": "2",
@@ -5091,7 +5079,7 @@
       "text": "Madam Deputy Speaker, it is good to be honest. When the President issued the latest protocols of the COVID-19---"
     },
     {
-      "order": 425,
+      "order": 424,
       "id": "entry-1027451",
       "label": "speech",
       "level": "2",
@@ -5103,7 +5091,7 @@
       "text": "No! No! No!"
     },
     {
-      "order": 426,
+      "order": 425,
       "id": "entry-1027452",
       "label": "speech",
       "level": "2",
@@ -5115,7 +5103,7 @@
       "text": "Madam Deputy Speaker, they cannot shout me down. This is not a market place."
     },
     {
-      "order": 427,
+      "order": 426,
       "id": "entry-1027453",
       "label": "scene",
       "level": "2",
@@ -5127,7 +5115,7 @@
       "text": "(Loud Consultations)"
     },
     {
-      "order": 428,
+      "order": 427,
       "id": "entry-1027455",
       "label": "speech",
       "level": "2",
@@ -5139,7 +5127,7 @@
       "text": "Order, Senators! Please take your seats. This is a House of order. Sen. Mutula Kilonzo Jnr. requested me to make a ruling, but I can see more points of order."
     },
     {
-      "order": 429,
+      "order": 428,
       "id": "entry-1027456",
       "label": "speech",
       "level": "2",
@@ -5151,7 +5139,7 @@
       "text": ".: Make a ruling!"
     },
     {
-      "order": 430,
+      "order": 429,
       "id": "entry-1027457",
       "label": "speech",
       "level": "2",
@@ -5163,7 +5151,7 @@
       "text": "Sen. Mutula Kilonzo Jnr., you cannot tell me to make a ruling when you know that other Members have a right as well."
     },
     {
-      "order": 431,
+      "order": 430,
       "id": "entry-1027458",
       "label": "scene",
       "level": "2",
@@ -5175,7 +5163,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 432,
+      "order": 431,
       "id": "entry-1027459",
       "label": "speech",
       "level": "2",
@@ -5187,7 +5175,7 @@
       "text": "I will allow other Members to raise their points of order before I make a ruling. Hon. Senators, kindly allow Sen. Cherargei to finish raising his point of order."
     },
     {
-      "order": 433,
+      "order": 432,
       "id": "entry-1027460",
       "label": "speech",
       "level": "2",
@@ -5199,7 +5187,7 @@
       "text": "Madam Deputy Speaker, we have agreed that COVID-19 is a serious pandemic and the President issued protocols. He was emphatic that the curfew time is 9.00 p.m. He said that no one should be exempted. In fact, he said a mheshimiwa . Therefore, we must follow the health protocols. We cannot be leaders who are breaking the rules. What example will we be showing the country? The curfew starts at 9.00 p.m. and we must go home. That is my concern."
     },
     {
-      "order": 434,
+      "order": 433,
       "id": "entry-1027461",
       "label": "scene",
       "level": "2",
@@ -5211,7 +5199,7 @@
       "text": "(Several Senators consulted loudly)"
     },
     {
-      "order": 435,
+      "order": 434,
       "id": "entry-1027462",
       "label": "speech",
       "level": "2",
@@ -5223,7 +5211,7 @@
       "text": "Order, Hon. Senators! There are 15 Members who want to contribute to this Motion and it is their right. I also have six Members who have points of order. This is a House of order. Tomorrow is another day. I do not want us to abuse the process of this House. Let us respect the process of the House and let us allow those who have points of order to raise them. It is not fair for you give your point of order then expect us to skip another Member. I proposed the question and the first Member who wanted to contribute to the Motion was interrupted. Nobody has contributed to the Motion other than the Mover and the Seconder. I want to have a feel of the points of orders."
     },
     {
-      "order": 436,
+      "order": 435,
       "id": "entry-1027463",
       "label": "speech",
       "level": "2",
@@ -5235,7 +5223,7 @@
       "text": "Ahsante sana, Bi Naibu Spika. Sisi ni watumishi wa kaunti zetu na tuko hapa kufanya kazi. Sisi ni essential workers . Hii ni hoja ya nidhamu. Kwa hivyo, ni vyema uongeze wakati ndiposa tuweze kujadili Hoja hii ambayo ni muhimu kwa maisha ya Wakenya."
     },
     {
-      "order": 437,
+      "order": 436,
       "id": "entry-1027464",
       "label": "speech",
       "level": "2",
@@ -5247,7 +5235,7 @@
       "text": "Point taken. Sen. Murkomen, you were on a point of order."
     },
     {
-      "order": 438,
+      "order": 437,
       "id": "entry-1027465",
       "label": "speech",
       "level": "2",
@@ -5259,7 +5247,7 @@
       "text": "Madam Deputy Speaker, the issue before you is very simple. There was a Motion that was proposed by Sen. Khaniri and it was passed by this House. It was passed that the Senate will only adjourn if the business in the Order Paper is completed. Anyone desirous of cutting the debate time should use the Standing Orders. Anyone questioning the legal framework that governs our stay here should know that we are governed by the Standing Orders. Let us not be coarse just because we are losing a debate. Let us not cut short the procedures of this House. That is because you are either on this side today, and the other side tomorrow. We should stick to the Standing Orders."
     },
     {
-      "order": 439,
+      "order": 438,
       "id": "entry-1027467",
       "label": "speech",
       "level": "2",
@@ -5271,7 +5259,7 @@
       "text": "Sen. Murkomen, do not go that direction."
     },
     {
-      "order": 440,
+      "order": 439,
       "id": "entry-1027468",
       "label": "speech",
       "level": "2",
@@ -5283,7 +5271,7 @@
       "text": "Madam Deputy Speaker, I am surprised that the Senators are talking of how long our Standing Orders allows us to stay here yet they are all aware that the President of the Republic of Kenya, President Uhuru Kenyatta, directed that not even the waheshimiwa are above the law. The Senate should adjourn at 9.00 p.m. Tomorrow is another day."
     },
     {
-      "order": 441,
+      "order": 440,
       "id": "entry-1027471",
       "label": "scene",
       "level": "2",
@@ -5295,7 +5283,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 442,
+      "order": 441,
       "id": "entry-1027472",
       "label": "speech",
       "level": "2",
@@ -5307,7 +5295,7 @@
       "text": "The last point of order is from Sen. Halake, and then I will rule."
     },
     {
-      "order": 443,
+      "order": 442,
       "id": "entry-1027473",
       "label": "speech",
       "level": "2",
@@ -5319,7 +5307,7 @@
       "text": "Madam Deputy Speaker, thank you very much. I do not know what the debate is about because if lateness is what we are talking about, we are already late. We are already late. This House should conclude on what it is supposed to be doing today. The issue has been overtaken by events, and, therefore, let us continue. Do not run away because you are sensing defeat."
     },
     {
-      "order": 444,
+      "order": 443,
       "id": "entry-1027474",
       "label": "scene",
       "level": "2",
@@ -5331,7 +5319,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 445,
+      "order": 444,
       "id": "entry-1027475",
       "label": "speech",
       "level": "2",
@@ -5343,7 +5331,7 @@
       "text": "Hon, Senators, I am going to make a ruling. I thought we had become very orderly and serious. The country is watching."
     },
     {
-      "order": 446,
+      "order": 445,
       "id": "entry-1027476",
       "label": "scene",
       "level": "2",
@@ -5355,7 +5343,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 447,
+      "order": 446,
       "id": "entry-1027477",
       "label": "scene",
       "level": "2",
@@ -5367,7 +5355,7 @@
       "text": "(Sen. Omogeni and Sen. M. Kajwang' stood up in their places)"
     },
     {
-      "order": 448,
+      "order": 447,
       "id": "entry-1027478",
       "label": "speech",
       "level": "2",
@@ -5379,7 +5367,7 @@
       "text": "Order, Senators Omogeni and M. Kajwang'. Can you take your seats? Hon. Senators, this is a discussion that has been with us for a very long time. As a Member said, this discussion has come before us six times and it has been thrown out. You cannot blame anybody expect the Senators themselves. We need to blame ourselves first instead of creating a crisis out of a situation that we could have saved. Hon. Senators, I want to appeal to you. The number of Senators who want to contribute to this Motion is 12. We allowed three hours for the first amendment that we had. We were extremely fair to Sen. Kang'ata's amendment. It would be extremely unfair not to give the amendment by Sen. Sakaja the right time."
     },
     {
-      "order": 449,
+      "order": 448,
       "id": "entry-1027479",
       "label": "scene",
       "level": "2",
@@ -5391,7 +5379,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 450,
+      "order": 449,
       "id": "entry-1027480",
       "label": "speech",
       "level": "2",
@@ -5403,7 +5391,7 @@
       "text": "We need another three hours. That is the first point. I have ignored the six points of order. Are we going to be the Senate that does not obey the laws of the land?"
     },
     {
-      "order": 451,
+      "order": 450,
       "id": "entry-1027481",
       "label": "speech",
       "level": "2",
@@ -5415,7 +5403,7 @@
       "text": "No way!"
     },
     {
-      "order": 452,
+      "order": 451,
       "id": "entry-1027482",
       "label": "scene",
       "level": "2",
@@ -5427,7 +5415,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 453,
+      "order": 452,
       "id": "entry-1027484",
       "label": "speech",
       "level": "2",
@@ -5439,7 +5427,7 @@
       "text": "Order, Senators! Hon. Senators, allow me to make the ruling."
     },
     {
-      "order": 454,
+      "order": 453,
       "id": "entry-1027485",
       "label": "speech",
       "level": "2",
@@ -5451,7 +5439,7 @@
       "text": "Put the question!"
     },
     {
-      "order": 455,
+      "order": 454,
       "id": "entry-1027486",
       "label": "speech",
       "level": "2",
@@ -5463,7 +5451,7 @@
       "text": "Why are you telling me to put the question even before I make the ruling? The only Member who almost started contributing was interrupted by points of order. He was not even able to contribute. We do not even know who is supporting and who is not. Hon. Senators, the importance of debate is to sway the minds of people who are on the borderline."
     },
     {
-      "order": 456,
+      "order": 455,
       "id": "entry-1027487",
       "label": "speech",
       "level": "2",
@@ -5475,7 +5463,7 @@
       "text": "Correct! Kabisa!"
     },
     {
-      "order": 457,
+      "order": 456,
       "id": "entry-1027488",
       "label": "scene",
       "level": "2",
@@ -5487,7 +5475,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 458,
+      "order": 457,
       "id": "entry-1027489",
       "label": "speech",
       "level": "2",
@@ -5499,7 +5487,7 @@
       "text": "Hon. Senators, I will tell you this while standing here that we cannot purport to be fair to Sen. Sakaja's Motion when we gave Sen. Kang'ata three hours and we are giving Sen. Sakaja one minute."
     },
     {
-      "order": 459,
+      "order": 458,
       "id": "entry-1027490",
       "label": "speech",
       "level": "2",
@@ -5511,7 +5499,7 @@
       "text": "He has not complained!"
     },
     {
-      "order": 460,
+      "order": 459,
       "id": "entry-1027491",
       "label": "speech",
       "level": "2",
@@ -5523,7 +5511,7 @@
       "text": "This Motion is in the House. So, it is not for him to complain or not; it is us because it is now our property."
     },
     {
-      "order": 461,
+      "order": 460,
       "id": "entry-1027492",
       "label": "scene",
       "level": "2",
@@ -5535,7 +5523,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 462,
+      "order": 461,
       "id": "entry-1027493",
       "label": "heading",
       "level": "1",
@@ -5547,7 +5535,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 463,
+      "order": 462,
       "id": "entry-1027494",
       "label": "speech",
       "level": "1",

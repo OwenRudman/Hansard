@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-07-31-14-30-00",
-  "exported_at": "2026-10-05T08:01:33.849Z",
+  "exported_at": "2026-10-15T19:26:42.846Z",
   "entries": [
     {
       "order": 1,
@@ -1644,22 +1644,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
       "order": 138,
-      "id": "entry-817571",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 139,
       "id": "entry-817572",
       "label": "speech",
       "level": "3",
@@ -1671,7 +1659,7 @@
       "text": "Order, Senators! Hon. Senators, the results of the Division are as follows:\n\nAYES:\n\n25\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n0"
     },
     {
-      "order": 140,
+      "order": 139,
       "id": "entry-817579-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1683,7 +1671,7 @@
       "text": "(Question carried by 25 votes to 0)"
     },
     {
-      "order": 141,
+      "order": 140,
       "id": "entry-817579-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1695,7 +1683,7 @@
       "text": "(The Bill was accordingly read the Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 142,
+      "order": 141,
       "id": "entry-817580",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1695,7 @@
       "text": "What is it, Sen. Wetangula?"
     },
     {
-      "order": 143,
+      "order": 142,
       "id": "entry-817581",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1707,7 @@
       "text": "Mr. Deputy Speaker, Sir, I am shocked to hear that abstentions is nil yet I voted an abstention. The equipment was functioning."
     },
     {
-      "order": 144,
+      "order": 143,
       "id": "entry-817582",
       "label": "speech",
       "level": "3",
@@ -1731,7 +1719,7 @@
       "text": "Can that be relooked at?"
     },
     {
-      "order": 145,
+      "order": 144,
       "id": "entry-817583",
       "label": "speech",
       "level": "3",
@@ -1743,7 +1731,7 @@
       "text": "Mr. Deputy Speaker, Sir, even the screen was showing one abstention."
     },
     {
-      "order": 146,
+      "order": 145,
       "id": "entry-817584",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1743,7 @@
       "text": "Let us wait for a report from the tallying centre."
     },
     {
-      "order": 147,
+      "order": 146,
       "id": "entry-817585",
       "label": "scene",
       "level": "3",
@@ -1767,7 +1755,7 @@
       "text": "(The Deputy Speaker (Sen. Prof.) Kindiki) consulted the Clerk-at-the-Table)"
     },
     {
-      "order": 148,
+      "order": 147,
       "id": "entry-817586",
       "label": "speech",
       "level": "3",
@@ -1779,7 +1767,7 @@
       "text": "Order, Senators! Sen. Wetangula, it is true. Therefore, I would read the results again."
     },
     {
-      "order": 149,
+      "order": 148,
       "id": "entry-817587",
       "label": "heading",
       "level": "3",
@@ -1791,7 +1779,7 @@
       "text": "DIVISION ELECTRONIC VOTING"
     },
     {
-      "order": 150,
+      "order": 149,
       "id": "entry-817588",
       "label": "scene",
       "level": "3",
@@ -1803,7 +1791,7 @@
       "text": "(Question, that the Retirement Benefits (Deputy President and Designated State Officers) (Amendment) Bill (Senate Bills No.2 of 2018) be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 151,
+      "order": 150,
       "id": "entry-817589",
       "label": "other",
       "level": "3",
@@ -1815,7 +1803,7 @@
       "text": "AYES:"
     },
     {
-      "order": 152,
+      "order": 151,
       "id": "entry-817590",
       "label": "other",
       "level": "3",
@@ -1827,7 +1815,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kinyua, Laikipia County; Sen. Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. (Dr.) Milgo, Bomet"
     },
     {
-      "order": 153,
+      "order": 152,
       "id": "entry-817592",
       "label": "other",
       "level": "3",
@@ -1839,7 +1827,7 @@
       "text": "County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County and Sen. (Rev.) Waqo, Marsabit County."
     },
     {
-      "order": 154,
+      "order": 153,
       "id": "entry-817593",
       "label": "other",
       "level": "3",
@@ -1851,7 +1839,7 @@
       "text": "NOES:"
     },
     {
-      "order": 155,
+      "order": 154,
       "id": "entry-817594",
       "label": "speech",
       "level": "3",
@@ -1863,19 +1851,19 @@
       "text": "Nil.\n\nABSTENTION:"
     },
     {
-      "order": 156,
+      "order": 155,
       "id": "entry-817596",
       "label": "speech",
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 157,
+      "order": 156,
       "id": "entry-817597",
       "label": "speech",
       "level": "3",
@@ -1887,7 +1875,7 @@
       "text": "Order, Senators! Hon. Senators, the results of the Division are as follows:\n\nAYES:\n\n24\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n1"
     },
     {
-      "order": 158,
+      "order": 157,
       "id": "entry-817604-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "3",
@@ -1899,7 +1887,7 @@
       "text": "(Question carried by 24 votes to 0)"
     },
     {
-      "order": 159,
+      "order": 158,
       "id": "entry-817604-parenthesis-split-2-of-3",
       "label": "scene",
       "level": "3",
@@ -1911,7 +1899,7 @@
       "text": "(The Bill was accordingly read the Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 160,
+      "order": 159,
       "id": "entry-817604-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "3",
@@ -1923,7 +1911,7 @@
       "text": "(Interruption of Divisions)"
     },
     {
-      "order": 161,
+      "order": 160,
       "id": "entry-817605",
       "label": "heading",
       "level": "1",
@@ -1935,7 +1923,7 @@
       "text": "COMMUNICATION FROM THE CHAIR"
     },
     {
-      "order": 162,
+      "order": 161,
       "id": "entry-817606",
       "label": "heading",
       "level": "2",
@@ -1947,7 +1935,7 @@
       "text": "VISITING DELEGATION FROM KANYANGI PRIMARY SCHOOL, KITUI COUNTY"
     },
     {
-      "order": 163,
+      "order": 162,
       "id": "entry-817607",
       "label": "speech",
       "level": "2",
@@ -1959,7 +1947,7 @@
       "text": "Order, Senators! I would like to acknowledge the presence in the Public Gallery this afternoon of visiting students and teachers from Kanyangi Primary School, Kitui County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them. On behalf of the Senate and on my own behalf, I wish them a fruitful visit. Thank you."
     },
     {
-      "order": 164,
+      "order": 163,
       "id": "entry-817608",
       "label": "scene",
       "level": "2",
@@ -1971,7 +1959,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 165,
+      "order": 164,
       "id": "entry-817609",
       "label": "speech",
       "level": "2",
@@ -1983,7 +1971,7 @@
       "text": "What is it, Sen. Wambua? We are under time constraints."
     },
     {
-      "order": 166,
+      "order": 165,
       "id": "entry-817610",
       "label": "speech",
       "level": "2",
@@ -1995,7 +1983,7 @@
       "text": "Mr. Deputy Speaker, Sir, if you allow me just one minute to join you in welcoming the students from Kanyangi Primary School into the Chamber. Kanyangi Primary School is in Kitui Rural Constituency in Kitui County. I encourage the students to spend their time in this Chamber to learn and be inspired to become responsible leaders in the future. Thank you, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 167,
+      "order": 166,
       "id": "entry-817611",
       "label": "speech",
       "level": "2",
@@ -2007,7 +1995,7 @@
       "text": "Thank you. Next Order!"
     },
     {
-      "order": 168,
+      "order": 167,
       "id": "entry-817612",
       "label": "scene",
       "level": "2",
@@ -2019,7 +2007,7 @@
       "text": "(Resumption of Divisions)"
     },
     {
-      "order": 169,
+      "order": 168,
       "id": "entry-817614",
       "label": "speech",
       "level": "2",
@@ -2031,7 +2019,7 @@
       "text": "I think we are all here and can proceed. I now put the Question, that The County Statistics Bill (Senate Bill No.9 of 2018) be now read a Second Time. Please, vote now. You have one minute. Assisted voters should approach the Clerks-at-the-Table and record their votes."
     },
     {
-      "order": 170,
+      "order": 169,
       "id": "entry-817615",
       "label": "scene",
       "level": "2",
@@ -2043,7 +2031,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 171,
+      "order": 170,
       "id": "entry-817616",
       "label": "speech",
       "level": "2",
@@ -2055,7 +2043,7 @@
       "text": "Order, Senators! I hope that everybody has voted one way or the other. Standing Order 80 (1) requires that you must vote either \"Yes\" or \"No,\" or \"Abstain.\" Standing Order 80 (2) provides that it amounts to disorderly conduct to be present in the Chamber and not vote."
     },
     {
-      "order": 172,
+      "order": 171,
       "id": "entry-817617",
       "label": "scene",
       "level": "2",
@@ -2067,7 +2055,7 @@
       "text": "(Sen. Khaniri spoke off record)"
     },
     {
-      "order": 173,
+      "order": 172,
       "id": "entry-817618",
       "label": "speech",
       "level": "2",
@@ -2079,7 +2067,7 @@
       "text": "Order, Sen. Khaniri! You have not voted. The record does not indicate your vote. Proceed to the Clerks-at-the-Table as a voter who is unable to vote electronically."
     },
     {
-      "order": 174,
+      "order": 173,
       "id": "entry-817619-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -2091,7 +2079,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 175,
+      "order": 174,
       "id": "entry-817619-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -2103,7 +2091,7 @@
       "text": "(Sen. Khaniri was escorted to the Clerks-at-the-Table by Sen. Omogeni)"
     },
     {
-      "order": 176,
+      "order": 175,
       "id": "entry-817620",
       "label": "speech",
       "level": "2",
@@ -2115,7 +2103,7 @@
       "text": "Order, Sen. Omogeni! This is not a swearing in. There are no provisions of escorting a voter. It actually amounts to disorderly conduct. Standing Order 80 (4) says that you are supposed to resume your designated seat, unless you are caused by exigencies like Sen. Khaniri."
     },
     {
-      "order": 177,
+      "order": 176,
       "id": "entry-817621",
       "label": "scene",
       "level": "2",
@@ -2127,7 +2115,7 @@
       "text": "(Sen. Khaniri voted and returned to his seat)"
     },
     {
-      "order": 178,
+      "order": 177,
       "id": "entry-817622-split-before-48cd6e81-dc06-455e-afcc-48d0f17eaf24",
       "label": "speech",
       "level": "2",
@@ -2139,7 +2127,7 @@
       "text": "Very well."
     },
     {
-      "order": 179,
+      "order": 178,
       "id": "entry-817622-split-selected-4e502733-86cc-4f4a-8250-a58e88bfdd5c",
       "label": "heading",
       "level": "2",
@@ -2151,7 +2139,7 @@
       "text": "THE COUNTY STATISTICS BILL (SENATE BILLS NO.9 OF 2018)"
     },
     {
-      "order": 180,
+      "order": 179,
       "id": "entry-817623-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -2163,7 +2151,7 @@
       "text": "(Sen. Farhiya on 17.7.2018)"
     },
     {
-      "order": 181,
+      "order": 180,
       "id": "entry-817623-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -2175,7 +2163,7 @@
       "text": "(Resumption of Debate interrupted on 17.7.2018)"
     },
     {
-      "order": 182,
+      "order": 181,
       "id": "entry-817624",
       "label": "heading",
       "level": "3",
@@ -2187,7 +2175,7 @@
       "text": "DIVISION"
     },
     {
-      "order": 183,
+      "order": 182,
       "id": "entry-817625",
       "label": "heading",
       "level": "2",
@@ -2199,7 +2187,7 @@
       "text": "ELECTRONIC VOTING"
     },
     {
-      "order": 184,
+      "order": 183,
       "id": "entry-817627",
       "label": "scene",
       "level": "2",
@@ -2211,7 +2199,7 @@
       "text": "(Question, that the County Statistics Bill (Senate Bills No.9 of 2018) be read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 185,
+      "order": 184,
       "id": "entry-817628",
       "label": "other",
       "level": "2",
@@ -2223,7 +2211,7 @@
       "text": "AYES:"
     },
     {
-      "order": 186,
+      "order": 185,
       "id": "entry-817629",
       "label": "other",
       "level": "2",
@@ -2235,7 +2223,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. (Dr.) Milgo, Bomet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 187,
+      "order": 186,
       "id": "entry-817630",
       "label": "other",
       "level": "2",
@@ -2244,22 +2232,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil"
     },
     {
-      "order": 188,
-      "id": "entry-817631",
-      "label": "speech",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 189,
+      "order": 187,
       "id": "entry-817632",
       "label": "speech",
       "level": "2",
@@ -2271,7 +2247,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 27\n\nNOES"
     },
     {
-      "order": 190,
+      "order": 188,
       "id": "entry-817636",
       "label": "speech",
       "level": "2",
@@ -2280,22 +2256,10 @@
       "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": ": Nil\n\nABSENTIONS"
+      "text": ": Nil\n\nABSENTIONS\n\n: Nil"
     },
     {
-      "order": 191,
-      "id": "entry-817638",
-      "label": "speech",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 192,
+      "order": 189,
       "id": "entry-817639-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -2307,7 +2271,7 @@
       "text": "(Question carried by 27 votes to 0)"
     },
     {
-      "order": 193,
+      "order": 190,
       "id": "entry-817639-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -2319,7 +2283,7 @@
       "text": "(The Bill was accordingly read the Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 194,
+      "order": 191,
       "id": "entry-817640",
       "label": "speech",
       "level": "2",
@@ -2331,7 +2295,7 @@
       "text": "Let us go to the next Order."
     },
     {
-      "order": 195,
+      "order": 192,
       "id": "entry-817641",
       "label": "heading",
       "level": "1",
@@ -2343,7 +2307,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 196,
+      "order": 193,
       "id": "entry-817642",
       "label": "heading",
       "level": "3",
@@ -2355,7 +2319,7 @@
       "text": "THE SALARIES AND REMUNERATION COMMISSION (AMENDMENT) BILL (SENATE BILLS NO.12 OF 2018)"
     },
     {
-      "order": 197,
+      "order": 194,
       "id": "entry-817643-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2367,7 +2331,7 @@
       "text": "(Sen. (Eng.) Mahamud on 18.7.2018)"
     },
     {
-      "order": 198,
+      "order": 195,
       "id": "entry-817643-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2379,7 +2343,7 @@
       "text": "(Resumption of Debate interrupted on 18.7.2018)"
     },
     {
-      "order": 199,
+      "order": 196,
       "id": "entry-817644",
       "label": "heading",
       "level": "3",
@@ -2391,7 +2355,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 200,
+      "order": 197,
       "id": "entry-817646",
       "label": "scene",
       "level": "3",
@@ -2403,7 +2367,7 @@
       "text": "(Question, that the Salaries and Remuneration Commission (Amendment) Bill"
     },
     {
-      "order": 201,
+      "order": 198,
       "id": "entry-817649",
       "label": "scene",
       "level": "3",
@@ -2415,7 +2379,7 @@
       "text": "(Senate Bills No.12 of 2018 be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 202,
+      "order": 199,
       "id": "entry-817650",
       "label": "speech",
       "level": "3",
@@ -2427,7 +2391,7 @@
       "text": "Hon. Senators, you have one minute to vote."
     },
     {
-      "order": 203,
+      "order": 200,
       "id": "entry-817651-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2439,7 +2403,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 204,
+      "order": 201,
       "id": "entry-817651-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2451,7 +2415,7 @@
       "text": "(Sen. (Dr.) Milgo stood up in her place)"
     },
     {
-      "order": 205,
+      "order": 202,
       "id": "entry-817652",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2427,7 @@
       "text": "Sen. (Dr.) Milgo, you are in contravention of Standing Order No.80(4) which states that:- \"During division, Senators shall maintain order in the Senate and shall be in their designated seats and shall remain seated until the result is announced.\""
     },
     {
-      "order": 206,
+      "order": 203,
       "id": "entry-817653",
       "label": "scene",
       "level": "3",
@@ -2475,7 +2439,7 @@
       "text": "(Sen. (Dr.) Milgo sat at her place)"
     },
     {
-      "order": 207,
+      "order": 204,
       "id": "entry-817654",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2451,7 @@
       "text": "Assisted voters probably led by Sen. Khaniri of Vihiga County may now approach the Clerk's Table."
     },
     {
-      "order": 208,
+      "order": 205,
       "id": "entry-817655",
       "label": "scene",
       "level": "3",
@@ -2499,7 +2463,7 @@
       "text": "(Several Senators approached the Clerks-at-the-Table and proceeded to record their votes)"
     },
     {
-      "order": 209,
+      "order": 206,
       "id": "entry-817656",
       "label": "speech",
       "level": "3",
@@ -2508,22 +2472,10 @@
       "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "Let us expedite the process. So far, so good.\n\nAYES:\n\nSen. (Dr.) Ali, Wajir County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. (Dr.) Milgo, Bomet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. Wetangula, Bungoma County.\n\nNOES"
+      "text": "Let us expedite the process. So far, so good.\n\nAYES:\n\nSen. (Dr.) Ali, Wajir County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Kinyua, Laikipia County; Sen. Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. (Dr.) Milgo, Bomet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. Wetangula, Bungoma County.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 210,
-      "id": "entry-817660",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 211,
+      "order": 207,
       "id": "entry-817661",
       "label": "speech",
       "level": "3",
@@ -2535,7 +2487,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 27\n\nNOES"
     },
     {
-      "order": 212,
+      "order": 208,
       "id": "entry-817665",
       "label": "speech",
       "level": "3",
@@ -2544,22 +2496,10 @@
       "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": ": Nil\n\nABSENTIONS"
+      "text": ": Nil\n\nABSENTIONS\n\n: Nil"
     },
     {
-      "order": 213,
-      "id": "entry-817667",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 214,
+      "order": 209,
       "id": "entry-817669-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2571,7 +2511,7 @@
       "text": "(Question carried by 27 votes to 0)"
     },
     {
-      "order": 215,
+      "order": 210,
       "id": "entry-817669-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2583,7 +2523,7 @@
       "text": "(The Bill was accordingly read the Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 216,
+      "order": 211,
       "id": "entry-817670",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2535,7 @@
       "text": "Let us now move on to Order No.13,"
     },
     {
-      "order": 217,
+      "order": 212,
       "id": "entry-817671",
       "label": "heading",
       "level": "1",
@@ -2607,7 +2547,7 @@
       "text": "MOTION"
     },
     {
-      "order": 218,
+      "order": 213,
       "id": "entry-817672-split-selected-368d2cfa-64e5-4271-944b-3a029131abed",
       "label": "heading",
       "level": "3",
@@ -2619,7 +2559,7 @@
       "text": "ADOPTION OF CPAIC REPORT ON FINANCIAL OPERATIONS OF KAJIADO COUNTY EXECUTIVE FOR FY 2013/2014"
     },
     {
-      "order": 219,
+      "order": 214,
       "id": "entry-817672-split-after-90131500-e0f8-4ab9-96e4-1dc4a887e12e",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2571,7 @@
       "text": "THAT, this House adopts the Report of the Sessional Committee on County Public Accounts and Investments on the inquiry into the Financial Operations of Kajiado County Executive for the Financial Year 2013/2014 (1st July, 2013 - 30th June, 2014) laid on the Table of the House on Thursday, 10th May, 2018."
     },
     {
-      "order": 220,
+      "order": 215,
       "id": "entry-817673-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2643,7 +2583,7 @@
       "text": "(Sen. M. Kajwang' on 26.7.2018)"
     },
     {
-      "order": 221,
+      "order": 216,
       "id": "entry-817673-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2655,7 +2595,7 @@
       "text": "(Resumption of Debate interrupted on 26.7.2018)"
     },
     {
-      "order": 222,
+      "order": 217,
       "id": "entry-817674",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2607,7 @@
       "text": "Let us proceed to vote. We need to make progress."
     },
     {
-      "order": 223,
+      "order": 218,
       "id": "entry-817675",
       "label": "scene",
       "level": "3",
@@ -2679,7 +2619,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 224,
+      "order": 219,
       "id": "entry-817676",
       "label": "speech",
       "level": "3",
@@ -2691,7 +2631,7 @@
       "text": "Let us have the assisted voters and please, expedite."
     },
     {
-      "order": 225,
+      "order": 220,
       "id": "entry-817677",
       "label": "scene",
       "level": "3",
@@ -2703,7 +2643,7 @@
       "text": "(Several Senators moved to the Table to vote)"
     },
     {
-      "order": 226,
+      "order": 221,
       "id": "entry-817678",
       "label": "heading",
       "level": "3",
@@ -2715,7 +2655,7 @@
       "text": "DIVISION ELECTRONIC VOTING"
     },
     {
-      "order": 227,
+      "order": 222,
       "id": "entry-817679",
       "label": "scene",
       "level": "3",
@@ -2727,7 +2667,7 @@
       "text": "(Question, that the House adopts the report of CPAIC on the financial operations of Kajiado County Executive for the Financial Year 2013-2014 laid on the table of the House on 10th May, 2018 put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 228,
+      "order": 223,
       "id": "entry-817680",
       "label": "other",
       "level": "3",
@@ -2739,7 +2679,7 @@
       "text": "AYES:"
     },
     {
-      "order": 229,
+      "order": 224,
       "id": "entry-817681",
       "label": "other",
       "level": "3",
@@ -2751,7 +2691,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County, Sen. (Prof.) Kindiki, Tharaka-Nithi"
     },
     {
-      "order": 230,
+      "order": 225,
       "id": "entry-817683",
       "label": "other",
       "level": "3",
@@ -2763,7 +2703,7 @@
       "text": "County; Sen. Kinyua, Laikipia County; Sen. Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. (Dr.) Milgo, Bomet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 231,
+      "order": 226,
       "id": "entry-817684",
       "label": "other",
       "level": "3",
@@ -2772,22 +2712,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil."
     },
     {
-      "order": 232,
-      "id": "entry-817685",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 233,
+      "order": 227,
       "id": "entry-817686",
       "label": "speech",
       "level": "3",
@@ -2799,7 +2727,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:\n\nAYES:\n\n27\n\nNOES:\n\n0\n\nABSTENTIONS:"
     },
     {
-      "order": 234,
+      "order": 228,
       "id": "entry-817692",
       "label": "speech",
       "level": "3",
@@ -2811,7 +2739,7 @@
       "text": "Nil The \"Ayes\" have it"
     },
     {
-      "order": 235,
+      "order": 229,
       "id": "entry-817693",
       "label": "scene",
       "level": "3",
@@ -2823,7 +2751,7 @@
       "text": "(Question carried by 27 votes to 0)"
     },
     {
-      "order": 236,
+      "order": 230,
       "id": "entry-817694",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2763,7 @@
       "text": "Next Order"
     },
     {
-      "order": 237,
+      "order": 231,
       "id": "entry-817695",
       "label": "heading",
       "level": "1",
@@ -2847,7 +2775,7 @@
       "text": "MOTION"
     },
     {
-      "order": 238,
+      "order": 232,
       "id": "entry-817696",
       "label": "heading",
       "level": "3",
@@ -2859,7 +2787,7 @@
       "text": "ADOPTION OF CPAIC REPORT ON FINANCIAL OPERATIONS OF NAROK COUNTY EXECUTIVE FOR FY 2013/2014"
     },
     {
-      "order": 239,
+      "order": 233,
       "id": "entry-817697-parenthesis-split-1-of-3",
       "label": "scene",
       "level": "3",
@@ -2871,7 +2799,7 @@
       "text": "(Sen. M. Kajwang' on 26.7.2018)"
     },
     {
-      "order": 240,
+      "order": 234,
       "id": "entry-817697-parenthesis-split-2-of-3",
       "label": "scene",
       "level": "3",
@@ -2883,7 +2811,7 @@
       "text": "(Resumption of Debate interrupted on 26.7.2018)"
     },
     {
-      "order": 241,
+      "order": 235,
       "id": "entry-817697-parenthesis-split-3-of-3",
       "label": "scene",
       "level": "3",
@@ -2895,7 +2823,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 242,
+      "order": 236,
       "id": "entry-817698",
       "label": "speech",
       "level": "3",
@@ -2907,7 +2835,7 @@
       "text": "We have 20 seconds to the end of electronic voting. Please vote now. Assisted voters approach the Clerk's table. Please expedite."
     },
     {
-      "order": 243,
+      "order": 237,
       "id": "entry-817699-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2919,7 +2847,7 @@
       "text": "(Several Senators moved to the Table to vote)"
     },
     {
-      "order": 244,
+      "order": 238,
       "id": "entry-817699-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2931,7 +2859,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 245,
+      "order": 239,
       "id": "entry-817700",
       "label": "heading",
       "level": "3",
@@ -2943,7 +2871,7 @@
       "text": "DIVISION ELECTRONIC VOTING"
     },
     {
-      "order": 246,
+      "order": 240,
       "id": "entry-817703",
       "label": "scene",
       "level": "3",
@@ -2955,7 +2883,7 @@
       "text": "(Question, that the House adopts the report of CPAIC on the financial operations of Narok County Executive laid on the table of the House on 10th May, 2018 put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 247,
+      "order": 241,
       "id": "entry-817704",
       "label": "other",
       "level": "3",
@@ -2967,7 +2895,7 @@
       "text": "AYES:"
     },
     {
-      "order": 248,
+      "order": 242,
       "id": "entry-817705",
       "label": "other",
       "level": "3",
@@ -2979,7 +2907,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County, Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. (Dr.) Milgo, Bomet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 249,
+      "order": 243,
       "id": "entry-817706",
       "label": "other",
       "level": "3",
@@ -2988,22 +2916,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil."
     },
     {
-      "order": 250,
-      "id": "entry-817707",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 251,
+      "order": 244,
       "id": "entry-817708",
       "label": "scene",
       "level": "3",
@@ -3015,7 +2931,7 @@
       "text": "(Sen. Malalah stood in his place)"
     },
     {
-      "order": 252,
+      "order": 245,
       "id": "entry-817709",
       "label": "speech",
       "level": "3",
@@ -3027,7 +2943,7 @@
       "text": "Order, Sen. Malalah! Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n27\n\nNOES:\n\n0\n\nABSTENTIONS:"
     },
     {
-      "order": 253,
+      "order": 246,
       "id": "entry-817715",
       "label": "speech",
       "level": "3",
@@ -3039,7 +2955,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 254,
+      "order": 247,
       "id": "entry-817716-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3051,7 +2967,7 @@
       "text": "(Question carried by 27 votes to 0)"
     },
     {
-      "order": 255,
+      "order": 248,
       "id": "entry-817716-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3063,7 +2979,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 256,
+      "order": 249,
       "id": "entry-817717",
       "label": "speech",
       "level": "3",
@@ -3075,7 +2991,7 @@
       "text": "Next Order. This is the last division for today."
     },
     {
-      "order": 257,
+      "order": 250,
       "id": "entry-817718",
       "label": "heading",
       "level": "1",
@@ -3087,7 +3003,7 @@
       "text": "MOTION"
     },
     {
-      "order": 258,
+      "order": 251,
       "id": "entry-817719",
       "label": "heading",
       "level": "3",
@@ -3099,7 +3015,7 @@
       "text": "ADOPTION OF CPAIC REPORT ON FINANCIAL OPERATIONS OF TURKANA COUNTY EXECUTIVE FOR FY 2013/2014"
     },
     {
-      "order": 259,
+      "order": 252,
       "id": "entry-817720",
       "label": "heading",
       "level": "3",
@@ -3111,7 +3027,7 @@
       "text": "DIVISION ELECTRONIC VOTING"
     },
     {
-      "order": 260,
+      "order": 253,
       "id": "entry-817723",
       "label": "scene",
       "level": "3",
@@ -3123,7 +3039,7 @@
       "text": "(Question, that the House adopts the report of CPAIC on the financial operations of Turkana County Executive laid on the table of the House on 10th May, 2018 put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 261,
+      "order": 254,
       "id": "entry-817724",
       "label": "other",
       "level": "3",
@@ -3135,7 +3051,7 @@
       "text": "AYES:"
     },
     {
-      "order": 262,
+      "order": 255,
       "id": "entry-817725",
       "label": "other",
       "level": "3",
@@ -3147,7 +3063,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County, Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. Kinyua, Laikipia County; Sen. Lelegwe, Samburu County; Sen. M. Kajwang, Homa Bay County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. (Dr.) Milgo, Bomet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 263,
+      "order": 256,
       "id": "entry-817726",
       "label": "other",
       "level": "3",
@@ -3156,22 +3072,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil."
     },
     {
-      "order": 264,
-      "id": "entry-817727",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 265,
+      "order": 257,
       "id": "entry-817728-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3183,7 +3087,7 @@
       "text": "(Sen. (Prof.) Ongeri consulted Sen. Wetangula)"
     },
     {
-      "order": 266,
+      "order": 258,
       "id": "entry-817728-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3195,7 +3099,7 @@
       "text": "(Sen. Dullo stood up in her place)"
     },
     {
-      "order": 267,
+      "order": 259,
       "id": "entry-817729",
       "label": "speech",
       "level": "3",
@@ -3207,7 +3111,7 @@
       "text": "Order, Sen. (Prof.) Ongeri and Senate Deputy Majority Leader. I know you are performing official functions but resume your seats for now. Hon. Senators, these are the results of our last Division for today, as I congratulate you:-\n\nAYES:\n\n27\n\nNOES:\n\n0\n\nABSTENTIONS:"
     },
     {
-      "order": 268,
+      "order": 260,
       "id": "entry-817735",
       "label": "speech",
       "level": "3",
@@ -3219,7 +3123,7 @@
       "text": "Nil The \"Ayes\" have it"
     },
     {
-      "order": 269,
+      "order": 261,
       "id": "entry-817736-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3231,7 +3135,7 @@
       "text": "(Question carried by 27 votes to 0)"
     },
     {
-      "order": 270,
+      "order": 262,
       "id": "entry-817736-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3243,7 +3147,7 @@
       "text": "(The doors were opened and the Bars drawn)"
     },
     {
-      "order": 271,
+      "order": 263,
       "id": "entry-817737",
       "label": "speech",
       "level": "3",
@@ -3255,7 +3159,7 @@
       "text": "Hon. Senators, you have done well this afternoon. Thank you for your cooperation. This should be repeated every other day. Order, Senators! For the convenience of the House and upon consultations with various sponsors and movers of different items, I would like to reorganize the remaining items on today's Order Paper as follows. In the next few minutes, we will dispense with items appearing in Orders No.5, 6 and 7. After that, we will defer Orders No.16, 17, 18 and 19."
     },
     {
-      "order": 272,
+      "order": 264,
       "id": "entry-817738",
       "label": "heading",
       "level": "1",
@@ -3267,7 +3171,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 273,
+      "order": 265,
       "id": "entry-817740",
       "label": "heading",
       "level": "3",
@@ -3279,7 +3183,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO. 13 OF 2018)"
     },
     {
-      "order": 274,
+      "order": 266,
       "id": "entry-817741-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3291,7 +3195,7 @@
       "text": "(Bill Deferred)"
     },
     {
-      "order": 275,
+      "order": 267,
       "id": "entry-817741-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -3303,7 +3207,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 276,
+      "order": 268,
       "id": "entry-817742",
       "label": "heading",
       "level": "3",
@@ -3315,7 +3219,7 @@
       "text": "THE LOCAL CONTENT BILL (SENATE BILLS NO.10 OF 2018)"
     },
     {
-      "order": 277,
+      "order": 269,
       "id": "entry-817743",
       "label": "scene",
       "level": "3",
@@ -3327,7 +3231,7 @@
       "text": "(Bill Deferred)"
     },
     {
-      "order": 278,
+      "order": 270,
       "id": "entry-817744",
       "label": "heading",
       "level": "1",
@@ -3339,7 +3243,7 @@
       "text": "MOTIONS"
     },
     {
-      "order": 279,
+      "order": 271,
       "id": "entry-817745-split-selected-da94df6b-d92f-4b81-80ac-1e31f4da7eeb",
       "label": "heading",
       "level": "3",
@@ -3351,7 +3255,7 @@
       "text": "ADOPTION OF THE REPORT OF THE SELECT COMMITTEE ON SOLAI DAM TRAGEDY"
     },
     {
-      "order": 280,
+      "order": 272,
       "id": "entry-817745-split-after-6362ff28-d84c-4e0c-b4fa-31661ceff06d",
       "label": "speech",
       "level": "3",
@@ -3363,7 +3267,7 @@
       "text": "THAT, this House adopts the Report of the Select Committee on the Solai Dam tragedy, laid on the Table of the House on Thursday, 26th July, 2018."
     },
     {
-      "order": 281,
+      "order": 273,
       "id": "entry-817746",
       "label": "scene",
       "level": "3",
@@ -3375,7 +3279,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 282,
+      "order": 274,
       "id": "entry-817747-split-selected-7808f940-01df-423e-a78a-567f0692d641",
       "label": "heading",
       "level": "3",
@@ -3387,7 +3291,7 @@
       "text": "MANAGEMENT OF CONSTRUCTION CONTRACTORS"
     },
     {
-      "order": 283,
+      "order": 275,
       "id": "entry-817747-split-after-b8a3cc5b-c9fa-4aa0-aa2a-bac8b470a603",
       "label": "speech",
       "level": "3",
@@ -3399,7 +3303,7 @@
       "text": "THAT, AWARE that Section 15 of the National Construction Authority (NCA) Act prescribes the requirements for registration as a contractor; ALSO, AWARE that Section 18 of the Act mandates the NCA Board to accredit firms incorporated outside Kenya to carry out construction works in Kenya for a prescribed period; CONCERNED, that a large number of registered local contractors cannot perform up to the expected standard leading to collapsed buildings, poor county roads and infrastructure and incomplete contracts; APPRECIATING, that there is still a good number of local contractors that has demonstrated capacity to perform and deliver projects as required; DEEPLY CONCERNED THAT, those foreign contractors are now engaging in projects that local contractors have equal capacity and skill to perform, especially in the counties;"
     },
     {
-      "order": 284,
+      "order": 276,
       "id": "entry-817749",
       "label": "speech",
       "level": "3",
@@ -3411,7 +3315,7 @@
       "text": "RECOGNIZING THAT, there is need to grow our local industries by giving job opportunities to Kenyan citizens and building their technical capacities; NOW THEREFORE, the Senate calls upon the Government through the NCA to- (1) conduct a fresh registration drive of all building and infrastructure contractors in order to weed out all non-performing ones and to identify those who demonstrate compliance; (2) enforce strict oversight on foreign contractors and institute a mechanism to handle complaints raised against contractors; (3) ensure that foreign contractors are only awarded contracts that local contractors cannot handle and require them to include technology transfer to locals; and (4) require both local and foreign contractors to undertake corporate social responsibility activities in the counties where they operate."
     },
     {
-      "order": 285,
+      "order": 277,
       "id": "entry-817750",
       "label": "scene",
       "level": "3",
@@ -3423,7 +3327,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 286,
+      "order": 278,
       "id": "entry-817751-split-selected-b166696d-4f68-419d-98bc-26f47a906acf",
       "label": "heading",
       "level": "3",
@@ -3435,7 +3339,7 @@
       "text": "ADOPTION OF REPORT ON  THE FIRST EXTRAORDINARY SESSION OF THE FP-ICGLR IN KINSHASA, DRC"
     },
     {
-      "order": 287,
+      "order": 279,
       "id": "entry-817751-split-after-38399028-8a1a-4d07-b6e7-a6ea801936ff",
       "label": "speech",
       "level": "3",
@@ -3447,7 +3351,7 @@
       "text": "THAT, this House adopts the Report of the proceedings of the First Extraordinary Session of the Plenary Assembly of the Forum of Parliaments of Member States of the International Conference on the Great Lakes Region (FPICGLR) held in Kinshasa, Democratic Republic of Congo from 19th - 20th March, 2018, laid on the Table of the Senate on Tuesday, 15th May, 2018."
     },
     {
-      "order": 288,
+      "order": 280,
       "id": "entry-817752",
       "label": "scene",
       "level": "3",
@@ -3459,7 +3363,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 289,
+      "order": 281,
       "id": "entry-817753-split-selected-a76333b2-b3b8-4836-849d-d3459c5fd83c",
       "label": "heading",
       "level": "3",
@@ -3471,7 +3375,7 @@
       "text": "FRAMEWORK TO PERMANENTLY ADDRESS EFFECTS OF FLOODS"
     },
     {
-      "order": 290,
+      "order": 282,
       "id": "entry-817753-split-after-de61ed64-4fb4-442c-93ce-a4eff1dee274",
       "label": "speech",
       "level": "3",
@@ -3483,7 +3387,7 @@
       "text": "THAT, aware that several days of heavy rains recently have caused severe flooding in many parts of the country, resulting in multiple deaths and devastating damage to property and infrastructure; NOTING with concern that, whenever Kenya experiences periods of severe drought, torrential rains usually follow; CONCERNED that year in, year out, the challenge of floods continues to recur, leading to loss of human and animal life, displacement of people and wanton destruction of property; COGNIZANT that the number of Kenyans needing emergency food aid as a result of displacement caused by the current floods continues"
     },
     {
-      "order": 291,
+      "order": 283,
       "id": "entry-817755",
       "label": "speech",
       "level": "3",
@@ -3495,7 +3399,7 @@
       "text": "to rise by the day, and that the floods have also washed away many bridges and destroyed roads in many parts of Kenya; ALSO CONCERNED that no effective measures such as improved storm water harvesting, proper drainage infrastructure and preventing the destruction of riparian reserves and natural water courses, to mitigate and/or provide a lasting solution to the menace of flooding, have been taken; NOW THEREFORE, the Senate calls upon the National Government to develop a lasting framework to permanently address the challenge of effects of floods by, among other things- i. developing and enforcing regulations for preventing the obstruction of riparian reserves and natural water courses; and ii. preventing and regulating the construction of informal settlements and ensuring prevention of construction on low lying areas and flood plains. And further that the relevant government agency to execute this task submits a report to the Senate within three months of the adoption of this Motion."
     },
     {
-      "order": 292,
+      "order": 284,
       "id": "entry-817756",
       "label": "scene",
       "level": "3",
@@ -3507,7 +3411,7 @@
       "text": "(Motion deferred\n\n)"
     },
     {
-      "order": 293,
+      "order": 285,
       "id": "entry-817758",
       "label": "heading",
       "level": "1",
@@ -3519,7 +3423,7 @@
       "text": "PAPERS LAID"
     },
     {
-      "order": 294,
+      "order": 286,
       "id": "entry-817759",
       "label": "heading",
       "level": "2",
@@ -3531,7 +3435,7 @@
       "text": "THE TRAFFIC RULES, 2018"
     },
     {
-      "order": 295,
+      "order": 287,
       "id": "entry-817760",
       "label": "speech",
       "level": "2",
@@ -3543,7 +3447,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I beg to lay the following Paper on the Table of the Senate today, Tuesday, 31st July, 2018. The Traffic (Driving Schools, Driving Instructors and Driving Licenses) Rules, 2018."
     },
     {
-      "order": 296,
+      "order": 288,
       "id": "entry-817761",
       "label": "scene",
       "level": "2",
@@ -3555,7 +3459,7 @@
       "text": "(Sen. Farhiya laid the document on the Table)"
     },
     {
-      "order": 297,
+      "order": 289,
       "id": "entry-817762",
       "label": "heading",
       "level": "2",
@@ -3567,7 +3471,7 @@
       "text": "REPORT OF 49TH SESSION OF THE ACPPA AND INTER-SESSIONAL MEETING OF THE ACP-EU JOINT ASSEMBLY"
     },
     {
-      "order": 298,
+      "order": 290,
       "id": "entry-817763",
       "label": "speech",
       "level": "2",
@@ -3579,7 +3483,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I beg to lay the following Paper on the Table of the Senate today, Tuesday, 31st July, 2018. Report of the 49th Session of the African Caribbean Pacific Parliamentary Assembly (ACPPA) and Inter-Sessional meeting of the ACP-EU Joint Parliamentary Assembly held on 20th to 22nd March, 2018 in Brussels, Belgium."
     },
     {
-      "order": 299,
+      "order": 291,
       "id": "entry-817764",
       "label": "scene",
       "level": "2",
@@ -3591,7 +3495,7 @@
       "text": "(Sen. (Prof.) Kamar laid the documemnt on the Table)"
     },
     {
-      "order": 300,
+      "order": 292,
       "id": "entry-817766",
       "label": "heading",
       "level": "1",
@@ -3603,7 +3507,7 @@
       "text": "COMMUNICATION FROM THE CHAIR"
     },
     {
-      "order": 301,
+      "order": 293,
       "id": "entry-817767",
       "label": "heading",
       "level": "2",
@@ -3615,19 +3519,19 @@
       "text": "VISITING DELEGATION FROM REV. MURUPUS JUNIOR ACADEMY SCHOOL, WEST POKOT COUNTY"
     },
     {
-      "order": 302,
+      "order": 294,
       "id": "entry-817768",
       "label": "speech",
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. Prof.)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "(Sen. Prof.) Kindiki: Hon. Senators, I would like to acknowledge the presence in the Public Gallery this afternoon of visiting students and teachers from Rev. Murupus Junior Academy School from West Pokot County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them. On behalf of the Senate, and on my own behalf, wish them a fruitful visit. I thank you."
+      "text": "Kindiki: Hon. Senators, I would like to acknowledge the presence in the Public Gallery this afternoon of visiting students and teachers from Rev. Murupus Junior Academy School from West Pokot County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them. On behalf of the Senate, and on my own behalf, wish them a fruitful visit. I thank you."
     },
     {
-      "order": 303,
+      "order": 295,
       "id": "entry-817769",
       "label": "heading",
       "level": "1",
@@ -3639,7 +3543,7 @@
       "text": "NOTICES OF MOTIONS"
     },
     {
-      "order": 304,
+      "order": 296,
       "id": "entry-817770",
       "label": "heading",
       "level": "2",
@@ -3651,7 +3555,7 @@
       "text": "MEASURES TO ADDRESS THE PLIGHT OF STREET FAMILIES"
     },
     {
-      "order": 305,
+      "order": 297,
       "id": "entry-817771-split-before-69841712-1be3-4d04-9e9f-d7c4b0d9d54e",
       "label": "speech",
       "level": "2",
@@ -3663,7 +3567,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I beg to give notice of the following Motion- AWARE that the Street Families Rehabilitation Trust Fund (SFRTF) was established on 11th March, 2003, by the then Ministry of Local Government to address the concerns of all homeless, destitute and vulnerable persons in urban areas, and was registered as a body Corporate in August, 2010, under the Trustees (perpetual succession) Cap 164, Laws of Kenya; FURTHER AWARE that the mandate of SFRTF includes coordinating rehabilitation activities for street families; conducting public education on street families issues; mobilizing resources and fundraising as well as receiving donations and funding street families rehabilitation programmes; managing donations for the rehabilitation of street families through a trust fund; monitoring expenditure and disbursement of donations; and advising the Government and other relevant agencies on matters relating to rehabilitation of street families; NOTING that Article 43 (1) of the Constitution of Kenya provides for the right to every person to the highest attainable standard of health, accessible and adequate housing, adequate food of acceptable quality, clean and safe water in adequate quantities, education, and social security; CONCERNED that the street family phenomenon has persisted despite the existence of the SFRTF and street families do not enjoy the rights enshrined in the Constitution due to lack of a national policy on the rehabilitation of street families with women and children being the primary victims; COGNIZANT that the Ministry of Devolution and ASAL Areas through the SFRTF supports children and youth through charitable and community-based organizations which are vetted and approved for funding under the rescue, rehabilitation and reintegration of street families programme; NOTING that both the national and county governments have a role to play in addressing the plight of street families across the country; NOW THEREFORE the Senate resolves that Ministry of Devolution and ASAL areas in collaboration with the Council of Governors- 1) conducts a census of street families in all urban centres in the country to determine their numbers and demographics; 2) develops a clear policy on street families' rehabilitation and reintegration at county level; and 3) tables an audit report of how funds allocated to the SFRTF have been utilized since the Fund was established, indicating the impact of the rehabilitation exercise."
     },
     {
-      "order": 306,
+      "order": 298,
       "id": "entry-817771-split-selected-2fcf30be-2bed-4abb-b53f-ee8b35128a9f",
       "label": "heading",
       "level": "2",
@@ -3675,7 +3579,7 @@
       "text": "APPROVAL OF SENATOR TO SERVE IN DEVOLUTION AND INTER GOVERNMENTAL RELATIONS COMMITTEE"
     },
     {
-      "order": 307,
+      "order": 299,
       "id": "entry-817774",
       "label": "speech",
       "level": "2",
@@ -3687,7 +3591,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I rise to give notice of the following Motion- THAT, in pursuant to Standing Order Nos.183 (212) and (213), the Senate approves the nomination of Sen. Rose Nyamunga, MP, to serve in the Standing Committee on Devolution and Inter-Governmental Relations in place of Sen. James Orengo, EGH, MP."
     },
     {
-      "order": 308,
+      "order": 300,
       "id": "entry-817775",
       "label": "speech",
       "level": "2",
@@ -3699,19 +3603,19 @@
       "text": "Thank you, Mr. Speaker, Sir. I beg to move the following Motion---"
     },
     {
-      "order": 309,
+      "order": 301,
       "id": "entry-817776",
       "label": "speech",
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. Prof.)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "(Sen. Prof.) Kindiki: Order, Sen. (Prof.) Kamar, you cannot move it at this stage."
+      "text": "Kindiki: Order, Sen. (Prof.) Kamar, you cannot move it at this stage."
     },
     {
-      "order": 310,
+      "order": 302,
       "id": "entry-817777",
       "label": "speech",
       "level": "2",
@@ -3723,19 +3627,19 @@
       "text": "Mr. Deputy Chairman, Sir, I give notice."
     },
     {
-      "order": 311,
+      "order": 303,
       "id": "entry-817778",
       "label": "speech",
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. Prof.)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": false,
-      "text": "(Sen. Prof.) Kindiki: Proceed."
+      "text": "Kindiki: Proceed."
     },
     {
-      "order": 312,
+      "order": 304,
       "id": "entry-817778-uppercase-text-heading",
       "label": "heading",
       "level": "2",
@@ -3747,7 +3651,7 @@
       "text": "NOTING OF REPORT OF 49TH SESSION OF THE ACPPA AND INTER-SESSIONAL MEETING OF THE ACP-EU JOINT ASSEMBLY"
     },
     {
-      "order": 313,
+      "order": 305,
       "id": "entry-817779",
       "label": "speech",
       "level": "2",
@@ -3759,19 +3663,19 @@
       "text": "Thank you, Mr. Speaker, Sir. I beg to give notice of the following Motion- THAT, this House notes the Report of the 49th Session of the African Caribbean Pacific Parliamentary Assembly (ACPPA) and Inter-Sessional meeting of the ACP-EU Joint Parliamentary Assembly held between 20th and 22nd March, 2018 in Brussels, Belgium, laid on the Table of the House on Tuesday, 31st July, 2018."
     },
     {
-      "order": 314,
+      "order": 306,
       "id": "entry-817780",
       "label": "speech",
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. Prof.)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "(Sen. Prof.) Kindiki): Thank you, Sen. (Prof.) Kamar. Before we go to the Order No.7, I will allow Sen. Dullo to lay a Paper, which ought to have come earlier."
+      "text": "Kindiki): Thank you, Sen. (Prof.) Kamar. Before we go to the Order No.7, I will allow Sen. Dullo to lay a Paper, which ought to have come earlier."
     },
     {
-      "order": 315,
+      "order": 307,
       "id": "entry-817781",
       "label": "scene",
       "level": "2",
@@ -3783,7 +3687,7 @@
       "text": "(Sen. Dullo consults with the Clerks-at-the Table)"
     },
     {
-      "order": 316,
+      "order": 308,
       "id": "entry-817782",
       "label": "speech",
       "level": "2",
@@ -3795,7 +3699,7 @@
       "text": "Order! Sen. Dullo, time is precious. Are you ready? If you are not ready and it is not an emergency, it can be done tomorrow. It is so ordered."
     },
     {
-      "order": 317,
+      "order": 309,
       "id": "entry-817783",
       "label": "speech",
       "level": "2",
@@ -3807,7 +3711,7 @@
       "text": "Order, Sen. Khaniri! It is only you who has to issue a Statement today. In the light of the good progress that the Senators made this day, I will enforce the ten minutes maximum for your Statement. If there is any other Senator who wants to make a comment, it should be within the ten minutes. Proceed as advised, Sen. Khaniri."
     },
     {
-      "order": 318,
+      "order": 310,
       "id": "entry-817784",
       "label": "scene",
       "level": "2",
@@ -3819,7 +3723,7 @@
       "text": "(Sen. Khaniri spoke off record)"
     },
     {
-      "order": 319,
+      "order": 311,
       "id": "entry-817785",
       "label": "speech",
       "level": "2",
@@ -3831,7 +3735,7 @@
       "text": "Order, Sen. Khaniri! Do not address the Chair from where you are. You are one of the Senators who are very conversant with Standing Orders."
     },
     {
-      "order": 320,
+      "order": 312,
       "id": "entry-817786",
       "label": "scene",
       "level": "2",
@@ -3843,7 +3747,7 @@
       "text": "(Sen. Khaniri approached the Chair)"
     },
     {
-      "order": 321,
+      "order": 313,
       "id": "entry-817787",
       "label": "speech",
       "level": "2",
@@ -3855,7 +3759,7 @@
       "text": "Very well. That item will be in tomorrow's Order Paper. Next Order!"
     },
     {
-      "order": 322,
+      "order": 314,
       "id": "entry-817788",
       "label": "heading",
       "level": "1",
@@ -3867,7 +3771,7 @@
       "text": "MOTION"
     },
     {
-      "order": 323,
+      "order": 315,
       "id": "entry-817789",
       "label": "heading",
       "level": "3",
@@ -3879,7 +3783,7 @@
       "text": "THE STATUS OF EDUCATION IN NORTHERN KENYA"
     },
     {
-      "order": 324,
+      "order": 316,
       "id": "entry-817790",
       "label": "speech",
       "level": "3",
@@ -3891,7 +3795,7 @@
       "text": "Proceed, Sen. (Dr.) Ali. It is advisable that you use the Dispatch Box when moving a Motion."
     },
     {
-      "order": 325,
+      "order": 317,
       "id": "entry-817791",
       "label": "scene",
       "level": "3",
@@ -3903,7 +3807,7 @@
       "text": "(Sen. (Dr.) Ali walked to the Dispatch Box)"
     },
     {
-      "order": 326,
+      "order": 318,
       "id": "entry-817792",
       "label": "speech",
       "level": "3",
@@ -3915,7 +3819,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I intent to move a Motion concerning the education sector in Northern Kenya. There have been problems of education---"
     },
     {
-      "order": 327,
+      "order": 319,
       "id": "entry-817793",
       "label": "speech",
       "level": "3",
@@ -3927,7 +3831,7 @@
       "text": "Order, Sen. (Dr.) Ali! Please, move the Motion."
     },
     {
-      "order": 328,
+      "order": 320,
       "id": "entry-817794",
       "label": "speech",
       "level": "3",
@@ -3939,7 +3843,7 @@
       "text": "Mr. Deputy Speaker, Sir, I am sorry about that. I did not have the Motion with me. Mr. Deputy Speaker, Sir, I beg to move the following Motion:- THAT, AWARE that Article 43 (f) of the Constitution of Kenya stipulates that every person has the right to education, and Article 53(1) (b) provides that every child has the right to free and compulsory basic education; ALSO AWARE that education is a basic need and a tool for intellectual empowerment and social-political development; FURTHER AWARE that education is a shared function between the National and the County levels of Government with the National Government being responsible for primary, secondary and higher education while the county government is responsible for preprimary education, village polytechnics and home craft centers; COGNISANT that both levels of Government complement each other in promoting sustainable education; CONCERNED that the intake, uptake and quality of education in the Northern Kenya have adversely been affected owing to discrepancies in public resources allocation, insecurity, skewed staffing and teacher training in the region; FURTHER CONCERNED that both the school completion rate and the national examination outcomes in region are poor and that the number of students from Northern Kenya who qualify for core courses in universities, colleges, technical schools and village polytechnics is minimal compared to other parts of the country; NOTING WITH CONCERN that due to insecurity and other related concerns, the Teachers Service Commission (TSC), which is the body responsible for the employment and deployment of teachers, has in the recent past taken steps to transfer non-local teachers from the northern region of Kenya to other parts of the country; CONCERNED THAT, the transfers have led to shortage of skilled teachers, which has been a major cause of the dismal performance in examinations in schools in the region; NOW THEREFORE, the Senate resolves to task the Standing Committee on Education to conduct an inquiry into the challenges facing the education sector in Northern Kenya with a view to:- 1) evaluating the effect of the teacher transfers from the region and recommending to the Ministry of Education, policy measures to address the challenge; 2) evaluating the status of the education infrastructure in the region and proposing solutions to mitigate the current and looming challenges; 3) proposing mechanisms for enhanced resource allocation at both levels of government to facilitate improved education facilities; and, 4) assessing school intake compared completion levels in the region in order to ascertain the impact of the challenges facing the schools and how these disadvantages the region compared to other parts of Kenya and proposing ways of addressing the challenges. THAT, the Committee submits a report to the Senate within three months of adoption of this Motion by the Senate."
     },
     {
-      "order": 329,
+      "order": 321,
       "id": "entry-817798",
       "label": "scene",
       "level": "3",
@@ -3951,7 +3855,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair] [The Temporary Speaker (Sen. (Prof.) Kamar in the Chair]"
     },
     {
-      "order": 330,
+      "order": 322,
       "id": "entry-817799",
       "label": "speech",
       "level": "3",
@@ -3963,7 +3867,7 @@
       "text": "Madam Temporary Speaker, in the recent past, we have had problems of insecurity, especially in the North Eastern parts of Kenya. About four or five months ago, two teachers were killed by suspected Al Shaabab militia. As a result, the TSC decided to transfer all non-local teachers from northern parts of Kenya. Wajir in particular was affected seriously. Over 900 teachers were transferred at ago. As a result, students have suffered up to date. This problem has been on and off. It is not the first time that teachers have been transferred from the region. In 2015, there was a problem of insecurity and all non-local teachers were moved. The same thing happened in 2016 and 2018. Sometime back, there were teachers from Mandera who brought a Petition to the Senate, complaining about several issues involving discrimination, threats, religious bias and so on. However, those issues do not really exist. This is because even in the 1970s and 1980s, when some of us were in schools, most of the teachers came from outside North Eastern; they are now referred to as non-locals. We did not have such problems then. However, of late, with the coming of age of devolution and Kenyans becoming more sectarian than normal - with political divides - things have turned out to be worse. Even before the insecurity incidents occurred, where two teachers were killed and more than 100 public schools closed especially in Wajir, the non-local teachers formed more than 60 per cent of the teaching fraternity in Northern Kenya. You can imagine what happens to schools in those areas whenever non-local teachers are removed, especially Wajir, Mandera and Garissa counties. Madam Temporary Speaker, the cycle of recruiting teachers and deploying them to counties in North Eastern, only to be transferred within one year or less portrays TSC to be incompetent or trying to use this area as a recruiting ground. Recently, the residents of North Eastern were very critical of the TSC. They have been complaining that the region is being used as a recruitment centre. This is because teachers, especially in the secondary schools, who are usually contracted for at least three years, do not stay that long. Even without incidents of insecurity, they are transferred within one year. They are transferred after complaining to the TSC. This poses a problem to those areas. For now, the starting point for the affected counties is to evaluate the performance of public education sector for the 20 or more years. In the earlier years, when exams were being done in the East African region, students especially in secondary schools, used to perform very well. However, when things changed, a good number of students started failing. We do not know the reasons for this because we had enough teachers in the early years compared to the current situation. The other reason for the shortage of teachers in those areas is that the locals do not want to study education. Possibly, they think that jobs in the education sector do not pay well. Everybody wants to go for lucrative business and courses. You will see students from Northern Kenya going to study accounts, medical courses and supplies and\n\nprocurement, which is becoming a lucrative business of late in this country. So we need to support and enhance this issue. Recently, after we had these problems, as the regional Members of Parliament, we went and talked to the students and most of them have decided that they want to join the education sector. I would like the people of the target counties to reflect on our society's attitude towards the education sector, especially the lack of interest, as I said earlier. In the past, there has been dismal performance in these regions. In 2017, Wajir County's mean grade was 3.1which is a D grade. We only had 58 candidates attaining C plus which translates to two per cent of the candidates who sat for the exam. You can imagine the problems in these areas. When you look at it subject by subject, there was only one student from one school called Ahmed Liban who scored an A minus in 2017 in the whole of Wajir County. Mathematics and Kiswahili were the worst with a mean grade of 1.7. Kiswahili is one of the languages needed for the courses to be studied and that includes mathematics.So, one can imagine how these people perform when it comes to sciences. Enrolment for science subjects in those areas is also very poor. Out of the six sub counties in Wajir County, there were no Physics candidates in two sub counties. In the remaining four, we had one each. Therefore, you can imagine what we expect from such areas. The highlight is, on the issue of the Kenya Certificate of Primary Education (KCPE) which is standard eight, four students out of a total of over 5,000 had 400 marks and above. All the others were below that and most of them had 200 marks and below. What do you expect of such areas when we continue with this? We have a lot of problems in those areas. This is not something that started recently and, therefore, for education in Northern Kenya to improve, we might require something like what the Americans did for Germany; the Marshall Plan, which will enhance resource allocation in those areas for us to have infrastructure; schools, classrooms, science laboratories, computer laboratories and dormitories. This is because most of the residents are nomadic and require those boarding schools. There are some that are already there but the numbers are not sufficient. We will also need to encourage the residents to try and do skilled manpower for they are not good at that. In that case, we possibly need the counties and the national Government to increase the number of technical training institutes in these areas. On the issue of insecurity, we know what is happening in these areas of late due to the Al-Shabaab menace. If we do not take care of these students, most of them will join the Al-Shabaab and that will not be helpful to this country. We already have problems and most of them are failures, they cannot manage. If you go to most universities in Nairobi, you will see students from the northern part but you should know that most of them are residents of Nairobi and its environs. They are those children whose parents are capable of paying for private education. Most of them are admitted for parallel courses. The locals, from poor families, cannot manage to come to Nairobi so they stay down there with nothing to do. Some of them join Al-Shabaab while others get into substance abuse such as miraa and bhang.In the end, we will have citizens who will not be of use to this country.\n\nAt this time and age of radicalization, we need to support the students in this region. I will request my fellow Kenyans to bear with the region and try to help them by not running away once they get jobs there. I believe that people die and I want to believe that most religions are of the same view, that when your time comes, you will die, whether you are in Nairobi or Mandera."
     },
     {
-      "order": 331,
+      "order": 323,
       "id": "entry-817804",
       "label": "scene",
       "level": "3",
@@ -3975,7 +3879,7 @@
       "text": "(Sen. Cheruiyot spoke off record)"
     },
     {
-      "order": 332,
+      "order": 324,
       "id": "entry-817805",
       "label": "speech",
       "level": "3",
@@ -3987,7 +3891,7 @@
       "text": "Look at this man here. You come from nowhere--- Everybody will have his or her time. Therefore, I urge the teachers who have been employed to perform their duties and not to run away because of insecurity which is an on and off thing. Recently, after the mass transfers in 2018, we had consultations with the Ministry of Education, Science and Technology and the Teachers Service Commission (TSC) and we came up with something called Curriculum Untrained Teachers or Curriculum Assistants where students who had scored C minus and above were to be involved. We were told that we did not have enough students who had scored that but we managed to get enough of them, especially in Wajir, Mandera and Garissa.These are people who could join teaching colleges but most of them had not done so because they could not even afford to go there. We agreed with the Ministry that for the first batch, they will employ around 300 of these students who will then be taken to the border areas where the other teachers cannot go, that is the schools bordering Somalia and around there. However, this has not been implemented since the schools opened and I think that the schools are closing tomorrow or the day after tomorrow.The Curriculum Assistants have not been in gainful employment and the whole thing has not materialized todate. With those few remarks, I wish to move the Motion and ask Sen. (Dr.) Milgo to second."
     },
     {
-      "order": 333,
+      "order": 325,
       "id": "entry-817806",
       "label": "speech",
       "level": "3",
@@ -3999,7 +3903,7 @@
       "text": "Thank you Madam Temporary Speaker. I stand to support the Motion by Sen. (Dr.) Ali, on the need to review and evaluate the state of education in Northern Kenya. As per Article 43(1)(f), education is a basic right for every person. That is why, when the NARC Government came into place in 2002, they decided that every individual should go to school by introducing capitation for free primary and secondary education. The current Jubilee Government started to enhance this free education in January, 2018, by enhancing the capitation of free primary and secondary education, so as to ensure that all students are brought on board. Northern Kenya is being affected by many issues. First of all, there is the issue of lack of resources that should be supplied by the national Government and the county government, especially when it comes to primary schools where students will later transit to secondary school. In addition to that, teachers are deployed by the TSC, though in the recent case, we realize that there was a lot of insecurity and the non-locals had to be transferred. I am sure that nobody can settle and teach in such a school when their life is in jeopardy. I am sure that the people of Northern Kenya and all stakeholders, together with the county governments, should sit together in a meeting and identify the real reasons these teachers are being killed or why there is insecurity. If non-local teachers are being killed, it is a pointer that there is somebody who just goes there to identify them. The governor and all the political leadership should, therefore, sit at a round table and identify the real reason behind these killings. Otherwise, with such insecurity, I am sure that no teacher from another community will go there. Secondly, Madam Temporary Speaker, one way out of that problem would be to ensure that there is a tailor-made identification of qualified people from that particular area who can then be sent for training. When the current Cabinet Secretary for Labour and Social Protection was a governor, he identified the skill sets that were missing in his county such as doctors, engineers and masons. He then set aside some funds from the county kitty to send his peoplefor training for future engagements in that county. I am sure that if the same formula is applied in terms of teachers, there will be a change. Madam Temporary Speaker, this Motion also touches on the issue of school non- attendance for the inhabitants of that area. In this case, it is a matter of going around and sensitizing the inhabitants of Northern Kenya to ensure that they take their children to school. Otherwise, they will miss out in the decision making table in future as well as jobs that will be shared out. This is because we all know that when it comes to employment, of course qualifications of applicants will be a factor to be considered. Madam Temporary Speaker, the Mover of the Motion said that most of the people who are trained would normally pursue other courses, such as accounting and others. Maybe this is as a result of the way teachers have been treated in that area in the past and, as a result, they got scared. If teachers from other areas or those who got trained from that area were mistreated, no individual would prefer to go there for training as a teacher. Therefore, Madam Temporary Speaker, as I second this Motion, I challenge the politicians from that area to sit with the county Government and come up with the actual issue bedevilling education there. Otherwise I know that it is the responsibility of the national Government to provide security so that teachers who may agree to go and teach there are assured of their security. Otherwise, this is a very relevant Motion. For us to ensure that Northern Kenya will not be marginalised in future, we must ensure that all school-going children not only access education, but they are retained in schools and complete their schooling. Madam Temporary Speaker, I also wish to inform the Mover of the Motion that the Ministry of Education is giving grants for development for 100 per cent transition. However, the grant is only available to those that are going to apply through a proposal because not everybody requires such grants. Therefore, when the Mover goes back to the county, he should go and sensitize the schools that may require such grants for putting up infrastructure, to ensure that they apply. He should also ensure that somebody follows up with the Ministry of Educationto ensure that they get what I am talking about; which is the 100 per cent transition grant. Otherwise, this is a very relevant Motion. I beg to second. Thank you, Madam Temporary Speaker.\n\nThe Temporary Speaker"
     },
     {
-      "order": 334,
+      "order": 326,
       "id": "entry-817810",
       "label": "speech",
       "level": "3",
@@ -4011,7 +3915,7 @@
       "text": "(Sen. (Prof.) Kamar): Thank you, Senator."
     },
     {
-      "order": 335,
+      "order": 327,
       "id": "entry-817811",
       "label": "scene",
       "level": "3",
@@ -4023,7 +3927,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 336,
+      "order": 328,
       "id": "entry-817812",
       "label": "speech",
       "level": "3",
@@ -4035,7 +3939,7 @@
       "text": "Hon. Senators, I will allow the hon. Senators to take their seats before I can give a Communication from the Chair."
     },
     {
-      "order": 337,
+      "order": 329,
       "id": "entry-817813",
       "label": "scene",
       "level": "3",
@@ -4047,7 +3951,7 @@
       "text": "(Interruption of debate on Motion)"
     },
     {
-      "order": 338,
+      "order": 330,
       "id": "entry-817814",
       "label": "heading",
       "level": "1",
@@ -4059,7 +3963,7 @@
       "text": "COMMUNICATION FROM THE CHAIR"
     },
     {
-      "order": 339,
+      "order": 331,
       "id": "entry-817815",
       "label": "heading",
       "level": "2",
@@ -4071,7 +3975,7 @@
       "text": "VISITING DELEGATION FROM ST. FRANCIS MANG'U GIRLS HIGH SCHOOL, KIAMBU COUNTY"
     },
     {
-      "order": 340,
+      "order": 332,
       "id": "entry-817816",
       "label": "speech",
       "level": "2",
@@ -4083,7 +3987,7 @@
       "text": "Hon. Senators, I would like to acknowledge the presence, in the Public Gallery this afternoon, of visiting students and teachers from St. Francis Mang'u Girls High School in Kiambu County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them. On behalf of the Senate and my own behalf, I wish them a fruitful visit. I thank you."
     },
     {
-      "order": 341,
+      "order": 333,
       "id": "entry-817817-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -4095,7 +3999,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 342,
+      "order": 334,
       "id": "entry-817817-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -4107,7 +4011,7 @@
       "text": "(Resumption of debate on Motion)"
     },
     {
-      "order": 343,
+      "order": 335,
       "id": "entry-817818",
       "label": "speech",
       "level": "2",
@@ -4119,7 +4023,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me an opportunity to add my voice to this Motion by Sen. (Dr.) Ali. It is clear in the Constitution that education is a social right to every child. It is a very painful reality that Northern Kenya has lagged behind in education for many years. This Motion is timely because performance of schools in this region is not good. As a result, people from there are disadvantaged in job opportunities because of lack of education. If I may be candid, when it comes to performance of children in schools, there are many variables that come into play. Some independent variables will have impact on the dependent variables. In the case of North Eastern, for example, the independent variables come in to play. They have a direct impact on the performance of schools in North Eastern. There is need to investigate thoroughly the cause of independent variables that have a direct impact on the performance. For instance, the issue of insecurity has led to the death of some teachers in that region. In Article 43(e) of the Constitution, everyone has a right to social security. So, the teachers in North Eastern have a right to security. If they are not guaranteed of their security, they will be psychologically affected and not deliver. Having taught in a secondary school and the university, I can confidently say performance cannot be a one man show, but it takes concerted effort. The tripartite relationship of parents, students and teachers is important. We cannot ignore this fact. This is a variable that affects performance greatly in our schools. If the tripartite relationship is not well nurtured, there is no way the students will perform well in school because discipline will be compromised. If you are not a disciplined as a student, you cannot perform well in school. Good performance needs discipline. There is a need to get into the truth of the matter. We need to establish the cause of dismal performance by schools in North Eastern. Good infrastructure and enhanced resources will not translate to good performance. However, there is need for a collaborative tripartite relationship, enough resources and proper infrastructure which will definitely create an enabling environment for good performance. If the education environment is not conducive and we avail books and other learning material, all will be in vain. We are aware of some teachers from North Eastern who complained of being sexually harassed and others miscarried because of the frustrations they went through. Such an environment cannot be an enabling environment for good performance. Teachers must be treated with dignity and respect. This is the only way they will deliver education to our children. We need to encourage teachers and organize public participation on education awareness in North Eastern so that parents appreciate its value. We, as a nation, have set education goals for our children. There is no way those goals can be achieved if the education environment is not conducive. So, there is need to investigate thoroughly and know what is ailing the education sector in North Eastern Kenya. We cannot blame poor performance on infrastructure alone. I could be wrong and I stand corrected. As an hon. Senator said, people can die anywhere. They can die in North Eastern, Nairobi or anywhere else. However, nobody wants to die soon. If you know that your life is at stake, will you wait to die because you do not care about your life? Nobody can continue teaching when his life is in danger. Teachers have families that depend on them as their sole bread winners. They also have feelings and need to be treated with respect. There is need to get into the core of this issue. A rush decision will not help North Eastern and we do not want that region to be left behind. We are keen on the children of North Eastern. We want them to be successful in life. We would like to see them excel in education so that, in future, they will be employed like other children of this country. Therefore, there is a need to investigate the core cause of poor performance and deal with it. We do not want to leave them behind. Again, we are grooming the future leaders and workers who will drive this nation to greater heights. As I said, this calls for concerted efforts. The tripartite relationship of parents, teachers and students will be important in addressing the state of education in North Eastern Kenya. If we do so, there will be marked improvement because students, teachers and parents will operate in a conducive environment. As such, we can move together with them because we do not want to leave the children of North Eastern behind. With those remarks, I beg to support."
     },
     {
-      "order": 344,
+      "order": 336,
       "id": "entry-817821",
       "label": "speech",
       "level": "2",
@@ -4131,7 +4035,7 @@
       "text": "Thank you, Madam Temporary Speaker, for this chance. I rise to support this Motion by my colleague and good friend, Sen. (Dr.) Ali. He has narrated to me, in informal sittings, about the challenges that the school going children in North Eastern Kenya, particularly, the county that he represents in this House, have had to go through because of this act of negligence by the Government. After the pressure and noise that was raised by the teachers from other regions that were teaching in North Eastern, the Government, without any due consideration of how the lives of the school going children in that region would be affected, accepted and bowed down to the pressure. It decided to withdraw the teachers who had made that request. These teachers are considered as non-locals. I do not want to seem to make light of the challenges that the non-local teachers, who are teaching in North Eastern are going through. Some of them are known to me through family, friends or the people I represent. Particularly, I remember the time that they visited us in this Senate. During our usual breaks, they had the opportunity to share with us the kind of difficulties and challenges they face while working in North Eastern Kenya. Therefore, it was within their rights, as any right thinking Kenyan would do, when faced with the kind of challenges that they were facing, to agitate and go back to their employer, who sent them to North Eastern to teach. It was within their right and nobody is condemning them for pulling out of the schools and going to the Teachers Service Commission (TSC) to present their issues. Madam Temporary Speaker, however, we expected the TSC not to make the callous decision it made to resolve the issue, given that it understands its mandate and knows that education is integral and a basic human right. All they needed to do was to have a round table discussion with the representatives of those teachers as well as the Government security forces, because it is the duty of any Government to provide security for its citizens in any part of this country. The TSC, as the employer of these teachers, should have said: \"We have done our bit, but, unfortunately, if there are issues to do with security, we absolutely have no mandate on that. However, since we want to ensure that there is continuous learning in our institutions without any due interference, we have called you, as a Government agency, to give us a roadmap and tell us your mitigating plans of ensuring that the teachers, who are teaching in these institutions, have good security to enable them to provide the necessary services when they show up for work.\" Madam Temporary Speaker, Kenyans are peace loving people and love one another. However, when your life is under threat, there is very little that you can do; you would rather retreat to places that you are familiar with and live amongst people that you have grown around. Therefore, the teachers agitated and called for the Government to make a decision. They said: \"Please, you need to provide us with security.\" Since nobody heeded their pleas for such a long time, they saw it wise, out of the abundance of question, to withdraw their services and request the TSC to post them elsewhere. The other issues about cultural diversity and challenges in terms of religious practices that these teachers were raising should have been handled by the local leadership, including the Governor, Senator, the Members of the National Assembly and the Members of the County Assembly. Let the community understand that we live in a country that is diverse in terms of religious and cultural practices. Therefore, there is no need for that discrimination, if the issues that they were raising were true. I have no evidence to doubt their claims that they were being victimised because they do not profess a certain faith. It was upon the TSC to call the leaders and say: \"Can you explain to your society that if certain practices are not put to a halt, then we cannot assure them that we will send teachers from other parts of the country to this particular region?\" It is against the law to either stop someone from working at a particular institution, because they do not profess a particular faith or doing certain things like dressing in a particular manner. It is important and our duty, as leaders, to educate the people that we lead to understand the diversity of our country. Therefore, it was great absconding of duty by the TSC and other Government agencies in making this decision. Madam Temporary Speaker, I want to laud the decision by Sen. (Dr.) Ali to bring this Motion before this honourable House. It is quite telling that many residents nowadays--- By saying this, I am not wading into the continuing debate on supremacy or which House resolves issues and which one does not. However, things are what they are. It is a known fact nowadays that when there are issues of national importance, Kenyans prefer that they be handled by the Senate. This is because the Senate is a House of reason and when matters are presented before it, you are assured that you will get a solution whichever way. Therefore, Sen. (Dr.) Ali has proposed a very good roadmap of resolving this issue and has placed the matter rightfully where it belongs, that is, before our Standing Committee on Education. He has even pointed towards the direction that the Committee needs to look and the things they need to investigate. I want to urge the Members of the Standing Committee on Education not to treat this matter casually. They should consider it as soon as possible, so that if there are children who are not going to school, the matter can be resolved as soon as possible. The TSC can then be called to present their findings because I want to believe that by the time they were making this radical decision, they had concluded that the society therein had refused to give them the kind of help they needed for them to provide a conducive environment for their workforce. Therefore, it would be extremely important for this Committee to even look into the many challenges posed by delocalisation. This issue has caught up with our teachers and many of them are complaining and even sending us messages, as their Members of Parliament, to intervene. Some of them say: \"I have just received a letter on my desk on a Friday indicating that next week I am supposed to report somewhere in the furthest point of this country. I have a family and I do not know what to do.\" We all know the earnings of teachers. When the TSC makes these programmes, I wonder who sit down and think through some of these programmes before making decisions. Why are we so careless in the way we treat our fellow Kenyans? The fact that you are seated comfortably at the TSC headquarters, in an air conditioned office and earn a good salary, does not mean that you should make decisions to disenfranchise other Kenyans without due consideration of how their lives will be interrupted. Therefore, it will be important that the Standing Committee on Education looks into the issues that have been raised by Sen. (Dr.) Ali. The Committee should also consider this emerging challenge that is being posed by delocalisation and many other issues that are disturbing our education sector. With those very many remarks, I beg to support the Motion and congratulate Sen. (Dr.) Ali for speaking for his people. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 345,
+      "order": 337,
       "id": "entry-817828",
       "label": "speech",
       "level": "2",
@@ -4143,7 +4047,7 @@
       "text": "Thank you, Senator. Proceed, Sen. Wetangula."
     },
     {
-      "order": 346,
+      "order": 338,
       "id": "entry-817829",
       "label": "speech",
       "level": "2",
@@ -4155,7 +4059,7 @@
       "text": "Thank you, Madam Temporary Speaker. This Motion affects Northern Kenya which cuts across Turkana to Wajir, Garissa, Marsabit and to some extent, some marginal counties like Baringo, Samburu, Isiolo and so on. For a long time in this country, there has been benign neglect of children in the northern part of this country, partly contributed by the prejudice caused by colonialism when the area was rudely referred to as the Northern Frontier District (NFD). Subsequent governments treated the area as hardship and many times, civil servants have been posted to Northern Kenya as a punishment and not a duty to work for the people of this country. That profiling of Northern Kenya has led to incredible injustices committed on the people of this region. People have been denied opportunities and rights to the extent that many people in Northern Kenya have to find their way in the lower parts of Kenya to get opportunities. This is wrong and dangerous because even if we do not go to the Constitution, it is an inalienable human right engraved in the Geneva Convention on children's, human and everybody's rights, that education is available to all. It was a Millennium Development Goal (MDG) and it is a Sustainable Development Goal (SDG) under the United Nations (UN) to which we are signatory. Kenya is a signatory to every convention on education and culture under the United Nations Educational, Scientific and Cultural Organisation (UNESCO) and other UN agencies. Madam Temporary Speaker, when this House debates the issue of marginalisation, inequality and neglect of Northern Kenya, we are but only bringing to the fore an issue that all caring and minding governments should be able to deal with. Sen. (Dr.) Ali has very amply articulated the issue. These days, whenever I listen to him, I see how age can mellow people. When we were together in the \"Lower House\" in the earlier years, he was an immensely noisy debater and could shout at the top of his voice to attract the attention of all and sundry. However, the measured manner in which he has presented his Motion and the feeling that he gives to this House and the country is something that this House must support as a duty."
     },
     {
-      "order": 347,
+      "order": 339,
       "id": "entry-817830-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -4167,7 +4071,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar) left the Chair]"
     },
     {
-      "order": 348,
+      "order": 340,
       "id": "entry-817830-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -4179,7 +4083,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 349,
+      "order": 341,
       "id": "entry-817831",
       "label": "speech",
       "level": "2",
@@ -4191,7 +4095,7 @@
       "text": "What is the problem of Northern Kenya? The problems of Northern Kenya are multiple. Some brewed in Northern Kenya while others in and perfected in Nairobi City County. The confusion that there is at the Ministry of Education and the Teachers Service Commission (TSC) has not helped. There is total lack of coherence in terms of policy formulation and execution and complete obliviousness of the needs of the children of this country. Both you and I come from communities that provide probably the largest quantum of teachers in this country. Anywhere you go, you will find 70 to 80 per cent of teachers come from our two communities and they do a good job. It is not because they do not like going to these white collar-jobs to sit in big offices, fiddle with accounts and make big money, but they have a calling to teach and impart knowledge to help other people in other places. If you go to Turkana County, out of every three or four teachers, two will be from my community and they enjoy it even with the rough terrain. What has failed Northern Kenya is not Al Shabaab. They came the other day and it is now an excuse and not a reason for neglecting that region. It is a reason invention. What happens these days is that where there is a security failure and even criminals are striking and killing people, the perfect excuse is, it was Al Shabaab, even without investigations. So, criminals go smiling all the way because we have already profiled the crimes that have been committed without investigations. Madam Temporary Speaker, now that we have a new Constitution and devolution, the Committee on Education that Sen. (Dr.) Ali wants to look at this, together with him and my distinguished colleague from Mandera County--- I urge the Senators from Northern Kenya to enjoin themselves in the Committee on Education in their sittings on these matters because they are so important to the areas and the people that they represent. Primary education, contrary to what Sen. (Dr.) Ali said, is still a national and not county matter. However, when we are dealing with the rights of children, that boundary is skin-deep, as lawyers would call it. It is so thin that it should be ignored. I want to expect that Northern Kenya counties, in cooperation and collaboration with the national Government, have a master-plan of how we want to manage education for the children. One time about four years ago, there were disturbing pictures from Turkana County wherechildren sat under a tree and an Administration Police (AP) with a Kalashnikov on his shoulder pretended to teach the children in a school. There was no teacher or facility. At the end of the year, that child under a tree in Turkana, Mandera, Moyale and wherever, has to sit the same examination with children from academies and well provided for schools in Nairobi City and other well protected parts of this country. Those children are also supposed to pass and compete for secondary schools and universities. That is the height of unfairness. In fact, I dare say it is an abuse of human rights of the children of those parts of the country. Children are going to secondary schools to sit examinations in sciences and they have never seen a test tube nor entered a laboratory or seen anything that warrants them competing with those who are spoon fed everywhere else. This Senate as the defender of counties and their governments and the people therein, must take a firm position and obligate both national and county governments to take full responsibility for the plight of these children. Madam Temporary Speaker, security is a national function. It does not make any sense for criminals from Somalia - for those counties on the Somali frontier - to walk in and out of Kenya in such a predictable fashion, kill children, teachers and innocent parents and walk back. This happens and yet we are a sovereign State with an army standing at numbers close to 60,000, policemen and huge budgets that nobody audits that have to protect the people of this country. So, one of the problems of education in Northern Kenya is security. In an area that has such a fragile eco-system and parents have to walk hundreds of kilometers to look for pasture, water and livelihoods, one would have thought that the process that was started by colonial governments in the 1940s and 1950s would be enhanced by now and we would be having fully fledged boarding schools in strategic parts of Northern Kenya. Boarding schools are not just boarding schools because you have dormitories for children and some poor quality food for them to remain in school but in the real sense there should be adequate housing for teachers as well. In every cluster of boarding schools, there must be a security apparatus to protect the children, teachers and other auxiliary workers in those institutions. That is why I am talking of collaboration and cooperation between county governments and the national Government. This House votes sufficient money to most of the counties. Turkana and Mandera counties get high doses of money. Madam Temporary Speaker, even without the segmentation and demarcation of responsibilities under Schedule Four, I expect the county governments of Mandera, Turkana and other affected counties to build state of the art facilities for boarding schools and then use this House to obligate the Teachers Service Commission (TSC) and the Ministry of Education to make sure they give them adequate teachers and books, where books are required. At the end of the day, you can get children to sit examination with those in other schools and compete fairly. Another thing of recent creation that is worrying is religious undertones that are emerging that are not helpful to this country. You saw and I am sure my colleagues also saw this. In a school in Loiyangalani in Marsabit, school children descended on teachers and thoroughly beat them and the only problem was that those teachers were from elsewhere. That is not a problem of those children but a problem of moral decay in our society. When we were growing up, we used to be told that anybody the age of your father is called father and anybody the age of your mother is called mother and a teacher was like your parent. You could never imagine a situation where a school child could wake up and physically beat a teacher to the extent that some teachers went to hospital. The moral decay is also something that the Committee must address. Where have we taken the wrong turn? Why would a child whose brain ought not to have been contaminated by the vagaries of religion, ethnicity and so on think that because Sen. Seneta is from Kajiado, she has no right to be a teacher somewhere else? These are issues that we must address. The third issue that the Committee must look at is inadequacy--- I can see my time is almost up. May I beg for a little more time?"
     },
     {
-      "order": 350,
+      "order": 342,
       "id": "entry-817836",
       "label": "speech",
       "level": "2",
@@ -4203,7 +4107,7 @@
       "text": "Will three minutes be enough?"
     },
     {
-      "order": 351,
+      "order": 343,
       "id": "entry-817837",
       "label": "speech",
       "level": "2",
@@ -4215,7 +4119,7 @@
       "text": "Five minutes."
     },
     {
-      "order": 352,
+      "order": 344,
       "id": "entry-817838",
       "label": "speech",
       "level": "2",
@@ -4227,7 +4131,7 @@
       "text": "Okay, you will have five minutes."
     },
     {
-      "order": 353,
+      "order": 345,
       "id": "entry-817839",
       "label": "speech",
       "level": "2",
@@ -4239,7 +4143,7 @@
       "text": "The third issue is the issue of inadequacy of staffing. If you go to schools here in Nairobi, you will find teachers piling on teachers and some do not even have duties. When you go to Northern Kenya, you will find schools with classes One to Eight registered and funded by the Government having two TSC teachers or even one. The rest are school dropouts, policemen and others who pretend to be teachers. This House must interrogate thoroughly the TSC on their policy of recruiting and staffing of teachers in marginal parts of this country. Madam Temporary Speaker, there are so many teachers on the streets of our towns. I am sure when you go to Kisumu, you are confronted regularly by tens of hundreds of children who have gone to schools and Teachers Training Colleges (TTCs) and registered with the TSC waiting and ready to be deployed to teach anywhere but nobody cares. Why do we tell school boards of management to recruit untrained teachers when we have teachers who have been trained but they are on the streets? These are the big questions that must be answered. There should also be rationalisation of staffing to create equity, so that if we have teachers that number hundreds of thousands in this country - sometimes we are told that there are 250,000, 280,000 or 300,000 - let us look at the demographic profile of the country. We need to know how many schools are in Northern Kenya and the optimal number of teachers that they require. It is understandable if a school has a shortage of one, two or three teachers but how do you have a school with Standard One up to Eight with only one TSC teacher and the same TSC is asking the Kenya National Examination Council (KNEC) to prepare examinations and ask pupils to compete for spaces in schools such as Alliance High School, Mang'u High School, Lenana High School and so on? This is the biggest problem. It is annihilation of population because if you do not give children education, you will be destroying their future. That is why they find the only hope in life is banditry, cattle rustling and other criminal activities. We will ask ourselves questions whose answers we know. I urge Sen. (Dr.) Ali to see this to the end. The Committee must prepare a proper and through report answering to all the four questions that he has raised in his Motion and bring the report here. This House should be given proper time to ventilate for Kenyans to know that if we go the way we are going, then we will have no moral or legal capacity to continue crying against crime because we are breeding crime by our neglect of children. Let me finish by stating that our internal security organs must be talked to because security is everything. I heard Sen. (Dr.) Ali say that teachers from other areas should go back. That is not the way to go. Those children are our children and they must be taught by the good teachers who teach other children elsewhere. We should not give in to criminals by transferring teachers because we cannot handle security. Those who are given the opportunity to handle security and are unable to protect our children have no business being there. It is as simple as that. In the Roman days, there was a saying of falling on the sword. If you were given an opportunity to protect the king but you slept on the job and criminals came over the wall and harmed the king, you did not wait to be dealt with because you were expected to take a sword and kill yourself. In modern times, you do not kill yourself but resign from your job. Those who are unable must be told to do so. Madam Temporary Speaker, I support this Motion fully."
     },
     {
-      "order": 354,
+      "order": 346,
       "id": "entry-817842",
       "label": "speech",
       "level": "2",
@@ -4251,7 +4155,7 @@
       "text": "Thank you, Madam Temporary Speaker, for also giving me a chance to add my voice on this important Motion. From the outset, I thank Sen. (Dr.) Ali for having thought about the status of education in Northern Kenya and bringing this Motion to allow this House to discuss the matter and request the Committee to investigate the status of education in that region. Madam Temporary Speaker, education is a basic right for every child in this country and also internationally. The right to education is enshrined in Article 53(b) of our Constitution, because education is the backbone of development. Therefore, if we do not ensure that we have quality education in our regions, it means that we shall not have meaningful development, not only in Northern Kenya, but also in many counties in our country. Having said that, Madam Temporary Speaker, I want to point out a few things. First, I concur with Sen. (Dr.) Ali on the Teacher Service Commission (TSC) transfer policy. It is important that whenever the TSC recruits teachers, not only in Northern Kenya, but also in all other regions in this country, to consider having them stay there for five years, as a policy. We have this particular issue in all our counties, where teachers apply for a job, get the job in our counties and, within one year, request for transfers out of those areas. They do this because they have already achieved their goal; which is to be in the TSC payroll, consequently leaving those particular stations unattended. We must, therefore, stick to the TSC policy. The TSC should also urge the school board of management and the Parents-Teachers Association (PTAs) to employ teachers who will stay in those particular areas for five years. Secondly, Madam Temporary Speaker, I urge Sen. (Dr.) Ali and the rest of the leadership of those particular counties in North Eastern to look into school infrastructure. North Eastern, being a harsh climatic area, needs quality infrastructure, for example, houses for teachers. You cannot just send a teacher from Kajiado, Nairobi, Eldoret or whichever other area in this country to an area with no basic infrastructure like houses, toilets, classrooms to teach in and administration blocks where one can sit and do their planning for the day. I agree with him that education, being the mandate of the national and county governments, the leadership of counties in Northern Kenya must push the county governments to allocate enough resources to the school systems. They should look into the possibility of having teachers' houses, staff quarters and adequate classrooms for their children. Madam Temporary Speaker, I know that the mandate of county governments is restricted to pre-primary education or Early Childhood Development (ECD). County governments should, therefore, set a good example and foundation by putting up enough ECD classrooms and houses for teachers, so that we can save the generations to come. We need to see the national government, through the National Government Constituency Development Fund (NG-CDF), putting up classes in Northern Kenya and fencing those schools so that our teachers can have a conducive environment to work in and help these children. Madam Temporary Speaker, we also need to see local leaders from these counties coming out to campaign and speak loudly on the quality of education in their regions. We cannot all sit here in Nairobi, neglect those regions and then talk about poor performance. We must go down there and talk to our people on the need for their children being enrolled and retained in schools. We want to see these children being taken through schooling and coming out, having performed well. I, therefore, hope that Sen. (Dr.) Ali, together with the other leaders, support our Committee to ensure that we encourage local leadership to come out and campaign seriously on the quality of education. During political campaigns, we go around campaigning for our parties, selling our party policies until the people buy them. Why do we also not campaign to sell quality education and performance until they perform well like all other children in all other regions? Madam Temporary Speaker, it is high time that leaders from those particular counties, including the county government leadership, speak out against retrogressive cultures and attitudes. I am a pastoralist and I know how some of our cultures can make our boys and girls believe that they cannot be taught by a young man or woman of a certain age or those people coming from a certain religion. We need to join hands to fight these retrogressive cultures and change the attitudes of our people towards education. Madam Temporary Speaker, security is a right for everyone. We cannot just say that those teachers should just stay and teach there for five years without being protected. Our teachers in North Eastern must also be protected. Therefore, the county and national governments should join hands to ensure that the security systems and infrastructure are put in place there. Why do we not have the biggest army barracks, Administration Police (AP) Camps and police stations in the North Eastern area? We may not need many of such in Nairobi; however, we need the big AP camps and machinery in those areas. Therefore, the county governments, in collaboration with the national government, should ensure that they have invested in security in North Eastern so that not only teachers, but also children and locals are protected. Madam Temporary Speaker, one other issue that we, in the Committee, need to seriously look into in this particular Motion is that of training. We need to encourage students from North Eastern to also take up teaching courses so that we can have teachers from those areas being employed there to be role models. This is because we need role models at times. Some of our children only see politicians or the Members of Parliament (MPs) as role models and not teachers, doctors and lawyers who come from their communities. Madam Temporary Speaker, we have many lawyers in this House. In some of our counties, children do not know that there are lawyers in this country. They only know of teachers and politicians. We need to encourage students from Northern Kenya, once they complete secondary education, to pursue teaching as a career so that they can teach in that region. I also want encourage the leadership of Northern Kenya not to believe that their children can only be taught by their own teachers. If we continue with that belief, we shall have a situation where people from Mt. Elgon, Uasin Gishu, Kajiado and Narok counties will also demand to be taught by their own teachers. This should be discouraged because we want to promote diversity. Madam Temporary Speaker, we never had enough infrastructure in our schools. For example, we did not have a fence, CCTV cameras, watchmen and matrons. The morals and values of our children are questionable. There are schools that cannot afford CCTV cameras or armed security. Parents make their children understand learning can take place anywhere even under a tree. I know that my Chairman, who is seated next to me, possibly went to a school in North Eastern which did not have CCTV cameras. We went to such schools with no adequate infrastructure, but we never burnt down dormitories and classrooms. Our children can learn in any school and be taught by a teacher from any part of this country. That is the gospel we should preach to our children. Madam Temporary Speaker, we have had a situation today where students are striking because a head teacher is being transferred to another school. Sometimes that teacher could be the reason why they are not performing well. Some students believe they cannot pass their exams because their teacher has been transferred to another school. We need to talk to our children and make them understand why some of these teachers have to be transferred. They cannot be taught by one teacher forever or perform in exams because they have an equipped----"
     },
     {
-      "order": 355,
+      "order": 347,
       "id": "entry-817849",
       "label": "scene",
       "level": "2",
@@ -4263,7 +4167,7 @@
       "text": "(Sen. Seneta's microphone went off)"
     },
     {
-      "order": 356,
+      "order": 348,
       "id": "entry-817850",
       "label": "speech",
       "level": "2",
@@ -4275,7 +4179,7 @@
       "text": "(Sen.) Nyamunga): Senator, your time is up!"
     },
     {
-      "order": 357,
+      "order": 349,
       "id": "entry-817851",
       "label": "speech",
       "level": "2",
@@ -4287,7 +4191,7 @@
       "text": "Madam Temporary Speaker, I request for one more minute."
     },
     {
-      "order": 358,
+      "order": 350,
       "id": "entry-817852",
       "label": "speech",
       "level": "2",
@@ -4299,7 +4203,7 @@
       "text": "(Sen.) Nyamunga): Please, give her one more minute."
     },
     {
-      "order": 359,
+      "order": 351,
       "id": "entry-817853",
       "label": "speech",
       "level": "2",
@@ -4311,7 +4215,7 @@
       "text": "Madam Temporary Speaker, it is important for our children to believe that they can perform anywhere in this country and in any situation if they have the will to do so. As we debate this Motion, I encourage parents in all schools, including Nairobi County, to talk to their children so that we change their mind. With regard to the issue of teachers' harassment in one of the schools in North Eastern, I would urge our children to respect all teachers irrespective of where they come from. We should not encourage teachers to continue teaching in areas where their lives are under threat. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 360,
+      "order": 352,
       "id": "entry-817854",
       "label": "speech",
       "level": "2",
@@ -4323,7 +4227,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me the opportunity to contribute to this important Motion. I thank my distinguished colleague from Wajir County for bringing it before the Senate. Madam Temporary Speaker, the state of education in Northern Kenya and unlike the wide definition which was given by my colleague from Bungoma, we are specifically talking of regions like Garissa, Wajir, Mandera and, to some extent, Marsabit and Tana River which have the same similarities in this particular situation. First of all, I thank the gallant sons and daughters of Kenya who have contributed to the education of the children of Northern Kenya from time in memorial to today. Many teachers who have taught in those schools came from outside that region. We were taught by teachers who came from as far as the former Nyanza, parts of Eastern, Western and Coast regions. In fact, it is important to recognize the contribution that those sons and daughters of Kenya made to that region. It is not the first time that we are having non- locals teaching in that region. It has been there before, it has worked and succeeded. We have never had a situation where people talked about racism or abuse because of religious or cultural differences. In fact, this is something which is coming up today. It is unfortunate. Madam Temporary Speaker, at Independence, there were few primary schools in Northern Kenya. There was one in Wajir, Garissa, Mandera and Marsabit. The one in Wajir started in 1948. It is the only primary school there. However, there were no secondary schools in the former North Eastern Province at Independence. Secondary schools in Wajir started in 1965. When you look at where the region is compared to where it was then, we thank successive leaders of from the region and elsewhere for the effort which was made for us to be where we are today. At one time, teachers were the largest work force of public servants in the region. That showed that the region appreciated the importance of education and they took their children to teachers training colleges. At one stage, the substantial numbers of those teachers were from outside the region. There is no one time where teachers from the rest of Kenya were scarce. Madam Temporary Speaker, as time passed, things continued to change. In fact, when we had the Free Primary Education (FPE) which was implemented by the Government in 2003, schools became many and facilities were overwhelmed, hence the shortage of teachers to the extent that the ratio of children to teachers became drastically high. That is when the Teachers Service Commission (TSC) attempted to employ. In fact, quite a number of teachers who were there were not transferred, they were employed. When vacancies occurred in an attempt to deal with the gaps, the TSC employed teachers who mostly came from all over Kenya. The teachers we have today in that region were not transferred by the Teachers Service Commission (TSC), as it used to happen many years back. They were employed because they sought for jobs in that region. Madam Temporary Speaker, the recruitment numbers were also not matching the gaps and shortages that were there. As one of my colleagues mentioned, in some schools we only have two teachers; the head teacher and one more teacher. With the advent of CDF in the Ninth Parliament, a lot of schools were built together with the infrastructure which was not there. That is the reason we ended up with many schools with a shortage of teachers. The current situation that we are in has also been exacerbated by the confusion that was created by insecurity in the region. That insecurity affected the whole region and, as a matter of fact, the Al Shaabab came up with tactics to divide Kenyans and we fell for them. It is unfortunate that the Al Shaabab militia is dividing Kenyans along religious lines and we are giving in. The unfortunate incidents that happened to the quarry workers, Garissa University and in Wajir, have all now been lumped together to affect the whole region. Even in some parts of the region which did not experience incidents of insecurity, teachers wanted to move out and the TSC gave in. In fact, the TSC proved very incompetent in dealing with the matter. Instead of them looking into this issue and determining how best to deal with it, they overreacted and we found ourselves in the confusion we are in. Madam Temporary Speaker, the Senate must look into this matter and find out what needs to be done in terms of information gathering. We need to find out the issues on the ground, because seeing is believing. You will see that the insecurity, which is so much hyped, is not there. You will also realize that claims of racism and discrimination are not true. We are very willing, as the Senators from that region, to accompany the Committee on the ground in order to deal with the matter squarely. We cannot run away from a problem that exists. We cannot close schools in the north eastern region or have teachers from only that part of this country. Over the years, the education system has been diluted to the extent that, for example, you grow up in a village and go to nursery, primary and secondary schools in the same village. Finally, you will go to a university campus in the same village. We are not building a national character. Many years back, I went to Wajir High School and Nakuru High School. Many of us went to national schools and there was integration. If we have teachers from only one region, it will complicate matters further. Madam Temporary Speaker, Sir, this Motion has come at the right time and we require new policy direction, if at all the Ministry of Education is capable to drive that policy. At one time, we needed education for the pastoralists because they move from one place to another, but nothing has happened after over 50 years of Independence. We need a policy direction that can make teachers feel safe. It is unfortunate when teachers go on television and lie that they have been harassed, sexually abused or called names while the students are listening. I do not want to go back there. The teachers who were in the region wanted an excuse to be transferred out of the region and the TSC insensitively agreed with them. We want the TSC to exercise its mandate and the security department, as well, must play its role. There could be issues in the border towns with Somalia, but not the whole region. This Motion by Sen. (Dr.) Ali has come at the right time. The Motion is asking us to evaluate the status of education and infrastructure in the region. It is only the National Government Constituencies Development Fund (NG-CDF) that has been doing a lot of work there, but we need more investment. As you are aware, education is a function of the national Government, but nothing stops the governors from building schools. If I were a governor, I would build schools and go to jail because of that. That is a better reason to go to jail than misusing money on other things, like it is happening in the region. You would actually contribute to the wellbeing of your region by investing in education. In Mandera and Wajir counties, there was a shortage of teachers and the county governments did a lot in terms of employing untrained teachers and the schools went on uninterrupted. Madam Temporary Speaker, this Motion has come at the right time and we need the support of every Kenyan and the Senate. We should not be emotional about these issues because at times they have been exaggerated. Let us stop exaggerating and go there to get the facts and see what best we can recommend to the authorities that be, for implementation. With those many remarks, I beg to support."
     },
     {
-      "order": 361,
+      "order": 353,
       "id": "entry-817859",
       "label": "speech",
       "level": "2",
@@ -4335,7 +4239,7 @@
       "text": "Let us reduce the time to 10 minutes, because there are more Members who are interested in the debate. Proceed, Sen. Faki."
     },
     {
-      "order": 362,
+      "order": 354,
       "id": "entry-817860",
       "label": "speech",
       "level": "2",
@@ -4347,7 +4251,7 @@
       "text": "Asante Bi. Spika wa Muda, kwa kunipa fursa hii kuchangia Hoja hii kuhusu elimu katika eneo la Kaskazini Mashariki. Kwanza nampa kongole Senata wa Wajir, Sen. (Dr.) Ali, kwa kuleta Hoja hii katika Seneti. Huu ni wakati mwafaka wa kujadili hali ya elimu katika sehemu hiyo. Hali ya elimu katika sehemu ya Kaskazini Mashariki inaathiri sehemu za Lamu na Tana River ambako kuna wizi wa ng'ombe na maghaidi wa Al Shaabab ambao wanavamia sehemu za Lamu na kwingineko. Tatizo la Kaskazini Mashariki si la sasa. Ni tatizo ambalo limekuwa kwa muda mrefu. Kulikuwa na upungufu wa waalimu, madarasa na shule ambazo ziko kule bado hazijaboreshwa. Katika sehemu zingine wanafunzi wanaingia shule kupitia vitambulisho vya biometric vya kisasa. Shule nyingi mjini Nairobi zimeanzisha mfumo huo, lakini kule Kaskazini Mashariki hata madarasa hayapo katika shule nyingi. Katika shule nyingi wanafunzi wanakaa chini ya miti. Kwa hivyo, walimu wanaosomesha sehemu zile hawana motisha ya kufunza vizuri. Bi.Spika wa Muda, tatizo kuu ni maendeleo. Ili kuwe na maendeleo ni lazima tuwe na shule nzuri, mabweni na madarasa ya kisasa. Walimu watakuwa na hamu na ari ya kwenda kufundisha katika sehemu kama zile. Lakini ikiwa maendeleo yatakuwa bado ni duni katika sehemu zile, walimu wengi hawatakuwa na hamu ya kufanya kazi katika sehemu kama zile. Hakuna mtu anayetaka kufanya kazi katika sehemu ambazo hazina maendeleo na malazi na vyoo sawa au maji ya mfereji. Vile vile hakuna mtu anayetaka kufanya kazi katika sehemu ambayo haina umeme katika shule na makaazi watakaoishi. Kwa hivyo, ni lazima maendeleo yafanyike katika sehemu zile. Lazima Serikali ijenge shule za kisasa na iendeleze sehemu zile kwa kupeleka maji, umeme na idumishe usalama. Hii ni kwa sababu usalama unahakikishia kila mtu kwamba ana haki ya kuishi na kufanya kazi katika sehemu yeyote ambayo anapendezwa. Jambo la pili ni kwamba ni lazima tuangalie hali ya utamaduni ya zile sehemu. Kwa mfano, watu wengi kutoka sehemu zile zinazozungumziwa ni Waislamu na wanajaribu kulinda utamaduni wao wa Kiislamu. Kwa hivyo, hatuwezi kusema kwamba walimu wote watakaopelekwa kule watakuwa, kwa mfano, wa dini tofauti na ya Kiislamu. Ni lazima tuhakikishe kwamba katika sehemu kama zile tunapata walimu wengi ambao wanatoka katika makabila yao ama tamaduni ambazo zinaingiliana. Kwa mfano, walimu ambao ni Waislamu watajumuika kwa urahisi na wakaazi wengine wa Kaskazini Mashariki kuliko walimu wa imani ingine. Bi. Spika wa Muda, kwa hivyo, ni lazima tuangalie huu utamaduni kwa makini. Ninahakika ya kwamba, wanafunzi wengi ambao labda hawafanyi vizuri katika elimu ya darasani kule North Eastern, wanafanya vizuri katika elimu ya dini. Hiyo inamaanisha kwamba, walimu wanaosomesha dini wanaweza kupewa fursa ya kuenda katika vyuo vya ualimu na wapewe somo la Kiingereza peke yake ili wahakikishe ya kwamba wanaweza somesha kwa Kiswahili, Kiingereza na Kiarabu. Kwa hivyo, wakati mwanafunzi yuko darasani katika sehemu zile za North\n\nEastern\n\nambazo hakuna shule za kutosha, wanapata fursa ya kusoma elimu yote ya dini na dunia. Hilo litasaidia kupunguza---"
     },
     {
-      "order": 363,
+      "order": 355,
       "id": "entry-817865",
       "label": "scene",
       "level": "2",
@@ -4359,7 +4263,7 @@
       "text": "(Sen. Cherargei and Sen. Mutula Kilonzo Jnr. consulted loudly)"
     },
     {
-      "order": 364,
+      "order": 356,
       "id": "entry-817866",
       "label": "speech",
       "level": "2",
@@ -4371,7 +4275,7 @@
       "text": "Bi. Spika wa Muda, naomba unilinde kutokana na Maseneta, mawakili wenzangu ambao wanazungumza kwa sauti ya juu. Iwapo tutaangalia na kuchunguza kwa makini utamaduni wa watu wa North"
     },
     {
-      "order": 365,
+      "order": 357,
       "id": "entry-817867",
       "label": "heading",
       "level": "2",
@@ -4383,7 +4287,7 @@
       "text": "Eastern"
     },
     {
-      "order": 366,
+      "order": 358,
       "id": "entry-817868",
       "label": "speech",
       "level": "2",
@@ -4395,7 +4299,7 @@
       "text": ", tutaona ya kwamba, wengi wao wanaweza kusoma lugha ya Kiarabu na masomo"
     },
     {
-      "order": 367,
+      "order": 359,
       "id": "entry-817870",
       "label": "speech",
       "level": "2",
@@ -4407,7 +4311,7 @@
       "text": "yao ya dini kwa ukamilifu zaidi lakini hawasomi masomo ya kawaida kikamilifu. Sababu ni kwamba wana tofautiana kitamaduni na walimu wanaowafundisha. Bi. Spika wa Muda, jambo la mwisho ambalo ningependa kuchangia ni kwamba Serikali ifanye mipango zaidi ya kupeleka maendeleo katika sehemu hizi ambazo zimeathirika. Tumeona kwamba zile fedha zinazotengwa katika sehemu zile, kwa mfano"
     },
     {
-      "order": 368,
+      "order": 360,
       "id": "entry-817871",
       "label": "heading",
       "level": "2",
@@ -4419,7 +4323,7 @@
       "text": "Equalization Fund"
     },
     {
-      "order": 369,
+      "order": 361,
       "id": "entry-817872",
       "label": "speech",
       "level": "2",
@@ -4431,7 +4335,7 @@
       "text": "na zinginezo, hazitoshi kuhakikisha kwamba maendeleo yanaenda katika sehemu zile. Kwa hivyo, tuhakikishe ya kwamba Serikali inapeleka miradi mingi ya maendeleo katika sehemu zile. Serikali ipeleke maji, shule na umeme kuhakikisha kwamba, sehemu zile ambazo zimetengwa na ziko mbali na Nairobi, wanapata huduma kama ile inayopatikana jijini Nairobi. Ikifanyika hivyo, watu wengi watakuwa na hamu na ari ya kuenda kufanya kazi katika sehemu zile. Hili tatizo la elimu na matatizo mengine ya biashara yataisha katika maeneo kama yale. Bi. Spika wa Muda, nina kushukuru kwa kunipa fursa hii kuchangia Hoja hii kuhusu elimu katika eneo la North Eastern . Asante."
     },
     {
-      "order": 370,
+      "order": 362,
       "id": "entry-817873",
       "label": "speech",
       "level": "2",
@@ -4443,7 +4347,7 @@
       "text": "Proceed, Sen. Pareno."
     },
     {
-      "order": 371,
+      "order": 363,
       "id": "entry-817874",
       "label": "speech",
       "level": "2",
@@ -4455,7 +4359,7 @@
       "text": "Thank you, Madam Temporary Speaker, for allowing me to contribute to this Motion. I rise to support. It is interesting that we are now debating this Motion about the status of education in Northern Kenya yet we are also processing a Petition. A Joint Committee on Education and the Committee on National Security, Defence and Foreign Relations of the Senate are also tasked to handle a Petition that was brought before this House and referred to the said Committees by this House. There is this Motion and that Petition that is being handled by the Joint Committee. At some point, we will have to check how the two can be merged so that whatever outcome should be reflecting what both the Petition and Motion are talking about. The Petition and the Motion are talking about the same thing. Madam Temporary Speaker, I had a chance to hear from some of these complainants. I also had a chance to read that Petition which has just the same things as what this Motion is talking about. The complaints that we now have is that we do not just have a security situation in Northern Kenya. It is not insecurity alone. I am now wondering who to believe. If you hear the submissions of some of the Members of the Senate, especially from that region, they say the allegations that are being brought forth by the teachers who have caused the transfers that have been done, are not true. However, I personally had a chance to talk one on one with some of these petitioners. In fact, they broke down before the Committee because of what they were narrating. It is in some of these schools - not all of them - because we cannot say that every county in north eastern has the same problem or that the problems are the same in every institution. In some of the named institutions, we were told that there was stoning of teachers. That is a report and Petition we have. In some of the institutions, we were told that a teacher was assaulted and slapped before the wife because they both happened to be teaching in the same school. There is a report that there is discrimination and someone are not allowed to take sick leave. Teachers are also not allowed to take maternity leave. Those ladies who were narrating were breaking down to the extent that we also broke down with them. Madam Temporary Speaker, this is a House that can tell the truth. Everybody is saying their own things. There are those who are saying that it is a lie; it is not true, while before our own eyes, the teachers said that it is true. The Kenya National Commission on Human Rights (KNCHR) submitted that some of those allegations are true. Those things will be tabled before this House; that they were called \" nywele ngumu\" and they feel discriminated. We have that evidence from the KNCHR. We also have it from the Teachers Service commission (TSC), where an officer said that they have investigated this and it is true and, that is why they have taken those teachers away. Madam Temporary Speaker, of course, the security is in itself an issue. However, one thing that we must do as a Senate is to find out the truth. Amongst all these people, who is telling the truth? On one part, you have the Ministry saying it is not true, while on the other part you have the leaders saying it is not true. On the part of the victim who is the teacher, he or she says that it is true. On the part of the KNCHR, they say it is true. On the part of the TSC that posted those teachers to that area, they say that it is true. The only saviour in this situation, aside from the security situation that should be handled separately because it is real, is for this Senate to send these Committees to the ground. The Joint Committee on Education and National Security, Defence and Foreign Relations is already setting dates to visit these affected areas and investigate for itself the truth so that we can table and discuss it before this Senate. Madam Temporary Speaker, this is a very serious issue. If our children are not getting education because of discrimination, we must rout it out. If it is the children that are indisciplined, we must bring back discipline. In fact, I dare say that most of us were taught by non-locals. I was taught by Mr. Manyara and Mr. Malonza who were my head teachers in primary. I went to school at Kipsigis Girls Secondary where there are all sorts of tribes. It is not tribes nor region; it is about education and we must rout it out without discrimination, fear or favor. I submit."
     },
     {
-      "order": 372,
+      "order": 364,
       "id": "entry-817877",
       "label": "speech",
       "level": "2",
@@ -4467,7 +4371,7 @@
       "text": "Proceed, Sen. Kang'ata."
     },
     {
-      "order": 373,
+      "order": 365,
       "id": "entry-817878",
       "label": "speech",
       "level": "2",
@@ -4479,7 +4383,7 @@
       "text": "Thank you, Madam Temporary Speaker. I take this opportunity to thank the Mover of this Motion. I rise to support this Motion 100 per cent, reason being that I have always had this notion that north eastern will be the area that is going to assist Kenya to become a developed society for several reasons. First, when it comes to the issue of land as a factor of production, land can only be irrationally exploited where it is in abundance. We do not have any other place where we have land in abundance like the north eastern region. About 70 per cent of land mass in this county is in the northern region. For instance, we have now the so-called the Big Four Agenda. One of the pillars of the Big Four Agenda is the housing problem. If you wanted, for instance, to urbanize - we all know urbanization is one of the key ingredients for a modern society - we can only urge the Government to build more houses and urbanize the entire region of north eastern. This is because people there do not have small titles which hinder the whole idea of bringing people together and urbanizing. Therefore, the northern region is the region that is going to help Kenya move forward. The northern region is the one that will assist Kenya to move forward. If we talk of things like large scale farming, they can only occur in a more rational manner in the northern region because of availability of huge land. When you have large scale farming, you can produce things at a cheaper price and, therefore, make Kenya a food basket. Madam Temporary Speaker, that region has a non-seasonal river which flows the entire year. Therefore, if we can leverage on the resources in that region, that is how we can develop. This point may appear off-topic, but it buttresses the whole idea that the northern region should not be discriminated against. It makes all the sense for us to put in more money there so that it gives us what we call a \"leg up\" as we strive to industrialize. Therefore, some positive discrimination in terms of sending more resources to that region may assist, not only the people of that region, but even those of us who come from other regions of Kenya. A good example in that philosophy has been shown by unfortunate incidents, where people have been killed when they were quarrying. All those people came from Central region, showing that, in their own way and wisdom, they had seen some resource in that region and they had gone there to exploit it. This means that when we develop the northern region, we not only develop the locals, but the entire country. Therefore, Madam Temporary Speaker, this Motion is trying to see what we can do about lifting education standards in that region. We should support it with the understanding that we are not only targeting the northern region, but we are assisting that region to become the catalyst of development for the entire country. That is why I have always been perturbed by reports that we do not have a tarmacked road that link the three main towns of that region; that is Garissa, Wajir and Mandera. Maybe when the Mover will be replying, he will say that a contract is already rolling out to ensure that those three towns are linked. If, indeed, that project is there, we need to tell the Government that it is good, that it is quite important and we need to celebrate that. The Jubilee Government needs to be congratulated and celebrated because by doing that, we are going to end the so-called \"so many years of discrimination.\" Madam Temporary Speaker, I make reference to the 1965 Sessional Paper No.10, which was tabled before the National Assembly either by hon. Mwai Kibaki or the late hon. Tom Mboya - it was actually hon. Tom Mboya. It argued that we when we put more resources in a certain region, development then percolate. I think that was a flawed argument because, one, economic theory appears to buttress the idea that the best way to develop people is the bottom-up approach. This means that you go directly to where the people are and then you move up. Number two, you will find that on regions where land has been divided so much, I am not so sure you can get the best results once you put more resources in those regions. I am, therefore, arguing that the current modern economic thinking supports the whole idea of putting more resources in the northern region so that, that area now becomes the launch pad for the expansion of our economy. Therefore, this idea of asking ourselves how we can uplift the northern region in terms of education is important to me, because education touches what we call \"human capital.\" It is the human capital that we are trying to sharpen and address. Therefore, if we were to ensure that we have more graduates and more educational institutions in the northern region, we will have a situation where that region can continue spanning and attracting the best ideas and brains from the entire country. They will also be contributing to the betterment of this country. Madam Temporary Speaker, I am aware that various educational infrastructural projects are incomplete. Therefore, Members of Parliament from that region need to account for the NG-CDF money. What have they done with it? Governors need also to account and show us what they have done in that region. Those problems are not unique in the northern region. Some schools in other areas of this country do not have equipment and yet they are represented by Members of Parliament, governors and so on. As we debate this Motion and once this task force is constituted, we need to know what happened to the resources that were channeled in that region. We embraced devolution six years ago. However, the Northern Kenya has suffered discrimination for so many years. This was because there used to be a notion that we develop certain regions and then let development percolate to other regions. Madam Temporary Speaker, with the discovery of oil in the northern part of this country and harnessing solar, to me, the future clearly belongs to them. With those few remarks, I stand to support this Motion on the notion that we will not only be targeting the people of North Eastern, but the benefits will percolate to the entire country."
     },
     {
-      "order": 374,
+      "order": 366,
       "id": "entry-817883",
       "label": "speech",
       "level": "2",
@@ -4491,7 +4395,7 @@
       "text": "Thank you, Madam Temporary Speaker. First of all, I applaud Sen. (Dr.) Ali for this Motion. I have been looking at the marginalization policy in terms of where Sen. (Dr.) Ali comes from and the picture on page 29 of the marginalization policy shows the whole of North Eastern region as marginalized. Madam Temporary Speaker, what is happening in Wajir and Marsabit counties is further marginalization. We must condemn it in the strongest terms possible. Secondly, we have been accused by people we know that we have been doing things that do not concern us. This is one of those matters that the Senate must distinguish itself by making sure that the people in the North Eastern Frontier are treated like the rest of Kenyans who live in Murang'a, Nairobi, Kiambu and Makueni counties. We will not eliminate discrimination by discriminating further. There are two categories of people in Kenya who are treated as if they are nobodies; first, the teachers of this country. There is no person seated here who has not passed through a teacher. However, teachers are the poorest. There is no person seated here who does not have security. Teachers do not have security. The second category is doctors. The third one is police officers. People who take care of us are mistreated. I plead with this Senate that if the second session, after going to Eldoret is to go to North Eastern, let us go and camp there. All of us must show the world we do not fear the insecurity that people claim is there. Let us show that region is secure. Let us give hope to the children who are there. As Mandela said, education is the greatest engine of personal development. A child of a peasant can become a president. A child of a mine worker can become the head of that mine. We can only do so, through this and I applaud this Motion. Teachers and students must be protected because they are the future of this country. It is not even the oil in Turkana that we are talking about; the future of Kenya lies in making sure that the child in Marsabit, Mandera or any other place, gets the education that is found in the schools in Nairobi, Kiambu and children of people like us in these modern schools. That is the way to eliminate radicalization of those children. I went to a school where there were persons who are disabled learning in a normal school and they wanted to fence it. When you discriminate these children, you treat them like you have put a fence. They end up feeling children in Nairobi are treated better than them; why not go to Somalia and become gangsters? Let us get to the bottom of this. I support this Motion 100 per cent. Consider me a friend of the Committee because this is something I believe in and I have a passion in. This Senate must deal with this issue effectively so that these young people can start believing in this country. People are leaving and going to other countries because they have lost hope in this country. I met a gentleman who is in Japan; he is an architect. He went there when he was 19 years old. Now he is Japanese. He is working well. The next President of this country might come from Wajir County."
     },
     {
-      "order": 375,
+      "order": 367,
       "id": "entry-817886-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -4503,7 +4407,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 376,
+      "order": 368,
       "id": "entry-817886",
       "label": "speech",
       "level": "1",

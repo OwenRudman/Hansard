@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2019-05-14-14-30-00",
-  "exported_at": "2026-10-05T08:03:38.072Z",
+  "exported_at": "2026-10-15T19:28:29.260Z",
   "entries": [
     {
       "order": 1,
@@ -1668,34 +1668,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "AYES: Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi County; Sen. Iman, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Shiyonga, Kakamega County; Sen. Wamatangi, Kiambu County; Sen. Wetangula, Bungoma County and Sen. (Dr.) Zani, Kwale County."
+      "text": "AYES: Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi County; Sen. Iman, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Shiyonga, Kakamega County; Sen. Wamatangi, Kiambu County; Sen. Wetangula, Bungoma County and Sen. (Dr.) Zani, Kwale County.\n\nNOES\n\n: Nil"
     },
     {
       "order": 140,
-      "id": "entry-901586",
-      "label": "other",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "NOES"
-    },
-    {
-      "order": 141,
-      "id": "entry-901587",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kamar)",
-      "speaker_title": "The Temporary Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 142,
       "id": "entry-901588",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1683,7 @@
       "text": "Hon. Senators, please, take your seats. I would like to announce the results of The Natural Resources (Benefit Sharing) Bill (Senate Bills No.31 of 2018)\n\nAYES\n\n: 26\n\nNOES"
     },
     {
-      "order": 143,
+      "order": 141,
       "id": "entry-901592",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1695,7 @@
       "text": ": Nil.\n\nABSTENTIONS"
     },
     {
-      "order": 144,
+      "order": 142,
       "id": "entry-901594",
       "label": "speech",
       "level": "3",
@@ -1731,7 +1707,7 @@
       "text": ": Nil. The ―Ayes‖ have it."
     },
     {
-      "order": 145,
+      "order": 143,
       "id": "entry-901595",
       "label": "scene",
       "level": "3",
@@ -1743,7 +1719,7 @@
       "text": "(Question carried by 26 votes to nil)"
     },
     {
-      "order": 146,
+      "order": 144,
       "id": "entry-901596",
       "label": "scene",
       "level": "3",
@@ -1755,7 +1731,7 @@
       "text": "(The Bill was read a Second and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 147,
+      "order": 145,
       "id": "entry-901598",
       "label": "heading",
       "level": "1",
@@ -1767,7 +1743,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 148,
+      "order": 146,
       "id": "entry-901600",
       "label": "heading",
       "level": "3",
@@ -1779,7 +1755,7 @@
       "text": "THE COUNTY OVERSIGHT AND ACCOUNTABILITY BILL (SENATE BILLS NO.28 OF 2018)"
     },
     {
-      "order": 149,
+      "order": 147,
       "id": "entry-901601",
       "label": "scene",
       "level": "3",
@@ -1791,7 +1767,7 @@
       "text": "(Sen. Olekina on 27.3.2019)"
     },
     {
-      "order": 150,
+      "order": 148,
       "id": "entry-901602",
       "label": "scene",
       "level": "3",
@@ -1803,7 +1779,7 @@
       "text": "(Resumption of Debate interrupted on 3.4.2019)"
     },
     {
-      "order": 151,
+      "order": 149,
       "id": "entry-901603",
       "label": "heading",
       "level": "3",
@@ -1815,7 +1791,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 152,
+      "order": 150,
       "id": "entry-901605",
       "label": "scene",
       "level": "3",
@@ -1827,7 +1803,7 @@
       "text": "(Question, that the County Oversight and Accountability Bill (Senate Bills No.28 of 2018) be now read a Second Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 153,
+      "order": 151,
       "id": "entry-901606",
       "label": "other",
       "level": "3",
@@ -1839,7 +1815,7 @@
       "text": "AYES:"
     },
     {
-      "order": 154,
+      "order": 152,
       "id": "entry-901607",
       "label": "other",
       "level": "3",
@@ -1851,7 +1827,7 @@
       "text": "Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi County; Sen. Iman, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County ; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Shiyonga, Kakamega County; Sen. Wamatangi, Kiambu County; Sen. Wetangula, Bungoma County and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 155,
+      "order": 153,
       "id": "entry-901608",
       "label": "other",
       "level": "3",
@@ -1860,46 +1836,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil\n\nABSTENSIONS\n\n: Nil"
     },
     {
-      "order": 156,
-      "id": "entry-901609",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kamar)",
-      "speaker_title": "The Temporary Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 157,
-      "id": "entry-901610",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "ABSTENSIONS"
-    },
-    {
-      "order": 158,
-      "id": "entry-901611",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kamar)",
-      "speaker_title": "The Temporary Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 159,
+      "order": 154,
       "id": "entry-901612",
       "label": "speech",
       "level": "3",
@@ -1911,7 +1851,7 @@
       "text": "Hon. Senators, the results of the voting are as follows:-\n\nAYES:\n\n26\n\nNOES:"
     },
     {
-      "order": 160,
+      "order": 155,
       "id": "entry-901616",
       "label": "speech",
       "level": "3",
@@ -1923,7 +1863,7 @@
       "text": "Nil.\n\nABSTENTIONS"
     },
     {
-      "order": 161,
+      "order": 156,
       "id": "entry-901618",
       "label": "speech",
       "level": "3",
@@ -1935,7 +1875,7 @@
       "text": ": Nil The ―Ayes‖ have it."
     },
     {
-      "order": 162,
+      "order": 157,
       "id": "entry-901619",
       "label": "scene",
       "level": "3",
@@ -1947,7 +1887,7 @@
       "text": "(Question carried by 26 votes to Nil)"
     },
     {
-      "order": 163,
+      "order": 158,
       "id": "entry-901620",
       "label": "scene",
       "level": "3",
@@ -1959,7 +1899,7 @@
       "text": "(The Bill was read the Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 164,
+      "order": 159,
       "id": "entry-901622",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1911,7 @@
       "text": "The Senator for Mombasa County did not vote. It is possible that you voted but your vote did not come through. You will be assisted by the Clerks-at-the Table."
     },
     {
-      "order": 165,
+      "order": 160,
       "id": "entry-901623",
       "label": "scene",
       "level": "3",
@@ -1983,7 +1923,7 @@
       "text": "(Sen. Faki walked to the Clerks-at-the Table and registered his vote)"
     },
     {
-      "order": 166,
+      "order": 161,
       "id": "entry-901624",
       "label": "heading",
       "level": "1",
@@ -1995,7 +1935,7 @@
       "text": "MOTION"
     },
     {
-      "order": 167,
+      "order": 162,
       "id": "entry-901625",
       "label": "heading",
       "level": "3",
@@ -2007,7 +1947,7 @@
       "text": "ADOPTION OF REPORT ON THE COUNTY GOVERNMENTS' INFRASTRUCTURE PROJECTS"
     },
     {
-      "order": 168,
+      "order": 163,
       "id": "entry-901626",
       "label": "speech",
       "level": "3",
@@ -2019,7 +1959,7 @@
       "text": "THAT, this House adopts the Report of the Standing Committee on Finance and Budget on the County Governments' infrastructure projects comprising County Executive Headquarter offices, Assembly Chambers and offices and County State officers' residences, laid on the Table of the Senate on Thursday, 29th November, 2018."
     },
     {
-      "order": 169,
+      "order": 164,
       "id": "entry-901627",
       "label": "scene",
       "level": "3",
@@ -2031,7 +1971,7 @@
       "text": "(Sen. (Eng.) Mahamud on 28.03.2019)"
     },
     {
-      "order": 170,
+      "order": 165,
       "id": "entry-901628",
       "label": "scene",
       "level": "3",
@@ -2043,7 +1983,7 @@
       "text": "(Resumption of Debate Interrupted on 28.03.2019)"
     },
     {
-      "order": 171,
+      "order": 166,
       "id": "entry-901629",
       "label": "heading",
       "level": "3",
@@ -2055,7 +1995,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 172,
+      "order": 167,
       "id": "entry-901631",
       "label": "scene",
       "level": "3",
@@ -2067,7 +2007,7 @@
       "text": "(Question, that this House adopts the Report of the Standing Committee on Finance and Budget on the County Governments' infrastructure projects comprising County Executive Headquarter offices, Assembly Chambers and offices and County State officers' residences, laid on the Table of the Senate on Thursday, 29th November, 2018 put and, the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 173,
+      "order": 168,
       "id": "entry-901632",
       "label": "other",
       "level": "3",
@@ -2079,7 +2019,7 @@
       "text": "AYES"
     },
     {
-      "order": 174,
+      "order": 169,
       "id": "entry-901633",
       "label": "other",
       "level": "3",
@@ -2091,7 +2031,7 @@
       "text": ": Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi County; Sen. Iman, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County ; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Shiyonga, Kakamega County; Sen. Wamatangi, Kiambu County; Sen. Wetangula, Bungoma County and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 175,
+      "order": 170,
       "id": "entry-901634",
       "label": "other",
       "level": "3",
@@ -2103,7 +2043,7 @@
       "text": "NOES"
     },
     {
-      "order": 176,
+      "order": 171,
       "id": "entry-901635",
       "label": "speech",
       "level": "3",
@@ -2115,7 +2055,7 @@
       "text": ": Sen. (Dr.) Langat, Bomet County"
     },
     {
-      "order": 177,
+      "order": 172,
       "id": "entry-901636",
       "label": "heading",
       "level": "3",
@@ -2124,22 +2064,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "ABSTENSIONS"
+      "text": "ABSTENSIONS\n\n: Nil"
     },
     {
-      "order": 178,
-      "id": "entry-901637",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kamar)",
-      "speaker_title": "The Temporary Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 179,
+      "order": 173,
       "id": "entry-901638",
       "label": "speech",
       "level": "3",
@@ -2151,7 +2079,7 @@
       "text": "Hon. Senators, the results of the voting are as follows:-\n\nAYES\n\n: 25\n\nNOES\n\n: 1\n\nABSTENTIONS"
     },
     {
-      "order": 180,
+      "order": 174,
       "id": "entry-901644",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2091,7 @@
       "text": ": Nil The ―Ayes‖ have it."
     },
     {
-      "order": 181,
+      "order": 175,
       "id": "entry-901645",
       "label": "scene",
       "level": "3",
@@ -2175,7 +2103,7 @@
       "text": "(Question carried by 25 votes to 1)"
     },
     {
-      "order": 182,
+      "order": 176,
       "id": "entry-901646",
       "label": "speech",
       "level": "3",
@@ -2187,7 +2115,7 @@
       "text": "I direct that the Bars be undrawn and the doors opened."
     },
     {
-      "order": 183,
+      "order": 177,
       "id": "entry-901647",
       "label": "scene",
       "level": "3",
@@ -2199,7 +2127,7 @@
       "text": "(The Bars were undrawn and the doors opened)"
     },
     {
-      "order": 184,
+      "order": 178,
       "id": "entry-901648",
       "label": "speech",
       "level": "3",
@@ -2211,7 +2139,7 @@
       "text": "Next Order."
     },
     {
-      "order": 185,
+      "order": 179,
       "id": "entry-901649",
       "label": "heading",
       "level": "1",
@@ -2223,7 +2151,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 186,
+      "order": 180,
       "id": "entry-901651",
       "label": "heading",
       "level": "3",
@@ -2235,7 +2163,7 @@
       "text": "THE DETERMINATION OF THE NATURE OF BILLS (PROCEDURE) BILL (SENATE BILLS NO. 30 OF 2018)"
     },
     {
-      "order": 187,
+      "order": 181,
       "id": "entry-901652",
       "label": "scene",
       "level": "3",
@@ -2247,7 +2175,7 @@
       "text": "(Sen. Sakaja on 03.04.2019)"
     },
     {
-      "order": 188,
+      "order": 182,
       "id": "entry-901653",
       "label": "scene",
       "level": "3",
@@ -2259,7 +2187,7 @@
       "text": "(Resumption of debate interrupted on 03.04.2019)"
     },
     {
-      "order": 189,
+      "order": 183,
       "id": "entry-901654",
       "label": "speech",
       "level": "3",
@@ -2271,7 +2199,7 @@
       "text": "That Bill had been initiated by Sen. Sakaja who is not here. He had only spent two minutes. We will defer it to tomorrow."
     },
     {
-      "order": 190,
+      "order": 184,
       "id": "entry-901655",
       "label": "scene",
       "level": "3",
@@ -2283,7 +2211,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 191,
+      "order": 185,
       "id": "entry-901656",
       "label": "speech",
       "level": "3",
@@ -2295,7 +2223,7 @@
       "text": "Next Order."
     },
     {
-      "order": 192,
+      "order": 186,
       "id": "entry-901657",
       "label": "heading",
       "level": "1",
@@ -2307,7 +2235,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 193,
+      "order": 187,
       "id": "entry-901659",
       "label": "heading",
       "level": "3",
@@ -2319,7 +2247,7 @@
       "text": "THE ELECTION LAWS (AMENDMENT) BILL (SENATE BILLS NO. 33 OF 2018)"
     },
     {
-      "order": 194,
+      "order": 188,
       "id": "entry-901661",
       "label": "speech",
       "level": "3",
@@ -2331,7 +2259,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the Election Laws (Amendment) Bill (Senate Bills No. 33 of 2018) be now read a Second Time. The principal objective of this Bill is to amend the Elections Act and the Elections Offences Act with a view of enhancing transparency in the electoral system. The Election Act No. 24 of 2011was enacted to provide for the conduct of elections to the various political offices in the country and for the conduct of referendum. The Bill comes against the backdrop of the 2017 General Elections and the several by-elections conducted thereafter. A central feature of an electoral system is a functioning democracy and the right to free and fair election which are characterised inter alia by a process that is transparent and administered in an impartial, neutral, efficient, accurate and accountable manner. Accountability and transparency are obligations that are only placed upon the Independent Electoral and Boundaries Commission (IEBC) and all actors in the electoral process including candidates and their agents or representatives. Clause 2 of the Bill proposes to amend Section 2 of the Act by inserting the definition of the word ‗declaration form' to mean a form containing the tallied results of an election. Currently, the word declaration, which is extensively used in the Act and which has been the subject of misinterpretation in the election world in Kenya is not defined. Section 39 of the Elections Act, 2011 makes provision for the determination and declaration of results by the Independent Electoral and Boundaries Commission (IEBC). These provisions outline the procedure of the initial tallying, announcement and declarations of elections by the constituency returning officers to the final declaration of the results of the elections of the President in case of a presidential election. Clause 3 of the Bill proposes to amend Section 39 of the Elections Act by having the presiding officer and the candidates or agents sign the prescribed declaration form for the election. The Bill also makes provision for the presiding officer to immediately announce the results at the polling station before communicating it to the returning officer. The amendments proposed in this Bill are intended to shield the winners of the election from mischievous losers who intentionally decline to sign the forms during the counting and tallying of the votes with the intention of challenging the results in a court of law. The Bill, therefore, seeks to not only ensure the validity of the electoral system but to cushion the justice system from abuse. Therefore, the presiding officer shall request the candidates present to append their signatures and shall provide them with a copy of the declarations of the results. A copy of the declaration of the results shall also be affixed at the public entrance of the polling station or any place that is convenient and accessible to the public at the polling station. Clause 3 of the Bill provides for instances where a candidate or agent has an objection to the tally of the results. In that case, the presiding officer is expected to note down the objections. The Elections Offences Act provides for elections. I propose to amend the Act in Clause 4 to read as follows: - ‗Elections Offences Act is amended by inserting the following new paragraph immediately after paragraph q-- (r) being a candidate refuses or fails to sign an election return form as required by law,' The penalties are already provided for in the Act. The fine should not exceed Kshs2 million or they can be imprisoned for not more than five years or both. I urge all Senators to enrich the debate on the content of the Bill and the amendment that I will move during the Committee stage. We spend millions of shillings campaigning just for the forms to be altered. We are all victims of this and many election petitions are as a result of the one form being altered. We experience these things and it is good that we learn from our experiences. Some of us spend millions of shillings fighting for our positions in the courts. At times, I feel that Kenyans are in the business of abusing the court process. You have got a form 38A or 36A that tallies with B. However, when it comes to Form 38C, those results change all of a sudden. Madam Temporary Speaker, you find that a candidate refuses to sign and then goes to court to challenge the results of that election. In this Bill, I am looking at a situation whereby, if the law says that you must sign the declaration of the results, then you must sign. If you refuse to sign and proceed to court, which is your right, you should not be allowed to rely on those forms because you refused to sign the form with declaration of results. The amendments sought here are to ensure that whether or not you agree with the results, you must sign them, go to court and tell the judge that you do not agree with them. What are you proceeding to argue in court if you refuse to sign the forms? Madam Temporary Speaker, this Bill will save a lot of taxpayers' money for this country in order to ensure that the Independent Electoral and Boundaries Commission (IEBC) sends a lawyer to represent it. The candidate who wins pays a lot of money so that he can at the end of the day be still declared the winner. In most of those cases, many people who lose do not end up paying the award given to the winner. I hope that many Senators will take time to look at the amendments that I am proposing because it is something that can help them individually. Since these are just one or two amendments, I do not intend to take more time on it. I request the Senate Minority Leader, Sen. Orengo, to second."
     },
     {
-      "order": 195,
+      "order": 189,
       "id": "entry-901663",
       "label": "speech",
       "level": "3",
@@ -2343,7 +2271,7 @@
       "text": "Madam Temporary Speaker, I stand to second the Bill. I plead with the Mover that we make a few amendments to the wording of the Bill during the Committee of the Whole or Third Reading. The intention is to have election results which are accepted at the time of the announcement. Madam Temporary Speaker, one of the things about Kenyan elections is that problems begin at the end of the elections. We want a situation in this country where after an election, people can accept the results and live with it. This will largely depend on the integrity of the IEBC. As the Senate Committee on Justice, Legal Affairs and Human Rights, we had a session with the IEBC and since it is an independent Commission, the law puts the burden on the IEBC and not any other agency to deliver to the Kenyan people an election that is free and fair. The words of the Constitution go beyond just rendering a free and fair election. They are also required to ensure that the results of any election are credible, accountable and transparent. Many words are used there requiring compliance. These are provisions which normally should not even find a place in the Constitution. However, because of our experiences with elections, the results at the end of the day must be credible, accurate and transparent. Madam Temporary Speaker, I think one of the reasons my brother, the Senator for Narok, is motivated to bring this law is that, there should be certainty at the end of the elections. In terms of elections, Brazil is one of the most complicated countries one could ever find. The same case applies to Indonesia and the Philippines where religion and ethnicity compound the problem of elections. With the elections that take months in India, it is possible if we have a commission that is prepared to render elections that would bring stability to our country. That cannot only be by legislating, but having men and women of integrity presiding over these elections that would provide integrity. Madam Temporary Speaker, one of the areas where it was felt necessary that these elections be reformed was the use of technology, especially in the transmission of results. In the last Presidential elections, one of the most opaque and shadowy areas that arose was in the transmission of results. Although the process was supposed to be technology driven, at the end of the day, there was so much opaqueness. The intention of this Bill requires first of all the defining of declaration which has been a point of controversy. There was an election in Kisii where the question of declaration became a major point of controversy. It was whether it is was when the results were announced or gazetted. This is one of the areas we should look at during the amendments. What is a declaration? Is it a declaration when the results are announced or when they are gazetted in the Kenya Gazette ? You can either determine in that definition, whether the declaration of results is the numbers announced at the time of tallying or what is declared by a publication of notice in the Kenya Gazette . This is an area where you still need some amendments because it has brought controversy in court. I think there was a case involving Hon. Tongi from Nyaribari Chache, Kisii County. It revolved around the issue of declaration of results; whether it was results in the\n\nKenya Gazette\n\nor what was announced by the Returning Officer after tallying, or the results announced at the polling station. Madam Temporary Speaker, there is an area that needs total re-evaluation in terms of this Bill that can be cleared by way of amendments during the Committee stage. I think we should not look at criminalising refusal to sign a result form. If you are criminalising an electoral process, we have a substantive law relating to elections. There was a decision to have a stand-alone law in terms of the electoral process and a stand- alone in terms of election offences. The reason why criminalising refusal to sign results may be complicated is because the starting point should have been the election officials. Many a times, you find that the forms which are supposed to be signed by Presiding officers or Returning Officers are not signed. In fact, in the first Presidential election during the 2017 elections, the Supreme Court of Kenya found fault with forms that were not signed by election officials. On that basis, the elections validity and transparency were called into question. When it comes to an individual candidate, I see that there is no distinction between candidate and an agent of the candidate. What if the candidate was not there and the agent refuse to sign? The criminality will fall on the agent or by the extension the candidate. It does not matter which, it may raise some controversy. I ask my friend, the distinguished Senator from Narok, that we need to look at Clause 4 appropriately so that we do not criminalize the electoral process too much because it is done in the heat of the moment. I fully support the body of the Bill as a whole safe for the question of definition of results. For example, what are results when they are declared? I remember that in the case that I have referred to from Kisii County, there was a question as to what were the declared results. Were they the results declared by the returning officer or the ones that were subsequently declared in the Kenya gazette? This is because time was supposed to run when the results were declared. If they were computed from the time they were declared by the returning officer against gazettement, it brought a lot of controversy as to when the filing of the petition should have been due. Therefore, this is a matter which may just require a little amendment. I commend my colleague from Narok, Sen. Ole kina, for his industry. This is because perpetually, almost every week, there is a Bill for a rightful discussion from the distinguished Senator. However, I finish by saying that 50 years after Independence and running many elections, I hope that Kenya will not have another election where the results are in doubt. Madam Temporary Speaker, in South Africa, if you look at the room where the votes were tallied, there was order. In fact, all the leaders of the political parties would sit there quietly, receiving, monitoring and observing the results as they came. In fact, in the previous elections when President Zuma was the President, he sat at the tallying centre and the only thing that happened was that a little girl was carrying a placard which was not very interesting to him at the time. We should learn from the experiences of countries like Ghana and South Africa and examples from more complicated democracies like India where the number of registered voters is more than the population of Africa, however, they are able to undertake elections that run across the country. For example, federal and state elections are completed and presided over by one commissioner who has a large secretariat and people working for him. Therefore, we should mature as a country. Right from the time we enacted constitutional amendment to make Kenya a multiparty State, only the election of 2002 were inversely accepted in terms of the results. Before and subsequently, all the elections have had some controversy. Therefore, I plead that Kenya must come of age in the democracy project. We need to have free and fair elections. The Independent Electoral and Boundaries Commission (IEBC) should not push the responsibility to anybody else. This is because that responsibility as an independent commission squarely falls with the Commission. Madam Temporary Speaker, with those remarks, I support."
     },
     {
-      "order": 196,
+      "order": 190,
       "id": "entry-901668",
       "label": "scene",
       "level": "3",
@@ -2355,7 +2283,7 @@
       "text": "(Question Proposed)"
     },
     {
-      "order": 197,
+      "order": 191,
       "id": "entry-901669",
       "label": "speech",
       "level": "3",
@@ -2367,7 +2295,7 @@
       "text": "Thank you, Madam Temporary Speaker. I also wish to congratulate the Senator for Narok County for his endless effort to bring Bills to this House. This is a short Bill but with far-reaching amendments to the electoral process. I listened carefully to the distinguished Senator for Narok. I got the impression that he is trying to reduce the weight of the election petition after elections. I also got the impression that he wants to instill a little more responsibility to those who man our elections. Like Sen. Orengo has said, over 50 years since Independence, going to elections in this country remains a fierce battle akin to almost a civil way. It is not just recently, although the intensity of the battle, losses of lives and destructions of property have increased with time. Madam Temporary Speaker, you remember in the old days when the late Paul Ngei hijacked his opponent and tied him with ropes on a tree in a bush so that he could not beat the deadline of submitting his papers at noon as it was then. The submission of papers was only one single day. Madam Temporary Speaker, we also have had other situations. I remember when I stood for elections and because of the uncertainty of system, I had to send an agent to sneak and secretly carry my documents so that when I arrive in the reception area marauding goons do not pounce on me, capture me or take my documents and destroy them. It has happened to others when the deadline is looming and they end up not standing. We have an electoral commission that is charged with a responsibility to conduct free, fair, verifiable, accurate and accountable elections. I doubt if this amendment will enhance this process. I encourage Sen. Ole kina that if I were him, I would have pulled back this amendment and subjected it to some internal mechanisms of picking views from colleagues so that we bring a Bill that involves the situation. The sole responsibility of conducting elections lies with an electoral commission. You can never transfer criminal liability to a candidate on account that they refused to sign a form after the election. There are very many situations where it is difficult, impossible or sometimes undesirable for a candidate to sign on a form. There are elections that are held and conducted in an opaque manner; a manner that is totally inconsistent with the tenets of democracy and does not provide a free and fair environment. Which candidate will be obligated by law to sign a death warrant for their politics? It is because if you sign that form, you acknowledge that the process was free, fair, transparent and credible. You cannot be penalised for not signing a form whose contents you do not agree with because thereafter you have got an avenue to go to court. It could be the High Court, the Court of Appeal and even the Supreme Court. So, Sen. Olekina needs to put a little more thought in this because we cannot shift the onus of transparency and accountability of elections from the referee to the player because the player is a candidate."
     },
     {
-      "order": 198,
+      "order": 192,
       "id": "entry-901671",
       "label": "scene",
       "level": "3",
@@ -2379,7 +2307,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar) left the Chair]"
     },
     {
-      "order": 199,
+      "order": 193,
       "id": "entry-901672",
       "label": "scene",
       "level": "3",
@@ -2391,7 +2319,7 @@
       "text": "[The Temporary Speaker (Sen. (Dr.) Lelegwe in the Chair]"
     },
     {
-      "order": 200,
+      "order": 194,
       "id": "entry-901673",
       "label": "speech",
       "level": "3",
@@ -2403,7 +2331,7 @@
       "text": "Mr. Temporary Speaker, Sir, there is a proposed amendment to Clause 3 which provides that the presiding officer shall request each of the candidates present to append his or her signature on the result declaration form. This follows 1FB(a) which states that the presiding officer shall immediately announce the results of the voting at the polling station before communicating the results to the returning officer. Take the example of the Senator's own county. There could be polling stations in Kilgoris, Oloolua, the Mau and Sekenani. How could he as a candidate be available to sign those forms as an individual? It is not possible. So, it is important that we design a better way of executing this process. In fact, you will find that in certain hostile areas or polling stations, you could dutifully and lawfully recruit agents and send them to the polling stations but your opponents chase them away and they are excluded from the polling station completely. They could also encounter immense hostility that they feel that their lives are in danger or get compromised by being given little money and they walk away and disappear. So, as a candidate, you cannot be penalised because of the wrongdoing of your agent although in law, sometimes, the acts of the agent can bind the principal but not in terms of criminality. So, I would like us to look at this very carefully. For example, if you have 800 polling stations in your county, like I suspect Sen. (Prof.) Ongeri has, how can you be held responsible for the absence of a signature from one polling station? In fact, in comparable jurisdictions, elections are held flawlessly and candidates are not even obligated to have agents. That is the situation we are looking for. The criminal responsibility must be assigned to the presiding officers and the Independent Electoral and Boundaries Commission (IEBC) should bear the greatest responsibility in mismanagement of elections. In fact, they should not just be fined but some of them should go to jail if they bungle elections. The Constitution is very clear in the Bill of Rights. I encourage Sen. Olekina that we should not pass any legislation that limits the right of an individual to pursue a just course. In Clause 3 (IFG), it is stated that; where an election petition has been filed, a candidate who refused or failed to sign the declaration forms shall be barred from relying on that fact in evidence and the court shall take judicial notice of such refusal or failure to sign. If you are a lawyer who has practiced at the criminal bar, you know that even confessions are recanted depending on the circumstances under which they were taken. The police or goons hired by your opponent can be there with a gun and force your agent to sign a form to accept that the process was acceptable, free and fair and they were satisfied. Such a person could go away but swear an affidavit that they were forced to sign at gunpoint or rungu -point. That automatically raises an electoral dispute. You cannot water down the evidence of such a person simply because of a signature on a document because we have many injustices in our electoral system that the only last resort remains the courts. You will remember in the Presidential Petition, the Supreme Court said that the elections were not held in accordance with the law and that there were serious irregularities and criminalities conducted. So, if you limit the access to courts by this kind of legislation, it takes away people's rights under the Bill of Rights. They have the right to go to court, the right to be heard and the right to get justice. Equally important, I would like the Senator for Narok County to know that the Constitution, 2010, says that access to justice shall not be hampered or hindered by undue technicalities. You can walk to court and say you have suffered an injustice and the court cannot deny you opportunity from being heard simply because your signature is not found on a form. They must hear you and the evidence you give is what will determine the ultimate decision of the court. Sen. Olekina should invite some of us, who are lawyers, to sit with him and look through this Bill. The intention is good but its execution is not equally good and it can easily create a situation where we will have more injustice on candidates. In every election, the candidate is always the weaker person because the decision is not theirs but the Independent Electoral and Boundaries Commission. Mr. Temporary Speaker, Sir, you may be too young to remember the discredited\n\nMlolongo\n\nelections of 1988. In Nandi, Henry Kosgei got the longest queues ever seen in the area but the man with the shortest queues called K.K. Sego was declared the winner. We also had a similar case of Gidraph Mwangi Mweru and the legendary Matiba in Murang'a where Matiba won by a landslide. At the end of the day, they announced the winner as the loser and the loser as the winner. We also had a case in Kitale, and I think Sen. (Prof.) Ongeri can remember this; Mr. Masinde Muliro got 24,000 votes and Mr. Fred Gumo, a debutant in politics, got 6,000 votes. However, they announced that Masinde Muliro had got 6,000 votes while Fred Gumo got 24,000 votes. That was the end of the matter. Mr. Masinde Muliro tried to go to court but nothing happened. Assuming in that situation, at gunpoint or through whatever intimidation and arm-twisting, Mr. Masinde Muliro signed the form that he got 6,000 when he got 24,000 votes, could you have barred him from going to court? The circumstances under which I signed this form are not conducive for me to accept that I have lost this election. I come back to you as a court to look at the process - the tallying, voting, declaration and everything - and give me my justice. You cannot, therefore, be barred simply because you appended a signature on a document. This is the hallmark of electoral justice, and that is why we go to court; we go to court because injustices have been occasioned. I want this Bill, since it wants to improve the situation of elections, to be looked at in a more careful manner than in a manner that goes to put more weight, frustration and embarrassment on the candidate, especially when we have an electoral Commission whose record is not too good. We have had elections in South Africa, as Sen. Orengo has said. South Africa is a fairly violent society. In fact, their politics in the rundown to elections have been very tumultuous. However, nobody fights or complains because everybody accepts the verdict after elections. India, with 1.3 billion people, conducts their elections over a period of 60 days. When they finish, you will be lucky to find more than 10 election petitions because the system is seamless, flawless and just. In trying to improve this situation, Sen. Olekina will be encouraged to look at the totality of the structure of elections, right from the time candidates present their papers. We have seen the embarrassing decision in the Supreme Court, where everybody can tell that a Governor is not a university graduate, but he is given a new lease of life. We need to have a situation where elections in this country are not just about the electoral commission, the candidate or the voter; but even the judicial system is now part of our electoral system, because that is where we end up squaring it out. Mr. Temporary Speaker, Sir, let us not limit rights. I support the need to improve our electoral system and have a mechanism of limiting electoral disputes, particularly though the judicial system. However, we should not take away the aggrieved candidate's right to protest, complain and access justice. I beg to conditionally support this Bill on the basis that we will relook and recast many of the clauses that I have spoken to."
     },
     {
-      "order": 201,
+      "order": 195,
       "id": "entry-901682",
       "label": "speech",
       "level": "3",
@@ -2415,7 +2343,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for giving me this opportunity to add my voice on The Election Laws (Amendment) Bill, 2018, by Sen. Olekina. I thank him for bringing this Bill. For those of us who have had the opportunity and occasion to go through several elections, one thing that stands out quite clearly is the level of injustices that is done at polling stations. This is where the hallmark of confusion starts from, when you start seeing people fighting one another. They do this because either the results or elections are not being carried out properly and in accordance with the set rules and regulations; or there is an opportunity for somebody to manipulate whatever results are out. What Sen. Olekina is trying to do in this Bill is to limit and minimise the number of complaints that come forward through petitions. I can remember in one of the occasions when we had finished the elections and done our own tally, we were winners by 6,000 clear votes. The person who was contesting had already lined up his goons with the purpose of creating a scene in the hall, where the returning officers were just about to announce the results. In that melee of confusion, they hoped to announce the winner by changing the results. These are the injustices that we must correct in our electoral process. I agree with Sen. Olekina that, for instance, we process Form A at the polling station, Form C at the sub-county tallying station - whatever it is you want to call it whatever that county is - and Form C at the county headquarters tallying centre. If you notice the agony and pain that candidates go through in this process, one would wish to know how we can change these laws to make it seamless and easily flowing, without the kind of tensions that it has created in this level. Mr. Temporary Speaker, Sir, I agree that one of the ways of verifying results before they are doctored by anybody else in between the polling station and the sub- county tallying stations is to be able to sign them at the polling station and the results announced there. However, what we have seen through experience is that when they announce the results at the polling station, some engineers have already been set up, in between the polling station and the sub-county tallying centre, and miracles happen. You will find that the results that were reported at the polling station have been changed. The forms are not signed or maybe signed, and this creates avenues for recourse to court processes. My understating of this Bill is that, at least, at the polling station level, we should append our signatures all through the delegated agents at that level. That is the kind of amendment that we will need to do so that whoever is your designated agent should be able to sign that form at that level. Mr. Temporary Speaker, Sir, I am persuaded by the argument by Sen. Wetangula that, indeed, in some polling stations they may be extremely--- Every one of us knows that there are areas that are completely hostile, and you are at the mercy of the goons in that polling station. They would decide to do anything to those results. I have vivid experiences in some of the polling stations. There is one polling station that I walked into and witnessed the voting pattern. My agent called me and sent an SMS saying: ―Congratulations, Senator. You have 400 votes in this polling station and your second opponent has 75 votes.‖ However, when they arrived at the tallying centre, I was the one with the 75 votes and my opponent had 400 votes. Unfortunately, in between, some of the agents get bought out. Therefore, you have a total switch-over of the results which do not make any meaning or an expression of what people expect in their voting when they came to the voting station. We need to tighten this area. How do we reduce hooliganism? Sen. Wetangula will remember that the whole business of sitting in Serena Hotel was about electoral malpractices."
     },
     {
-      "order": 202,
+      "order": 196,
       "id": "entry-901687",
       "label": "speech",
       "level": "3",
@@ -2427,7 +2355,7 @@
       "text": "Exactly!"
     },
     {
-      "order": 203,
+      "order": 197,
       "id": "entry-901688",
       "label": "speech",
       "level": "3",
@@ -2439,7 +2367,7 @@
       "text": "That is why we sat in Serena Hotel. The whole business of Constitution of 2010 is about elections. If you look at the history of this country even after the 2010 constitutional change, we still had problems in 2013/2014 and 2017/2018. The only thing that this points out to me, when I look at it in retrospect, is that it simply means that our laws are not perfect. Therefore, we must do something about it. What is it that we can do? It should be anything that will help us to refine and fine-tune our laws so that they become both progressive and accommodating to all the candidates. There is an element of equity and equality in the electoral process. I have not said much about the presiding officers. More often than not, they are ―hijacked‖ the night preceding the elections and given ballot papers to mark, and they then start stuffing them in the ballot boxes in the polling stations. They will particularly observe and ensure that if your agents arrive 10 or 15 minutes later, they will not know what has happened in the ballot box. Bizarre things happen; we have seen them. How do we stop these bizarre things from happening so that we have a flawless election and results? One way is for signing at the polling station that yes, you witnessed the ballot boxes being opened, that they were empty and sealed. You, therefore, acknowledge that you were there to witness that process. I would like to see a form signed by my agent stating that when they went to the polling station, the ballot box was opened, they witnessed that it was sealed and the voting started correctly at the right time. There is the issue of the mix-up of the ballot papers. How do we handle that situation in a polling station? It is left to the presiding officer or the returning officer. That is where we call upon the integrity of these presiding and returning officers to ensure that those papers are done correctly. Apart from the last element at the county headquarter tallying centre--- Sen. Olekina, you will have to agree to make certain amendments and changes so that we can accommodate the feelings which are beginning to filter through now. One such feeling is that, indeed, we know and it is a matter of fact that people get intimidated. People snatch ballot papers. We must preserve every element of those election papers so that at every given polling station, we know that what has happened is a true reflection of the will of the people. That is why we must safeguard the will of the people, which has been expressed through the ballot. That is our concern. It should be our interest. Any law that we make must reflect that will of the people that has been expressed. We should not have elections being interfered with because of certain people who are good at maneuvering the electoral machines. We have seen many interesting things in the Integrated Financial Management Information Systems (IFMIS) these days. All sorts of peculiar things happen in the servers. We have seen them before and we put blame on anybody at that stage. What has happened has happened. We are living for the future generations and, therefore, what happens today should never happen tomorrow. Therefore, I support this Bill. It is good intentioned, particularly, in Section 39 of the Elections to be amended as already prescribed in (a), (b), (f) and (i), except for the proviso where Sen. Wetangula said that let us not make it as a condition for not going to court. That you cannot use the material because you did not sign for them. That would be a mistake we would be making at this stage. We should leave it open or do some innovations to that Clause of the Bill so that we have something that we can stand for, and which gives free will of the people to be expressed at all times. Mr. Temporary Speaker, Sir, I beg to support."
     },
     {
-      "order": 204,
+      "order": 198,
       "id": "entry-901691",
       "label": "speech",
       "level": "3",
@@ -2451,7 +2379,7 @@
       "text": "Mr. Temporary Speaker, Sir, I thank you for giving me the opportunity to contribute to this Bill by Sen. Ledama. I know that he had good intentions to bring some order to our election process, especially on the voting day. Issues in elections start all the way from party primaries. A Bill that will help us deal with party primaries is coming up. This Bill looks at issues on the Election Day to ensure a free, fair, credible, accurate, transparent and predictable election. It is possible that in Africa, we can have such an election. South Africa has shown that it is possible to have a free, fair, credible, accurate, transparent and predictable election. Ghana has also shown us that it is possible. Kenya can do it. It is just one of the four countries in the world that nullified a presidential election. Therefore, we are on the right path. I commend Sen. Olekina for coming up with an amendment to the law that tries to fix our issues during elections. However, I would like the Senator to consider further amendments to the law so that Section 1(f)(g), where a candidate cannot use the declaration form to go to court, is done away with. This is because our elections are very emotional and violent. As much as we do not want to validate or encourage hooliganism during elections, we have to consider that it is a process. It will take time before we reach where South Africa and Ghana have reached. At that time of emotions, the candidate may not be in a position to sign that declaration form. Therefore, that should not be used to deny them justice. I would also like to indicate that having candidates sign the declaration form in itself does not make the election credible; it requires that the IEBC ensures that we have a credible election. This is so because even if, as a candidate, I signed that form but the process all the way from the time the election started was not properly done, it is null and void. We should encourage the IEBC to ensure that we have a process from the time the election start all the way to the end, so that people can believe in it. We also have agents and as the law is now, it is the agents of the candidates who sign the declaration form. As it is now, there are some agents who also either abandon the polling station when they see that their candidate is losing; and that has never stopped candidates from going to court, even when agents do not sign those forms. It does not also stop the declaration of results. Therefore, I would like to encourage the Senator to look at these amendments further, and as practitioners in the election cycle, we will be willing to sit with him and look through it. With those few remarks, I beg to support this Bill with the amendments as mentioned."
     },
     {
-      "order": 205,
+      "order": 199,
       "id": "entry-901693",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2391,7 @@
       "text": "Mr. Temporary Speaker, Sir, I rise to support this Bill. I thank Sen. Olekina for coming up with this Bill. I congratulate him generally for the interest that he takes on matters legislation, improving the society and making things work better for us. After all, that is what development is all about. To have that sort of energy in this Senate is a tick for this House. In that same spirit, this amendment to the specific Election Act, No.29 of 2012, has been brought about by his and our observation about the level of chaos that surrounds any election. When I look at it - and I am reading from it in terms of democracy - elections should be conducted in such a way that the person who wins is very confident of their win, because it is a statement from the people. The person who loses can later on proceed with their agenda. Mr. Temporary Speaker, Sir, it is unfortunate that Ghana, South Africa and India, who have higher populations, are able to conduct elections and release the results within a short time, yet we are unable to do the same. They do so because of technology and the people who work with that technology. The last elections in America were contentious because it was suspected that their technology was infiltrated. The era of fake news and fake data is also with us, which creates concern. This Bill intends to bring order in our electoral process, and that is what we have yearned for, for a very long time. The 2010 Constitution tried to address the issue of elections and how to better them. The Kriegler Report gave recommendations on what we could do so as to have well conducted elections that will ensure that the right people are declared winners. It is in that spirit that the Mover of this Bill has made the following amendments. The key amendment in this Bill is to ensure that there is an election return form that is filled by candidates or their representative in order to ensure that they have been given opportunity to oversight the tallying of results. Most of the candidates or agents who fail to sign the forms use the lack of their signature as a basis of petitioning the results. Having listened to my colleagues, I do agree that it is possible for one not to sign the form because of violence. As we amend this Bill, we should keep its spirit, which is to reduce petitions, create agreement between the winner and the loser, reduce the number of complaints that come out of an election; create a free, transparent, fair and credible process. However, as we do that, we should be careful not to transfer criminal liability to the person who does not sign the form. Mr. Temporary Speaker, Sir, Clause 3(b)(1FB) of the Bill states that;- ―The presiding officer shall-- (a) Immediately announce the results of the voting at the polling station before communicating the results to the returning officer; (b) Request each of the candidates present to append his or her signature; (c) Provide each political party, candidate, or their agent with a copy of the declaration of the results.‖ This amendment can only work if that signature is put in place and the environment must be created for that signature to be appended. Clause 3(d) (1FC) states that;- ―Where any candidate or agent has an objection to the tally of results as represented in the declaration form, the presiding officer shall note down the objections.‖ Provisions have been made for objections, but I think that it contradicts itself. If somebody appends a signature on the form, it might be assumed that they have agreed with the result. To solve this problem, we should come up with a provision for laying ground for a petition if one does not agree with the results, even if they are to append their signature on the form. That is because the candidate or agent could be pushed out of the polling station or there could be chaos, which would make it difficult for one to progress in that way. At the end of the day, we are looking for progressive and accountable elections. Therefore, I commend this Bill because it takes us to the right path. We should think through this Bill and maintain the clauses that are going to bring order during elections in order for us to have a law that will be beneficial to us. We should also be careful not to create criminal liability on people who have not signed the forms due to situations beyond their control. Mr. Temporary Speaker, Sir, I beg to support this Bill pending the specific amendments on the clause."
     },
     {
-      "order": 206,
+      "order": 200,
       "id": "entry-901695",
       "label": "speech",
       "level": "3",
@@ -2475,7 +2403,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir, for allowing me to contribute on this Bill. I also want to thank my brother, Sen. Olekina, for coming up with these amendments. This Bill talks of how we can enhance transparency so as to have free and fair elections. I wish that we can incorporate comprehensive amendments by relooking at the entire electoral system in this country. Towards the 2017 General Elections, we tried to have good laws and good systems in place, but my experience in election matters has taught me that anything is possible even as we move towards 2022. This country is good at coming up with policies and structures, but fails to implement what we have put on paper. Unless we get to know what we want during election time, all these laws and systems will be an exercise in futility. We all saw the systems that we had put in place towards the 2017 elections. During the last General Elections, we could only enter the data of our party candidates in the electoral system when the late Msando opened the window, and I thought that was good. Previously, we struggled to input the data of the candidates in preparation for the elections. We could not access because they had put such good systems in place; that you could only access upon being given authority by a certain authority. However, look at what happened. We lost the late Mr. Msando, who was the only person who could open those systems for us when we were inputting data. What comes to your mind? That somebody, somewhere does not want proper structures in this country; and they do not care about electoral systems in this country. Somebody somewhere, at all costs, just wants to do, what they want to do. Mr. Temporary Speaker, Sir, we should not even do these piecemeal amendments, in as much as they are well intentioned. In fact, I think we should await the anticipated referendum. One of the things that some of us think should be carried forth in that referendum is that electoral systems be put in place. We should probably try as much as possible not to have those servers in France again, because we were unable to open them. This is because when we asked them to provide the data, they said that it was in France, and they were still asleep. They were even unable to provide that data and to show that I voted for whoever I wanted to vote for. Since somebody somewhere did not want that data to be managed, we were told it was safer in France. It ended up being the worst nightmare we ever had in this country. Mr. Temporary Speaker, Sir in as much as we want to do these amendments, we probably need just goodwill for the sake of this country. We need to just know that we want this country as one, to belong to all of us and I should be given the right to vote for whoever I want to vote for. It is not the systems that are lacking, but we abuse them left, right and centre. Today I was reminded of how we were struggling here when the then Jubilee Coalition was mutilating the electoral laws, so that when we went to repeat the elections on 26th of October, the laws were completely mutilated. I was on record saying it would haunt them. It is already haunting others and they are already suffering. In fact, as we sit here, it is now another team that is ―resisting.‖"
     },
     {
-      "order": 207,
+      "order": 201,
       "id": "entry-901700",
       "label": "scene",
       "level": "3",
@@ -2487,7 +2415,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 208,
+      "order": 202,
       "id": "entry-901701",
       "label": "speech",
       "level": "3",
@@ -2499,7 +2427,7 @@
       "text": "Those who thought they were in the comfort zone because of the manipulations they did in 2017 are now feeling the heat."
     },
     {
-      "order": 209,
+      "order": 203,
       "id": "entry-901702",
       "label": "scene",
       "level": "3",
@@ -2511,7 +2439,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 210,
+      "order": 204,
       "id": "entry-901704",
       "label": "speech",
       "level": "3",
@@ -2523,7 +2451,7 @@
       "text": "Mr. Temporary Speaker, Sir, it is not about the laws in this country; it is about the goodwill to do the right thing. If you have lost in the elections, accept and go home. This is probably why we now need a law that ensures that there is no winner-takes-it-all. This will ensure that you do not even struggle, because at the end of the day, you will not take it all. To me, this is a good law. Mr. Temporary Speaker, Sir, we also need to think about the people we put in that IEBC. Looking at the current Chairperson, Mr. Chebukati, today he says he is not sure he will do a good election for this country because the systems are not in place. The next day he says he is ready. The next day his security is withdrawn. The next day one officer dies. How can we operate like this as a country? We need to put the right people in place; people who are ready to die for this country. After all, they are dying anyway, even when they have not done anything. Some of them lost their lives. At the end of the day, we ended up losing more because we do not want to do the right thing. The system that was in place was partially manual and partially electronic. We have moved a long way from those days when we had nothing electronic to a system that is almost good. What did we do? We now came up with ―computer-generated leaders‖ and, as a result, we are suffering up to date. You can tell which leaders are ―computer- generated;‖ they are never there when they are supposed to be serving the people. We end up creating ―computer-generated‖ leaders instead of looking at what we have voted for and bringing back that server that was never there anyway. We were told it was in France, when it was not even there in the first place. The results that some of us have, of two individuals, were just manipulated right here, and the actual results were left there. At the end of the day, however much we speak of these Amendments, if we do not want to have a good country and good electoral systems, it will never be. We have the forms and the systems that are being proposed. We have the result forms, the tallying sheets, and the provision for everybody including agents to sign. What happened? Some agents were so thoroughly beaten and assaulted that they could not even append their signatures. We saw some being denied access to the venues. A candidate comes, colludes with the system and security, and they throw away agents of particular people, yet, the law has a provision for agents. Mr. Temporary Speaker, Sir, the issue of having agents to sign is provided for, but we create an environment that does not allow us to even have these systems that we are proposing right now. There is also a provision for one to refuse to sign because it is not a correct result, and to record an objection. We also have the law that says that you fill those forms and the results are even pinned at the door, but those provisions are violated. In fact, we have had cases where they pin on the door a different result and tamper with the one that is put inside the ballot box. They give that to the agents and what is finally submitted is a different one. We even have a problem with the transmission of results. They announce the right results at the polling station, but change them during transmission. That is why some results are still in France to date. Consequently, the will of the people is never realised. This is not because we do not have the laws in this country, but because we just decide to be crazy. One decides that they must get it by all means, including people losing their lives. In the year 2017, we almost lost this country. Mr. Temporary Speaker, Sir, I support any amendment that improves on the systems we have, but we have a lot of homework to do. I am looking forward to a referendum that will include electoral system reforms; maybe we will just find a way to strengthen them. We already did so much, yet it was abused. We might still do so much and it still becomes abused. Mr. Temporary Speaker, Sir, I beg to support and thank Sen. Olekina for bringing up these Amendments. Just before I forget, as we put in the amendments, we also need to check on what to do about importation of voters. I have personally seen, as I monitor elections, people crossing from Makueni and Machakos to come and register and vote in Kajiado, where they are not residents. They agree to be imported and are paid for it. They are transported on the day of elections to come and tamper, and choose for us, the people of Kajiado, a leader that we do not want. I even know of a car that was almost burned at the time when we were doing voter registration. I have evidence of somebody who told me, ―Here are two buses full of people who we do not know where they have come from, and they were here as early as 6.00 a.m.‖ People were transported from as far as Kiambu to come and determine a vote for Kajiado, when we have residents there. Importation of voters is another thing that we need to think about. Voters are imported to go to a particular area and determine the kind of leadership that people will have there when they are not even residents of the area. They just come to vote to determine leaders for you, and then go back to stay in their counties. That is another menace that has to be taken into account as we look forth to improving our systems. Otherwise, other people, who are minorities, might end up having others choosing leaders for them, when they have an opportunity to choose their own leaders. As we look into these kind of amendments that we are coming up with, I wish to see a wholesome kind of overhaul of the systems that we want, and improvement of what we already have that is positive. Thank you, Mr. Temporary Speaker, Sir."
     },
     {
-      "order": 211,
+      "order": 205,
       "id": "entry-901714",
       "label": "scene",
       "level": "3",
@@ -2535,7 +2463,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 212,
+      "order": 206,
       "id": "entry-901715",
       "label": "speech",
       "level": "3",
@@ -2547,7 +2475,7 @@
       "text": "Thank you, Mr. Temporary Speaker, Sir. I rise to support the proposed Bill by Sen. Olekina. Sen. Wetangula calls it ‗industry;' he is an industrious Senator; and I could not agree more. Let me just get a few things out of the way. One, we do not need a referendum under Article 255 to reform our electoral system. This is not part of what is under Article 255. We just need simple amendments. Secondly, I sat as a member of the Special Select Committee that was led by Sen. Kiraitu Murungi and Sen. James Orengo, which came up with a very comprehensive legislation on how to make elections in Kenya akin to an election and not kangaroo things. I have suggested to the Justice, Legal Affairs and Human Rights Committee and proposed that my Chairperson speaks to Sen. Olekina and Sen. (Dr.) Zani, who have amendments. I also agree with Sen. Pareno that we need to have comprehensive legal reforms. We need to amend the ―A‖ to ―Z‖ of the elections laws. There are several things that have been passed by this House which are extremely objectionable. Mr. Temporary Speaker, Sir, the last time that we debated the controversial Election Laws (Amendment) Bill, we sat here until midnight. The Jubilee Party side voted for the Senate not to have a role on matters of boundary reviews concerning wards and constituencies. That is in the law. Our colleagues also voted to have in law and refused my particular amendment for the Justice, Legal Affairs and Human Rights Committee to oversight the IEBC. Currently, we have no role on the IEBC. It is only the National Assembly which has a role on the IEBC. Under Section 107, the Senate has no role on the regulations on elections. We have no role on the elections and regulations that brought all of us here. When we brought the proposed amendments, there was caucusing and lobbying. People worked hard to ensure that all those amendments were defeated. At that time, it did not seem wrong; and it did not seem that some of these things were going to bite us. I have seen an amendment now by the Senate Majority Leader on part of those aspects, yet I spent quite an amount of time lecturing him and Sen. Sang, who was leading the troops on these amendments at that time. Mr. Temporary Speaker, Sir, the Senate has no role on the issue of diaspora voting. That is why I have proposed that we need to relook at this issue. We passed a very controversial amendment under Section 44(a), on the complementary mechanism of elections. If Sen. Pareno wants to know how our presidential candidate lost the election, she should look at Section 44(a). We argued so much on this amendment. We were barricaded here. The former Speaker, hon. Ethuro, ordered the police out. We adjourned because we were intimidated. The police officers were everywhere just for us to pass a small section that was improperly worded and drafted by a person who has possibly never gone to a legal class. Mr. Temporary Speaker, Sir, we had a contentious election and people lost their lives. I sometimes speak against the ‗Handshake,' because it appears as if it is business as usual to have bad elections because it might result in a deal. We, as a country, cannot justify bad elections. The precedence that was set in 2007 should have been the last that it is okay to steal an election. The person that you spent so much on is sleeping in France, and yet the correct position is that the person was in Nairobi. We told Mr. Chiloba to go away, and he did not do so. Instead he sat around, walked away and resigned when he felt like. What sort of a country is this? We sat down and thought that the pastors, priests and Imams would give us a good commission. However, we ended up with Mr. Chiloba and Mr. Chebukati. Hon. Kaluma proposes that we go back to the old system, where the political parties set up the IEBC. He forgets very quickly that the problem about the 2007 Election - the Samuel Kivuitu and Kihara Muttu debacle - was as a result of Martha Karua unilaterally uprooting several commissioners. Politicians have failed because we have no capacity to be impartial. If Sen. Olekina proposes somebody, and he is in ODM, he expects the commissioner who is ODM to listen to him. Similarly, I am in the Wiper Party. If I propose a commissioner, I expect to call that commissioner. If you appoint a Kikuyu as a commissioner, you expect to call him and ask him whether he is taking care of the tribe. Fortunately, Mr. Chebukati is not a Kikuyu or Kalenjin. Imagine that you have a candidate who is Kamba, and the person who is qualified as the Chairperson of the IEBC is Kamba; do you think this country will accept the results? Of course not, because we do not trust anything. Even if we put Archbishop Njue in that position, at some point, we will look at him and think of him as a Kikuyu. I wonder why we go to church, yet we are such a mess. I have proposed that these forms are not the smallest portion of the problem in our elections. We are the problem. We want to cheat. Political parties want to cheat in nominations because they want to put the people they prefer and remove the people that they do not want. Mr. Temporary Speaker, Sir, we proposed a law here on the independent candidate and other candidates of political parties. However, the IEBC came up with amendments that the Jubilee Party supported. The irony of it is that the Jubilee Party members were the biggest victims of election rigging in the nominations. The majority of people who became independent candidates are from the Jubilee Party, yet they had amended that law and mutilated it. We made an amendment on the ballot papers and said that that they should be procured eight months to the elections. However, Mr. Chiloba amended the time to four months and our colleagues supported him. I sometimes wonder whether we switch off our memories. We, as leaders, are victims of our own deceit. Sen. Orengo and I spent a lot of time at the Windsor Golf Hotel &amp; Country Club, and worked on the Electronic Management Law System. The intention was that if the results are announced, the form should be scanned and transmitted as a PDF document. However, Mr. Chiloba and his team did not do so. Instead, they started transmitting numbers. As a result, the server was invaded severally. Mr. Temporary Speaker, Sir, people do not know why the Supreme Court annulled the presidential election. They looked at the number of times that people logged into the server and it was impossible to comprehend why people logged in so many times. The minute you key in 10, you discover it is 100. You find that Mr. Chebukati has logged in severally. Even Mr. Msando had logged in, yet he was already dead at the time. There was no other option apart from nullifying that election. The NASA Coalition boycotted the repeat election, but we never solved the problem. We just postponed this problem to 2022. I am afraid that this will not solve it. Sen. (Prof.) Ongeri is right. Unfortunately, we have participated in election petitions since 2003. In a proper system, you do not require a candidate to sign any form. Article 86 of the Constitution states that there should be a simple, verifiable and accountable system of voting. The machine that you use to register and vote should be used to transmit the numbers for tallying. If 86 people walked to a polling station and you transmit 87, the machine is supposed to say no. This becomes secondary evidence; the paper. The primary evidence is the transmission. Come the second Presidential election in October, what do our colleagues on the majority side do? They amended the law to say that this form - the one that Sen. Olekina is proposing to amend - is not the primary data. The document that you have scanned is not the primary data. The primary data is this one, which you can amend. What sort of people are we, that you can even doubt a system? You can even say in this technological time, that between a document that you have scanned and transmitted, that the primary document is the one that you are left holding. Then you say that the returning officer from Marsabit should drive to Nairobi and bring the primary document. Sometimes I think we are primitive. It is not just possible. We are a sick country! In fact in my view, if we reform the electoral system and we have an election for one day and the loser goes home, the rest of the reforms in this country will be so easy because we will have goodwill of having the leaders who Kenyans want. We will have the goodwill of everybody; whoever loses is happy and there are no problems. People do not have to die. The server is in France; in a country which we say is a middle economy; we are doing well. No, we are a pathetic country of deceitful leaders! How much money is traded on Mpesa? Billions of Shillings. Kenyans sleep well at night because they know that the Mpesa platform is secure. What about the elections, what is so different? What do you think has more stake to Kenyans? Is it not their money? It is their money, because it is in billions, but we sleep well at night with M-Shwari, Kochokocho, Pochopocho, Puliza, Fuliza, we are happy. They can come up with whatever name and we are happy with it, and we feel secure. Why can we not feel secure with an election? We can puliza our money but we do not trust our elections. Is Mpesa managed in France? No; the Mpesa platform is managed in Kenya by Kenyans and by a Kenyan bank. I am wondering why we need to import a chairman, for example, Justice Sax, who came from South Africa, who sat in the Kriegler Commission? Let us make him Chairperson so that when he announces Sen. Olekina as President, I cannot complain, because he cannot have spoken Maasai with him. He does not know him, his home or his relatives. As we proceed to interrogate how we are going to select IEBC Commissioners, remove Mr. Chebukati and replace him with Mwendwa, or Mwikali. What is going to be different? There will be no difference; it will be the same thing; interest upon interest. We amended the law to say that the Commissioners should not involve themselves in procurement. These gentlemen and ladies in IEBC who are resigning put their hands, their feet and their everything hip deep in corruption with immediate effect. They were hip deep in the corruption at the IEBC. So, as my good friend amends this law, please interrogate what the problem is. The problem is not the form, the announcement, the voting, the Kenyan who walks in or anything else. The problems in this country begin at 5.01 p.m., the minute we close voting, and we need to address that. The only way we can address it is to follow this law. Today, the IEBC appeared before the Committee on Legal Affairs, and Foreign Relations. They are required, under the election management law, to audit the system within one year. What do they say? We have no money. The only thing they are avoiding is the server. That day when Mr. Chris Msando was to be interviewed at NTV, I was supposed to be with him in that interview. I had some information about how this system is supposed to work, and how we are supposed to inspect it. We were supposed to do a mock election in this way. People were supposed to come and vote in Parliament as a polling station. We were to scan the form and the transmission is done, for example, at Kenyatta International Convention Centre (KICC) or the Multimedia University of Kenya (MMUK). We wanted to test it, but we never did. The former Chief Executive Officer (CEO), Mr. Chiloba, procured ballot papers the way he wanted, at the Al- Ghurair Company. It was ―tenderpreneurship.‖ Our election is the most expensive in the world; it costs USD38 per voter. I wonder why we need to register more voters, because this country will go bankrupt during elections unless we bring in the Chinese. Everybody that is talking about referendum should shudder to think what will happen when we can hardly get money for division of revenue. However, we possibly need Kshs20billion or Kshs25 billion to conduct our referendum with these same people who we distrust so much. Why have we forgotten that these people did what Sen. Pareno said? They nearly took us to the brink. Mr. Temporary Speaker, Sir, someone has amended the law to say that when we have a commission of seven people; three of them can provide a quorum and we do need to have a Chairperson. When did we become such an awful country? Quorum in a Committee of seven is three. I am yet to understand the definition of quorum which means a majority. Are these the same people that will take us to the reforms? Somebody said that we should not change these commissioners two years to the elections. However, we are about three years to the elections. We are proposing to have a referendum and in between, we start to prepare for the elections with Mr. Chebukati, Prof. Guliye and Justice Jessie Lessit, the same secretariat which is still in office. We recommended a disciplinary action to be taken against it in the Committee led by Sen. Orengo and the former Sen. Murungi. However, they did not touch them. I feel sad. Mr. Temporary Speaker, Sir, our Constitution is the most beautiful document that says that whatever method used in election, the system is simple and accurate, verifiable, secure, accountable and transparent. It is plain English and simple, but we are unable to do so because of our selfish interests. Everything about this country is selfishness. The day we will put selfishness aside and love this country as we should, we will have a good election. It cannot be about reforms, who announces or compelling a person to sign. Kenyans vote faithfully every year. We make them vote and queue in Nairobi for 12 hours. It is a sad day. These are not the resolutions. We should have an election that will end in one day and the winner should be the winner. Political parties should nominate the candidate that people want. That is it. There should be no fixing. That is the day. However, that day has not come yet. We are still on the way to Damascus. Kenya is still walking on the road to Damascus. It is like Saul; it has not turned back. We are walking into 2022 like blind men and women who think that they know where they are going, and we are getting into a hole. The question is at what point we will learn that we are at the tipping point?"
     },
     {
-      "order": 213,
+      "order": 207,
       "id": "entry-901727",
       "label": "speech",
       "level": "3",
@@ -2559,7 +2487,7 @@
       "text": "Thank you, Sen. Mutula Kilonzo Jnr. Proceed, Sen. (Rev.) Waqo."
     },
     {
-      "order": 214,
+      "order": 208,
       "id": "entry-901728",
       "label": "speech",
       "level": "3",
@@ -2571,7 +2499,7 @@
       "text": "Mr. Temporary Speaker, Sir, I stand to support the Election Laws (Amendment) Bill (Senate Bills No.33 of 2018). I support the Bill simply because it will ensure that the documents containing election returns are signed by the candidates or their representatives. I am one of the Senators who fight for justice of every Kenyan, and I congratulate Sen. Olekina for coming up with this amendment Bill. In order for us to have a free and fair elections, we have no option but to amend, especially the election laws. If signing the forms will save the Kenya we are in today, then so be it. As we all know, Kenya is a dynamic country with very creative and innovative people. We also have those who are good at destroying things and breaking the bridges built. With such types of people and other different characters in our society, we must have laws in place and which should be well protected. We have experts who can interfere with any system and do anything to cause confusion, but the rest of Kenyans will just pretend not to be aware of what is happening. I am not accusing the other side of the House as my colleagues have done. We are all sinners because we have, in one way or another, participated in the mess that we are in. Many of us have been in leadership positions, but we have never protected the laws that God put in our hands. Therefore, we need to protect the laws that we put in place. We need to be patriotic enough because what we lack as a nation is patriotism. Everybody wants to benefit, manipulate, dictate and exploit. Given opportunity, that means that we are all potential thieves. Mr. Temporary Speaker, Sir, Kenya has everything in place. We have all the necessary laws. In fact, the other day I was with somebody who said that our Constitution is one of the best. However, just because of the minds of people that I have described, we keep on destroying the good that we have in place. We have laws, policies and good strategic plans in place, which never see the light of the day because we are not committed, as a nation, to any transformation. As a nation, we need total transformation at every level. What happens at the national level affects every Kenyan, even at the ward level. We have dictators at the national level, but we also have them even at the ward, constituency and county level. We have ―small kings‖ who control everything, whose wish is always followed and whatever they want to do can be done, even if it means killing somebody or interfering with our system. Therefore, I recommend total transformation. Unfortunately, now that ―Baba‖ is enjoying the ―Handshake‖ and shared power, I do not know whether we have other Kenyans who can fight for total transformation and reformation. It is my wish that all Senators will support this Bill so that in future, we have free and fair elections."
     },
     {
-      "order": 215,
+      "order": 209,
       "id": "entry-901734",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2511,7 @@
       "text": "Thank you, Sen. (Rev.) Waqo. I now call upon Sen. Olekina who is the Mover to reply."
     },
     {
-      "order": 216,
+      "order": 210,
       "id": "entry-901735",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2523,7 @@
       "text": "Mr. Temporary Speaker, Sir, I rise to reply. I thank all the Senators who have contributed to this Bill. From the sentiments of Sen. Orengo, Sen. Wetangula, Sen. Pareno, Sen. Were, Sen. (Dr.) Zani, Sen. (Rev.) Waqo and Sen. (Prof.) Ongeri - about eight distinguished Senators who spoke to this issues - it gives me the opportunity to go and sit down with the other Senators and try to come up with all the amendments. I like the fact that everyone feels that it is an opportunity for us to amend the Elections Act and possibly come up with a situation where we separate the Elections Act from The Election Offences Act, so that we can have a proper discipline system. It is ridiculous that we are talking about the wage bill and the debts that we have in this country, yet we are still burdening our institutions. Yes, the IEBC is a mess and we have to come up with a solution. However, at the same time, as Sen. Mutula Kilonzo Jnr. said that the most important thing is for us to become disciplined. In the words of Sen. Mutula Kilonzo Jnr., which I completely associate myself with, we, as leaders, have failed. We have failed because we do not really care about the future of this nation. All we care about is how we can deceive the system, get in there and once we are there, we disappear and not even serve the people who we have now lied that they elected us. Mr. Temporary Speaker, Sir, because of time, I would like to also give an opportunity to Sen. (Dr.) Zani, whom I hope we can sit with and bring all the amendments together. During moving, I suggested that we invite most of the Senators to come during the Committee of the Whole, so that we can bring more amendments. With those few remarks, Mr. Temporary Speaker, Sir, I thank you and request, under Standing Order 55(3), that the putting of the question be deferred to a later date."
     },
     {
-      "order": 217,
+      "order": 211,
       "id": "entry-901739",
       "label": "speech",
       "level": "3",
@@ -2607,7 +2535,7 @@
       "text": "Hon. Senators, I defer the putting of the question on The Election Laws (Amendment) Bill (Senate Bills No.33 of 2018) to a later date."
     },
     {
-      "order": 218,
+      "order": 212,
       "id": "entry-901740",
       "label": "scene",
       "level": "3",
@@ -2619,7 +2547,7 @@
       "text": "(Putting of the question on the Bill deferred)"
     },
     {
-      "order": 219,
+      "order": 213,
       "id": "entry-901741",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2559,7 @@
       "text": "I also defer Order No.13."
     },
     {
-      "order": 220,
+      "order": 214,
       "id": "entry-901742",
       "label": "heading",
       "level": "1",
@@ -2643,7 +2571,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 221,
+      "order": 215,
       "id": "entry-901743",
       "label": "heading",
       "level": "3",
@@ -2655,7 +2583,7 @@
       "text": "THE NATIONAL COHESION AND PEACE BUILDING BILL (SENATE BILLS NO.35 OF 2018)"
     },
     {
-      "order": 222,
+      "order": 216,
       "id": "entry-901744",
       "label": "scene",
       "level": "3",
@@ -2667,7 +2595,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 223,
+      "order": 217,
       "id": "entry-901745",
       "label": "speech",
       "level": "3",
@@ -2679,7 +2607,7 @@
       "text": "Next Order."
     },
     {
-      "order": 224,
+      "order": 218,
       "id": "entry-901747",
       "label": "heading",
       "level": "1",
@@ -2691,7 +2619,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 225,
+      "order": 219,
       "id": "entry-901749",
       "label": "heading",
       "level": "3",
@@ -2703,7 +2631,7 @@
       "text": "THE ELECTION LAWS (AMENDMENT) (NO. 2) BILL (SENATE BILLS NO.37 OF 2018)"
     },
     {
-      "order": 226,
+      "order": 220,
       "id": "entry-901750",
       "label": "speech",
       "level": "3",
@@ -2715,7 +2643,7 @@
       "text": "Mr. Temporary Speaker, Sir. I beg to move that The Election Laws (Amendment) (No. 2) Bill (Senate Bills No.37 of 2018) be now read a Second Time. Mr. Temporary Speaker, Sir, on 18th April, 2018, Kinondo Ward in Kwale County had a by-election, where we had two candidates; Hamisi Omar and Juma Maone. Hamisi Omar, whom we called Pweza, was our Orange Democratic Movement (ODM) candidate while Juma Maone was a Jubilee candidate. The by-election was caused because at the initial election, they actually had an exact tally. In that by-election, ODM won with 3,412 and Jubilee had 2,704. At the calculation of members who are meant to be nominated at the county assembly, an assumption is made that when there is an addition of any member, the representation in the assembly will also change. One new member has been added and I remember that, at that time, members from my ODM party were very optimistic because we knew that by adding one more candidate, we would get a nomination slot. Upon further checking with the IEBC, they informed us that there is no law or provision in place for that adjustment, yet the representation from county assembly is a representation of members from the various political parties. Therefore, Mr. Temporary Speaker, Sir, this amendment seeks to enable a possibility that specific adjustments can be done in county assemblies. It might not necessarily mean that members at the county assembly are being revoked in terms of their membership. It means that a political party is adding on a new member because of the work and effort that they have put through a by-election. I beg to move and request Sen. Olekina to second."
     },
     {
-      "order": 227,
+      "order": 221,
       "id": "entry-901752",
       "label": "speech",
       "level": "3",
@@ -2727,7 +2655,7 @@
       "text": "Mr. Temporary Speaker, Sir, I rise to second the Election Laws (Amendment) (No.2) Bill (Senate Bills No.37 of 2018). I recently came back from Northern Ireland, which is part of the United Kingdom (UK), where I had gone to observe the elections. Elections are held on the first preference basis. I believe this is the reason why, in a country where there was a lot of divisiveness, people find a way to get along and accept that certain people are preferred more than others. I believe that my sister, Sen. (Dr.) Zani, is trying to come up with a mechanism whereby when things change because of a by election, and all of a sudden, one political party has more members elected, that political party ought to be given an opportunity to nominate another person. Then, because of the preference - the way the constituents have preferred that political party over another - it should be given an opportunity. I say so because of the work of a county government, a constituency or even a ward. If the people are disgruntled and they are not happy with the way one political party is delivering services to them, then we will not progress at any given time. What I witnessed in Northern Ireland is that every vote counts. In Kenya, if we can take in lessons from those countries, and because of the divisiveness we have here, change the law. What Sen. (Dr.) Zani is proposing will help this country. Mr. Temporary Speaker, Sir, I still have about one minute and 28 seconds. With those few remarks, I beg to second."
     },
     {
-      "order": 228,
+      "order": 222,
       "id": "entry-901756",
       "label": "scene",
       "level": "3",
@@ -2739,7 +2667,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 229,
+      "order": 223,
       "id": "entry-901757",
       "label": "speech",
       "level": "3",
@@ -2751,7 +2679,7 @@
       "text": "Mr. Temporary Speaker, Sir, it is a bit exciting to know that we have many proposed amendments to our election laws, of course, to better our operations. As I had said, it is not really about much of the laws and the papers that we put forth, but mostly about how willing we are to implement---"
     },
     {
-      "order": 230,
+      "order": 224,
       "id": "entry-901758",
       "label": "heading",
       "level": "1",
@@ -2763,7 +2691,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 231,
+      "order": 225,
       "id": "entry-901759",
       "label": "speech",
       "level": "1",

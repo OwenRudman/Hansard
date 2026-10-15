@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-04-14-14-30-00",
-  "exported_at": "2026-10-05T08:06:29.040Z",
+  "exported_at": "2026-10-15T19:30:40.782Z",
   "entries": [
     {
       "order": 1,
@@ -1776,22 +1776,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
       "order": 149,
-      "id": "entry-984408",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Kipchumba Murkomen",
-      "speaker_title": "(The Senate Majority Leader)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 150,
       "id": "entry-984409",
       "label": "scene",
       "level": "3",
@@ -1803,7 +1791,7 @@
       "text": "(The Clerk-at-the-Table tallied the results and transmitted them to the Speaker)"
     },
     {
-      "order": 151,
+      "order": 150,
       "id": "entry-984410",
       "label": "speech",
       "level": "3",
@@ -1815,7 +1803,7 @@
       "text": "Order, Members! The results of the voting are as follows:\n\nAYES:\n\n27\n\nNOES:\n\n0\n\nABSTENTIONS:"
     },
     {
-      "order": 152,
+      "order": 151,
       "id": "entry-984416",
       "label": "speech",
       "level": "3",
@@ -1827,7 +1815,7 @@
       "text": "Nil. The \"Ayes\" have it."
     },
     {
-      "order": 153,
+      "order": 152,
       "id": "entry-984417",
       "label": "scene",
       "level": "3",
@@ -1839,7 +1827,7 @@
       "text": "(Question carried to by 27 votes to nil)"
     },
     {
-      "order": 154,
+      "order": 153,
       "id": "entry-984418",
       "label": "scene",
       "level": "3",
@@ -1851,7 +1839,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole today by leave of the House)"
     },
     {
-      "order": 155,
+      "order": 154,
       "id": "entry-984419",
       "label": "speech",
       "level": "3",
@@ -1863,7 +1851,7 @@
       "text": "Hon. Senators, I am reorganizing the Order Paper. We will now go to Order No. 14, Committee of the Whole."
     },
     {
-      "order": 156,
+      "order": 155,
       "id": "entry-984421",
       "label": "heading",
       "level": "1",
@@ -1875,7 +1863,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 157,
+      "order": 156,
       "id": "entry-984422",
       "label": "scene",
       "level": "1",
@@ -1887,7 +1875,7 @@
       "text": "(Order for Committee read)"
     },
     {
-      "order": 158,
+      "order": 157,
       "id": "entry-984423",
       "label": "scene",
       "level": "1",
@@ -1899,7 +1887,7 @@
       "text": "[The Speaker (Hon Lusaka) left the Chair]"
     },
     {
-      "order": 159,
+      "order": 158,
       "id": "entry-984424",
       "label": "heading",
       "level": "2",
@@ -1911,7 +1899,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 160,
+      "order": 159,
       "id": "entry-984425",
       "label": "scene",
       "level": "2",
@@ -1923,7 +1911,7 @@
       "text": "[The Temporary Chairperson (Sen. (Dr.) Lelegwe) in the Chair]"
     },
     {
-      "order": 161,
+      "order": 160,
       "id": "entry-984426",
       "label": "heading",
       "level": "3",
@@ -1935,7 +1923,7 @@
       "text": "THE DIVISION OF REVENUE BILL (NATIONAL ASSEMBLY BILLS NO. 3 OF 2020)"
     },
     {
-      "order": 162,
+      "order": 161,
       "id": "entry-984427",
       "label": "speech",
       "level": "3",
@@ -1947,7 +1935,7 @@
       "text": "Order, hon. Senators! We are now in the Committee of the Whole to consider The Division of Revenue Bill (National Assembly Bill No. 3 of 2020)."
     },
     {
-      "order": 163,
+      "order": 162,
       "id": "entry-984428",
       "label": "heading",
       "level": "5",
@@ -1959,7 +1947,7 @@
       "text": "Clause 3"
     },
     {
-      "order": 164,
+      "order": 163,
       "id": "entry-984429",
       "label": "scene",
       "level": "5",
@@ -1971,7 +1959,7 @@
       "text": "(Question that Clause 3 be part of the Bill, proposed)"
     },
     {
-      "order": 165,
+      "order": 164,
       "id": "entry-984430",
       "label": "speech",
       "level": "5",
@@ -1983,7 +1971,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 166,
+      "order": 165,
       "id": "entry-984431",
       "label": "heading",
       "level": "5",
@@ -1995,7 +1983,7 @@
       "text": "Clause 4"
     },
     {
-      "order": 167,
+      "order": 166,
       "id": "entry-984432",
       "label": "speech",
       "level": "5",
@@ -2007,7 +1995,7 @@
       "text": "The Mover to move an amendment. Proceed, Chairperson of the Committee on Finance and Budget."
     },
     {
-      "order": 168,
+      "order": 167,
       "id": "entry-984433",
       "label": "speech",
       "level": "5",
@@ -2019,7 +2007,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move- THAT, Clause 4 of the Bill be amended by- (a) deleting sub-clause (2); and (b) deleting sub-clause (3)."
     },
     {
-      "order": 169,
+      "order": 168,
       "id": "entry-984434",
       "label": "scene",
       "level": "5",
@@ -2031,7 +2019,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 170,
+      "order": 169,
       "id": "entry-984435",
       "label": "speech",
       "level": "5",
@@ -2043,7 +2031,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 171,
+      "order": 170,
       "id": "entry-984437-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2055,7 +2043,7 @@
       "text": "Clause 5"
     },
     {
-      "order": 172,
+      "order": 171,
       "id": "entry-984437-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2067,7 +2055,7 @@
       "text": "(Question that Clause 5 be part of the Bill, proposed)"
     },
     {
-      "order": 173,
+      "order": 172,
       "id": "entry-984438",
       "label": "speech",
       "level": "5",
@@ -2079,7 +2067,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 174,
+      "order": 173,
       "id": "entry-984439",
       "label": "heading",
       "level": "5",
@@ -2091,7 +2079,7 @@
       "text": "Schedule"
     },
     {
-      "order": 175,
+      "order": 174,
       "id": "entry-984440",
       "label": "speech",
       "level": "5",
@@ -2103,7 +2091,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move- THAT the Bill be amended by deleting the Schedule and substituting therefor the following new Schedule-"
     },
     {
-      "order": 176,
+      "order": 175,
       "id": "entry-984441",
       "label": "heading",
       "level": "5",
@@ -2115,7 +2103,7 @@
       "text": "SCHEDULE"
     },
     {
-      "order": 177,
+      "order": 176,
       "id": "entry-984442",
       "label": "heading",
       "level": "3",
@@ -2127,7 +2115,7 @@
       "text": "ALLOCATION OF REVENUE RAISED NATIONALLY AMONG THE NATIONAL AND COUNTY GOVERNMENTS FOR THE FINANCIAL YEAR 2020/21"
     },
     {
-      "order": 178,
+      "order": 177,
       "id": "entry-984443",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2127,7 @@
       "text": "Type/level of allocation Amount in Kshs Percentage (%) of"
     },
     {
-      "order": 179,
+      "order": 178,
       "id": "entry-984444",
       "label": "speech",
       "level": "3",
@@ -2151,7 +2139,7 @@
       "text": "2016/17 audited"
     },
     {
-      "order": 180,
+      "order": 179,
       "id": "entry-984445",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2151,7 @@
       "text": "and approved"
     },
     {
-      "order": 181,
+      "order": 180,
       "id": "entry-984446",
       "label": "speech",
       "level": "3",
@@ -2175,7 +2163,7 @@
       "text": "revenue i.e. Kshs"
     },
     {
-      "order": 182,
+      "order": 181,
       "id": "entry-984447",
       "label": "speech",
       "level": "3",
@@ -2187,7 +2175,7 @@
       "text": "1,357,698 A. Total Sharable Revenue 1,856,700,000,000"
     },
     {
-      "order": 183,
+      "order": 182,
       "id": "entry-984448",
       "label": "speech",
       "level": "3",
@@ -2199,7 +2187,7 @@
       "text": "B. National Government* 1,533,411,510,000"
     },
     {
-      "order": 184,
+      "order": 183,
       "id": "entry-984449",
       "label": "speech",
       "level": "3",
@@ -2211,7 +2199,7 @@
       "text": "Of which:"
     },
     {
-      "order": 185,
+      "order": 184,
       "id": "entry-984450",
       "label": "heading",
       "level": "3",
@@ -2223,7 +2211,7 @@
       "text": "1. Leasing of Medical Equipment"
     },
     {
-      "order": 186,
+      "order": 185,
       "id": "entry-984451",
       "label": "heading",
       "level": "3",
@@ -2235,7 +2223,7 @@
       "text": "6,205,000,000"
     },
     {
-      "order": 187,
+      "order": 186,
       "id": "entry-984452",
       "label": "heading",
       "level": "3",
@@ -2247,7 +2235,7 @@
       "text": "2. Compensation for user fees forgone"
     },
     {
-      "order": 188,
+      "order": 187,
       "id": "entry-984453",
       "label": "heading",
       "level": "3",
@@ -2259,7 +2247,7 @@
       "text": "900,000,000"
     },
     {
-      "order": 189,
+      "order": 188,
       "id": "entry-984454",
       "label": "heading",
       "level": "3",
@@ -2271,7 +2259,7 @@
       "text": "3. Level 5 hospitals"
     },
     {
-      "order": 190,
+      "order": 189,
       "id": "entry-984455",
       "label": "heading",
       "level": "3",
@@ -2283,7 +2271,7 @@
       "text": "4,326,000,000"
     },
     {
-      "order": 191,
+      "order": 190,
       "id": "entry-984456",
       "label": "heading",
       "level": "3",
@@ -2295,7 +2283,7 @@
       "text": "4. Supplement for construction of county headquarters"
     },
     {
-      "order": 192,
+      "order": 191,
       "id": "entry-984457",
       "label": "heading",
       "level": "3",
@@ -2307,7 +2295,7 @@
       "text": "300,000,000"
     },
     {
-      "order": 193,
+      "order": 192,
       "id": "entry-984458",
       "label": "heading",
       "level": "3",
@@ -2319,7 +2307,7 @@
       "text": "5. Rehabilitation of Youth Polytechnics"
     },
     {
-      "order": 194,
+      "order": 193,
       "id": "entry-984459",
       "label": "heading",
       "level": "3",
@@ -2331,7 +2319,7 @@
       "text": "2,000,000,000"
     },
     {
-      "order": 195,
+      "order": 194,
       "id": "entry-984460",
       "label": "speech",
       "level": "3",
@@ -2343,7 +2331,7 @@
       "text": "C. Equalization Fund 6,788,490,000 0.50% D. County equitable share"
     },
     {
-      "order": 196,
+      "order": 195,
       "id": "entry-984461",
       "label": "heading",
       "level": "3",
@@ -2355,7 +2343,7 @@
       "text": "316,500,000,000"
     },
     {
-      "order": 197,
+      "order": 196,
       "id": "entry-984462",
       "label": "speech",
       "level": "3",
@@ -2367,7 +2355,7 @@
       "text": "23.31% Memo items"
     },
     {
-      "order": 198,
+      "order": 197,
       "id": "entry-984464",
       "label": "speech",
       "level": "3",
@@ -2379,7 +2367,7 @@
       "text": "1. County equitable share"
     },
     {
-      "order": 199,
+      "order": 198,
       "id": "entry-984465",
       "label": "heading",
       "level": "3",
@@ -2391,7 +2379,7 @@
       "text": "316,500,000,000 2. Additional conditional allocations (National 13,731,000,000"
     },
     {
-      "order": 200,
+      "order": 199,
       "id": "entry-984466",
       "label": "heading",
       "level": "3",
@@ -2403,7 +2391,7 @@
       "text": "Government share of Revenue) of which;"
     },
     {
-      "order": 201,
+      "order": 200,
       "id": "entry-984467",
       "label": "heading",
       "level": "3",
@@ -2415,7 +2403,7 @@
       "text": "2.1. Leasing of Medical Equipment"
     },
     {
-      "order": 202,
+      "order": 201,
       "id": "entry-984468",
       "label": "heading",
       "level": "3",
@@ -2427,7 +2415,7 @@
       "text": "6,205,000,000"
     },
     {
-      "order": 203,
+      "order": 202,
       "id": "entry-984469",
       "label": "heading",
       "level": "3",
@@ -2439,7 +2427,7 @@
       "text": "2.2 Compensation for user fees forgone"
     },
     {
-      "order": 204,
+      "order": 203,
       "id": "entry-984470",
       "label": "heading",
       "level": "3",
@@ -2451,7 +2439,7 @@
       "text": "900,000,000"
     },
     {
-      "order": 205,
+      "order": 204,
       "id": "entry-984471",
       "label": "heading",
       "level": "3",
@@ -2463,7 +2451,7 @@
       "text": "2.3 Level 5 hospitals"
     },
     {
-      "order": 206,
+      "order": 205,
       "id": "entry-984472",
       "label": "heading",
       "level": "3",
@@ -2475,7 +2463,7 @@
       "text": "4,326,000,000"
     },
     {
-      "order": 207,
+      "order": 206,
       "id": "entry-984473",
       "label": "heading",
       "level": "3",
@@ -2487,7 +2475,7 @@
       "text": "2.4 Supplement for construction of county headquarters"
     },
     {
-      "order": 208,
+      "order": 207,
       "id": "entry-984474",
       "label": "heading",
       "level": "3",
@@ -2499,7 +2487,7 @@
       "text": "300,000,000"
     },
     {
-      "order": 209,
+      "order": 208,
       "id": "entry-984475",
       "label": "heading",
       "level": "3",
@@ -2511,7 +2499,7 @@
       "text": "2.5 Rehabilitation of Youth Polytechnics"
     },
     {
-      "order": 210,
+      "order": 209,
       "id": "entry-984476",
       "label": "heading",
       "level": "3",
@@ -2523,7 +2511,7 @@
       "text": "2,000,000,000"
     },
     {
-      "order": 211,
+      "order": 210,
       "id": "entry-984477",
       "label": "heading",
       "level": "3",
@@ -2535,7 +2523,7 @@
       "text": "3. Allocation from Fuel Levy Fund (15%) 9,433,265,625 4. Conditional allocations (Loans & grants) of 30,204,347,510"
     },
     {
-      "order": 212,
+      "order": 211,
       "id": "entry-984478",
       "label": "scene",
       "level": "3",
@@ -2547,7 +2535,7 @@
       "text": "which:"
     },
     {
-      "order": 213,
+      "order": 212,
       "id": "entry-984479-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -2559,7 +2547,7 @@
       "text": "4.1 IDA-Kenya Devolution Support Program"
     },
     {
-      "order": 214,
+      "order": 213,
       "id": "entry-984479-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2571,7 +2559,7 @@
       "text": "(KDSP)"
     },
     {
-      "order": 215,
+      "order": 214,
       "id": "entry-984480",
       "label": "heading",
       "level": "3",
@@ -2583,7 +2571,7 @@
       "text": "2,115,000,000"
     },
     {
-      "order": 216,
+      "order": 215,
       "id": "entry-984481",
       "label": "scene",
       "level": "3",
@@ -2595,7 +2583,7 @@
       "text": "(Level 1)"
     },
     {
-      "order": 217,
+      "order": 216,
       "id": "entry-984482",
       "label": "heading",
       "level": "3",
@@ -2607,7 +2595,7 @@
       "text": "4.2 IDA-Transforming Health Systems for Universal"
     },
     {
-      "order": 218,
+      "order": 217,
       "id": "entry-984483",
       "label": "heading",
       "level": "3",
@@ -2619,7 +2607,7 @@
       "text": "4,345,375,741"
     },
     {
-      "order": 219,
+      "order": 218,
       "id": "entry-984484",
       "label": "heading",
       "level": "3",
@@ -2631,7 +2619,7 @@
       "text": "Care Project"
     },
     {
-      "order": 220,
+      "order": 219,
       "id": "entry-984485",
       "label": "heading",
       "level": "3",
@@ -2643,7 +2631,7 @@
       "text": "4.3 DANIDA-Universal Healthcare For Devolved System"
     },
     {
-      "order": 221,
+      "order": 220,
       "id": "entry-984486",
       "label": "heading",
       "level": "3",
@@ -2655,7 +2643,7 @@
       "text": "900,000,000"
     },
     {
-      "order": 222,
+      "order": 221,
       "id": "entry-984487",
       "label": "heading",
       "level": "3",
@@ -2667,7 +2655,7 @@
       "text": "Program"
     },
     {
-      "order": 223,
+      "order": 222,
       "id": "entry-984488",
       "label": "heading",
       "level": "3",
@@ -2679,7 +2667,7 @@
       "text": "4.4 IDA-National Agriculture & Rural Inclusive Growth"
     },
     {
-      "order": 224,
+      "order": 223,
       "id": "entry-984489",
       "label": "heading",
       "level": "3",
@@ -2691,7 +2679,7 @@
       "text": "4,261,646,438"
     },
     {
-      "order": 225,
+      "order": 224,
       "id": "entry-984490-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -2703,7 +2691,7 @@
       "text": "Project"
     },
     {
-      "order": 226,
+      "order": 225,
       "id": "entry-984490-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2715,7 +2703,7 @@
       "text": "(NARIGP)"
     },
     {
-      "order": 227,
+      "order": 226,
       "id": "entry-984491",
       "label": "heading",
       "level": "3",
@@ -2727,7 +2715,7 @@
       "text": "4.5 EU-Instruments for Devolution Advice and Support"
     },
     {
-      "order": 228,
+      "order": 227,
       "id": "entry-984492",
       "label": "heading",
       "level": "3",
@@ -2739,7 +2727,7 @@
       "text": "216,014,391"
     },
     {
-      "order": 229,
+      "order": 228,
       "id": "entry-984493",
       "label": "scene",
       "level": "3",
@@ -2751,7 +2739,7 @@
       "text": "(IDEAS)"
     },
     {
-      "order": 230,
+      "order": 229,
       "id": "entry-984494",
       "label": "heading",
       "level": "3",
@@ -2763,7 +2751,7 @@
       "text": "4.6 IDA (World Bank) - Kenya Climate Smart Agriculture"
     },
     {
-      "order": 231,
+      "order": 230,
       "id": "entry-984495",
       "label": "heading",
       "level": "3",
@@ -2775,7 +2763,7 @@
       "text": "7,119,726,782"
     },
     {
-      "order": 232,
+      "order": 231,
       "id": "entry-984496-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -2787,7 +2775,7 @@
       "text": "Project"
     },
     {
-      "order": 233,
+      "order": 232,
       "id": "entry-984496-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2799,7 +2787,7 @@
       "text": "(KCSAP)"
     },
     {
-      "order": 234,
+      "order": 233,
       "id": "entry-984497",
       "label": "heading",
       "level": "3",
@@ -2811,7 +2799,7 @@
       "text": "4.7 World Bank- Kenya Urban Support Program (KUSP)-"
     },
     {
-      "order": 235,
+      "order": 234,
       "id": "entry-984498",
       "label": "heading",
       "level": "3",
@@ -2823,7 +2811,7 @@
       "text": "6,366,000,000"
     },
     {
-      "order": 236,
+      "order": 235,
       "id": "entry-984499",
       "label": "heading",
       "level": "3",
@@ -2835,7 +2823,7 @@
       "text": "UDG"
     },
     {
-      "order": 237,
+      "order": 236,
       "id": "entry-984500",
       "label": "heading",
       "level": "3",
@@ -2847,7 +2835,7 @@
       "text": "4.8 IDA- Water and Sanitation Development Project"
     },
     {
-      "order": 238,
+      "order": 237,
       "id": "entry-984501",
       "label": "heading",
       "level": "3",
@@ -2859,7 +2847,7 @@
       "text": "3,400,000,000"
     },
     {
-      "order": 239,
+      "order": 238,
       "id": "entry-984502",
       "label": "scene",
       "level": "3",
@@ -2871,7 +2859,7 @@
       "text": "(WSDP)"
     },
     {
-      "order": 240,
+      "order": 239,
       "id": "entry-984503",
       "label": "heading",
       "level": "3",
@@ -2883,7 +2871,7 @@
       "text": "4.9 Sweden Agriculture Sector Development Programme"
     },
     {
-      "order": 241,
+      "order": 240,
       "id": "entry-984504",
       "label": "heading",
       "level": "3",
@@ -2895,7 +2883,7 @@
       "text": "652,584,158"
     },
     {
-      "order": 242,
+      "order": 241,
       "id": "entry-984505-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -2907,7 +2895,7 @@
       "text": "II"
     },
     {
-      "order": 243,
+      "order": 242,
       "id": "entry-984505-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2919,7 +2907,7 @@
       "text": "( ASDP II)"
     },
     {
-      "order": 244,
+      "order": 243,
       "id": "entry-984506",
       "label": "heading",
       "level": "3",
@@ -2931,7 +2919,7 @@
       "text": "4.10 EU- Water Tower Protection and Climate Change"
     },
     {
-      "order": 245,
+      "order": 244,
       "id": "entry-984507",
       "label": "heading",
       "level": "3",
@@ -2943,7 +2931,7 @@
       "text": "528,000,000"
     },
     {
-      "order": 246,
+      "order": 245,
       "id": "entry-984508-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -2955,7 +2943,7 @@
       "text": "Mitigation and Adaptation Programme"
     },
     {
-      "order": 247,
+      "order": 246,
       "id": "entry-984508-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2967,7 +2955,7 @@
       "text": "(WaTER)"
     },
     {
-      "order": 248,
+      "order": 247,
       "id": "entry-984509",
       "label": "heading",
       "level": "3",
@@ -2979,7 +2967,7 @@
       "text": "4.11 Drought Resilience Programme in Northern Kenya"
     },
     {
-      "order": 249,
+      "order": 248,
       "id": "entry-984510",
       "label": "heading",
       "level": "3",
@@ -2991,7 +2979,7 @@
       "text": "300,000,000"
     },
     {
-      "order": 250,
+      "order": 249,
       "id": "entry-984511",
       "label": "speech",
       "level": "3",
@@ -3003,7 +2991,7 @@
       "text": "Total County Allocations= (1+2+3+4) 369,868,613,135"
     },
     {
-      "order": 251,
+      "order": 250,
       "id": "entry-984512",
       "label": "scene",
       "level": "3",
@@ -3015,7 +3003,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 252,
+      "order": 251,
       "id": "entry-984514",
       "label": "speech",
       "level": "3",
@@ -3027,7 +3015,7 @@
       "text": "The Division will be at the end."
     },
     {
-      "order": 253,
+      "order": 252,
       "id": "entry-984515-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3039,7 +3027,7 @@
       "text": "Clause 2, Title and Clause 1"
     },
     {
-      "order": 254,
+      "order": 253,
       "id": "entry-984515-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3051,7 +3039,7 @@
       "text": "(Question, that Clause 2, the Title and Clause 1 be part of the Bill, proposed)"
     },
     {
-      "order": 255,
+      "order": 254,
       "id": "entry-984516",
       "label": "speech",
       "level": "5",
@@ -3063,7 +3051,7 @@
       "text": "Hon. Senators, we will now go to Roll Call voting. Each Senator will be called to give a 'YES' or 'NO' on two votes. I now order that the Division Bell be rung for one minute."
     },
     {
-      "order": 256,
+      "order": 255,
       "id": "entry-984517",
       "label": "scene",
       "level": "5",
@@ -3075,7 +3063,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 257,
+      "order": 256,
       "id": "entry-984518",
       "label": "speech",
       "level": "5",
@@ -3087,7 +3075,7 @@
       "text": "I now direct that the Bar be drawn and the Doors closed."
     },
     {
-      "order": 258,
+      "order": 257,
       "id": "entry-984519",
       "label": "scene",
       "level": "5",
@@ -3099,7 +3087,7 @@
       "text": "(The Bar was drawn and the Doors closed)"
     },
     {
-      "order": 259,
+      "order": 258,
       "id": "entry-984520",
       "label": "heading",
       "level": "3",
@@ -3111,7 +3099,7 @@
       "text": "THE DIVISION OF REVENUE BILL (NATIONAL ASSEMBLY BILLS NO. 3 OF 2020)"
     },
     {
-      "order": 260,
+      "order": 259,
       "id": "entry-984521",
       "label": "speech",
       "level": "3",
@@ -3123,7 +3111,7 @@
       "text": "Hon. Senators, we are now in the Committee of the Whole to consider The Division of Revenue Bill (National Assembly Bill No. 3 of 2020). We are going for Division. Let us proceed to the first Division on the clauses with amendments."
     },
     {
-      "order": 261,
+      "order": 260,
       "id": "entry-984522",
       "label": "heading",
       "level": "3",
@@ -3135,7 +3123,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 262,
+      "order": 261,
       "id": "entry-984524",
       "label": "scene",
       "level": "3",
@@ -3147,7 +3135,7 @@
       "text": "(Question, that Clause 4 and the Schedule be amended as proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 263,
+      "order": 262,
       "id": "entry-984525",
       "label": "other",
       "level": "3",
@@ -3159,7 +3147,7 @@
       "text": "AYES:"
     },
     {
-      "order": 264,
+      "order": 263,
       "id": "entry-984526",
       "label": "other",
       "level": "3",
@@ -3171,7 +3159,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Iman, Garissa County; Sen. (Dr.) Kabaka, Machokos County; Sen. M. Kajwang', Homa Bay County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Nyamunga, Kisumu County; Sen. Ochillo-Ayacko, Migori County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya"
     },
     {
-      "order": 265,
+      "order": 264,
       "id": "entry-984527",
       "label": "other",
       "level": "3",
@@ -3183,7 +3171,7 @@
       "text": "County; Sen. Sakaja, Nairobi County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. Wetang'ula, Bungoma County; and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 266,
+      "order": 265,
       "id": "entry-984528",
       "label": "other",
       "level": "3",
@@ -3192,22 +3180,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 267,
-      "id": "entry-984529",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 268,
+      "order": 266,
       "id": "entry-984530",
       "label": "scene",
       "level": "3",
@@ -3219,7 +3195,7 @@
       "text": "(The Clerk-at-the-Table tallied the results and transmitted them to the Temporary Chairperson)"
     },
     {
-      "order": 269,
+      "order": 267,
       "id": "entry-984531",
       "label": "speech",
       "level": "3",
@@ -3231,7 +3207,7 @@
       "text": "Hon. Senators, the results are as follows -\n\nAYES:\n\n27\n\nNOES:"
     },
     {
-      "order": 270,
+      "order": 268,
       "id": "entry-984535",
       "label": "speech",
       "level": "3",
@@ -3243,7 +3219,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 271,
+      "order": 269,
       "id": "entry-984537",
       "label": "speech",
       "level": "3",
@@ -3255,7 +3231,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 272,
+      "order": 270,
       "id": "entry-984538",
       "label": "scene",
       "level": "3",
@@ -3267,7 +3243,7 @@
       "text": "(Question carried by 27 votes to nil)"
     },
     {
-      "order": 273,
+      "order": 271,
       "id": "entry-984539",
       "label": "speech",
       "level": "3",
@@ -3279,7 +3255,7 @@
       "text": "Hon. Senators, let us proceed to the second Division on the Clauses without amendments."
     },
     {
-      "order": 274,
+      "order": 272,
       "id": "entry-984540",
       "label": "heading",
       "level": "3",
@@ -3291,7 +3267,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 275,
+      "order": 273,
       "id": "entry-984542",
       "label": "scene",
       "level": "3",
@@ -3303,7 +3279,7 @@
       "text": "(Question, that Clauses 3, 4(as amended), 5, the Schedule (as amended), Clause 2, the Title and Clause1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 276,
+      "order": 274,
       "id": "entry-984543",
       "label": "other",
       "level": "3",
@@ -3315,7 +3291,7 @@
       "text": "AYES:"
     },
     {
-      "order": 277,
+      "order": 275,
       "id": "entry-984544",
       "label": "other",
       "level": "3",
@@ -3327,7 +3303,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Iman, Garissa County; Sen. (Dr.) Kabaka, Machokos County; Sen. M. Kajwang', Homa Bay County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Nyamunga, Kisumu County; Sen. Ochillo-Ayacko, Migori County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Sakaja, Nairobi County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. Wetang'ula, Bungoma County; and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 278,
+      "order": 276,
       "id": "entry-984545",
       "label": "other",
       "level": "3",
@@ -3336,22 +3312,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 279,
-      "id": "entry-984546",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 280,
+      "order": 277,
       "id": "entry-984547",
       "label": "scene",
       "level": "3",
@@ -3363,7 +3327,7 @@
       "text": "(The Clerk-at-the-Table tallied the results and transmitted them to the Temporary Chairperson)"
     },
     {
-      "order": 281,
+      "order": 278,
       "id": "entry-984549",
       "label": "speech",
       "level": "3",
@@ -3375,7 +3339,7 @@
       "text": "Hon. Senators, the results are as follows-\n\nAYES\n\n: 27\n\nNOES:"
     },
     {
-      "order": 282,
+      "order": 279,
       "id": "entry-984553",
       "label": "speech",
       "level": "3",
@@ -3387,7 +3351,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 283,
+      "order": 280,
       "id": "entry-984555",
       "label": "speech",
       "level": "3",
@@ -3399,7 +3363,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 284,
+      "order": 281,
       "id": "entry-984556",
       "label": "scene",
       "level": "3",
@@ -3411,7 +3375,7 @@
       "text": "(Question carried by 27 votes to nil)"
     },
     {
-      "order": 285,
+      "order": 282,
       "id": "entry-984557",
       "label": "speech",
       "level": "3",
@@ -3423,7 +3387,7 @@
       "text": "We are now going to report to the House. Sen. (Eng.) Mahamud, proceed."
     },
     {
-      "order": 286,
+      "order": 283,
       "id": "entry-984558",
       "label": "speech",
       "level": "3",
@@ -3435,7 +3399,7 @@
       "text": "Mr. Temporary Chairperson, I beg to move that the Committee do report to the Senate its consideration of the Division of Revenue Bill (National Assembly Bill No. 3 of 2020) and its approval thereof with amendments."
     },
     {
-      "order": 287,
+      "order": 284,
       "id": "entry-984559",
       "label": "scene",
       "level": "3",
@@ -3447,7 +3411,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 288,
+      "order": 285,
       "id": "entry-984560",
       "label": "scene",
       "level": "3",
@@ -3459,7 +3423,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 289,
+      "order": 286,
       "id": "entry-984561",
       "label": "scene",
       "level": "3",
@@ -3471,7 +3435,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 290,
+      "order": 287,
       "id": "entry-984562",
       "label": "scene",
       "level": "3",
@@ -3483,7 +3447,7 @@
       "text": "[The Speaker (Hon. Lusaka) in the Chair]"
     },
     {
-      "order": 291,
+      "order": 288,
       "id": "entry-984563",
       "label": "speech",
       "level": "3",
@@ -3495,7 +3459,7 @@
       "text": "Hon. Members, I call upon the Chairperson to report progress."
     },
     {
-      "order": 292,
+      "order": 289,
       "id": "entry-984564",
       "label": "heading",
       "level": "3",
@@ -3507,7 +3471,7 @@
       "text": "REPORT AND CONSIDERATION OF REPORT"
     },
     {
-      "order": 293,
+      "order": 290,
       "id": "entry-984565",
       "label": "heading",
       "level": "3",
@@ -3519,7 +3483,7 @@
       "text": "THE DIVISION OF REVENUE BILL (NATIONAL ASSEMBLY BILLS NO. 3 OF 2020)"
     },
     {
-      "order": 294,
+      "order": 291,
       "id": "entry-984566",
       "label": "speech",
       "level": "3",
@@ -3531,7 +3495,7 @@
       "text": "Mr. Speaker, Sir, I beg to report that the Committee of the Whole has considered The Division of Revenue Bill (National Assembly Bills No. 3 of 2020) and its approval thereof with amendments."
     },
     {
-      "order": 295,
+      "order": 292,
       "id": "entry-984567",
       "label": "speech",
       "level": "3",
@@ -3543,7 +3507,7 @@
       "text": "I call upon the Mover."
     },
     {
-      "order": 296,
+      "order": 293,
       "id": "entry-984568",
       "label": "speech",
       "level": "3",
@@ -3555,7 +3519,7 @@
       "text": "Mr. Speaker, Sir, I beg to move that the House do agree with the Committee on the said report. I request Sen. Cheruiyot to second."
     },
     {
-      "order": 297,
+      "order": 294,
       "id": "entry-984569",
       "label": "speech",
       "level": "3",
@@ -3567,7 +3531,7 @@
       "text": "seconded."
     },
     {
-      "order": 298,
+      "order": 295,
       "id": "entry-984570",
       "label": "scene",
       "level": "3",
@@ -3579,7 +3543,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 299,
+      "order": 296,
       "id": "entry-984571",
       "label": "scene",
       "level": "3",
@@ -3591,7 +3555,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 300,
+      "order": 297,
       "id": "entry-984573",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3567,7 @@
       "text": "Mr. Speaker, Sir, I beg to move that the Division of Revenue Bill (National Assembly Bills No. 3 of 2020) be now be read a Third Time. I request Sen. Mwaura to second."
     },
     {
-      "order": 301,
+      "order": 298,
       "id": "entry-984574",
       "label": "speech",
       "level": "3",
@@ -3615,7 +3579,7 @@
       "text": "seconded."
     },
     {
-      "order": 302,
+      "order": 299,
       "id": "entry-984575",
       "label": "scene",
       "level": "3",
@@ -3627,7 +3591,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 303,
+      "order": 300,
       "id": "entry-984576",
       "label": "speech",
       "level": "3",
@@ -3639,7 +3603,7 @@
       "text": "Hon. Members, I will put the question before we proceed to vote. I put the question that the Division of Revenue Bill (National Assembly Bill No. 3 of 2020) be now be read a Third Time. Let the Division Bell be rung for one minute."
     },
     {
-      "order": 304,
+      "order": 301,
       "id": "entry-984577",
       "label": "scene",
       "level": "3",
@@ -3651,7 +3615,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 305,
+      "order": 302,
       "id": "entry-984578",
       "label": "speech",
       "level": "3",
@@ -3663,7 +3627,7 @@
       "text": "I direct that the Doors be locked and the Bars drawn."
     },
     {
-      "order": 306,
+      "order": 303,
       "id": "entry-984579",
       "label": "scene",
       "level": "3",
@@ -3675,7 +3639,7 @@
       "text": "(The Doors were locked and the Bars drawn)"
     },
     {
-      "order": 307,
+      "order": 304,
       "id": "entry-984580",
       "label": "speech",
       "level": "3",
@@ -3687,7 +3651,7 @@
       "text": "Vote now."
     },
     {
-      "order": 308,
+      "order": 305,
       "id": "entry-984581",
       "label": "heading",
       "level": "1",
@@ -3699,7 +3663,7 @@
       "text": "THIRD READING"
     },
     {
-      "order": 309,
+      "order": 306,
       "id": "entry-984582",
       "label": "heading",
       "level": "3",
@@ -3711,7 +3675,7 @@
       "text": "THE DIVISION OF REVENUE BILL (NATIONAL ASSEMBLY BILLS NO. 3 OF 2020)"
     },
     {
-      "order": 310,
+      "order": 307,
       "id": "entry-984583",
       "label": "heading",
       "level": "3",
@@ -3723,7 +3687,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 311,
+      "order": 308,
       "id": "entry-984585",
       "label": "scene",
       "level": "3",
@@ -3735,7 +3699,7 @@
       "text": "(Question that the Division of Revenue Bill (National Assembly Bills No. 3 of 2020) be now read a Third Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 312,
+      "order": 309,
       "id": "entry-984586",
       "label": "other",
       "level": "3",
@@ -3747,7 +3711,7 @@
       "text": "AYES:"
     },
     {
-      "order": 313,
+      "order": 310,
       "id": "entry-984587",
       "label": "other",
       "level": "3",
@@ -3759,7 +3723,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Chebeni, Uasin Gishu County; Sen. Cheruiyot, Kericho County; Sen. Dullo; Isiolo County; Sen.(Eng.) Hargura, Marsabit County; Sen. (Dr.) Kabaka, Machakos County; Sen. M. Kajwang', Homa Bay County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen.(Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud), Mandera County; Sen. Murkomen, Elgeyo Marakwet County; Sen. Mutula Kilonzo Jnr, Makueni County; Sen. Mwangi, Nyandarua County; Sen.(Dr.) Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Nyamunga, Kisumu County; Sen. Ochillo-Ayacko, Migori County; Sen. Omogeni, Nyamira County; Sen.(Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Sakaja, Nairobi"
     },
     {
-      "order": 314,
+      "order": 311,
       "id": "entry-984588",
       "label": "other",
       "level": "3",
@@ -3771,7 +3735,7 @@
       "text": "County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. Wetangula, Bungoma County; and Sen. (Dr.) Zani, Kilifi County."
     },
     {
-      "order": 315,
+      "order": 312,
       "id": "entry-984589",
       "label": "other",
       "level": "3",
@@ -3780,22 +3744,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 316,
-      "id": "entry-984590",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 317,
+      "order": 313,
       "id": "entry-984591",
       "label": "scene",
       "level": "3",
@@ -3807,7 +3759,7 @@
       "text": "(The Clerk-at-the-Table tallied the results and transmitted them to the Speaker)"
     },
     {
-      "order": 318,
+      "order": 314,
       "id": "entry-984592",
       "label": "speech",
       "level": "3",
@@ -3819,7 +3771,7 @@
       "text": "Hon. Senators, the results of the Division are as follows-\n\nAYES:\n\n28\n\nNOES:"
     },
     {
-      "order": 319,
+      "order": 315,
       "id": "entry-984596",
       "label": "speech",
       "level": "3",
@@ -3831,7 +3783,7 @@
       "text": "Nil.\n\nABSTENTIONS"
     },
     {
-      "order": 320,
+      "order": 316,
       "id": "entry-984598",
       "label": "speech",
       "level": "3",
@@ -3843,7 +3795,7 @@
       "text": ": Nil. The \"Ayes\" have it."
     },
     {
-      "order": 321,
+      "order": 317,
       "id": "entry-984599",
       "label": "scene",
       "level": "3",
@@ -3855,7 +3807,7 @@
       "text": "(The Bill was carried by 28 votes to Nil)"
     },
     {
-      "order": 322,
+      "order": 318,
       "id": "entry-984600",
       "label": "scene",
       "level": "3",
@@ -3867,7 +3819,7 @@
       "text": "(The Bill was accordingly read a Third Time and passed)"
     },
     {
-      "order": 323,
+      "order": 319,
       "id": "entry-984601",
       "label": "speech",
       "level": "3",
@@ -3879,7 +3831,7 @@
       "text": "We now move to Order No. 15"
     },
     {
-      "order": 324,
+      "order": 320,
       "id": "entry-984602",
       "label": "heading",
       "level": "1",
@@ -3891,7 +3843,7 @@
       "text": "MOTION"
     },
     {
-      "order": 325,
+      "order": 321,
       "id": "entry-984603",
       "label": "heading",
       "level": "3",
@@ -3903,7 +3855,7 @@
       "text": "ALTERATION OF THE SENATE CALENDAR FOR THE 2020 SESSION"
     },
     {
-      "order": 326,
+      "order": 322,
       "id": "entry-984604",
       "label": "speech",
       "level": "3",
@@ -3915,7 +3867,7 @@
       "text": "Mr. Speaker, Sir, I beg to move the following Motion- THAT, pursuant to Standing Order Nos. 28 and 29, and the resolution of the Senate made February, 27th 2020 and on March, 17th, 2020 regarding the Senate Calendar; the Senate now resolves to alter its calendar further in respect of part one and two of the calendar to hold one Sitting in each week on Tuesdays, beginning on Tuesday, 21st April, 2020 until Tuesday, 2nd June, 2020 and that the Senate Calendar Regular Session for the Fourth Session 2020 be altered accordingly. This is straightforward. The uptake for this is that we were supposed to have gone for Recess but in the circumstances, we have not been able to work as we should then the Recess has been stood over generally to enable us to then continue working at least one day per week. This House will be convened every Tuesday from next week up to 2nd June, 2020. That will enable us to attend to business as we should. If need be, we will vary the calendar as time goes, if we need to sit more or when we come to June 2nd the situation will have changed for us to sit everyday. In the circumstances, there is no time. I will request the House that in this situation the Senate Minority Leader seconds and we vote so that we can go to the next Motion."
     },
     {
-      "order": 327,
+      "order": 323,
       "id": "entry-984607",
       "label": "speech",
       "level": "3",
@@ -3927,7 +3879,7 @@
       "text": "Mr. Speaker, Sir, I second."
     },
     {
-      "order": 328,
+      "order": 324,
       "id": "entry-984608",
       "label": "scene",
       "level": "3",
@@ -3939,7 +3891,7 @@
       "text": "( Question proposed)"
     },
     {
-      "order": 329,
+      "order": 325,
       "id": "entry-984609",
       "label": "scene",
       "level": "3",
@@ -3951,7 +3903,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 330,
+      "order": 326,
       "id": "entry-984610",
       "label": "speech",
       "level": "3",
@@ -3963,7 +3915,7 @@
       "text": "Let us move on to the next Order."
     },
     {
-      "order": 331,
+      "order": 327,
       "id": "entry-984611",
       "label": "heading",
       "level": "1",
@@ -3975,7 +3927,7 @@
       "text": "MOTION"
     },
     {
-      "order": 332,
+      "order": 328,
       "id": "entry-984612",
       "label": "heading",
       "level": "3",
@@ -3987,7 +3939,7 @@
       "text": "NOTING OF FIRST AND SECOND PROGRESS REPORTS OF THE"
     },
     {
-      "order": 333,
+      "order": 329,
       "id": "entry-984613",
       "label": "heading",
       "level": "3",
@@ -3999,7 +3951,7 @@
       "text": "AD-HOC"
     },
     {
-      "order": 334,
+      "order": 330,
       "id": "entry-984614",
       "label": "heading",
       "level": "3",
@@ -4011,7 +3963,7 @@
       "text": "COMMITTEE ON COVID-19 SITUATION IN KENYA"
     },
     {
-      "order": 335,
+      "order": 331,
       "id": "entry-984615",
       "label": "speech",
       "level": "3",
@@ -4023,7 +3975,7 @@
       "text": "Mr. Speaker, Sir, I beg to move the following Motion in an amended form- THAT, the Senate notes the first and second progress reports of the\n\nAd hoc\n\nCommittee on COVID-19 situation in Kenya laid on the Table of the Senate on Tuesday, 14th April 14, 2020. I will ask the Vice-Chairperson, Sen. Kasanga, to second the Motion once I am done. Mr. Speaker, Sir, at its sitting held on Tuesday, 31st March 2020, the Senate, by resolution, established an Ad hoc Committee on the COVID-19 situation. The Committee is mandated to oversight actions and measures taken by the national and county governments in addressing the spread and effects of COVID-19 in Kenya. The areas that the Committee is addressing were in the Motion passed, and I do not need to read all of them. I will go straight to what we have been able to do. The Committee is comprised of seven very able Senators from both sides of the House who have been doing a marvelous job. The Committee is deputized by Sen. Kasanga, who was elected unopposed during our first sitting on 1st April, 2020 and chaired by yours truly, Sen. Sakaja, who was also elected unopposed to Chair this Committee."
     },
     {
-      "order": 336,
+      "order": 332,
       "id": "entry-984618",
       "label": "scene",
       "level": "3",
@@ -4035,7 +3987,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 337,
+      "order": 333,
       "id": "entry-984619",
       "label": "speech",
       "level": "3",
@@ -4047,7 +3999,7 @@
       "text": "Mr. Speaker, Sir, that is part of the progress! It is very progressive, is it not? Further to that, Members of this House gave many good comments when that Motion was moved. We looked at the HANSARD. We thank Members for their contributions. We saw that, indeed, Coronavirus is affecting very many aspects of society and affecting us, as a country. What the Committee went on to do is that we clustered emerging issues into five thematic areas. The first area was on the health issues. We isolated the health issues, which include community health testing, quarantine, isolation centers, ICU facilities, human resources for health, drugs and supplies, role and engagement of county governments and mental health. The second thematic area is economic and financial issues, which covers the macro-economic effects of the Coronavirus impact on businesses, trade facilitation and measures to cushion borrowers and financial institutions. The third issue is social public order and human rights, including protection for vulnerable persons and groups, and protection of women and girls at risk of domestic abuse. This is very important to us. We have witnessed cases of domestic violence going up. Others include measures to enable learners to continue with their studies, enforcement of the nationwide curfew, restriction of movement, access to justice and the decongestion of prisons and remand facilities. The fourth area is access to food, water and basic commodities, including measures to ensure the continuous production and supply of food; that the food supply chain, water and other essential commodities continues. Finally, is support services and cross cutting issues, including awareness creation and measures to prevent infection; that is media campaigns - I saw Sen. Mutula Kilonzo Jr. doing one in Kikamba to combat stigmatization - and the role of ICT in combating the COVID-19 pandemic. Mr. Speaker, Sir, please note that I am moving one Motion on two reports, so, I will go to the second one as we proceed. In the first report, we detailed the work that was undertaken by the Committee since we have seen sections of the media saying that the Houses have run away and Parliament is not working. I would like to note and to let the country know that this Committee has held 13 sittings. This Committee is using technology, the sittings are online and it is very convenient because we have 100 per cent attendance by Members. Maybe this is what we need to do going forward. We have Sen. Faki logging in from Mombasa, Sen. Linturi logging in from Meru, Sen. Kasanga logging in from Machakos and the rest of us doing the same, and we make progress. In the first meeting, we held elections. We have had a number of meetings virtually. We came up with a work plan, adopted it and invited submissions from key stakeholders and the public. I would like to report that we received a total of 146 submissions from individuals, organizations, the Council of Governors (CoG) and from various different quarters addressing the five thematic areas in detail. The Members and the Secretariat have not slept. We have gone through each submission from whichever person who sent the submissions. Some of them include the CoG, the Kenya Human Rights Commission (KHRC), healthcare workers led by the Kenya Medical Practitioners, Pharmacists and Dentists Union (KMPDU), the Pharmaceutical Association of Kenya (PAK), the Kenya Healthcare Foundation (KHF), the Kenya Council of Emergency Medical Technicians (KCEMT), the Kenya Health Information Association (KHIA), Samburu Health Workers Union (SHWU) et cetera. Mr. Speaker, Sir, others are business and traders' organizations such as the Kenya National Chamber of Commerce and Industry (KNCCI), tour operators, Micro and Small Enterprises Foundation, Civil Society and Non-Governmental Organizations (NGOs), including the Kenya Human Rights Commission (KHRC), the International Commission of Jurists (ICJ), the International Budget Partnership (IBP), the Institute for Social Accountability (TISA) and health NGOs that are spread across the country. Also, among these submissions are Kenyans who had travelled to India for medical treatment and have been stuck there due to restrictions. Some took their families; they have been stuck there and cannot afford to come back. There are also Kenyan students in universities abroad who were scheduled to graduate in summer, but their studies have since been disrupted. Additionally, are also Kenyans who had travelled to attend to family matters. I would like to report that the Committee has written to and is engaging the Ministry of Foreign Affairs to ensure that these categories of Kenyans are urgently attended to. I want to thank Kenyans because it is in a crisis like this that we realise that Kenyans of all walks of life; from the private sector, in business, those doing their own things, indeed, take these invitations seriously. They have a lot to say and contribute. We have received tremendous submissions from the people of this country. I want to thank them and tell them that their submissions have been taken into consideration. Mr. Speaker, Sir, after that we went through an in depth analysis and we have reviewed the best practice from comparative jurisdictions and considered those submissions. We have analyzed what more than 20 different countries and their Parliaments have been able to do during this time. I am glad to report that we have already come up with a Bill, the Pandemic Response and Management Bill, which is annexed to this report. It has gone for publishing, but we want to give it to the people of Kenya to look at it. The Bill addresses, among others, the declaration of a pandemic, the roles of national and county governments, the establishment, composition and functions of a national and county response committee, reporting by the said committees to Parliament and county assemblies, establishment and management of a pandemic fund among others. Notably, the Bill proposes measures to be taken in cushioning the public from the adverse effects of a pandemic, including granting of relief on the cost of food, water and basic commodities as well as provisions that speak to tenancy agreements. We have many issues on rent and landlord agreements and contracts that cushions both the landlord and the tenant. The Committee wants to invite submissions and comments from Senators. Once you have seen the reports, we invite you to give us views on the Bill and our Report; as well as the stakeholders and members of the public. We will be publishing the Bill on the Parliament website so that stakeholders can enrich this process and we can move on together. Mr. Speaker, Sir, we are now scheduled, as a Committee, to hold meetings with key organs and ministries of the national and county governments. This afternoon, we were scheduled to hold a meeting with the Cabinet Secretary for Health and the Chairperson of the National Emergency Response Committee on Coronavirus. Unfortunately, the meeting that was at 2.00 p.m. could not take off because the Cabinet Secretary said he was held up in State House. He had sent his Chief Administrative Secretary (CAS) and the Permanent Secretary (PS). However, we told him that Article 153 of the Constitution says that it is the Cabinet Secretary (CS) who is accountable to Parliament, especially during this pandemic. Mr. Speaker, Sir, I have spoken to the CS. We have told him that we will reschedule where he will come in person, virtually, so that we can rate responses on the issues raised. We note that today he has announced that we have 126 cases of Coronavirus Disease (COVID-19). Mr. Speaker, Sir, we just want to note and stress that a pandemic being declared, is not a suspension of the Constitution. This is the time for Parliament to continue playing its oversight role. Parliament remains the one institution mandated to oversight, appropriate, legislate and play its role. No entity will escape any oversight. At this time, the Executive needs to know that we are not coming in an antagonistic manner. We want to support the good work they are doing. We are very proud of Sen. Mutahi Kagwe. He is still a Senator, even as a CS. He is Senator, CS, Hon. Mutahi Kagwe. We are proud of his work and our interventions are to support and to give fresh ideas, to legislate because he cannot legislate from his Ministry, and to help him in dealing with county governments. We want him to know that the stand that is being taken by the Senate is very pragmatic, but in full fidelity to our oath of office, which is to represent the people of the republic of Kenya, 47 million of them. Mr. Speaker, Sir, we are also scheduled to meet other organizations including, trade and workers unions, youth organizations, digital transport forum et cetera. Mr. Speaker, Sir, I want to quickly finish so that Sen. Kasanga can second. The other stakeholders like the Law Society of Kenya (LSK) have requested for additional time to submit memoranda. We have told them it is okay because they have asked the Members, many of whom are in this House, to give them submissions. Mr. Speaker, Sir, on behalf of this Committee and on my own behalf, I wish to sincerely thank all the individuals, groups and organizations that responded to a call for public submissions on this important matter. We wish to assure them that we have reviewed all those submissions and we have taken their views into account. We have also received representations from Kenyans undergoing stress globally. That will be contained in the report. We will still interact with different ministries. Senators have asked about money going to counites. There has been a circular by the Controller of Budget (CoB) that is not clear about whether counties are still receiving money. In as much we want to support the counties and even help them access, some of the submissions from the Council of Governors (CoG) were that counties are asking for things they should ordinarily be doing. When a governor asks to be given money to buy chemicals for fumigation, you query the billions we have been appropriating, what are they being used for? So, we are balancing that. However, we hope that the COVID-19 pandemic does not become an avenue for public maleficence or for misuse of funds as we unfortunately begun to see in some counties. Mr. Speaker, Sir, we will continue to submit progress reports. We will invite Senators. Those who wish to join our online meeting, once they express interest, we will give a few of you the code time at a time, whichever way technology will allow, so that from wherever you are, you can follow the Committee and give us your contributions. Mr. Speaker, Sir, in conclusion, we just want to assure the public, I do not know why we let it escape. The person who wrote that story in the Standard Newspaper has been attending our briefings. When they say Parliament has been doing nothing, it is unfair. It is not right to cast Members of Parliament (MPS) of both Houses in bad light during such a pandemic. This is time for all of us to come together as Kenyans, for us to play our role. We assure them that the Senate of the Republic of Kenya - I would like to tell the Senate Majority Leader - we might be scarred, but we are not dead. We might be down, but we are not out. We will continue to do our work. Our House and the Committee are alive. Finally, through you, Mr. Speaker, Sir, I want to thank the Office of the Clerk and the members of the Secretariat. They have done an amazing job in such a short time and in difficult circumstances. Please, express the thanks of the Committee to the members of the Secretariat who have been very professional and at hand to support us at every minute. I thank you. I ask Sen. Kasanga to second."
     },
     {
-      "order": 338,
+      "order": 334,
       "id": "entry-984625",
       "label": "speech",
       "level": "3",
@@ -4059,7 +4011,7 @@
       "text": "What is your point of order, Sen. Khaniri?"
     },
     {
-      "order": 339,
+      "order": 335,
       "id": "entry-984626",
       "label": "speech",
       "level": "3",
@@ -4071,7 +4023,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. Maybe I ought to have risen before Sen. Sakaja moved the Report. The matter that I am rising on is pertinent to what we are discussing now. I want to state that the resolutions made by this House, the Rulings made and the directions given by the Speaker cannot be in vain. For us to succeed in the fight against this pandemic, of course, we must all come together and fight as one. Sen. Cheruiyot raised a matter here when you sat on that Chair two weeks ago. I was not here, but I was following the proceedings from home. You gave very clear directions. Your instructions were that the Ministry of Health and the Ministry of Interior and Coordination of National Government should write to you or to the Senate through you in two days. That has not been reported to the House. We want to hear your pronouncement on this. Did they oblige? Your ruling cannot be in vain. If we go that path, then we will be taking the wrong path."
     },
     {
-      "order": 340,
+      "order": 336,
       "id": "entry-984627",
       "label": "speech",
       "level": "3",
@@ -4083,7 +4035,7 @@
       "text": "Maybe it is me who has not communicated to the House, but they actually responded within the given time. I can bring the House to speed on what they said on Tuesday. Proceed, Sen. Kasanga."
     },
     {
-      "order": 341,
+      "order": 337,
       "id": "entry-984628",
       "label": "speech",
       "level": "3",
@@ -4095,7 +4047,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity. As I rise to second my Chair on the two Reports that we have tabled today, first is to profusely thank you for both the Secretariat and the Clerk to the Secretariat that you gave us. They have been absolutely wonderful, putting their best foot forward. We have received a lot of help, commitment and research towards this Report. Without belaboring since I do not want to repeat most of what the Chair has said, I want to draw to the attention of the Senators to the matrix that you will find annexed in these Reports. There is a matrix that has the five thematic areas. I want to let you know, as you have heard, a lot of good recommendations have come in from different stakeholders, people, organizations, individuals and many of them, professionals. We appreciate this because we may not be fully conversant with some of the areas and we are happy to be guided by the public. I want to let you know that in each of the five thematic areas, the Secretariat and ourselves, were able to further segment those areas. Therefore, there is need that you, as Senators, to be seized of each one of them. For example, under the health thematic area, we have information and data, universal access, issues of community health and testing, which has been a very big issue that we need a lot of clarity on. We have infection, prevention, control and personal protective equipment, which is another area where many people are raising very good ideas on how to deal with these issues over and above the fact that we already have local manufacturing going on. As a House and for posterity, how then will we make sure that we put some of these efforts for posterity? We secure our people who are able to do some of these things now and for the future. No doubt, from our research, we have seen that the pandemic is a global issue that all countries are grappling with and our underbellies globally are being exposed for lack of preparedness when it comes to pandemics. Of course, for us in this country, considering economic issues, the country was already struggling with many Kenyans struggling economically even before the COVID- 19. With the COVID-19, we have to look very critically into the proposals that the public has given us on how to deal with the economic issues facing Kenyans. How will we rise above this pandemic considering that even before that we were grappling with ourselves? Senators, I am drawing your attention to that. There are a number of issues such as taxation with many good ideas coming up from different stakeholders and individuals who have knowledge on how to deal with such issues. They have come up with very good recommendations. As a Committee, we shall isolate some of these recommendations and put the questions to the Cabinet Secretary (CS) and the National Emergency There is a lot of debate going on regarding economic issues, for example, if there is a lockdown, how will it be dealt with? We want to partner with the Executive on some of the issues. That is why today, we were disappointed when the CS did not come. We wanted to address the health issues and then move on to the economic issues which are quite substantive."
     },
     {
-      "order": 342,
+      "order": 338,
       "id": "entry-984630",
       "label": "speech",
       "level": "3",
@@ -4107,7 +4059,7 @@
       "text": "Sen. Kasanga, I do not want to hurry you because you are making good points. I will give you an opportunity to continue next Tuesday, so that you can exhaustively cover those areas. I have realized that it is already time."
     },
     {
-      "order": 343,
+      "order": 339,
       "id": "entry-984631",
       "label": "heading",
       "level": "1",
@@ -4119,7 +4071,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 344,
+      "order": 340,
       "id": "entry-984632",
       "label": "speech",
       "level": "1",

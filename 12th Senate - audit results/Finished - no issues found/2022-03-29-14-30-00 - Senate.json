@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2022-03-29-14-30-00",
-  "exported_at": "2026-10-05T08:11:36.235Z",
+  "exported_at": "2026-10-15T19:34:21.744Z",
   "entries": [
     {
       "order": 1,
@@ -1200,22 +1200,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kibiru.\n\nNOES"
+      "text": "Sen. Kibiru.\n\nNOES\n\n: Nil"
     },
     {
       "order": 101,
-      "id": "entry-1160720",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 102,
       "id": "entry-1160721",
       "label": "speech",
       "level": "3",
@@ -1227,7 +1215,7 @@
       "text": "Sen. Kasanga."
     },
     {
-      "order": 103,
+      "order": 102,
       "id": "entry-1160722",
       "label": "speech",
       "level": "3",
@@ -1239,7 +1227,7 @@
       "text": "Hon. Senators, the results of the division are as follows-\n\nAYES\n\n: 29\n\nNOES\n\n: 0\n\nABSENTIONS"
     },
     {
-      "order": 104,
+      "order": 103,
       "id": "entry-1160728",
       "label": "speech",
       "level": "3",
@@ -1251,7 +1239,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 105,
+      "order": 104,
       "id": "entry-1160729",
       "label": "scene",
       "level": "3",
@@ -1263,7 +1251,7 @@
       "text": "(Question carried by 29 votes to nil)"
     },
     {
-      "order": 106,
+      "order": 105,
       "id": "entry-1160730",
       "label": "scene",
       "level": "3",
@@ -1275,7 +1263,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 107,
+      "order": 106,
       "id": "entry-1160731",
       "label": "heading",
       "level": "1",
@@ -1287,7 +1275,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 108,
+      "order": 107,
       "id": "entry-1160732",
       "label": "speech",
       "level": "1",

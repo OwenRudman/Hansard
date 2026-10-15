@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2019-05-22-14-30-00",
-  "exported_at": "2026-10-05T08:03:45.985Z",
+  "exported_at": "2026-10-15T19:28:35.706Z",
   "entries": [
     {
       "order": 1,
@@ -852,46 +852,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil\n\nABSTENSIONS\n\n: Nil."
     },
     {
       "order": 72,
-      "id": "entry-903386",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 73,
-      "id": "entry-903387",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "ABSTENSIONS"
-    },
-    {
-      "order": 74,
-      "id": "entry-903388",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 75,
       "id": "entry-903389",
       "label": "speech",
       "level": "3",
@@ -903,7 +867,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:\n\nAYES:\n\n27\n\nNOES:"
     },
     {
-      "order": 76,
+      "order": 73,
       "id": "entry-903393",
       "label": "speech",
       "level": "3",
@@ -915,7 +879,7 @@
       "text": "Nil\n\nABSTENTIONS"
     },
     {
-      "order": 77,
+      "order": 74,
       "id": "entry-903395",
       "label": "speech",
       "level": "3",
@@ -927,7 +891,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 78,
+      "order": 75,
       "id": "entry-903396",
       "label": "scene",
       "level": "3",
@@ -939,7 +903,7 @@
       "text": "(Question carried by 27 votes to nil.)"
     },
     {
-      "order": 79,
+      "order": 76,
       "id": "entry-903397",
       "label": "scene",
       "level": "3",
@@ -951,7 +915,7 @@
       "text": "(The Bill was read the Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 80,
+      "order": 77,
       "id": "entry-903399",
       "label": "speech",
       "level": "3",
@@ -963,7 +927,7 @@
       "text": "Hon. Senators, we are now on Order No.10."
     },
     {
-      "order": 81,
+      "order": 78,
       "id": "entry-903400",
       "label": "heading",
       "level": "1",
@@ -975,7 +939,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 82,
+      "order": 79,
       "id": "entry-903401",
       "label": "heading",
       "level": "3",
@@ -987,7 +951,7 @@
       "text": "THE ELECTIONS LAWS (AMENDMENT) (NO.2) BILL (SENATE BILLS NO. 37 OF 2018)"
     },
     {
-      "order": 83,
+      "order": 80,
       "id": "entry-903402",
       "label": "scene",
       "level": "3",
@@ -999,7 +963,7 @@
       "text": "(Sen. (Dr.) Zani on 14.5.2019)"
     },
     {
-      "order": 84,
+      "order": 81,
       "id": "entry-903403",
       "label": "scene",
       "level": "3",
@@ -1011,7 +975,7 @@
       "text": "(Resumption of debate interrupted on 16.5.2019)"
     },
     {
-      "order": 85,
+      "order": 82,
       "id": "entry-903404",
       "label": "speech",
       "level": "3",
@@ -1023,7 +987,7 @@
       "text": "Hon. Senators, we have to go analog because the system has failed, but we will try to be fast. We will need a teller for the „ayes‟ and a teller for the \"nays‟. So, Whips approach the Table."
     },
     {
-      "order": 86,
+      "order": 83,
       "id": "entry-903405",
       "label": "scene",
       "level": "3",
@@ -1035,7 +999,7 @@
       "text": "(Sen. Kwamboka and Sen. Loitiptip approached the Table)"
     },
     {
-      "order": 87,
+      "order": 84,
       "id": "entry-903406",
       "label": "scene",
       "level": "3",
@@ -1047,7 +1011,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 88,
+      "order": 85,
       "id": "entry-903407",
       "label": "heading",
       "level": "3",
@@ -1059,7 +1023,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 89,
+      "order": 86,
       "id": "entry-903409",
       "label": "scene",
       "level": "3",
@@ -1071,7 +1035,7 @@
       "text": "(Question, that The Election Laws (Amendment) (No.2) Bill (Senate Bills No.37 of 2018) be read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 90,
+      "order": 87,
       "id": "entry-903410",
       "label": "other",
       "level": "3",
@@ -1083,7 +1047,7 @@
       "text": "AYES:"
     },
     {
-      "order": 91,
+      "order": 88,
       "id": "entry-903411",
       "label": "other",
       "level": "3",
@@ -1095,7 +1059,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. Kajwang‟ M., Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Nyamunga, Kisumu County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 92,
+      "order": 89,
       "id": "entry-903412",
       "label": "speech",
       "level": "3",
@@ -1104,22 +1068,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Loitiptip.\n\nNOES"
+      "text": "Sen. Loitiptip.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 93,
-      "id": "entry-903414",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 94,
+      "order": 90,
       "id": "entry-903415",
       "label": "speech",
       "level": "3",
@@ -1131,7 +1083,7 @@
       "text": "Sen. Kwamboka."
     },
     {
-      "order": 95,
+      "order": 91,
       "id": "entry-903416",
       "label": "speech",
       "level": "3",
@@ -1143,7 +1095,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES"
     },
     {
-      "order": 96,
+      "order": 92,
       "id": "entry-903418",
       "label": "speech",
       "level": "3",
@@ -1155,7 +1107,7 @@
       "text": ": 27\n\nNOES"
     },
     {
-      "order": 97,
+      "order": 93,
       "id": "entry-903420",
       "label": "speech",
       "level": "3",
@@ -1164,22 +1116,10 @@
       "speaker": "Hon. Lusaka",
       "speaker_title": "(The Speaker)",
       "reviewed": true,
-      "text": ": Nil\n\nABSENTIONS"
+      "text": ": Nil\n\nABSENTIONS\n\n: Nil"
     },
     {
-      "order": 98,
-      "id": "entry-903422",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 99,
+      "order": 94,
       "id": "entry-903423",
       "label": "scene",
       "level": "3",
@@ -1191,7 +1131,7 @@
       "text": "(Question carried by 27 votes to nil)"
     },
     {
-      "order": 100,
+      "order": 95,
       "id": "entry-903424",
       "label": "scene",
       "level": "3",
@@ -1203,7 +1143,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 101,
+      "order": 96,
       "id": "entry-903425",
       "label": "speech",
       "level": "3",
@@ -1215,7 +1155,7 @@
       "text": "Hon. Members, we will now proceed to the next Order."
     },
     {
-      "order": 102,
+      "order": 97,
       "id": "entry-903426",
       "label": "heading",
       "level": "1",
@@ -1227,7 +1167,7 @@
       "text": "MOTION"
     },
     {
-      "order": 103,
+      "order": 98,
       "id": "entry-903427",
       "label": "heading",
       "level": "3",
@@ -1239,7 +1179,7 @@
       "text": "ADOPTION OF REPORT OF THE MEDIATION COMMITTEE ON THE WAREHOUSE RECEIPT SYSTEM BILL, 2017"
     },
     {
-      "order": 104,
+      "order": 99,
       "id": "entry-903428",
       "label": "speech",
       "level": "3",
@@ -1251,7 +1191,7 @@
       "text": "THAT, the Senate adopts the Report of the Mediation Committee on the Warehouse Receipt System Bill (Senate Bills No. 10 of 2017) laid on the Table of the Senate on Tuesday, 14th May, 2019 and pursuant to Article 113 of the Constitution and Standing Order 161 (3) of the Senate Standing Orders approves the mediated version of the Bill."
     },
     {
-      "order": 105,
+      "order": 100,
       "id": "entry-903429",
       "label": "scene",
       "level": "3",
@@ -1263,7 +1203,7 @@
       "text": "(Sen. Ndwiga on 15.5.2019)"
     },
     {
-      "order": 106,
+      "order": 101,
       "id": "entry-903430",
       "label": "scene",
       "level": "3",
@@ -1275,7 +1215,7 @@
       "text": "(Resumption of Debate interrupted on 15.5.2019)"
     },
     {
-      "order": 107,
+      "order": 102,
       "id": "entry-903431",
       "label": "heading",
       "level": "3",
@@ -1287,7 +1227,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 108,
+      "order": 103,
       "id": "entry-903433",
       "label": "scene",
       "level": "3",
@@ -1299,7 +1239,7 @@
       "text": "(Question, that the Senate adopts the Report of the Mediation Committee on the Warehouse Receipt System Bill (Senate Bills No.10 of 2017) laid on the Table of the Senate on Tuesday, 14th May, 2019 and pursuant to Article 113 of the Constitution and Standing Order No.161(3) of the Senate Standing Orders, approves the mediated version of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 109,
+      "order": 104,
       "id": "entry-903434",
       "label": "other",
       "level": "3",
@@ -1311,7 +1251,7 @@
       "text": "AYES:"
     },
     {
-      "order": 110,
+      "order": 105,
       "id": "entry-903435",
       "label": "other",
       "level": "3",
@@ -1323,7 +1263,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. M. Kajwang‟, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet"
     },
     {
-      "order": 111,
+      "order": 106,
       "id": "entry-903436",
       "label": "other",
       "level": "3",
@@ -1335,7 +1275,7 @@
       "text": "County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 112,
+      "order": 107,
       "id": "entry-903437-speaker_title-uppercase-heading",
       "label": "other",
       "level": "3",
@@ -1347,7 +1287,7 @@
       "text": "NOES:"
     },
     {
-      "order": 113,
+      "order": 108,
       "id": "entry-903437",
       "label": "speech",
       "level": "3",
@@ -1359,7 +1299,7 @@
       "text": "Hon. Senators, here are the results of the Division: Ayes: 26 Noes: Nil Abstentions: Nil The \"Ayes\" have it."
     },
     {
-      "order": 114,
+      "order": 109,
       "id": "entry-903441",
       "label": "scene",
       "level": "3",
@@ -1371,7 +1311,7 @@
       "text": "(Question carried by 26 votes to nil)"
     },
     {
-      "order": 115,
+      "order": 110,
       "id": "entry-903442-speaker_title-uppercase-heading",
       "label": "other",
       "level": "3",
@@ -1383,7 +1323,7 @@
       "text": "NOES:"
     },
     {
-      "order": 116,
+      "order": 111,
       "id": "entry-903442",
       "label": "speech",
       "level": "3",
@@ -1395,7 +1335,7 @@
       "text": "I now direct that the doors be unlocked and Bar drawn."
     },
     {
-      "order": 117,
+      "order": 112,
       "id": "entry-903443",
       "label": "scene",
       "level": "3",
@@ -1407,7 +1347,7 @@
       "text": "(Doors were unlocked and Bar drawn)"
     },
     {
-      "order": 118,
+      "order": 113,
       "id": "entry-903444",
       "label": "speech",
       "level": "3",
@@ -1419,7 +1359,7 @@
       "text": "On a point of order, Mr. Speaker, Sir. Is it in order for me to request you to request my colleagues to wait for the remaining three businesses in the Order Paper for purposes of Division? I want to inform the House that we have 24 Bills in Committee Stage. In the Senate Business Committee (SBC) we agreed that we need to dispense with all these, because when private Members have worked so hard to take their Bills to Committee Stage, it is only respectful for each one of us to support each other. This can be one person today and the next person tomorrow. On behalf of the Majority and Minority sides and the SBC, we request that Senators be patient for the remaining three Orders in the Order Paper for the purpose of Division in the Committee Stage, so that we can expedite our work."
     },
     {
-      "order": 119,
+      "order": 114,
       "id": "entry-903445",
       "label": "speech",
       "level": "3",
@@ -1431,7 +1371,7 @@
       "text": "Okay. That is in order. Next order."
     },
     {
-      "order": 120,
+      "order": 115,
       "id": "entry-903446",
       "label": "heading",
       "level": "1",
@@ -1443,7 +1383,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 121,
+      "order": 116,
       "id": "entry-903447",
       "label": "scene",
       "level": "1",
@@ -1455,7 +1395,7 @@
       "text": "(Order for Committee read)"
     },
     {
-      "order": 122,
+      "order": 117,
       "id": "entry-903448",
       "label": "scene",
       "level": "1",
@@ -1467,7 +1407,7 @@
       "text": "[The Speaker (Hon. Lusaka) left the Chair]"
     },
     {
-      "order": 123,
+      "order": 118,
       "id": "entry-903449",
       "label": "heading",
       "level": "2",
@@ -1479,7 +1419,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 124,
+      "order": 119,
       "id": "entry-903450",
       "label": "scene",
       "level": "2",
@@ -1491,7 +1431,7 @@
       "text": "[The Temporary Speaker (Sen. (Dr.) Lelegwe) in the Chair]"
     },
     {
-      "order": 125,
+      "order": 120,
       "id": "entry-903452",
       "label": "heading",
       "level": "3",
@@ -1503,7 +1443,7 @@
       "text": "THE COUNTY EARLY CHILDHOOD EDUCATION BILL (SENATE BILLS NO.26 OF 2018)"
     },
     {
-      "order": 126,
+      "order": 121,
       "id": "entry-903453",
       "label": "scene",
       "level": "3",
@@ -1515,7 +1455,7 @@
       "text": "(Resumption of Debate interrupted on 27.3.2019)"
     },
     {
-      "order": 127,
+      "order": 122,
       "id": "entry-903454",
       "label": "speech",
       "level": "3",
@@ -1527,7 +1467,7 @@
       "text": "Hon. Senators, I now order the Bell be rung for 30 seconds."
     },
     {
-      "order": 128,
+      "order": 123,
       "id": "entry-903455",
       "label": "scene",
       "level": "3",
@@ -1539,7 +1479,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 129,
+      "order": 124,
       "id": "entry-903456",
       "label": "speech",
       "level": "3",
@@ -1551,7 +1491,7 @@
       "text": "I now order the Bars to be drawn and the Doors closed."
     },
     {
-      "order": 130,
+      "order": 125,
       "id": "entry-903457",
       "label": "scene",
       "level": "3",
@@ -1563,7 +1503,7 @@
       "text": "(The Bars were drawn and Doors closed)"
     },
     {
-      "order": 131,
+      "order": 126,
       "id": "entry-903458",
       "label": "speech",
       "level": "3",
@@ -1575,7 +1515,7 @@
       "text": "Hon. Members, we are now in the Committee of the Whole, considering The County Early Childhood Education Bill (Senate Bills No.26 of 2018). We are now at the Division. I call upon the assisted voters to come forward. Sen. Amos Wako, please, come forward."
     },
     {
-      "order": 132,
+      "order": 127,
       "id": "entry-903459",
       "label": "scene",
       "level": "3",
@@ -1587,7 +1527,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 133,
+      "order": 128,
       "id": "entry-903460",
       "label": "speech",
       "level": "3",
@@ -1599,7 +1539,7 @@
       "text": "Hon. Senators, we now proceed to the second Division. I, therefore, put the question."
     },
     {
-      "order": 134,
+      "order": 129,
       "id": "entry-903461",
       "label": "scene",
       "level": "3",
@@ -1611,7 +1551,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 135,
+      "order": 130,
       "id": "entry-903462",
       "label": "speech",
       "level": "3",
@@ -1623,7 +1563,7 @@
       "text": "Hon. Senators, we are proceeding to the final Division on this Bill. I, therefore, put the question."
     },
     {
-      "order": 136,
+      "order": 131,
       "id": "entry-903463",
       "label": "scene",
       "level": "3",
@@ -1635,7 +1575,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 137,
+      "order": 132,
       "id": "entry-903464",
       "label": "speech",
       "level": "3",
@@ -1647,7 +1587,7 @@
       "text": "The Senator for Nandi County to approach the Clerks-at-the-Table for assistance."
     },
     {
-      "order": 138,
+      "order": 133,
       "id": "entry-903465",
       "label": "scene",
       "level": "3",
@@ -1659,7 +1599,7 @@
       "text": "(Sen. Cherargei approached the Clerks-at-the-Table)"
     },
     {
-      "order": 139,
+      "order": 134,
       "id": "entry-903466",
       "label": "scene",
       "level": "3",
@@ -1671,7 +1611,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 140,
+      "order": 135,
       "id": "entry-903467",
       "label": "heading",
       "level": "3",
@@ -1683,7 +1623,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 141,
+      "order": 136,
       "id": "entry-903469",
       "label": "scene",
       "level": "3",
@@ -1695,7 +1635,7 @@
       "text": "(Question, that New Clause 66A be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 142,
+      "order": 137,
       "id": "entry-903470",
       "label": "other",
       "level": "3",
@@ -1707,7 +1647,7 @@
       "text": "AYES"
     },
     {
-      "order": 143,
+      "order": 138,
       "id": "entry-903471",
       "label": "other",
       "level": "3",
@@ -1719,7 +1659,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County;"
     },
     {
-      "order": 144,
+      "order": 139,
       "id": "entry-903472",
       "label": "other",
       "level": "3",
@@ -1731,7 +1671,7 @@
       "text": "Sen. M. Kajwang‟, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wako, Busia County; Sen. Wambua, Kitui County; Sen. (Rev.)Waqo, Marsabit County and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 145,
+      "order": 140,
       "id": "entry-903473",
       "label": "other",
       "level": "3",
@@ -1740,22 +1680,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil."
     },
     {
-      "order": 146,
-      "id": "entry-903474",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 147,
+      "order": 141,
       "id": "entry-903475",
       "label": "speech",
       "level": "3",
@@ -1767,7 +1695,7 @@
       "text": "Hon. Senators, the results are as follows:\n\nAYES\n\n: 30\n\nNOES"
     },
     {
-      "order": 148,
+      "order": 142,
       "id": "entry-903479",
       "label": "speech",
       "level": "3",
@@ -1776,22 +1704,10 @@
       "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
-      "text": ": Nil.\n\nABSTENTIONS"
+      "text": ": Nil.\n\nABSTENTIONS\n\n: Nil"
     },
     {
-      "order": 149,
-      "id": "entry-903481",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 150,
+      "order": 143,
       "id": "entry-903482",
       "label": "scene",
       "level": "3",
@@ -1803,7 +1719,7 @@
       "text": "(Question carried by 30 votes to nil)"
     },
     {
-      "order": 151,
+      "order": 144,
       "id": "entry-903483",
       "label": "heading",
       "level": "3",
@@ -1815,7 +1731,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 152,
+      "order": 145,
       "id": "entry-903485",
       "label": "speech",
       "level": "3",
@@ -1827,7 +1743,7 @@
       "text": "( Question, that Clauses 6, 19, 30, 38, 41, 49, 63, 67 and Clause 1 be amended as"
     },
     {
-      "order": 153,
+      "order": 146,
       "id": "entry-903486",
       "label": "scene",
       "level": "3",
@@ -1839,7 +1755,7 @@
       "text": "proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 154,
+      "order": 147,
       "id": "entry-903487",
       "label": "other",
       "level": "3",
@@ -1851,7 +1767,7 @@
       "text": "AYES"
     },
     {
-      "order": 155,
+      "order": 148,
       "id": "entry-903488",
       "label": "other",
       "level": "3",
@@ -1863,7 +1779,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. M. Kajwang‟, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. (Rev.)Waqo, Marsabit County and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 156,
+      "order": 149,
       "id": "entry-903489",
       "label": "other",
       "level": "3",
@@ -1872,22 +1788,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil."
     },
     {
-      "order": 157,
-      "id": "entry-903490",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 158,
+      "order": 150,
       "id": "entry-903491",
       "label": "speech",
       "level": "3",
@@ -1899,7 +1803,7 @@
       "text": "Hon. Senators, the results are as follows:\n\nAYES\n\n: 29\n\nNOES"
     },
     {
-      "order": 159,
+      "order": 151,
       "id": "entry-903495",
       "label": "speech",
       "level": "3",
@@ -1908,22 +1812,10 @@
       "speaker": "The TemporaryChairperson",
       "speaker_title": "(Sen. (Dr.) Lelegwe)",
       "reviewed": true,
-      "text": ": Nil.\n\nABSTENTIONS"
+      "text": ": Nil.\n\nABSTENTIONS\n\n: Nil"
     },
     {
-      "order": 160,
-      "id": "entry-903497",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "The TemporaryChairperson",
-      "speaker_title": "(Sen. (Dr.) Lelegwe)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 161,
+      "order": 152,
       "id": "entry-903498",
       "label": "scene",
       "level": "3",
@@ -1935,7 +1827,7 @@
       "text": "(Question carried by 29 votes to nil)"
     },
     {
-      "order": 162,
+      "order": 153,
       "id": "entry-903499",
       "label": "heading",
       "level": "3",
@@ -1947,7 +1839,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 163,
+      "order": 154,
       "id": "entry-903501",
       "label": "speech",
       "level": "3",
@@ -1959,7 +1851,7 @@
       "text": "( Question, that Clauses 3-5, 6(as amended), 7-18, 19(as amended), 20-29, 30(as"
     },
     {
-      "order": 164,
+      "order": 155,
       "id": "entry-903502",
       "label": "scene",
       "level": "3",
@@ -1971,7 +1863,7 @@
       "text": "amended), 31-37, 38 (as amended), 39-40, 41 (as amended), 42-48, 49 (as amended), 50- 62, 63 (as amended), 64-66, 67 (as amended), 68-69, New Clause 66A, the First Schedule and the Second Schedule, the Title, Clause 2 and Clause 1(as amended) be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 165,
+      "order": 156,
       "id": "entry-903503",
       "label": "other",
       "level": "3",
@@ -1983,7 +1875,7 @@
       "text": "AYES"
     },
     {
-      "order": 166,
+      "order": 157,
       "id": "entry-903504",
       "label": "other",
       "level": "3",
@@ -1995,7 +1887,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. M. Kajwang‟, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County and Sen. (Rev.)Waqo, Marsabit County."
     },
     {
-      "order": 167,
+      "order": 158,
       "id": "entry-903505",
       "label": "other",
       "level": "3",
@@ -2004,22 +1896,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil."
     },
     {
-      "order": 168,
-      "id": "entry-903506",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "The TemporaryChairperson",
-      "speaker_title": "(Sen. (Dr.) Lelegwe)",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 169,
+      "order": 159,
       "id": "entry-903507",
       "label": "speech",
       "level": "3",
@@ -2031,7 +1911,7 @@
       "text": "Hon. Senators, the results are as follows:\n\nAYES\n\n: 28\n\nNOES"
     },
     {
-      "order": 170,
+      "order": 160,
       "id": "entry-903511",
       "label": "speech",
       "level": "3",
@@ -2040,22 +1920,10 @@
       "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
-      "text": ": Nil.\n\nABSTENTIONS"
+      "text": ": Nil.\n\nABSTENTIONS\n\n: Nil"
     },
     {
-      "order": 171,
-      "id": "entry-903513",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 172,
+      "order": 161,
       "id": "entry-903514",
       "label": "scene",
       "level": "3",
@@ -2067,7 +1935,7 @@
       "text": "(Question carried by 28 votes to nil)"
     },
     {
-      "order": 173,
+      "order": 162,
       "id": "entry-903515",
       "label": "speech",
       "level": "3",
@@ -2079,7 +1947,7 @@
       "text": "Hon. Senators, we will proceed to the next Bill, which is The Public Participation Bill (Senate Bills No. 4 of 2018) and we will report progress at the end."
     },
     {
-      "order": 174,
+      "order": 163,
       "id": "entry-903516",
       "label": "heading",
       "level": "3",
@@ -2091,7 +1959,7 @@
       "text": "THE PUBLIC PARTICIPATION BILL (SENATE BILLS NO. 4 OF 2018)"
     },
     {
-      "order": 175,
+      "order": 164,
       "id": "entry-903517",
       "label": "speech",
       "level": "3",
@@ -2103,7 +1971,7 @@
       "text": "You can start voting."
     },
     {
-      "order": 176,
+      "order": 165,
       "id": "entry-903518",
       "label": "scene",
       "level": "3",
@@ -2115,19 +1983,19 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 177,
+      "order": 166,
       "id": "entry-903520",
       "label": "speech",
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
       "text": "The Senators for Nandi and Isiolo counties to approach the Clerks-at-the-Table for assistance."
     },
     {
-      "order": 178,
+      "order": 167,
       "id": "entry-903521",
       "label": "scene",
       "level": "3",
@@ -2139,7 +2007,7 @@
       "text": "(Sen. Cherargei and Sen. Halake approached the Clerks-at-the-Table)"
     },
     {
-      "order": 179,
+      "order": 168,
       "id": "entry-903522",
       "label": "scene",
       "level": "3",
@@ -2151,7 +2019,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 180,
+      "order": 169,
       "id": "entry-903523",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2031,7 @@
       "text": "Hon. Senators, we will now proceed to the second division."
     },
     {
-      "order": 181,
+      "order": 170,
       "id": "entry-903524",
       "label": "scene",
       "level": "3",
@@ -2175,7 +2043,7 @@
       "text": "(Question put)"
     },
     {
-      "order": 182,
+      "order": 171,
       "id": "entry-903525",
       "label": "speech",
       "level": "3",
@@ -2187,7 +2055,7 @@
       "text": "You can start voting."
     },
     {
-      "order": 183,
+      "order": 172,
       "id": "entry-903526",
       "label": "scene",
       "level": "3",
@@ -2199,7 +2067,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 184,
+      "order": 173,
       "id": "entry-903527",
       "label": "speech",
       "level": "3",
@@ -2211,7 +2079,7 @@
       "text": "The Senators for Nandi and Isiolo counties to approach the Clerks-at-the-Table for assistance."
     },
     {
-      "order": 185,
+      "order": 174,
       "id": "entry-903528",
       "label": "scene",
       "level": "3",
@@ -2223,7 +2091,7 @@
       "text": "(Sen. Cherargei and Sen. Halake approached the Clerks-at-the-Table)"
     },
     {
-      "order": 186,
+      "order": 175,
       "id": "entry-903529",
       "label": "scene",
       "level": "3",
@@ -2235,7 +2103,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 187,
+      "order": 176,
       "id": "entry-903530",
       "label": "heading",
       "level": "3",
@@ -2247,7 +2115,7 @@
       "text": "THE PUBLIC PARTICIPATION BILL (SENATE BILLS NO. 4 OF 2018)"
     },
     {
-      "order": 188,
+      "order": 177,
       "id": "entry-903531",
       "label": "heading",
       "level": "3",
@@ -2259,7 +2127,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 189,
+      "order": 178,
       "id": "entry-903533",
       "label": "scene",
       "level": "3",
@@ -2271,7 +2139,7 @@
       "text": "(Question, that new Clauses 7A and 8A be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 190,
+      "order": 179,
       "id": "entry-903534",
       "label": "other",
       "level": "3",
@@ -2283,7 +2151,7 @@
       "text": "AYES:"
     },
     {
-      "order": 191,
+      "order": 180,
       "id": "entry-903535",
       "label": "other",
       "level": "3",
@@ -2295,7 +2163,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. Kajwang‟ M., Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita-Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County;"
     },
     {
-      "order": 192,
+      "order": 181,
       "id": "entry-903536",
       "label": "other",
       "level": "3",
@@ -2307,7 +2175,7 @@
       "text": "Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 193,
+      "order": 182,
       "id": "entry-903537",
       "label": "other",
       "level": "3",
@@ -2316,22 +2184,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 194,
-      "id": "entry-903538",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 195,
+      "order": 183,
       "id": "entry-903539",
       "label": "speech",
       "level": "3",
@@ -2343,7 +2199,7 @@
       "text": "(Sen. (Dr.) Lelegwe: Hon. Senators, the following are the results of the first Division on The Public Participation Bill (Senate Bills No.4 of 2018):\n\nAYES:\n\n28\n\nNOES:"
     },
     {
-      "order": 196,
+      "order": 184,
       "id": "entry-903543",
       "label": "speech",
       "level": "3",
@@ -2355,7 +2211,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 197,
+      "order": 185,
       "id": "entry-903545",
       "label": "speech",
       "level": "3",
@@ -2367,7 +2223,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 198,
+      "order": 186,
       "id": "entry-903546",
       "label": "scene",
       "level": "3",
@@ -2379,7 +2235,7 @@
       "text": "(Question carried by 28 votes to Nil)"
     },
     {
-      "order": 199,
+      "order": 187,
       "id": "entry-903547",
       "label": "heading",
       "level": "3",
@@ -2391,7 +2247,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 200,
+      "order": 188,
       "id": "entry-903549-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2403,7 +2259,7 @@
       "text": "(Question, that Clause 3- 9, the Schedule, Clause 2 and the Title be amended as proposed, put and the Senate proceeded to vote by County Delegations)\n\n."
     },
     {
-      "order": 201,
+      "order": 189,
       "id": "entry-903550",
       "label": "other",
       "level": "3",
@@ -2415,7 +2271,7 @@
       "text": "AYES:"
     },
     {
-      "order": 202,
+      "order": 190,
       "id": "entry-903551",
       "label": "other",
       "level": "3",
@@ -2427,7 +2283,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita- Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 203,
+      "order": 191,
       "id": "entry-903552",
       "label": "other",
       "level": "3",
@@ -2436,22 +2292,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil."
     },
     {
-      "order": 204,
-      "id": "entry-903553",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 205,
+      "order": 192,
       "id": "entry-903554",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2307,7 @@
       "text": "(Sen. (Dr.) Lelegwe: Hon. Senators, the results of the Divisions on The Public Participation Bill (Senate Bills No.4 of 2018 are as follows:\n\nAYES:\n\n27\n\nNOES:"
     },
     {
-      "order": 206,
+      "order": 193,
       "id": "entry-903558",
       "label": "speech",
       "level": "3",
@@ -2475,7 +2319,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 207,
+      "order": 194,
       "id": "entry-903560",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2331,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 208,
+      "order": 195,
       "id": "entry-903561",
       "label": "scene",
       "level": "3",
@@ -2499,7 +2343,7 @@
       "text": "(Question carried by 27 votes to Nil)"
     },
     {
-      "order": 209,
+      "order": 196,
       "id": "entry-903562",
       "label": "speech",
       "level": "3",
@@ -2511,7 +2355,7 @@
       "text": "Hon. Senators, we now proceed to the third Division."
     },
     {
-      "order": 210,
+      "order": 197,
       "id": "entry-903563",
       "label": "heading",
       "level": "3",
@@ -2523,7 +2367,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 211,
+      "order": 198,
       "id": "entry-903565",
       "label": "scene",
       "level": "3",
@@ -2535,7 +2379,7 @@
       "text": "(Question, that Clauses 3-9 (as amended), New Clause 7A, New Clause 8A, the Second Schedule (as amended), Clause 2 (as amended) the Title (as amended) and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 212,
+      "order": 199,
       "id": "entry-903566",
       "label": "other",
       "level": "3",
@@ -2547,7 +2391,7 @@
       "text": "AYES:"
     },
     {
-      "order": 213,
+      "order": 200,
       "id": "entry-903567",
       "label": "other",
       "level": "3",
@@ -2559,7 +2403,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. Kajwang‟ M., Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 214,
+      "order": 201,
       "id": "entry-903568",
       "label": "other",
       "level": "3",
@@ -2571,7 +2415,7 @@
       "text": "NOES:"
     },
     {
-      "order": 215,
+      "order": 202,
       "id": "entry-903569",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2427,7 @@
       "text": "Nil Hon. Senators, these are the results of the third Divisions of the Public Participation Bill (Senate Bills) No. 4 of 2018:- AYES: 28 NOES: Nil ABSTENTIONS: Nil"
     },
     {
-      "order": 216,
+      "order": 203,
       "id": "entry-903570",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2439,7 @@
       "text": "The \"Ayes\" have it."
     },
     {
-      "order": 217,
+      "order": 204,
       "id": "entry-903571",
       "label": "scene",
       "level": "3",
@@ -2607,7 +2451,7 @@
       "text": "(Question carried by 28 votes to Nil)"
     },
     {
-      "order": 218,
+      "order": 205,
       "id": "entry-903572",
       "label": "speech",
       "level": "3",
@@ -2619,7 +2463,7 @@
       "text": "Hon. Senators, we now proceed to the third Bill; The Petition to County Assemblies (Procedure) Bill (Senate Bills No.22 of 2018)."
     },
     {
-      "order": 219,
+      "order": 206,
       "id": "entry-903574",
       "label": "heading",
       "level": "3",
@@ -2631,7 +2475,7 @@
       "text": "THE PETITION TO COUNTY ASSEMBLIES (PROCEDURE) BILL (SENATE BILLS NO. 22 OF 2018)"
     },
     {
-      "order": 220,
+      "order": 207,
       "id": "entry-903575",
       "label": "heading",
       "level": "3",
@@ -2643,7 +2487,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 221,
+      "order": 208,
       "id": "entry-903577",
       "label": "scene",
       "level": "3",
@@ -2655,7 +2499,7 @@
       "text": "(Question, that Clause 5 be amended as proposed put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 222,
+      "order": 209,
       "id": "entry-903578",
       "label": "other",
       "level": "3",
@@ -2667,7 +2511,7 @@
       "text": "AYES:"
     },
     {
-      "order": 223,
+      "order": 210,
       "id": "entry-903579",
       "label": "other",
       "level": "3",
@@ -2679,7 +2523,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. Kajwang‟ M., Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita-Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 224,
+      "order": 211,
       "id": "entry-903580",
       "label": "other",
       "level": "3",
@@ -2691,7 +2535,7 @@
       "text": "NOES:"
     },
     {
-      "order": 225,
+      "order": 212,
       "id": "entry-903581",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2547,7 @@
       "text": "Nil. Hon. Senators, the results of the Division are as follows:- AYES: 28 NOES: Nil ABSTENTIONS: Nil"
     },
     {
-      "order": 226,
+      "order": 213,
       "id": "entry-903582",
       "label": "speech",
       "level": "3",
@@ -2715,7 +2559,7 @@
       "text": "The \"Ayes\" have it."
     },
     {
-      "order": 227,
+      "order": 214,
       "id": "entry-903583",
       "label": "scene",
       "level": "3",
@@ -2727,7 +2571,7 @@
       "text": "(Question carried by 28 votes to Nil)"
     },
     {
-      "order": 228,
+      "order": 215,
       "id": "entry-903584",
       "label": "heading",
       "level": "3",
@@ -2739,7 +2583,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 229,
+      "order": 216,
       "id": "entry-903586",
       "label": "scene",
       "level": "3",
@@ -2751,7 +2595,7 @@
       "text": "(Question, that Clauses 3, 4, 5 (as amended), 6, 7, the Schedule, Clause 2, the Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 230,
+      "order": 217,
       "id": "entry-903587",
       "label": "other",
       "level": "3",
@@ -2763,7 +2607,7 @@
       "text": "AYES:"
     },
     {
-      "order": 231,
+      "order": 218,
       "id": "entry-903588",
       "label": "other",
       "level": "3",
@@ -2775,7 +2619,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. M. Kajwang‟, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen."
     },
     {
-      "order": 232,
+      "order": 219,
       "id": "entry-903589",
       "label": "other",
       "level": "3",
@@ -2787,7 +2631,7 @@
       "text": "Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County;; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo- Marakwet County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 233,
+      "order": 220,
       "id": "entry-903590",
       "label": "other",
       "level": "3",
@@ -2796,22 +2640,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil"
     },
     {
-      "order": 234,
-      "id": "entry-903591",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 235,
+      "order": 221,
       "id": "entry-903592",
       "label": "speech",
       "level": "3",
@@ -2823,7 +2655,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n28\n\nNOES:"
     },
     {
-      "order": 236,
+      "order": 222,
       "id": "entry-903596",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2667,7 @@
       "text": "Nil.\n\nABSTENTIONS"
     },
     {
-      "order": 237,
+      "order": 223,
       "id": "entry-903598",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2679,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 238,
+      "order": 224,
       "id": "entry-903599",
       "label": "scene",
       "level": "3",
@@ -2859,7 +2691,7 @@
       "text": "(Question carried by 28 votes to Nil)"
     },
     {
-      "order": 239,
+      "order": 225,
       "id": "entry-903600",
       "label": "speech",
       "level": "3",
@@ -2871,7 +2703,7 @@
       "text": "Order, Hon. Senators. We will now proceed to the last Bill; The Treaty Making and Ratification (Amendment) Bill (Senate Bills No.23 of 2018)"
     },
     {
-      "order": 240,
+      "order": 226,
       "id": "entry-903601",
       "label": "heading",
       "level": "3",
@@ -2883,7 +2715,7 @@
       "text": "THE TREATY MAKING AND RATIFICATION (AMENDMENT) BILL (SENATE BILLS NO.23 OF 2018)"
     },
     {
-      "order": 241,
+      "order": 227,
       "id": "entry-903602",
       "label": "heading",
       "level": "3",
@@ -2895,7 +2727,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 242,
+      "order": 228,
       "id": "entry-903604",
       "label": "scene",
       "level": "3",
@@ -2907,7 +2739,7 @@
       "text": "(Question, that Clause 2 be amended as proposed put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 243,
+      "order": 229,
       "id": "entry-903605",
       "label": "other",
       "level": "3",
@@ -2919,7 +2751,7 @@
       "text": "AYES:"
     },
     {
-      "order": 244,
+      "order": 230,
       "id": "entry-903606",
       "label": "other",
       "level": "3",
@@ -2931,7 +2763,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. M. Kajwang‟, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita-Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County;"
     },
     {
-      "order": 245,
+      "order": 231,
       "id": "entry-903607",
       "label": "other",
       "level": "3",
@@ -2943,7 +2775,7 @@
       "text": "Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 246,
+      "order": 232,
       "id": "entry-903608",
       "label": "other",
       "level": "3",
@@ -2952,46 +2784,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil\n\nABSTENSIONS\n\n: Nil."
     },
     {
-      "order": 247,
-      "id": "entry-903609",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 248,
-      "id": "entry-903610",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "ABSTENSIONS"
-    },
-    {
-      "order": 249,
-      "id": "entry-903611",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 250,
+      "order": 233,
       "id": "entry-903612",
       "label": "speech",
       "level": "3",
@@ -3003,7 +2799,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n29\n\nNOES:"
     },
     {
-      "order": 251,
+      "order": 234,
       "id": "entry-903616",
       "label": "speech",
       "level": "3",
@@ -3015,7 +2811,7 @@
       "text": "Nil.\n\nABSTENTIONS"
     },
     {
-      "order": 252,
+      "order": 235,
       "id": "entry-903618",
       "label": "speech",
       "level": "3",
@@ -3027,7 +2823,7 @@
       "text": ": Nil. The \"Ayes\" have it."
     },
     {
-      "order": 253,
+      "order": 236,
       "id": "entry-903619",
       "label": "scene",
       "level": "3",
@@ -3039,7 +2835,7 @@
       "text": "(Question carried by 29 votes to Nil)"
     },
     {
-      "order": 254,
+      "order": 237,
       "id": "entry-903620",
       "label": "heading",
       "level": "3",
@@ -3051,7 +2847,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 255,
+      "order": 238,
       "id": "entry-903622",
       "label": "scene",
       "level": "3",
@@ -3063,7 +2859,7 @@
       "text": "(Question that New Clause 2A and New Clause 4A be now read a Second Time put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 256,
+      "order": 239,
       "id": "entry-903623",
       "label": "other",
       "level": "3",
@@ -3075,7 +2871,7 @@
       "text": "AYES:"
     },
     {
-      "order": 257,
+      "order": 240,
       "id": "entry-903624",
       "label": "other",
       "level": "3",
@@ -3087,7 +2883,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. M. Kajwang‟, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita-Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. (Dr.) Zani, Kwale County"
     },
     {
-      "order": 258,
+      "order": 241,
       "id": "entry-903625",
       "label": "other",
       "level": "3",
@@ -3096,58 +2892,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "AYES\n\n: 28"
+      "text": "AYES\n\n: 28\n\nNOES\n\n: Nil\n\nABSTENSIONS\n\n: Nil."
     },
     {
-      "order": 259,
-      "id": "entry-903627",
-      "label": "other",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "NOES"
-    },
-    {
-      "order": 260,
-      "id": "entry-903628",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 261,
-      "id": "entry-903629",
-      "label": "heading",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "ABSTENSIONS"
-    },
-    {
-      "order": 262,
-      "id": "entry-903630",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 263,
+      "order": 242,
       "id": "entry-903631",
       "label": "speech",
       "level": "3",
@@ -3159,7 +2907,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n28\n\nNOES:"
     },
     {
-      "order": 264,
+      "order": 243,
       "id": "entry-903635",
       "label": "speech",
       "level": "3",
@@ -3171,7 +2919,7 @@
       "text": "Nil.\n\nABSTENTIONS"
     },
     {
-      "order": 265,
+      "order": 244,
       "id": "entry-903637",
       "label": "speech",
       "level": "3",
@@ -3183,7 +2931,7 @@
       "text": ": Nil. The \"Ayes\" have it."
     },
     {
-      "order": 266,
+      "order": 245,
       "id": "entry-903638",
       "label": "scene",
       "level": "3",
@@ -3195,7 +2943,7 @@
       "text": "(Question carried 28 by votes to Nil)"
     },
     {
-      "order": 267,
+      "order": 246,
       "id": "entry-903640",
       "label": "heading",
       "level": "3",
@@ -3207,7 +2955,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 268,
+      "order": 247,
       "id": "entry-903642",
       "label": "scene",
       "level": "3",
@@ -3219,7 +2967,7 @@
       "text": "(Question, that Clause 2 (as amended), Clauses 3, 4, 5, New Clause 1A, New Clause 4A, the Title and Clause 1 be part of the Bill put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 269,
+      "order": 248,
       "id": "entry-903643",
       "label": "other",
       "level": "3",
@@ -3231,7 +2979,7 @@
       "text": "AYES:"
     },
     {
-      "order": 270,
+      "order": 249,
       "id": "entry-903644",
       "label": "other",
       "level": "3",
@@ -3243,7 +2991,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. M. Kajwang‟, Homa Bay County Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Shiyonga, Kakamega County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 271,
+      "order": 250,
       "id": "entry-903645",
       "label": "other",
       "level": "3",
@@ -3252,22 +3000,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil"
     },
     {
-      "order": 272,
-      "id": "entry-903646",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 273,
+      "order": 251,
       "id": "entry-903647",
       "label": "speech",
       "level": "3",
@@ -3279,7 +3015,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n29\n\nNOES:"
     },
     {
-      "order": 274,
+      "order": 252,
       "id": "entry-903651",
       "label": "speech",
       "level": "3",
@@ -3291,7 +3027,7 @@
       "text": "Nil.\n\nABSTENTIONS"
     },
     {
-      "order": 275,
+      "order": 253,
       "id": "entry-903653",
       "label": "speech",
       "level": "3",
@@ -3303,7 +3039,7 @@
       "text": ": Nil. The \"Ayes\" have it."
     },
     {
-      "order": 276,
+      "order": 254,
       "id": "entry-903654",
       "label": "scene",
       "level": "3",
@@ -3315,7 +3051,7 @@
       "text": "(Question carried by 29 votes to Nil)"
     },
     {
-      "order": 277,
+      "order": 255,
       "id": "entry-903655",
       "label": "heading",
       "level": "3",
@@ -3327,7 +3063,7 @@
       "text": "THE COUNTY EARLY CHILDHOOD EDUCATION BILL (SENATE BILLS NO.26 OF 2018)"
     },
     {
-      "order": 278,
+      "order": 256,
       "id": "entry-903656",
       "label": "speech",
       "level": "3",
@@ -3339,7 +3075,7 @@
       "text": "I now call upon the Mover of The County Early Childhood Education Bill (Senate Bills No.26 of 2018)."
     },
     {
-      "order": 279,
+      "order": 257,
       "id": "entry-903657",
       "label": "speech",
       "level": "3",
@@ -3351,7 +3087,7 @@
       "text": "Mr. Temporary Chairperson, I beg to move that the Committee do report to the Senate its consideration of The County Early Childhood Education Bill (Senate Bills No.26 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 280,
+      "order": 258,
       "id": "entry-903658",
       "label": "scene",
       "level": "3",
@@ -3363,7 +3099,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 281,
+      "order": 259,
       "id": "entry-903660",
       "label": "scene",
       "level": "3",
@@ -3375,7 +3111,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 282,
+      "order": 260,
       "id": "entry-903661",
       "label": "heading",
       "level": "3",
@@ -3387,7 +3123,7 @@
       "text": "THE PUBLIC PARTICIPATION BILL (SENATE BILLS NO.4 OF 2018)"
     },
     {
-      "order": 283,
+      "order": 261,
       "id": "entry-903662",
       "label": "speech",
       "level": "3",
@@ -3399,7 +3135,7 @@
       "text": "Mr. Temporary Chairperson, I beg to move that the Committee do report to the Senate its consideration of The Public Participation Bill (Senate Bills No.4 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 284,
+      "order": 262,
       "id": "entry-903663",
       "label": "scene",
       "level": "3",
@@ -3411,7 +3147,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 285,
+      "order": 263,
       "id": "entry-903664",
       "label": "scene",
       "level": "3",
@@ -3423,7 +3159,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 286,
+      "order": 264,
       "id": "entry-903665",
       "label": "heading",
       "level": "3",
@@ -3435,7 +3171,7 @@
       "text": "THE PETITION TO COUNTY ASSEMBLIES (PROCEDURE) BILL (SENATE BILLS NO.22 OF 2018)"
     },
     {
-      "order": 287,
+      "order": 265,
       "id": "entry-903666",
       "label": "speech",
       "level": "3",
@@ -3447,7 +3183,7 @@
       "text": "Mr. Temporary Chairperson, I beg to move that the Committee do report to the Senate its consideration of The Petition to County Assemblies (Procedure) Bill (Senate Bills No.22 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 288,
+      "order": 266,
       "id": "entry-903667",
       "label": "scene",
       "level": "3",
@@ -3459,7 +3195,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 289,
+      "order": 267,
       "id": "entry-903668",
       "label": "scene",
       "level": "3",
@@ -3471,7 +3207,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 290,
+      "order": 268,
       "id": "entry-903669",
       "label": "heading",
       "level": "3",
@@ -3483,7 +3219,7 @@
       "text": "THE TREATY MAKING AND RATIFICATION (AMENDMENT) BILL (SENATE BILLS NO.23 OF 2018)"
     },
     {
-      "order": 291,
+      "order": 269,
       "id": "entry-903670",
       "label": "speech",
       "level": "3",
@@ -3495,7 +3231,7 @@
       "text": "Mr. Temporary Chairperson, I beg to move that the Committee do report to the Senate its consideration of The Treaty Making and Ratification (Amendment) Bill (Senate Bills No.23 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 292,
+      "order": 270,
       "id": "entry-903671",
       "label": "scene",
       "level": "3",
@@ -3507,7 +3243,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 293,
+      "order": 271,
       "id": "entry-903672",
       "label": "scene",
       "level": "3",
@@ -3519,7 +3255,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 294,
+      "order": 272,
       "id": "entry-903673",
       "label": "scene",
       "level": "3",
@@ -3531,7 +3267,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 295,
+      "order": 273,
       "id": "entry-903674",
       "label": "scene",
       "level": "3",
@@ -3543,7 +3279,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar) in the Chair]"
     },
     {
-      "order": 296,
+      "order": 274,
       "id": "entry-903676",
       "label": "heading",
       "level": "3",
@@ -3555,7 +3291,7 @@
       "text": "REPORTS AND CONSIDERATION OF REPORTS"
     },
     {
-      "order": 297,
+      "order": 275,
       "id": "entry-903677",
       "label": "heading",
       "level": "3",
@@ -3567,7 +3303,7 @@
       "text": "THE COUNTY EARLY CHILDHOOD EDUCATION BILL (SENATE BILLS NO.26 OF 2018)"
     },
     {
-      "order": 298,
+      "order": 276,
       "id": "entry-903678",
       "label": "speech",
       "level": "3",
@@ -3579,7 +3315,7 @@
       "text": "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered The County Early Childhood Education Bill (Senate Bills No.26 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 299,
+      "order": 277,
       "id": "entry-903679",
       "label": "speech",
       "level": "3",
@@ -3591,7 +3327,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee on the said report. I ask the Senate Minority Leader to second."
     },
     {
-      "order": 300,
+      "order": 278,
       "id": "entry-903680",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3339,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 301,
+      "order": 279,
       "id": "entry-903681",
       "label": "scene",
       "level": "3",
@@ -3615,7 +3351,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 302,
+      "order": 280,
       "id": "entry-903682",
       "label": "scene",
       "level": "3",
@@ -3627,7 +3363,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 303,
+      "order": 281,
       "id": "entry-903683",
       "label": "speech",
       "level": "3",
@@ -3639,7 +3375,7 @@
       "text": "Madam Temporary Speaker, I beg to move that The County Early Childhood Education Bill (Senate Bills No.26 of 2018), be now read a Third Time. I ask Sen. Orengo to second."
     },
     {
-      "order": 304,
+      "order": 282,
       "id": "entry-903684",
       "label": "speech",
       "level": "3",
@@ -3651,7 +3387,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 305,
+      "order": 283,
       "id": "entry-903685",
       "label": "scene",
       "level": "3",
@@ -3663,7 +3399,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 306,
+      "order": 284,
       "id": "entry-903686",
       "label": "speech",
       "level": "3",
@@ -3675,7 +3411,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 307,
+      "order": 285,
       "id": "entry-903687",
       "label": "heading",
       "level": "3",
@@ -3687,7 +3423,7 @@
       "text": "THE PUBLIC PARTICIPATION BILL (SENATE BILLS NO.4 OF 2018)"
     },
     {
-      "order": 308,
+      "order": 286,
       "id": "entry-903688",
       "label": "speech",
       "level": "3",
@@ -3699,7 +3435,7 @@
       "text": "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered The Public Participation Bill (Senate Bills No.4 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 309,
+      "order": 287,
       "id": "entry-903689",
       "label": "speech",
       "level": "3",
@@ -3711,7 +3447,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee on the said Report. I ask Sen. Orengo to second."
     },
     {
-      "order": 310,
+      "order": 288,
       "id": "entry-903690",
       "label": "speech",
       "level": "3",
@@ -3723,7 +3459,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 311,
+      "order": 289,
       "id": "entry-903691",
       "label": "scene",
       "level": "3",
@@ -3735,7 +3471,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 312,
+      "order": 290,
       "id": "entry-903692",
       "label": "scene",
       "level": "3",
@@ -3747,7 +3483,7 @@
       "text": "(Question put and greed to)"
     },
     {
-      "order": 313,
+      "order": 291,
       "id": "entry-903694",
       "label": "speech",
       "level": "3",
@@ -3759,7 +3495,7 @@
       "text": "Madam Temporary Speaker, I beg to move that The Public Participation Bill (Senate Bills No.4 of 2018) be now read a Third Time. I ask Sen. Orengo to second."
     },
     {
-      "order": 314,
+      "order": 292,
       "id": "entry-903695",
       "label": "speech",
       "level": "3",
@@ -3771,7 +3507,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 315,
+      "order": 293,
       "id": "entry-903696",
       "label": "scene",
       "level": "3",
@@ -3783,7 +3519,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 316,
+      "order": 294,
       "id": "entry-903697",
       "label": "heading",
       "level": "3",
@@ -3795,7 +3531,7 @@
       "text": "THE PETITION TO COUNTY ASSEMBLIES (PROCEDURE) BILL (SENATE BILLS NO.22 OF 2018)"
     },
     {
-      "order": 317,
+      "order": 295,
       "id": "entry-903698",
       "label": "speech",
       "level": "3",
@@ -3807,7 +3543,7 @@
       "text": "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered The Petition to County Assemblies (Procedure) Bill (Senate Bills No.22 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 318,
+      "order": 296,
       "id": "entry-903699",
       "label": "speech",
       "level": "3",
@@ -3819,7 +3555,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to move that the House do agree with the Committee on the said report. I ask Sen. Orengo to second."
     },
     {
-      "order": 319,
+      "order": 297,
       "id": "entry-903701",
       "label": "speech",
       "level": "3",
@@ -3831,7 +3567,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 320,
+      "order": 298,
       "id": "entry-903702",
       "label": "scene",
       "level": "3",
@@ -3843,7 +3579,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 321,
+      "order": 299,
       "id": "entry-903703",
       "label": "scene",
       "level": "3",
@@ -3855,7 +3591,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 322,
+      "order": 300,
       "id": "entry-903704",
       "label": "speech",
       "level": "3",
@@ -3867,7 +3603,7 @@
       "text": "Madam Temporary Speaker, I beg to move that The Petition to County Assemblies (Procedure) Bill (Senate Bills No.22 of 2018) be now read a Third Time. I ask Sen. Orengo to second."
     },
     {
-      "order": 323,
+      "order": 301,
       "id": "entry-903705",
       "label": "speech",
       "level": "3",
@@ -3879,7 +3615,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 324,
+      "order": 302,
       "id": "entry-903706",
       "label": "scene",
       "level": "3",
@@ -3891,7 +3627,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 325,
+      "order": 303,
       "id": "entry-903707",
       "label": "speech",
       "level": "3",
@@ -3903,7 +3639,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 326,
+      "order": 304,
       "id": "entry-903708",
       "label": "heading",
       "level": "3",
@@ -3915,7 +3651,7 @@
       "text": "THE TREATY MAKING AND RATIFICATION (AMENDMENT) BILL (SENATE BILLS NO.23 OF 2018)"
     },
     {
-      "order": 327,
+      "order": 305,
       "id": "entry-903709",
       "label": "speech",
       "level": "3",
@@ -3927,7 +3663,7 @@
       "text": "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered The Treaty Making and Ratification (Amendment) Bill (Senate Bills No.23 of 2018) and its approval thereof with amendments."
     },
     {
-      "order": 328,
+      "order": 306,
       "id": "entry-903710",
       "label": "speech",
       "level": "3",
@@ -3939,7 +3675,7 @@
       "text": "Madam Temporary Speaker, Sir, I beg to move that the House do agree with the Committee on the said report. I ask the Senate Minority Leader to second."
     },
     {
-      "order": 329,
+      "order": 307,
       "id": "entry-903711",
       "label": "speech",
       "level": "3",
@@ -3951,7 +3687,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 330,
+      "order": 308,
       "id": "entry-903712",
       "label": "scene",
       "level": "3",
@@ -3963,7 +3699,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 331,
+      "order": 309,
       "id": "entry-903713",
       "label": "scene",
       "level": "3",
@@ -3975,7 +3711,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 332,
+      "order": 310,
       "id": "entry-903714",
       "label": "speech",
       "level": "3",
@@ -3987,7 +3723,7 @@
       "text": "Madam Temporary Speaker, I beg to move that The Treaty Making and Ratification (Amendment) Bill (Senate Bills No.23 of 2018) be now read a Third Time. I ask the Senate Minority Leader to second."
     },
     {
-      "order": 333,
+      "order": 311,
       "id": "entry-903715",
       "label": "speech",
       "level": "3",
@@ -3999,7 +3735,7 @@
       "text": "(Sen. Orengo) seconded."
     },
     {
-      "order": 334,
+      "order": 312,
       "id": "entry-903716",
       "label": "scene",
       "level": "3",
@@ -4011,7 +3747,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 335,
+      "order": 313,
       "id": "entry-903717",
       "label": "speech",
       "level": "3",
@@ -4023,7 +3759,7 @@
       "text": "Hon. Senators, Division will follow. I now order that the Bell be rung for one minute."
     },
     {
-      "order": 336,
+      "order": 314,
       "id": "entry-903718",
       "label": "scene",
       "level": "3",
@@ -4035,7 +3771,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 337,
+      "order": 315,
       "id": "entry-903719",
       "label": "speech",
       "level": "3",
@@ -4047,7 +3783,7 @@
       "text": "Hon. Members, we are now ready for voting. I order that the Bars be drawn and the doors locked."
     },
     {
-      "order": 338,
+      "order": 316,
       "id": "entry-903720",
       "label": "scene",
       "level": "3",
@@ -4059,7 +3795,7 @@
       "text": "(The Bars were drawn and the doors locked)"
     },
     {
-      "order": 339,
+      "order": 317,
       "id": "entry-903721",
       "label": "speech",
       "level": "3",
@@ -4071,7 +3807,7 @@
       "text": "Hon. Senators, we will start with The County Early Childhood Education Bill (Senate Bills No.26 of 2018). The screen is now on. You can start voting."
     },
     {
-      "order": 340,
+      "order": 318,
       "id": "entry-903722",
       "label": "scene",
       "level": "3",
@@ -4083,7 +3819,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 341,
+      "order": 319,
       "id": "entry-903723",
       "label": "speech",
       "level": "3",
@@ -4095,7 +3831,7 @@
       "text": "Thank you, hon. Senators. We will go to the next vote, so that we report on everything. It will be faster for us. Please, clear the screen for the next one. The next vote is on The Public Participation Bill (Senate Bills No.4 of 2018). I had put the question. Let us vote right away. Please, start voting."
     },
     {
-      "order": 342,
+      "order": 320,
       "id": "entry-903724",
       "label": "scene",
       "level": "3",
@@ -4107,7 +3843,7 @@
       "text": "(The Senators proceed to vote)"
     },
     {
-      "order": 343,
+      "order": 321,
       "id": "entry-903725",
       "label": "speech",
       "level": "3",
@@ -4119,7 +3855,7 @@
       "text": "Hon. Senators, let us proceed to the next Bill, which is The Petition to County Assemblies (Procedure) Bill (Senate Bills No.22 of 2018). Since I had put the question, you will proceed to vote."
     },
     {
-      "order": 344,
+      "order": 322,
       "id": "entry-903726",
       "label": "scene",
       "level": "3",
@@ -4131,7 +3867,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 345,
+      "order": 323,
       "id": "entry-903728",
       "label": "speech",
       "level": "3",
@@ -4143,7 +3879,7 @@
       "text": "Thank you, hon. Senators. We will now move to the last one, although we have an extra vote compared to the number of delegates in the room. Hon. Senators, we now have the last one; The Treaty Making and Ratification (Amendment) Bill (Senate Bills No. 23 of 2018). The screen is ready. Please start voting."
     },
     {
-      "order": 346,
+      "order": 324,
       "id": "entry-903729",
       "label": "scene",
       "level": "3",
@@ -4155,7 +3891,7 @@
       "text": "(The Senators proceeded to vote)"
     },
     {
-      "order": 347,
+      "order": 325,
       "id": "entry-903730",
       "label": "speech",
       "level": "3",
@@ -4167,7 +3903,7 @@
       "text": "Two Senators have not voted. Senator for Mombasa County, you are not in the system. Please approach the Clerks-at-the-Table for assistance."
     },
     {
-      "order": 348,
+      "order": 326,
       "id": "entry-903731",
       "label": "scene",
       "level": "3",
@@ -4179,7 +3915,7 @@
       "text": "(Sen. Faki approached the Clerks-at-the-Table)"
     },
     {
-      "order": 349,
+      "order": 327,
       "id": "entry-903732",
       "label": "speech",
       "level": "3",
@@ -4191,7 +3927,7 @@
       "text": "Order, Hon. Senators. The results are now ready. Please take your seats. The first Bill was The County Early Childhood Education Bill (Senate Bills No. 26 of 2018)."
     },
     {
-      "order": 350,
+      "order": 328,
       "id": "entry-903733",
       "label": "heading",
       "level": "1",
@@ -4203,7 +3939,7 @@
       "text": "THIRD READINGS"
     },
     {
-      "order": 351,
+      "order": 329,
       "id": "entry-903734",
       "label": "heading",
       "level": "3",
@@ -4215,7 +3951,7 @@
       "text": "THE COUNTY EARLY CHILDHOOD EDUCATION BILL (SENATE BILLS NO. 26 OF 2018)"
     },
     {
-      "order": 352,
+      "order": 330,
       "id": "entry-903735",
       "label": "heading",
       "level": "3",
@@ -4227,7 +3963,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 353,
+      "order": 331,
       "id": "entry-903737",
       "label": "scene",
       "level": "3",
@@ -4239,7 +3975,7 @@
       "text": "(Question, that the County Early Childhood Education Bill (Senate Bills No. 26 of 2018) be now read a Third Time put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 354,
+      "order": 332,
       "id": "entry-903738",
       "label": "other",
       "level": "3",
@@ -4251,7 +3987,7 @@
       "text": "AYES"
     },
     {
-      "order": 355,
+      "order": 333,
       "id": "entry-903739",
       "label": "other",
       "level": "3",
@@ -4263,7 +3999,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. M. Kajwang‟, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita- Taveta County; Sen. Nyamunga, Kisumu County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; Sen.(Rev.) Waqo, Marsabit County; and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 356,
+      "order": 334,
       "id": "entry-903740",
       "label": "other",
       "level": "3",
@@ -4272,22 +4008,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil."
     },
     {
-      "order": 357,
-      "id": "entry-903741",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Margaret Kamar",
-      "speaker_title": "(The Temporary Speaker)",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 358,
+      "order": 335,
       "id": "entry-903742",
       "label": "speech",
       "level": "3",
@@ -4299,7 +4023,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 29\n\nNOES"
     },
     {
-      "order": 359,
+      "order": 336,
       "id": "entry-903746",
       "label": "speech",
       "level": "3",
@@ -4311,7 +4035,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 360,
+      "order": 337,
       "id": "entry-903748",
       "label": "speech",
       "level": "3",
@@ -4323,7 +4047,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 361,
+      "order": 338,
       "id": "entry-903749",
       "label": "scene",
       "level": "3",
@@ -4335,7 +4059,7 @@
       "text": "(Question carried by 29 votes to nil)"
     },
     {
-      "order": 362,
+      "order": 339,
       "id": "entry-903750",
       "label": "scene",
       "level": "3",
@@ -4347,7 +4071,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 363,
+      "order": 340,
       "id": "entry-903751",
       "label": "heading",
       "level": "3",
@@ -4359,7 +4083,7 @@
       "text": "THE PUBLIC PARTICIPATION BILL (SENATE BILLS NO. 4 OF 2018)"
     },
     {
-      "order": 364,
+      "order": 341,
       "id": "entry-903752",
       "label": "heading",
       "level": "3",
@@ -4371,7 +4095,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 365,
+      "order": 342,
       "id": "entry-903754",
       "label": "scene",
       "level": "3",
@@ -4383,7 +4107,7 @@
       "text": "(Question, that the Public Participation Bill (Senate Bills No. 4 of 2018) be now read a Third Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 366,
+      "order": 343,
       "id": "entry-903755",
       "label": "other",
       "level": "3",
@@ -4395,7 +4119,7 @@
       "text": "AYES"
     },
     {
-      "order": 367,
+      "order": 344,
       "id": "entry-903756",
       "label": "other",
       "level": "3",
@@ -4407,7 +4131,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. M. Kajwang‟, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Nyamunga, Kisumu County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 368,
+      "order": 345,
       "id": "entry-903757",
       "label": "other",
       "level": "3",
@@ -4416,22 +4140,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil."
     },
     {
-      "order": 369,
-      "id": "entry-903758",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Margaret Kamar",
-      "speaker_title": "(The Temporary Speaker)",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 370,
+      "order": 346,
       "id": "entry-903759",
       "label": "speech",
       "level": "3",
@@ -4443,7 +4155,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 28\n\nNOES"
     },
     {
-      "order": 371,
+      "order": 347,
       "id": "entry-903763",
       "label": "speech",
       "level": "3",
@@ -4455,7 +4167,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 372,
+      "order": 348,
       "id": "entry-903765",
       "label": "speech",
       "level": "3",
@@ -4467,7 +4179,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 373,
+      "order": 349,
       "id": "entry-903767",
       "label": "scene",
       "level": "3",
@@ -4479,7 +4191,7 @@
       "text": "(Question carried by 28 votes to nil)"
     },
     {
-      "order": 374,
+      "order": 350,
       "id": "entry-903768",
       "label": "scene",
       "level": "3",
@@ -4491,7 +4203,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 375,
+      "order": 351,
       "id": "entry-903769",
       "label": "heading",
       "level": "3",
@@ -4503,7 +4215,7 @@
       "text": "THE PETITION TO COUNTY ASSEMBLIES (PROCEDURE) BILL (SENATE BILLS NO. 22 OF 2018)"
     },
     {
-      "order": 376,
+      "order": 352,
       "id": "entry-903770",
       "label": "heading",
       "level": "3",
@@ -4515,7 +4227,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 377,
+      "order": 353,
       "id": "entry-903772",
       "label": "scene",
       "level": "3",
@@ -4527,7 +4239,7 @@
       "text": "(Question, that The Petition to County Assemblies (Procedure) Bill (Senate Bills No. 22 of 2018) be now read a Third Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 378,
+      "order": 354,
       "id": "entry-903773",
       "label": "other",
       "level": "3",
@@ -4539,7 +4251,7 @@
       "text": "AYES"
     },
     {
-      "order": 379,
+      "order": 355,
       "id": "entry-903774",
       "label": "other",
       "level": "3",
@@ -4551,7 +4263,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. M. Kajwang‟, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Nyamunga, Kisumu County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County and Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 380,
+      "order": 356,
       "id": "entry-903775",
       "label": "other",
       "level": "3",
@@ -4560,22 +4272,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil."
     },
     {
-      "order": 381,
-      "id": "entry-903776",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Margaret Kamar",
-      "speaker_title": "(The Temporary Speaker)",
-      "reviewed": true,
-      "text": ": Nil."
-    },
-    {
-      "order": 382,
+      "order": 357,
       "id": "entry-903777",
       "label": "speech",
       "level": "3",
@@ -4587,7 +4287,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 28\n\nNOES"
     },
     {
-      "order": 383,
+      "order": 358,
       "id": "entry-903781",
       "label": "speech",
       "level": "3",
@@ -4599,7 +4299,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 384,
+      "order": 359,
       "id": "entry-903783",
       "label": "speech",
       "level": "3",
@@ -4611,7 +4311,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 385,
+      "order": 360,
       "id": "entry-903784",
       "label": "scene",
       "level": "3",
@@ -4623,7 +4323,7 @@
       "text": "(Question carried by 28 votes to nil)"
     },
     {
-      "order": 386,
+      "order": 361,
       "id": "entry-903785",
       "label": "scene",
       "level": "3",
@@ -4635,7 +4335,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 387,
+      "order": 362,
       "id": "entry-903787",
       "label": "heading",
       "level": "3",
@@ -4647,7 +4347,7 @@
       "text": "THE TREATY MAKING AND RATIFICATION (AMENDMENT) BILL (SENATE BILLS NO.23 OF 2018)"
     },
     {
-      "order": 388,
+      "order": 363,
       "id": "entry-903788",
       "label": "heading",
       "level": "3",
@@ -4659,7 +4359,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 389,
+      "order": 364,
       "id": "entry-903790",
       "label": "scene",
       "level": "3",
@@ -4671,7 +4371,7 @@
       "text": "(Question, that The Treaty making and Ratification (Amendment) Bill (Senate Bills No. 23 of 2018) be now read a Third Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 390,
+      "order": 365,
       "id": "entry-903791",
       "label": "other",
       "level": "3",
@@ -4683,7 +4383,7 @@
       "text": "AYES"
     },
     {
-      "order": 391,
+      "order": 366,
       "id": "entry-903792",
       "label": "other",
       "level": "3",
@@ -4695,7 +4395,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. M. Kajwang‟, Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. Loitiptip, Lamu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Mpaayei, Kajiado County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Nyamunga, Kisumu County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 392,
+      "order": 367,
       "id": "entry-903793",
       "label": "speech",
       "level": "3",
@@ -4707,7 +4407,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 28\n\nNOES"
     },
     {
-      "order": 393,
+      "order": 368,
       "id": "entry-903797",
       "label": "speech",
       "level": "3",
@@ -4719,7 +4419,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 394,
+      "order": 369,
       "id": "entry-903799",
       "label": "speech",
       "level": "3",
@@ -4731,7 +4431,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 395,
+      "order": 370,
       "id": "entry-903800",
       "label": "scene",
       "level": "3",
@@ -4743,7 +4443,7 @@
       "text": "(Question carried by 28 votes to nil)"
     },
     {
-      "order": 396,
+      "order": 371,
       "id": "entry-903801",
       "label": "scene",
       "level": "3",
@@ -4755,7 +4455,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 397,
+      "order": 372,
       "id": "entry-903802",
       "label": "speech",
       "level": "3",
@@ -4767,7 +4467,7 @@
       "text": "I now direct that the doors be opened and the Bars undrawn."
     },
     {
-      "order": 398,
+      "order": 373,
       "id": "entry-903803",
       "label": "scene",
       "level": "3",
@@ -4779,7 +4479,7 @@
       "text": "(The doors were opened and the Bars undrawn)"
     },
     {
-      "order": 399,
+      "order": 374,
       "id": "entry-903804",
       "label": "speech",
       "level": "3",
@@ -4791,7 +4491,7 @@
       "text": "Hon. Senators, we will now go back to where we stopped, which was Order No.2 and proceed from Order No.3. Next Order!"
     },
     {
-      "order": 400,
+      "order": 375,
       "id": "entry-903807",
       "label": "heading",
       "level": "1",
@@ -4803,7 +4503,7 @@
       "text": "STATEMENTS"
     },
     {
-      "order": 401,
+      "order": 376,
       "id": "entry-903808",
       "label": "heading",
       "level": "2",
@@ -4815,7 +4515,7 @@
       "text": "BAN ON USED CAR SPARE PARTS"
     },
     {
-      "order": 402,
+      "order": 377,
       "id": "entry-903809",
       "label": "speech",
       "level": "2",
@@ -4827,7 +4527,7 @@
       "text": "Madam Temporary Speaker, pursuant to Standing Order 47(1), I rise to make a Statement on the recently announced ban on imports of used car spare parts by the Kenya Bureau of Standards (KeBS). This ban, despite the intentions, is ill- timed and ill-informed. It will have a negative impact on thousands of Kenyans who depend on this trade for their livelihoods. Their livelihoods will be grossly jeopardised. Madam Temporary Speaker, 80 per cent of motorists in our country depend on secondhand car spare parts, which are affordable. They are even deemed to be of better quality than new or imported spare parts from Taiwan, China and Indonesia. This trade also supports the livelihoods of thousands of young people, not just here in Nairobi but across the country. My voters and traders in Kirinyaga Road, Grogan, Industrial Area; every part of this City and the country depend on this trade. Why are we in a hurry to implement policies that are not only half-baked, but which have not considered the overall impact from end to end, especially the impact on the common mwananchi since not everybody can afford new vehicles? Madam Temporary Speaker, this country does not manufacture motor vehicle spare parts, and a majority of Kenyans cannot afford the new parts. There is need to prioritise and make sure that we do not kill our small traders, who are already under a heavy onslaught in the fight against counterfeits. They are being harassed by the Nairobi City County officers and many such agencies. We are setting them up for losses at the expense of big corporate entities, many of whom are not Kenyans, but want to take over the spare part industry. Madam Temporary Speaker, I am asking that the Ministry in charge treads carefully, because these actions will open up another problem of car theft for spare parts. In fact, they should reconsider this decision and lift the ban until the country will have built enough capacity for the same. We are concerned about some of these policies, including the ban on the importation of vehicles older than five years, instead of the eight years that is there. This will be a great disservice to many young people who work in the car yards as mechanics and traders. These people are just trying to eke out a living through this industry. This change should be implemented gradually until the day when our economy will grow to the level that Kenyans can now buy new vehicles. Kenyans do not buy secondhand cars because they like them; it is just what they can afford. Madam Temporary Speaker, even as I have made this Statement under Standing Order 47(1), I urge you to task the Committee on Tourism, Trade and Industrialization, on their volition, to take up this matter. We have said, as the Senate, that we need to be proactive. I wish the Chairperson of the Committee was here. The Chairperson should, therefore, ask the KeBS why they are so intent on fighting small traders, mechanics, importers of used spare parts and young people who are just trying to eke out a living. Finally, Madam Temporary Speaker, we have put in a lot of money on the Technical and Vocational Education and Training (TVET) institutions. Our Technical Training Institutions (TTIs) today have very many young people studying mechanics. Where do we want them to go once they graduate, apart from dealing with these spare parts and vehicles as mechanics? I wish you direct that the matter be taken up by the Committee. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 403,
+      "order": 378,
       "id": "entry-903817",
       "label": "speech",
       "level": "2",
@@ -4839,7 +4539,7 @@
       "text": "Thank you; just give me a minute to consult."
     },
     {
-      "order": 404,
+      "order": 379,
       "id": "entry-903818",
       "label": "scene",
       "level": "2",
@@ -4851,7 +4551,7 @@
       "text": "(The Temporary Speaker (Sen. (Prof.) Kamar) consulted with the Clerk-at-the-Table)"
     },
     {
-      "order": 405,
+      "order": 380,
       "id": "entry-903819",
       "label": "speech",
       "level": "2",
@@ -4863,7 +4563,7 @@
       "text": "Hon. Senators, seeing that time is far gone, I wish to defer Statements under Standing Order 48(1); those are items appearing under Orders (a), (b), (c) and (d) to tomorrow. The same also applies to Statements pursuant to Standing Order 51(1)(b); those are items appearing under Orders (a), (b), (c), (d) and (e)."
     },
     {
-      "order": 406,
+      "order": 381,
       "id": "entry-903820",
       "label": "heading",
       "level": "2",
@@ -4875,7 +4575,7 @@
       "text": "PREPAREDNESS FOR THE CYCLIC DROUGHT AND FLOODS IN THE COUNTRY"
     },
     {
-      "order": 407,
+      "order": 382,
       "id": "entry-903821",
       "label": "scene",
       "level": "2",
@@ -4887,7 +4587,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 408,
+      "order": 383,
       "id": "entry-903822",
       "label": "heading",
       "level": "2",
@@ -4899,7 +4599,7 @@
       "text": "FRAUDULENT SACCO SOCIETIES IN KENYA"
     },
     {
-      "order": 409,
+      "order": 384,
       "id": "entry-903823",
       "label": "scene",
       "level": "2",
@@ -4911,7 +4611,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 410,
+      "order": 385,
       "id": "entry-903824",
       "label": "heading",
       "level": "2",
@@ -4923,7 +4623,7 @@
       "text": "NEW ARMY WORM ATTACK IN PARTS OF THE NORTH RIFT"
     },
     {
-      "order": 411,
+      "order": 386,
       "id": "entry-903825",
       "label": "scene",
       "level": "2",
@@ -4935,7 +4635,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 412,
+      "order": 387,
       "id": "entry-903826",
       "label": "heading",
       "level": "2",
@@ -4947,7 +4647,7 @@
       "text": "ADDITIONAL CHARGES LEVIED ON RESIDENTS OF NAIROBI COUNTY"
     },
     {
-      "order": 413,
+      "order": 388,
       "id": "entry-903827",
       "label": "scene",
       "level": "2",
@@ -4959,7 +4659,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 414,
+      "order": 389,
       "id": "entry-903828",
       "label": "heading",
       "level": "2",
@@ -4971,7 +4671,7 @@
       "text": "ACTIVITIES OF THE COMMITTEE ON DEVOLUTION AND INTERGOVERNMENTAL AFFAIRS"
     },
     {
-      "order": 415,
+      "order": 390,
       "id": "entry-903829",
       "label": "scene",
       "level": "2",
@@ -4983,7 +4683,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 416,
+      "order": 391,
       "id": "entry-903830",
       "label": "heading",
       "level": "2",
@@ -4995,7 +4695,7 @@
       "text": "ACTIVITIES OF THE COMMITTEE ON EDUCATION"
     },
     {
-      "order": 417,
+      "order": 392,
       "id": "entry-903831",
       "label": "scene",
       "level": "2",
@@ -5007,7 +4707,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 418,
+      "order": 393,
       "id": "entry-903832",
       "label": "heading",
       "level": "2",
@@ -5019,7 +4719,7 @@
       "text": "ACTIVITIES OF THE COMMITTEE ON ENERGY"
     },
     {
-      "order": 419,
+      "order": 394,
       "id": "entry-903833",
       "label": "scene",
       "level": "2",
@@ -5031,7 +4731,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 420,
+      "order": 395,
       "id": "entry-903835",
       "label": "heading",
       "level": "2",
@@ -5043,7 +4743,7 @@
       "text": "ACTIVITIES OF THE COMMITTEE ON FINANCE AND BUDGET"
     },
     {
-      "order": 421,
+      "order": 396,
       "id": "entry-903836",
       "label": "scene",
       "level": "2",
@@ -5055,7 +4755,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 422,
+      "order": 397,
       "id": "entry-903837",
       "label": "heading",
       "level": "2",
@@ -5067,7 +4767,7 @@
       "text": "ACTIVITIES OF THE COMMITTEE ON HEALTH"
     },
     {
-      "order": 423,
+      "order": 398,
       "id": "entry-903838",
       "label": "scene",
       "level": "2",
@@ -5079,7 +4779,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 424,
+      "order": 399,
       "id": "entry-903839",
       "label": "speech",
       "level": "2",
@@ -5091,7 +4791,7 @@
       "text": "Hon. Senators, before we proceed, I will allow a few Members to ventilate on the Statement that came from Sen. Sakaja. Sen. Cheruiyot."
     },
     {
-      "order": 425,
+      "order": 400,
       "id": "entry-903840",
       "label": "speech",
       "level": "2",
@@ -5103,7 +4803,7 @@
       "text": "Thank you, Madam Temporary Speaker. In fact, I was about to protest if you had not allowed us to make contributions. This is a topical discussion at this time for us in Kenya, first, as legislators and for many of us, who bear the brunt of young people in this country. Every time such issues arise, if you go to the social media pages of many of our colleagues here, especially those of us who are under the age of 35 or 40, you will see the kind of insults that are traded therein. The young people of this country are angry, and validly so. They ask those of us who are in positions of privilege - like those of us who are in Parliament - what we are doing about their plight. This is because some people continue to make policy decisions that greatly impact on their life with total disregard to their feelings. They, therefore, ask about what we can do to try to alleviate or make their lives better. Madam Temporary Speaker, I began this protest immediately we came for this term. The President gave his strategic policy direction in what is otherwise known as the Big Four Agenda. However, in the things that he said he wants to consider, there was very little regard in terms of tying up the nods to ensure that in everything that the Government does, it gives hope and jobs to our young people, so that they are able to pay for their daily upkeep and ensure that they live a decent life like any other person. Madam Temporary Speaker, I have seen the clarification that has come from the Kenya Bureau of Standards (KeBS) on this policy that is being discussed here this afternoon. They have released a communication today saying that the communication that has been given in the media, especially in the newspapers, because this story has been around for about a week now, is erroneous and misleading. While that may be true, it does not suffice it that they have given a long list of spare parts that they have banned without following the due procedure of consulting the players in this particular industry. Madam Temporary Speaker, public participation is a key and integral part of our national values under Article 10 of our Constitution. For any major departure from the norm, we expect the policy makers to, first of all, engage all the stakeholders. I cannot imagine any stakeholder that would be bigger or more important to any policy decision in this country other than Parliament, which is a gathering of the people of Kenya. This is where all the 47 million Kenyans meet, either in this House or the other House. Therefore, I cannot imagine how anybody can sit and decide to have a radical departure from what has been agreed on as the proper way of doing things without consulting this House. Madam Temporary Speaker, the truth of the matter is that as parliamentarians, we have failed in our responsibilities. We have allowed people to make law and give policy directions that have the force of law without being subjected to parliamentary process. We know that as per Article 94 that is unconstitutional. If you look at the Budget Framework of 2019/2020, somebody has proposed that the very noble exercise that this Government has been carrying out of funding Technical Vocational Education and Training (TVET) institutions and ensuring that each constituency has a Technical Training Institute (TTI) is now stopped. Many of those programmes are either half way or have not been completed. This is a brilliant idea. There is no Government programme that has 100 per cent support like the TVET institutions programme because it will give many of our young people the skills to at least fend for themselves. It will also ensure that they do not need to have white collar jobs for them to provide for their young families. Therefore, I plead with my colleagues in the National Assembly that they should not dare to accept that policy departure from funding TVET institutions until each of the 290 constituencies in this Republic has a TVET institution. If a person cannot join the university or college, he or she can join a TVET institution to acquire skills and change his or her life. Madam Temporary Speaker, when you look at the economies that are moving this world, these spare parts are not made by graduates or people from colleges. They are made by young people who have been equipped with simple skills, for example, sewing the cover into a steering wheel or generating and making screws and those kinds of things. Therefore, it is unfortunate that, all the time, we are thinking about putting a stop to the livelihood of Kenyans without providing an alternative. I will be more than glad to support this policy decision if the Cabinet Secretary (CS) had said that we have built an industry perhaps, in Nakuru, Kisumu or whichever part of the country that now has the capacity to employ 20,000 young people. Therefore, they are stopping the importation of these spare parts, so that we can give life to that particular industry. However, stopping it without giving us an alternative is not the solution. Sen. Sakaja he has made this Statement under Standing Order No. 48(1) and if Members of the Committee Tourism, Trade and Industrialization are listening to this conversation, they should not let this matter rest at just complaining and raising our concerns about this particular issue. We want to see them take their rightful place and ensure that Parliament speaks on issues that affect the lives of Kenyans. Let them invite the KeBS, so that they can guide the country on what has informed this particular decision. That way, we can be sure that it is good for the people of Kenya. Madam Temporary Speaker, as somebody observed previously, we are not saying that some of these policy decisions that we are opposing are fraudulent. However, we disagree with the way in which the Government is executing its mandate. All we are reading about is that it has concluded a particular process, but the people who are supposed to be affected by this particular process have not been informed. Therefore, I request that the Committee on Tourism, Trade and Industrialization ensures that they call upon these institutions that have made this policy direction, so that they give us an answer and properly furnish the House with information. At that point, we will know whether or not to support. However, as it is right now, with the haziness of information, we cannot support such a policy direction. Madam Temporary Speaker, with those very many remarks, I support the Statement by Sen. Sakaja."
     },
     {
-      "order": 426,
+      "order": 401,
       "id": "entry-903843",
       "label": "speech",
       "level": "2",
@@ -5115,7 +4815,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me an opportunity to add my voice to this important Statement from Sen. Sakaja. Madam Temporary Speaker, I encourage Sen. Sakaja to not rest on his laurels. He should press on until he sees the light at the end of the tunnel. This Statement is heavy loaded. We have seen the media, especially newspapers state every now and then about the Competency Based Curriculum (CBC). It is ironical that we are talking of CBC, yet we are saying that Kenyans should not import spare parts. We are talking of TVET institutions, which is an alternative for those who will not make it to the university. A person does not have to go to university to make it in life. It is not a must to have a white collar job. Madam Temporary Speaker, if we ban these spare parts, what are we saying about our youths? I saw in the media some of the youth lamenting about this issue. Some of them were wondering where they will go. Therefore, as the Senate we have to ensure that we protect the youth of this country, because we are mandated to protect them. This ban was not well thought out and there is need to lift it. This country is not for the high end. We have to think of the common man and protect their interests. If we do not do that, nobody will do it. This is a duty that we must take with a lot of seriousness as the Senate and ensure that we help our youths to eke out a living. Madam Temporary Speaker, sometimes you find youths who are frustrated because they do not have jobs and do not know where to go. Some of them start to abuse drugs, for example, bang or engage into heinous activities because their minds are idle. Madam Temporary Speaker, we support the youth in Industrial Area and downtown who deal with mechanical issues. We should encourage them because they are creating employment for themselves, which is not easy to come by. Therefore, if they decide to create employment for themselves and fellow youth by importing spare parts, we should encourage them. Madam Temporary Speaker, spare parts should be imported tax-free, so that we encourage our youth to invest, import and ensure that they add to the economy of this country. We do not want our youth to be a burden to this nation; we want them to be part of the development. We are mandated to do that as the Senate. Madam Temporary Speaker, we must show concern and ensure that policies that come to this House undergo public participation. We talk of public participation as stated in Article 10 of the Constitution, but are we doing it as a country? What do we do when we see policies being highlighted on television and in the newspapers? Are we defending our Constitution? We must defend our Constitution because this country belongs to the common people or wananchi and we have to ensure that they have the power. They can only have the power if we allow them to be involved in public participation. Was there public participation regarding this particular policy? We must ensure that, that policy is not implemented for the sake of the youth of this country. I thank Sen. Sakaja for coming up with this noble Statement. I also thank you, Madam Temporary Speaker, for giving me an opportunity to add my voice on this. I support."
     },
     {
-      "order": 427,
+      "order": 402,
       "id": "entry-903847",
       "label": "speech",
       "level": "2",
@@ -5127,7 +4827,7 @@
       "text": "Let us try to be brief because we still have a number of Members who want to speak."
     },
     {
-      "order": 428,
+      "order": 403,
       "id": "entry-903848",
       "label": "speech",
       "level": "2",
@@ -5139,7 +4839,7 @@
       "text": "Madam Temporary Speaker, allow me to add my voice to this Statement because it is something that involves our young people. I thank Sen. Sakaja for coming up with this Statement regarding the ban on importing used car spare parts. We all know the challenges we face as a nation. We have many young people in our nation who are not employed. Most of them are frustrated and the efforts of a few who create jobs for themselves are frustrated by doing what we do. About one and a half years ago, there was a ban on logging. We do not advocate for that but you can imagine the number of families who had invested huge sums of money in that business but nobody had prepared them in advance. Right now, those families are suffering. The people who used to be employed are not employed anymore and they do not earn any salary. That is why the number of young people who commit suicide in our nation has increased. Demolition of some structures in our country is done without proper planning. Many families that used to depend on businesses carried out in those buildings are now hopeless. Some of them are depressed and even hospitalized. Others are suffering from high blood pressure, depression, diabetes and so on and so forth. It seems that we do not care about our people. Now there is a looming ban on importing used car spare parts. We should be aware of the number of people who depend on this type of work because many people also depend on them. If we go on to impose the ban, many families will be affected. That is why I support this Statement because I want our young people to continue depending on themselves because as a nation, we have not created enough jobs for them. Our young people are very innovative and hardworking. We know very well that many of them have borrowed loans and they are servicing them. If we impose the ban, you can imagine what will happen. Families depend on the business and children are being educated from the income earned. The worst thing is that we have not even prepared them."
     },
     {
-      "order": 429,
+      "order": 404,
       "id": "entry-903852",
       "label": "scene",
       "level": "2",
@@ -5151,7 +4851,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar) left the Chair]"
     },
     {
-      "order": 430,
+      "order": 405,
       "id": "entry-903853",
       "label": "scene",
       "level": "2",
@@ -5163,7 +4863,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 431,
+      "order": 406,
       "id": "entry-903854",
       "label": "speech",
       "level": "2",
@@ -5175,7 +4875,7 @@
       "text": "Madam Temporary Speaker, it is time we stood up as the Senate to oppose actions taken by our Government that do not favour our young people and the nation because it seems that every Ministry or Department wakes up and does what they want without thinking of the effects. As I support this Statement, it is my prayer that the policy will not be affected for the sake of our young people and families who depend on the business because people have borrowed loans. We need to be careful. We are already complaining about the number of young people who commit suicide in our nation. If we are not careful, that number will increase because we will have increased the poverty level of our people and the frustrations that people go through in order to feed their families. Therefore, I hope we will be tough enough to take all the necessary steps and give it the attention that it deserves. I support."
     },
     {
-      "order": 432,
+      "order": 407,
       "id": "entry-903858",
       "label": "speech",
       "level": "2",
@@ -5187,7 +4887,7 @@
       "text": "Sen. (Dr.) Zani, you have the Floor."
     },
     {
-      "order": 433,
+      "order": 408,
       "id": "entry-903859",
       "label": "speech",
       "level": "2",
@@ -5199,7 +4899,7 @@
       "text": "Madam Temporary Speaker, I will be brief. Before that, I have a proposal to Members of the Speakers‟ Panel when it comes to responses to Statements. Riding on Statements leads to a debate, yet this is a Statement that needs to be supported. In future, we need to limit ourselves because I noticed that the Chair wanted to help us to move quickly. Maybe we should have a time limit of a minute or two, so that Members can still get a chance to contribute and at the same time ensure that it does elicit debate. I am a Member of the Committee on Tourism, Trade and Industrialization. The proposal that we should look at this issue, is important. As a Member of the Committee, we will suggest to the Chairperson that we invite the stakeholders and bring a report to the House because owning or affording a car and buying spare parts is part of social mobility. That social mobility is important for our youth. We have people in Kenya who can only afford second hand cars and they should not be limited."
     },
     {
-      "order": 434,
+      "order": 409,
       "id": "entry-903860",
       "label": "speech",
       "level": "2",
@@ -5211,7 +4911,7 @@
       "text": "Thank you, Madam Temporary Speaker, for this opportunity. I thank Sen. Sakaja for bringing this Statement. It is unfortunate that nowadays most of the Government policies are anti-young people. it seems that the technocrats who should help in implementing the Executive agenda are now busy churning out anti-people policies such as the Competency-Based Curriculum (CBC) and banning the importation of vehicles which were manufactured more than seven years ago, yet that is a business that employs over 2 million young people. The National Employment Authority is supposed to assist in creation of job opportunities for young people in this country but it seems not to be doing its job. It is unfortunate because the business is done by many young people who do not get employment in the formal sector. I expect the Government to be alive and sensitive. People in Government offices who come up with policies seem not to be sensitive or do not live in reality with what is happening. There are many young people in this country who have gone to school and have qualifications but they cannot access opportunities. Some of the opportunities for them is selling spare parts or working in the formal sector. Therefore, the Government should create an enabling environment for them to do business. As the Senate and Parliament as a whole, we must come up with more friendly policies and legislations to support the young people because we cannot employ all of them. I hope we will come up with a proper legislative agenda. I know that the Chairperson of the Committee on Labour and Social Welfare; Sen. Sakaja, attended a meeting by the Ministry of Public Service, Youth and Gender Affairs. The policy that was being outlined a few days ago should protect the young people from unnecessary anti-youth policies that we have."
     },
     {
-      "order": 435,
+      "order": 410,
       "id": "entry-903862",
       "label": "speech",
       "level": "2",
@@ -5223,7 +4923,7 @@
       "text": "Sen. Shiyonga."
     },
     {
-      "order": 436,
+      "order": 411,
       "id": "entry-903863",
       "label": "speech",
       "level": "2",
@@ -5235,7 +4935,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to support Sen. Sakaja‟s Statement, which is timely and also touches on people‟s lives. I am one of the Members of the Committee on Tourism, Trade and Industrialisation. When this Statement comes to the Committee, given the contributions that have come from this House, we will look at it. As my colleagues have said, we, the stakeholders, are the ones who will answer most of these questions because much has been contributed. However, many young Kenyans, in this case, have been denied an opportunity to venture into self-employment. Not all youth wish to be employed in white collar jobs. For those who want to be self-employed, they are being denied a chance to do so. It is my hope that whoever is concerned, especially the Government, will address the whole sphere of how best they can accommodate these youth. This is because if any of these youth is denied the opportunity to invest or has already invested in such and they say that they need to end their businesses, we will lose these youth to thuggery, theft, burglary and other vices. My humble request is that when the stakeholders come to meet us, let them come with all the answers that we expect. Let them also be ready to face the Committee that will support youth other than supporting the Ministries that are derailing our youth."
     },
     {
-      "order": 437,
+      "order": 412,
       "id": "entry-903867",
       "label": "speech",
       "level": "2",
@@ -5247,7 +4947,7 @@
       "text": "Hon. Senators, taking into consideration the fact that this Statement is weighty and also the fact that it is coming at a time when the Government is spending a lot of time on Technical Vocational Education and Training (TVET), technical colleges and polytechnics, I would like to refer this Statement to the Committee on Tourism, Trade and Industrialisation, for further deliberations and for a report to this House. Sen. Shiyonga, how many days do you think we should give this Statement?"
     },
     {
-      "order": 438,
+      "order": 413,
       "id": "entry-903869",
       "label": "scene",
       "level": "2",
@@ -5259,7 +4959,7 @@
       "text": "(An hon. Member spoke off record)"
     },
     {
-      "order": 439,
+      "order": 414,
       "id": "entry-903870",
       "label": "speech",
       "level": "2",
@@ -5271,7 +4971,7 @@
       "text": "Senator, I am guided that there is really no time limit on this Statement but we need to have a report on it as soon as possible."
     },
     {
-      "order": 440,
+      "order": 415,
       "id": "entry-903871",
       "label": "speech",
       "level": "2",
@@ -5283,7 +4983,7 @@
       "text": "Madam Temporary Speaker, I think one week is enough for us to do this as you have already ruled."
     },
     {
-      "order": 441,
+      "order": 416,
       "id": "entry-903872",
       "label": "speech",
       "level": "2",
@@ -5295,7 +4995,7 @@
       "text": "It is okay. Try as much as possible. Next Order."
     },
     {
-      "order": 442,
+      "order": 417,
       "id": "entry-903874",
       "label": "heading",
       "level": "1",
@@ -5307,7 +5007,7 @@
       "text": "MOTION"
     },
     {
-      "order": 443,
+      "order": 418,
       "id": "entry-903875",
       "label": "heading",
       "level": "3",
@@ -5319,7 +5019,7 @@
       "text": "CONSIDERATION OF NATIONAL ASSEMBLY AMENDMENTS TO THE COUNTY GOVERNMENTS (AMENDMENT) (NO.2) BILL, 2017"
     },
     {
-      "order": 444,
+      "order": 419,
       "id": "entry-903876",
       "label": "speech",
       "level": "3",
@@ -5331,7 +5031,7 @@
       "text": "THAT, pursuant to Standing Order No.159, the amendments of the National Assembly to the County Governments (Amendment) (No.2) Bill (Senate Bills No. 7 of 2017) be now considered."
     },
     {
-      "order": 445,
+      "order": 420,
       "id": "entry-903877",
       "label": "scene",
       "level": "3",
@@ -5343,7 +5043,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 446,
+      "order": 421,
       "id": "entry-903878",
       "label": "speech",
       "level": "3",
@@ -5355,7 +5055,7 @@
       "text": "Next Order."
     },
     {
-      "order": 447,
+      "order": 422,
       "id": "entry-903879",
       "label": "heading",
       "level": "1",
@@ -5367,7 +5067,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 448,
+      "order": 423,
       "id": "entry-903881",
       "label": "heading",
       "level": "3",
@@ -5379,7 +5079,7 @@
       "text": "THE DETERMINATION OF THE NATURE OF BILLS (PROCEDURE) BILL (SENATE BILLS NO.30 OF 2018)"
     },
     {
-      "order": 449,
+      "order": 424,
       "id": "entry-903882",
       "label": "scene",
       "level": "3",
@@ -5391,7 +5091,7 @@
       "text": "(Sen. Mutula Kilonzo Jnr. and Sen. Sakaja on 21.05.2019)"
     },
     {
-      "order": 450,
+      "order": 425,
       "id": "entry-903883",
       "label": "scene",
       "level": "3",
@@ -5403,7 +5103,7 @@
       "text": "(Resumption of debate interrupted on 21.05.2019)"
     },
     {
-      "order": 451,
+      "order": 426,
       "id": "entry-903884",
       "label": "speech",
       "level": "3",
@@ -5415,7 +5115,7 @@
       "text": "This Bill was already under debate and Sen. Cherargei was on the Floor. You have a balance of 16 minutes."
     },
     {
-      "order": 452,
+      "order": 427,
       "id": "entry-903885",
       "label": "speech",
       "level": "3",
@@ -5427,7 +5127,7 @@
       "text": "Thank you, Madam Temporary Speaker. Yesterday I congratulated the sponsors of this Bill; Sen. Sakaja and Sen. Mutula Kilonzo Jnr. This Bill could not have come to the House at a better time than now, especially when we have been having tussles regarding Bills that have been assented to by the President in accordance to Article 116 of the Constitution of Kenya. The most recent one which is still in our memories is the assent by the President of the Health Act. When you look at the Fourth Schedule, one of the main functions that have been devolved is the health function. This is a timely Bill that will allow us to sort out many differences that we have been having between the National Assembly and the Senate because the National Assembly has become a death bed of Bills that originate from the Senate. The intention of the Senate has always been to ensure we generate and process the Bills that will assist in oiling or spurring devolution in this country. We agreed that devolution should grow and there could be some legislation and policy proposals that we need to put in place to ensure that we allow devolution to grow and bloom in the country. Madam Temporary Speaker, Clause 8 talks about the criteria for Bills concerning counties. I think there is a wrong notion in this country. Everybody lives in a county. If Nairobi City County, for example, was not a county, then we would say that people living in a county would not be affected. If my memory serves me right, when the Senate summoned the people concerned with the National Integrated Identity Management System ( NIIMS ) famously known as Huduma Namba, the argument was that it does not concern counties. With the advent of this Bill, it will put to rest many of those issues that people have said do not concern counties. When you talk about security, what comes to mind are the unfortunate killings that are happening in Matungu Constituency in Kakamega County and the re-emergence of guns in Likoni in Mombasa County and in informal settlements in Nairobi City County. All these point to the critical role that security plays in the counties, in as much as many people would want to say that security is not a function of the counties. Anything that happens in any of the 47 counties touches on issues to do with county governments. When you look at the functions or powers of the county governments and those of the National Government as outlined in the Constitution, they are distinct. They have a symbiotic relationship. If, for example, the national Government is to generate the health policy, it will not generate it without the involvement of the county governments. At the end of the day, what the Constitution envisaged was to have an interdependent relationship between the national Government and county governments and they should work in consultation and mutual respect. I know the word \"consultation\" might confuse people because it was a famous word before the new Constitution when we had the Grand Coalition Government. Madam Temporary Speaker, when this Warehouse Receipt System Bill is being discussed, the issue of the National Cereals and Produce Board (NCPB) and creating warehouses for cereals at the county shows that agriculture is fully devolved. There has been a tendency by the national Government to overlook county governments by coming back with claw back clauses despite the fact that both health and agriculture are devolved functions. When the Constitution said that we should be interdependent mutually but distinct, it meant that there should be consultation, mutual respect and a symbiotic relationship between county governments and the national Government. On the issue of equitable revenue sharing, I noted that Sen. M. Kajwang' at some point, tried to invoke the provisions of some sections of the Public Finance Management (PFM) Act in instances when county governments do not use the resources prudently. The Senate has pronounced itself on the issue of equitable revenue sharing. In the last Financial Year, the baseline was Kshs314 billion. The Cabinet Secretary for national Treasury wanted to cut it by Kshs9 billion but the Senate has stood its ground that Kshs335 billion must go to counties. There should be no excuse that some counties do not use the resources prudently or that there is thriving corruption, plunder and lethargy in our county governments. This does not in any way mean that we should deny them resources. Let us allow them to have resources, and then, we put in place strong mechanisms of governance to ensure that the money is used as per the allocation. It is very interesting that the National Assembly would want to discuss issues that affect the county governments and yet they have been reducing their budget. A case in point is the Division of Revenue Bill, 2019, that is in mediation. There is also the issue of withdrawal from county revenue of public funds by counties and the management of those funds, imposition of taxes and the charge for borrowing by the national Government. Madam Temporary Speaker, in the first term of devolution, I am one of the few people who went to court to seek interpretation on how county governments should borrow. They have developed a mechanism that they should be guaranteed by the national Government. Although we would not want to micromanage the county governments, it is also important that when we have the guarantee of the national Government, we do not have borrowing. This is so, because county governments were borrowing in a gluttonous way. They could not explain their expenditure. Many times, one of the reasons advanced is that there is slow disbursement of funds through the Integrated Finance Management Information System (IFMIS). The governors have complained a lot about it. There have been many issues concerning it. I hope this matter will be put to rest. On the issue of revenue collection, interestingly, many counties use manual ways. There should be a way of ensuring that county governments collaborate with KRA so that we have a uniform system of collecting revenue. This will ensure maximum collection of revenue. The Own-Source Revenue (OSR) in the county governments is below par. It is not useful; there is a shortfall. Clause 10(2) states that a Bill shall not be a money Bill if it provides---. This is for clarity because every time we come up with a Bill, the National Assembly rushes and says that it is a money Bill. If you look at the Indian Parliament, they have been directly elected by the people. I think they are trying to borrow from that aspect. I hope this Bill will put to rest some of these issues, for example, the imposition of taxes by a county government. I hope that in this second generation of county governments, we will not see some of them imposing tax on slaughtering of chicken or burying people because the spirits do not pay taxes. Clause 11 states that the speakers of respective Houses shall each signify on a certificate of joint concurrency in the form set out on the Schedule. Clause 15 says, \"as provided for.\" Article 93 of the Constitution states that Parliament is composed of the National Assembly and the Senate. Article 116 talks about presidential assent and gazettement of that law. Clause 12 and 15 states that before the presidential assent, there should be a concurrence certificate. That is very critical because by mere fact that our Senate Speaker and the Leader of Majority were present during assent, we cannot use the body language that we have consented to it as the Senate, to the signing. It will be very easy even for the courts, if there is an issue. We should not use body language, for instance, that somebody was smiling, putting hands across the chest and so on. In Clause 13, if there is a difference, we can always refer to the Supreme Court to seek advisory opinion. I hope when this Bill passes, the National Assembly will agree because the Senate, initially, when it was started, sought an advisory opinion on the Division of Revenue. I hope they will understand that all of this is in the best interest of the people. In conclusion, the mood of this House is that this Bill should be processed as soon as possible to assist us. In the Committee on Justice, Legal Affairs and Human Rights, we are auditing laws that have been passed without the input of the Senate. We are hope that the National Assembly will support us. This will allow a symbiotic and seamless engagement on legislative processes in both Houses. It is not in our interest that we always fight over these Bills or make another House a deathbed of other Bills. We call upon our colleagues to support us so that we ensure the laws in place will continue to fast track the implementation, growth and blooming of devolution in this country."
     },
     {
-      "order": 453,
+      "order": 428,
       "id": "entry-903900",
       "label": "speech",
       "level": "3",
@@ -5439,7 +5139,7 @@
       "text": "Madam Temporary Speaker, I join my colleagues who have spoken to this Bill in commending the work done by the sponsors of this Bill, more specifically, Sen. Mutula Kilonzo Jnr. and Sen. Sakaja. Without going into the details and the provisions of the Bill, it addresses an important constitutional question. It also enables us to go through the advisory opinion that was given by the Supreme Court and turn that decision into actionable instrument enacted by this Bill if it becomes law. There is a very important objective of the Constitution of Kenya as promulgated in 2010. It has been described as transformative. It is a Constitution almost like no other even if you compare it with other modern constitutions, including, the latest Constitution that has been commended universally, the South African Constitution. The achievements of this Constitution will go down into the annals of history, particularly, in the African continent as a transformative document. In addition, a document that brought very different kinds of democratic parties in the continent and the country. I have no fear in taking pride in this document, having attended some conferences where there had been a lot of reference to our Constitution. My worry is that if you are not very careful, the achievements of this Constitution can be watered down, emasculated and probably done away with, not even by legislation but just by a matter of practice. Currently, we are slowly seeing the provisions of this Constitution being violated between the role of the National Assembly and the Senate. The first independence Constitution that was attained from Lancaster had some very good provisions but because we were going through a phase where despotism was creeping into the Kenyan system, a lot of what was achieved in that Constitution was lost. For example, it was possible to pass a vote of no confidence on the President of the Republic of Kenya. The President would go home and Parliament would not suffer any consequences. It would remain in place. The MPs at that time met at the National Assembly to discuss amendments to that Constitution that had the effect of sending both Parliament and the President home whenever a Motion of no confidence was passed. I am beginning to see similar things happening with regard to this Constitution. Madam Temporary Speaker, my late colleague, Sen. Kajwang‟ spoke about this constitutional dispensation even before it came into place. In rallies, he liked to talk about the objectives of this Constitution. The objective of this Constitution was to decentralise and to de-concentrate power. In the past, Parliament was supreme as far as legislation was concerned but that is not the case in the new constitutional dispensation and the National Assembly must come to terms with that fact. The legislative authority of Parliament is shared between Parliament at the national level and the county assemblies. Article 191 of the Constitution establishes parameters that restrict the role of the national Parliament. There are legislations that we cannot pass. Article 191(2) of the Constitution sets out circumstances where national legislation will prevail. Article 191(4) of the Constitution sets instances where county legislation will prevail. Therefore, the legislative authority of the Republic of Kenya is shared at the national level through Parliament and at the county level through the county assemblies. At the national level, there are systems of checks and balances between the National Assembly and the Senate. In fact, people who prefer unicameral system believe in despotism. A unicameral system passes laws in record time and carries out the desires of the Executive. In our Constitution making, we wanted to do away with the past. We wanted to avoid a scenario where the Executive would control Parliament especially when the ruling party has control of the two Chambers that constitute Parliament. We opted for a scenario where it would not be possible to pass legislation at a sitting without the participation of both Houses. I am grateful to the two distinguished Senators because this Bill is in tandem with the advisory opinion of the Supreme Court in the matter that the Senate took to the Supreme Court. Allow me to cite some of the comments that were made by the Supreme Court judges when they gave the Advisory opinion. The Supreme Court judges said that they could not think of circumstances where the participation of the Senate would be avoided but they said that with some caution for it, is possible. I want to refer my colleagues to what the Supreme Court said in terms of the steps that are to be taken before a decision can be made by either Houses for a Bill to become law. In paragraph 100 of the advisory opinion, the judges cited another case and they said that: \"There is, in reality, a close connectivity between the functioning of national Government and the county government. We consider that the expression „any matters touching on county government‟ should be so interpreted as to incorporate any national- level process bearing a significant impact on the conduct of county governments.\" This citing is written in italics which shows the emphasis with which the Supreme Court considered this matter. They said that: \"The extent of the legislative role of the Senate can only be fully appreciated if the meaning of the phrase „concerning counties‟ is examined. Article 110 of the Constitution defines Bills concerning counties as being Bills which contain provisions that affect the functions and powers of the county governments as set out in the Fourth Schedule; Bills which relate to the election of Members of County Assemblies or county executive; and Bills referred to in Chapter 12 as affecting finances of the county governments. This is a very broad definition which creates room for the Senate to participate in the passing of Bills in the exclusive functional areas of the national Government, for as long as it can be shown that such Bills have provisions affecting the functional areas of the county governments. For instance, it may be argued that although security and policing are national functions, how security and policing services are provided affects how county governments discharge their agricultural functions. As such, a Bill on security and policing would be a Bill concerning counties. The substantive Speaker should have been here for him to listen to me read this: \"With a good Speaker, the Senate should be able to find something that affects the functions of the counties in almost every Bill that comes to Parliament, making it a Bill that must be considered and passed by both Houses.\" This speaks louder than any word. The other thing that I liked in this judgement was the issue of the Bill of rights. Allow me to refer to paragraph 193 which states that: \"It is relevant to consider the range of responsibilities shouldered by these nascent county governments\". The Supreme Court is saying that the county governments have a crucial responsibility in as much as they are young. They go on to say that: \"The Bill of Rights (Chapter 4 of the Constitution) is one of the most progressive and most modern in the world.\" I said that in my preamble. \"It not only contains political and civil rights, but also expands the canvas of rights to include cultural, social, and economic rights. Significantly, some of these second-generation rights, such as food, health, environment, and education, fall under the mandate of the county governments\". The Bill of Rights is the pillar of the current Constitution. For us to achieve the second- generation Bill of Rights; food, health, environment and education, which fall under the mandate of the county governments, substantial resources have to be given to the counties. That is the only way the counties can meet their constitutional responsibilities. We do not need to say more. In fact, with the advisory opinion of the Supreme Court of Kenya, this matter should have been put to rest a long time ago. However, I am glad that we now have this Bill that makes it possible for us to follow this advisory opinion. I am glad, having interrogated the Bill against this decision that I have just read, that Sen. Mutula Kilonzo Jnr. and Sen. Sakaja have followed the prescription of the Supreme Court of Kenya faithfully and religiously. In fact, if anybody can vote against this Bill, they will be undermining the authority of the Constitution and of the Judiciary, because on matters to do with adjudication of disputes between citizens or governments or governmental bodies and citizens, the Supreme Court of Kenya has the final word. The Executive has nothing else to do, but to obey. This Bill, therefore, falls within the Supreme Court of Kenya decision. Madam Temporary Speaker, I wanted to deal with something that we sometimes take for granted. If we look at the Executive and the powers of the President, for example, they are limited; they are not limitless. Even the exercise of executive authority is shared. In fact, this Constitution removed a lot of powers that used to be enjoyed by the President before. The President was described as the executive authority of the Republic of Kenya under the old Constitution. However, that executive authority is now shared. For example, prosecutions and elections are completely out of the hands of the President and it is not part of the presidential responsibilities. You would remember that we used to have a Supervisor of Elections operating in the office of the Attorney-General (AG) before. The operational functions of the National Police Service (NPS) are Executive powers, but they have been removed from Presidential authority. The President‟s powers are limited to the appointment of the Inspector-General (IG) of police. These powers are now limited to sitting as a Cabinet and at National Security Council, where they can come up with policies regarding security. Another area where the Executive does not play a role is in Audit and the Control of Budget. These powers are shared so that there can be checks and balances within the Executive. Madam Temporary Speaker, if you go to the courts, there is a system of checks and balances between the subordinate courts and superior courts. Among the superior courts, we have different courts within it so that within the Judiciary itself, there is a system of checks and balances. A bicameral system is established so that within the legislative authority at the horizontal level, there is also a system of checks and balances between the two Houses of Parliament. To that extent, I hope that we will appreciate that this Constitution desired that the National Assembly and the Senate are co-equal in so far as the legislative authority of Parliament is concerned. Some of the functions may be different, but they are co-equal in terms of the fact that the final product must bear the imprint of both Houses of Parliament. Madam Temporary Speaker, therefore, I hope that when this Bill is passed, particularly in as far as to what happens between the two Speakers - because there is now a lacuna that need not have been there in the first place, because I think the Constitution is clear enough - we now have to be prescriptive to make sure that the games that have been played in the past are not played in the future. This is so that when there is a Bill for consideration, in order to know the criteria of defining a Bill as a special Bill or a money Bill, all that is contained in this Bill. It makes the work of the two Speakers very easy, because reading the Constitution before, it was not as easy as it appeared. This Bill also sets time limits, because under the law, as it is now, it has been abused. Any of the Speakers can sit on the question of concurrence and, to that extent, frustrate the role of the other House of Parliament. Therefore, Sen. Mutula Kilonzo Jnr. and Sen. Sakaja, I hope that when we come to the Committee Stage, when we are going to look at this Bill in a detailed manner, we would be able to see if there are any loopholes in it. This is because all the times, the people who want to abuse power always look for loopholes. However, I think you have done a good job because I have tried to look for a loophole with the eyes and mind of a lawyer, but I have not seen any."
     },
     {
-      "order": 454,
+      "order": 429,
       "id": "entry-903912",
       "label": "scene",
       "level": "3",
@@ -5451,7 +5151,7 @@
       "text": "(Sen. Mutula Kilonzo Jnr. laughed)"
     },
     {
-      "order": 455,
+      "order": 430,
       "id": "entry-903913",
       "label": "speech",
       "level": "3",
@@ -5463,7 +5163,7 @@
       "text": "Madam Temporary Speaker, when we want this country to move forward, we should not try to take the easy path. Winston Churchill said that: \"Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time---\" Although democracy is a messy system, there has been no better system. It worked because it is messy. It is not a system that is easy to manipulate, if it is properly applied. I, therefore, hope that the National Assembly will bear with us and know that Article 110 of the Constitution was there for a purpose; to make sure that there is a system of checks and balances. Madam Temporary Speaker, one of these days, they may find that there may be another despot who may think that he wants to use the Senate, as opposed to the National Assembly. They would then cry for this legislation that we are now putting in place. There are countries like the Philippines where, although there is a House of Representatives, the Senate is quite strong. In fact, there are only 24 Senators in a country of more than 100 million people. They have more than 300 Members of Parliament with a bigger population, but the Senate is a very powerful institution. In fact, if you want to climb to the presidency, being a regional governor or a mayor is not as important as being a Senator. Therefore, in future, somebody may reorganise the system we have in place now and decide that the Senate will be the House that would be able to pass any Bill, like the National Assembly is doing at the moment. I hope that, that time does not come. However, the arrangement that we have, under this new Constitution is to ensure that in legislation, the two Houses are involved in accordance with the decision of the Supreme Court of Kenya. Madam Temporary Speaker, in our system, it is not just the National Assembly; the aspect of public participation was not there before. In the chapter dealing with Parliament, you find that there are provisions about public participation. We cannot make any laws without public participation. In the Chapter that deals with Parliament, there are provisions about public participation. We cannot make any laws without public participation. I cannot see any justification why the National Assembly will be comfortable with public participation and not with the role that the Senate is designed to play in this constitutional arrangement. I know there are many of my colleagues who would like to contribute on this matter. I, therefore, beg to support and commend the Bill to the House."
     },
     {
-      "order": 456,
+      "order": 431,
       "id": "entry-903916",
       "label": "speech",
       "level": "3",
@@ -5475,7 +5175,7 @@
       "text": "Hon. Senators, this brings us to the end of debate on this Bill. We have had good deliberations on the Bill that is before the House. I would like to call upon the Mover to reply."
     },
     {
-      "order": 457,
+      "order": 432,
       "id": "entry-903917",
       "label": "speech",
       "level": "3",
@@ -5487,7 +5187,7 @@
       "text": "Thank you, Madam Temporary Speaker. First and foremost, allow me to thank Senators who have contributed to this important Bill beginning with the Senate Minority Leader, Sen. Cherargei, Sen. Ndwiga, Sen. Mwangi, Sen. Shiyonga, Sen. Kasanga, Sen. (Rev.) Waqo, Sen. Pareno, Sen. Were, Sen. (Dr.) Zani and my brother Sen. Sakaja. In fact, I have had time to steer-over it This Bill is very important. I would like to reply and state that this matter is so important and central to Article 94. My reading of the advisory opinion by the Supreme Court suggests that if one Speaker of the House violates Article 110, we can find them in contempt of the Constitution. The Supreme Court in paragraph 142 says as follows: \"How do the two Speakers proceed to answer questions or sub questions as to whether a Bill concerns counties, a special Bill or a money Bill?\" The words in the Supreme Court decision is that they must consider the content of the Bill. One, they must reflect upon the objectives of the Bill and secondly, by the Constitution, this is not a unilateral exercise. This means that if Speaker Muturi acts unilaterally under Article 110, he has violated the Constitution and the National Assembly can impeach him. If Speaker Lusaka acts unilaterally, according to this, he has violated the Constitution and we can impeach him. Nobody should abandon this. This is the central purpose why they set up a bicameral legislation that centers on the two Speakers. However, more importantly, other than legislative making, this is what the Supreme Court had to say in paragraph 174: \"Devolution was predicated on the understanding that even though equality of opportunity may not necessarily lead to equality in development, outcomes inevitably, inequality of opportunity (which is Kenya‟s historical experience) would necessary result in equality in outcomes\" Madam Temporary Speaker, I conclude by saying that the future of devolution and the role of the Senate, our special jurisdiction--- Under Article 94 the National Assembly and the Senate enjoy the same powers of legislative making. The one that we protect counties under Article 96 is a special jurisdiction. Article 174 says that devolution is one of those methods in the Constitution to remove inequality in Kenya. The central role under Article 96 is not just to make laws, but primarily, to remove inequality. I plead with the two Speakers of the National Assembly and the Senate to find in their hearts a way to make sure that this Bill becomes law. If they do not, we will hold them responsible. They have failed to offer leadership. We have given them a formula as legislators and we expect them to follow the lead which we have given them. If they fail, we have a right to move for the impeachment of the Speakers of the National Assembly and the Senate. I beg to reply. Madam Temporary Speaker, under Standing Order No. 61(3), I beg your leave that you defer the putting of the question until a later day, possibly in the next sitting."
     },
     {
-      "order": 458,
+      "order": 433,
       "id": "entry-903921",
       "label": "speech",
       "level": "3",
@@ -5499,7 +5199,7 @@
       "text": "The putting of the question is deferred to a later date. Taking into account the urgency of this Bill, it will be in order to request that it be listed for tomorrow."
     },
     {
-      "order": 459,
+      "order": 434,
       "id": "entry-903922",
       "label": "scene",
       "level": "3",
@@ -5511,7 +5211,7 @@
       "text": "(Putting of the question on the Bill deferred)"
     },
     {
-      "order": 460,
+      "order": 435,
       "id": "entry-903923",
       "label": "speech",
       "level": "3",
@@ -5523,7 +5223,7 @@
       "text": "Madam Temporary Speaker, most obliged."
     },
     {
-      "order": 461,
+      "order": 436,
       "id": "entry-903924",
       "label": "speech",
       "level": "3",
@@ -5535,7 +5235,7 @@
       "text": "Next order."
     },
     {
-      "order": 462,
+      "order": 437,
       "id": "entry-903925",
       "label": "heading",
       "level": "1",
@@ -5547,7 +5247,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 463,
+      "order": 438,
       "id": "entry-903926",
       "label": "heading",
       "level": "3",
@@ -5559,7 +5259,7 @@
       "text": "THE MENTAL HEALTH (AMENDMENT) BILL (SENATE BILLS NO.32 OF 2018)"
     },
     {
-      "order": 464,
+      "order": 439,
       "id": "entry-903927",
       "label": "speech",
       "level": "3",
@@ -5571,7 +5271,7 @@
       "text": "Sen. Kasanga has requested the Bill be deferred to another day."
     },
     {
-      "order": 465,
+      "order": 440,
       "id": "entry-903928",
       "label": "scene",
       "level": "3",
@@ -5583,7 +5283,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 466,
+      "order": 441,
       "id": "entry-903929",
       "label": "speech",
       "level": "3",
@@ -5595,7 +5295,7 @@
       "text": "Next Order."
     },
     {
-      "order": 467,
+      "order": 442,
       "id": "entry-903930",
       "label": "heading",
       "level": "1",
@@ -5607,7 +5307,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 468,
+      "order": 443,
       "id": "entry-903931",
       "label": "heading",
       "level": "3",
@@ -5619,7 +5319,7 @@
       "text": "THE NATIONAL COHESION AND PEACE BUILDING BILL (SENATE BILLS NO.35 OF 2018)"
     },
     {
-      "order": 469,
+      "order": 444,
       "id": "entry-903932",
       "label": "speech",
       "level": "3",
@@ -5631,7 +5331,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to finally move this Bill that has been pending on the Order Paper for quite some time. I beg to move that the National Cohesion and Peace Building Bill (Senate Bills No.35 of 2018) be now read a Second Time. I am happy to move this Bill at a time when this country needs a lot of cohesion, integration and peace building amongst ourselves. I am happy that I am moving this Bill at a time when we have the Building Bridges Initiative (BBI) led by none other than our own co-Chair, Sen. Haji. I am sure that they have been moving around the whole country; county by county, trying to get the views of Kenyans on how we can live in cohesiveness and have a lasting peaceful solution for purposes of moving our country forward. Madam Temporary Speaker, this Bill seeks to repeal the National Cohesion and Integration Act No.2012 of 2008. We had debates in the Committee where we engaged with several stakeholders, for example, the Directorate of National Cohesion and Values, the secretariat of the National Cohesion and Integration Commission (NCIC), Kenya National Commission on Human Rights (KNCHR) and others. At some point we were thinking of amending the already existing Act. However, we felt that it will serve this country better to repeal it and replace it with this particular Bill. We thought of this as stakeholders because the National Cohesion and Integration Act No.2012 of 2008 only talked about integration and cohesion while peace building was handled separately and not reflected in the original Act. We also have, in actual practice, the NCIC and the Directorate of National Cohesion and Values under the Office of the President. So, at some point, I wonder why we go wrong as a country. We created a Commission as way to solve the problems that we faced in 2007 when we had conflicts in the country. These are some of the Commissions that came up to try and bring this country back together and make us move forward. You may find a commission has been created but at the same time, we have a directorate under the Office of the President dealing with the national values and peace building. In fact, the submission from the discussion with relevant stakeholders is that the Commission is starved of funds while the Directorate has funds. Why can we not bring all these together and deal with cohesion, integration and peace all together? You cannot separate cohesion from peace. In fact, to tell us to be cohesive is to tell us to be peaceful, tolerate each other and integrate as Kenyans. It beats logic to have a Directorate under the Office of the President and have the Commission starved of funds. This Bill seeks to solve all these problems. It aims to empower the commission that was established to do its work; bringing Kenyans together. Madam Temporary Speaker, because of integration, peace building and enhancing national values, we have new definitions of terms such as \"coded language\" and \"peace building\". In this new Bill that seeks to replace the old one, we have recommended that we reduce the number of commissioners from the current nine to just five. That means that we will only have the chairperson and four commissioners, so that it is manageable, considering that we expect good governance as we move forward. In line with principles of good governance, we have recommended that the number of commissioners is reduced so that we cut on the wage bill and ensure that we have smooth functioning. This Bill will also give effect to a lot of things. The object is actually to give effect to Articles 10 and 27 of the Constitution. It will also provide a framework for promotion of national cohesion, unity and peace building like I said. It will also provide a mechanism for coordination and implementation of interventions aimed at promoting national cohesion and peace building. Like I said, when we have things coordinated under one body, it is easier than having departments under different authorities, thus no proper coordination. It is not easy when you have two bodies dealing with the same thing. That is why the Commission is complaining that it does not have funding because funds go to another body. Madam Temporary Speaker, when I served in the East African Legislative Assembly (EALA), I was the Chair of an ad hoc committee. We went around the East African Partner States to enlighten citizens on what caused the genocide in Rwanda and how Rwanda is dealing with issues of cohesion and integration and how it aims to bring sanity and peace in the country. It came out clearly that some of the things that lead to cohesion can apply to any country. There is discrimination when it comes to sharing of resources which used to be there before devolution. We also have issues touching on religion and intolerance. We visited the Kigali Genocide Memorial and we were taken through stages of how a genocide can occur. We were taught how to prevent anything like that happening in any of the partner States. Madam Temporary Speaker, I am happy that this Bill will ensure peace building where we will have early warnings when people think that conflict is likely to arise. It also proposes mechanisms for detecting any problems. Conflict will be prevented when we have this Bill in place. I am happy that in this country, cohesiveness is insisted on before we experience any conflict. Having this Bill in place is one of the measures that will ensure that we foresee and prevent any conflict, unlike what happened in our partner State where they had to come up with laws and mechanisms on integration and cohesion after people had suffered. Something disturbed me when I was preparing to move this Bill. That is a clip of an MP talking loud and clear. If I may use the words that he used, he said; \"Some people do not know how to fight. Some just throw stones and then their fight ends there. For us, we can sustain war.\" Such people do not understand what war is all about. Maybe they should visit some of the genocide memorials to be educated, so that they can always think twice before they pronounce such words. I kept waiting to see whether any tangible action will be taken against them but there is none. It is sad because that was like profiling certain regions. It sounded like being excited about a war yet we cannot afford that as a country. The National Cohesion and Integration Commission (NCIC) was not in place at that particular time because I remember we discussed as the National Cohesion Committee. Its term had lapsed and there was only the secretariat and the procedure for selecting new commissioners was not properly understood. At that particular time, there was a case by the veteran activist, Mr. Okiya Omtatah, who challenged the mode that we used to select commissioners of the NCIC. We were faulted by the courts as a country because they said that we did not use the right procedure. This Bill seeks to establish a procedure for bringing commissioners to office. It was sad that the NCIC---"
     },
     {
-      "order": 470,
+      "order": 445,
       "id": "entry-903943",
       "label": "speech",
       "level": "3",
@@ -5643,7 +5343,7 @@
       "text": "Order, Senator Pareno. You will have a balance of 46 minutes when the Bill is next scheduled for debate."
     },
     {
-      "order": 471,
+      "order": 446,
       "id": "entry-903944",
       "label": "heading",
       "level": "1",
@@ -5655,7 +5355,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 472,
+      "order": 447,
       "id": "entry-903945",
       "label": "speech",
       "level": "1",

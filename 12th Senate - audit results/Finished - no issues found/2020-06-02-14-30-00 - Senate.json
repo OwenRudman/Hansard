@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-06-02-14-30-00",
-  "exported_at": "2026-10-13T17:33:05.249Z",
+  "exported_at": "2026-10-15T19:31:02.605Z",
   "entries": [
     {
       "order": 1,
@@ -1680,22 +1680,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Halake.\n\nNOES"
+      "text": "Sen. Halake.\n\nNOES\n\n: Nil"
     },
     {
       "order": 141,
-      "id": "entry-994878",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 142,
       "id": "entry-994879",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1695,7 @@
       "text": "Sen. Farhiya."
     },
     {
-      "order": 143,
+      "order": 142,
       "id": "entry-994880",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1707,7 @@
       "text": "Hon. Senators, the results of the Division are as follows -\n\nAYES\n\n: 27\n\nNOES"
     },
     {
-      "order": 144,
+      "order": 143,
       "id": "entry-994884",
       "label": "speech",
       "level": "3",
@@ -1731,7 +1719,7 @@
       "text": ": 0\n\nABSENTIONS"
     },
     {
-      "order": 145,
+      "order": 144,
       "id": "entry-994886",
       "label": "speech",
       "level": "3",
@@ -1743,7 +1731,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 146,
+      "order": 145,
       "id": "entry-994887",
       "label": "scene",
       "level": "3",
@@ -1755,7 +1743,7 @@
       "text": "(Question carried by 27 votes to nil)"
     },
     {
-      "order": 147,
+      "order": 146,
       "id": "entry-994888",
       "label": "scene",
       "level": "3",
@@ -1767,7 +1755,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 148,
+      "order": 147,
       "id": "entry-994889",
       "label": "heading",
       "level": "1",
@@ -1779,7 +1767,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 149,
+      "order": 148,
       "id": "entry-994890",
       "label": "heading",
       "level": "3",
@@ -1791,7 +1779,7 @@
       "text": "THE SACCO SOCIETIES (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO. 1 OF 2018)"
     },
     {
-      "order": 150,
+      "order": 149,
       "id": "entry-994891",
       "label": "scene",
       "level": "3",
@@ -1803,7 +1791,7 @@
       "text": "(Sen. Murkomen on 18.2.2020)"
     },
     {
-      "order": 151,
+      "order": 150,
       "id": "entry-994892",
       "label": "scene",
       "level": "3",
@@ -1815,7 +1803,7 @@
       "text": "(Resumption of Debate interrupted on 18.2. 2020)"
     },
     {
-      "order": 152,
+      "order": 151,
       "id": "entry-994893",
       "label": "heading",
       "level": "3",
@@ -1827,7 +1815,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 153,
+      "order": 152,
       "id": "entry-994895",
       "label": "scene",
       "level": "3",
@@ -1839,7 +1827,7 @@
       "text": "(Question, that the SACCO Societies (Amendment) Bill (National Assembly Bills No.1 of 2018) be read a Second Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 154,
+      "order": 153,
       "id": "entry-994896",
       "label": "other",
       "level": "3",
@@ -1851,7 +1839,7 @@
       "text": "AYES:"
     },
     {
-      "order": 155,
+      "order": 154,
       "id": "entry-994897",
       "label": "other",
       "level": "3",
@@ -1863,7 +1851,7 @@
       "text": "Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi City County; Sen. Halake, Isiolo County; Sen. Iman, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. (Dr.) Langat, Bomet County; Sen. Linturi, Meru County; Sen. Madzayo, Kilifi County; Sen. Mpaayei, Kajiado County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Mwaura, Kiambu County; Sen. Ochillo-Ayacko, Migori County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 156,
+      "order": 155,
       "id": "entry-994898",
       "label": "speech",
       "level": "3",
@@ -1872,22 +1860,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Halake.\n\nNOES"
+      "text": "Sen. Halake.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 157,
-      "id": "entry-994900",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 158,
+      "order": 156,
       "id": "entry-994901",
       "label": "speech",
       "level": "3",
@@ -1899,7 +1875,7 @@
       "text": "Sen. Farhiya."
     },
     {
-      "order": 159,
+      "order": 157,
       "id": "entry-994902",
       "label": "speech",
       "level": "3",
@@ -1911,7 +1887,7 @@
       "text": "Hon. Senators, the results of the Division are as follows -\n\nAYES\n\n: 27\n\nNOES\n\n: 0\n\nABSENTIONS"
     },
     {
-      "order": 160,
+      "order": 158,
       "id": "entry-994908",
       "label": "speech",
       "level": "3",
@@ -1923,7 +1899,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 161,
+      "order": 159,
       "id": "entry-994909",
       "label": "scene",
       "level": "3",
@@ -1935,7 +1911,7 @@
       "text": "(Question carried by 27 votes to nil)"
     },
     {
-      "order": 162,
+      "order": 160,
       "id": "entry-994910",
       "label": "scene",
       "level": "3",
@@ -1947,7 +1923,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 163,
+      "order": 161,
       "id": "entry-994911",
       "label": "heading",
       "level": "1",
@@ -1959,7 +1935,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 164,
+      "order": 162,
       "id": "entry-994912",
       "label": "heading",
       "level": "3",
@@ -1971,7 +1947,7 @@
       "text": "THE STATUTE LAW (MISCELLANEOUS AMENDMENTS) (NO. 2) BILL (NATIONAL ASSEMBLY BILLS NO. 13 OF 2018)"
     },
     {
-      "order": 165,
+      "order": 163,
       "id": "entry-994913",
       "label": "scene",
       "level": "3",
@@ -1983,7 +1959,7 @@
       "text": "(Sen. Murkomen on 4.12.2019)"
     },
     {
-      "order": 166,
+      "order": 164,
       "id": "entry-994914",
       "label": "scene",
       "level": "3",
@@ -1995,7 +1971,7 @@
       "text": "(Resumption of Debate interrupted on 4.12.2019)"
     },
     {
-      "order": 167,
+      "order": 165,
       "id": "entry-994915",
       "label": "heading",
       "level": "3",
@@ -2007,7 +1983,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 168,
+      "order": 166,
       "id": "entry-994917",
       "label": "scene",
       "level": "3",
@@ -2019,7 +1995,7 @@
       "text": "(Question, that the Statute Law (Miscellaneous Amendment) (No.2) Bill (National Assembly Bills No.13 of 2018) be read a Second Time, put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 169,
+      "order": 167,
       "id": "entry-994918",
       "label": "other",
       "level": "3",
@@ -2031,7 +2007,7 @@
       "text": "AYES:"
     },
     {
-      "order": 170,
+      "order": 168,
       "id": "entry-994919",
       "label": "other",
       "level": "3",
@@ -2043,7 +2019,7 @@
       "text": "Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi City County; Sen. Halake, Isiolo County; Sen. Iman, Garissa County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. (Dr.) Langat, Bomet County; Sen. Linturi, Meru County; Sen. Madzayo, Kilifi County; Sen. Mpaayei, Kajiado County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Mwaura, Kiambu County; Sen. Ochillo-Ayacko, Migori County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Prengei, Nakuru County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 171,
+      "order": 169,
       "id": "entry-994920",
       "label": "speech",
       "level": "3",
@@ -2052,22 +2028,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Halake.\n\nNOES"
+      "text": "Sen. Halake.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 172,
-      "id": "entry-994922",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 173,
+      "order": 170,
       "id": "entry-994923",
       "label": "speech",
       "level": "3",
@@ -2079,7 +2043,7 @@
       "text": "Sen. Farhiya."
     },
     {
-      "order": 174,
+      "order": 171,
       "id": "entry-994924",
       "label": "speech",
       "level": "3",
@@ -2091,7 +2055,7 @@
       "text": "Hon. Senators, the results of the Division are as follows -\n\nAYES\n\n: 27\n\nNOES\n\n: 0\n\nABSENTIONS"
     },
     {
-      "order": 175,
+      "order": 172,
       "id": "entry-994930",
       "label": "speech",
       "level": "3",
@@ -2103,7 +2067,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 176,
+      "order": 173,
       "id": "entry-994931",
       "label": "scene",
       "level": "3",
@@ -2115,7 +2079,7 @@
       "text": "(Question carried by 27 votes to nil)"
     },
     {
-      "order": 177,
+      "order": 174,
       "id": "entry-994933",
       "label": "scene",
       "level": "3",
@@ -2127,7 +2091,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 178,
+      "order": 175,
       "id": "entry-994934",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2103,7 @@
       "text": "That is the end of the Division. We will go back to those who I had listed here to congratulate the new Deputy Speaker. Proceed, Sen. Iman. You have three minutes."
     },
     {
-      "order": 179,
+      "order": 176,
       "id": "entry-994935",
       "label": "scene",
       "level": "3",
@@ -2151,7 +2115,7 @@
       "text": "(Resumption of congratulatory messages to the Deputy Speaker)"
     },
     {
-      "order": 180,
+      "order": 177,
       "id": "entry-994936",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2127,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity to congratulate Sen. (Prof.) Kamar on being elected to the position of Deputy Speaker. I am sure she is capable of doing anything. She is a definition of a strong woman. She will deliver well because of her professionalism. Allow me to quote Margaret Thatcher. She says- \"In politics if you want anything said, ask a man. If you want anything done, ask a woman.\" Congratulations!"
     },
     {
-      "order": 181,
+      "order": 178,
       "id": "entry-994940",
       "label": "scene",
       "level": "3",
@@ -2175,7 +2139,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 182,
+      "order": 179,
       "id": "entry-994941",
       "label": "speech",
       "level": "3",
@@ -2187,7 +2151,7 @@
       "text": "Asante Mhe. Spika kwa kunipa fursa hii kumpa kongole Sen. (Prof.) Kamar kwa kuchaguliwa kwake kama Naibu Wa Spika wa Seneti. Kuchaguliwa kwake ni jambo kubwa sana katika nchi yetu kwa sababu tunaweza kuwapa mamlaka wanawake katika nchi yetu na kutambua kwamba kuna umuhimu wa wao kuwa pamoja na sisi katika kuongoza nchi hii. Nilibahatika kusafiri na Sen. (Prof.) Kamar kwenda Belgium, Mwaka wa 2018 kuhudhuria Mkutano wa African, Caribbean &amp; Pacific Parliamentary Assembly (ACP). Ijapokuwa ilikuwa mara yangu ya kwanza, kupitia kwa ushauri na mwongozo wake, niliweza kuhudumu katika zile kamati nilizochaguliwa kule kama ambaye nilikuwa na uzoefu kabla ya hapo. Vile vile, yeye ni mfanyakazi kwa sababu katika mikutano tulioweza kufanya kule, mingine ilikuwa inaendelea mpaka saa tatu usiku. Tuliweza kuhudhuria yote na kuhakikisha kwamba mchango wetu katika mikutano ile umeweza kusikika. Vile vile, tuliona kwamba tulikuwa tumefanya kazi ya kueleweka. Kuchaguliwa kwake katika Bunge hili la Seneti na tukiangalia uzoefu wake, ina maana kuwa Seneti hii itasaidika pakubwa kwa uongozi ambao ataweza kuleta. Katika kila kazi kuna misukosuko, lakini tumeona kwamba Sen. (Prof.) Kamar kupitia kwa tajriba na elimu yake yote, yatamsaidia kuhakikisha kwamba, amevuka misukosuko ile. Ningependa kuwapa kongole wale wote ambao walikuwa wamejitokeza kuwania kiti cha Naibu wa Spika. Wote kama Maseneta ni watu ambao wanaweza kufanya kazi hiyo, lakini wakaamua na kuona kwamba Sen. (Prof.) Kamar anafaa zaidi kuliko wao. Hao pia tunawapa pongezi kwa uamuzi wao. Sote katika Bunge la Seneti tutashirikiana kuhakikisha kwamba maslahi ya wananchi wa Kenya na kaunti zetu yanawekwa mbele."
     },
     {
-      "order": 183,
+      "order": 180,
       "id": "entry-994946",
       "label": "speech",
       "level": "3",
@@ -2199,7 +2163,7 @@
       "text": "Thank you, Mr. Speaker, Sir. Let me add my voice in congratulating Sen. (Prof.) Kamar for getting another role as the Deputy Speaker of this House. She is a very composed and brilliant lady. She has already shown the commitment when she sits on that Chair. Today is a great day for the women of this country for having one of us being there. There is a saying that talks about the strength of a woman; that what a man can do, a woman can do better. Congratulations, Sen.(Prof.) Kamar."
     },
     {
-      "order": 184,
+      "order": 181,
       "id": "entry-994949",
       "label": "scene",
       "level": "3",
@@ -2211,7 +2175,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 185,
+      "order": 182,
       "id": "entry-994950",
       "label": "speech",
       "level": "3",
@@ -2223,7 +2187,7 @@
       "text": "Thank you, Mr. Speaker, Sir. As you can see, we have even moved into the main Chamber because we are very excited as women to be celebrating our sister, Sen. (Prof.) Kamar. I join you and the rest of the Senators to congratulate her and tell her how proud the women and girls of this country are because we know that we have someone that we can look up to. Sen. (Prof.) Kamar is not just a role model for women and girls; she is going to be a role model to the men, not just in this Chamber, but also in this country. She will teach many of us, and our men, what it means to put somebody else ahead of them, not to lean in when you have nothing much to offer, to teach others, to be calm, collected and unassuming; of the very many qualities she has. As has been said, it is such an honour to be led by a woman of her calibre. I look up to her and will learn quite a bit from her. I know that the lessons from Sen. (Prof.) Kamar are going to be for all of us, men and women, of this country. I also congratulate my colleagues who offered themselves for the position. They were qualified and passionate. They have such leadership skills and talents, but chose to make sure we have a woman at the helm. I thank Sen. (Dr.) Mwaura, Sen. Kibiru, Sen. Pareno and Sen. Madzayo. All are highly qualified, but they recognized Sen. (Prof.) Kamar's abilities and leadership qualities. They said that they would do it another day. As Sen. (Dr.) Mwaura has said, he is young and can do it another time. We look forward to seeing him lead as well. When I came to this Senate, I learnt so much from Sen. (Prof.) Kamar. I was chosen as the Chairperson of the Senate Women Association. I sat with her so that she could guide me on what the work of a legislator who was new to that role would be. She guided me and we came up with a very good plan that was influenced by some of the guidance she gave. I thank her and look forward to working with her. I know that we have a very able Deputy Speaker. Congratulations, Sen. (Prof.) Kamar! We are very happy to have you."
     },
     {
-      "order": 186,
+      "order": 183,
       "id": "entry-994955",
       "label": "speech",
       "level": "3",
@@ -2235,7 +2199,7 @@
       "text": "Let us have Sen. (Prof.) Ongeri, Sen. (Dr.) Musuruve, Sen. Pareno and Sen. (Dr.) Milgo."
     },
     {
-      "order": 187,
+      "order": 184,
       "id": "entry-994956",
       "label": "speech",
       "level": "3",
@@ -2247,7 +2211,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I rise to add my voice in congratulating a colleague, friend and a very unassuming personality; very cultured and extremely brilliant. I used all these terminologies having known Sen. (Prof.) Kamar when she joined me at the Ministry of Education in-charge of higher education. We had a legislative agenda to reform the Ministry of Education, both at the higher and lower levels of education, and we were able to do it extremely well with a lot of dignity and progress. In this Senate, this is the first time again that history is being made; that we have a lady of no mean achievement. She is somebody who has distinguished herself in various capacities in leadership and again, as luck would have it, we sit together in the Senate Committee on Education. We know the kind of Bills we have been generating from that Committee and the kind of input she has been giving to the Committee. Mr. Speaker, Sir, I have no doubt whatsoever in my mind that Sen. (Prof.) Kamar will be equal to the task placed upon her shoulders to be your able and worthy deputy. I wish her well in this journey. Again, it is a journey of learning for all of us. From the kind of edict, practice and experience she has had, in anything that we enter into, is a learning curve. She is not going to fall short of that learning curve. I am sure that she will stand tall and assist you in this momentous work of pushing this Senate forward and generate Bills, which eventually become Acts of Parliament for the betterment of this nation. I wish her well in her new career. Whenever she looks upon us and asks for our support, she will willingly get that support, just as much as we give you support. Mr. Speaker, Sir, I also thank my colleagues and other Senators who sought the same position, but saw it fit to step down and withdraw for her to come through without voting. I thank them because that is again a sign of selflessness that they have given and shown this country. I wish her well. Thank you for this opportunity."
     },
     {
-      "order": 188,
+      "order": 185,
       "id": "entry-994958",
       "label": "speech",
       "level": "3",
@@ -2259,7 +2223,7 @@
       "text": "Sen. (Dr.) Musuruve, proceed."
     },
     {
-      "order": 189,
+      "order": 186,
       "id": "entry-994959",
       "label": "speech",
       "level": "3",
@@ -2271,7 +2235,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity to thank this one very illustrious woman in this country. Sen. (Prof.) Kamar is a figure to emulate. She is a mentor to very many. She has actually shown that academia can be brought into practice and can work. Sen. (Prof.) Kamar has shown that when you educate a woman, you educate an entire society, nation and the whole world. Apart from being a don and leader, Sen. (Prof.) Kamar is very keen and passionate about issues of disability. When I first came to the Senate, I remember Sen. (Prof.) Kamar came to my office and we had conversations together. She encouraged me on what I had in my heart concerning issues of disability. When I was down, she told me that I must do what my heart wants, whether people want it or not; notice it or not. She urged me to make sure that I add value. Mr. Speaker, Sir, out of that, Sen. (Prof.) Kamar saw the production of the books that I championed while in the Senate. The Kenyan Sign Language books that Sen. (Prof.) Kamar propelled were even launched in Uasin Gishu County. I remember, Mr. Speaker, Sir, you were also instrumental in ensuring that awareness was done. You even donated a television to a school for the hearing-impaired. Sen. (Prof.) Kamar is a seasoned leader who is very impartial. I thank colleagues, Sen. (Dr.) Mwaura, Sen. Pareno and Sen. Kibiru, for stepping down for this one lady, who has made news in this country. This appointment shows us that \"50-50\" representation is a reality and women can be trusted. Even as we are talking about positions of women, it has started. We can see what has happened today in this House. We have our Speaker, Hon. Lusaka, and the Deputy Speaker, Sen. (Prof.) Kamar is a woman. It is a reality that must not stop. Mr. Speaker, Sir, as Kenyans and women in this country, you have done us proud."
     },
     {
-      "order": 190,
+      "order": 187,
       "id": "entry-994960",
       "label": "speech",
       "level": "3",
@@ -2283,7 +2247,7 @@
       "text": "Please, observe the three minutes and wind up."
     },
     {
-      "order": 191,
+      "order": 188,
       "id": "entry-994961",
       "label": "speech",
       "level": "3",
@@ -2295,7 +2259,7 @@
       "text": "Thank you, Mr. Speaker, Sir. As I wind up, the appointment of Sen. (Prof.) Kamar to this position is a boost for the women of this country. We are looking forward to many other openings coming up for women in this country and those with disabilities as well. We want to grow the women of this country. Thank you."
     },
     {
-      "order": 192,
+      "order": 189,
       "id": "entry-994962",
       "label": "speech",
       "level": "3",
@@ -2307,7 +2271,7 @@
       "text": "She was elected and not appointed."
     },
     {
-      "order": 193,
+      "order": 190,
       "id": "entry-994963",
       "label": "speech",
       "level": "3",
@@ -2319,7 +2283,7 @@
       "text": "Thank you for that, Mr. Speaker, Sir. She was elected. Whether elected or nominated, we want to grow women in this country."
     },
     {
-      "order": 194,
+      "order": 191,
       "id": "entry-994964",
       "label": "speech",
       "level": "3",
@@ -2331,7 +2295,7 @@
       "text": "You must be clear on the record."
     },
     {
-      "order": 195,
+      "order": 192,
       "id": "entry-994965",
       "label": "speech",
       "level": "3",
@@ -2343,7 +2307,7 @@
       "text": "Mr. Speaker, Sir, I take my words. I congratulate Sen. (Prof.) Kamar on her election to her position. It is a boom for women in this country."
     },
     {
-      "order": 196,
+      "order": 193,
       "id": "entry-994966",
       "label": "speech",
       "level": "3",
@@ -2355,7 +2319,7 @@
       "text": "Thank you. Sen. Pareno, proceed, then Sen. (Dr.) Milgo. I know that Sen. Shiyonga had also asked to talk. After that, I will give you an opportunity."
     },
     {
-      "order": 197,
+      "order": 194,
       "id": "entry-994967",
       "label": "speech",
       "level": "3",
@@ -2367,7 +2331,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I rise to congratulate Sen. (Prof.) Kamar for this election. This is a great day for us. Being the first female Deputy Speaker in the Senate is not something that we take for granted. It will go down in history that this Senate has done it. We are proud of her. I have worked with Sen. (Prof.) Kamar in several areas, and of course, in the Speakers Panel. She is a very calm person and always in attendance. She is a committed person. I am sure she is going to do a great job. I also previously had an encounter with her when she was an Orange Democratic Movement (ODM) party candidate before 2013. She has shown that she is exemplary in her leadership. I am sure we will go great places with her as the Deputy Speaker. Thank you, Mr. Speaker, Sir, because you have also guided us in this House. With an able Deputy Speaker, I am sure it will go well. We thank you and her for being who she is. Congratulations!"
     },
     {
-      "order": 198,
+      "order": 195,
       "id": "entry-994968",
       "label": "speech",
       "level": "3",
@@ -2379,7 +2343,7 @@
       "text": "Sen. (Dr.) Milgo."
     },
     {
-      "order": 199,
+      "order": 196,
       "id": "entry-994969",
       "label": "speech",
       "level": "3",
@@ -2391,7 +2355,7 @@
       "text": "Thank you, Mr. Speaker, Sir. Let me take this opportunity to celebrate what women have gained this afternoon in the Senate. You will have a wonderful Deputy Speaker in Sen. (Prof.) Kamar. In fact, she is bringing a wealth of experience, having been in Parliament for a long time, both in Kenya as well as the East African Legislative Assembly (EALA). At the same time, she has been an Assistant Minister as well as a Minister in two Ministries. Sen. (Prof.) Kamar is bringing a wealth of experience from those particular areas. I have known Sen. (Prof.) Kamar as a humble lady. In any case, she is going to be a great role model to the girls in the entire country. They will know that even after going to school up to the level of Sen. (Prof.) Kamar, one's dreams still remain valid. Mr. Speaker, Sir, Articles 21 (3) and 81 (b) of the Constitution speak to the principles of gender. There is also the Gender Equality Action Plan, 2008 that was put in place to ensure that gender parity issues are looked into. Parliament is supposed to take the lead in ensuring that this institution becomes fully gender sensitive. In fact, this year's theme for International Women's Day was \"Each for Equal\". The Senate has led by electing the first woman Senate Deputy Speaker. The sectors have been encouraged to make sure and commit to ensuring gender equality. This is a great opportunity, particularly for the Senate, to have its first Deputy Speaker as a lady. The National Assembly in the Eleventh Parliament had a lady in the name of the late Hon. (Dr.) Joyce Laboso. Today, we in the Senate, especially as ladies, are very happy because of what has been done here. Mr. Speaker, Sir, I thank the competitors, especially the men who were fighting it out with Sen. (Prof.) Kamar, for stepping down for her. That was a great honour. We are not going to take this for granted. You will find out that Sen. (Prof.) Kamar does not have any partiality. It does not matter whether you are a man or woman. She will make one of the best in the Senate. Congratulations, Sen. (Prof.) Kamar! We thank God for this great opportunity. Thank you."
     },
     {
-      "order": 200,
+      "order": 197,
       "id": "entry-994972",
       "label": "speech",
       "level": "3",
@@ -2403,7 +2367,7 @@
       "text": "Finally, proceed, Sen. Shiyonga."
     },
     {
-      "order": 201,
+      "order": 198,
       "id": "entry-994973",
       "label": "speech",
       "level": "3",
@@ -2415,7 +2379,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity to congratulate Sen. (Prof.) Kamar. A woman with a voice is a woman with definition. I am talking about Sen. (Prof.) Kamar's election. I knew her from the time she was in the Ministry of Education, where she served Kenyans with a lot of commitment. I look at her and see a leader that I can emulate. I learn a lot from her. Currently, she is the patron of the Kenya Women Senators Association (KEWOSA), which she has steered to greater heights. She is also a Member of the Speaker's Panel, where she had shown great leadership. Her election today as the Deputy Speaker is a plus to Kenyan women in this country. She had made headlines, but this one is a special headline for us. Lastly, Sen. (Prof.) Kamar is really a role model to us. She has defined us in leadership and will continue leading us. I salute her as a woman. May she keep going. Keep it up and bravo to her."
     },
     {
-      "order": 202,
+      "order": 199,
       "id": "entry-994974",
       "label": "speech",
       "level": "3",
@@ -2427,7 +2391,7 @@
       "text": "Sen. Mwaruma, then Sen. Boy."
     },
     {
-      "order": 203,
+      "order": 200,
       "id": "entry-994975",
       "label": "speech",
       "level": "3",
@@ -2439,7 +2403,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for this opportunity to congratulate Sen. (Prof.) Kamar for her election as the Deputy Speaker of the Senate of Kenya. She brings with her a lot of experience. She is well schooled and has the correct disposition to deputize you. I read her Curriculum Vitae (CV) and saw that she is one of the people who went to Beijing, along with Prof. Margaret Sanger to fight for space for the women. I am happy that she is benefiting from whatever she fought for in 1995. As a person who believes in women leadership, I think the sky is her limit. One time I commented on social media that if there is anybody who can rise up in Kenya to be even President, it is her because she has the qualifications. I think she is one of those people who have those qualifications. Many girls and women out there have a role model in her. There are women whose lives might change because of seeing her rise up to the position of Deputy Speaker. Congratulations! We wish you well in your new assignment."
     },
     {
-      "order": 204,
+      "order": 201,
       "id": "entry-994976",
       "label": "speech",
       "level": "3",
@@ -2451,7 +2415,7 @@
       "text": "Yes, Sen. Omogeni."
     },
     {
-      "order": 205,
+      "order": 202,
       "id": "entry-994977",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2427,7 @@
       "text": "Thank you, Mr. Speaker, Sir. I also want to add my voice in congratulating Sen. (Prof) Kamar for her elevation through election to the position of Deputy Speaker of the Senate. She joins women in the world who have smashed the glass ceiling by proving that what men can do, women can do better. She is among the three Senators who stood for election, competed against men in their counties and triumphed over them. She has proved that she is an astute politician. We can see that she has gotten the confidence of the 67 of us on her way to becoming our Deputy Speaker. Mr. Speaker, Sir, in 2006, Hon. Nancy Pelosi was elected the first woman Speaker of the House of Representatives in the United States of America (USA). She was also elected Speaker of Congress. Because of the way she proved herself, and having taken some leave from that seat, she was re-elected by Democrats to lead the House of Representatives last year. Mr. Speaker, Sir, I have no doubt that Sen. (Prof.) Kamar will leave a mark in her position of the Deputy Speaker. I am a father of two daughters. It is gratifying when we see that somebody of that gender can rise to the position of professor, join politics, compete against men, win and come to this House where the majority are men and win the confidence of all of us to occupy that position. Our daughters look up to her for inspiration and hope that they have space in leadership in this country. Congratulations! I wish her all the best in her new position as our Deputy Speaker."
     },
     {
-      "order": 206,
+      "order": 203,
       "id": "entry-994979",
       "label": "speech",
       "level": "3",
@@ -2475,7 +2439,7 @@
       "text": "Finally, Sen. Boy."
     },
     {
-      "order": 207,
+      "order": 204,
       "id": "entry-994980",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2451,7 @@
       "text": "Asante sana, Bw. Spika kwa kunipa fursa hii kumpa Sen. (Prof.) Kamar kongole. Ninamjazia sifa tele. Maseneta wenzangu wametoa sifa za kila aina kumtuza yeye. Ninajua kwamba alipokua katika Panel ya Spika alikuwa anaendesha shughuli za Seneti sawa sawa. Nina imani kuwa kwa uwezo wa Mwenyezi Mungu utaendeleza kazi ya Naibu Spika kwa uzuri na wema."
     },
     {
-      "order": 208,
+      "order": 205,
       "id": "entry-994981",
       "label": "speech",
       "level": "3",
@@ -2499,7 +2463,7 @@
       "text": "Hon. Senators, on behalf of the Speaker's Panel, I also want to congratulate Sen. (Prof.) Kamar and promise this House that with her and other Members of the Panel, we shall provide leadership that will elevate the Senate to a level that has never been seen before."
     },
     {
-      "order": 209,
+      "order": 206,
       "id": "entry-994982",
       "label": "scene",
       "level": "3",
@@ -2511,7 +2475,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 210,
+      "order": 207,
       "id": "entry-994983",
       "label": "scene",
       "level": "3",
@@ -2523,7 +2487,7 @@
       "text": "[The Speaker (Hon. Lusaka) left the Chair]"
     },
     {
-      "order": 211,
+      "order": 208,
       "id": "entry-994984",
       "label": "scene",
       "level": "3",
@@ -2535,7 +2499,7 @@
       "text": "[The Temporary Speaker (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 212,
+      "order": 209,
       "id": "entry-994985",
       "label": "speech",
       "level": "3",
@@ -2547,7 +2511,7 @@
       "text": "On a point of order, Madam Temporary Speaker."
     },
     {
-      "order": 213,
+      "order": 210,
       "id": "entry-994986",
       "label": "speech",
       "level": "3",
@@ -2559,7 +2523,7 @@
       "text": "Yes, Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 214,
+      "order": 211,
       "id": "entry-994987",
       "label": "speech",
       "level": "3",
@@ -2571,7 +2535,7 @@
       "text": "Would it not be nice and in order for the new Deputy Speaker to say something?"
     },
     {
-      "order": 215,
+      "order": 212,
       "id": "entry-994988",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2547,7 @@
       "text": "That is where we were going."
     },
     {
-      "order": 216,
+      "order": 213,
       "id": "entry-994989",
       "label": "speech",
       "level": "3",
@@ -2595,7 +2559,7 @@
       "text": "Oh, sorry. I am glad that we were thinking the same."
     },
     {
-      "order": 217,
+      "order": 214,
       "id": "entry-994990",
       "label": "speech",
       "level": "3",
@@ -2607,7 +2571,7 @@
       "text": "Having no other contributions, we now invite the Deputy Speaker of the Senate, Sen. (Prof.) Kamar, to say something."
     },
     {
-      "order": 218,
+      "order": 215,
       "id": "entry-994992",
       "label": "scene",
       "level": "3",
@@ -2619,7 +2583,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 219,
+      "order": 216,
       "id": "entry-994993",
       "label": "speech",
       "level": "3",
@@ -2631,19 +2595,19 @@
       "text": "Thank you, Madam Temporary Speaker. I would like to take this opportunity, with great honour, humility and respect to this this House, to sincerely thank my colleague Senators for the overwhelming support, trust and messages of goodwill that they have afforded me this afternoon. Madam Temporary Speaker, having served from the Chair where you are, the unanimous resolve by this Senate to move me forward to be a Deputy Speaker is a very good confirmation that I have served them well. I am very grateful that they have made that affirmation. As a teacher, sometimes you want your students to tell you that you are doing well and you have done them proud. I want to thank the Senators most sincerely for the great support that they have given me. I want to thank all the 21 members who have spoken many positive words. I do not think I will have the time to mention all of them, but I really thank each one of you. I also thank those who did not even have the opportunity to speak, because it has taken a very long time for these statements to continue. I would like to thank my worthy competitors. That is Sen. Mwaura, Sen. Madzayo, Sen. Kibiru and yourself, Madam Temporary Speaker. They all qualified to do the job of overseeing the House as Deputy Speaker. However, they chose, in their own wisdom, to step down in my favour. Any of us in this House can sit in that Chair. The only difference is that I managed to be in the Speaker's Panel in the Tenth Parliament for two and a half years and for another three years. I guess that is what made the group to favour my candidature to this position. I thank my proposer, Sen. Beth Mugo, who would have loved to be here, but has an engagement today elsewhere. I also thank Sen. (Dr.) Alice Milgo who seconded the proposal for me to be elected today. I also thank Sen. Were who heartily volunteered to be the chief campaigner. However, Senators cut short her campaign mission when they decided to do a consensus building. I thank all of you for that. Madam Temporary Speaker, I express my thanks to my political party, the Jubilee Party, led by His Excellency the President for the trust that they have shown me in supporting my candidature in the party and this House for the position of Deputy Speaker. I know the position is more demanding than when I was in the panel. However, I assure this House that I will do the job diligently and with more commitment now that the job is higher than what I had before. I assure the party that I will also serve well. I thank the party for also fostering parliamentary leadership that embraces an environment of inclusivity, which is represented here through religious, ethnic and gender lines across the whole country. This is what defines our Jubilee Party. I thank my predecessor, Sen. (Prof.) Kindiki. Many do not know that we have come a long way with him. I thank him for doing a good job when he was in that position. I will try as much as possible to fit in his shoes. Madam Temporary Speaker, I have known Sen. (Prof.) Kindiki from his young years in life. I served in a panel that appointed him to be a lecturer at Moi University. I also sat in the panel when he was being promoted to a senior lecturer. He became the first"
     },
     {
-      "order": 220,
+      "order": 217,
       "id": "entry-994994",
       "label": "speech",
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "lawyer to get a PhD in Moi University. In fact, he may have been the second one in the whole country. This is because at the time, the schools of medicine and law did not have PhD holders amongst the professors that the universities were boasting of. So, this is a man that I have known. He served the university with a lot of commitment and dedication in the same manner that he served us here. I know that he performs well when given any assignment. I thank him more because as soon as he left this seat, he turned to me and said that he wants me to take this position. I asked him why he left it and he said that I should take it. He will support me and when I call him, he will be by my side to assist. That is he kind of relationship I have had with him. We have worked well in all ways. I know that we will learn from one another. Hon. Colleagues, I say thank you once more. We are in times when COVID-19 has stopped us from hugging and thanking people loudly. However, when it is over, we will celebrate."
     },
     {
-      "order": 221,
+      "order": 218,
       "id": "entry-994995",
       "label": "scene",
       "level": "3",
@@ -2655,7 +2619,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 222,
+      "order": 219,
       "id": "entry-994996",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2631,7 @@
       "text": "On a point of information, Madam Temporary Speaker."
     },
     {
-      "order": 223,
+      "order": 220,
       "id": "entry-994997",
       "label": "speech",
       "level": "3",
@@ -2679,7 +2643,7 @@
       "text": "Do you want to be informed by Sen. Sakaja?"
     },
     {
-      "order": 224,
+      "order": 221,
       "id": "entry-994998",
       "label": "speech",
       "level": "3",
@@ -2691,7 +2655,7 @@
       "text": "Yes, I do not mind the information."
     },
     {
-      "order": 225,
+      "order": 222,
       "id": "entry-994999",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2667,7 @@
       "text": "Madam Temporary Speaker, I came after everyone had congratulated our Deputy Speaker. So, I would like to inform her that I also congratulate her."
     },
     {
-      "order": 226,
+      "order": 223,
       "id": "entry-995000",
       "label": "scene",
       "level": "3",
@@ -2715,7 +2679,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 227,
+      "order": 224,
       "id": "entry-995001",
       "label": "speech",
       "level": "3",
@@ -2727,7 +2691,7 @@
       "text": "That was unfair. You are out of order! That was no information. You are trying to sneak in a contribution. Proceed, Sen. (Prof.) Kamar."
     },
     {
-      "order": 228,
+      "order": 225,
       "id": "entry-995002",
       "label": "speech",
       "level": "3",
@@ -2739,7 +2703,7 @@
       "text": "It feels good to get congratulation messages from Nairobi City County because I was proposed by a Senator from there. Finally, I assure this House that with the great support that they have given me, I will not fail them. I will be a listener. My door is always open for anybody who would like to consult. I am a person who loves consultations. I assure the Speaker and the Speaker's Panel that I will do my best to make sure that we work together and build from where my colleague, Sen. (Prof.) Kindiki, left and move further to higher levels. I will serve this House with utmost integrity, impartiality, diligence and sobriety as I have always done. I will do more than what I am required to do. With those remarks, I once more say thank you colleagues and friends. You have done an excellent job by doing this in record time. I thank God for enabling me to be where I am. For that, I call him Ebenezer."
     },
     {
-      "order": 229,
+      "order": 226,
       "id": "entry-995003",
       "label": "speech",
       "level": "3",
@@ -2751,7 +2715,7 @@
       "text": "God bless you."
     },
     {
-      "order": 230,
+      "order": 227,
       "id": "entry-995004",
       "label": "speech",
       "level": "3",
@@ -2763,7 +2727,7 @@
       "text": "We congratulate the Deputy Speaker of the Senate, Sen. (Prof.) Kamar. Hon. Senators, I am informed that the Order Paper was rearranged for purposes of the election of the Deputy Speaker. I, therefore, wish that we go back to Statements. There is a Statement by the Senator for Nandi County, Sen. Cherargei."
     },
     {
-      "order": 231,
+      "order": 228,
       "id": "entry-995006",
       "label": "heading",
       "level": "1",
@@ -2775,7 +2739,7 @@
       "text": "STATEMENTS"
     },
     {
-      "order": 232,
+      "order": 229,
       "id": "entry-995007",
       "label": "heading",
       "level": "2",
@@ -2787,7 +2751,7 @@
       "text": "ALLEGED EXTRA-JUDICIAL KILLING OF KEVIN KIPCHUMBA AND BONIFACE KIPROTICH"
     },
     {
-      "order": 233,
+      "order": 230,
       "id": "entry-995008",
       "label": "speech",
       "level": "2",
@@ -2799,7 +2763,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity. I rise pursuant to Standing Order No. 48(1) to seek a Statement from the Standing Committee on National Security, Defence and Foreign Relations concerning extra- judicial killings of Kevin Kipchumba and Boniface Kiprotich in Tabolwa Village, Mosop Constituency, Nandi County during skirmishes at the Nandi-Kakamega border. In the Statement, the Committee should- (1) Explain why the police used excessive force by shooting and killing the two unarmed men who posed no threat to them. (2) State why it has taken more than three days, or even more, after the killing of the two men to arrest the police officers responsible for the killings and record the statements from witnesses. (3) State measures the Government has put in place to ensure that the families of the bereaved are compensated, including payment of morgue charges and hospital bills for the five people injured during the incident. (4) State the actions taken by the national Government to ensure the families of the deceased and those injured in the shooting get justice. (5) Outline the measures, if any, that the Government has put in place to resolve the long-standing boundary dispute between Nandi and Kakamega counties, putting into consideration efforts to encourage communities living in the area to remain peaceful. Madam Temporary Speaker, since this is an urgent matter and there is a lot of tension along the border of Kakamega and Nandi counties, I request the Chairperson of the Standing Committee on National Security, Defense and Foreign Relations to get a report from the Inspector General (IG), the Directorate of Criminal Investigation (DCI) and the Independent Policing Oversight Authority (IPOA) and table it in the next sitting, or in the next few days. We need to address that issue as soon as possible, so that people see that justice is being done and calm the communities. Finally, allow me to implore and request our two communities that live along the Kakamega and Nandi border to remain peaceful and co-exist as we try and address this travesty of justice. We want to see action taken against all the police officers who were involved in these extrajudicial killings. Madam Temporary Speaker, it is very sad that even as we continue with the fight against COVID-19 pandemic, there are many Kenyans who have been killed allegedly by the police, or trigger-happy police officers. I have seen over 10, so far. I know the number is quite high. It was even reported in the New York Times last month. Madam Temporary Speaker, I am happy the Vice Chairperson, the Senator for Nairobi City County, Sen. Sakaja, is here. The Committee should come up with the report and table it before this House."
     },
     {
-      "order": 234,
+      "order": 231,
       "id": "entry-995010",
       "label": "speech",
       "level": "2",
@@ -2811,7 +2775,7 @@
       "text": "Sen. Cherargei, I am aware that Sen. Sakaja has since resigned from that Committee. He is not, therefore, the Vice Chairperson of that Committee."
     },
     {
-      "order": 235,
+      "order": 232,
       "id": "entry-995011",
       "label": "speech",
       "level": "2",
@@ -2823,7 +2787,7 @@
       "text": "Thank you, Madam Temporary Speaker. I did not know. With media reporting everything, it had not come to my attention. I thank you for that information."
     },
     {
-      "order": 236,
+      "order": 233,
       "id": "entry-995012",
       "label": "speech",
       "level": "2",
@@ -2835,7 +2799,7 @@
       "text": "May I clarify, Madam Temporary Speaker."
     },
     {
-      "order": 237,
+      "order": 234,
       "id": "entry-995013",
       "label": "speech",
       "level": "2",
@@ -2847,7 +2811,7 @@
       "text": "Sen. Sakaja, kindly clarify."
     },
     {
-      "order": 238,
+      "order": 235,
       "id": "entry-995014",
       "label": "speech",
       "level": "2",
@@ -2859,7 +2823,7 @@
       "text": "Madam Temporary Speaker, I think it is good for the record of the House that I did not resign from the Committee. I resigned as the Vice Chairperson so that I can give opportunity to others. However, I was de-whipped from the Committee by the previous regime in the Senate. I just resigned and I wanted to remain as an ordinary Member. As I said, I was de-whipped by the former leadership of the Majority Side in the Jubilee. I do not complain. It is what happens during times of COVID-19. There is contact tracing, quarantine and isolation. I was isolated, but now I am back."
     },
     {
-      "order": 239,
+      "order": 236,
       "id": "entry-995015",
       "label": "scene",
       "level": "2",
@@ -2871,7 +2835,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 240,
+      "order": 237,
       "id": "entry-995016",
       "label": "speech",
       "level": "2",
@@ -2883,7 +2847,7 @@
       "text": "Sen. Shiyonga, kindly, proceed."
     },
     {
-      "order": 241,
+      "order": 238,
       "id": "entry-995017",
       "label": "speech",
       "level": "2",
@@ -2895,7 +2859,7 @@
       "text": "Thank you, Madam Temporary Speaker. I just want to ride on the Statement by Sen. Cherargei because I stay on the other side of the border. I know my people and his people are suffering. I want to echo the sentiment that he has said that the concerned security agencies need to move very fast so that they can silence those who are agitating to make the border porous. Madam Temporary Speaker, it is not only one side that has suffered the consequences. We are the people who are suffering most. Sen. Cherargei has taken the right path by bringing up this issue. This is because when the politicians go on the site, we look like we are fueling the conflict. It is good for us to use the right way by presenting our issues here. These issues will not only be understood by the nation, but also whoever is supposed to take charge of what is happening. Madam Temporary Speaker, we need to continue living in a peaceful way as neighbours. This is because the issue that Sen. Cherargei is talking about occurs every now and then. We, as leaders, are not happy with what is happening. We want the Committee that is concerned to move very fast, so that we can live in peace. This is because our children are married in the other side. Also, their children are married in our county. Therefore, we are more of friends and relatives than neighbours. So, it is good for the Committee to take up the issue so that our children and our people live in harmony. There are causalities on both sides and we need it to be addressed as fast as possible. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 242,
+      "order": 239,
       "id": "entry-995018",
       "label": "speech",
       "level": "2",
@@ -2907,7 +2871,7 @@
       "text": "I am allowing short comments on that Statement. Let us try to be brief. Sen. Faki, kindly proceed."
     },
     {
-      "order": 243,
+      "order": 240,
       "id": "entry-995020",
       "label": "speech",
       "level": "2",
@@ -2919,7 +2883,7 @@
       "text": "Asante, Bi. Spika wa Muda, kwa kunipa fursa hii ili kuchangia Taarifa ambayo imeletwa na Seneta wa Nandi, Sen. Cherargei. Swala la mauaji ya kiholela na polisi limeongezeka pakubwa katika nchi yetu. Ningependa kutoa rambirambi zangu kwa wale wote waliyofariki mpakani wa Kaunti za Nandi na Kakamega. Tarehe 30 Mei, 2020, kule kwetu pwani tulipata kisa ambapo polisi waliwaua watu wanne akiwemo mwenye nyumba hiyo, Ramadhan Mohammed Chizwa na wanawe watatu baada ya polisi kuvamia nyumba yao usiku na kuwapiga guruneti na pia kuwapiga risasi wanawe wawili, akiwemo kijana wa miaka sita, Ramadani Chiswa and msichana wa miaka minne kwa jina Raha Machiswa. Bi. Spika wa Muda, ni jambo la kusikitisha kwamba hawa waliuliwa na polisi wakiwa nyumbani kwao wakati polisi waliwavamia kama wamelala. Je, ni sababu gani polisi waliwavamia usiku bila kujua walioko ndani ni kina nani? Mtoto ambaye alikuwa kwa tumbo la mamake aliuwawa. Huu ni unyama mkubwa kuwa polisi wetu ndio wanaua wana familia na wananchi wa Kenya. Imekuwa pia ni tatizo kwa sababu hata ofisi ya Director of Public Prosecutions (DPP) haiwezi kufanya uchunguzi . Zamani, ilikuwa mtu akifa kwa njia ambayo si halali, ama si njia ya kawaida, Serikali kupitia kwa polisi walikuwa wanafanya uchunguzi ambapo hakimu anaangalia ushahidi wa vile alivyokuwa mpaka vile mtu akapoteza maisha yake. Wakati huu, hatujaona uchunguzi wowote. Katika kupambana na kafyu, zaidi ya watu 20 wameuwawa katika mikono ya polisi na hadi sasa hakuna uchunguzi wowote umefanywa ili kushtaki wale wanaohusika na mauaji hayo. Swala la watu kuuliwa kiholela katika nchi yetu si nzuri. Kule Amerika tunashuhudia maandamano. Tunaona kama haya ni mambo ya ugenini lakini hapa kwetu yanafanyika ijapokuwa sisi hatujakuwa wajasiri kiasi ili kuweza kuandamana na kupinga tendo hili la maafa ya watu wetu mikononi mwa polisi wetu. Ningeomba Kamati ya Usalama na Masuala ya Nje, iweze kushughulikia swala hili na lile la Kaunti ya Kwale. Hii ni kwa sababu tumeona maonevu mengi yanafanyika katika mikono mwa polisi."
     },
     {
-      "order": 244,
+      "order": 241,
       "id": "entry-995021",
       "label": "speech",
       "level": "2",
@@ -2931,7 +2895,7 @@
       "text": "I heard Sen. Omogeni say that we cannot breathe. I do not know whether he cannot breathe from the mask, or we cannot breathe because of the brutality. Sen. (Dr.) Langat, kindly proceed."
     },
     {
-      "order": 245,
+      "order": 242,
       "id": "entry-995022",
       "label": "speech",
       "level": "2",
@@ -2943,7 +2907,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this chance to support this important Statement from the Senator of Nandi County. It is quite sad and ironical that our police who are supposed to be security providers are becoming a security risk. Right from the time when we were beginning the lockdown, we saw---"
     },
     {
-      "order": 246,
+      "order": 243,
       "id": "entry-995023",
       "label": "speech",
       "level": "2",
@@ -2955,7 +2919,7 @@
       "text": "On a point of order, Madam Temporary Speaker."
     },
     {
-      "order": 247,
+      "order": 244,
       "id": "entry-995024",
       "label": "speech",
       "level": "2",
@@ -2967,7 +2931,7 @@
       "text": "Order! There is a point of order from Sen. Farhiya."
     },
     {
-      "order": 248,
+      "order": 245,
       "id": "entry-995025",
       "label": "speech",
       "level": "2",
@@ -2979,7 +2943,7 @@
       "text": "Madam Temporary Speaker, I am seeing that the Senator has no mask and Kenyans are looking up to us for guidance. This is against the guidelines of the Ministry of Health. Could you order him to wear a mask?"
     },
     {
-      "order": 249,
+      "order": 246,
       "id": "entry-995027",
       "label": "speech",
       "level": "2",
@@ -2991,7 +2955,7 @@
       "text": "I can see that he now has a mask. Kindly, let us keep to the rules."
     },
     {
-      "order": 250,
+      "order": 247,
       "id": "entry-995028",
       "label": "speech",
       "level": "2",
@@ -3003,7 +2967,7 @@
       "text": "Madam Temporary Speaker, I have a mask. It is only that it is cumbersome to speak with it."
     },
     {
-      "order": 251,
+      "order": 248,
       "id": "entry-995029",
       "label": "speech",
       "level": "2",
@@ -3015,7 +2979,7 @@
       "text": "As you talk, please let us ensure that it is somewhere where we can see that you have a mask."
     },
     {
-      "order": 252,
+      "order": 249,
       "id": "entry-995030",
       "label": "speech",
       "level": "2",
@@ -3027,7 +2991,7 @@
       "text": "On a point of order, Madam Temporary Speaker."
     },
     {
-      "order": 253,
+      "order": 250,
       "id": "entry-995031",
       "label": "speech",
       "level": "2",
@@ -3039,7 +3003,7 @@
       "text": "Sen. (Dr.) Musuruve, do you have a point of order."
     },
     {
-      "order": 254,
+      "order": 251,
       "id": "entry-995032",
       "label": "speech",
       "level": "2",
@@ -3051,7 +3015,7 @@
       "text": "Madam Temporary Speaker, allow me to comment on the issue of the masks. We have masks that are hugging the ears very well. The Serjeant-at- Arms should ensure that we are getting them so that we do not get embarrassed when our masks fall off the ears."
     },
     {
-      "order": 255,
+      "order": 252,
       "id": "entry-995033",
       "label": "speech",
       "level": "2",
@@ -3063,7 +3027,7 @@
       "text": "Thank you for that."
     },
     {
-      "order": 256,
+      "order": 253,
       "id": "entry-995034",
       "label": "speech",
       "level": "2",
@@ -3075,7 +3039,7 @@
       "text": "Order, Sen. (Dr.) Langat. There is another point of order from Sen. Cherargei."
     },
     {
-      "order": 257,
+      "order": 254,
       "id": "entry-995035",
       "label": "speech",
       "level": "2",
@@ -3087,7 +3051,7 @@
       "text": "Madam Temporary Speaker. Now that the issue of masks has been raised, I noticed in the afternoon when I wanted to get another mask because I have a problem with mine, I was told the masks at the Serjeant-at-Arms desks were not available. I would request your Office to follow up on this so that all Members can get masks. There are no masks there and we request your office to do something about it. Masks should be availed in the same way as sanitizers."
     },
     {
-      "order": 258,
+      "order": 255,
       "id": "entry-995036",
       "label": "speech",
       "level": "2",
@@ -3099,7 +3063,7 @@
       "text": "Madam Temporary Speaker, I do not think that is the correct position because we are telling Kenyans to get their masks. Why can Senators in this Chamber not get their own masks? I think that is not correct and it needs to be corrected."
     },
     {
-      "order": 259,
+      "order": 256,
       "id": "entry-995037",
       "label": "speech",
       "level": "2",
@@ -3111,7 +3075,7 @@
       "text": "We should not make it such a big debate. However, let us hear from Sen. Shiyonga."
     },
     {
-      "order": 260,
+      "order": 257,
       "id": "entry-995038",
       "label": "speech",
       "level": "2",
@@ -3123,7 +3087,7 @@
       "text": "Madam Temporary Speaker, you can see that I am shouting and suffocating. If I could have gotten the right masks at the door, I do not think I would be suffocating. We need the right masks."
     },
     {
-      "order": 261,
+      "order": 258,
       "id": "entry-995039",
       "label": "speech",
       "level": "2",
@@ -3135,7 +3099,7 @@
       "text": "Sen. Shiyonga, are you through? I think we have said enough on the masks. Kindly, let us leave that to the Office of the Clerk. Clerk, can you follow up so that we know if these masks are to be provided to the Senators, or they are supposed to come with their own masks? If they are supposed to be provided, then let them be there. Sen. (Dr.) Langat, please proceed."
     },
     {
-      "order": 262,
+      "order": 259,
       "id": "entry-995040",
       "label": "speech",
       "level": "2",
@@ -3147,7 +3111,7 @@
       "text": "Thank you, Madam Temporary Speaker. I had said that it is ironical that the people we expect to provide security to the citizens have turned out to be the enemies of the people. It was very sad during the first days of the lockdown when we saw the police killing even young children. At that time, I saw in one of the estates in Nairobi where a young boy from Borana Community was killed by the police. When we saw what was happening at the ferry in Mombasa, the brutality that the police were meting out on the citizens, it made us know that these people have a problem. I do not know if the Cabinet Secretary of the Ministry of Interior and Coordination of National Government is also seeing the same. We want to strongly condemn this behaviour by our security officers. In future, we would like to live in a nation where people will run to the police when they have a problem instead of running away from them. The other day when we saw brutality in America, we saw how Americans rose against it seriously, making the whole country almost ungovernable. However, in Kenya, we come here and talk about it and it is swept under the carpet just like that. This House must condemn police brutality. We must see in the courts of law these perpetuators jailed for a long time. In America, for example, the police officer who committed the heinous crime was jailed. I do not know for how many years. Therefore, we must see such people prosecuted as a matter of urgency in Kenya so that others may learn from the same. We condemn the brutality in Nandi and other parts of the country and we would like to see the law take its course fully as soon as possible."
     },
     {
-      "order": 263,
+      "order": 260,
       "id": "entry-995042",
       "label": "speech",
       "level": "2",
@@ -3159,7 +3123,7 @@
       "text": "Thank you, Madam Temporary Speaker for giving me this opportunity to support this Statement. Border conflicts have always occurred many times since time immemorial. However, this conflict in Kakamega-Nandi needs to be investigated so that we know the root cause of it. This is because people are supposed to live harmoniously. I want to condemn police brutality because they have a role to play in this country of ensuring our people are secure. They should protect people and their property. It is also their responsibility to enforce law and order. However, enforcing law and order does not necessarily mean that they become brutal and trigger-happy. There is a way they can ensure that there is peace among people living along the border. I do not think the police are the right people to resolve border conflicts. We should rethink how the border conflicts can be resolved so that it does not become generational trauma to people."
     },
     {
-      "order": 264,
+      "order": 261,
       "id": "entry-995043",
       "label": "speech",
       "level": "2",
@@ -3171,7 +3135,7 @@
       "text": "Thank you, Madam Temporary Speaker. Allow me to congratulate Sen. Cherargei for this Statement. This is not the first time that we are crying about police brutality. You saw that during the curfew and now at the border. A message has been sent to me right now because of Sen. Cherargei's Statement that a young man from Isiolo by the name of Abdi Nasir Hussein, a medical student, was shot in Merti Town last evening. Abdi Nasir Hussein had rushed to his grandmother's place to check on her because she was not feeling well. On his way back to his place, he was shot by a police officer. This is becoming too much and as Sen. (Dr.) Langat has said, it appears as if the lives of Kenyans is not worthy of anything. In America, racism and racial profiling has gone on for many years, but when George Floyd died, the entire country stood up for him. The worst thing to do in situations like this is to stand by and watch and do nothing about it. I congratulate Sen. Cherargei for bringing this to us and by saying that something must be done because this House cannot stand by as lives of young people who would have contributed to the economy of this country are extinguished. The Committee needs to focus on this issue and the issue of police brutality, shootings and killings of innocent people while enforcing simple things like curfews. As it has been said, our communities have lived together. Yes, they have fought sometimes and they have a mechanism for conflict resolution. When the police have to step in and extinguish lives, it is not acceptable and we condemn it. This House has to do something about it. I support the Statement."
     },
     {
-      "order": 265,
+      "order": 262,
       "id": "entry-995045",
       "label": "speech",
       "level": "2",
@@ -3183,7 +3147,7 @@
       "text": "Sen. Boy, proceed."
     },
     {
-      "order": 266,
+      "order": 263,
       "id": "entry-995046",
       "label": "speech",
       "level": "2",
@@ -3195,7 +3159,7 @@
       "text": "Asante, Bi. Spika wa Muda, kwa kunipa fursa hii ili nichangie Taarifa hii ambayo imeletwa na Sen. Cherargei wa Kaunti ya Nandi. Kusema kweli, hivi sasa tunavyoona nchi inavyoenda na jinsi polisi wanavyofanya si sawa. Vitendo kama hivi vinavyoendelea sasa ni kama unyama. Kama Seneta wa Kaunti ya Kwale, juzi katika sehemu ya Diani inayoitwa Kibundani, polisi walimuua bwana mmoja, mke wake aliyekuwa mja mzito na watoto wao watatu. Kilikuwa kitendo kibaya sana. Hata viongozi wengine walijitokeza na kulaani kitendo hicho. Hili jambo linatakiwa kuingiliwa kati na litazamwe kwa undani. Kwa hivyo, hii Taarifa imeletwa wakati mzuri sana. Juzi katika runinga mliona jinsi bwana yule alipigwa risasi katika sehemu ya Kibundani, Kaunti ya Kwale. Watoto wake wadogo, mke wake mja mzito na kiumbe ndani yake waliuawa pia. Tunalaani kitendo hicho. Iwapo kulikuwa na usawa, hawa polisi wangetafuta njia mwafaka na ijulikane huyo mtu angepatikana namna gani, si kutumia nguvu zaidi kama hiyo. Kamati ambayo itashughulikia hili jambo inafaa kutembelea Kaunti za Trans Nzoia, Kwale, Isiolo na kwingineko ambako hayo maafa yametokea ili watatue swala hilo."
     },
     {
-      "order": 267,
+      "order": 264,
       "id": "entry-995047",
       "label": "speech",
       "level": "2",
@@ -3207,7 +3171,7 @@
       "text": "Sen. Chebeni, proceed."
     },
     {
-      "order": 268,
+      "order": 265,
       "id": "entry-995048",
       "label": "speech",
       "level": "2",
@@ -3219,7 +3183,7 @@
       "text": "Thank you, Madam Temporary Speaker. I also rise to support this Statement by Sen. Cherargei. This is not the first time the issue of extrajudicial killings is coming to this House. It has come to this House through Sen. Sakaja, the Senators for Mombasa, Kwale and Isiolo counties. It seems as if the young people of this country are always the victims. Many of them have lost trust in the police. I do not know what they have done to the police in order to receive such kind of treatment. Cases of young people disappearing have come up in this House. Cases of mothers and children killed have also come up in this House. As Sen. Omogeni said, young people cannot 'breathe' in this country. We cannot 'breathe.' We do not know what wrong we have done to the police. We do not trust them anymore. Madam Temporary Speaker, as the Committee looks into this issue, I wish they could invite the whole House. This will give various Senators a chance to bring out such issues from their own counties, and then we get a solution to this problem. I support."
     },
     {
-      "order": 269,
+      "order": 266,
       "id": "entry-995049",
       "label": "speech",
       "level": "2",
@@ -3231,7 +3195,7 @@
       "text": "I do not think we have any further contributions on that. I, therefore, refer this Statement to the Committee on National Security, Defence and Foreign Relations to report back to the House by the next Sitting. Let us hear about the death of Mr. Kevin Kipchumba, Mr. Boniface Kiprotich and generally, on extrajudicial killings. I do not see the Chairperson of the Committee on National Security, Defence and Foreign Relations but, of course, I can see a Member here, Sen. Kwamboka. I also happen to sit in that Committee. They should sit and deliver a report to this House by the next Sitting. The next Statement is from the Senator for Nyamira County, Sen. Omogeni."
     },
     {
-      "order": 270,
+      "order": 267,
       "id": "entry-995050",
       "label": "heading",
       "level": "2",
@@ -3243,7 +3207,7 @@
       "text": "DEMOLITIONS IN NYAMIRA COUNTY"
     },
     {
-      "order": 271,
+      "order": 268,
       "id": "entry-995051",
       "label": "speech",
       "level": "2",
@@ -3255,7 +3219,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to seek a Statement under Standing Order No.48 (1) from the Standing Committee on Land, Environment and Natural Resources, regarding recent demolitions carried out in the towns of Keroka and Nyamira within Nyamira County. In the Statement, the Committee should - (1) Explain whether residents affected by the demolition were given adequate notice before the demolitions were conducted. (2) Explain what informed the demolitions, especially at such a time when Kenyans are grappling with the effects of COVID-19, which have occassioned socio- economic strain across the country and globe. (3) State the plans that Nyamira County Government has put in place to provide alternative land and accomodation for the affected families. Madam Temporary Speaker, I have another Statement."
     },
     {
-      "order": 272,
+      "order": 269,
       "id": "entry-995052",
       "label": "speech",
       "level": "2",
@@ -3267,7 +3231,7 @@
       "text": "Yes, you can proceed to the next Statement since I see no comments on the first one."
     },
     {
-      "order": 273,
+      "order": 270,
       "id": "entry-995053",
       "label": "speech",
       "level": "2",
@@ -3279,7 +3243,7 @@
       "text": "Madam Temporary Speaker, I am here."
     },
     {
-      "order": 274,
+      "order": 271,
       "id": "entry-995054",
       "label": "speech",
       "level": "2",
@@ -3291,7 +3255,7 @@
       "text": "Okay. Let us have the comments on that one before you proceed. Sen. Shiyonga, proceed."
     },
     {
-      "order": 275,
+      "order": 272,
       "id": "entry-995055",
       "label": "speech",
       "level": "2",
@@ -3303,7 +3267,7 @@
       "text": "Thank you, Madam Temporary Speaker. I would like to support the Statement by Sen. Omogeni on the way the demolitions are being done in this country. Recently, you saw the demolitions that were done in Kariobangi in Nairobi City County. We are now hearing about other demolitions being done in his county. This is not the right time to demolish anybody's house or habitat. During this time of COVID-19, where would one run to, especially with the lockdown? It is so sad when people rush to demolish a habitat or a place where people stay, just to expose those people to more harm than good. I support the Statement by Sen. Omogeni because it is not the right time. Why should you demolish the residence of somebody when you do not have a place to relocate his family? Mr. Speaker, Sir, we have seen people suffer in Nairobi City County and other counties. It should stop---"
     },
     {
-      "order": 276,
+      "order": 273,
       "id": "entry-995057",
       "label": "speech",
       "level": "2",
@@ -3315,7 +3279,7 @@
       "text": "You are referring to \"Mr. Speaker\" and now we even have more ladies in the Chair."
     },
     {
-      "order": 277,
+      "order": 274,
       "id": "entry-995058",
       "label": "speech",
       "level": "2",
@@ -3327,7 +3291,7 @@
       "text": "I am Sorry, Madam Temporary Speaker. It is good that we have more ladies. This Statement should not take long because it has taken long to resettle our people whose residences have been demolished. We are not seeing any Government officials working towards resettling these families. It is high time people were left to stay where they are. If there are any court orders to evict them, they can be enforced after we have dealt with COVID-19 pandemic."
     },
     {
-      "order": 278,
+      "order": 275,
       "id": "entry-995059",
       "label": "speech",
       "level": "2",
@@ -3339,7 +3303,7 @@
       "text": "Sen. (Dr.) Musuruve, proceed."
     },
     {
-      "order": 279,
+      "order": 276,
       "id": "entry-995060",
       "label": "speech",
       "level": "2",
@@ -3351,7 +3315,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity. This Statement by Sen. Omogeni is very important because we are in the COVID-19 period, where we want people to be home by 7.00 p.m. However, in a situation where people have no homes to go to, it is not the right time for even county governments to demolish houses. I am sure there is quite number of issues and activities that most county governments have put on the shelf until the COVID-19 pandemic is over. When families become homeless because their houses have been demolished, they are exposed to pneumonia, malaria and even COVID-19. They may even die due to being exposed to COVID-19. It is not a wise decision to demolish houses and leave people homeless. There is need to weigh actions and see whether they will affect families. If they will, then we are not doing well as a country. It is clear in the Constitution that people need social protection. The State is supposed to protect those who are unable to protect their families. Madam Temporary Speaker, the right Committee should deal with this issue right away. We, as a country, cannot be doing well when people are out in the cold. A few weeks ago, it happened in Kariobangi where houses were demolished. When houses are demolished, where are these people relocated to? We need to relocate them because they are suffering in the cold. It is sad that their houses were demolished and yet they title deeds. Where was the Nairobi City County Government when these title deeds were issued? Someone needs to be held accountable for the demolition because these people are suffering. The Committee should seize this issue and see to it justice is done to those people. Justice should not be delayed in a country that is concerned about the wellbeing of its people."
     },
     {
-      "order": 280,
+      "order": 277,
       "id": "entry-995061",
       "label": "speech",
       "level": "2",
@@ -3363,7 +3327,7 @@
       "text": "Madam Temporary Speaker, I wish to commiserate with the Senator for Nyamira; I feel your pain. This is what has been happening in Nairobi. I brought this Statement to the House when demolitions happened in Kariobangi. We had a meeting with 17 Members of National Assembly, nominated Senators, the Cabinet Secretary (CS) for the Ministry of Interior and Coordination of National Government, CS, Ministry of Water &amp; Sanitization and Irrigation because that was the issue and the CS, Ministry of Health. In that meeting, we agreed that even where there is a credible claim, during the time of this pandemic, all of the demolitions to be halted. The CS, Ministry of Interior and Coordination of National Government made an announcement and said that we will give some support. Sometimes I wonder whether police officers who brutalize Kenyans have lost their heart. Do the people who sit in leadership positions; whether it is a governor or CS who gives an order that children and families be left out in the cold have a heart? Some things do not even need legislation; it is just humanity; it is the heart. Madam Temporary Speaker, when you are kicking somebody out of their house or where they stay, even if they are there illegally; does it not occur to you that one day that could be done to you? In fact, even as we go to reclaim a lot of land that has been previously grabbed, many of these people are not even beneficiaries; they are second, third or fourth buyers or they are renting out those places. The primary beneficiaries who might have benefited from that illegality got their money a long time ago and they are the ones who need to be prosecuted. I remember this problem in Westlands Market, when you are removing people because there is a road that needs to be done; do you still move them before you get another place to relocate them? I remember an old woman who was crying. I remember a photo in my Facebook where I am hugging her, because she remembers me since the time when I was six years old; my mother used to take me around that market and for the first time she has no place to go. You demolish and chase them, but you know in two or three months, construction does not begin. Is it not just common sense to say that, first, let us relocate these people by identifying where they will go to because they are engaged in economic activities and then after that, you can begin the construction? Where will humanity and the heart come from? There is no Motion that this House can pass to give people a heart. There is no Bill; we cannot call it the Senate Heart Bill or Humanity (Amendment) Bill (2020). We just need to go back to our oneness as Kenyans where a long time ago; it is not even a long time ago because I am young, it is just the other day, when we used to have a heart for each other; where we would go to our neighbors to borrow salt. Today we are completely reaching a point where people become machines after getting offices. I am glad that the Chairman of the Committee on Lands, Environment and Natural Resources took up this matter. This coming Thursday we will be going to the ground with the CSs to look at those people in the eye so that CS Matiang'i, CS Sicily, the regional commissioner can come and tell them that this is why you are out in the rain during the COVID-19 pandemic. These people were evicted 2.3 kilometres away from that site and where now the pandemic has gone crazy. Some of them wanted to go home, we had to organize for the passes and buses for them to be allowed to pass. Some of them wanted to go to their rural homes to stay there. This country yearns for the day when a person in any position of authority will remember that he was, first, a human being before he became a District Commissioner (DC), regional commissioner, police officer or a cabinet secretary. First, you are a human being and think of what would happen if that was your child. I support this Statement and I hope that the Chairman of the Committee on Lands, Environment and Natural Resources will move as quickly as he has done on my Statement. We are not only going to the ground, we want to see how to get to those people some form of compensation, soft landing, mabati, food, which I have been doing from my pocket, so far, the Government must help them. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 281,
+      "order": 278,
       "id": "entry-995064",
       "label": "speech",
       "level": "2",
@@ -3375,7 +3339,7 @@
       "text": "May be there might not be the Heart Bill, but there can be the Orderly Demolitions Bill that will provide guidelines on how to move people in an orderly manner and settle them before demolitions are done. We need to think about that."
     },
     {
-      "order": 282,
+      "order": 279,
       "id": "entry-995065",
       "label": "speech",
       "level": "2",
@@ -3387,7 +3351,7 @@
       "text": "Madam Temporary Speaker, this country has passed certain protocols already on how demolitions are to be done. They exist. I will even read it out for you. First, there was a task-force that was put together three years ago led by the United Nations (UN) Habitat that brought the protocols of how such demolitions need to be done. I will share this with the Senate and I will place it before the Senate Business Committee for consideration. It is not a lack of law, protocols or standards; it is just impunity and heartlessness. Since the CS Matiang'i said that the demolitions be stopped, the person who authorized it should be held personally culpable. I will share these protocols here, but people are saying that today the law is a mere suggestion. No; the law is not a suggestion. The reason why a senior counsel will tell you that is the rule of law - even you, Madam Speaker, are a Senior Lawyer and you know it. If it was about subjectivity, then we would then go to anarchy. So, let us follow the law."
     },
     {
-      "order": 283,
+      "order": 280,
       "id": "entry-995066",
       "label": "speech",
       "level": "2",
@@ -3399,7 +3363,7 @@
       "text": "I hope that you will share those protocols with us. I hope that in those protocols we will also have penalties. If they do not have then we might come up with laws that have penalties on laws that are violated."
     },
     {
-      "order": 284,
+      "order": 281,
       "id": "entry-995067",
       "label": "speech",
       "level": "2",
@@ -3411,7 +3375,7 @@
       "text": "Thank you, Madam Temporary Speaker, for allowing me to add my voice to this very important Statement as I also congratulate Sen. Omogeni for bringing up this Statement concerning the recent demolitions of houses and homesteads in Nyamira County. From the contribution of other fellow Senators, you can see how this is affecting each one of us and that is why we are getting emotional. The reason why we are getting emotional is because of the suffering of Kenyans. It is like we are not caring for our citizens. The other day, we saw demolitions that took place in Kariobangi on our televisions. I was so much moved when I watched a lady nursing a young child of about six months who got sick. She was narrating her stories and sufferings to the entire nation. Many Kenyans have suffered in the hands of reckless officers who do not care about the lives of others. The season that we are in, is a season that needs a lot of care, patience and protection. Many people are getting into depression because of the suffering that comes with that and we are adding more problems to them. I support this Statement. It has not only happened in Nyamira, but it has happened in Kariobangi and other places. By the time that we even think of how we can revive their lives and support them, their lives will never be the same. Most of them are exposed to a lot of danger. Imagine expectant mothers, young girls who have nowhere to lay their heads? Imagine what happens to a woman when they have no shower or somewhere, they can take a bath. They are suffering while we watch. It is a sad story that we keep on doing this and make Kenyans suffer. We need proper and immediate action to be taken. Since, by the time we set up a Committee to look up at all this and settle on something; it will take a lot of time, I suggest that proper and immediate action be taken. In future, for any demolition to take place, the people to be moved should be prepared and supported after which the Government can take action. This idea of people coming to people's places in the morning, demolishing their properties and turning people hopeless within an hour should not be tolerated anymore. I support the Statement and stand with Kenyans."
     },
     {
-      "order": 285,
+      "order": 282,
       "id": "entry-995071",
       "label": "speech",
       "level": "2",
@@ -3423,7 +3387,7 @@
       "text": "Let us have Sen. (Dr.) Langat."
     },
     {
-      "order": 286,
+      "order": 283,
       "id": "entry-995072",
       "label": "speech",
       "level": "2",
@@ -3435,7 +3399,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this time to contribute to this Statement by Sen. Omogeni who is my neighbour. I heard the incident when I was at home and it was shocking. We might not understand the long-lasting effects of these particular inhuman activities we are subjecting our citizen to in this country. Some few days ago, the Regional Commissioner for Rift Valley went to Mau to bring peace among fighting communities. However, the police had gone ahead of the commissioner and brutalized people so much such that when he went there to see what was happening, a young child of 13 years faced him with a lot bitterness because of what had happened in their homes. Can you imagine what we had in Kariobangi? When demolitions took place, some young girls disappeared to seek refuge in other homesteads ending up being sexually abused and molested by people. Houses of these citizens were demolished without notice. This is a time when COVID-19 is here with us. How can we defend the Government stand on COVID-19 if it is responsible for demolishing houses, rendering people to abuse protocols put in place, which is very dangerous? I heard in another place here in Nairobi some landlords were punishing the tenants so much and telling them that if the Government is removing people in Kariobangi, who are you to stay in my house? As leaders, how can we persuade the landlords to stand with their tenants at this particular period of COVID-19 when the Government is leading in showing a bad example by demolishing houses in Keroka Town in Nyamira County and the rest of this country. This nonsense should stop and the report should reach the President. I do not think the President is aware of the things which are happening to the people. If he is aware, then it is a great shame to our country leadership because we should come out strongly to protect our people. We might be underrating the long-term effects of the same. If you go back to history, you will find leaders or people who have risen to big positions in this world and trace their origins. These people grew up in inhuman conditions. If you study about people like Hitler and the rest, they suffered through inhuman activities perpetuated by the grown-ups. Recently we saw a whole Cabinet Secretary saying they must have some construction of water sewage system there and that those people must leave there without being relocating to other places. Imagine the bitterness that our children are going through. In the future, we shall have a bitter generation that will turn and destroy this country. We must take these inhuman activities seriously and make sure we stop it because it is affecting the future and the present generations. I condemn these activities."
     },
     {
-      "order": 287,
+      "order": 284,
       "id": "entry-995076",
       "label": "speech",
       "level": "2",
@@ -3447,7 +3411,7 @@
       "text": "Sen. Halake, you have the Floor."
     },
     {
-      "order": 288,
+      "order": 285,
       "id": "entry-995077",
       "label": "speech",
       "level": "2",
@@ -3459,7 +3423,7 @@
       "text": "Thank you, Madam Temporary Speaker. I also stand to support the Statement from my colleague and the senior counsel, Sen. Omogeni, who also sits in the ad hoc Committee on COVID-19 with me. The story of Nyamira County is that of almost every county. When rights abuses are inflicted, it is usually the most vulnerable and poorest people, especially women and children that suffer the most. I do not know what kind of society we have become. As Sen. Sakaja said, we have lost our humanity. At the end of the day, the duty bearer is the State no matter who does it. Sometimes I have heard people saying 'it is not me; it is the people that were hired by the owner of the land'. That notwithstanding, the State bears the obligation and duty of ensuring that Article 43 of the Constitution which guarantees or assure that people have decent housing is adhered to. At the onset of the COVID-19 under the pretext of cleanliness, the local market in Isiolo was destroyed. This is unacceptable and we cannot have every county reporting demolition and destruction of property. This is happening in every county and we are wondering who is ensuring our poorest and most vulnerable are protected and the Constitution is upheld. This House should do something. I know Sen. Sakaja has said the protocols exist. However, our own Constitution demands that Article 43 is enforced and people have decent housing. When these people have stayed in Kariobangi or Nyamira where Sen. Omogeni comes from and has brought this Statement, usually people have stayed for years or decades, what happens? Why now? When we are supposed to be fighting a pandemic, this is like saying 'you go and die'. When you have conflicts in upmarket areas between landlords and other people feuding over land, it goes to court and stays there for years. When it concerns the poor, vulnerable, women and children, it is done overnight without any notice which is unacceptable and we condemn it. It must be dealt with the urgency it requires. It is shameful for these things to happen under our watch as representatives of the people. I thank you and I support."
     },
     {
-      "order": 289,
+      "order": 286,
       "id": "entry-995080",
       "label": "speech",
       "level": "2",
@@ -3471,7 +3435,7 @@
       "text": "This Statement is referred to the Standing Committee on Agriculture."
     },
     {
-      "order": 290,
+      "order": 287,
       "id": "entry-995081",
       "label": "speech",
       "level": "2",
@@ -3483,7 +3447,7 @@
       "text": "On a point of order, Madam Temporary Speaker"
     },
     {
-      "order": 291,
+      "order": 288,
       "id": "entry-995082",
       "label": "speech",
       "level": "2",
@@ -3495,7 +3459,7 @@
       "text": "What is your point of order, Sen. Sakaja?"
     },
     {
-      "order": 292,
+      "order": 289,
       "id": "entry-995083",
       "label": "speech",
       "level": "2",
@@ -3507,7 +3471,7 @@
       "text": "Madam Temporary Speaker, as you have directed, I have shared the policy guidelines on eviction, 2009 to all Senators. It is on the WhatsApp Group. I ask that you direct further that the relevant Committee goes through those guidelines. Since, if you go through those guidelines, they talk of different laws that have different provisions. Direct that they review it and see whether a legislative proposal can come out of the House. Every week we are talking about these evictions and this will be progressive if such direction can be made from you."
     },
     {
-      "order": 293,
+      "order": 290,
       "id": "entry-995085",
       "label": "speech",
       "level": "2",
@@ -3519,7 +3483,7 @@
       "text": "Like I said, if we have protocols that are not enforceable, it is proper that this Committee proceed to look at what is available and whether they need amendments or a proposed law. This Statement is referred to the Standing Committee on Agriculture, Livestock and Fisheries to report in 14 days. The next Statement is from the same senator of Nyamira County. Proceed, Sen. Omogeni."
     },
     {
-      "order": 294,
+      "order": 291,
       "id": "entry-995086",
       "label": "speech",
       "level": "2",
@@ -3531,7 +3495,7 @@
       "text": "Madam Temporary Speaker, the next Statement is on the issue of summary dismissal of causal tea---"
     },
     {
-      "order": 295,
+      "order": 292,
       "id": "entry-995087",
       "label": "speech",
       "level": "2",
@@ -3543,7 +3507,7 @@
       "text": "On a point of order, Madam Temporary Speaker."
     },
     {
-      "order": 296,
+      "order": 293,
       "id": "entry-995088",
       "label": "speech",
       "level": "2",
@@ -3555,7 +3519,7 @@
       "text": "I have noted what you have said. It should go to the Committee on Land, Environment and Natural Resources and they should report in 14 days."
     },
     {
-      "order": 297,
+      "order": 294,
       "id": "entry-995089",
       "label": "heading",
       "level": "2",
@@ -3567,7 +3531,7 @@
       "text": "ALLEGED SUMMARY DISMISSAL OF TEA PICKERS IN KERITO AND KIPKEBE TEA FACTORIES IN NYAMIRA COUNTY"
     },
     {
-      "order": 298,
+      "order": 295,
       "id": "entry-995090",
       "label": "speech",
       "level": "2",
@@ -3579,7 +3543,7 @@
       "text": "Madam Temporary Speaker, pursuant to Standing Order No.48(1), I rise to seek a Statement from the Standing Committee on Agriculture, Livestock and Fisheries, and perhaps the Committee on Labour and Social Welfare, concerning summary dismissal of casual tea workers in Kerito and Kipkebe factories in Nyamira County. In the Statement, the Committee should - (1) Explain why the casual tea pickers were dismissed without any notice served on them, contrary to the Constitution and the labour laws of the Republic of Kenya, more so during this period of COVID-19 pandemic. (2) Explain the consultations the two factories held with the said casual tea pickers before replacing their labour with machines which have destroyed the workers' livelihood during this COVID-19 pandemic period. (3) State when the dismissed workers will be compensated and given their pension for the years of service. (4) State the measures that have been put in place by the Government of the Republic of Kenya to protect workers in tea plantations across the country whose jobs are at risk due to mechanisation of tea picking arising from unfair labour practices by their employers. I thank you."
     },
     {
-      "order": 299,
+      "order": 296,
       "id": "entry-995091",
       "label": "speech",
       "level": "2",
@@ -3591,7 +3555,7 @@
       "text": "I will allow brief comments before we proceed to the next Statement."
     },
     {
-      "order": 300,
+      "order": 297,
       "id": "entry-995092",
       "label": "speech",
       "level": "2",
@@ -3603,7 +3567,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me the opportunity to give my comments on this Statement. I would like to thank the Senator for Nyamira for coming up with the Statement. A Statement of this nature came to the Floor of this House where workers were just dismissed and no compensation was done. An example was in Kakamega County where workers were dismissed by Mumias Sugar Company but they were not compensated. As a Senate, we have to see how to protect workers in this country. At a time like this during the COVID-19 pandemic, it is unreasonable to just dismiss workers and fail to compensate or cushion them during this hard time. Workers also have basic needs just like anybody else. They have families with school fees to pay and require medication. It was unthinkable for tea pickers to be dismissed just like that. When we have a factory, it should benefit the community. The community should see the benefit of having a factory because if tea pickers are idle, they will be a risk to the factory, and therefore, there is need to see that the factor of production being brought about by human labour in Nyamira is not ignored because machines can fail. If that happens, workers can be handy to ensure that the tea factory still operates. There is need to have the goodwill from the factories to ensure that workers are brought on board. If they have been dismissed, we need to know whether a notice was given to them. If a notice was given, were they given ample time? If they were given ample time, have they been compensated? It should not be a staggered compensation. The compensation should be up to the last cent to ensure our workers are not discouraged. We are here to represent the counties and the interest and welfare of the workers. That is one of our core businesses in the Senate. Madam Temporary Speaker, I hope this Statement will go to the right Committee which should ensure that there is fairness on the part of the workers, so that they do not feel that we are not keen or concerned about them. Madam Temporary Speaker, once again, I thank you for giving me the opportunity and congratulate the Senator for coming up with this Statement."
     },
     {
-      "order": 301,
+      "order": 298,
       "id": "entry-995094",
       "label": "speech",
       "level": "2",
@@ -3615,7 +3579,7 @@
       "text": "This Statement is referred to the Standing Committee on Agriculture, Livestock and Fisheries. The Committee should report within 14 days. The next Statement is by Sen. Malalah who represents Kakamega County, but since he is not here, we will defer it."
     },
     {
-      "order": 302,
+      "order": 299,
       "id": "entry-995095",
       "label": "heading",
       "level": "2",
@@ -3627,7 +3591,7 @@
       "text": "ROLE OF THE NHIF IN COVID-19 TESTING FOR HOTEL AND RESTAURANT STAFF IN THE COUNTY"
     },
     {
-      "order": 303,
+      "order": 300,
       "id": "entry-995096",
       "label": "scene",
       "level": "2",
@@ -3639,7 +3603,7 @@
       "text": "(Statement deferred)"
     },
     {
-      "order": 304,
+      "order": 301,
       "id": "entry-995097",
       "label": "speech",
       "level": "2",
@@ -3651,7 +3615,7 @@
       "text": "The next Statement is by the Chairperson of the Standing Committee on Education concerning the status of education in Kenya during the COVID-19 pandemic."
     },
     {
-      "order": 305,
+      "order": 302,
       "id": "entry-995098",
       "label": "heading",
       "level": "2",
@@ -3663,7 +3627,7 @@
       "text": "STATUS OF EDUCATION IN KENYA DURING THE COVID-19 PANDEMIC"
     },
     {
-      "order": 306,
+      "order": 303,
       "id": "entry-995099",
       "label": "speech",
       "level": "2",
@@ -3675,7 +3639,7 @@
       "text": "Madam Temporary Speaker, I rise to make a Statement pursuant to Standing Order No.51 (1)(a). As Senators will recall, during the morning sitting of the Senate, held on Tuesday, 19th May, 2020, Sen. Kwamboka rose to seek a Statement from the Standing Committee on Education regarding the status of education in Kenya following the outbreak of COVID-19. On the same day, 19th May, 2020, during the afternoon session, Sen. (Dr.) Musuruve rose to seek a Statement concerning the progress of learners with disabilities during this current COVID-19 pandemic. The outbreak of COVID-19 has resulted in the global shutdown of education institutions, thus greatly affecting learners at all levels. In Kenya, learning in all education institutions was suspended by the President on 15th March, 2020, and an estimated 15 million learners remain at home. This country has never experienced such a dramatic impact on human capital investment and the full consequences of this pandemic on social and economic indicators are still unknown. Globally, different countries have formulated and generated a raft of measures and allocated resources to help learners, teachers and parents to facilitate continuous learning. In our Committee, we also sought information concerning the same from the Ministry of Education. Although the Ministry of Education is making substantial efforts to ensure that learning is not interrupted, there have been several challenges affecting the same. Institutions of learning provide an opportunity for growth and development of many school-going children in this country seeking to enhance competencies. However, millions of learners during this pandemic continue to face challenges related to lack of access to technology, digital devices and reliable internet connectivity. Generally, in summary, education has been seriously affected. The Cabinet Secretary for Education gave us a report which we shall share with you on the Senate media platform so that everybody goes through it."
     },
     {
-      "order": 307,
+      "order": 304,
       "id": "entry-995103",
       "label": "speech",
       "level": "2",
@@ -3687,7 +3651,7 @@
       "text": "On a point of order, Madam Temporary Speaker. Since I am the one who requested the Statement, I thought I should be furnished with the response before any other Member."
     },
     {
-      "order": 308,
+      "order": 305,
       "id": "entry-995104",
       "label": "speech",
       "level": "2",
@@ -3699,7 +3663,7 @@
       "text": "Now that it is the business of the House, I will make sure that you get the hard copy right away after this but everybody else should read it so that they come and make contributions accordingly."
     },
     {
-      "order": 309,
+      "order": 306,
       "id": "entry-995105",
       "label": "speech",
       "level": "2",
@@ -3711,7 +3675,7 @@
       "text": "Madam Temporary Speaker, I am in the same Committee. I respect my Chair but even the Senator chairing the Ad-Hoc Committee on COVID-19 situation in Kenya, Sen. Sakaja, said clearly on the Floor of this House that there is much that needs to be done by the Ministry of Education. There is need to come up with elaborate responses to these concerns that have been raised about education because learning, as Sen. Sakaja said, is wanting and not taking place the way it should. There is need for the Cabinet Secretary (CS) to also come here so that we engage with him."
     },
     {
-      "order": 310,
+      "order": 307,
       "id": "entry-995107",
       "label": "speech",
       "level": "2",
@@ -3723,7 +3687,7 @@
       "text": "Madam Temporary Speaker, we are still engaging the Cabinet Secretary. The other time we were to meet with him, he had gone to the National Assembly on the same. We have also made sure that we have requested again that he should come to our Committee, probably this week, so that he can come and shed light on these very many concerns. We have already written to him and we are still waiting. The Committee sought clarifications from the Cabinet Secretary on the following areas: Policy guidelines on virtual and distance learning in Kenya at this time and the status report on how virtual and distance learning is being carried out in the country because there are so many complaints. The measures that have been put in place to ensure that all learners including those in marginalized areas, low income backgrounds, the urban and poor areas and those with special needs are accessing this specialized technology education at this time of COVID-19. We have also requested to know the measures that the Government has put in place to ensure that learners, especially those in early years of development have regular human interactions and social care in order to address possible psychological challenges that they may be facing. We had even written to the Cabinet Secretary challenging them that the learners with physical disabilities and other challenges are not many. We had requested if the Ministry could put them together in some place and make sure that the health protocols are observed. This is because these learners are not accessing learning through virtual leaning or other means of learning. We had suggested to the Ministry of Education to---."
     },
     {
-      "order": 311,
+      "order": 308,
       "id": "entry-995110",
       "label": "speech",
       "level": "2",
@@ -3735,7 +3699,7 @@
       "text": "There is a point of order from Sen. Omogeni."
     },
     {
-      "order": 312,
+      "order": 309,
       "id": "entry-995111",
       "label": "speech",
       "level": "2",
@@ -3747,7 +3711,7 @@
       "text": "Thank you, Madam Temporary Speaker. I am in a very awkward position where I want to have a contrary view on my Chairperson, Sen. (Dr.) Lang'at. Having listened to him, it is evident that the Cabinet Secretary for Education has not responded adequately to the issues of concern that were raised by Sen. Kwamboka. Sen. Kwamboka rose on a point of order expressing her dismay that the response was not shared with her in advance as is the tradition of this House. Listening to my Chair, I think there is a lot that the Cabinet Secretary for Education needs to respond to, to the satisfaction of this House. You heard the concerns that were raised in the morning by the Chair of the Senate Ad Hoc Committee on Covid- 19 situation in Kenya; that this Cabinet Secretary has on three different occasions refused to appear before a Senate Committee indicating that he is not answerable to the Senate. The point of order I am making is that the Chair of the Senate Committee on Education, my neighbor and very good friend, should not handle this Cabinet Secretary with gloves. The Cabinet Secretary should be summoned to appear before the House and respond to these very serious issues that touch on the welfare of our children. These are not light issues. They are very serious. We need to remind the Cabinet Secretary, Education, that we are not the House of Lords. We are people who have been elected by the people of this country. We enjoy a democratic mandate from our people. Article 96 is very clear that we represent counties and the people who reside in those counties, including the parents of the children that are out of school. Madam Temporary Speaker, I want you to direct that, that answer by the Chair of the Senate Committee on Education is not adequate. He should go back, summon the Cabinet Secretary, Ministry of Education and then respond to the issues that were raised by Sen. Kwamboka to her satisfaction."
     },
     {
-      "order": 313,
+      "order": 310,
       "id": "entry-995115",
       "label": "speech",
       "level": "2",
@@ -3759,7 +3723,7 @@
       "text": "Hon. Senators, you note that the Statement by Sen. (Dr.) Lang'at is under Standing Order No. 51(1) which is just a Statement by the Chairperson of a Committee on a matter that touches on the mandate of the Committee. It is not a specific answer to the specifics that Sen. Kwamboka had asked. We allow him to make that Statement under Standing Order No. 51(1) (a) and then he will have to answer to the specifics that were sought during the Statement that Sen. Kwamboka had made. He is yet to respond to Sen. Kwamboka's Statement. Today he is not necessarily responding to Sen. Kwamboka's Statement but making a Statement under Standing Order No. 51(1). Proceed, Sen. (Dr.) Lang'at."
     },
     {
-      "order": 314,
+      "order": 311,
       "id": "entry-995117",
       "label": "speech",
       "level": "2",
@@ -3771,7 +3735,7 @@
       "text": "Thank you, Madam Temporary Speaker. The issue of national examinations is also a matter of great concern to many Kenyans. As you are aware, the Ministry of Education has put in place an elaborate measure of 100 per cent transition from primary to secondary education as required by Article 53(1) (b) of the Constitution on provision of free and compulsory basic education to every Kenyan child. However, at the same time, the Cabinet Secretary has been quoted on numerous occasions in the public media stating that the calendar of the national examinations remains unaltered. Another great concern to the Committee is the efforts that have been put in place by the Ministry to ensure supply and distribution of food and provision of nutritional services to the learners in marginalized areas who would especially be benefiting from the Government's School Feeding Programme at this time. We have so many concerns that we have raised. The reports we got from the Ministry of Education in our Committee last week when we were discussing, were very unsatisfactory. We had suggested - I am yet to get the information today. In our last meeting the Cabinet Secretary had told us that he had formed a team to handle education matters during this time of COVID-19 but we were seeing that as if he was trying to run away from our concerns. I would like to inform the Senate that we are going to summon the Cabinet Secretary this week so that he appears before us and responds to our concerns. There are even two Statements that were referred to our Committee. Putting together all these concerns, we are going to make sure that they are addressed. It is good that Sen. Omogeni and Sen. (Dr.) Musuruve are Members of the Committee on Education. We are going to make sure that we summon the Cabinet Secretary to come to our Committee and respond to our concerns. We do not want to care much about what particular responses he made to the National Assembly. Somehow, in his report he was purporting that because he had gone to the National Assembly, maybe he thought that it was no longer necessary to come to our Committee. However, we are going to summon him and make it open, so that other Members of this House with other concerns may come and raise them during that particular time. Madam Temporary Speaker, I request that the Committee be given that opportunity this week, maybe up to next week, so that we continue pursuing the same matter. Thank you."
     },
     {
-      "order": 315,
+      "order": 312,
       "id": "entry-995123",
       "label": "speech",
       "level": "2",
@@ -3783,7 +3747,7 @@
       "text": "Hon. Senators, having dealt with Statements, I am informed that we cannot transact the business in Order Nos. 12, 13, 14, and 15. The same, therefore, stand deferred to the next Sitting."
     },
     {
-      "order": 316,
+      "order": 313,
       "id": "entry-995124",
       "label": "heading",
       "level": "1",
@@ -3795,7 +3759,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 317,
+      "order": 314,
       "id": "entry-995125",
       "label": "heading",
       "level": "2",
@@ -3807,7 +3771,7 @@
       "text": "THE PANDEMIC RESPONSE AND MANAGEMENT BILL (SENATE BILLS NO. 6 OF 2020)"
     },
     {
-      "order": 318,
+      "order": 315,
       "id": "entry-995126",
       "label": "scene",
       "level": "2",
@@ -3819,7 +3783,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 319,
+      "order": 316,
       "id": "entry-995127",
       "label": "heading",
       "level": "1",
@@ -3831,7 +3795,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 320,
+      "order": 317,
       "id": "entry-995128",
       "label": "heading",
       "level": "2",
@@ -3843,7 +3807,7 @@
       "text": "CONSIDERATION OF THE NATIONAL ASSEMBLY AMENDMENTS TO THE OFFICE OF THE COUNTY- ATTORNEY BILL (SENATE BILLS NO. 3 OF 2018)"
     },
     {
-      "order": 321,
+      "order": 318,
       "id": "entry-995129",
       "label": "scene",
       "level": "2",
@@ -3855,7 +3819,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 322,
+      "order": 319,
       "id": "entry-995130",
       "label": "heading",
       "level": "1",
@@ -3867,7 +3831,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 323,
+      "order": 320,
       "id": "entry-995131",
       "label": "heading",
       "level": "2",
@@ -3879,7 +3843,7 @@
       "text": "CONSIDERATION OF THE NATIONAL ASSEMBLY AMENDMENTS TO THE PETITION TO COUNTY ASSEMBLIES (PROCEDURE) BILL (SENATE BILLS NO. 22 OF 2018)"
     },
     {
-      "order": 324,
+      "order": 321,
       "id": "entry-995132",
       "label": "scene",
       "level": "2",
@@ -3891,7 +3855,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 325,
+      "order": 322,
       "id": "entry-995133",
       "label": "heading",
       "level": "1",
@@ -3903,7 +3867,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 326,
+      "order": 323,
       "id": "entry-995134",
       "label": "heading",
       "level": "2",
@@ -3915,7 +3879,7 @@
       "text": "CONSIDERATION OF THE NATIONAL ASSEMBLY AMENDMENTS TO THE COUNTY EARLY CHILDHOOD EDUCATION BILL (SENATE BILLS NO. 26 FEBRUARY OF 2018)"
     },
     {
-      "order": 327,
+      "order": 324,
       "id": "entry-995135",
       "label": "scene",
       "level": "2",
@@ -3927,7 +3891,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 328,
+      "order": 325,
       "id": "entry-995135-inserted-31e2f18f-5b4a-485f-ba28-62f58ea706e1",
       "label": "heading",
       "level": "2",
@@ -3939,7 +3903,7 @@
       "text": "CONSIDERATION OF THE NATIONAL ASSEMBLY AMENDMENTS TO THE COUNTY EARLY CHILDHOOD EDUCATION BILL (SENATE BILLS NO. 26 OF 2018)"
     },
     {
-      "order": 329,
+      "order": 326,
       "id": "entry-995136",
       "label": "speech",
       "level": "2",
@@ -3951,7 +3915,7 @@
       "text": "We move to the next Order."
     },
     {
-      "order": 330,
+      "order": 327,
       "id": "entry-995138",
       "label": "heading",
       "level": "1",
@@ -3963,7 +3927,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 331,
+      "order": 328,
       "id": "entry-995140",
       "label": "heading",
       "level": "3",
@@ -3975,7 +3939,7 @@
       "text": "THE REPRODUCTIVE HEALTHCARE BILL (SENATE BILLS NO. 23 OF 2019)"
     },
     {
-      "order": 332,
+      "order": 329,
       "id": "entry-995141",
       "label": "scene",
       "level": "3",
@@ -3987,7 +3951,7 @@
       "text": "(Sen. Kihika on 2.6.2020)"
     },
     {
-      "order": 333,
+      "order": 330,
       "id": "entry-995142",
       "label": "scene",
       "level": "3",
@@ -3999,7 +3963,7 @@
       "text": "(Resumption of debate interrupted 2.6.2020 - Morning Sitting)"
     },
     {
-      "order": 334,
+      "order": 331,
       "id": "entry-995143",
       "label": "speech",
       "level": "3",
@@ -4011,7 +3975,7 @@
       "text": "Sen. (Dr.) Musuruve, you had a balance of ten minutes."
     },
     {
-      "order": 335,
+      "order": 332,
       "id": "entry-995144",
       "label": "scene",
       "level": "3",
@@ -4023,7 +3987,7 @@
       "text": "(Sen. (Dr.) Musuruve spoke off microphone)"
     },
     {
-      "order": 336,
+      "order": 333,
       "id": "entry-995145",
       "label": "speech",
       "level": "3",
@@ -4035,7 +3999,7 @@
       "text": "You are not on the microphone."
     },
     {
-      "order": 337,
+      "order": 334,
       "id": "entry-995146",
       "label": "speech",
       "level": "3",
@@ -4047,7 +4011,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity once more to second this Bill. This Bill comes in handy to effect some important issues in our Constitution. It effects Article 53 on the rights of children, Article 14 on right to citizenship and Article 43 on tenable standards of health. It also effects the Abuja Declaration that Kenya signed and stated that 15 per cent of the national revenue needs to go to health to improve it. This Bill needs to be taken seriously to ensure that these Articles and what Kenya signed to during the Abuja Declaration are effected. The Bill will also ensure access to family planning services. According to this Bill, everyone has a right to get information about family planning. When it comes to issues of family planning, people need to be told about the various methods of family planning. They need to be told about the pros and cons, so that from that information, they make an informed decision on whether or not they are going to take family planning. Madam Temporary Speaker, apart from family planning, the Bill comes in to give a right to assisted reproduction. There are families where couples are barren. When this Bill takes effect, no family will say that they do not have children. That will be on their own accord because this Bill gives people a right to be assisted to have children. It also brings in the issue of gametes donation or sponsoring. Whoever is going to donate the gamete is told in advance the pros and cons. The gamete donor also needs to be told the right she has when it comes to a baby born out of gamete donation. The gamete sponsor has no right at all. Also, according to this Bill, there is an age limit for gamete sponsors. There is an age limit for commissioning parents, so a gamete sponsor should be someone who is mature. Apart from the person being mature, according to this Bill, the gametes have to be tested to see that they are good and that they are not infected. It is also important to take the biodata of the sponsor. We need to take age into consideration. When it comes to sponsoring gametes, they should be donated by people between the age of 21 to 50. This means that the gametes that will be donated will not bring forth a baby that is deformed or that cannot survive outside of the womb. This Bill states clearly that there is no compensation for the sponsor of a gamete. A gamete sponsor should not think that they will be compensated. There is no relationship between the gamete sponsor and the baby that is born. The baby to be born will get his or her rights as a child as stipulated in Article 53 of the Constitution. Madam Temporary Speaker, this Bill also allows for surrogate mothers. It legalizes surrogate motherhood. The surrogate mother is supposed to be informed in advance and to sign forms before a lawyer, so that she should not have any claim over the child that is born. She should know that she is carrying the baby for somebody else. When it comes to compensation, it is stipulated very clearly. The surrogate mother is supposed to be paid in terms of the maintenance of the baby while inside her womb, the maternity fees and all expenses that are related to the baby. When the baby is born, the contract comes to an end. So, this Bill has a conflict resolution mechanism. There is not going to be any form of conflict in being a surrogate mother or being a commissioning parent. It states clearly that if there is any misunderstanding, it should be resolved before the embryo is implanted in the mother. It means that immediately the embryo is implanted in her, there is no way anybody can change his or her mind. This Bill comes in handy to ensure that parents have children in a legal way. It also ensures that the children who come from these arrangements are under the shield of a parent who has been commissioned, meaning that that child will not lose all the rights of children as stipulated in Article 53 of our Constitution. It also states clearly that the citizenship of the baby will be that of the commissioning parent and not that of the surrogate mother. There is no way in which there can be any conflict. In any case, it speaks on the issue of conflict resolution. This agreement can be terminated before the implant or immediately after the pregnancy. For example, in a situation where the mother's life is at risk and the doctor determines that in order to protect the mother, he must terminate the pregnancy. So, in a situation where the pregnancy is terminated, the contract ends there. If the pregnancy is abortive, the surrogate mother needs to be compensated. The Bill states that the commissioning parent should be between the age of 25 to 50. This is an age where someone is mature enough to make decisions. Also, the person needs to be told in advance, the pros and cons so that they can decide whether or not to become surrogate parents. This Bill also talks about reproductive health of adolescents who have many times found themselves in problems. Adolescents need to be given mentorship programmes so that they get to know about their reproductive health. They also need to be guided morally because they lack information. For example, in a home set up, parents bring up their children but may not have the courage to talk to them about contraceptives or issues of surrogate parenting. However, this Bill speaks to that issue. The Bill also speaks to the issues of HIV in adolescents. We should also recommend abstinence in adolescents until such a time when they are of age. This Bill talks about contemporary issues that happen currently with regard to reproduction. This Bill mostly addresses the female. Sen. Kihika also needs to address the male. In the event a girl is impregnated, what should be done? There should be a fine for the person who does this. Most of the times, girls are criminalized for aborting or selling their children. This Bill rectifies the wrongs that are happening in society. I know that it will see the light at the end of the tunnel. Mostly, women suffer when it comes to issues of infertility. You will find a husband going out to experiment to find out whether he is able to get children and the woman becomes the villain. This Bill is the solution to all wrongs that are in a family, adolescents and reproductive healthcare. Therefore, there is need to provide healthcare to our people. There is also need to abide to the Abuja Declaration where all Governments decided to set aside 15 per cent of national revenue for health. The good thing about this Bill is that the national Government cannot work as a stand-alone. It recommends that the national Government should work with county governments to ensure that Article 43 of the Constitution is effected so that there is maternal healthcare. The personnel who will execute this should be trained and skilled. Counties should also be facilitated in order to come up with equipment that will support maternal health. This Bill also ensures that we have less mortality rates in the counties. I second this Bill which will not only help women but families as well. Thank you, for giving me an opportunity to second this Bill."
     },
     {
-      "order": 338,
+      "order": 335,
       "id": "entry-995158",
       "label": "scene",
       "level": "3",
@@ -4059,7 +4023,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 339,
+      "order": 336,
       "id": "entry-995159",
       "label": "speech",
       "level": "3",
@@ -4071,7 +4035,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to support this Bill. I thank Sen. Kihika for coming up with this very important Bill whose objectives are to provide the right to reproductive healthcare, to set standards of reproductive health, to provide the right to make decisions regarding reproductive health and for connected purposes. Madam Temporary Speaker, this Bill is very important because it gives the obligations of the national Government. In Clause 4, the national Government shall - (a) put in place the necessary mechanism and infrastructure to facilitate access to the highest attainable standards. Madam Temporary Speaker, right now, there is a shortage of health facilities which help adolescents, or people who need the health facilities in their areas. The Government has to allocate more funds for the establishment of more health centers. Madam Temporary Speaker, Clause 4 (h) says very clearly that: \"The national Government has to carry out sensitization programmes on family planning methods and services.\" When offering sensitization to the people who are involved, they must elaborate and give more information concerning the family planning methods and services. We have many side effects of family planning methods. For instance, they should clearly outline the side effects of Depo injection. When women are using these family planning methods, majority of the ladies over-bleed. They should train healthcare workers on how to use the family planning methods. Madam Temporary Speaker, Clause 32 (2) on confidentiality states: \"A health practitioner who contravenes the provision of subsection (1) shall be subject to the disciplinary processes by the relevant health professional regulatory body.\" Madam Temporary Speaker, when a patient goes to the hospital, the information remains confidential between the patient and the doctor. The doctor is not allowed to give out more information concerning the patient. Madam Temporary Speaker, Part VII of reproductive health of adolescents, this is where many adolescents need more information. This one should start in primary schools when the girls attain the age of 12 years and above. Adequate information includes how to clean the reproductive areas. Many ladies do not know how to clean themselves. High hygiene is more important. It does not mean that you have to go to the hospital. Ladies are supposed to do exercise, drink adequate water and eat a balanced diet. Madam Temporary Speaker, this Bill clearly states how the termination of pregnancy should be done. Many churches are against abortion. I agree with them, but when the life of a mother who is carrying the baby is at risk, abortion can be offered to terminate the pregnancy and save life. I thank you and I support this Bill."
     },
     {
-      "order": 340,
+      "order": 337,
       "id": "entry-995161",
       "label": "speech",
       "level": "3",
@@ -4083,7 +4047,7 @@
       "text": "I do not see any more requests. Sen. Shiyonga, kindly, proceed."
     },
     {
-      "order": 341,
+      "order": 338,
       "id": "entry-995162",
       "label": "speech",
       "level": "3",
@@ -4095,7 +4059,7 @@
       "text": "Thank you, Madam Temporary Speaker for giving me this opportunity to contribute to the Reproductive Health Bill. I want to salute Sen. Kihika for coming up with this Bill because it touches on the life of human beings. It also touches on the life of the community because life begins with a mother. When we have a Bill on reproductive health and when you see how clauses have been arranged here, then we note that there is a lot that we need to applaud Sen. Kihika for. I want to go straight to the point that my colleague has touched on, with regard to termination of pregnancy. In this Bill, Sen. Kihika has stated very well how a pregnancy can be terminated. There are many quacks in Kenya who have come up disguised as doctors or nurses. There is so much that is going on and life is being threatened when it comes to termination of pregnancies. If this Bill passes and is signed into law, there is much that can be aligned to it, especially when terminating pregnancies. The three issues aligned here on termination include, where there is need for emergency treatment and the pregnancy could endanger the life or health of the mother or where there exists substantial risk that the foetus will suffer from severe physical and mental abnormalities that are incompatible with life outside the womb. These are three concrete reasons why we say that this Bill needs to pass. If at all the community is going to be subjected to such Bills and it follows well what is stated here, then they cannot in one way or another claim that a woman who undergoes these procedure has procured an abortion. Madam Temporary Speaker, confidentiality in health comes first. Confidentiality of any person's health records or information must be paramount. A person who possesses information by virtue of this Act shall not divulge such information to any person except otherwise, provided. Nowadays health practitioners divulge their clients' or patients' medical conditions before informing them and that is when you find strangers talking about people's health. An example is the COVID-19 disease that we are living with right now; you find that everyone is a suspect and everyone is stigmatized. When this Bill becomes law, it will limit information leaking to people who are not necessarily supposed to be the owners or authors of that information. It is important that confidentiality as enacted here, especially with the regard to health practitioners, remains the way it is. I fully support this Bill because if what is in this Bill is adhered to and not misused, then we have a Bill that the Ministry of Health will ride on. It will also result to better information instead of subjecting people to fear and stigmatization. This Bill speaks to itself and is straightforward. It has all the legal information that we need to get and all the rights that people deserve, especially rights to reproductive health and how we can manage information when it comes to reproductive health. When it comes to reproductive health, men seem to be an island of their own. They are not anywhere near. Once you have the baby in your womb, it is no longer the duty and responsibility of a man. When we talk about legal fees and the responsibilities of a family when it comes to reproductive health, the child belongs to that family. Both a man and a woman need to be there and be subjected to the all the dangers the woman will go through until birth. Madam Temporary Speaker, I congratulate her again. Let us all support this Bill because it stands not only for women, but the community. It stands for the Ministry of Health because it strengthens it more than what it was. If the Ministry of Health has such Bills, then it has the right to make the information reach a common citizen who needs to know what is there and what is meant for them. I thank everyone who has contributed. It is a good Bill, and I support."
     },
     {
-      "order": 342,
+      "order": 339,
       "id": "entry-995166",
       "label": "speech",
       "level": "3",
@@ -4107,7 +4071,7 @@
       "text": "I see that Sen. Kihika is not here to make a response. Sen. Farhiya, do you want to contribute?"
     },
     {
-      "order": 343,
+      "order": 340,
       "id": "entry-995167",
       "label": "speech",
       "level": "3",
@@ -4119,7 +4083,7 @@
       "text": "Madam Temporary Speaker, I have a request."
     },
     {
-      "order": 344,
+      "order": 341,
       "id": "entry-995168",
       "label": "speech",
       "level": "3",
@@ -4131,7 +4095,7 @@
       "text": "Let us proceed to the next stage. Can you make your request?"
     },
     {
-      "order": 345,
+      "order": 342,
       "id": "entry-995169",
       "label": "speech",
       "level": "3",
@@ -4143,7 +4107,7 @@
       "text": "Thank you, Madam Temporary Speaker. Given the sensitivity and importance of this Bill, I have a request. There are cases where the mother's health is at risk and termination is allowed. That is very contentious because some quacks are conducting abortions even now without good reason. If they get hold of this provision, then it is subject to be misused. Because of the interest in these matters, I am requesting that you put the question at a later date in respect of this Bill, pursuant to Standing Order No. 61 (3). I thank you."
     },
     {
-      "order": 346,
+      "order": 343,
       "id": "entry-995170",
       "label": "speech",
       "level": "3",
@@ -4155,7 +4119,7 @@
       "text": "The Bill is, therefore, deferred to the next Sitting. The question will be put then when we have enough numbers for Division."
     },
     {
-      "order": 347,
+      "order": 344,
       "id": "entry-995171",
       "label": "scene",
       "level": "3",
@@ -4167,7 +4131,7 @@
       "text": "(Putting of the question on the Bill deferred)"
     },
     {
-      "order": 348,
+      "order": 345,
       "id": "entry-995172",
       "label": "speech",
       "level": "3",
@@ -4179,7 +4143,7 @@
       "text": "We move to the next Order."
     },
     {
-      "order": 349,
+      "order": 346,
       "id": "entry-995173",
       "label": "heading",
       "level": "1",
@@ -4191,7 +4155,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 350,
+      "order": 347,
       "id": "entry-995174",
       "label": "heading",
       "level": "3",
@@ -4203,7 +4167,7 @@
       "text": "THE NATIONAL DROUGHT MANAGEMENT AUTHORITY (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO. 26 OF 2019)"
     },
     {
-      "order": 351,
+      "order": 348,
       "id": "entry-995175",
       "label": "speech",
       "level": "3",
@@ -4215,7 +4179,7 @@
       "text": "The Senate Majority Leader, proceed."
     },
     {
-      "order": 352,
+      "order": 349,
       "id": "entry-995176",
       "label": "speech",
       "level": "3",
@@ -4227,7 +4191,7 @@
       "text": "Madam Temporary Speaker, on behalf of the Senate Majority Leader, I also request that this Bill be deferred to the next Sitting."
     },
     {
-      "order": 353,
+      "order": 350,
       "id": "entry-995177",
       "label": "speech",
       "level": "3",
@@ -4239,7 +4203,7 @@
       "text": "I direct that the Bill be deferred to the next Sitting."
     },
     {
-      "order": 354,
+      "order": 351,
       "id": "entry-995178",
       "label": "scene",
       "level": "3",
@@ -4251,7 +4215,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 355,
+      "order": 352,
       "id": "entry-995179",
       "label": "speech",
       "level": "3",
@@ -4263,7 +4227,7 @@
       "text": "Next Order."
     },
     {
-      "order": 356,
+      "order": 353,
       "id": "entry-995180",
       "label": "heading",
       "level": "1",
@@ -4275,7 +4239,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 357,
+      "order": 354,
       "id": "entry-995181",
       "label": "heading",
       "level": "3",
@@ -4287,7 +4251,7 @@
       "text": "THE WILDLIFE CONSERVATION AND MANAGEMENT (AMENDMENT) BILL (SENATE BILLS NO.24 OF 2019)"
     },
     {
-      "order": 358,
+      "order": 355,
       "id": "entry-995182",
       "label": "speech",
       "level": "3",
@@ -4299,7 +4263,7 @@
       "text": "Sen. Mwaruma is not here. The Bill is deferred to the next Sitting."
     },
     {
-      "order": 359,
+      "order": 356,
       "id": "entry-995183",
       "label": "scene",
       "level": "3",
@@ -4311,7 +4275,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 360,
+      "order": 357,
       "id": "entry-995184",
       "label": "speech",
       "level": "3",
@@ -4323,7 +4287,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 361,
+      "order": 358,
       "id": "entry-995185",
       "label": "heading",
       "level": "1",
@@ -4335,7 +4299,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 362,
+      "order": 359,
       "id": "entry-995186",
       "label": "heading",
       "level": "3",
@@ -4347,7 +4311,7 @@
       "text": "THE LAW OF SUCCESSION (AMENDMENT) BILL (SENATE BILLS NO.1 OF 2020)"
     },
     {
-      "order": 363,
+      "order": 360,
       "id": "entry-995187",
       "label": "speech",
       "level": "3",
@@ -4359,7 +4323,7 @@
       "text": "The Bill is deferred to the next Sitting."
     },
     {
-      "order": 364,
+      "order": 361,
       "id": "entry-995188",
       "label": "scene",
       "level": "3",
@@ -4371,7 +4335,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 365,
+      "order": 362,
       "id": "entry-995189",
       "label": "speech",
       "level": "3",
@@ -4383,7 +4347,7 @@
       "text": "Next Order."
     },
     {
-      "order": 366,
+      "order": 363,
       "id": "entry-995190",
       "label": "heading",
       "level": "1",
@@ -4395,7 +4359,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 367,
+      "order": 364,
       "id": "entry-995191",
       "label": "heading",
       "level": "3",
@@ -4407,7 +4371,7 @@
       "text": "THE COUNTY RESOURCE DEVELOPMENT BILL (SENATE BILLS NO.20 OF 2020)"
     },
     {
-      "order": 368,
+      "order": 365,
       "id": "entry-995192",
       "label": "speech",
       "level": "3",
@@ -4419,7 +4383,7 @@
       "text": "Sen. Nyamunga is not here. The Bill is, therefore, deferred to the next Sitting."
     },
     {
-      "order": 369,
+      "order": 366,
       "id": "entry-995193",
       "label": "scene",
       "level": "3",
@@ -4431,7 +4395,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 370,
+      "order": 367,
       "id": "entry-995194",
       "label": "speech",
       "level": "3",
@@ -4443,7 +4407,7 @@
       "text": "Next Order!"
     },
     {
-      "order": 371,
+      "order": 368,
       "id": "entry-995195",
       "label": "heading",
       "level": "1",
@@ -4455,7 +4419,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 372,
+      "order": 369,
       "id": "entry-995197",
       "label": "heading",
       "level": "3",
@@ -4467,7 +4431,7 @@
       "text": "THE PROMPT PAYMENT BILL (SENATE BILLS NO. 3 OF 2020)"
     },
     {
-      "order": 373,
+      "order": 370,
       "id": "entry-995198",
       "label": "speech",
       "level": "3",
@@ -4479,7 +4443,7 @@
       "text": "Sen. Farhiya, proceed."
     },
     {
-      "order": 374,
+      "order": 371,
       "id": "entry-995199-split-before-00b259a8-3333-4f98-befa-5e5b3b51f83d",
       "label": "speech",
       "level": "3",
@@ -4491,7 +4455,7 @@
       "text": "Thank you, Madam Temporary Speaker for allowing me to move this Bill. Madam Temporary Speaker, as you are aware, prompt payment, especially in counties that this House represents has been a challenge. This Bill is meant to create a framework to facilitate prompt payment for goods supplied, works and services procured by Government entities, both at national and county level. Articles 201 (d) and (e) of the Constitution on Principles of Public Finance provides as follow:\n\n(d) Public money shall be used in a prudent and responsible way; and\n\n(e) Financial management shall be responsible, and fiscal reporting shall be clear. The prudent management of financial public funds include meeting of financial obligations by procuring agents. There is no point in giving people business if you are not willing to pay them on time. Sen. Sakaja and I were prompted to sponsor this Bill in December, 2018 when there was a request from the Senator of Kitui County for payment of suppliers who had been engaged by the previous governor. I was a Member of the Committee on Finance and Budget. On that particular day, I was Chairing because both the Chairperson and the Vice Chairperson were not there. There were a lot of issues that transpired on how Kenyans were being harassed with regard to their payments. Some of the issues that were dispensed with together with the suppliers who appeared before us were such that some of them lost their properties. As a result, some lost their lives due to heart attack. It was such a grueling experience considering the way those people were treated. In my view, this Bill is overdue and it is something that we need to dispense with. The Bill recognizes that apart from giving effect to principles of public finance, prompt settlement of bills, it also promotes roads, extensions and supports the robust growth of the economy. We all know resources are limited. If payments are not done by a county and suppliers keep on supplying and committing all their money in a contract that was awarded either by the national or county governments and they are not paid on time, even the money circulating in the economy is affected. By extension, our Gross Domestic Product (GDP) and economy in general will be affected. Therefore, this Bill is addressing all that. A vibrant economy with numerous benefits such as increasing the rate of employment and people being paid on time increases the rate of employment, growth in revenue collection from thriving business and investor confidence in the country. At a macro level, the Bill seeks to solve the problem of late payment to suppliers for goods and services and to work as an impetus for growth for business and economic development. Madam Temporary Speaker, let me speak to the salient provisions of the Bill. At the onset, the Bill proposes to require procurement entities at the national and county government to pay suppliers on the prescribed date in terms of when the bill should be settled. If it is not settled by the prescribed date, this Bill recommends that the procuring agency shall pay interest to the suppliers in accordance with the section on the amount due under the contract for supply of goods and work services. The Bill provides maximum interest rates chargeable based on rates set and published by the Central Bank of Kenya. This is important because this Bill does not give a fixed interest. The danger of fixing the interest rate is that at some point, if the economy is thriving and there is much more money for people to borrow, the interest rates tend to come down. There are so many factors that impact the interest rate. If some of the factors are favouring the interest rates, sometimes they come down or go up. For example, the Government does what we call crowding out of local investors; them not borrowing from the local economy. Instead of people lending to the Government, they lend to small business people. If that happens, the interest rates tend to come down. To avoid a situation whereby the prescribed interest rate is too high or too low and not in tandem with the current prevailing interest rates, we based this on the Central Bank of Kenya reviewed interest rates depending on specific time of the year and circumstances. Based on that, then it can fluctuate depending on economic circumstances. Because of that, this Bill proposes to fix the interest rates according to the Central Bank of Kenya rates. The Bill proposes to place an obligation on a procuring entity to ensure that priority is given to suppliers of outstanding debts for supply of goods and services in procuring entities. In this respect, the Bill provides that determining which debts shall be given priority by a procuring entity shall be regarded to the date upon which payment fell due and shall pay debt in a chronological order. Madam Temporary Speaker, the reason why it is important for bills to be paid in chronological order. I know my own county, Wajir County, bills come and a request is made to the Controller of Budget for payment to certain suppliers. However, once the money hits the account of the county government, the county government diverts it to other use other than the intended purpose when the requested payment was made to the National Government. This is why chronological order has to be in place. The first bills that come are the first to be paid. The reason why chronological order is important, as you are aware, corruption in public entities happens in two stages: The first stage is where people are bidding and corruption influences awarding of the contracts. The second stage is once you supply or sometime \"air\" is supplied according to what we have heard, those who supply \"air\" are given priority when payment is being done. If we pass this Bill, it will reduce half of the corruption that happens in a procuring entity. When we went to our Parliamentary Group meeting at State House as Jubilee Members, the President retaliated that."
     },
     {
-      "order": 375,
+      "order": 372,
       "id": "entry-995204",
       "label": "speech",
       "level": "3",
@@ -4503,7 +4467,7 @@
       "text": "Order! Sen. Farhiya, you will have a balance of 50 minutes when this matter is next listed in the Order Paper."
     },
     {
-      "order": 376,
+      "order": 373,
       "id": "entry-995206",
       "label": "heading",
       "level": "1",
@@ -4515,7 +4479,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 377,
+      "order": 374,
       "id": "entry-995207",
       "label": "speech",
       "level": "1",

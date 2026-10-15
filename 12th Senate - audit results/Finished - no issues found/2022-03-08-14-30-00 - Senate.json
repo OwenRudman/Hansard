@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2022-03-08-14-30-00",
-  "exported_at": "2026-10-05T08:11:26.503Z",
+  "exported_at": "2026-10-15T19:34:13.346Z",
   "entries": [
     {
       "order": 1,
@@ -2013,10 +2013,10 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. Pareno)",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
-      "text": "(Sen. Pareno) Which Order?"
+      "text": "Which Order?"
     },
     {
       "order": 169,

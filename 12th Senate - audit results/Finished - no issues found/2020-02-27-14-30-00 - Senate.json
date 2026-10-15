@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2020-02-27-14-30-00",
-  "exported_at": "2026-10-05T08:06:13.554Z",
+  "exported_at": "2026-10-15T19:30:30.821Z",
   "entries": [
     {
       "order": 1,
@@ -1305,7 +1305,7 @@
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
       "text": "by the suggestion that was given by Sen. Mutula Kilonzo Jnr. that we reduce our time further to three minutes, maximum. Please be gracious enough to use one minute if you can, so that we finish it in the next ten minutes. Proceed, Sen. Nyamunga."
@@ -1545,7 +1545,7 @@
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Temporary Speaker",
       "reviewed": true,
       "text": "I see Sen. Halake has a point of order."
@@ -2064,22 +2064,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil"
     },
     {
       "order": 173,
-      "id": "entry-977482",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Temporary Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 174,
       "id": "entry-977483",
       "label": "speech",
       "level": "3",
@@ -2091,7 +2079,7 @@
       "text": "Hon. Senators, the results of the voting are as follows-\n\nAYES:\n\n24\n\nNOES"
     },
     {
-      "order": 175,
+      "order": 174,
       "id": "entry-977487",
       "label": "speech",
       "level": "3",
@@ -2100,22 +2088,10 @@
       "speaker": "Margaret Kamar",
       "speaker_title": "(The Temporary Speaker)",
       "reviewed": true,
-      "text": ": Nil\n\nABSTENTIONS"
+      "text": ": Nil\n\nABSTENTIONS\n\n: Nil"
     },
     {
-      "order": 176,
-      "id": "entry-977489",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Margaret Kamar",
-      "speaker_title": "(The Temporary Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 177,
+      "order": 175,
       "id": "entry-977490",
       "label": "scene",
       "level": "3",
@@ -2127,7 +2103,7 @@
       "text": "(Question carried by 24 votes to nil)"
     },
     {
-      "order": 178,
+      "order": 176,
       "id": "entry-977491",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2115,7 @@
       "text": "You can now unlock the Doors and draw the Bars."
     },
     {
-      "order": 179,
+      "order": 177,
       "id": "entry-977492",
       "label": "scene",
       "level": "3",
@@ -2151,7 +2127,7 @@
       "text": "(The Bars were drawn and door opened\n\n)"
     },
     {
-      "order": 180,
+      "order": 178,
       "id": "entry-977494",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2139,7 @@
       "text": "Hon. Senators, please take your seats. We are now on Order No.8."
     },
     {
-      "order": 181,
+      "order": 179,
       "id": "entry-977495",
       "label": "heading",
       "level": "1",
@@ -2175,7 +2151,7 @@
       "text": "MOTION"
     },
     {
-      "order": 182,
+      "order": 180,
       "id": "entry-977496",
       "label": "heading",
       "level": "3",
@@ -2187,7 +2163,7 @@
       "text": "APPROVAL OF THE SENATE CALENDAR FOR THE 2020 SESSION"
     },
     {
-      "order": 183,
+      "order": 181,
       "id": "entry-977497",
       "label": "speech",
       "level": "3",
@@ -2199,7 +2175,7 @@
       "text": "Madam Temporary Speaker, I beg to move the following Motion- THAT, pursuant to Standing Order 29(1), this House approves the Senate Calendar (Regular Sessions) for the Fourth Session ( February toDecember, 2020 ), laid on the Table of the House on Wednesday, 26th February, 2020. Madam Temporary Speaker, the Senate Calendar was laid on the Table on Wednesday. It starts from 13th February to 3rd December, 2020. During this period, there will be the Devolution Conference, the Legislative Summit and the meeting of the Senate outside Nairobi, and all that has been taken into account. The Devolution Conference and the Legislative Summit are done in consultation with the Council of Governors (CoG) and other arms of Government. So, that has also been taken into account. I hope that this Calendar will be adopted by this House. I beg to move and ask Sen. Mutula Kilonzo Jnr. to second."
     },
     {
-      "order": 184,
+      "order": 182,
       "id": "entry-977499",
       "label": "speech",
       "level": "3",
@@ -2211,7 +2187,7 @@
       "text": ".: Thank you, Madam Temporary Speaker. I rise to second the Calendar of events and reiterate the comments by the Mover, Sen. (Eng.) Mahamud, that Senators and Committees should note the Legislative Summit in Nakuru County, the Devolution Conference in Makueni County and the Senate Mashinani in September, so that they can plan accordingly. I, therefore, second the Motion."
     },
     {
-      "order": 185,
+      "order": 183,
       "id": "entry-977500",
       "label": "scene",
       "level": "3",
@@ -2223,7 +2199,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 186,
+      "order": 184,
       "id": "entry-977501",
       "label": "speech",
       "level": "3",
@@ -2235,7 +2211,7 @@
       "text": "Madam Temporary Speaker, I rise to support the Motion and make one observation. Note number three on the Calendar says, \"Annual suspension of Committee sittings from 14th December, 2020 to 29th January, 2021.\" I appreciate that it is usually necessary to provide staff with an opportunity to take their leave and provide Members with an opportunity to go to their counties and interact with the electorate. However, I encourage the SBC and the Clerk to consider Sessional Committees and allow them to continue to do their business with due regard to the festive season. As we speak, the Senate has not reconstituted Sessional Committees, while those of the other House are up and running. I know that they were constituted at the beginning of the session. However, it was visible that some of them were working during recess time. So, my only comment, while I support this, is to ensure that there is some flexibility for Sessional Committees. That will give them an opportunity to complete their work, do their reports, tie them properly and bring them to the House. In a subsequent session, if a new team is selected, we will not have arguments about work that was left unfinished. Madam Temporary Speaker, with that observation, which I hope the SBC and the Clerk will look into, I support the Calendar."
     },
     {
-      "order": 187,
+      "order": 185,
       "id": "entry-977502",
       "label": "speech",
       "level": "3",
@@ -2247,7 +2223,7 @@
       "text": "Thank you, Madam Temporary Speaker. I support this Calendar as it is. If you talk to Members informally outside the Chamber, you will realise that they have always suggested a different way of approaching House Business. Most of them feel that insufficient time is dedicated to look into matters of oversight, particularly reports of County Public Accounts and Investment Committee (CPAIC) and others, which should bring into focus what we do, as a Senate. I propose that those responsible for such programmes listen to the feelings of Members. We want to debate issues that relate to misuse of public resources in our counties. We also want to hold into account those we are supposed to oversight under Article 96 of the Constitution. So, in future, when this kind of programme is done, I hope that, that matter will be factored."
     },
     {
-      "order": 188,
+      "order": 186,
       "id": "entry-977504",
       "label": "speech",
       "level": "3",
@@ -2259,7 +2235,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity. We spend a lot of time working on Bills and other things. However, nobody tells us why our Bills do not move forward in the other House. In the first year, I sponsored a Bill on statistics and up to now, I do not know its status. Some of the Bills take one year to prepare, but when they go to the other House, there are a lot of amendments and contributions from Members and, at the end of the day, nothing comes out of it. Madam Temporary Speaker, let us work differently this year. It is incumbent upon the leadership of this House to follow up with the leadership of the other House to ensure that the business of this House does not come to a halt. Sometimes we are discouraged. We have the Committee on Justice, Legal Affairs and Human Rights, which does a good job. Therefore, it should advise us if certain Bills should not originate from this House. This needs to change this year. I, therefore, request the SBC to follow up, because we need answers this time round. We cannot lament all the time."
     },
     {
-      "order": 189,
+      "order": 187,
       "id": "entry-977505",
       "label": "speech",
       "level": "3",
@@ -2271,7 +2247,7 @@
       "text": "Thank you. There being no other request, I now put the question."
     },
     {
-      "order": 190,
+      "order": 188,
       "id": "entry-977506",
       "label": "scene",
       "level": "3",
@@ -2283,7 +2259,7 @@
       "text": "(Question put agreed to)"
     },
     {
-      "order": 191,
+      "order": 189,
       "id": "entry-977507",
       "label": "speech",
       "level": "3",
@@ -2295,7 +2271,7 @@
       "text": "Hon. Senators, for the convenience of the House, Order Nos.10, 11, 12,13,14,15 and 16 are all at the Division stage, so, we defer up to Order Nos.16 and 17. The mover is out of the country on official duty."
     },
     {
-      "order": 192,
+      "order": 190,
       "id": "entry-977508",
       "label": "heading",
       "level": "1",
@@ -2307,7 +2283,7 @@
       "text": "BILLS\nSecond Reading"
     },
     {
-      "order": 193,
+      "order": 191,
       "id": "entry-977510",
       "label": "heading",
       "level": "3",
@@ -2319,7 +2295,7 @@
       "text": "THE STATUTE LAW (MISCELLANEOUS AMENDMENTS) (NO. 2) BILL (NATIONAL ASSEMBLY BILLS NO. 13 OF 2018)"
     },
     {
-      "order": 194,
+      "order": 192,
       "id": "entry-977511",
       "label": "scene",
       "level": "3",
@@ -2331,7 +2307,7 @@
       "text": "(Bill Deferred)"
     },
     {
-      "order": 195,
+      "order": 193,
       "id": "entry-977512",
       "label": "heading",
       "level": "1",
@@ -2343,7 +2319,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 196,
+      "order": 194,
       "id": "entry-977513",
       "label": "heading",
       "level": "3",
@@ -2355,7 +2331,7 @@
       "text": "THE SACCO SOCIETIES (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO. 1 OF 2018)"
     },
     {
-      "order": 197,
+      "order": 195,
       "id": "entry-977514",
       "label": "scene",
       "level": "3",
@@ -2367,7 +2343,7 @@
       "text": "(Bill Deferred)"
     },
     {
-      "order": 198,
+      "order": 196,
       "id": "entry-977516",
       "label": "heading",
       "level": "1",
@@ -2379,7 +2355,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 199,
+      "order": 197,
       "id": "entry-977517",
       "label": "heading",
       "level": "3",
@@ -2391,7 +2367,7 @@
       "text": "THE FISHERIES MANAGEMENT AND DEVELOPMENT (AMENDMENT) BILL (SENATE BILLS NO. 22 OF 2019)"
     },
     {
-      "order": 200,
+      "order": 198,
       "id": "entry-977518",
       "label": "scene",
       "level": "3",
@@ -2403,7 +2379,7 @@
       "text": "(Bill Deferred)"
     },
     {
-      "order": 201,
+      "order": 199,
       "id": "entry-977519",
       "label": "heading",
       "level": "1",
@@ -2415,7 +2391,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 202,
+      "order": 200,
       "id": "entry-977520",
       "label": "heading",
       "level": "3",
@@ -2427,7 +2403,7 @@
       "text": "THE INDEPENDENT ELECTORAL AND BOUNDARIES COMMISSION (AMENDMENT) (NO. 3) BILL (NATIONAL ASSEMBLY BILLS NO.35 OF 2019)"
     },
     {
-      "order": 203,
+      "order": 201,
       "id": "entry-977521",
       "label": "scene",
       "level": "3",
@@ -2439,7 +2415,7 @@
       "text": "(Bill Deferred)"
     },
     {
-      "order": 204,
+      "order": 202,
       "id": "entry-977522",
       "label": "heading",
       "level": "1",
@@ -2451,7 +2427,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 205,
+      "order": 203,
       "id": "entry-977523",
       "label": "heading",
       "level": "2",
@@ -2463,7 +2439,7 @@
       "text": "CONSIDERATION OF THE NATIONAL ASSEMBLY AMENDMENTS TO THE OFFICE OF THE COUNTY ATTORNEY BILL (SENATE BILLS NO. 3 OF 2018)"
     },
     {
-      "order": 206,
+      "order": 204,
       "id": "entry-977524",
       "label": "scene",
       "level": "2",
@@ -2475,7 +2451,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 207,
+      "order": 205,
       "id": "entry-977525",
       "label": "heading",
       "level": "2",
@@ -2487,7 +2463,7 @@
       "text": "CONSIDERATION OF THE NATIONAL ASSEMBLY AMENDMENTS TO THE PETITION TO COUNTY ASSEMBLIES (PROCEDURE) BILL (SENATE BILLS NO. 22 OF 2018)"
     },
     {
-      "order": 208,
+      "order": 206,
       "id": "entry-977526",
       "label": "scene",
       "level": "2",
@@ -2499,7 +2475,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 209,
+      "order": 207,
       "id": "entry-977527",
       "label": "heading",
       "level": "2",
@@ -2511,7 +2487,7 @@
       "text": "CONSIDERATION OF THE NATIONAL ASSEMBLY AMENDMENTS TO THE EARLY CHILDHOOD EDUCATION BILL (SENATE BILLS NO. 26 OF 2018)"
     },
     {
-      "order": 210,
+      "order": 208,
       "id": "entry-977528",
       "label": "scene",
       "level": "2",
@@ -2523,7 +2499,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 211,
+      "order": 209,
       "id": "entry-977529",
       "label": "heading",
       "level": "2",
@@ -2535,7 +2511,7 @@
       "text": "THE KENYA MEDICAL SUPPLIES AUTHORITY (AMENDMENT) BILL (SENATE BILLS NO. 38 OF 2018)"
     },
     {
-      "order": 212,
+      "order": 210,
       "id": "entry-977530",
       "label": "scene",
       "level": "2",
@@ -2547,7 +2523,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 213,
+      "order": 211,
       "id": "entry-977531",
       "label": "speech",
       "level": "2",
@@ -2559,7 +2535,7 @@
       "text": "Hon. Senators, on Order No.18, we are informed that it should be deferred after consultation."
     },
     {
-      "order": 214,
+      "order": 212,
       "id": "entry-977533",
       "label": "heading",
       "level": "2",
@@ -2571,7 +2547,7 @@
       "text": "THE COUNTY HALL OF FAME BILL (SENATE BILLS NO. 39 OF 2019)"
     },
     {
-      "order": 215,
+      "order": 213,
       "id": "entry-977534",
       "label": "scene",
       "level": "2",
@@ -2583,7 +2559,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 216,
+      "order": 214,
       "id": "entry-977535",
       "label": "speech",
       "level": "2",
@@ -2595,7 +2571,7 @@
       "text": "Order No.19 on the Motion of the Adoption of the Report of the Parliament of Kenya Delegation to the 7th Symposium of the Independent Commission against Corruption (CAC) was interrupted on Tuesday the 25th February, 2020 and there was still a balance of time; is there anybody wishing to debate?"
     },
     {
-      "order": 217,
+      "order": 215,
       "id": "entry-977536",
       "label": "heading",
       "level": "1",
@@ -2607,7 +2583,7 @@
       "text": "MOTION"
     },
     {
-      "order": 218,
+      "order": 216,
       "id": "entry-977537",
       "label": "heading",
       "level": "3",
@@ -2619,7 +2595,7 @@
       "text": "NOTING OF THE REPORT ON 7TH SYMPOSIUM OF THE INDEPENDENT COMMISSION AGAINST CORRUPTION"
     },
     {
-      "order": 219,
+      "order": 217,
       "id": "entry-977538",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2607,7 @@
       "text": "THAT, the Senate notes the Report of the Parliament of Kenya Delegation to the 7thSymposium of the Independent Commission against Corruption of Hong Kong (ICAC) held in Hong Kong on 22-24, May 2019 and laid on the Table of the Senate on Wednesday, 19thFebruary, 2020."
     },
     {
-      "order": 220,
+      "order": 218,
       "id": "entry-977539",
       "label": "scene",
       "level": "3",
@@ -2643,7 +2619,7 @@
       "text": "(Sen. (Dr.) Mwaura on 19.2.2020)"
     },
     {
-      "order": 221,
+      "order": 219,
       "id": "entry-977540",
       "label": "scene",
       "level": "3",
@@ -2655,7 +2631,7 @@
       "text": "(Resumption of debate interrupted on 25.2.2020)"
     },
     {
-      "order": 222,
+      "order": 220,
       "id": "entry-977541",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2643,7 @@
       "text": "Madam Temporary Speaker, I rise to support the Report of the Parliament of Kenya Delegation to the 7th Symposium of the Independent Commission Against Corruption (CAC) of Hong Kong, that was held in Hong Kong on 22nd to 24th of May, 2019. Kenyans, in their usual comedy, have said that the Coronavirus that we welcomed at our airports just the other day when we allowed a flight full of passengers from China should start with Parliament before it goes to other sectors of society. That tells you a lot about how Kenyans think about Parliament. Therefore, when a delegation of the Kenyan Parliament goes to Hong Kong to discuss anti-corruption, then it is met with a lot of skepticism and cynicism on the part of Kenyans. Another Kenyan, in their usual satire, said that the biggest gathering of thieves is found in the Kenyan Parliament. I think that it is very unfortunate. I do not agree with them, because those of us who are in this august House are nowhere close to that. We are public spirited individuals who are sitting here at this time of the day to legislate and discuss issues of national importance; but sometimes it is about perception. Perception tramps reality, and it has been the view of many Kenyans that this House has not done well as far as matters of corruption are concerned. We have a caucus in this Parliament called the African Parliamentarians Network against Corruption (APNAC), and the leader of the Caucus is none other than the Speaker of the National Assembly. APNAC has done a great job in representing the Kenyan Parliament in international forums and other caucuses to discuss how to deal with corruption. Unfortunately, the case study of Kenya is not one that encourages a lot of sympathy whenever we go for APNAC sessions or whenever we go for conferences on anti-corruption. Every other week that passes, there is corruption in the public and private sector. Last year, the Committee on Liaison sponsored a few Members to go to Malaysia, and part of the conversation with the Malaysian Anti-Corruption Commission was to share experiences in the battle against corruption between the two countries. We know that the Malaysian political environment was rocked with serious corruption allegations in what was called the 1Malaysia Development Berhad's (1MDBs) Scandal, that led to the ouster the country's Prime Minister. It also gave rise to the oldest Prime Minister on earth, in the name of Prime Minister Mahathir bin Mohamed. Just last week, if not this week, the Prime Minister Mahathir bin Mohamed was forced to leave office. Again, you find the forces of corruption battling very hard to ensure that the new administration does not get along or get on with its anti-corruption crusade. We shared experiences with the Malaysian Anti-Corruption Commission, and one of the things that we brought back home and which I particularly intend to legislate on, is the concept of corporate liability and responsibility, when it comes to matters of corruption. In a corrupt environment, there are two parties; there is the person seeking to take advantage of the State or seeking to take advantage of their position and there is the other willing player, who does not have any objection engaging or indulging in the act. The private sectors in this country have been players and have been willing participants in corruption. Madam Temporary Speaker, if you found a sales person or a business development representative of an insurance company, for example, bribed or used corrupt means to get business--- I know that right now, there are active issues. There is an issue that has appeared before the Committee on County Public Accounts and Investment (CPAIC) regarding one of the counties where a medical insurance contract was inflated and it appears that kick-backs were given through the channel that is called \"commission.\" That is a matter that even the Auditor-General brought out in his report for that particular county. Are we only going to focus on the governors and procurement officers who procured the service unprocedurally? What happens to that insurance company or service providers who are also accomplices in the act? Our fight against corruption has not looked broadly into that issue of corporate liability. It is time we legislated and made it clear that if you represent an organization and you engage in kick-backs and underhand dealings, then the corporate entity is also liable. In Malaysia, they came up with Corporate Liability Law as an amendment to their Anti-Corruption Act. That has put brakes on issues of private sector corruption, because the fines are very stiff. If you are found liable, upon conviction, you shall be fined 20 times the amount involved; or I million Malaysian Ringgits or 20 years in prison. That has brought some sense of sanity in the private sector, such that if someone was to approach you that this year we are going to buy guns, and you are somewhere in the private sector and then you are convinced to start giving out hand-outs or bribes to get the guns tender, then it is not just the person who was purporting to be offering the guns tender who will be on the spot, but also the person who is giving the bribe and not just the individual but the entire organization that he represents. So, whenever we go out to have these conversations on anti-corruption, it is important that we come back home with a finding or with some revelation that we can make part of our legislation and legal regime. In that particular Malaysian example, I believe that the corporate liability issue is something that Kenya can learn from. When we looked at Malaysia's infrastructure for fighting corruption, we realized that Kenya has a far superior infrastructure for fighting corruption, but less results. Therefore, the fight against corruption is not about tools and infrastructure, it is about the will. As they say, fish begins to rot from the head. Therefore, that will must come from the top or the highest level. I am glad that we, as the Senate, who are the defenders and protectors of devolution, have always decried the high rate of graft in counties. We have always decried the waste and lack of value for money for initiatives in counties. I am glad that this Senate, in this 12th Parliament, has processed a successful impeachment. In the last Parliament, we dealt with a number of impeachments, and none of them was successful. I am glad that in this Senate, we are discussing circumstances where a county has decided that they are unable to deliver directly, and they have asked for help from the national Government. We are getting into some un-chartered waters. This Constitution is like a mansion with many rooms, some of which no one has stepped into. When the Nairobi City County Government ceded some of the key functions that a county government is supposed to offer to the national Government, we entered a room that we have never gone into before and questions are bound to arise. The challenge we have, as the Senate, is not to mourn like the hawker out there, or the photographer who takes photos of people outside the Kenyatta International Convention Centre (KICC) and City Hall. We have a responsibility to provide direction and solutions. Even when we debate, we should not be seen to be crying, desperate, clueless or surprised. The debate that should come to this House with regard to the issues of Nairobi and how to ensure that there is value for money should be solution-oriented. Since part of the reason we have problems in our counties - where governors have been told to step aside or stay out of office, is directly related to corruption. Madam Temporary Speaker, there have been ideas that we make the Ethics and Anti-Corruption Commission (EACC) a constitutional Commission that is entrenched in the Constitution. However, the question is, what have they done with the powers that they currently have? How many of their investigations have resulted into prosecutions and convictions? We see that there is a problem with this progression of cases from the EACC to the Directorate of Public Prosecutions (DPP), particularly in cases of counties. In the last Session, we had an EACC representative sitting in the CPAIC, who could tell us that, \"With respect to county 'x,' we have concluded investigations into almost 10 cases and forwarded the files to the DPP.\" Then what happens at the DPP? It is total and complete silence. These two bodies need to work together. The EACC is comprised of people who have the ability to investigate and determine whether certain cases are strong enough to withstand in a court of law. We must, therefore, find a legal framework that ensures that where the EACC has a clear case, it should make recommendations for prosecution, and then the matters die at the DPP. We have a lot of confidence in the DPP, the Directorate of Criminal Investigations (DCI) and the EACC, but it must result into convictions. The CPAIC has already tabled about 60 reports before this House. In this Session, the focus must be on implementation of the recommendations of Senate on the Auditor- General's report. It is sad that even as we speak about anti-corruption, it is six months since the Auditor-General left office. To date, we do not have an Auditor-General in place. The Auditor-General is an important gate keeper, and is the one who tells us whether there is value for money or whether public funds are being utilized properly. There seems to be a conspiracy of silence. When there was a delay in appointing the Controller of Budget, the governors almost went on rampage because the Controller of Budget gives them access to their cash. However, when there is a delay in the appointment of an Auditor-General, no one is speaking. Parliament should be loud in demanding that this impasse on the appointment of an Auditor-General be brought to a close. This is because the Auditor-General, in many jurisdictions, is an agent of Parliament. The Executive will not push for it. Perhaps the Executive is even happy that Mr. Omtatah has gone to court to challenge the process. Madam Temporary Speaker, as I conclude, I hope that Sen. (Dr.) Mwaura, who attended this conference in Hong Kong, will help us strengthen what we already have. Sometimes it is not for want of laws, but more of will and implementation. Finally, Madam Temporary Speaker, I also note that this meeting happened in May, 2019 which is about eight months ago. Sometimes when there are recommendations or resolutions coming out of those conferences that come to Parliament nine months later, they might be overtaken by events. We probably need to rethink on how we report back to this House when we go for international conferences. My view has been that we could borrow something from our neighbours in Uganda. We do not always have to use them as a bad example; we can pick some few best practices from them. Whenever they go for international conferences, when they come back, the leader of delegation reports back to the House through a Statement, but they then table the report before the House. That allows the matter to be processed far more expeditiously. When you look at the reports that are on the Order Paper, you realize that many of them are reports that ought to have been dealt with in the last Session. Madam Temporary Speaker, I support the Motion. I want to encourage Sen. (Dr.) Mwaura, who is the Vice Chairperson of the Africa Parliamentarians Network against Corruption (APNAC), and who represents the Senate alongside Hon. Shakeel Shabbir of the Speaker of the National Assembly, to strengthen this institution so that it can be the voice of Parliament on matters to do with corruption. I beg to support."
     },
     {
-      "order": 223,
+      "order": 221,
       "id": "entry-977545",
       "label": "speech",
       "level": "3",
@@ -2679,7 +2655,7 @@
       "text": "Thank you, Senator. There being no other request, I would like to call upon the Mover to reply."
     },
     {
-      "order": 224,
+      "order": 222,
       "id": "entry-977546",
       "label": "speech",
       "level": "3",
@@ -2691,7 +2667,7 @@
       "text": "Thank you, Madam Temporary Speaker. I beg to reply. I am delighted to reply in your presence, because it gives me very good memory. The first time I ever saw you chairing a Parliamentary Session was way before I became a parliamentarian, in the 9th or 10th Parliament. You continuously execute your roles very well. Recently, I discovered that you work very hard and late into the night. Madam Temporary Speaker, let me proceed by thanking all the people who have made robust contributions to this report of the 7th Independent Commission against Corruption (ICAC) meeting that was held Hong Kong in May, 2019. I thank Sen. Farhiya, who seconded very well. She emphasized principally on the issues of lifestyle audits and what needs to be done so that we can track the monies that have been accrued out of proceeds of corruption. I also wish to thank Sen. Pareno, who illuminated ways and means in which we can fight corruption. Sen. Pareno is very much involved in issues of party primaries, and there is a lot of political corruption going on there. She talked to us about measures that we can take to mitigate this practice. If there is political corruption in the manner in which leadership is acquired against the provision of Chapter Six, then it goes without saying that it affects the whole structure of governance. I am happy with the robust presentations that have been made here, and the submission by Sen. M. Kajwang', who happens to be the Chair, CPAIC . I share a lot with him in regard to what needs to be done to ensure that there is proper accountability of public resources. In fact, we have had a conversation which I seek to prosecute, as I respond; that we need to move away from financial audits to performance audits. This is a very important element of our audit process. People have known how to account for money. From the Budget Policy Statement (BPS) that we have just passed, we are urging the Government to move away from cash accounting to accrual accounting. When you do accrual accounting, then you are able to see the total picture. Performance audit also has social audit mechanisms that would require the civil society or the members of the public at the county levels, for example, to give their views on whether a project was actually done. What we have seen from the proceedings of the conference is that most of the monies are lost through the whole project cycle, and it is about those huge infrastructural projects. There is an issue that we need to look at in retrospect, as a Senate; the role of legislators who are also advocates. There have been very serious conflicts of interest where you have a lawyer, who is a Member of the Senate or the National Assembly, practicing law and also being a legislator. I wish they could be here. They are also at the same time defending Governors, who come to appear before us, and representing them in court. How do you separate powers there? This is the best example, not even of rent seeking, because rent seeking alludes to bribery; this is 'clientelism.' The issue of 'clientelism' has not been properly captured in law. It is, therefore, important that as we review our anti-corruption laws, we capture the issue of 'clientelism' so that you are disbarred from being a legislator who also then practices in a manner as to occasion conflict between yourselves and your client. It also applies to other advocates. Article 171(f) of the Constitution illustrates a situation where two advocates of the High Court can sit in the Judicial Service Commission (JSC) and at the same time practice before the same judges that he or she has approved. You will remember that this has been a very serious contestation around the case of Ahmed Nassir Abdullahi, Tom Ojienda and others, who represent the Law Society of Kenya (LSK). Therefore, some of these issues boil down to professional ethics. As we had noted, for every corruption case, there is a professional - there is an engineer, an accountant and all those people who are required - to conduct feasibility studies and make approvals. We, therefore, also need to ensure, through Private Bills - please, Members need to differentiate between Private Members Bills and Private Bills - so that we can institutionalize these professional bodies over and above the traditional ones of medicine, law, engineering and accounting. That way, we can use them as tools or repositories to ensure then that there is professional conduct and ethics to disbar people from practicing. That will become a very good incentive. Another key issue that comes out of this is the use of private business as shell companies that do not have the requisite competence to execute projects on the ground or rather, even legitimate companies being used to justify corruption by inflating costs. It has boiled down to the point where schools and colleges are being used to inflate the number of students or bursaries, and then monies go back to whoever has allocated these monies. This is becoming very important because why would you, for example, explain that there is a bursary kitty for the Member of County Assembly (MCA), Women representatives and the Member of Parliament (MP), and there is no management information system to see which student is getting what, where and how; or where these monies are going to yet this money is coming from the same Government? Even if it is what you call political mileage out of political philanthropy but using Government funds, but it is important to track it so that you can see whether there is double-dipping in terms of money being allocated to the very needy students. This then becomes a question where people become merchants of poverty, because then poverty gives the legitimacy to the need to occasion what I call development corruption. Also, in terms of fighting corruption, the role of political parties is very germane. Hong Kong is a largely democratic entity, and there is an agreement between mainland China and the City State of Hong Kong that they will continue practicing democracy up to 50 years; which is coming to a close. This is why Carrie Lam is having a lot of problems because she is backed by Beijing, but the people actually want to continue with their self-determination. Such that, then, the mien and the culture of the people of Hong Kong is different from mainland China. But then, one of the things you learn from mainland China is that element of the Chinese People's Party (CPC). All civil servants are supposed to be member of the CPC so that they are subjected to the party's supervisory and disciplinary commission. That means that when you are a member of the main political party - because there could be other affiliate parties - the party can discipline you. Therefore, party discipline is important. I was quite young, but I still remember, this is something that the Kenya African National Union (KANU) tried to achieve but with very disastrous results. We used to hear of the KANU Disciplinary Committee. However, it was not used to fight corruption, but rather to settle political scores. If that is done as a means of fighting corruption, where people sign a code of ethics and the party can discipline them, then people will know that the party will not send them to Parliament, the Cabinet or to independent constitutional commissions if they are corrupt. Interestingly in China, if you belong to the Communist Party of China (CPC), you are not supposed to be a member of any religion. You are supposed to renounce your own religion. That means that one is only guided by the party's rules and what they call self discipline. Self discipline or self purification is almost like self-quarantine. Maybe it is because the Coronavirus started in China, that is why there are a lot of issues of \"self.\" Be that as it may, Madam Temporary Speaker, the whole idea is that if one decides that they will not be corrupt, they cannot be corrupt. It starts with all of us and our value systems. On one hand, you can credit religion for the coming into the place of the rule of law. Karl Marx talks about religion being the opium of the masses. We are in the season of Lent. Although I am not a Catholic myself, but Catholicism has been credited for installing the Judeo-Christian laws that we practice today. The problem with the rule of law is that people go the courts, which provide avenues for corrupt individuals to escape. Kenyans have been accustomed to the idea that it takes up to two years before a case is determined. In fact, learning from the experience of the recent impeachment of the former Governor of Kiambu County was groundbreaking. This is because it was executed despite the various injunctions that could have been obtained if time was not observed. If we were a bit lackadaisical in terms of how we executed it, then we would have been caught with time. You have seen revealing cases, such as the one involving Mrs. Cohen and Justice Sankale ole Kantai. However, I cannot comment on that, because it is a matter before court. We have also heard of cases where people flew from Nairobi to Kisumu and other places to take Strepsils. Is that really the case? In short, what I am trying to say is that it is true that we are experiencing a lot of challenges in courts in this constitutional dispensation. Going forward, there must be a way to unlock these cases. Madam Temporary Speaker, another key thing to note is that the issue of balanced budgets for counties and even the national Government is critical. As I moved the Motion, I demonstrated how the public debt is a consequence of corruption, because individuals inflate bills. That means that our revenue is not enough, thus prompting us to borrow. We were with Sen. M. Kajwang' trying to look at the jurisdictions of the United States of America (USA), where States cannot borrow without a plebiscite to okay the borrowing. Such a stringent measure ensures that you limit expenditure to your revenue base and whatever you are able to collect. The idea of borrowing from future generations has led to a situation where everything goes. It is also quite appalling that our local banks are the ones milking us. It is not even the external people who are borrowing money. That is something that we also need to look at. Article 35 of the Constitution about access to information is very important. Article 47 of the Constitution is about fair administrative action, so that matters are fully expedited; and so that we do not lose momentum. For example, if I am of accused of corruption, it should not take forever for me to be prosecuted, if I am found guilty. The other issue that I also want to comment on is the role of state-owned enterprises. We have clogged our public system with state-owned enterprises that only ask for money from the Exchequer. If you look at the public guarantee, companies such as the Kenya Airways (KQ), the Kenya Railways (KR), the East African Portland Cement Limited (EAPCL) and the rest have been guaranteed in terms of hundreds of billions, but they have been run down through corruption. That is why the KQ, which is the pride of Africa, has been outdone by the Ethiopian Airways, yet it was the premier African airline a few years ago. Madam Temporary Speaker, you can see the role of state-owned enterprises which do not have a 'sunset clause,' so that they can only operate for 10 or 20 years before they dissolve. This is unless Parliament feels that they need to continue, then they come to report progress of what value for money or what change they have done in society. We have about 575 state-owned enterprises and semi-autonomous government agencies that continue to inflate our bills and siphon out money. Recently the state-owned enterprises were classified into categories A, B and C. They now have over compensated salaries for their staffers doing an equivalent amount of work in comparison with the mainstream civil servants. That is why we have so many white elephant projects that had not been completed. Madam Temporary Speaker, based on the proceedings of this conference, it was clear that all the Government projects should be frozen six months to elections. There should be no new Government projects six months to elections. This is because part of the challenge we have with some of the pending bills not being verifiable, is because they were issued close to elections. This must have been certainly to finance the would-be officials who were running for office. That has caused a huge tax burden. We are currently looking at pending bills totaling to Kshs150 billion, some of which have been verified but not yet payable. Over and above all, some of the pending bills had not been paid because of the request for kickbacks by the various actors who are involved in procurement. I, therefore, concur that there are legislative proposals that need to be brought to bear, so that we can curb corruption. I believe that we are making progress, but sometimes when I look at the EACC, which is under resourced and underfinanced--- I visited the EACC just the other day with the APNAC, where I serve as secretary, and they informed us that they do not have enough money to pay their staff. Madam Temporary Speaker, the asset recovery outfit that we just created does not also have enough resources. The CEO, Ms. Muthoni Kimani, cannot go and take the monies from corrupt individuals due to lack of resources. However, they have managed to recover a number of properties worth billions of shillings. We need to strengthen the refinancing of these institutions, including the DPP, so that they can execute their mandate. We need to set up a specific anti-corruption court whose integrity can be easily audited. The problem is that we have so many courts. You can go to any High Court to report corruption, but it is very difficult to track corruption cases due to judicial back log and the clogging in the system, which has been a serious challenge. Madam Temporary Speaker, with those remarks, I beg to reply that we adopt this report. As Sen. M. Kajwang' has said, we should come up with a mechanism of not only increasing general knowledge on what needs to be done in the fight against corruption, but to find value for money. The MPs are paid a lot of per diems when they go out for these visits. Therefore, such reports should not just end up being reports that are discussed and left at that. We need to find ways in which we can go through those reports, get legislative proposals and enhance the fight against corruption. We owe it to ourselves to ensure that we create a functional developmental state that can emancipate our people from poverty and depravity. Many people are suffering due to poor implementation of law and the poor fight against corruption. Integrity is a topic that I speak about passionately. I like to speak about our political economy and how our politics is organised. We currently have a platform to do that under the BBI. Our politics is organised around the issue of tribes. How is it organised around the issue of tribe? The nexus between the issue of tribe, war and disharmony in Kenya needs a lot of rethinking in terms of the kind of laws that we are making, as we reconfigure this country. This is because corruption is robbing us of our present and future; and tribalism is robbing us of our collective sense of purpose. Madam Temporary Speaker, I beg to reply."
     },
     {
-      "order": 225,
+      "order": 223,
       "id": "entry-977557",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2679,7 @@
       "text": "Thank you Senator. I have determined that this Motion does not involve counties."
     },
     {
-      "order": 226,
+      "order": 224,
       "id": "entry-977558",
       "label": "scene",
       "level": "3",
@@ -2715,7 +2691,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 227,
+      "order": 225,
       "id": "entry-977559",
       "label": "heading",
       "level": "1",
@@ -2727,7 +2703,7 @@
       "text": "MOTION"
     },
     {
-      "order": 228,
+      "order": 226,
       "id": "entry-977560",
       "label": "heading",
       "level": "3",
@@ -2739,7 +2715,7 @@
       "text": "ADOPTION OF REPORTS ON VISITS TO THE MALABA BORDER POINT/KITUI ROAD PROJECT"
     },
     {
-      "order": 229,
+      "order": 227,
       "id": "entry-977560-inserted-320e72c4-263a-49f7-9b81-749a12bc8999",
       "label": "heading",
       "level": "3",
@@ -2751,7 +2727,7 @@
       "text": "ADOPTION OF REPORTS ON INSPECTION VISITS TO THE MALABA BORDER POINT/KITUI ROAD PROJECT"
     },
     {
-      "order": 230,
+      "order": 228,
       "id": "entry-977561",
       "label": "speech",
       "level": "3",
@@ -2763,7 +2739,7 @@
       "text": "THAT, the Senate adopts the reports of the Standing Committee on Roads and Transportation on the visit to the Malaba International Border Point (OSBP) and the inspection visit and familiarization of the Kibwezi- Athi-Mutomo-Kitui Road Project in Kitui County, laid on the Table of the Senate on Wednesday, 4th December, 2019."
     },
     {
-      "order": 231,
+      "order": 229,
       "id": "entry-977562",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2751,7 @@
       "text": "Hon. Senators, Order No. 20 is under the Chairperson of the Standing Committee on Roads and Transportation who is not around, therefore we will defer it."
     },
     {
-      "order": 232,
+      "order": 230,
       "id": "entry-977563",
       "label": "scene",
       "level": "3",
@@ -2787,7 +2763,7 @@
       "text": "(Motion deferred)"
     },
     {
-      "order": 233,
+      "order": 231,
       "id": "entry-977564",
       "label": "speech",
       "level": "3",
@@ -2799,7 +2775,7 @@
       "text": "Next Order."
     },
     {
-      "order": 234,
+      "order": 232,
       "id": "entry-977566",
       "label": "heading",
       "level": "1",
@@ -2811,7 +2787,7 @@
       "text": "MOTION"
     },
     {
-      "order": 235,
+      "order": 233,
       "id": "entry-977567",
       "label": "heading",
       "level": "3",
@@ -2823,7 +2799,7 @@
       "text": "NOTING OF REPORT ON THE 50TH CPA AFRICA REGION CONFERENCE"
     },
     {
-      "order": 236,
+      "order": 234,
       "id": "entry-977568",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2811,7 @@
       "text": "Thank you very much Madam Temporary Speaker. I beg to move- THAT, the Senate notes the Report of the Parliament of Kenya Delegation to the 50th Commonwealth Parliamentary Association (CPA) Africa Region Conference held in Zanzibar, Tanzania from 30th August to 5th September, 2019, and laid on the Table on 27th November, 2019. As I move, I would like to inform the House that this was very important. As you know, the CPA, of which the Kenyan Parliament is a Member, is a membership organisation which comprises parliamentarians of the Commonwealth countries. For the African Chapter, our own Speaker of the National Assembly, hon. J.B. Muturi, is the Chairperson. I would like to mention some of the members of the Kenyan delegation who included- (1) Hon. Justin Muturi- Head of Delegation and Speaker of the National Assembly (2) Hon. Makali Mwilu, MP and Regional representative for the East African Region of CPA (3) Hon. Miwiruki Njagagua, MP and Branch Representative (4) Hon. Janet Sitienei, who is the Commonwealth Women Parliamentary Kenya Chairperson (5) Hon. John Mbadi, Minority Leader and Ex-Com Member of the CPA, East Africa (6) Hon. Dennitah Ghati, Executive Committee Member (7) Hon. Wangari Mwaniki, Executive Committee Member (8) Sen. Enock Wambua, Delegate and Sub-Committee Member (9) Sen. Abshiro Halake, Delegate and Sub-Committee Member (10) Sen. Isa Juma Boy, Observer (11) Mr. Michael Sialai, Clerk of the National Assembly (12) Mrs. Sarah Kioko, Member of SOCATT (13) Mr. Njenga Ruge, Member of SOCATT (14) Ms. Maria Adjiboudou (15) Mr. Finley Muriuki (16) Mr. David Angwenyi; and, (17) Mr. Osman Said- Research officer. Madam Temporary Speaker, the Kenyan delegation participated actively in the deliberations, and ably represented our country at the CPA Africa Regional Conference. During the various sessions, we were chairing quite a number of the sub-branches. As the Vice Chairperson of the Senate Committee on Information Communication Technology (ICT), this Conference was very relevant in the sense that it was about ICT. The thematic area was the use of social media in enhancing parliamentarians' constituency engagement and public participation. There was also the use of ICT in strengthening public involvement in the legislative process, and empowerment of women using strategies to enable them participate in decision making using ICT. There was also the role of technology in developing democratic practices, as well as our participation in the East African Caucus; and the participation of our clerks in the Society of Clerks-at- the-Table (SOCATT). One of the things that came out very strongly at the Conference was the fact that there are very big opportunities for parliamentarians to use ICT to enhance public participation and their own profile. This is especially so for women MPs, who were found not to be using much ICT because of the fear of its negative aspects, especially social media, where sometimes women are profiled differently and negatively. There is also fear of fake news that is making women shy away from the use of this opportunity to profile themselves, engage with their constituents and pass on what they are doing in Parliament as well as in their constituencies. Initially, I was not in the delegation, but when I learnt that the theme of the Conference was ICT, I made a special request to attend as the Vice Chairperson of the Senate Committee on ICT. It was a real eye-opener for me in the sense that some of the best practices, especially in the Commonwealth countries that were not in Africa, was the amazing results that women and youth have been able to achieve to access the democratic space and political leadership, and use it to make themselves be seen, heard and engage in very different ways. Madam Temporary Speaker, of course the CPA also had certain issues that were proposed. Just to mention a few, I would like to bring to the attention of this House some of the resolutions that would work for us well, as parliamentarians, as far as the use of ICT in strengthening the legislative process is concerned. One of the things we have not done very well perhaps - and I must say that we do that at Committee level, especially when we are dealing and processing Bills--- When it comes to individual use of ICT, it was found that especially the women have not used it as it should to show the citizens what we are doing. One of the issues is the establishment of an e-Parliament. Our Parliament is, of course, using ICT quite a bit. Our debates are streamed live, but we have not been able to pick out some of the key issues for amplifying, especially when it comes to certain issues that need advocacy at the highest levels, voting and the rest of it. Madam Temporary Speaker, again, we looked at acknowledging the role of ICT in developing democratic practices. Of course, it has been found to be a double-edged sword."
     },
     {
-      "order": 237,
+      "order": 235,
       "id": "entry-977570",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2823,7 @@
       "text": "There is a point of order from Sen. M. Kajwang'."
     },
     {
-      "order": 238,
+      "order": 236,
       "id": "entry-977571",
       "label": "speech",
       "level": "3",
@@ -2859,7 +2835,7 @@
       "text": "Madam Temporary Speaker, I would not have liked to interrupt the thought process of my sister, Sen. Halake, but I am looking at the Report that she is moving as a Motion. On page 5, it is signed by a stranger to this House, Hon. (Dr.) Makali Mulu (MP). I would have expected that a report that comes before the Senate would have been signed by either the Senator moving the Motion or somebody else who is a Member of this august House. Is this Report properly before this House?"
     },
     {
-      "order": 239,
+      "order": 237,
       "id": "entry-977573",
       "label": "speech",
       "level": "3",
@@ -2871,7 +2847,7 @@
       "text": "Madam Temporary Speaker, as I said, hon. Makali Mulu was the Chairperson of our East Africa Delegation. We thought that our Delegation Chairperson would sign - but I stand guided - we could re-sign it. That is the reason why we gave it to the Chairperson to sign it, and we thought we could do that. I stand guided."
     },
     {
-      "order": 240,
+      "order": 238,
       "id": "entry-977574",
       "label": "scene",
       "level": "3",
@@ -2883,7 +2859,7 @@
       "text": "(The Temporary Speaker (Sen. (Prof.) Kamar consulted with the Clerk-at-the- Table)"
     },
     {
-      "order": 241,
+      "order": 239,
       "id": "entry-977575",
       "label": "speech",
       "level": "3",
@@ -2895,7 +2871,7 @@
       "text": "Hon. Senators, what Sen. M. Kajwang' has raised is very important. I would like to consult further on this. Tradition has had it that some reports are signed by the leader of the delegation. In this case, the leader of the delegation was Hon. Makali Mulu, but we have also had in this House others which were co-signed. I would like to consult further and I will clarify this on Tuesday so that we are all on the same page as far as joint delegations are concerned. With that, I suspend the ruling on it, but allow Sen. Halake to continue with her moving."
     },
     {
-      "order": 242,
+      "order": 240,
       "id": "entry-977576",
       "label": "speech",
       "level": "3",
@@ -2907,7 +2883,7 @@
       "text": "Thank you very much, Madam Temporary Speaker. We will stand guided, because the hon. Member who signed was the head of delegation and the Chairperson of the East African CPA Branch. However, we will definitely co-sign and correct that. The theme for this conference was very important, especially as it pertains to the use of social media, ICT generally and the whole idea of e-parliaments. One of the recommendations that our delegation came up with and which we will deal with further on was the fact that we must use social media and ICT as Parliament to advance our work. We must also use it as an accountability tool, where we put ourselves accountable to the citizens. Through social media and ICT, we can be reached, engage and communicate better, more effectively and cheaply. Madam Temporary Speaker, Sen. M. Kajwang' sits with me in the Committee on ICT. Some of the things we have been able to do in that Committee, for instance, is to put ourselves out and ask Kenyans what they think is important for the Committee to execute. Our calendar of events and work plan has been informed through the use of ICT to generate business for our Committee. I can attest to the fact that we can multiply our efficiencies; reach our people; hold ourselves accountable and put ourselves out for questioning and for two way deliberations using social media. At the same time, I know that there is legislation, for instance, against cyber crime and other things that have scared a lot of people away. The reason women's issue was put in this forum and meeting was because there were issues that we wanted to address; for instance, how women can be empowered; how women can advance their political leadership using ICT tools; how they would then engage and make sure that they manage the risks, some of which are posed by the use of ICT. What legislation and frameworks we can put in place to ensure that our Parliaments are using ICT and that e-parliaments, which have become a seamless platform for facilitating democracy, can be adopted by ourselves. We have quite some way to go in terms of making our parliament use the tools that are available to us in ICT. One of the resolutions of the Kenyan delegation that I would like to point out, even as I continue, is the fact that we must, as parliamentarians, adopt and learn certain best practices which parliamentarians around the world have used ICT to advance democracy, hold themselves and others accountable, engage and involve the citizens of our country. Madam Temporary Speaker, I do not wish to go into all the other recommendations---"
     },
     {
-      "order": 243,
+      "order": 241,
       "id": "entry-977578",
       "label": "heading",
       "level": "1",
@@ -2919,7 +2895,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 244,
+      "order": 242,
       "id": "entry-977579",
       "label": "speech",
       "level": "1",

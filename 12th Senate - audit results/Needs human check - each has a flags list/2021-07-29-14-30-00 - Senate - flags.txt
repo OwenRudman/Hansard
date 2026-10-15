@@ -76,27 +76,27 @@
    Name check: PDF says 'Sen. Sakaja', block says 'Mutula Kilonzo Jnr '.
    Text: "How?"
 
-20. block 348 [speech]
+20. block 334 [speech]
    Couldn't find this text in the PDF. Check it against the PDF.
    Text: "(Sen. (Prof.) Kamar: No. That is not---"
 
-21. block 434, PDF p.56 [speech | Johnes Mwashushe Mwaruma]
+21. block 420, PDF p.56 [speech | Johnes Mwashushe Mwaruma]
    Name check: PDF says 'Sen. Ndwiga', block says 'Johnes Mwashushe Mwaruma '.
    Text: "Madam Temporary Chairperson, pursuant to Standing Order No.148 I beg to move that the Committee of the Whole d"
 
-22. block 446, PDF p.70 [speech | Ledama Olekina]
+22. block 432, PDF p.70 [speech | Ledama Olekina]
    Name check: PDF says 'Sen. Ndwiga', block says 'Ledama Olekina '.
    Text: "Madam Temporary Chairperson, I beg to move- THAT Clause 4 of the Bill be amended in paragraph (e) by inserting"
 
-23. block 889, PDF p.83 [speech | Njeru Ndwiga]
+23. block 875, PDF p.83 [speech | Njeru Ndwiga]
    PDF shows a new speaker ('The Temporary Speaker (Sen. Nyamunga)') starting inside this block: "Thank you Senators for the contributions. As requested, I de...". May need a split.
    Text: "Pursuant to Standing Order No.148 I move that the Committee of the Whole do report progress on its considerati"
 
-24. block 898 [speech]
+24. block 884 [speech]
    Couldn't find this text in the PDF. Check it against the PDF.
    Text: "(Sen. (Prof.) Kamar: Proceed, Mover."
 
-25. block 957, PDF p.85 [speech | Johnson Arthur Sakaja]
+25. block 942, PDF p.85 [speech | Johnson Arthur Sakaja]
    Name check: PDF says 'Sen. (Dr.) Zani', block says 'Johnson Arthur Sakaja '.
    Text: "Madam Temporary Speaker, I appreciate Sen. (Dr.) Zani. I just want to inform her that Oscar Wilde once said th"
 

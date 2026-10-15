@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2022-03-31-14-30-00",
-  "exported_at": "2026-10-05T08:11:39.418Z",
+  "exported_at": "2026-10-15T19:34:25.444Z",
   "entries": [
     {
       "order": 1,
@@ -3828,22 +3828,10 @@
       "speaker": "Teller for the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kibiru.\n\nNOES"
+      "text": "Sen. Kibiru.\n\nNOES\n\n: Nil"
     },
     {
       "order": 320,
-      "id": "entry-1159253",
-      "label": "speech",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller for the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 321,
       "id": "entry-1159254",
       "label": "speech",
       "level": "2",
@@ -3855,7 +3843,7 @@
       "text": "Sen. Farhiya."
     },
     {
-      "order": 322,
+      "order": 321,
       "id": "entry-1159255",
       "label": "speech",
       "level": "2",
@@ -3864,22 +3852,10 @@
       "speaker": "Steve Ltumbesi Lelegwe",
       "speaker_title": "(The Temporary Chairperson)",
       "reviewed": true,
-      "text": "Hon. Senators, these are the results of the Division.\n\nAYES\n\n: 34\n\nNOES\n\n: 0\n\nABSTENTIONS"
+      "text": "Hon. Senators, these are the results of the Division.\n\nAYES\n\n: 34\n\nNOES\n\n: 0\n\nABSTENTIONS\n\n: Nil"
     },
     {
-      "order": 323,
-      "id": "entry-1159261",
-      "label": "speech",
-      "level": "2",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Steve Ltumbesi Lelegwe",
-      "speaker_title": "(The Temporary Chairperson)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 324,
+      "order": 322,
       "id": "entry-1159262",
       "label": "speech",
       "level": "2",
@@ -3891,7 +3867,7 @@
       "text": "The \"Ayes\" have it."
     },
     {
-      "order": 325,
+      "order": 323,
       "id": "entry-1159263",
       "label": "scene",
       "level": "2",
@@ -3903,7 +3879,7 @@
       "text": "(Question carried by 34 votes to Nil)"
     },
     {
-      "order": 326,
+      "order": 324,
       "id": "entry-1159264",
       "label": "scene",
       "level": "2",
@@ -3915,7 +3891,7 @@
       "text": "(Clauses 3-5, the Schedule, Clauses 2, the Title and Clause 1 agreed to)"
     },
     {
-      "order": 327,
+      "order": 325,
       "id": "entry-1159265",
       "label": "speech",
       "level": "2",
@@ -3927,7 +3903,7 @@
       "text": "I now call upon the Mover."
     },
     {
-      "order": 328,
+      "order": 326,
       "id": "entry-1159266",
       "label": "speech",
       "level": "2",
@@ -3939,7 +3915,7 @@
       "text": "Mr. Temporary Chairperson, Sir, I beg to move that the Committee of the Whole do report to the Senate its consideration of the Division of Revenue Bill (National Assembly Bills No. 8 of 2022) and its approval thereof without amendments."
     },
     {
-      "order": 329,
+      "order": 327,
       "id": "entry-1159267",
       "label": "scene",
       "level": "2",
@@ -3951,7 +3927,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 330,
+      "order": 328,
       "id": "entry-1159268",
       "label": "scene",
       "level": "2",
@@ -3963,7 +3939,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 331,
+      "order": 329,
       "id": "entry-1159269",
       "label": "scene",
       "level": "2",
@@ -3975,7 +3951,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 332,
+      "order": 330,
       "id": "entry-1159270",
       "label": "scene",
       "level": "2",
@@ -3987,7 +3963,7 @@
       "text": "[The Speaker (Hon. Lusaka) in the Chair]"
     },
     {
-      "order": 333,
+      "order": 331,
       "id": "entry-1159271",
       "label": "heading",
       "level": "2",
@@ -3999,7 +3975,7 @@
       "text": "REPORT"
     },
     {
-      "order": 334,
+      "order": 332,
       "id": "entry-1159272",
       "label": "heading",
       "level": "3",
@@ -4008,22 +3984,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE DIVISION OF REVENUE BILL"
+      "text": "THE DIVISION OF REVENUE BILL\n\n(NATIONAL ASSEMBLY BILLS NO. 8 OF 2022)"
     },
     {
-      "order": 335,
-      "id": "entry-1159274",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(NATIONAL ASSEMBLY BILLS NO. 8 OF 2022)"
-    },
-    {
-      "order": 336,
+      "order": 333,
       "id": "entry-1159275",
       "label": "speech",
       "level": "3",
@@ -4035,7 +3999,7 @@
       "text": "Hon. Senators, I call upon the Chairperson to report."
     },
     {
-      "order": 337,
+      "order": 334,
       "id": "entry-1159276",
       "label": "speech",
       "level": "3",
@@ -4047,7 +4011,7 @@
       "text": "Mr. Speaker Sir, I beg to report that the Committee of the Whole has considered the Division of Revenue Bill (National Assembly Bills No. 8 of 2022) and its approval thereof without amendments."
     },
     {
-      "order": 338,
+      "order": 335,
       "id": "entry-1159277",
       "label": "speech",
       "level": "3",
@@ -4059,7 +4023,7 @@
       "text": "I call upon the Mover to move agreement to report."
     },
     {
-      "order": 339,
+      "order": 336,
       "id": "entry-1159278",
       "label": "speech",
       "level": "3",
@@ -4071,7 +4035,7 @@
       "text": "Mr. Speaker, Sir, I beg to move that the House do agree with the Committee in the said report. I ask Sen. Madzayo to second."
     },
     {
-      "order": 340,
+      "order": 337,
       "id": "entry-1159279",
       "label": "speech",
       "level": "3",
@@ -4083,7 +4047,7 @@
       "text": "Mr. Speaker, Sir, I second."
     },
     {
-      "order": 341,
+      "order": 338,
       "id": "entry-1159280",
       "label": "scene",
       "level": "3",
@@ -4095,7 +4059,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 342,
+      "order": 339,
       "id": "entry-1159281",
       "label": "scene",
       "level": "3",
@@ -4107,7 +4071,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 343,
+      "order": 340,
       "id": "entry-1159282",
       "label": "speech",
       "level": "3",
@@ -4119,7 +4083,7 @@
       "text": "Mr. Speaker, Sir, I beg to move that the Division of Revenue Bill (National Assembly Bills No. 8 of 2022) be now read a Third Time. I ask the Senate Minority Leader to second. I thank you."
     },
     {
-      "order": 344,
+      "order": 341,
       "id": "entry-1159283",
       "label": "speech",
       "level": "3",
@@ -4131,7 +4095,7 @@
       "text": "Mr. Speaker, Sir, I beg to second. This is phenomenal and great. It is in defense of the Senate. I beg to second."
     },
     {
-      "order": 345,
+      "order": 342,
       "id": "entry-1159284",
       "label": "scene",
       "level": "3",
@@ -4143,7 +4107,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 346,
+      "order": 343,
       "id": "entry-1159285",
       "label": "speech",
       "level": "3",
@@ -4155,7 +4119,7 @@
       "text": "I direct that the Bell to be rung for 30 seconds."
     },
     {
-      "order": 347,
+      "order": 344,
       "id": "entry-1159286",
       "label": "scene",
       "level": "3",
@@ -4167,7 +4131,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 348,
+      "order": 345,
       "id": "entry-1159287",
       "label": "speech",
       "level": "3",
@@ -4179,7 +4143,7 @@
       "text": "Those who are online, kindly, remain online because this is the last voting. We proceed. The doors look locked. Let us proceed to vote."
     },
     {
-      "order": 349,
+      "order": 346,
       "id": "entry-1159288",
       "label": "scene",
       "level": "3",
@@ -4191,7 +4155,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 350,
+      "order": 347,
       "id": "entry-1159289",
       "label": "heading",
       "level": "1",
@@ -4203,7 +4167,7 @@
       "text": "THIRD READING"
     },
     {
-      "order": 351,
+      "order": 348,
       "id": "entry-1159290",
       "label": "heading",
       "level": "3",
@@ -4215,7 +4179,7 @@
       "text": "THE DIVISION OF REVENUE BILL (NATIONAL ASSEMBLY BILLS NO. 8 OF 2022)"
     },
     {
-      "order": 352,
+      "order": 349,
       "id": "entry-1159291",
       "label": "heading",
       "level": "3",
@@ -4227,7 +4191,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 353,
+      "order": 350,
       "id": "entry-1159294",
       "label": "scene",
       "level": "3",
@@ -4239,7 +4203,7 @@
       "text": "(Question, that the Division of Revenue Bill (National Assembly Bills No.8 of 2022) be read a Third Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 354,
+      "order": 351,
       "id": "entry-1159295",
       "label": "other",
       "level": "3",
@@ -4251,7 +4215,7 @@
       "text": "AYES"
     },
     {
-      "order": 355,
+      "order": 352,
       "id": "entry-1159296",
       "label": "other",
       "level": "3",
@@ -4263,7 +4227,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Haji A, Garissa County; Sen. (Eng.) Hargura, Marsabit County; Sen. Kajwang' M., Homa Bay County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kang'ata, Murang'a County; Sen. Kavindu Muthama, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita Taveta County; Sen. Ndwiga, Embu County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Wamatangi, Kiambu County; and, Sen. Wambua, Kitui County."
     },
     {
-      "order": 356,
+      "order": 353,
       "id": "entry-1159297",
       "label": "speech",
       "level": "3",
@@ -4272,22 +4236,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kibiru.\n\nNOES"
+      "text": "Sen. Kibiru.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 357,
-      "id": "entry-1159299",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 358,
+      "order": 354,
       "id": "entry-1159300",
       "label": "speech",
       "level": "3",
@@ -4299,7 +4251,7 @@
       "text": "Sen. Olekina."
     },
     {
-      "order": 359,
+      "order": 355,
       "id": "entry-1159301",
       "label": "speech",
       "level": "3",
@@ -4311,7 +4263,7 @@
       "text": "Hon. Senators, the results of the division are as follows-\n\nAYES\n\n: 33\n\nNOES\n\n: 0\n\nABSTENTIONS"
     },
     {
-      "order": 360,
+      "order": 356,
       "id": "entry-1159307",
       "label": "speech",
       "level": "3",
@@ -4323,7 +4275,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 361,
+      "order": 357,
       "id": "entry-1159308",
       "label": "scene",
       "level": "3",
@@ -4335,7 +4287,7 @@
       "text": "(Question carried by 33 votes to Nil)"
     },
     {
-      "order": 362,
+      "order": 358,
       "id": "entry-1159309",
       "label": "scene",
       "level": "3",
@@ -4347,7 +4299,7 @@
       "text": "(The Bill was accordingly read a Third Time and passed)"
     },
     {
-      "order": 363,
+      "order": 359,
       "id": "entry-1159310",
       "label": "heading",
       "level": "1",
@@ -4359,7 +4311,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 364,
+      "order": 360,
       "id": "entry-1159311",
       "label": "speech",
       "level": "1",

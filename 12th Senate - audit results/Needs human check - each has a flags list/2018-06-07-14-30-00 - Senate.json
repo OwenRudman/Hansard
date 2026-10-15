@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-06-07-14-30-00",
-  "exported_at": "2026-10-13T17:30:32.127Z",
+  "exported_at": "2026-10-15T19:26:19.638Z",
   "entries": [
     {
       "order": 1,
@@ -1356,22 +1356,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil"
     },
     {
       "order": 114,
-      "id": "entry-801534",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 115,
       "id": "entry-801535",
       "label": "speech",
       "level": "3",
@@ -1383,7 +1371,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES\n\n: 24\n\nNOES"
     },
     {
-      "order": 116,
+      "order": 115,
       "id": "entry-801539",
       "label": "speech",
       "level": "3",
@@ -1392,22 +1380,10 @@
       "speaker": "Rose Nyamunga Ogendo",
       "speaker_title": "(The Temporary Speaker)",
       "reviewed": true,
-      "text": ": Nil\n\nABSENTIONS"
+      "text": ": Nil\n\nABSENTIONS\n\n: Nil"
     },
     {
-      "order": 117,
-      "id": "entry-801541",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 118,
+      "order": 116,
       "id": "entry-801542-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1419,7 +1395,7 @@
       "text": "(Question carried by 24 votes to 0)"
     },
     {
-      "order": 119,
+      "order": 117,
       "id": "entry-801542-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1431,7 +1407,7 @@
       "text": "(The Bill was read a Second Time and committed To a Committee of the Whole tomorrow)"
     },
     {
-      "order": 120,
+      "order": 118,
       "id": "entry-801543",
       "label": "speech",
       "level": "3",
@@ -1443,7 +1419,7 @@
       "text": "Hon. Senators, I now direct that the Doors be unlocked and the Bars to be drawn. Next order!"
     },
     {
-      "order": 121,
+      "order": 119,
       "id": "entry-801544",
       "label": "heading",
       "level": "1",
@@ -1455,7 +1431,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 122,
+      "order": 120,
       "id": "entry-801545",
       "label": "heading",
       "level": "3",
@@ -1467,7 +1443,7 @@
       "text": "THE COUNTY BOUNDARIES BILL (SENATE BILLS NO.6 OF 2017)"
     },
     {
-      "order": 123,
+      "order": 121,
       "id": "entry-801546",
       "label": "scene",
       "level": "3",
@@ -1479,7 +1455,7 @@
       "text": "(Sen. Mutula Kilonzo Jnr. on 1.3..2018)"
     },
     {
-      "order": 124,
+      "order": 122,
       "id": "entry-801549",
       "label": "scene",
       "level": "3",
@@ -1491,7 +1467,7 @@
       "text": "(Resumption of Debate interrupted on 6.6.2018)"
     },
     {
-      "order": 125,
+      "order": 123,
       "id": "entry-801550",
       "label": "speech",
       "level": "3",
@@ -1503,7 +1479,7 @@
       "text": "Hon. Senators, I direct that the bell be rang for three minutes."
     },
     {
-      "order": 126,
+      "order": 124,
       "id": "entry-801551",
       "label": "scene",
       "level": "3",
@@ -1515,7 +1491,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 127,
+      "order": 125,
       "id": "entry-801552",
       "label": "speech",
       "level": "3",
@@ -1527,7 +1503,7 @@
       "text": "Hon. Senators, I direct that the Door be locked and the Bar drawn."
     },
     {
-      "order": 128,
+      "order": 126,
       "id": "entry-801553",
       "label": "scene",
       "level": "3",
@@ -1539,7 +1515,7 @@
       "text": "(The Bar was drawn and doors closed)"
     },
     {
-      "order": 129,
+      "order": 127,
       "id": "entry-801554",
       "label": "speech",
       "level": "3",
@@ -1551,7 +1527,7 @@
       "text": "Hon. Senators, please confirm that you are logged in. We are now ready for voting and you may vote \"yes\", \"no\" or \"abstain\". Hon. Senators who are not able to vote electronically may now approach the Clerks-at-the-Table for assistance."
     },
     {
-      "order": 130,
+      "order": 128,
       "id": "entry-801555",
       "label": "scene",
       "level": "3",
@@ -1563,7 +1539,7 @@
       "text": "(Several Senators approached the Clerks-at-the-Table)"
     },
     {
-      "order": 131,
+      "order": 129,
       "id": "entry-801556",
       "label": "heading",
       "level": "4",
@@ -1575,7 +1551,7 @@
       "text": "DIVISION"
     },
     {
-      "order": 132,
+      "order": 130,
       "id": "entry-801557-split-selected-0fbae442-bc17-4701-974a-fd12535fd0de",
       "label": "heading",
       "level": "3",
@@ -1587,7 +1563,7 @@
       "text": "ELECTRONIC VOTING"
     },
     {
-      "order": 133,
+      "order": 131,
       "id": "entry-801557-split-after-fa8fc1f4-fbd1-4227-a854-4ef068f53f58",
       "label": "speech",
       "level": "3",
@@ -1599,7 +1575,7 @@
       "text": "( Question, that the County Boundaries Bill"
     },
     {
-      "order": 134,
+      "order": 132,
       "id": "entry-801558",
       "label": "scene",
       "level": "3",
@@ -1611,7 +1587,7 @@
       "text": "(Senate Bills No.6 of 2017) be now Read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 135,
+      "order": 133,
       "id": "entry-801559",
       "label": "other",
       "level": "3",
@@ -1623,7 +1599,7 @@
       "text": "AYES:"
     },
     {
-      "order": 136,
+      "order": 134,
       "id": "entry-801560",
       "label": "other",
       "level": "3",
@@ -1635,7 +1611,7 @@
       "text": "Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Haji, Garissa County; Sen. (Dr.) Kabaka, Machakos County; Sen. Kajwang' M., Homa Bay County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. Kinyua, Laikipia County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mugo, Nairobi County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita-Taveta County; Sen. Nyamunga, Kisumu County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Wambua, Kitui County; Sen. (Rev.) Waqo, Marsabit County; and, Sen. Wario, Tana River County."
     },
     {
-      "order": 137,
+      "order": 135,
       "id": "entry-801561",
       "label": "other",
       "level": "3",
@@ -1644,22 +1620,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 138,
-      "id": "entry-801562",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Rose Nyamunga Ogendo",
-      "speaker_title": "(The Temporary Speaker)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 139,
+      "order": 136,
       "id": "entry-801563",
       "label": "speech",
       "level": "3",
@@ -1671,7 +1635,7 @@
       "text": "Hon. Members, the results of the Division are as follows:-\n\nAYES:\n\n24\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n0 The \"Ayes\" have it."
     },
     {
-      "order": 140,
+      "order": 137,
       "id": "entry-801571-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1683,7 +1647,7 @@
       "text": "(Question carried by 24 votes to 0)"
     },
     {
-      "order": 141,
+      "order": 138,
       "id": "entry-801571-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1695,7 +1659,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 142,
+      "order": 139,
       "id": "entry-801572",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1671,7 @@
       "text": "I now direct that the doors be opened and the Bar drawn."
     },
     {
-      "order": 143,
+      "order": 140,
       "id": "entry-801573",
       "label": "scene",
       "level": "3",
@@ -1719,7 +1683,7 @@
       "text": "(The doors were opened and the Bar drawn)"
     },
     {
-      "order": 144,
+      "order": 141,
       "id": "entry-801574",
       "label": "speech",
       "level": "3",
@@ -1731,7 +1695,7 @@
       "text": "Next Order.\n\nMOTIONS"
     },
     {
-      "order": 145,
+      "order": 142,
       "id": "entry-801576",
       "label": "heading",
       "level": "3",
@@ -1743,7 +1707,7 @@
       "text": "NOTING OF THE REPORT OF THE IPU HEARINGS AT THE UNITED NATIONS"
     },
     {
-      "order": 146,
+      "order": 143,
       "id": "entry-801577",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1719,7 @@
       "text": "Madam Temporary Speaker, I beg to move:- THAT, this House notes the Report of the proceedings of the Inter- Parliamentary Union Hearings at the United Nations, New York, USA from 22nd - 23rd February, 2018, laid on the Table of the House on Tuesday, 15th May, 2018. The Inter-Parliamentary Union (IPU) Hearings at the United Nations took place on 22nd and 23rd February, 2018, at the UN Headquarters in New York, USA. The theme of this year's hearing was: Towards a Global Compact for Safe, Orderly and RegularMigration; A Parliamentary Perspective. The meeting was opened by the President of the UN General Assembly, Mr. Miroslav Lajčák and the IPU President Sen. Gabriela Cuevas Barron. The UN Secretary- General, António Guterres also addressed the participants. The Hearing allowed for a comprehensive parliamentary perspective on key questions of migration, and helped inform the UN negotiations towards a global compact on migration. This is a new framework for the practical arrangements that need to be put in place globally and nationally to ensure migration is properly managed, with due regard for the human rights of migrants and the sovereign rights of states. During the Hearing, parliamentarians observed that while migration is a reality the world over, it is too often governed by states in an ad hoc and disjointed manner. Migration is too often involuntary, caused by war, climate change, famine, natural disasters and terrorism. Parliamentarians therefore underscored the need to address the root causes of large-scale migration and to ensure that migration is by choice rather than a necessity. They also stressed that migrants were human beings who deserve to be treated with dignity and respect, and to have their human rights recognized and enforced. The narrative on migration should be changed to one that focuses more on good practices in communities. The MPs expressed concern that migrants frequently were the scapegoats for their host country's own problems, and subjected, therefore, to hate and xenophobia. Parliamentarians identified ways they could contribute to curbing hate speech, including through laws and by example. Parliamentarians were also concerned about the plight of the more vulnerable migrants, women and children, particularly those children born of irregular migrants. They recognized their responsibility as legislators to prevent suffering of all human beings. Finally, Members of Parliament (MPs) acknowledged the importance of their role in passing laws, including budgets and in ensuring the implementation of a global motion on immigration and safe, orderly and regular immigration. In addition, they play an important part in increasing coordination among and within stages, stress and in reducing xenophobia. Madam Temporary Speaker, the delegation from the Parliament of Kenya comprised of the following: (1) Hon. Jude Njomo, MP - Leader of Delegation (2) Sen. Naomi Shiyonga, MP (3) Hon. (Dr.) John Mutunga, MP (4) Hon. Eve Obara, MP (5) Mrs. Serah Kioko - Director Legislative and Procedural Services, Senate (6) Mr. Charles Munyua - Delegation Secretary (Senate); and, (7) Mr. Moses Lemula - Delegation Secretary (National Assembly) The Kenyan delegation participated actively in the deliberations and robustly presented our country position during the various sessions, which fed into the final report of the Hearings of the Global Compact for Migration. Madam Temporary Speaker, the delegation is grateful to the Speakers of the two Houses for allowing them to attend the sessions, for facilitating travel and accommodation as well as providing logistical and technical support in liaison with the offices of the clerks from the two Houses. Madam Temporary Speaker, I shall now proceed to give a few highlights from the various Sessions held during this Meeting. This particular Meeting that I was privileged to attend, is one of the sessions that touched on the lives of our immigrants. It is important that these particular hearings touched on the budget, which was a key function that the delegates discussed in this particular conference. When it comes to sharing of budgets and immigrants, it is import that the host country has laws that will assist it in enacting and reinforcing it so as to take care of these immigrants. If you look at the whole essence of immigrants, it is important to note that they are human beings. They need to be taken care of, especially the vulnerable children who are born from this state. Children and women suffer a lot under such circumstances. It is important that they took into consideration laws and the special needs of these particular generation or category of people. Madam Temporary Speaker, globally, nobody chooses to be an immigrant, but it comes by nature. It is, therefore, important for states or countries to have a budget that will actually look after these people because of their human and sovereign needs in specific countries that are affected. Good examples are the ones we have in Kenya, Dadaab and Kakuma refugee camps. We have hosted and we are still hosting immigrants in these particular camps. It is, therefore, important that these people are treated with the dignity they deserve and are taken care of well by getting their basic needs, just like other human beings. I realise that in this particular assembly, it is a concern for us, legislators, to come up with laws so that we can be responsible for the people that we are hosting. Madam Temporary Speaker, there were various concerns in this particular conference. It is important that most of the issues that were raised there are articulated to people and not just to specific countries. It is going to be a global concern where all states come together and decide on these particular individuals, who find themselves in the situations they are in. Otherwise, it is good that people are concerned about immigrants. Madam Temporary Speaker, in conclusion, I request the Senate Minority Whip to second. Thank you."
     },
     {
-      "order": 147,
+      "order": 144,
       "id": "entry-801582",
       "label": "scene",
       "level": "3",
@@ -1767,7 +1731,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 148,
+      "order": 145,
       "id": "entry-801583",
       "label": "speech",
       "level": "3",
@@ -1779,7 +1743,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to support this Motion. The Inter-Parliamentary Union (IPU) is a very important platform and I am happy that the Speaker was kind enough to send Sen. Shiyonga to the IPU platform. I was concerned at the beginning of this session because we were represented by nominated Sen. Mukite in the forum for women. I have acted as a Rapporteur from Kenya for the 162 Parliaments on gender parity issues and I can confirm that the input and quality of legislators you find at the IPU is beyond question. Madam Temporary Speaker, this question that was being addressed in the programme in the United Nations (UN) in New York is really boring. There is the issue in Manama and, in particular Reijer, where over 600,000 people have been moved in the whole of Europe because of the war in Syria. The realisation by the world of the problems that we have had in Kenya for the last several years because of the war in Somalia has now come to pass. When we were asking all these nations to support us because of the two camps that we have in Dadaab and Kakuma, people thought it was a joke. But when they started closing boundaries in Europe because of immigrants, the influx was unbelievable. It became a humanitarian crisis when children were washed ashore from the sea and families were destroyed. The orders that are being given by the President of the United States of America, Donald Trump, to the effect that people should go back to their countries like Mexico, is splitting families. This question has come because the world did not realise that in any situation where there is a war - whether you are deposing Muammar Gaddafi, whether you are unhappy with Saddam Hussein or whether you are unhappy with Bashar al Assad - the resultant crisis is immigration. This immigration has caused immeasurable problems all over Europe and I am glad that it became a topic for concern for the IPU Parliament. I participated in a session where one MP from Maldives and another one from Bolivia were exiled by their own governments and attacked in Parliament. One of the reasons as to why I was unhappy about the ruling on the immunity by Parliament was that in Maldives, one Member of Parliament was attacked by police inside the building. Therefore, it becomes a problem when parliaments are not protected. It is through this initiative of the Inter-Parliamentary Union (IPU) that Members of Parliament from Bolivia passed a good Bill on protection of women parliamentarians against violence. You find all these platforms at IPU. It is in IPU that I found the name of Sen. Beth Mugo for her contributions on gender parity, which is an acknowledgement on the atlas of women in the world and it has a Kenyan by the name Sen. Beth Mugo. I am glad that Sen. Naomi Shiyonga is participating in this. I urge her to collect as much information as possible so as to advance the causes of IPU. On this particular one, I will be very happy to see more resolutions about Kenyans getting support for they now realize where it is pinching the most. They are now worried about their population and whether they will be able to cater for these people. You wonder what Kenya has been doing for so long. I was a little uncomfortable with the directive by the President to close the refugee camps. There are people who have grown up in Kenya because of the Somalia war and they do not even know a place called home in Somalia. They are over 20 years old and Kenya has become their home. When we send them back to Somalia, a place they do not know and it has no peace, it is also a problem. I thought that we would use a better humanitarian method of dealing with people who have come to Kenya for a safe haven. We should give them accommodation and assimilate them in a better way instead of ostracizing them and telling them that they are the ones who are causing radicalization. One of the reasons as to why Australia is a nice place to be is because they have a better immigration policy. I found Kenyans in Australia who have become naturalized Australians after four years and have a right to vote and have jobs. That is why the deportation of Miguna Miguna was something that we cannot celebrate in this country. We must continue talking about it because countries are welcoming foreigners yet we are chasing Kenyans and deporting them to the point where they say that \"they are not boarding\". These stories can only be told when you read the stories of immigrants, people who have been moved out of their countries because of war and a situation of not having peace. We must continue talking about it. I hope that the Kenya Platform of the IPU is going to use this platform to speak about Somalis' and Sudanese' situation because those people are still in the country. We want the United Nations High Commissioner for Refugees (UNHCR) to lay more emphasis on what we have as we celebrate those people and those countries, including Hungary which did not close its borders because they thought that those people would not ordinarily leave their countries to migrate to foreign lands. I beg to support."
     },
     {
-      "order": 149,
+      "order": 146,
       "id": "entry-801586",
       "label": "scene",
       "level": "3",
@@ -1791,7 +1755,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 150,
+      "order": 147,
       "id": "entry-801587",
       "label": "speech",
       "level": "3",
@@ -1803,7 +1767,7 @@
       "text": "Thank you Madam Temporary Speaker. Migration has a very painful feeling to those who are involved in the exercise. It either means displacement from your normal surroundings and locality that you have been used to for a very long time because you are either going for green pastures elsewhere where you want to eke a living or you are looking for survival in the area where you reside. We have seen it over a period of time and it varies from one country to another. Africa is one place where migration can only be remembered for its painful effect. People lose their loved ones, close relatives and longtime friends either because of wrong governance structures that exist in that country or because of the vendetta that has been created against those people. The IPU in its own mandate through the General Assembly in New York is able to put together these experiences. There are a number of people who have perished in their small boats in North Africa when trying to migrate through the sea to Europe to look for jobs and opportunities or even run away from the tyrants of the governance structure that has created mayhem in their home countries. People perish, disappear and even become moribund. Their human rights elements are destroyed and they do not look like human beings. I read today that a boat that had people from the border of Somalia who were crossing over to Yemen capsized and killed many people. This is part of the population of that migration group that is going across. I have always found the amount of budget being availed to tackle this problem difficult. I want to thank our team that went there. IPU has always been in the United Nation's (UN) system, and I understand how these things operate. The IPU is a union of parliamentarians from respective countries who in one way or the other have had an experience on this issue of migration. One of the things that we want to be firm on as a Government is that we want to return the dignity of the human race to where it belongs. Therefore, enough resources must be put in place to bring back the dignity of the human race to where it belongs. Secondly, there should be a legal framework that is able to foresee or husband the process of how these individuals move from one country to another so as to see that they are treated in a humane manner in the country where they have sought refuge. That is an important part of it and they should not be treated as another lot of people without concern as to whether they survive or not. It is very depressing when you see the enforcement group of people coming to do what they do and trying to create difficulties for people to survive in some of these areas. I want to commend the IPU delegation. One area where we can strengthen the international oversight over this migration issue is through our parliamentary systems. Therefore, once the message of governance and the bill of rights of the people are recognized, we must put in place sanctions that will deal firmly with the people who have gone against the norms that are required internationally. There is no better place to do that other than through this consultative process at the IPU and the UN system because we have a full-fledged department of migration in the UN system which has a clear budget. Every country contributes to that budget through their nominal contribution to UN activities and it is important that we do this. People move or migrate from one country to another because the conditions are very awkward in the country where they are migrating from. We need to rein in on tyrants who make our populations desire to move away. Every human being must be respected and given the dignity that he requires where he stays within that country so as to enhance the human capital because we are the people who create the wealth of this world. Therefore, the resource spread throughout the whole world is as a result of people either working in Africa, Europe, America or anywhere else. This monopolistic tendency of people thinking that this resource belongs only to them and not anybody else is wrong and we must disabuse it. When it comes to generation of wealth worldwide, everybody has an input into it. If it is raw materials, they come from Africa but we are denied the right of value addition to our products. As a result, the prices reigning in the countries of origin are peanuts. Therefore, people move elsewhere where wealth creation and social welfare is better in pursuit of wealth and jobs. However, if we were to do value addition from where the raw materials come from, there will be no need for migration at any given moment. The political climate that must reign in our country, particularly during the election period is critical. When we handle elections poorly, we run into problems and people become refugees out of their own making and migrations are bound to happen. When there is some level of discrimination, relegation and ignorance of people within a given society and country, people tend to migrate looking for greener pastures. This migration looks like a simple matter, but when looked at in its full complexity, one will appreciate that it means human beings with families and children, moving from point A to point B, with all their needs and requirements, whether social, economic or political in terms of recognition. So, it is an important area that we need to look at. Therefore, we need an international body that will police, as it were. Policing is not the right choice of word at this stage, but for want of any descriptive word, it is a body that is able to monitor - that sounds better - the movement of people and how they finally settle. The bottom line is that the dignity of the human race must at all times be upheld. On resources, when it comes to the United Nations (UN) system of budgeting, some of the money, if you have noticed, has gone towards war-torn countries. Some of it has gone towards the aftereffects of bad governance and some towards acts of terrorism that have occurred in a given county. Therefore, I thank our representatives. We are represented by the female gender and that is a good thing. Normally, they are the ones who summarize the feelings of a human being because they are part and parcel of us coming into this world. I have a lot of respect for this organisation. The migration in this world, particularly to Europe, is worrisome. The dignity that ought to be given to the migrants and their health status is also worrisome. Some of them die in undignified circumstances. These are the things we must avoid and stop in a civilized world. The only way we can do that is through engagement where our people take part in Inter-Parliamentary Union (IPU) and give us full reports of where these malpractices are taking place, so that we can take a world audit of those countries that are showing impunity in terms of handling humanitarian crisis. People do not move just for the sake of moving; it is because something has bothered them. Without much ado, I am happy to contribute to this Report. The Report should form part of our archives, so that at any given time we are challenged with this kind of issues, we have something that we can draw back to and make reference to. Thank you, Madam Temporary."
     },
     {
-      "order": 151,
+      "order": 148,
       "id": "entry-801594",
       "label": "speech",
       "level": "3",
@@ -1815,7 +1779,7 @@
       "text": "That is a good contribution. Let us have, Sen. Kajwang Moses Otieno, the Senator for Homa Bay County."
     },
     {
-      "order": 152,
+      "order": 149,
       "id": "entry-801595",
       "label": "speech",
       "level": "3",
@@ -1827,7 +1791,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to support this Motion. The IPU is one of the ways through which parliament engages in diplomacy; something called Parliamentary diplomacy that people do not take seriously. We believe that diplomacy is only when a Cabinet Secretary and other state officials engage with foreign nations. It needs to be said that Parliament also carries out its diplomacy through organisations like the IPU, the Commonwealth Parliamentary Association (CPA) and other different parliamentary groupings that this Parliament has subscribed to. When this Motion was moved, I was not sure whether we would talk about migration or immigration, but because this is a kind of dissection of English that lands me in trouble, I will migration and immigration as being close. However, strictly speaking, migration is temporary movement of persons from one country to another, necessitated by natural disasters like drought, famine or war. They get back to their home countries at some point, whereas immigration tends to be permanent. We are all products of immigration and many countries are products of human migration. For example, it is difficult to say who the indigenous people are in Homa Bay County. Perhaps, it was the Maasai or the group that we called the Lang'o, who today we call the Nandi, but definitely, it is not the group we call the Luo or the Abasuba that inhabit those areas. We moved from all corners of Africa. Some people came from Uganda, others from Tanganyika, Sudan and Congo. So, migration and immigration has been a human activity for a long period of time. Many communities in this country, in their folklores and historical stories, talk about their ancestors from a migratory perspective; how people left Sudan, the Congo and Egypt to get to where they are today. This is something that has been going on with human beings for a long time as it has been going on even with animals for a long time. Many modern nation states, as I said earlier, are products of migration and immigration. In the United States of America (USA) it is easy to forget that there were indigenous people. We ended up calling them Red Indians, but those were the original inhabitants of the land that we now call the USA. The USA is a melting pot of cultures as a result of migration and immigration. You will find the Irish, Germans, British and people from all over the world there. You will even find Africans who went to the USA, not out of choice but because they were carted in slave ships and had no option but to labour in the USA as slaves. It is a good thing that issues of slavery were dealt with in that country in the 1960s and 1970s. If you go to Canada, it is said that someone discovered Canada, yet there were indigenous people in Canada. It is said that somebody discovered Australia, yet there were the Aborigines in Australia who today live on the fringes of society. In fact, it is said that in Australia, the Aborigines live in near third world conditions while the immigrants live in first world conditions. So, immigration has created many nations. You hear of Christopher Columbus who is said to have discovered certain lands that people were living in. Madam Temporary Speaker, immigration has been there in the past, but still remains a key global issue. In modern political trends, immigration is top of it. Indeed, when President Donald Trump became President, beyond all expectations, his first Executive Order had to do with issues of immigration. We all remember that out of the blues after taking over the presidency, he decided to use Executive Orders, which had been used a little bit sparingly in the past, to address issues of immigration. The target was immigrants from Muslim countries. It has remained a very live and painful issue in the United States of America (USA). In Europe, debate is being shaped by policies on immigration. Brexit, to a great extent, was a reaction to the perception by the British that opening up to the European Union (EU), would be opening their borders, not just to products from Europe, but people with skilled and unskilled labour from Europe and beyond. There was concern that certain members of the European Union like Spain, Germany and Portugal were already allowing African migrants to settle in. At some point, we went to Spain as a Parliamentary delegation. When we visited a public library in Madrid, we were impressed by a huge banner written: \"Refugees are welcome.\" That banner attracted a lot of love and wrath in equal measure. There are those who believed that Spain should remain pure without immigrants coming in from Africa. Sometimes we forget that even some of those wonderful buildings we see in Spain and the whole of Europe were built with the resources and wealth coming out of Africa. They were built on the backs of labourers and slaves from Africa, Asia and other parts of the world. Madam Temporary Speaker, when other European countries opened up their borders and took in immigrants, it had a ripple effect. Some British were saying that if they allow them in through other partner States, then they will come in and take over their jobs. Despite the suspicion around Brexit, it is interesting to note that the leadership of London - Britain's most important city - has been taken over by people who are first or second generation immigrants. They are doing an excellent job. In Germany, for example, debate and the continuation of Chancellor Markel's term was characterised by serious debate on immigration and her policy on opening up German borders for migrants from other countries to come in. Here in Kenya, migration and immigration is an issue. The Somali conflict has resulted in the joke that the Somali capital is now Eastleigh. Indeed, if you walk around some hotels in Nairobi, for example, Intercontinental Hotel next door, you might think that it ought to have been in Mogadishu rather than Nairobi. This is because of conflict and instability that have forced innocent men and women from Somalia to come and make a living in Kenya. As for the South Sudan conflict, we grew up with many South Sudanese people in Nairobi City estates. Due to the conflict in Uganda; a good number of Senators here were taught by teachers who were Ugandans. In fact, Uganda had very well trained civil service - teachers and doctors - and many of us could have passed through the hands of Ugandan doctors who migrated to Kenya as they waited for their country to stabilize. Due to the conflict in Eritrea; we find many Eritreans in this country and they stay in certain pockets. Madam Temporary Speaker, the good thing is that Kenya has always been welcoming to neighbours and has always had a liberal policy on migration and immigration. I think that is something that should not change. We should never get to a level of xenophobia where we rise up against fellow Africans or human beings, simply because their fathers were born in countries different from Kenya. We saw such xenophobia in South Africa and we pray that, that will never happen in Kenya. Madam Temporary Speaker, why would an African leave beautiful Africa and go on a rickety boat to cross oceans and rivers to Europe with all the cold? Allow me to paraphrase Samuel Jackson who said something of London. He said: \"When a man is tired of London, he is tired of life; for there is in London all that life can afford.\" I thought that quotation should have applied to Africa. I am convinced that when a man is tired of Africa, he is tired of life; for in Africa, there is all that life can afford. Africa is beautiful. It has very good weather, the people the productivity, the potential and everything about Africa is great. Why do our young boys and girls cross oceans so that they can reach Spain or Turkey to die? Why are Syrians dying so that they can go to European countries? This is simply because of lack of proper leadership and corruption; the things that are capturing headlines today. It is because of kleptocracy and autocracy that people like Miguna Miguna find they are more useful in Canada than Kenya. I hope that now that the President of the Republic of Kenya is in Canada for some global mission, he will also reach out to Miguna Miguna, have a handshake, travel together in \"Air Force One\" and that he will bring Miguna Miguna back home to take over his duty as the Deputy Governor for Nairobi City County. If Hon. Raila Odinga and President Uhuru Kenyatta can shake hands, why can Miguna Miguna not shake hands with President Uhuru Kenyatta? I suspect that President Uhuru Kenyatta is willing. However, I am not sure about the man from Nyando; the proximate area where the Temporary Speaker comes from. Madam Temporary Speaker, nobody in their right mind wants to leave Africa for Europe. They say: \"A bad day in Africa is better than a bad day elsewhere.\" I will personally stick to Africa and Kenya. However, we must fix our leadership and systems so that we provide incentives for Africans to stay in Africa and for the Africans who are lost in Europe to come back to African. If we do not do that, immigration, migration and civil strife will continue. Finally, I am one of those who believe that the self-imposed borders that give rise to this discussion on migration and immigration are against the wills and desires of God. God created human beings and this world for human beings to roam, multiply and control. He did not put us in the small boxes called Kenya, Uganda, Tanzania, Sudan and USA. We all have a legitimate right and duty to live on this earth, irrespective of the man-made boundaries and borders. It is a platonic kind of wish, but our immigration policies should ensure that there is free movement. I am glad that the African Continental Free Trade Area (ACFTA) has been agreed on. I hope it will go beyond trade. At some point, it will be possible for Africans to move freely in Africa. We have tried to achieve that within the East African Community (EAC). To a great extent, Kenya has been very flexible in terms of allowing others to come and get work permits. Other nations should also reciprocate so that we look at Africa as for Africans rather than Africa that is splintered into 52 or 53 countries. I support."
     },
     {
-      "order": 153,
+      "order": 150,
       "id": "entry-801602",
       "label": "speech",
       "level": "3",
@@ -1839,7 +1803,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to support this Motion because it touches on human life which is very important to each one of us. As an individual, I am deeply concerned with anything that touches on the life and dignity of human beings. The Inter-Parliamentary Union (IPU) is an important body that exists to protect and build global democracy through political dialogue and concentrate on actions. It is a body that we all need to support and stand with because of what it stands for. We also know that migration is a global phenomenon that requires global action. As the Senate, we have to play a major leadership role simply because these people depend on us. I come from the northern part of Kenya and as I was growing up, we used to receive many refugees from Ethiopia, Somalia, Uganda and other places. I remember we used to say that they carried a lot of things as they came. Sometimes, they are labeled as people who bring diseases. We do not give them the opportunity when we know the dilemma they go through at that particular time. Recently, towards the beginning of this year, I visited Moyale which is on the border of Kenya and Ethiopia. When I met the refugees, I was deeply touched by the expectant mothers and young people who were suffering in different ways. My mind went back to the image I used to have while growing up. We need to protect these people. Madam Temporary Speaker, every year, millions of children, women and men become victims of human trafficking and criminals earn an estimated $32 billion out of it. Many young people are also sexually abused. When that happens, we know the challenges that come with it. As the Senate, we need to rally behind this and put into consideration the social cohesion and integration of this part. We need to accommodate them and work towards their relationships with the people. With those few remarks, I support."
     },
     {
-      "order": 154,
+      "order": 151,
       "id": "entry-801603",
       "label": "speech",
       "level": "3",
@@ -1851,7 +1815,7 @@
       "text": "Thank you, Madam Temporary Speaker. I applaud the Kenyan delegation that went for the IPU hearings to discuss the issue on the impact of safe, orderly and regular migration. These migration laws have come at the right time when we are having a crisis of refugees from Syria heading towards Europe. Coming closer home in Kenya, we also have the same issue because we are the hub of economic progress in this region. Every time our neighbours are in some unstable state, we receive these immigrants. So, it is crucial to have a law that will guide on how to deal with these immigrants globally. I have seen immigrants who are looking for work permits queue for so many days at Nyayo House. Under what law are we dealing with them especially when they come to look for jobs that Kenyans can do? These laws are also important to protect immigrants socially and economically. It will cure the issue of professionals, for example, engineers who go to western countries and engage in \"funny\" jobs like becoming petrol station attendants. There must be some law to assist professionals who go to countries as immigrants. With global education, we will, therefore, set global standards of work and jobs. I beg to support this Motion."
     },
     {
-      "order": 155,
+      "order": 152,
       "id": "entry-801606",
       "label": "speech",
       "level": "3",
@@ -1863,7 +1827,7 @@
       "text": "I will now call upon the Mover to reply."
     },
     {
-      "order": 156,
+      "order": 153,
       "id": "entry-801607",
       "label": "speech",
       "level": "3",
@@ -1875,7 +1839,7 @@
       "text": "Thank you, Madam Temporary Speaker. I thank those that have contributed to this Motion. All contributions, inputs and sentiments that have been discussed in this House will be taken into consideration to enrich this report. It is to an extent of this that we take up these contributions seriously to make sure that they are implemented as deserved."
     },
     {
-      "order": 157,
+      "order": 154,
       "id": "entry-801608",
       "label": "speech",
       "level": "3",
@@ -1887,7 +1851,7 @@
       "text": "Thank you. I will now put the question."
     },
     {
-      "order": 158,
+      "order": 155,
       "id": "entry-801609",
       "label": "scene",
       "level": "3",
@@ -1899,7 +1863,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 159,
+      "order": 156,
       "id": "entry-801610",
       "label": "speech",
       "level": "3",
@@ -1911,7 +1875,7 @@
       "text": "Let us move on to the next Order."
     },
     {
-      "order": 160,
+      "order": 157,
       "id": "entry-801611",
       "label": "heading",
       "level": "1",
@@ -1923,7 +1887,7 @@
       "text": "MOTION"
     },
     {
-      "order": 161,
+      "order": 158,
       "id": "entry-801612",
       "label": "heading",
       "level": "3",
@@ -1935,7 +1899,7 @@
       "text": "REGISTRATION OF PERSONS WITH DISABILITIES"
     },
     {
-      "order": 162,
+      "order": 159,
       "id": "entry-801613",
       "label": "speech",
       "level": "3",
@@ -1947,7 +1911,7 @@
       "text": "Thank you, Madam Temporary Speaker, for granting me this opportunity to move this important Motion. I beg to move the following Motion- THAT, AWARE that the National Council for Persons with Disabilities was established through the Persons with Disabilities Act, 2003; FURTHER AWARE that registration of persons living with disabilities is a function of the National Council for Persons with Disabilities; ALSO AWARE that persons living with disabilities are estimated to be about 10 per cent of any given population; COGNIZANT that for purposes of registration of persons living with disability, it is a mandatory requirement for one to undergo medical examination by a registered medical officer in a registered and certified health facility; CONCERNED that of the nearly four million Kenyans living with disabilities who reside in Kenya, there is a very small fraction of the number which is duly registered; AWARE that medical services are now a devolved function; FURTHER CONCERNED that without proper registration, many persons living with disabilities are denied services because they lack the necessary proof of disability; ALSO CONCERNED that owing to lack of accurate data on persons living with disabilities, the government at both levels cannot plan properly for this category of people; NOW THEREFORE, the Senate calls upon the National Council for Persons with Disabilities in collaboration with Ministry of East African Community, Labour and Social Protection and county governments, to carry out a nationwide registration of all persons living with disabilities in order to determine their exact population to facilitate effective service for this marginalized group of our society. Madam Temporary Speaker, this Motion is as straightforward and self- explanatory as I have read. With this Motion, I want us to have a proper census of Person with Disabilities (PWDs) so that we can establish exactly how many they are in Kenya. This is to enable them to be catered for by both the national and county Governments. An exercise meant to conduct a census and ensure due registration of PWDs will go a long way in ensuring that this vulnerable group in our country is taken care of through proper planning, policy formulation and service delivery. It is painful and unfortunate that a good number of PWDs, some with severe disabilities, are always on the streets with begging bowls. Most of Government support and funding is pegged on successful registration. The availability and distribution of approved schools for the disabled is insufficient. This is unfair and, in my opinion, it is discrimination against this group of people. Why am I asking the Government to take over this responsibility? Yes, it is a responsibility that is bestowed on the National Council for Persons with Disabilities (NCPWDs). However, the NCPWDs has stated that they are unable to carry out this exercise. When I was researching on this, they gave me various reasons they are unable to do so. Some of the reasons included inadequate funding from the national Government, lack of sufficient personnel such as clerks to carry out registration in the NCPWD; lack of facilitation for registration in terms of doctors, who are supposed to carry out medical examinations to certify the disability and transport logistics to remote areas. The other reason given was poor coordination and working relations between different stakeholders such as hospitals, donor organisations, county and national Governments. There is, therefore, the need for the Government to step in strongly and ensure that these people are registered. According to the World Health Organisation (WHO), as I read in the Motion, 10 per cent of any given population is comprised of PWDs. When you look at statistics in Kenya, that percentage should be over four million PWDs living amidst us. However, when you look at the statistics, I think they have registered up to just about one million, which is 25 per cent of this category of people. There is, therefore, need for the remaining 75 per cent to be registered so that they can enjoy the privileges that are given to them under Article 54 of our Constitution, which is very explicit and makes provisions for these kinds of people. However, you can only enjoy those privileges if you are registered yet they cannot afford to register themselves because for one to be registered, they need to go to a registered health facility and be examined by a registered doctor. As you know, most of these people live below the poverty line, which is below a dollar a day. This makes it virtually impossible for them to afford that exercise on their own. Madam Temporary Speaker, I, therefore, plead with this House that we look at this Motion very positively and pass it. Once it is passed, I will personally make a follow- up to ensure that the Government implements it. I know we used to have the Senate Committee on Implementation in the last Senate, which I think was abolished for reasons I have never known. That, therefore, leaves us Members on our own. Sometimes we pass these Motions here and nobody bothers. They are just put on the shelves and they continue gathering dust. In conclusion, Madam Temporary Speaker, in most African traditional setups, disability is frowned upon and treated as a curse to the individual, to the family and even to the community. Children born with disabilities are usually either hidden from the community, abandoned and in some cases, even killed. This should not be the case; it is very unfortunate. These are people who must be supported because they are just human beings. They did not choose to be born that way and they must get their support. I believe it is that reason which informed the inclusion of Article 54 in our Constitution, so that this category of people can be properly catered for. Madam Temporary Speaker, I beg to move and call upon Sen. (Dr.) Musuruve to second this Motion. Sen. (Dr.) Musuruve: Thank you, Madam Temporary Speaker, for the opportunity to second this Motion. I want to say clearly - and this must be known by all Kenyans - that we have Senators in this House who have a strong desire and a passion to front issues of disability and to support them. I, therefore, commend Sen. Khaniri for coming up with this Motion. It has come at the right time and I thank him for the passion he has for PWDs. He has even mentioned pertinent issues and societal perceptions concerning PWDs that are critical and I want to commend him for that. As a leader, he is showing that he is ready to take the mainstream approach in leadership. I encourage other Senators to also take the mainstream approach in their leadership. In such an approach, it means that PWDs will be included in everything that is happening, even in the counties and they will not be left behind in development. Madam Temporary Speaker, issues of disability affect all of us because as long we are living in this world, we are all candidates for disability. No one can be put in isolation. You can wake up one morning only to find that you have a disability. You could be walking along the streets, a tree falls on you and you lose a leg, an arm or an eye. That way, you will end up being on the other side of disability. Therefore, whatever we pass in this House will affect us and benefit us as long as we are living in this universe. When you look at the Constitution, it says that power belongs to everyone. When we are talking about power belonging to the people of this country, Persons with Disabilities (PWDs) are not excluded. They are part of the people of this country, and so, power belongs to them. Madam Temporary Speaker, there is need for a census on PWDs to be done because we need to have desegregated data concerning PWDs. This will enable us know their specific disabilities and how to intervene. Intervention cannot be done if a census has not been done. A census is important because it will help us, as a country, to know how to intervene. Kenya is among the nations that ratified the convention on the rise of PWDs. By doing so, we affirmed that we were going to comply like other state parties, intervene and ensure that PWDs get their rights, live and get an equal benefit like any other person. Even as the National Council for Persons with Disabilities (NCPWDs) is doing the census, the Kenya National Bureau of Statistics (KNBS) needs to come in to give the technical support needed for a census. The NCPWDs may not have the capacity to do all this. The NCPWDs has to do that, but the KNBS and the Ministry of East African Community, Labour and Social Security need to also come in. The statistics should be done per county so that all counties get to know the number of PWDs in their counties and how to intervene to support them. Madam Temporary Speaker, when we are talking of issues of disability, we need to know that if a country cannot help its PWDs, it means that they are leaving a big section of their citizens behind. We are talking of leaving no one behind. It is a slogan that we are moving with up to Vision 2030. We cannot live with this slogan and fulfill it if we are not attending to about four million people of this country. When you read most literature, most scholars estimate that 10 per cent of the nation has PWDs. That is just an estimate. However, as my fellow Senator mentioned, there is need for proper statistics so that we know exactly the number of persons having disabilities. Even from the PWDs, we need to know the number of people having physical disability, for example, blindness and so on. Only a pocket full of PWDs are duly registered. It means that a huge chunk of PWDs are not benefiting from what they are supposed to benefit from even from the NCPWD. When it comes to registration, there are PWDs who would want to be registered, but they may not afford the protocol and finances involved to allow them to be registered. When you are told to give evidence that you have a disability, sometimes it worries me. If you see someone is blind, do you need evidence to see that the person has a visual impairment? If you see someone on a wheelchair, do you need evidence to show that the person has a disability? If you see someone on crutches and he is not even able to move, do you need evidence? If you see a child with Down Syndrome, do you need evidence to say that this is a child with Down Syndrome? The Government should make sure that PWDs go through the assessment without paying a fee. When you are going for assessment, you are not going because you are happy but because you have a permanent disability and you want to be attended to and get the services like anybody else. PWDs should go through assessments without having to pay a fee. When it comes to PWDs, you find some of them in the streets begging. They are not getting the services because they have not proved that they have a disability yet if they got the registration, they would benefit from the funds that the Government disburses to the NCPWD. This means that they will be empowered economically. When you look at Article 43 of the Constitution, PWDs are not able to enjoy their socio- economic rights especially when they have not been identified. We even have children on the streets begging yet they could be taken to school through free education. They can benefit from the education, get out of the streets and even help their families including their mothers and fathers who are also begging in the streets. Madam Temporary Speaker, there is need for PWDs, especially children, to be helped so that they are economically empowered. They will pull their families away from begging and the cyclic nature of poverty. The issue of poverty is cyclic in the families of PWDs. There is need for the Government to intervene because we should not leave PWDs behind. We should not leave the children and these families behind. They are part of this nation and they need to be part of the economic development in this nation. There is need for the Government to intervene with speed and prioritize registration of PWDs. There is need for funds to be set aside for PWDs. If the funds are set aside, let them be duly directed to doing a census on PWDs. Article 43 of the Constitution gives provision for free education. Even among persons who have not been identified and those living in the rural areas, there are some children with disabilities who are not mobile. They are hidden somewhere in the houses because of societal perception on PWDs. Societal perception on PWDs is still negative. I agree that there are people who are beginning to accept PWDS. However, majority of people still look at PWDs from a different angle of pity paradigm. As a nation, we cannot continue with the pity paradigm. It is time that we registered PWDs, identified them and placed them where they are supposed to be so that eventually they can participate in the economy of this country. Madam Temporary Speaker, when it comes to the special secondary schools, you will realize that in the whole Republic, there are only 17 secondary schools. This is painful. It means that there are many PWDs who are educable and have not been identified. They are not being brought into the school setup so that they benefit. The PWDs are constitutionally entitled and they have rights under Article 54. These rights should not be taken for granted. Once the census has been done, it will be possible for us, as a country, to know the number of people who have hearing impairment and the services they need, for example, hearing aids, crutches, and wheelchairs so that they are able to walk. It will be possible to know the number of people with certificates who can be placed in white collar jobs. When it comes to jobs, it does not mean that PWDs should always beg. They can also be in offices like anybody else, have big jobs and be productive in this country. The PWDs are not glued to blue collar. There are those who can do vocational jobs, but there are also those who can do any other job like anyone else. There is need for every environment to be disability-friendly in terms of accessibility. This can only be done when this matter comes out clearly. As a nation, we need to recognize and help them. Madam Temporary Speaker, I strongly support this Motion. This Motion should go to the relevant Committee and offices. The nation should come out with speed and save the situation so that we do not leave PWDs behind. Thank you, Madam Temporary Speaker, for according me the opportunity."
     },
     {
-      "order": 163,
+      "order": 160,
       "id": "entry-801626",
       "label": "scene",
       "level": "3",
@@ -1959,7 +1923,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 164,
+      "order": 161,
       "id": "entry-801628",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1935,7 @@
       "text": "Madam Temporary Speaker, thank you for giving me this opportunity to add my voice on this Motion. This is a self-explanatory Motion. It is not one that we should belabour to pursue to the Government to register those living with disabilities. Disability is not inability. If this Government can register 45 million Kenyans, why is it not able to register about 20 per cent or 30 per cent, out of the 45 million people who are living with disabilities? This is an exercise that should be done. I thank Sen. Khaniri for bringing this Motion to this House. We have heard the Senator from Kakamega articulating these issues because she knows them. These people should not be given conditions to be registered. They are human beings and Kenyans. They should just be registered. If the Government was waiting for a Motion like this one, it has come. They should now go ahead and register the people living with disabilities. Madam Temporary Speaker, PWDs are normally forgotten in some areas. Last year, 15 counties did not have a list of people living with disabilities nominated as MCAs. Some of us had to go to court. I went to court in Nyahururu because there was no PWD who was nominated as an MCA. This should not be repeated. These people are supposed to get the same advantages as those living without disability. Nobody chooses to be a PWD. It is a situation that just happens. Some people are born as PWDs, while some end up at as PWDs by virtue of what happens to them in life. We should not discriminate against those living with disability. In my view, registration should not be a big issue. The Kenya National Bureau of Statistics (KNBS) should undertake to ensure that they know all those who are living with disability. These people are very able. Some of them can go a long way to develop the economy of this country more than those not living with disability. We should have a record of the PWDs. That is the only way forward. Some of us without disability assume that there are no PWDs amongst us. That is why we have this problem. Some selfish offices think that they can only deal with those who are able. The time has come when the PWDs should be recognized, their location and type of disability known by the Government. Madam Temporary Speaker, there should also be a fund to assist those who cannot participate so much in building the economy of this country. There should be a fund to assist those who cannot make money themselves or get involved in gainful employment. In some of the countries like the United States of America (USA), even the able people who are unable to earn a living are given money by the Government. I am not saying that we should go to that extent, but can we handle the issue of the PWDs and see to it that nobody goes hungry because of a disability. Nobody should go without shelter or clothing because they are living with a disability. Those who are able should pay taxes to cover the PWDs. It would not be a big deal to register about 40,000 to 50,000 people who are living with disability. The Government should have commitment to ensure that they are all registered. We should create offices for them, which will see to it that the PWDs are registered, just like we have registered 40 million people. I do not see the big deal in registering these people. Most of the PWDs live in abject poverty. While we enjoy our lives in Kenya, some of those living with disability are unable to enjoy life because they cannot afford to work and earn a living due to disability. Knowing that there are such people living amongst us, it is incumbent upon us to ensure that they do not suffer. The Government should create a way of ensuring that these people have a means of living. Madam Temporary Speaker, these people are all over the country. If you go to any county, you will get PWDs. Therefore, if their record was for some reason required by Government, we do not even need to go very far. The administrators in the counties, such as the regional commissioners, should set up offices to register the PWDs. That is an exercise that will not even take six months. I do not see why we have to belabour saying that the PWDs should be registered. It is in the Government's interest to ensure that they have a record of the PWDs, for purposes of identifying how the Government will assist them. There are many ways in which these people can be assisted. Madam Temporary Speaker, you heard our lady Senator who is living with disability say that there are only 17 schools in Kenya for PWDs. I am sure that they cannot fit in those schools. More schools should be built. However, they cannot be built without proper statistics. We should have these statistics so that we can know how to take care of those PWDs. Some of the PWDs who have been employed in various institutions do very well. Many of them do better than those living without disabilities. It is an important exercise for the Government to ensure that there is a record of the PWDs. We expect to see the records of those who are blind, deaf, et cetera in Mombasa or any other town. We should have all those records straight so that we do not give an excuse that we do not know who is living with disability and who is not. That is why we have not even been able to identify activities that they can be involved in. For instance, if there is a job that a blind or deaf person can do, without a proper record, it will not be easy for the Government or any other institution to engage them. Madam Temporary Speaker, I am calling upon this Government to be serious once and for all and address the issues of PWDs. This is because some of them really support the Government when it comes to voting. If the Government can be supported by the PWDs, it should also have time to know what they are suffering from and the areas that they can be assisted in. As I said before, at the risk of repeating myself, the PWDs who teach in secondary schools and those who engaged in other activities in this country do very well. Even those without hands, you will see them using their legs to do their activities very well just like normal persons or person without disability. Therefore, we should not be told that these people cannot participate in contributing to the economy of this country. They can. It is only that they have not been given chances to do so. In some cases, it is not even known where they are. Their abilities have also not been recorded so nobody can give them assignments. Madam Temporary Speaker, we do not have to belabour a lot on this issue because the Government needs to do what it is supposed to do. In any case, if the Government had forgotten that there are PWDs, they now need to know where they are, how many they are and their areas of incapacity. Now they have been reminded by this Motion that has been moved by Sen. Khaniri. Such Motions are useful to this country because some areas have been forgotten and it is incumbent upon the Government to act. We have heard of a lot of money being lost through corruption in this country. Therefore, when we say there is no money to identify the PWDs, it is a big joke. If a sum of Kshs9 billion was stolen unnoticed by individuals who were later arrested after the event, nobody can tell us there no money to register the PWDs in our counties. They need to be registered so that they can be identified according to their areas of capacity and be given tasks to enable them become productive for themselves and the nation. I see them quite often in our counties. We have some of them in my county. As I said, they are in every county. These are people who are really active. They have very good brains and they want to be involved in the development of this great nation. However, that cannot be done until and unless they have been identified wherever they are. Madam Temporary Speaker, I support this Motion."
     },
     {
-      "order": 165,
+      "order": 162,
       "id": "entry-801633",
       "label": "speech",
       "level": "3",
@@ -1983,7 +1947,7 @@
       "text": "Thank you very much, Senator. Proceed, Sen. Were."
     },
     {
-      "order": 166,
+      "order": 163,
       "id": "entry-801634",
       "label": "speech",
       "level": "3",
@@ -1995,7 +1959,7 @@
       "text": "Thank you, Madam Temporary Speaker. I would like to thank the Mover of this Motion, Sen. Khaniri. The Motion is on Registration of PWDs. It is crucial for these people to be known. This is because some of the special children with disabilities are locked up in homes. So, mandatory registration will force parents to bring these children out and the Government can assist them to go to school. Article 54 of the Constitution provides that no one should be left behind, especially the PWDs. They also have rights like everyone else. We should know where they are, so that we can reach to them at their point of need. The other reason why it is important that we register the PWDs is the issue of the political parties' nomination lists. In the counties, we expect the PWDs, women and youth, to be among the people who are nominated into the county assemblies. However, only 17 counties have nominated Members of the County Assemblies (MCAs) who are PWDs. When you ask political parties about this issue, they will answer: \"Where are these PWDs? Tutawapata wapi ? Where will we get them to put them on the party nomination list?\" I do not want get into a language that I will not finish with. So, I will continue in English."
     },
     {
-      "order": 167,
+      "order": 164,
       "id": "entry-801635",
       "label": "speech",
       "level": "3",
@@ -2007,7 +1971,7 @@
       "text": "Hon. Senator, you know very well that you cannot mix the languages. So, you better just concentrate where you are best in."
     },
     {
-      "order": 168,
+      "order": 165,
       "id": "entry-801636",
       "label": "speech",
       "level": "3",
@@ -2019,7 +1983,7 @@
       "text": "Thank you, Madam Temporary Speaker. I will speak using the English language. However, they usually ask that question in Kiswahili and that is why I was tempted to say it in that language. They will ask, \"Where do we get these PWDs to put them on the party nomination list?\" The law requires that these people are put on the party list for nominations. However, we do not know, as political parties, where to find them. With registration of these PWDs, we will be able to get them. Some of them with capabilities will be nominated to serve in county assemblies, the Senate and the National Assembly. They should also serve in other areas in building this nation. People also take advantage of a lacuna in the law which does not force political parties or the Independent Electoral and Boundaries Commission (IEBC) to have PWDs nominated. Maybe it is simply because they are also asking themselves: \"Where will we find these PWDs?\" With those few remarks, I support the Motion."
     },
     {
-      "order": 169,
+      "order": 166,
       "id": "entry-801639",
       "label": "speech",
       "level": "3",
@@ -2031,7 +1995,7 @@
       "text": "Proceed, Sen. (Rev.) Waqo."
     },
     {
-      "order": 170,
+      "order": 167,
       "id": "entry-801640",
       "label": "speech",
       "level": "3",
@@ -2043,7 +2007,7 @@
       "text": "Madam Temporary Speaker, thank you for giving me this opportunity to add my voice to this important Motion on registration of Persons with Disabilities (PWDs). It is 55 years since Kenya got Independence.Talking about this and stating that we do not have the data that can guide the nation shows that we have not played our role well. That is why I support this and I urge the relevant institution to take necessary action and do the proper finding. We all know that PWDs have been neglected in the past. In fact, in the African context, when a child is born with disability the child is known to be the mother's while all the bright, strong and the beautiful girls and handsome boys belong to the father. Most of the time, it is the women who suffer, they go through a lot of negligence and trauma. They suffer in many ways simply because our country has not given them any opportunity. I know women in my village who have tried to hide their children who are born with disabilities and do not want to talk about this because they do not want to disclose the shame related to disability. It is high time for us, as a nation, to give this the attention it deserves and request our Government to fund the necessary institutions so as to get the data that can guide us. Many PWDs have been exploited and misused in many ways. When we get to know the data the whole nation will be guided. They deserve education; many of them have been denied that opportunity. They also need proper shelter because the housesor the small huts they live in are not conducive enough. It is high time the Government considered giving them proper bedding, clothing and anything they need to be comfortable as long as they are here on earth. In fact, as a Government, we should plan for their basic needs.As a result, these people can sit as their mothers fetch firewood, feed other children and engage in other chores. Even for the ladies who are employed, it is not easy to take care of their disabled children. It is known that the people living in the cities are given attention while the others in the villages are neglected. My request is that even as we give attention to the people who live in towns or the people who are known to the politicians, we should give the same attention to the people who live in the rural areas, who nobody thinks or talks about. With those few remarks, I support the Motion and congratulate the Mover."
     },
     {
-      "order": 171,
+      "order": 168,
       "id": "entry-801641",
       "label": "speech",
       "level": "3",
@@ -2055,7 +2019,7 @@
       "text": "Well spoken. Sen. (Prof.) Ongeri, proceed."
     },
     {
-      "order": 172,
+      "order": 169,
       "id": "entry-801642",
       "label": "speech",
       "level": "3",
@@ -2067,7 +2031,7 @@
       "text": "Madam Temporary Speaker, it is actually very painful for me to contribute on this Motion on the question of requesting or calling upon the National Council of Persons with Disabilities (NCPWDs) in collaboration with the Ministry of East African Community, Labour and Social Protection to carry out nationwide registration of persons living with disabilities. I will expect that this Motion should find a Bill that will be supportive in the form of a legal framework, in order to operationalise and create action on how we need to treat people with disabilities in this country. From my own professional angle, there are various types of disabilities that we see in the country.It is important for any nation that wants to make meaningful development toenumerate and know the number of people with disability and the types of disabilities. There are those disabilities that one can live with and the ones that require a caretaker to take care of them. That is why you have heard some of the Members contributing saying that the category of people who cannot take care of themselves efficiently and effectively are prone to abuse. You have heard stories where particularly the female PWDs are abused. Since they do not understand what is happening and they are put in such agony and pain should they get pregnant because they do not know how to handle the pregnancy with its own social consequences as a result of that abuse. Therefore, we need to know where they are; literally locating where they are and putting complete ownership to the county governments because the health services and social services have been devolved to the county level. Every country must plan for PWDs. If we do not plan, this can turn out to be a disaster. Human rights of the disabled are very well engraved in our Constitution. Leave no one behind; everybody is entitled to that service. I am always worried about the National Council for Persons with Disabilities (NCPWDs) dealing with disabilities. They have resources and they tell us that their offices are open throughout the year. How can their offices be open throughout the year and they do not know whom they are serving? That is why I said maybe we should look at the Persons with Disabilities Act, 2003 and see whether there are any areas that require amendments to reinforce. First, every county must know how many PWDs are living within their county. Second, enumerate the types of disabilities;whether they are mental disabilities, visual and albinism with consequences of the kind of sorcerers who go around thinking that by doing the social marketing of body parts that there is a 'magic healing' in those body parts. This is total nonsense. We need to protect our population particularly people with albinism, people who are totally displaced who require care. Being taken to the toilet is itself a major agony. There are circumstances where you are in a public place and you want to go to a toilet and it completely disorients you. If that can happen to us, you can imagine the scenario of a PWD who may want to go for a short call. Imagine those people who have to contain their urine and fecal matter all the time and there is nobody to take care of them. That is why one of the speakers here said that they are forced to become housewives who also become tied. Therefore, the issue of torture comes in because they get tied looking after the children. They cannot advance. The state has an obligation to its citizens; whatever level they are and whatever they do. It is important that we look at this Council and see how their functions are detailed and what they do. There is a programme on cash transfer particularly to give full support to those with severe disabilities. As I mentioned earlier, it is about feeding, toiletry and protection from danger by other persons and particularly predators that may cause mischief to such kind of people. However, the cash transfers are sometimes abused. The people who are supposed to benefit from the cash transfers do not because the money goes to the other normal individuals who have no disability whatsoever but you will hear people saying they have taken care of many people with disabilities. We need to take care and ensure that the money meant for those people goes for the kinds of services that are required for them. I have talked about job placements. There are those who may not be physically disabled to the extent that they cannot go to jobs. I have seen some of the people who are visually impaired and deaf. If such people use their brain, they are the most brilliant people. Some of them have gone up to the level of doing PhDs. Some of them are resource persons in some areas of science and technology, something that some of the normal people are unable to achieve. Therefore, we must preserve such kinds of people and give them proper jobs where they can withstand. Secondly there are the legal advisory services that are required for such people. Their rights are abused and they have no recourse to legal services. How do you integrate? The only way a county or a national government will be able to provide legal services is by knowing the number of people who are disabled in the nation or within a county. Then, they need to know the types of disabilities that may require particularly the legal services when their privileges and rights are trampled upon. It is important that we create total awareness for everybody who has these issues at hand. The PWDs have numerous problems and difficulties. As a medical doctor, I know that majority of them do not want to disclose because they are suspicious of anybody whom they do not understand and know. So, they will not disclose to you the full circle of problems that they go through. We need to embrace them and bring them on board. One way of bringing them on board is by recognising that they exist. The only way to know that they exist is to look for them and get to where they are hidden in homes. The only people who can do that are the people at the grassroots such as the chiefs, assistant chiefs, and village elders. Every time we conduct a census, like we are likely to do next year, let us seize that opportunity and incorporate the census for the PWDs. That will give us a ground survey; the level at which we are able to know who among us have disabilities. I dare say that one of the surveys in the census that we are going to carry out in 2019 should be that element. How many people within a given area are PWDs? That will give us the national figure and we will then segregate that figure to the county level. Thereafter, whatever services we offer will be commensurate with the number of people who are there. Some may need schools, others hospital attention, others legal services, while others may need to attend to their normal needs of life. As a society, we must be in a position to be conscious and know whom we are treating. Madam Temporary Speaker, I thank the Mover of this Motion, Sen. Khaniri, for being conscious of PWDs because more often than not, they are ignored, they are not embraced, their rights are trampled upon and they are never known. Even when they have property, they never get those properties. Madam Temporary Speaker, I can see that time is running out. I would have contributed more on a much more expansive manner. But suffice it to say, this Motion is timely and we should take advantage of the census next year to include this as one of the questions to be included in the census. This will help give us a global figure nationally on how many PWDs we have with us. I beg to support."
     },
     {
-      "order": 173,
+      "order": 170,
       "id": "entry-801649",
       "label": "speech",
       "level": "3",
@@ -2079,7 +2043,7 @@
       "text": "The Senator's suggestion that it should be incorporated in the next census will be a good shortcut for us to know the number of PWDs we have in this country. Proceed, Sen. Shiyonga."
     },
     {
-      "order": 174,
+      "order": 171,
       "id": "entry-801650",
       "label": "speech",
       "level": "3",
@@ -2091,7 +2055,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to contribute to this Motion of Registration of PWDs. This registration is long overdue in our country. I know that thisparticular exercise comes with its own expenses, but it is the right of PWDs to be accounted for, wherever they are in in this country. These people, just like any other person, need to enjoy the rights of being educated, owning properties and basic rights as a whole. Madam Temporary Speaker, it is very disappointing to see that most of PWDs are not accounted for. The data given of slightly above 10 per cent is not accurate. There is, therefore, the need for these people to be accounted for one by one, until we get the approximate, if not their actual number. Madam Temporary Speaker, most PWDs live in terrible poverty and they are hidden. We sometimes see them on television when someone has tried to highlight their issues. Some are even kept in cowsheds, are tied with chains and are frustrated. PWDs are human beings who need to be respected and they need their rights, just like any other person in this country. It is high time that PWDs, both at the national and county levels are accounted for so that they can be incorporated into different programmes and projects that favour their disability needs. When we have accurate statistics on the same, we can align them with a budget and be able to meet all the needs. If not so, we can meet some important things that they need in this country. That category of people think that they are a bother to those who are well but these statistics will enable us to make them not feel that they are a bother or parasites to people who do not care for them. It is the high time that we put the exercise in place and account for these people as well as look at how best we come up with a programme or bring their needs on board so as to help them. Having been born with some, I can say that these people are vulnerable in our communities as alluded to by some of my colleagues and some of them, especially women, are abused. As women, we go through a lot when we are well and you can imagine what happens when one has an extra problem, especially on their physique and they are abused. It becomes so demonizing that one cannot take account of their life. Considering how some of these people are handled in our communities, this is the best time for us to account for these people so as to have the Government take portion of their needs at the national level, for them to be assisted so as to prevent them from being embarrassed or frustrated. With those remarks, I beg to support the Motion."
     },
     {
-      "order": 175,
+      "order": 172,
       "id": "entry-801651",
       "label": "speech",
       "level": "3",
@@ -2103,7 +2067,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me the opportunity to contribute to this important Motion of registration of persons living with disabilities. From the outset, I want to say that I support this Motion and thank Sen. Khaniri for it. Registration of persons living with disabilities is an important thing in this country and we should have done it a long time ago. Registration will allow them to push for their agenda such as having a disability-friendly environment within our country. You will realize that most buildings do not have a disability-friendly environment but when they are registered, they can push for this agenda. They will also be able to push for accessibility to health facilities in the counties and the places where they stay. Once registered, they will be able to enjoy the privileges that should be given to them rightfully according to Article 56(c) of the Constitution of Kenya 2010 that says that they need to access employment equally. Access to information is a right to every Kenyan and once registered and when they have a group that fights for them, they will get the information in good time which they can use to become important people in this country. I hope that the NCPWDs will reach the people living in rural areas because most of them are probably born in town but they are taken to the rural areas. I hope that once the registration of persons living with disabilities takes place, they will reach the people in the county, ward level and even rural areas. There are youths living with disabilities who are energetic and creative. I believe that they should be empowered and equipped with necessary skills that can be used to develop and grow the economy of this country. You will realize that without us knowing the exact number, we will not be able to incorporate them in our development agenda. Currently in this country, we are talking about achieving the Big Four Agenda. This can only be realised once we integrate all groups in the development agenda. Persons living with disabilities should never be marginalized; they should be recognized and included in the development process. With those few remarks, I wish to support this Motion. Thank you."
     },
     {
-      "order": 176,
+      "order": 173,
       "id": "entry-801654",
       "label": "speech",
       "level": "3",
@@ -2115,7 +2079,7 @@
       "text": "Sen. Kasanga Sylvia Mueni."
     },
     {
-      "order": 177,
+      "order": 174,
       "id": "entry-801655",
       "label": "speech",
       "level": "3",
@@ -2127,7 +2091,7 @@
       "text": "Thank you, Madam Temporary Speaker. I rise to support this Motion. I want to thank Sen. Khaniri and Sen. (Dr.) Musuruve because they continue to enlighten me on the plight of Persons with Disabilities (PWDs). If I am being enlightened, I am sure other Kenyans are also being enlightened. As I said last time, we tend to live in a bubble; unless you are directly affected, you do not get to think about the other people. It is shocking that the PWDs go through this registration challenge. In fact, it is unbelievable that we have Kenyans in our new constitutional dispensation having a challenge in registration. I cannot believe it. We have four million PWDs; actually, if they came together as a voting bloc, they would sway the election outcomes. Maybe we should think of them that way so that we take everything about them seriously. It is shocking that in a country that prides itself as being advanced we lag behind in some basic things like recognition of human rights, which is in the heart of our new Constitution. The County of Makueni invited me at one time when they were doing their planning process, because they want to build schools for PWDs. The most critical thing when you are designing an institution is that you need to know the numbers. More importantly, besides the numbers I asked them: \"What are the specifics of the disabilities?\" The way you design a built environment for someone who is visually challenged is different from someone who has a mobility challenge. So, even as we ask that the registration should happen, I concur with one of the Senators who said that we need to know the specifics of the disabilities as part of the registration process. Besides that, all these need to be catered for, from county to county because each county has its own plan for their disabled. So, they need their numbers with this kind of clarity. It is sad that in the built environments we have to be challenged all the time when we are designing to remember about the PWDs. If we knew, as consultants, that we have 10 per cent of our population living with disabilities, we would be approaching our design activities differently. Today I took a walk from Parliament to Kenyatta Avenue to have a cup of tea. It hit me that somebody who has a challenge either in mobility, visually or any other type, will have a challenge to cover that short distance. So, definitely, as Kenyans and consultants, we have a challenge in recognising that PWDs are people living amongst us and need to be embraced in our everyday life. They should not be discriminated against the way we tend to do. I look forward to the passage of this Motion and further contributions from the Senators if the opportunity will be there. It is sad that these people are being discriminated against in this day and age in this wonderful country. Madam Temporary Speaker, I support this Motion and request that Sen. Khaniri makes sure what has been proposed by several Senators who spoke is done. Thank you."
     },
     {
-      "order": 178,
+      "order": 175,
       "id": "entry-801658",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2103,7 @@
       "text": "Hon. Senators, this Motion still has a balance of one hour and 48 minutes when debate resumes. So, next time it is scheduled to appear on the Order paper it will be accorded that balance of time."
     },
     {
-      "order": 179,
+      "order": 176,
       "id": "entry-801659",
       "label": "heading",
       "level": "1",
@@ -2151,7 +2115,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 180,
+      "order": 177,
       "id": "entry-801660",
       "label": "heading",
       "level": "",
@@ -2163,7 +2127,7 @@
       "text": "."
     },
     {
-      "order": 181,
+      "order": 178,
       "id": "entry-801661",
       "label": "speech",
       "level": "",

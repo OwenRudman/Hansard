@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2022-03-22-14-30-00",
-  "exported_at": "2026-10-05T08:11:32.146Z",
+  "exported_at": "2026-10-15T19:34:18.649Z",
   "entries": [
     {
       "order": 1,
@@ -1500,22 +1500,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE COTTON INDUSTRY DEVELOPMENT BILL"
+      "text": "THE COTTON INDUSTRY DEVELOPMENT BILL\n\n(SENATE BILLS NO.55 OF 2021)"
     },
     {
       "order": 126,
-      "id": "entry-1161646",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(SENATE BILLS NO.55 OF 2021)"
-    },
-    {
-      "order": 127,
       "id": "entry-1161647",
       "label": "scene",
       "level": "3",
@@ -1527,7 +1515,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 128,
+      "order": 127,
       "id": "entry-1161648",
       "label": "heading",
       "level": "1",
@@ -1539,7 +1527,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 129,
+      "order": 128,
       "id": "entry-1161649",
       "label": "heading",
       "level": "3",
@@ -1551,7 +1539,7 @@
       "text": "THE EMPLOYMENT (AMENDMENT) BILL (SENATE BILLS NO.54 OF 2021)"
     },
     {
-      "order": 130,
+      "order": 129,
       "id": "entry-1161650",
       "label": "scene",
       "level": "3",
@@ -1563,7 +1551,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 131,
+      "order": 130,
       "id": "entry-1161651",
       "label": "heading",
       "level": "1",
@@ -1575,7 +1563,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 132,
+      "order": 131,
       "id": "entry-1161652",
       "label": "heading",
       "level": "2",
@@ -1587,7 +1575,7 @@
       "text": "THE ELECTIONS (AMENDMENT) (NO.3) BILL (SENATE BILLS NO.48 OF 2021"
     },
     {
-      "order": 133,
+      "order": 132,
       "id": "entry-1161653",
       "label": "scene",
       "level": "2",
@@ -1599,7 +1587,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 134,
+      "order": 133,
       "id": "entry-1161654",
       "label": "heading",
       "level": "1",
@@ -1611,7 +1599,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 135,
+      "order": 134,
       "id": "entry-1161655",
       "label": "heading",
       "level": "2",
@@ -1623,7 +1611,7 @@
       "text": "THE COUNTY RESOURCE DEVELOPMENT BILL (SENATE BILLS NO.45 OF 2021)"
     },
     {
-      "order": 136,
+      "order": 135,
       "id": "entry-1161656",
       "label": "scene",
       "level": "2",
@@ -1635,7 +1623,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 137,
+      "order": 136,
       "id": "entry-1161657",
       "label": "heading",
       "level": "1",
@@ -1647,7 +1635,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 138,
+      "order": 137,
       "id": "entry-1161658",
       "label": "heading",
       "level": "2",
@@ -1659,7 +1647,7 @@
       "text": "THE SPECIAL NEEDS EDUCATION BILL (SENATE BILLS NO.45 OF 2021)"
     },
     {
-      "order": 139,
+      "order": 138,
       "id": "entry-1161659",
       "label": "scene",
       "level": "2",
@@ -1671,7 +1659,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 140,
+      "order": 139,
       "id": "entry-1161660",
       "label": "heading",
       "level": "1",
@@ -1683,7 +1671,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 141,
+      "order": 140,
       "id": "entry-1161661",
       "label": "speech",
       "level": "1",

@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-11-14-14-30-00",
-  "exported_at": "2026-10-05T08:02:26.211Z",
+  "exported_at": "2026-10-15T19:27:23.213Z",
   "entries": [
     {
       "order": 1,
@@ -1512,22 +1512,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
       "order": 127,
-      "id": "entry-850838",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Sen. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 128,
       "id": "entry-850839",
       "label": "speech",
       "level": "3",
@@ -1539,7 +1527,7 @@
       "text": "Hon. Senators, the results of the Division are as follows -\n\nAYES\n\n: 26\n\nNOES\n\n: 0\n\nABSTENTIONS"
     },
     {
-      "order": 129,
+      "order": 128,
       "id": "entry-850845",
       "label": "speech",
       "level": "3",
@@ -1551,7 +1539,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 130,
+      "order": 129,
       "id": "entry-850846",
       "label": "scene",
       "level": "3",
@@ -1563,7 +1551,7 @@
       "text": "( Question carried by 26 votes to 0)"
     },
     {
-      "order": 131,
+      "order": 130,
       "id": "entry-850847",
       "label": "scene",
       "level": "3",
@@ -1575,7 +1563,7 @@
       "text": "(The Bill was accordingly read the Second Time and committed to a Committee of the Whole Tomorrow)"
     },
     {
-      "order": 132,
+      "order": 131,
       "id": "entry-850848",
       "label": "heading",
       "level": "1",
@@ -1587,7 +1575,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 133,
+      "order": 132,
       "id": "entry-850849",
       "label": "heading",
       "level": "3",
@@ -1599,7 +1587,7 @@
       "text": "THE COUNTY OUTDOOR ADVERTISING CONTROL BILL (SENATE BILLS NO.19 OF 2018)"
     },
     {
-      "order": 134,
+      "order": 133,
       "id": "entry-850850",
       "label": "speech",
       "level": "3",
@@ -1611,7 +1599,7 @@
       "text": "Hon Senators, there is no need of ringing the bell since we are already here. Therefore, log in. Hon. Senators, I will now put the question."
     },
     {
-      "order": 135,
+      "order": 134,
       "id": "entry-850851",
       "label": "heading",
       "level": "3",
@@ -1623,7 +1611,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 136,
+      "order": 135,
       "id": "entry-850853",
       "label": "scene",
       "level": "3",
@@ -1635,7 +1623,7 @@
       "text": "(Question, that The County Outdoor Advertising Control Bill (Senate Bills No.19 of 2018) be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 137,
+      "order": 136,
       "id": "entry-850854",
       "label": "other",
       "level": "3",
@@ -1647,7 +1635,7 @@
       "text": "AYES:"
     },
     {
-      "order": 138,
+      "order": 137,
       "id": "entry-850855",
       "label": "other",
       "level": "3",
@@ -1659,7 +1647,7 @@
       "text": "Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. Iman, Garissa County; Sen. Kang'ata, Murang'a County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. M. Kajwang', Homa Bay County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. (Dr.) Milgo, Bomet County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Ochilo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen."
     },
     {
-      "order": 139,
+      "order": 138,
       "id": "entry-850856",
       "label": "other",
       "level": "3",
@@ -1671,7 +1659,7 @@
       "text": "Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi City County; Sen. Shiyonga, Kakamega County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County; and, Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 140,
+      "order": 139,
       "id": "entry-850857",
       "label": "other",
       "level": "3",
@@ -1680,22 +1668,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 141,
-      "id": "entry-850858",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Sen. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 142,
+      "order": 140,
       "id": "entry-850859",
       "label": "speech",
       "level": "3",
@@ -1707,7 +1683,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n26\n\nNOES:\n\n0\n\nABSTENTIONS:\n\n0 The \"Ayes\" have it."
     },
     {
-      "order": 143,
+      "order": 141,
       "id": "entry-850866",
       "label": "scene",
       "level": "3",
@@ -1719,7 +1695,7 @@
       "text": "(Question carried by 26 votes to 0)"
     },
     {
-      "order": 144,
+      "order": 142,
       "id": "entry-850867",
       "label": "scene",
       "level": "3",
@@ -1731,7 +1707,7 @@
       "text": "(The Bill was accordingly read a Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 145,
+      "order": 143,
       "id": "entry-850868",
       "label": "speech",
       "level": "3",
@@ -1743,7 +1719,7 @@
       "text": "Hon. Senators, I now direct that the Bars be drawn and the Doors be opened."
     },
     {
-      "order": 146,
+      "order": 144,
       "id": "entry-850869",
       "label": "scene",
       "level": "3",
@@ -1755,7 +1731,7 @@
       "text": "(The Bars were drawn and the Doors opened)"
     },
     {
-      "order": 147,
+      "order": 145,
       "id": "entry-850870",
       "label": "speech",
       "level": "3",
@@ -1767,7 +1743,7 @@
       "text": "We will go back to Statements. Proceed, Sen. Shiyonga."
     },
     {
-      "order": 148,
+      "order": 146,
       "id": "entry-850871",
       "label": "scene",
       "level": "3",
@@ -1779,7 +1755,7 @@
       "text": "(Resumption of debate on Statements)"
     },
     {
-      "order": 149,
+      "order": 147,
       "id": "entry-850872",
       "label": "heading",
       "level": "1",
@@ -1791,7 +1767,7 @@
       "text": "STATEMENTS"
     },
     {
-      "order": 150,
+      "order": 148,
       "id": "entry-850873",
       "label": "heading",
       "level": "2",
@@ -1803,7 +1779,7 @@
       "text": "ALARMING HIGH RATES OF TEENAGE PREGNANCIES"
     },
     {
-      "order": 151,
+      "order": 149,
       "id": "entry-850874",
       "label": "speech",
       "level": "2",
@@ -1815,7 +1791,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity to contribute to this Statement. I thank Sen. Khaniri for bringing it to the House. Indeed, the concern regarding high rate of teenage pregnancies is alarming because the public does not know how to offer moral support to the young generation. The issue of teenage pregnancies is a dangerous ticking time bomb for our youth. The reproductive parts of these children have not fully developed, but men are still playing with them. As a mother, I imagine the pain we go through when giving birth. Therefore, I cannot imagine the pain that a pregnant ten year old child goes through when carrying a pregnancy or when giving birth. Therefore, I suggest that we give a hefty penalty to any culprit that performs this act."
     },
     {
-      "order": 152,
+      "order": 150,
       "id": "entry-850875",
       "label": "scene",
       "level": "2",
@@ -1827,7 +1803,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 153,
+      "order": 151,
       "id": "entry-850876",
       "label": "speech",
       "level": "2",
@@ -1839,7 +1815,7 @@
       "text": "Mr. Speaker, Sir, please protect me."
     },
     {
-      "order": 154,
+      "order": 152,
       "id": "entry-850877",
       "label": "speech",
       "level": "2",
@@ -1851,7 +1827,7 @@
       "text": "Order, Members! You are protected."
     },
     {
-      "order": 155,
+      "order": 153,
       "id": "entry-850878",
       "label": "speech",
       "level": "2",
@@ -1863,7 +1839,7 @@
       "text": "Thank you, Mr. Speaker, Sir."
     },
     {
-      "order": 156,
+      "order": 154,
       "id": "entry-850879",
       "label": "scene",
       "level": "2",
@@ -1875,7 +1851,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 157,
+      "order": 155,
       "id": "entry-850880",
       "label": "speech",
       "level": "2",
@@ -1887,7 +1863,7 @@
       "text": "The man eaters are threatening the ---"
     },
     {
-      "order": 158,
+      "order": 156,
       "id": "entry-850881",
       "label": "speech",
       "level": "2",
@@ -1899,7 +1875,7 @@
       "text": "Mr. Speaker, Sir, I propose one of the strongest penalties that will be applied to the men who will be caught doing this is to 'scoop' those 'engines' or reproductive organs that perform this act. When they are 'scooped' by a qualified surgeon, they will not perform this ever again."
     },
     {
-      "order": 159,
+      "order": 157,
       "id": "entry-850882",
       "label": "scene",
       "level": "2",
@@ -1911,7 +1887,7 @@
       "text": "(Loud Consultations)"
     },
     {
-      "order": 160,
+      "order": 158,
       "id": "entry-850883",
       "label": "speech",
       "level": "2",
@@ -1923,7 +1899,7 @@
       "text": "On a point of order, Mr. Speaker, Sir."
     },
     {
-      "order": 161,
+      "order": 159,
       "id": "entry-850884",
       "label": "speech",
       "level": "2",
@@ -1935,7 +1911,7 @@
       "text": "Order, Members! Sen. Outa, what is your point of order?"
     },
     {
-      "order": 162,
+      "order": 160,
       "id": "entry-850885",
       "label": "speech",
       "level": "2",
@@ -1947,7 +1923,7 @@
       "text": "Mr. Speaker, Sir, you have heard the Senator bringing in another dimension; of 'scooping' the organs."
     },
     {
-      "order": 163,
+      "order": 161,
       "id": "entry-850886",
       "label": "scene",
       "level": "2",
@@ -1959,7 +1935,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 164,
+      "order": 162,
       "id": "entry-850887",
       "label": "speech",
       "level": "2",
@@ -1971,7 +1947,7 @@
       "text": "Is she in order to use those un-parliamentary words in this House? When she states that those organ needs to be 'scooped', is it for both the children and the adult involved in this engagement?"
     },
     {
-      "order": 165,
+      "order": 163,
       "id": "entry-850888",
       "label": "speech",
       "level": "2",
@@ -1983,7 +1959,7 @@
       "text": "Hon. Senator, you may need to explain how the 'scooping' is to be done; otherwise it will be un-parliamentary."
     },
     {
-      "order": 166,
+      "order": 164,
       "id": "entry-850889",
       "label": "speech",
       "level": "2",
@@ -1995,7 +1971,7 @@
       "text": "Mr. Speaker, Sir, the 'scooping' will be performed medically by a surgeon without consent. He or she will remove the reproductive parts of men who have done this act so that they will learn. I only wish that this is done to only five of them so that it serves as an example. Sen. Outa, you know the area very well. They need to remove the whole part so that they heal with the understanding that what they did is not deserved in the country of Kenya and in our generation."
     },
     {
-      "order": 167,
+      "order": 165,
       "id": "entry-850890",
       "label": "scene",
       "level": "2",
@@ -2007,7 +1983,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 168,
+      "order": 166,
       "id": "entry-850891",
       "label": "speech",
       "level": "2",
@@ -2019,7 +1995,7 @@
       "text": "Mr. Speaker, Sir, even if they send these men to jail, they will still continue doing that. We have already heard cases of what is happening in our prisons. Therefore, if they go to jail with those 'instruments' intact, they will still do it. I, therefore, feel that removing them is the best solution."
     },
     {
-      "order": 169,
+      "order": 167,
       "id": "entry-850892",
       "label": "scene",
       "level": "2",
@@ -2031,7 +2007,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 170,
+      "order": 168,
       "id": "entry-850893",
       "label": "speech",
       "level": "2",
@@ -2043,7 +2019,7 @@
       "text": "Thank you, Mr. Speaker, Sir, for giving me this opportunity. There is a lot of laughter in the House. I do not know whether it is because the men are excited---"
     },
     {
-      "order": 171,
+      "order": 169,
       "id": "entry-850894",
       "label": "speech",
       "level": "2",
@@ -2055,7 +2031,7 @@
       "text": "Order, hon. Members! The House is a bit excited about the 'scooping' but let us have some order."
     },
     {
-      "order": 172,
+      "order": 170,
       "id": "entry-850895",
       "label": "speech",
       "level": "2",
@@ -2067,7 +2043,7 @@
       "text": "Mr. Speaker, Sir, as I was saying, I thank you for giving me few minutes to add my voice to this Statement. I would have felt very bad if I did not contribute to it. I congratulate Sen. Khaniri for coming up with this Statement that is touching, burning and causing a lot of emotions to each one of us. I stand to support it because I am a mother and a lady. As we all know, many of our girls cannot do their exams well because they are expectant. Mr. Speaker, Sir, we are raising our concerns because this session is a sensitive one. Our girls are missing their exams because they are either pregnant or are delivering their children. It is unfortunate that, as a nation, this is the only time that this has come to our attention. As a woman, my mind goes back to the other three quarters of the year; the first, second and the third, where many girls have given birth for the last nine months and nobody has raised any concerns."
     },
     {
-      "order": 173,
+      "order": 171,
       "id": "entry-850897",
       "label": "scene",
       "level": "2",
@@ -2079,7 +2055,7 @@
       "text": "[The Speaker (Hon. Lusaka) left the Chair]"
     },
     {
-      "order": 174,
+      "order": 172,
       "id": "entry-850898",
       "label": "scene",
       "level": "2",
@@ -2091,7 +2067,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) in the Chair]"
     },
     {
-      "order": 175,
+      "order": 173,
       "id": "entry-850899",
       "label": "speech",
       "level": "2",
@@ -2103,7 +2079,7 @@
       "text": "Mr. Deputy Speaker, Sir, when a Standard Eight child delivers in an exam room, many of us, as mothers, wonder how that girl has gone through all the pain and managed to sit for her exams. Therefore, this is something that should concern us, as a nation. Mr. Deputy Speaker, Sir, it is some of these issues that we, as a nation, should be concerned with. Many of our girls have fallen victims as a result of rape. Rape cases have increased in places like Marsabit County or generally, in pastoralist areas, where in the past, cases of rapes or even men having discussions with girls was unheard of. However, that is a common thing today and many men, instead of talking to grown up women, they go to young girls and misuse them. We should, therefore, come up with serious measures - as my namesake Sen. Naomi Shiyonga has suggested - in order to deter men from causing harm to our girls. Mr. Deputy Speaker, Sir, when girls are exposed to male teachers and subordinate staff in the schools, they take advantage of them."
     },
     {
-      "order": 176,
+      "order": 174,
       "id": "entry-850900",
       "label": "scene",
       "level": "2",
@@ -2115,7 +2091,7 @@
       "text": "(Several hon. Senators consulted the Deputy Speaker)"
     },
     {
-      "order": 177,
+      "order": 175,
       "id": "entry-850901",
       "label": "speech",
       "level": "2",
@@ -2127,7 +2103,7 @@
       "text": "Mr. Deputy Speaker, Sir, I request that you be attentive, because the men are surrounding you and you might not hear what I am saying."
     },
     {
-      "order": 178,
+      "order": 176,
       "id": "entry-850902",
       "label": "scene",
       "level": "2",
@@ -2139,7 +2115,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 179,
+      "order": 177,
       "id": "entry-850903",
       "label": "speech",
       "level": "2",
@@ -2151,7 +2127,7 @@
       "text": "The Ministry of Education has to come up with some serious measures so that any man who is found guilty should be dealt with properly. When we talk about this huge number of girls that are suffering with teenage pregnancies, the question I have is; where are the men who slept with these girls and caused them to go through this pain? Why are we not talking of even one single man who has done this; and, why are we not taking any action? Mr. Deputy Speaker, Sir, just the other day, I heard someone saying that the parents of the pregnant girls should be dealt with. However, what role has a parent played when the girls were misused by men when going to school and while in school? Men do whatever they want with girls when the parents are busy looking for their school fees. Therefore, as we take action on the victims, who are the girls in this case, we should also take action on the perpetrators. The girls should be forced to reveal the identities of the men who have caused those pregnancies, and they should be dealt with properly. Mr. Deputy Speaker, Sir, female teachers in schools should protect our girls. We should tell them to be the mothers when we are not there, so that any man looking at any young girl with a suspicious eye should be dealt with immediately. That can be seen easily because women can know if the men are serious. Therefore, female teachers should be made responsible and be requested to fill the gap when the parents are not there. Mr. Deputy Speaker, Sir, as the girls go through these ordeals, they are also infected with diseases, including contracting HIV/AIDs, and the men do not care at all. When these girls throw their children in the streets, which then causes an increase in the number of street children, it then looks like we are not able to control our society. As I conclude, Mr. Deputy Speaker, Sir, I request---"
     },
     {
-      "order": 180,
+      "order": 178,
       "id": "entry-850906",
       "label": "speech",
       "level": "2",
@@ -2163,7 +2139,7 @@
       "text": "Proceed, Sen. Pareno."
     },
     {
-      "order": 181,
+      "order": 179,
       "id": "entry-850907",
       "label": "speech",
       "level": "2",
@@ -2175,7 +2151,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity to contribute to this Statement. It was very painful and touching when it was reported in the news that Kajiado County was one of the affected counties. This is especially because it was reported that Mashuru Division in Oloitokitok, where I come from, was one of the worst hit areas. It was reported that out of the over 200 students who missed their exams in Kajiado County, 75 per cent were girls, because there were young men who did not also turn up to do their examinations. We, therefore, had a total of about 199 girls and another 55 boys who missed these examinations and who were absent during the day of the examination. Mr. Deputy Speaker, Sir, we must go to the root cause of this problem. In Kajiado County, you cannot talk about school dropouts without talking about Female Genital Mutilation (FGM). These two issues go hand in hand and if we do not handle issues that our anti-FGM campaigns raise, then we are going to be affected just as much as the other counties. We must also talk about the issue of poverty. There is a report that indicates that most of the girls who are dropping out are from very poor families. The report even shows that the poverty index affects this particular aspect in society. Mr. Deputy Speaker, Sir, we carried out a mentorship program and an Alternative Rite of Passage (ARP) between 23rd and 25th of August, 2018, in Mashuru Sub County, which is one of the affected sub counties. During this exercise, we took a total of 166 girls and 48 boys through guidance and counselling. The reason this program had both girls and boys is because we believe that the boy is also the sister's keeper. If the boys were also taught that they should not be involved in teenage pregnancies, then they can also help to shape up the society. We should, therefore, not leave out the boys in these programmes, but also talk about the boy child when discussing some of these programmes. Mr. Deputy Speaker, Sir, during the sessions on alternative rite of passage and mentorship programmes, we called in role models, first ladies and County ARP champions to talk to them. One of the resolutions we made is that we needed to rescue these children. Imagine a child giving birth to a child; we actually need to rescue that child and also the child that has been born. They need care and counselling and, therefore, some of the proposals we made is to have rescue centers for these children for purposes of managing them. Mr. Deputy Speaker, Sir, the reason we did this is because early pregnancies and FGM are no longer issues that can be handled individually. This is because they are communal in nature and we should come up, as communities, to try and help address these problems. It is also the right time that we relooked at the roles we are playing, as parents, and also the role of the social media in these issues. We, therefore, need to relook at the sex education that we are giving to our children. I keep wondering what happened to the traditional education that we used to get from our aunties, because they used to take us through a lot, for example, our morals and shaping us as we grow up. It is time that we went back to our communal setups and addressed it from there. It is serious and painful; and it is time that we all acted to improve on this situation."
     },
     {
-      "order": 182,
+      "order": 180,
       "id": "entry-850909",
       "label": "speech",
       "level": "2",
@@ -2187,7 +2163,7 @@
       "text": "Hon. Senators, we have overshot the Statement Hour, I will, therefore, allow very few requests for three minutes each, and then we move on to other items on today's Order Paper. Proceed, Sen. Imana; you strictly have three minutes."
     },
     {
-      "order": 183,
+      "order": 181,
       "id": "entry-850910",
       "label": "scene",
       "level": "2",
@@ -2199,7 +2175,7 @@
       "text": "(Hon. Senators consulted loudly)"
     },
     {
-      "order": 184,
+      "order": 182,
       "id": "entry-850911",
       "label": "speech",
       "level": "2",
@@ -2211,7 +2187,7 @@
       "text": "I have given the floor to Sen. Iman."
     },
     {
-      "order": 185,
+      "order": 183,
       "id": "entry-850912",
       "label": "speech",
       "level": "2",
@@ -2223,7 +2199,7 @@
       "text": "There are two."
     },
     {
-      "order": 186,
+      "order": 184,
       "id": "entry-850913",
       "label": "speech",
       "level": "2",
@@ -2235,7 +2211,7 @@
       "text": "Who is the other one? We have Sen. (Prof.) Ekal Imana and Sen. Iman; I called Sen. Iman."
     },
     {
-      "order": 187,
+      "order": 185,
       "id": "entry-850914",
       "label": "speech",
       "level": "2",
@@ -2247,7 +2223,7 @@
       "text": "Mr. Deputy Speaker, Sir, my time should be reset."
     },
     {
-      "order": 188,
+      "order": 186,
       "id": "entry-850915",
       "label": "speech",
       "level": "2",
@@ -2259,7 +2235,7 @@
       "text": "Proceed! You have three minutes from now."
     },
     {
-      "order": 189,
+      "order": 187,
       "id": "entry-850916",
       "label": "speech",
       "level": "2",
@@ -2271,7 +2247,7 @@
       "text": "Mr. Deputy Speaker, Sir, I believe that charity begins at home. We should not blame the Ministry of Education and the Ministry of Health because, as parents, we play a big role in all this. We used to be told to abstain from sex and then use condoms. Mr. Deputy Speaker, Sir, the statistics for Garissa County is at 10 per cent. I believe this is wrong because it is more than that and we need to review it. In our country, nearly 18 per cent of adolescents are girls and mothers are aged between 15 and 19 years. When an adolescent becomes a mother, it means that some opportunities are missed, for example educational growth; and they also carry the stigma as well. Therefore, Mr. Deputy Speaker, Sir, the Government should have tough penalties for the offenders. We need to come up with legislation that will safeguard school-going girls from \"women eaters\" or \"girl eaters;\" whatever they are called. I will refer to them as sex pests. We need to review the current Sexual Offences Act and if one of them is found, he should be an example to all men. A tough jail term should be imposed on them. Mr. Deputy Speaker, Sir, I want to speak for my community. When teenage girls get pregnant, they are told that no one will marry them. It is also believed that the family of the girl who gets pregnant is cursed. Therefore, there is stigma. Mr. Deputy Speaker, Sir, I have a lot to say, but I will say it some other day. Thank you."
     },
     {
-      "order": 190,
+      "order": 188,
       "id": "entry-850921",
       "label": "speech",
       "level": "2",
@@ -2283,7 +2259,7 @@
       "text": "You have said enough for today. Let us now listen to Sen. Mwaruma."
     },
     {
-      "order": 191,
+      "order": 189,
       "id": "entry-850922",
       "label": "speech",
       "level": "2",
@@ -2295,7 +2271,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me the opportunity to contribute to this important Statement. In school, children are taught knowledge, skills and values. They are supposed to be taught the three but because of the stressed syllabus, and we end up teaching knowledge and skills and overlook the part of values. Maybe the syllabus should be relooked so that more time is created for teaching the values. There has been talk about chasing from school girls who have been impregnated; and I dare say that we should not do that. This is because while the girls carry the pregnancies, boys do not, and they remain in school. The girls also need to remain in school and be taken good care of until they deliver the babies. Mr. Deputy Speaker, Sir, most of the perpetrators of such heinous acts are young teachers and they should also be taught life skills. When they are in class, for example, they should be taught not to look at the girls in the faces or sensitive areas if they are \"weak.\" They should be taught to look above their heads. I am saying this because I have been a teacher for over 21 years, both in secondary schools and at the university level. I, therefore, know that there are some people who are very \"weak\" and they cannot dare look at the faces and the backs of girls without being excited. Therefore, such teachers should be taught life skills. Sen. Wako said there are many but I can tell you that such teachers are very few. I have taught for all those years without admiring a girl. Thirdly, Mr. Deputy Speaker, Sir, parents need to take good care of their children. Sen. Pareno talked about poverty as a factor leading to pregnancies. For example, if you do not give your child enough pocket money, she will get it from men, boda boda riders and people working in hotels who have a lot of experience in this. Some parents are also perpetrators because they wonder why their children aged 12, 13, or 15 years ask for pocket money from them. They, therefore, ask their children to look for pocket money elsewhere. Parents, therefore, also have a lot to do with these early pregnancies. If you do not have the money, try to talk to your children so that they understand that you may lack money, but if you take good care of yourself---"
     },
     {
-      "order": 192,
+      "order": 190,
       "id": "entry-850926",
       "label": "speech",
       "level": "2",
@@ -2307,7 +2283,7 @@
       "text": "Your time is up. Proceed, Sen. Cherargei; you have the Floor."
     },
     {
-      "order": 193,
+      "order": 191,
       "id": "entry-850927",
       "label": "speech",
       "level": "2",
@@ -2319,7 +2295,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. From the outset, I thank Sen. Khaniri for bringing this Statement. It is sad that instead of discussing the future of our children, we are discussing what is bringing down the success we want. For the past decade, the girl-child has received a lot of attention. As we discuss early teenage pregnancies, which normally affect girls, we should also look into issues affecting the boy-child, because they are the perpetrators. Therefore, we need to also give special attention to them. This generation glorifies \"sponsors\", \"women eaters\", \"sponsoresses\" and many others---"
     },
     {
-      "order": 194,
+      "order": 192,
       "id": "entry-850930",
       "label": "speech",
       "level": "2",
@@ -2331,7 +2307,7 @@
       "text": "Who are those?"
     },
     {
-      "order": 195,
+      "order": 193,
       "id": "entry-850931",
       "label": "speech",
       "level": "2",
@@ -2343,7 +2319,7 @@
       "text": "I think Justice Wakiaga was very clear, that there are versions of \"slay queens\"---"
     },
     {
-      "order": 196,
+      "order": 194,
       "id": "entry-850932",
       "label": "speech",
       "level": "2",
@@ -2355,7 +2331,7 @@
       "text": "We are not aware of what the good judge said. You are using a lot of terminology that we may not be familiar with."
     },
     {
-      "order": 197,
+      "order": 195,
       "id": "entry-850933",
       "label": "speech",
       "level": "2",
@@ -2367,7 +2343,7 @@
       "text": "Sugar daddies have been glorified. The social media stresses on sex. When you watch news at 9.00 p.m., most of the commercial advertisements by television stations have sexual connotations, yet at that time, most of our children watch television. We should also look for ways of restricting the use of internet and social media. Mr. Deputy Speaker, Sir, we should also make amendments to the Sexual Offences Act. I have heard someone propose castrating the perpetrators; but I would like to tell them that all reproductive organs are not productive. Mr. Deputy Speaker, Sir, I agree with that we need a legislative and policy framework. We also need to train our security agencies on how to handle some of the cases so that our girls can have another opportunity to go back to school so that they realise their full potential. However, let us not forget the boy-child. Some of us are officials of boy-child organisations in this country, and we should try to protect their interests and ensure that our children are safe. Thank you, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 198,
+      "order": 196,
       "id": "entry-850937",
       "label": "speech",
       "level": "2",
@@ -2379,7 +2355,7 @@
       "text": "Next is the Senator for Kitui County. Sen. Wambua, you have three minutes."
     },
     {
-      "order": 199,
+      "order": 197,
       "id": "entry-850938",
       "label": "speech",
       "level": "2",
@@ -2391,7 +2367,7 @@
       "text": "Mr. Deputy Speaker, Sir, having listened to contributions from my colleagues, we are all grappling with the push and pull factors regarding this alarming situation in our country. We are wondering whether it is our failure in parenting or whether it is our teachers who are failing us. We are also wondering whether it is the law enforcement officers who are not doing their job, or whether it is the Churches, Mosques and other places of worship. From the outset, this is a matter that calls for a candid national conversation. Mr. Deputy Speaker, Sir, as I thank my colleague from Vihiga County for bringing this Statement, I also want to urge him to consider pushing for the establishment of the Senate Select Committee to deal with this issue precisely. This because I am not convinced that the Ministry of Education has what it takes to deal with this matter and bring it to a close. There is so much rot in that Ministry that impunity is at its highest levels. For example, I received a call today from a student in a private institution registered and validated by the Ministry, where the Principal and the Director have collected examination fees for the Kenya National Examinations Council (KNEC) from 150 students. However, the students went to do their examinations but they told they had not been registered. Mr. Deputy Speaker Sir, on this issue of teenage pregnancies, Kitui County has a 14 per cent prevalence rate according to statistics given by Sen. Khaniri. When this matter was reported, I also received information about Ministry officials who were talking to journalists, telling them not to spill the beans. They were asking the journalists not to say these things in public for fear that they will put the county in bad light. This is a call to action. It is only in Kenya where you will have one person from one school impregnating 11 pupils and he walks around scot-free. I want to say---"
     },
     {
-      "order": 200,
+      "order": 198,
       "id": "entry-850940",
       "label": "speech",
       "level": "2",
@@ -2403,7 +2379,7 @@
       "text": "Sen. Wambua, your time is up."
     },
     {
-      "order": 201,
+      "order": 199,
       "id": "entry-850943",
       "label": "speech",
       "level": "2",
@@ -2415,7 +2391,7 @@
       "text": "Mr. Deputy Speaker, Sir, this matter might possibly be referred to my Committee. Therefore, I will make my remarks brief. First, the ratings we are hearing are making people lose sight of this issue. Our counties are not competing on this matter. Even if it was a matter of only one county, we should have the same kind of outrage. It is not about whether your county has a 40 per cent or a 20 per cent prevalence rate; it is a moral problem in our county. Mr. Deputy Speaker, Sir, I agree on the first dimension, where Members are saying that older men are preying on these young girls. We must criminalize it and take it as seriously as it should be taken. We must ensure that any such person who snatches out the future of a child gets the highest kind of punishment. Mr. Deputy Speaker, Sir, there is an element that we are not looking at. Many young girls who are getting pregnant are being impregnated by their peers. What is wrong with our society? What kind of county accepts such numbers? The rapists, the older men and the sponsors must be dealt with. What happened to our value system in this country? Mr. Deputy Speaker Sir, so many times one will go to establishments of recreation and you find even colleagues are there. But just because it is a bouncing castle, you think you can go and get alcohol in the same venue where children play. Children are exposed to so much indecency at such a young age. Just a few weeks ago I was at an establishment that I will not name along Limuru Road; it is a very big place that you all know. I gave them seven days to comply, because they have a bar that masquerades as a balling alley. You will find young, unaccompanied children and teenagers being dropped by their parents there, and the 14 and 15 year-olds are going in for the alcohol. I told them 'if you do not comply within seven days, we will shut down this place.' Mr. Deputy Speaker, Sir, that is the level that we, as a country, have come down to. We are exposing our children to so much rot and decay at such a young age and we must deal with it. When you see the society grappling with such issues, it means that the voice and the place of men has been diminished. If you look at the kind of discussions we have been having over the past few years, when you talk about prevention against domestic violence - I hope that my male colleagues are listening to me - we say that is a 'women's' issue' and we are not in the House. When we talk about issues of gender equity, we say that is a 'women's' issue' we are not involved. The biggest voices we are hearing on this matter of teenage pregnancy right now is that of women, and I am glad that it is Sen. Khaniri who has raised it here. When will we realize our spiritual role in society to protect, guide and show the way to cover a generation and society? It is that absence that has led our young girls not being affirmed by their fathers such that a boda boda man can tell them they are beautiful because you have never told your daughter she is beautiful. She does not know that you are her first love. Mr. Deputy Speaker, Sir, the place of male parenting in society cannot be overstated. That is why today, if you go online, because our young girls they lack esteem, they have to take photos showing their behinds on Instagram. That is why there is an epidemic of slay queens. We must---"
     },
     {
-      "order": 202,
+      "order": 200,
       "id": "entry-850945",
       "label": "speech",
       "level": "2",
@@ -2427,7 +2403,7 @@
       "text": "Your time is up, Sen. Sakaja. I will, however, give you one minute to conclude."
     },
     {
-      "order": 203,
+      "order": 201,
       "id": "entry-850946",
       "label": "speech",
       "level": "2",
@@ -2439,7 +2415,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I am passionate because I am a parent. We see the number of young girls who also send us messages as legislators from well off to do families. However, they just want affection. Therefore, let us look at all the dimensions, including the criminal element of it. We should also look at why we have lost such values in our schools such that those young teenagers, both boys and girls, think it is okay for them to engage in sex recklessly. As Sen. Kilonzo Jnr said, it is not just the incidence; it is how many of them are doing it. The percentages we have are those of the teenagers who have been caught by pregnancy; however, it is a bigger number."
     },
     {
-      "order": 204,
+      "order": 202,
       "id": "entry-850947",
       "label": "speech",
       "level": "2",
@@ -2451,7 +2427,7 @@
       "text": "Order, hon. Senators, I see the table of requests is still fairly full. Unfortunately, we have overshot our time. As you are aware, the Statement Hour should not proceed for more than one hour. We are now going past the one hour mark. Fortunately, we shall end it there. This is not the end of the debate and there will be another opportunity to vent on it, if need be. Hon. Senators, the reason I allowed an overshoot on time is because this is a matter of grave national importance, because we are talking about the future of our children and that of our nation. Sen. Sakaja, among other speakers, have captured the matter as graphically as it ought to have been captured. Therefore, I will exercise my discretion under Standing Order 47. As you are aware, this Statement was brought under Standing Order 47(3), which says:- \"The Speaker may, where appropriate, refer a Statement made under paragraph (1) to the relevant Committee for consideration.\" Hon. Senators, having determined that this is a serious matter appropriate for reference to the relevant Committee, I rule that the matter, as raised in this Statement, be seized by the Committee on Education jointly with the Senate Committee on Labour and Senate Social Welfare. I further direct that when the Committees finish their work, they should report, not only to the Senator, but also to the House. It is so ordered. The Statements by Sen. Mwaruma are deferred."
     },
     {
-      "order": 205,
+      "order": 203,
       "id": "entry-850948",
       "label": "heading",
       "level": "2",
@@ -2463,7 +2439,7 @@
       "text": "CSR PROJECTS AND PROGRAMMES UNDER SGR"
     },
     {
-      "order": 206,
+      "order": 204,
       "id": "entry-850949",
       "label": "heading",
       "level": "2",
@@ -2475,7 +2451,7 @@
       "text": "DIVISION OF MINING REVENUE IN TAITA TAVETA"
     },
     {
-      "order": 207,
+      "order": 205,
       "id": "entry-850950",
       "label": "scene",
       "level": "2",
@@ -2487,7 +2463,7 @@
       "text": "(Statements deferred)"
     },
     {
-      "order": 208,
+      "order": 206,
       "id": "entry-850952",
       "label": "speech",
       "level": "2",
@@ -2499,7 +2475,7 @@
       "text": "Hon. Senators, I will also make adjustments to the remaining items on the Order Paper, pursuant to Standing Order 40 as follows: Orders No. 11, 12 and 13 have been deferred."
     },
     {
-      "order": 209,
+      "order": 207,
       "id": "entry-850953",
       "label": "heading",
       "level": "1",
@@ -2511,7 +2487,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 210,
+      "order": 208,
       "id": "entry-850954",
       "label": "heading",
       "level": "2",
@@ -2523,7 +2499,7 @@
       "text": "THE RETIREMENT BENEFITS (DEPUTY PRESIDENT AND DESIGNATED STATE OFFICERS) (AMENDMENT) BILL (SENATE BILLS NO.2 OF 2018)"
     },
     {
-      "order": 211,
+      "order": 209,
       "id": "entry-850955",
       "label": "heading",
       "level": "2",
@@ -2535,7 +2511,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO.13 OF 2018"
     },
     {
-      "order": 212,
+      "order": 210,
       "id": "entry-850956",
       "label": "heading",
       "level": "2",
@@ -2547,7 +2523,7 @@
       "text": "THE CARE AND PROTECTION OF OLDER MEMBERS OF SOCIETY BILL (SENATE BILLS NO.17 OF 2018)"
     },
     {
-      "order": 213,
+      "order": 211,
       "id": "entry-850957",
       "label": "scene",
       "level": "2",
@@ -2559,7 +2535,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 214,
+      "order": 212,
       "id": "entry-850958",
       "label": "speech",
       "level": "2",
@@ -2571,7 +2547,7 @@
       "text": "Hon. Senators, we shall proceed to canvass the agenda appearing under Order No.14. Next Order."
     },
     {
-      "order": 215,
+      "order": 213,
       "id": "entry-850959",
       "label": "heading",
       "level": "1",
@@ -2583,7 +2559,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 216,
+      "order": 214,
       "id": "entry-850961",
       "label": "heading",
       "level": "3",
@@ -2595,7 +2571,7 @@
       "text": "THE LAND VALUE INDEX LAWS (AMENDMENT) BILL (NATIONAL ASSEMBLY BILLS NO.3 OF 2018)"
     },
     {
-      "order": 217,
+      "order": 215,
       "id": "entry-850962",
       "label": "scene",
       "level": "3",
@@ -2607,7 +2583,7 @@
       "text": "(Sen. Murkomen on 13.11.2018)"
     },
     {
-      "order": 218,
+      "order": 216,
       "id": "entry-850963",
       "label": "scene",
       "level": "3",
@@ -2619,7 +2595,7 @@
       "text": "(Resumption of Debate interrupted on 13.11.2018)"
     },
     {
-      "order": 219,
+      "order": 217,
       "id": "entry-850964",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2607,7 @@
       "text": "Sen. Mutula Kilonzo Jnr. was seconding the last time the House adjourned. You have up to seven minutes to conclude your seconding remarks."
     },
     {
-      "order": 220,
+      "order": 218,
       "id": "entry-850965",
       "label": "speech",
       "level": "3",
@@ -2643,7 +2619,7 @@
       "text": ".: Mr. Deputy Speaker, Sir, would you mind if I request for an extra five minutes?"
     },
     {
-      "order": 221,
+      "order": 219,
       "id": "entry-850966",
       "label": "speech",
       "level": "3",
@@ -2655,7 +2631,7 @@
       "text": "It is granted; you now have a total of 12 minutes."
     },
     {
-      "order": 222,
+      "order": 220,
       "id": "entry-850967",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2643,7 @@
       "text": ".: Thank you, Mr. Deputy Speaker, Sir. While seconding this Bill, I was at Clause 7. I must now confess that after reading this Bill, at the first instance I was under the impression that, in fact, we were amending a law. Fortunately, I have read the draft report of the Committee on Land, Environment and Natural Resources and I realized that we do not have a land value law. This proposal attempts to introduce a land value index and to that extent, I am aware that the title to the Bill will change so that it conforms to the law. Mr. Deputy Speaker, Sir, Sen. Murkomen mentioned Clause 13 and two other clauses where it appears that the proposers of this Bill are attempting to stifle the court in terms of the orders it can issue before land is acquired. I have seen a draft report, which states that the Committee on Land, Environment and Natural Resources will amend Clause 13 so that the power of the court in hearing appeals on matters of compensation cannot be restricted by legislation. This is because they have power under the Constitution. Similarly, under Clause 16, they attempt to amend the law. We must say clearly that it is not feasible that land can be acquired and possession taken by the Government before compensation is done. Compulsory acquisition is not the same thing as chasing people from their land. The word 'compulsory' means that the Government needs that land for public purposes and makes it compulsory that, that person will leave their land. To suggest that people should leave their land before they are compensated is not constitutional. Mr. Deputy Speaker, Sir, under Part VIIIA, I have a problem with the Land Acquisition Tribunal. It is a good proposal to have the Tribunal to listen to appeals from the Commission, but the composition is wrong. The composition of one person appointed from the Judicial Service Commission (JSC) is ambiguous. This is because the JSC would either forward a magistrate or a judge, but not just any person. It does not seem to qualify who that person is, which is wrong. Even worse, the Attorney-General is the advisor of commissions and the Government. If we have a tribunal that will listen to appeals from the Commission, why would the Attorney-General have a representative in the tribunal? That is a contradiction. The Attorney-General cannot sit or have a representative in a matter where there would be a conflict of interest where the national Government is acquiring land. I hope that the Committee will amend this Clause so that the tribunal can be properly constituted. I have not seen the report on what the Committee intended to deal with this issue. However, it is a problem to have a tribunal that is composed of people who would ideally be jurists and professionals who are appointed by the Cabinet Secretary (CS). I was hoping that there would be something different; and that it would not be an Executive- laden body. The tribunal cannot be an extension of the Executive. By virtue of the work and the acquisition of land, it would be listening to appeals against acquisition by the national Government. Therefore, the jurisdiction of the tribunal should be amended such that they should subscribe to an oath and be allowed to make rules. Therefore, Clause 13 should be amended. The proposed Section 133C(8) says: \"The Tribunal may, in matters relating to compulsory acquisition of land, hear and determine a complaint before it arising under Articles 23(2) and 47(3) of the Constitution, using the framework set out under the Fair Administrative Action Act or any other law.\" This Tribunal cannot hear matters that are ideally subscribed to be heard by a court. Therefore, this article is wrongly placed in this proposal. Mr. Deputy Speaker, Sir, in the appeals under proposed Section 133, I would propose that the tribunal has a right of review of orders that have been issue specifically by the Commission itself. Similarly Clause 19, where the law is amended in Section 157 of the Land Act to punish people who disclose information, is also not clear. Who is this public officer who comes across information on acquisition of land and divulges it? This Clause needs to be amended so that it is very clear. Is it officials of a particular Ministry or of the National Land Commission (NLC) that have divulged that information? How do you conduct that hearing and discover that they have divulged that information? Is it an official secret or what is it? It should be very clear. The last one is the proposed Section 23, which is also not clear when it says: \"Internal displacement of persons resulting from a lawful compulsory acquisition of land subject to prompt payment in full, of just compensation to the persons shall not, for purposes of this Act, constitute arbitrary displacement.\" There is something wrong about that sentence. The intention of Article 40 of the Constitution was not to cause displacement of any person. In order to have Article 40, which guarantees the right to land, no person should leave their land until they have been paid in full. The suggestion is that a person should be compensated a year later. In Tharaka-Nithi, for example, you are telling an old woman, \"Go away and wait for a year. The Government will pay you. Leave your land and forget your houses.\" When did we get to such a situation? If the Government is acquiring land, the first portion and budget should be for the acquisition of land. Let us not blame Kenyans that their land has not been titled since 1963; they have not done testamentary disposition since 1963 and transmission of their titles since 1963. Let the Government get organised. When the Government decides to acquire land in Thwake for purposes of a dam, those people must leave peacefully. When the Government takes over the land, there should be no complaints. Mr. Deputy Speaker, Sir, I have said here that I have people in Manooni Dam who were moved from their land to create a dam and relocated to a place called Nguu, in Kibwezi. When they got there, they found people waiting for them with bows and arrows. They went back but could not reacquire their land; and they have not been paid since 1984. We cannot go there. I understand that the Government needs to have projects and it is stressed because people are now turning this into a scheme for making money. However, that does not mean that we violate the rights of Kenyans. The people we are talking about are very ordinary Kenyans with an eighth or a quarter of an acre. We are not talking about people who have 100,000 or 200,000 acres. In most cases, those people who have large tracts of land do not have a problem. They are paid quickly and they have valuation. Let us make it possible for county governments to assist Kenyans where land is being acquired to have independent valuers. It is suggested here that valuation will be done between the national Government and the county government. The Committee on Land, Environment and Natural Resources says that it will be extremely bureaucratic. However, let us give value to Kenyans who have been trained as valuers. People have taken their children to school to become valuers. Those people should be given an opportunity to have independent valuation, so that there is a competing valuation. This is so that where the NLC grants an award lower that what an independent value has given to an ordinary Kenyan, then it becomes an appeal at the Lands Appeal Tribunal. That is why the valuers under the Valuers Board sit there to determine who gave the correct value between the NLC, the Government valuer and the independent valuer. We cannot restrict this to the Government, because it naturally wants to pay less. Mr. Deputy Speaker, Sir, I disagree with the idea that when people are transacting, since they can transact land on a willing-buyer, willing-seller basis; it could be Kshs100,000 where the value is Kshs5 million or Kshs1 million where value is Kshs100,000. We must move to a place where every portion of land in this country - whether in Marsabit, Makueni or Lamu - has a value that can be determined. It does not make sense that when the Government is acquiring land for the Lamu Port and South Sudan-Ethiopia Corridor (LAPSSET) Project, where an acre is Kshs1.2 million, while when it is acquired for purposes of Thwake Dam, it is Kshs200,000 per acre. Similarly, it does not make sense when the Government is acquiring land for purposes of the dam in Elgeyo/Marakwet, the value of land is Kshs300,000 per acre; while acquiring the same for the Kenya Electricity Transmission Company Limited (KETRACO) in Makueni, the value of land per acre there is Kshs350,000. When did we get to a place where value of land is so varied? Mr. Deputy Speaker, Sir, I believe that the speculators of this country have made it impossible for the Government to acquire land by making sure that an acre of land in Runda and Karen is so much money, yet land along Athi River is less. That disparity will have to be done away with when we do a proper land value index. It will then be clear that when one acquires land in Mlolongo, an acre is Kshs1 million and KshsX in Mombasa. We will then get rid of the speculators who get information from Government circles. When they learn that the Government is planning to do LAPSSET, they go there and acquire land and value it at Kshs1.5 million per acre, and that is why we have a dispute in Lamu. Mr. Deputy Speaker, Sir, with those few remarks I beg to second with those objections and limitations. We can move to a place where it becomes easy to acquire land for public purposes."
     },
     {
-      "order": 223,
+      "order": 221,
       "id": "entry-850974",
       "label": "speech",
       "level": "3",
@@ -2679,7 +2655,7 @@
       "text": "Thank you, Sen. Mutula Kilonzo Jnr. As you second with some of the highlights you have pointed out, you may want to--- I am just providing some legal propositions on what perhaps you and the Committee may want to look at. The parameters for acquisition of land under international law and in Article 40 of our Constitution must be met. One, acquisition is for public interest or public purposes as opposed to private ones. Secondly, we must ensure that there is full compensation. Thirdly, the compensation must be prior, not after. That is an international legal requirement. Fourthly, it must be reasonable or adequate. Fifthly, there must be consultation or public participation in the process; and, finally, there must be access to a court of law for redress. Those are some of the things that you or the Committee may want to look at."
     },
     {
-      "order": 224,
+      "order": 222,
       "id": "entry-850975",
       "label": "scene",
       "level": "3",
@@ -2691,7 +2667,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 225,
+      "order": 223,
       "id": "entry-850977",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2679,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I was almost complaining once again, but I will not. This afternoon has formed a very interesting sitting for me, because my good friend, Sen. Mutula Kilonzo Jnr. always tells me that I am a very big man in Parliament. However, this afternoon, the Majority leader has reminded me that while I might be big in Parliament, I am a very small man inside the Chamber, especially the way he has rearranged the Order Paper and shelved my desire to introduce some amendments."
     },
     {
-      "order": 226,
+      "order": 224,
       "id": "entry-850978",
       "label": "speech",
       "level": "3",
@@ -2715,7 +2691,7 @@
       "text": "What is your point?"
     },
     {
-      "order": 227,
+      "order": 225,
       "id": "entry-850979",
       "label": "speech",
       "level": "3",
@@ -2727,7 +2703,7 @@
       "text": "Mr. Deputy Speaker, Sir, I was ready this afternoon to move certain amendments to a Bill that I am sponsoring---"
     },
     {
-      "order": 228,
+      "order": 226,
       "id": "entry-850980",
       "label": "speech",
       "level": "3",
@@ -2739,7 +2715,7 @@
       "text": "What happened?"
     },
     {
-      "order": 229,
+      "order": 227,
       "id": "entry-850981",
       "label": "speech",
       "level": "3",
@@ -2751,7 +2727,7 @@
       "text": "The Majority Party Whip walked to me and told me they had decided to consider my issue at another time---"
     },
     {
-      "order": 230,
+      "order": 228,
       "id": "entry-850982",
       "label": "speech",
       "level": "3",
@@ -2763,7 +2739,7 @@
       "text": "Order! The Whip has no role in deciding anything."
     },
     {
-      "order": 231,
+      "order": 229,
       "id": "entry-850983",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2751,7 @@
       "text": "I am reporting verbatim what she told me; that the powers that be had decided. I was therefore, reminded that I am a mere mortal---"
     },
     {
-      "order": 232,
+      "order": 230,
       "id": "entry-850984",
       "label": "speech",
       "level": "3",
@@ -2787,7 +2763,7 @@
       "text": "Senator, you are out of order. Please, contribute to the debate on this Order."
     },
     {
-      "order": 233,
+      "order": 231,
       "id": "entry-850985",
       "label": "speech",
       "level": "3",
@@ -2799,7 +2775,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. Nonetheless, I want to contribute to this very important Bill. It is a matter that we, as a House of Parliament, need to quickly dispense of, because it forms a very interesting proposal from the Government about various projects that are being undertaken and the challenges they continue to experience, especially as they roll out projects. It is timely and important for us to consider the Land Value Index Bill. Mr. Deputy Speaker, Sir, I have had discussions about it outside Parliament about how important and crucial it is to us, as a country. This is, especially now, during this phase when huge infrastructural developments are being carried within the Republic of Kenya and the challenges that the Government to continues to face. It is with that history in mind that there is this proposal to amend various sections of the Land Registration Act. Mr. Deputy Speaker, Sir, we need to be told, even after the passage of this law, how much we lost as a country in terms of monies that were paid as compensation for land along the route that the Standard Gauge Railway (SGR) took from Mombasa, and even now as it proceeds to Malaba. Reports vary from what we read from blogs and media spaces that chances are that Kenyans have paid five to ten times of what was ideally the value of that land. If we had this law in place at that time and had the NLC lived up to the true spirit and letter of our Constitution; of being a proper adjudicator of the value of land in our country, then Kenyans would not have paid the astronomical figures that we did for the SGR. It is part of the reason why we continue to complain to date. Nonetheless, because this law has come, I believe it will be useful going forward as we carry out other projects. Mr. Deputy Speaker, Sir, I want to share a few of my concerns and parts of the Bill that I agree with. I generally agree with the thinking and many of the proposals and recommendations. I can see a lot of sense and the mischief that the Government is trying to cure by making this proposal. However, Mr. Deputy Speaker, Sir, some of the amendments that are being proposed are not clear in my mind. For example, when the Bill wants to amend the Land Act and restricts courts from issuing orders against the forfeiture of land leased or licensed from the Government, where a tenant or licensee has initially defaulted in paying rents and the land is required for public use. Under international law, the reason we give the judiciary the place of pride and prominence in our Constitution is that we recognize that at any given time, there will be moments where there will be disputes between either the public or Republic versus certain sections of the society. If we now legislate and say that there are things which the courts of law cannot issue directives on, it is not very clear to me if we are doing the right thing. I say this with my mind more tuned towards the downtrodden other than the Government. I know that the Government is trying to protect itself by saying that on many occasions when they have tried to acquire land, people rush to courts and they get all sorts of orders. But my question is; what about the poor little fellow down in Kericho, who may feel at some particular time, that the Government has infringed on their rights and their land is being taken? Mr. Deputy Speaker, Sir, the SGR will be passing by our County. What will happen if some of the people who will be affected by this will feel that, for one reason or the other, they have not been properly compensated? Are we saying that through an Act of Parliament, those people will have no measure of seeking redress in court? When the Committee gets to look at this, they can address the mischief that the Government is trying to cure without exposing the population to what will be the vagaries of Government that keeps on coming and going. You may have a sober leader right now, but what about 10, 15 or 20 years down the line, where you might have a dictator in office who has no regards to human rights and that kind of thing? That will be dangerous. Mr. Deputy Speaker, Sir, the Bill also wants to amend the Land Act by proposing that when a notice has been issued by NLC in initiating a compulsory acquisition and making of an order of land registrar, it will restrict dealings in the affected land. The issue of the NLC requires a whole discussion. It is something that goes down to the very fabric of our society, as the people of Kenya. When we passed the new Constitution, there was great discussion on what the NLC was going to achieve. History and the leaders who have been there longer than some of us will tell us that there was justification for having the NLC, and this is because of the things that had happened. However, what has happened between 2010 and 2018 as we speak? The damage that the NLC has done in this country far outweighs the good that was intended for them. It is unfortunate and it speaks to us, as a society. Many times people have said that one cannot legislate good character and morals. There is no greater testament to that than when you look at the NLC and the kind of dealings being done by them. I saw the Cabinet Secretary (CS) for the Ministry of Water and Irrigation speaking the other day about the challenges that they are having when they try to compensate people, like in the case of Thwake Dam, which Sen. Mutula Kilonzo Jnr. was talking about; and the Karemeno Dam in Kiambu. According to the valuation by the Ministry of Lands and Physical Planning, the compensation is something close to Kshs600 million. However, the letter of credit that has been given by the NLC totals up to almost Kshs1.8 billion, which is three times the value. Of course, we are not fools and we are not children. We know where all this money is headed to. It is unfortunate that NLC has sunk to this low level. Mr. Deputy Speaker, Sir, it was our thinking and our imagination, as a people, that we shall finally have men and women of great character and quality in these offices. We hoped that they would be able to adjudicate on these matters in a free and fair way so as to ensure that the Government gets value for money for the sake of the citizens of the country. We also expected that the person who is being moved out of the parcel of land will also get to be compensated properly. Sadly, the things that are happening are all known to us. It began with the SGR and it is now moving to these dams. The same things continue to happen even in our county governments. Mr. Deputy Speaker, Sir, while going through this Bill, it occurred to me that we are struggling to find the people with the right mettle for these positions. That is when I thought of us recommending religious leaders for these posts during the referendum, if we are to have it. I also thought of people who are voted into office, although I am not sure about that proposition. It is a struggle to get people who will do the right thing. Mr. Deputy Speaker, Sir, an interesting thing being proposed in the Bill, which I support 100 per cent, is that it will now not be a must that you get money for land that you are being moved from. We all know that we are in a largely patriarchal society. When you listen to the stories of what has happened to families that got the taste of money from land, you will learn that families have been broken down because the men disappeared with the money and left their wives and children on the streets begging. This has happened in areas where there was compensation for either the SGR or any other project that the Government was doing. If many of these street families were to tell you the truth, you will realize that after they gave the bank details, the man of the family relocated to Mombasa and married a young wife. Therefore, it is good that there is now a provision for exchange of land for land or land for Government Bonds. Mr. Deputy Speaker, Sir, one of the reasons as to why Kenyans keep idle parcels of land is because it is a form of saving; therefore, one buys land for speculation. If the Government knocks on their door and they says that 'we want to carry out a project in this particular area', they do not have to give them money, because money is tempting. They can give the individuals Government bonds, which is what is being proposed here. That is a well thought out idea, which also includes the provision of exchanging land for land. With that, the family can sit and say that 'we know our father, he is not the best of friends with money; if you put it in his hand, and chances are that we will be homeless the following week'. They can then request to be relocated to another place and be given a similar acreage of land. This is an extremely important provision that we need to uphold. The Bill also amends the Land Act to remove the stipulation that the NLC only takes possession for compulsorily acquired land after paying compensation to the owner of the land. I was almost convinced to agree with them, but changed my mind after listening to the direction that you, the Deputy Speaker, gave a few minutes ago. You said that it is a provision of international law that before you relocate people, they must have been compensated. The truth of the matter is that I had not thought of it that way. There are people who put a lot of barriers on the way as the Government tries to implement some of these projects. Therefore, that is the mischief that was being cured here. One can move so long as they have a letter of credit. What we may need to add on is what the Government can give to the people who are being shifted, which will be equivalent to the value of money, in a situation where the Government does not have the resources to pay for the land at that particular time. In that case, they can give you a letter of credit and that kind of thing. We should not leave it open. I see a lot of sense on what is being persuaded and what we are being told. If we make it legal for the Government to just show up the following morning and tell you, 'please get out of this land we want to do something', we will be opening a very dangerous path that I do not think we need to consider. Mr. Deputy Speaker, Sir, The doctrine of separation of powers with regards to the Legislature versus the Judiciary is something that we have discussed here quite a number of times before. We will be put to a lot of test with regards to this provision, where we want to restrict courts from issuing orders or stopping development of land which has been formally taken by the NLC through compulsory acquisition and where funds have not been committed. Unfortunately for this, I agree with this Bill. I have always asked the reason as to why we are always told that a matter is sub judice . Parliament is constituted of representatives of the members of the public from the entire Republic. The 67 Senators gathered here represent the 45 million Kenyans across the country. Therefore, who is this that can sit somewhere and purport to have more powers than the institution of Parliament? We know that Article 1 of the Constitution states that power belongs to the people and they can exercise it directly or indirectly, through their representatives, and these are the people that sit in this House. Therefore, I have never agreed with many of our friends in the legal circles who always say that we must respect the sanctity of the courts and that kind of argument. I agree with this provision that if we pass this particular law as it is, we have done it for the interest of the people of Kenya. Therefore, nobody should challenge it elsewhere and say that courts should determine. The courts can have their place on particular matters but on issues like this where we have spoken firmly, it should be left to rest at that. Mr. Deputy Speaker, Sir, I have a challenge with the composition of the land acquisition tribunal. Who is the representative for counties? All the land that we are discussing that is being bought here and there is happening in our counties. Unfortunately, The National Assembly never saw through it. Therefore, I request the Committee that will look through this to consider adding at least one or two nominees nominated by the Council of Governors (CoGs). We will need to domesticate some of these laws that we are making nationally at our county assemblies. For example, if the County Government of Homa Bay wants to do a particular project and they need to move masses, some of the laws that they need to make have to be domesticated at their county assembly. Therefore, it will be good for knowledge transfer and skill acquisition for us to include representatives of county governments in this tribunal. Mr. Deputy Speaker, Sir, finally, the proposed fine for members of the tribunal who commit the offence of revealing--- the typical Kenyan habit where people coalesce around a bar in the evening and leak out information that the Government is about to buy land in a particular place; the fine for this is Kshs5 million or an imprisonment of three years or both. Mr. Deputy Speaker, Sir, many times when we make laws, we put the fine together with the jail term. May be, those who are more established in this matters can advise us whether it is a must for us to always put the cash bail when it comes to offences like this. This is because we have realized in the past that one of the things that the corrupt and crooked of the society fear is the incarceration bit. As it is, anybody can pay. When some of these corrupt people leak this information, they will be paid hundreds of millions. Therefore, if you fine them Kshs5 million, it is just a slap on the wrist. Therefore, I propose that if it is possible, let it be a direct jail term. The minute a person is convicted, they proceed to serve their jail term. There is no need for us to put this fine of Kshs5 million. If it was put as a provision, will the heir of SUMSUNG serve a jail term in South Korea for the corruption charges that she is facing? If money was an option, she could have easily bought her way out. Therefore, we need to think about this. Mr. Deputy Speaker, Sir, I support this Bill because it seeks to consolidate land which should belong to the people of Kenya. I do not how true this is but somebody revealed to me the other day that for the title to a piece of land that a person owns, he or she only owns up to as far as six inches deep. Anything else beyond that belongs to the people of Kenya. Therefore, as we pass some of the laws, it is important for us to realize that, in future, now that we are doing the geospatial survey of what is owned within our country and the deposits that are rumoured to be running to trillions of shillings, when the Government wants to finally set up either a mineral processing industry, those who either fraudulently or correctly obtained the licences of these particular deposits will know that they can only access up to six inches, anything beyond that belongs to the people of Kenya."
     },
     {
-      "order": 234,
+      "order": 232,
       "id": "entry-850994",
       "label": "scene",
       "level": "3",
@@ -2811,7 +2787,7 @@
       "text": "(Sen. Murkomen walked in the Chamber)"
     },
     {
-      "order": 235,
+      "order": 233,
       "id": "entry-850995",
       "label": "speech",
       "level": "3",
@@ -2823,7 +2799,7 @@
       "text": "Mr. Deputy Speaker, Sir, with those many remarks, I support this Bill. I got confused because those who had trampled on my rights earlier have just walked in."
     },
     {
-      "order": 236,
+      "order": 234,
       "id": "entry-850996",
       "label": "speech",
       "level": "3",
@@ -2835,19 +2811,19 @@
       "text": "Order! Thank you, Sen. Aaron Cheruiyot for the very good contribution. Before I give the Floor to the next Speaker, you could have misapprehended the remarks I had made when Sen. Mutula Kilonzo Jnr. concluded his seconded. I need to quickly clarify that, one, you cannot restrict access to justice at all. First and foremost, both under national and international law, trying to restrict any person from accessing justice is contrary to Article 165(3) (i) (ii) (iii) of the Constitution."
     },
     {
-      "order": 237,
+      "order": 235,
       "id": "entry-850997",
       "label": "speech",
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Two, in matters of prior compensation, it is a requirement of international law which, by virtue of our own Constitution Article 2(5) (6), we have to comply with. Finally, trying to do a law that challenges its interpretation by courts is also unconstitutional. Therefore, those are the parameters that should guide you as you debate and think of amendments. However, Sen. Orengo is a much more experienced lawyer than I am and a former Minister for Lands---"
     },
     {
-      "order": 238,
+      "order": 236,
       "id": "entry-850998",
       "label": "speech",
       "level": "3",
@@ -2859,7 +2835,7 @@
       "text": "On a point of information, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 239,
+      "order": 237,
       "id": "entry-850999",
       "label": "speech",
       "level": "3",
@@ -2871,7 +2847,7 @@
       "text": "Senate Majority Leader, whom are you informing or you are on a point of order?"
     },
     {
-      "order": 240,
+      "order": 238,
       "id": "entry-851000",
       "label": "speech",
       "level": "3",
@@ -2883,7 +2859,7 @@
       "text": "Mr. Deputy Speaker, Sir, I want to inform Sen. Cheruiyot in line with supporting what you have said."
     },
     {
-      "order": 241,
+      "order": 239,
       "id": "entry-851001",
       "label": "speech",
       "level": "3",
@@ -2895,7 +2871,7 @@
       "text": "Sen. Cheruiyot has finished his contribution. However, I will indulge you for a second to make your point."
     },
     {
-      "order": 242,
+      "order": 240,
       "id": "entry-851002",
       "label": "speech",
       "level": "3",
@@ -2907,7 +2883,7 @@
       "text": "Mr. Deputy Speaker, Sir, when yours truly was moving the Bill, I made it abundantly clear that there are three Sections that try to put the constitutional responsibilities of the courts. As a matter of fact, the three Sections must be deleted. I want it to go on record, so that no one will sit here knowing that there was a lawyer who moved the Bill but was not alive to that fact."
     },
     {
-      "order": 243,
+      "order": 241,
       "id": "entry-851003",
       "label": "speech",
       "level": "3",
@@ -2919,7 +2895,7 @@
       "text": "Thank you, Senate Majority Leader. That is also a good clarification because we owe it to the people of Kenya regarding the kind of laws we pass here collectively as a House. However, as I said, Hon. Senators, Sen. Orengo is a much more experienced lawyer than all of us. He is the former Minister for Lands. I now give him a chance, as the Senate Minority Leader, to make his contribution."
     },
     {
-      "order": 244,
+      "order": 242,
       "id": "entry-851004",
       "label": "speech",
       "level": "3",
@@ -2931,7 +2907,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for those remarks. However, if I say anything that is not within your expectation, do not punish me for it."
     },
     {
-      "order": 245,
+      "order": 243,
       "id": "entry-851005",
       "label": "scene",
       "level": "3",
@@ -2943,7 +2919,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 246,
+      "order": 244,
       "id": "entry-851006",
       "label": "speech",
       "level": "3",
@@ -2955,7 +2931,7 @@
       "text": "Mr. Deputy Speaker, Sir, the intention for this Bill is laudable. When the law was being reviewed in trying to consolidate all the land laws in the country within the timeframe which was given in the Constitution, it was not possible to do some of the things that have emerged since then, but also, specifically, some of the things that this Bill intends to do. I am happy that the Senate Majority Leader came in before I spoke because I was to ask for a raw copy of the HANSARD to look at his contribution before I say anything. However, I am delighted because he has pointed out what would have taken me a long time to try and address. Gladly, he has made it clear. Also, the remarks that have come from the Chair are of some guidance to some of the things that I would want to talk about. Mr. Deputy Speaker, Sir, I begin by addressing some of the specific issues that arise out of this Bill. I want to make general statements or give a global opinion about this Bill. However, I have had the advantage of hearing the speakers that spoke before me including the Senator for Kericho. I would have loved to talk about some of the general statements that he made but I do not want to repeat. So, I will go to some of the specifics before I go to the general statements. I would like the Senate Majority Leader to take note that there are certain things that are taken away. If you look at what the Bill desires to achieve by looking at some of the specific provisions, you will realise that they have been taken away. That begins with Clause 2. The word \"prompt\" is used in the Constitution. The choice of the word \"prompt\" by the drafters of the Constitution was well considered. They could have used many other words that we use in ordinary statute when dealing with time. In regard to property and land specifically, they used the word \"prompt\" in the Constitution. If you look at the definition of the word \"prompt\" as proposed in this Bill, it takes a different meaning. According to Clause 2(i), it means within a reasonable time of the taking of possession of the land by the Commission. So, there are two issues in the definition. Promptitude will be considered in terms of taking possession. When considering whether it is prompt, it will depend on when the National Land Commission (NLC) or the Government took possession. To my understanding, promptitude is in relation to the time when the notice comes out and when the Government is in a position to take possession after making full and adequate or fair compensation. There is also the word \"reasonable\". I think it should not be contained in the definition Clause because it takes away the meaning in Article 40 of the Constitution. To that extent, this part of the Bill is amending what is already contained in the Constitution."
     },
     {
-      "order": 247,
+      "order": 245,
       "id": "entry-851013",
       "label": "scene",
       "level": "3",
@@ -2967,7 +2943,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 248,
+      "order": 246,
       "id": "entry-851014",
       "label": "scene",
       "level": "3",
@@ -2979,7 +2955,7 @@
       "text": "[The Temporary Speaker (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 249,
+      "order": 247,
       "id": "entry-851015",
       "label": "speech",
       "level": "3",
@@ -2991,7 +2967,7 @@
       "text": "As you know, Madam Temporary Speaker, the issue of land is well guarded both in the Chapter dealing with land and Article 40 of the Constitution. To that extent, when you consider property as part of the rights, we cannot take away what is fully guaranteed in the Bill of Rights by a mere definition in legislation. The other thing I have a problem with in terms of Clause 2 that deals with interpretation is the meaning of the word \"full\". It is stated that:- \"Full\" in relation to compensation for compulsory acquired land or of wayleaves, easements and public rights of way means the restoration of not more than the value of the land including improvements thereon and any other matter provided for in this Act. I think this is mischievous because there may be circumstances where \"more than the value\" would be well considered. I oppose this particular definition because if you are to base it on Article 40 of the Constitution, then the words \"not less than\" rather than \"not more than\" would be the most adequate in this particular provision. The aim of Article 40 is to protect owners of property or land from getting less than the value of the land or property that may be compulsorily acquired by the Government. To that effect, Clause 2 should be looked at again. My colleagues have talked about the issue of removing the jurisdiction of the courts and I do not have to repeat that because the powers of the High Court are contained in the Constitution. They rise out of protection of fundamental rights and where fundamental rights have been violated, no other body, including an inferior tribunal, can take away the constitutional powers of the Judiciary in making a determination and appropriate orders as contained in the Constitution. What seeks to take away the jurisdiction of the court is Clause 3 of the Bill. I hope that beginning with the interpretation clause and Clauses 2 and 3, for obvious reasons which have been dealt with by other contributors to this Bill, will not see the light of the day in the final product that we will have. When it comes to clauses on criteria for assessing value for compulsorily acquired freehold land, we should know that people out there are really suffering because of the complicated process of particularly compulsory land acquisition. We have communities that have been affected by compulsory acquisition of land. For those who buy land or have land for purposes of speculation, there are times they fight in tribunals and courts trying to seek rewards in form of compensation. Clause 6 of this Bill will make the process of compulsory land acquisition for purposes of the ordinary citizens of this country extremely complicated. In fact, in my view, if you look keenly at the proposed amendment to Clause 6 by insertion of a new Section 107A of the Act, you will find that those who seek adequate, full and fair compensation will be in extremely difficult circumstances because this Bill sets out a full multitude of issues that will not be considered or ignored in terms of arriving at the land value index. The other thing is that there is no provision for it being updated. You may find yourself in dealing with an index that is 10 or 20 years old. For communities living in corridors that attract acquisition by the Government in terms of infrastructure such as Narok, Kajiado, Taita-Taveta and other counties with huge chunks of territory, if these particular portions of the Bill are not reworded, redrafted and made simpler for purposes of people getting their share of compensation, it will cause a lot of disruption. Madam Temporary Speaker, I know of a case in Kajiado County where communities at the end of the day, had to go to the President. The matter was in court and people were fighting in Kajiado and Narok counties over this compulsory land acquisition. Part of it was in relation to the Standard Gauge Railway (SGR) and the other one with power lines. Even with the kind of parameters that the Deputy Speaker was talking about, you will find that those were not followed and the World Bank in itself as a provider of some of the funds, said that they were not going to give more funds to the project because members of the public were not adequately involved. There were also things which were done that were not right for the community. I would ask the Mover of this Bill, particularly because I think he is the one who has to pilot this Bill to conclusion, because I support it. However, in terms of Clause 6, it is so complicated. If I was a bureaucrat, I could make it possible, for example, for land which somebody is claiming Kshs1 million, I can easily bring it down to Kshs50,000. That may be an ordinary man living in the village. Somebody who has obtained this land for purposes of speculation can fight. Some of them can fight forever and they do not lose a thing because they have acquired that land for purposes of speculation. Madam Temporary Speaker, imagine those who acquire land from generations of communities having acquired this land. It is the only jewel they have as a family and as a community and then they are told the value that will finally be adopted or considered under Clause 6 of this Act. I can assure you that communities, instead of using this procedure, will ask their Member of Parliament to go to State House and talk to the President, like the case that I have talked about. Even the courts were unable to resolve those issues. I think Clause 6 in its entirety should be looked at. I hope that will be done in order to make sure communities do not suffer. The other Clause that I have a problem with is Clause 8. Again, it is for matters which should be taken into consideration. I will not repeat the arguments that I have made in relation to the previous clause, but I think that Clause should also be looked at in terms of making it less complicated for those who seek compensation. The alternative tools which the distinguished Senator from Kericho County talked about are looking for alternative modes of compensation like Government bonds or alternative land. That is good enough. However, I think there should be a clause or some words to ensure that where there are delays in terms of, let us say, giving people alternative land and where it requires movement of people or relocation, where you are being offered alternative compensation - be it in equity shares or Government bonds and the like - the owner of the land would not suffer irreparably. That should be addressed. Madam Temporary Speaker, my learned friend, Sen. Mutula Kilonzo Jnr., dealt with matters to do with the Tribunal. The only other thing I should add is that the Tribunal as it is, is not---. In a system of courts, they are such that they are not composed of judicial officers who are trained. Under this particular Bill, the Tribunal will include people who are obviously not trained as judicial officers. For that reason, to have a provision like the one that I have seen in that Clause, that there can be no appeal from the decision of the Tribunal on a question of fact, I think that was not well thought-out. Under the powers of review of the High Court, fact and law, all matters which would be available for the cost consideration into whether or not justice was rendered as far as the compulsory acquisition is concerned. Having dealt with those specific sections, the spirit of this law is good in the sense that the definition of land as contained in the Constitution is very different. Although Article 60, amongst other principles that are supposed to guide our land policy and the most important probably is security of land rights that when you have a land right, it should be protected and be inviolable except in circumstances which the Constitution gives a basis of interference with ownership of possession. Madam Temporary Speaker, there was a new concept of land contained in Article 61 of the Constitution on classification of land. It says:- \"All land in Kenya belongs to the people of Kenya collectively as a nation, as communities and as individuals.\" Let me emphasize that this concept of land belonging to Kenyans collectively as a nation, was never part of the Constitution which was repealed. I think that is dealing in part with the concept of radical ownership of land in terms of the people or the State. To this extent, this was dealing with the difficulties in the past or land to be acquired for use for building infrastructure, roads and the like. You would see in neighbouring jurisdictions like in Ethiopia, Tanzania and many other counties, it is much easier for Government to acquire land and at reasonable prices. To that extent, then infrastructure ultimately costs less in those countries as compared to Kenya. Indeed, if you look at the SGR compared to what they are doing in Tanzania where the SGR that is being built is along the same corridor with the central line. So, the question of acquisition of land does not arise except in very unique circumstances. In Ethiopia, acquisition of land for public use is much easier and much more direct. That has made both Ethiopia and Tanzania save a lot of money and resources in carrying out major infrastructure developments. In fact, I wonder why in Kenya we decide to build our SGR elsewhere rather than building it on the original corridor which is owned by the Government by dint of the fact that Kenya Railways (KR) is a State corporation. Instead, the Government decided to acquire land. In doing so, those who conceived of this project and others who are close to them, managed to speculate on the route of the new infrastructure. Even in areas where SGR is passing through land owned by the Kenya Railways Company, through fraud and corruption, some of it was allocated to individuals who were paid a lot of money. Madam Temporary Speaker, at the end of the day, we find that in Kenya, carrying out major infrastructural development is not so easy because of the speculation and the high cost of land. There are pieces of legislation that relate to statutory bodies, organizations and parastatals, for example, the Kenya Railways that make it illegal for some of them to sell public land unless they can show that they acquired it subsequently after they were established. This rule should be extended to any public body that is in possession of public land. If they do not need it, it should go back to the Government or become part of the public land. It should be surrendered to the Government or to the counties. This is to ensure that land will be available now and in the future. In the National Land Policy (NLP), there was a conception which never came to fruition in terms of policy or the law of the land, to have land banks by the Government in anticipation of what it requires to do in the future, say 20, 30, 50, or 100 years. Government should acquire and maintain land banks ensuring that development can go on in a seamless way. However, that has not happened. If one has to address issues of land that we are addressing now and the compensation that has been paid before and now in terms of our NLP, the NLC has not done what it was supposed to. It was supposed to look into the past and address historical land injustices. They were not just supposed to inquire into the past, but to look into and correct the current circumstances where there have been land injustices. Madam Temporary Speaker, one would find that in this country some of the richest people are those who acquired public land and maintained the pieces for purposes of speculation. This is something that we just do not need a policy on, but an assertive NLC. It is in the interest of the State that what belonged to it is not given out cheaply or defrauded of land that the public would want to use for future purposes. A lot of riches in this country have emerged from public land. For example, those who own public land along the Coast, Rift Valley and Central Kenya. I am now getting a little worried about areas such as Kajiado and Narok where a lot of communities might in the end, become landless and squatters on their own land. We are trying to create a land conflict in the future. Demographics of Kajiado in the next ten years, will change tremendously because the original ownership of the land will be completely interfered with. The communities there will become squatters on their own land. That is creating a time bomb, if you may ask me. To that extent, we need to go into some of these areas to ensure that some of these activities are stopped. This is not just for the sake of those communities, but for dealing with the purposes for which this Bill is being brought to this Senate. We should not only address land injustice, but we make sure that there is stability in the market for people who require land for development and can acquire it in a manner that can make them have proper returns. Madam Temporary Speaker, this legislation will require some kind of overhaul. I have looked at Clause 2. Looking at the provisions that limit the courts' jurisdiction in granting relief under circumstances where normally they should be available, if this Bill is passed in its current form, it will be very oppressive. We can also look at the limitations given to appellants who, probably, have not succeeded before the Land Disputes Tribunal, provisions that deal with how valuations are undertaken, index established and how then the parameters are determined for purposes of compensation, need to be relooked afresh. If one looks at this Bill in those broad spheres; if it is passed in the current form, it is a very oppressive Bill. Madam Temporary Speaker, I would ask the Mover to address those issues at Committee stage. Since it was a National Assembly Bill, then that would mean that it has a lot of challenges. If we make those amendments, then it means that some kind of mediation will be required. I will not say that I support or oppose because I cannot support it in the current form. I cannot also oppose it because the idea is correct. With the adequate and appropriate amendments made, it is a proper Bill for consideration by this Senate. I thank you, Madam Temporary Speaker."
     },
     {
-      "order": 250,
+      "order": 248,
       "id": "entry-851036",
       "label": "speech",
       "level": "3",
@@ -3003,7 +2979,7 @@
       "text": "Let us have, Sen. M Kajwang'."
     },
     {
-      "order": 251,
+      "order": 249,
       "id": "entry-851037",
       "label": "speech",
       "level": "3",
@@ -3015,7 +2991,7 @@
       "text": "Thank you, Madam Temporary Speaker. It is difficult to make a comment on land issues after Sen. Orengo has spoken because he is the architect of the legal reforms around land that we enjoy today. There are two questions in my mind as I address these proposed amendments to the Land Act which, as Sen. Mutula Kilonzo Jnr. pointed out, appear to be inappropriately titled as the Land Value Index laws (Amendment) Bill. In effect, we are amending the Land Act and I think one other legislation that deals with resettlement of displaced persons. Two questions that come to my mind would be: who owns the land? There is a very interesting article that asks the question: \"In Kenya, whose land is it anyway?\" This article done by one eminent scholar says that Kenya's land reform has been land law reform, without really looking at the key issues around distribution, injustice and cultural norms that were disrupted by colonialists. Before the White men came to this part of the world, we had communal tenure. Nowhere was this stronger than in pastoralist communities like the Maasai. Even in my community, among the Luo, you would not say that you owned land. Land was held by the community. You would exercise something that was close to usufruct because you would go out, clear land and put it into productive use. You would only claim land that you had put into productive use, unlike what we have today; that you can claim thousands of acres of land where animals and other things stay, yet you have not done anything to add value to it. Sen. Orengo has addressed the question of who owns the land, because he has referred us to Article 61 (1) of the Constitution that clearly states: \"All land in Kenya belongs to the people of Kenya collectively as a nation, as communities and as individuals.\" To the question of who owns the land, I am convinced that the intention of the drafters of the Constitution, when they put in Article 61(1), was that land would be held by the State and for use and enjoyment of all Kenyans in an equal manner. Unfortunately, the implementation of the intention has not followed suit, because you still find people with thousands of acres of land and hear stories of land the size of the former Nyanza Province, being held by individuals, while there are those who live as squatters and in squalor in various parts of this country. Obviously, there is also the question of how much land a man needs. If you have 100 or 1,000 acres; how much do you need? I like referring to Leo Tolstoy who asked the same question and came to the conclusion that it is six feet wide and six feet deep. That tells you that, ultimately, we must make use of land and place ownership of land in a fashion that benefits not just current elites and bourgeoisie, but the future. When Kenya was intending to do the oil pipeline project, which was supposed to cut across certain parts of this country and connect to neighbouring countries, it was deemed more expensive to lay a pipeline through Kenya because of issues of land compensation and complications in land rights in Kenya as opposed to Tanzania. I know that Sen. Orengo has talked about this quite significantly. Going to the Bill before us, to a great extent, it tries to provide clarity in the process of compulsory acquisition of land. One of the reasons I have an interest in this is that there will be a Motion that will come up, where my Committee will be tabling its report on the compulsory acquisition of land in Nairobi. I do not want to anticipate debate, but stick to what is in this particular proposal. The process for compulsory acquisition is in Part VIII of the current Land Act. This Bill before us attempts to expand especially Section 107. This Bill, first of all, tries to expand the definition of 'prompt, full and just compensation'. However, there is a huge contradiction. If we look at 'prompt' as an English word, then we would expect that it would mean 'as fast as possible' or 'the fastest that is possible.' However, this Bill defines 'prompt,' but gives it one year. I do not know whether one year can count as promptness in any case of commercial nature or compensation. It cannot be prompt if communities and persons are deprived of their land for Government purposes then we define 'prompt' as saying that compensation can be rendered in a period not exceeding one year. That is a definition that that Committee on Lands, Environment and Natural Resources and this House should look at and reject, so that we have a timeframe that is in line with our common man understanding of the word 'prompt.' The second thing that this Amendment Bill tries to do is to say where the Government acquires land in a compulsory fashion, the valuation shall be based on a land value index developed jointly by the national Government and county governments. Madam Temporary Speaker, this is a good idea but it probably needs more prescription on how it will come about. I do not know whether there is an up-to-date plan value index that has already been developed jointly by these two levels of governments. I am aware that the County Governments' Act requires every county government to come up with a spatial plan, a 10 year-land plan and usage policy which is reviewed regularly. We have not done an audit, as the Senate, to find out whether counties have complied with that provision and requirement of the County Governments Act. I know for sure, there are many counties that still do not have these spatial plans. When it comes to issues of land use, properties and rates in our counties, there is a valuation roll; which counties use to identify all ratable properties within their jurisdiction. When we sit in the County Public Accounts and Investments Committee, to challenge governors on rates or own source revenue coming from rates, we realize that there is no single county government that has updated it is valuation roll. As a result, they are using outdated valuation rolls, which limit their revenue potential on property rates. Madam Temporary Speaker, it will then be important that in this Bill, we prescribe the manner in which the county governments and the national Government shall engage to come up with this land value index. In other words, to what extent should that land value index be updated, in what form and manner should it be maintained. Madam Temporary Speaker, this Bill also establishes the tribunal. My colleagues have expressed their concerns about the tribunal; where I hold a different view from one of the speakers who have spoken before me; Sen. Cheruiyot, you cannot aspire to represent all the stakeholders in a tribunal because this is not a committee. Therefore, it is difficult to say that county governments should be represented in that tribunal. However, I believe that this is a matter for further discussion. The Land Act already has provisions for the land and environment court that is properly established in this Republic to be seized of matters to do with land. This tribunal, therefore, will just be one step between the complainant and the land and environment court, in the various stages in the judicial process. Madam Temporary Speaker, this Bill also attempts to address what happens when there are improvements on land. One interesting thing, which this Bill has not talked about is; what if the improvements on land have been undertaken by the Government, would they then be valued and will the owner of that land be compensated for the improvements that he did not contribute to? I say this because I know there are many public institutions that have been built on land that has been donated by members of the community. Sometimes, members of the community turn round and claim their land back, even though there is a public project on it. We have seen what happens with the National Government Constituencies Development Fund, (NG-CDF). Members of the National Assembly and CDF boards implement projects on land when the title to the land has not been sorted out. In this case, we have a publicly funded project on private land, for instance, a water project funded by the public but on a private land. Madam Temporary Speaker, just yesterday, we were discussing with Nyamira County on the Report of the Auditor-General and there were audit queries. Nyamira County has sunk boreholes and put up water projects on private land and they have signed agreements on paper somewhere there indicating that the owners of those parcels of land will receive water for free. What if the owner of the land decides, that it is not the proper value for allowing the water project to be on his land? So, if the Government came in to acquire the land in a compulsory manner, will it pay for the improvement that it had done? I believe that is something important because this Bill attempts to bring that clarity and, therefore, needs to be expanded further. Again, Madam Temporary Speaker, this Bill attempts to address the issue of compensation to persons who do not own land but have stayed on it for a period exceeding twelve years. This is referred to as adverse possession. It is a challenge that you have been sitting on a piece of land but with no piece of paper to show for the ownership, yet you have been there for twelve years and then the Government comes to acquire land. You should be compensated and that has been taken care of in this Bill. The procedure on compulsory acquisition has been abused and this is not due to lack of legislation, but simply because one has decided not to follow the law. Madam Temporary Speaker, if you look at Section 107 of the Lands Act as it is right now, the procedure is so clear. It states that compulsory acquisition must be initiated by a Cabinet Secretary (CS) or a County Executive Committee member (CEC). The National Lands Commission (NLC) cannot initiate a process of compulsory acquisition, it must be a Cabinet Secretary or a CEC. In fact, the NLC does not have the money, the money for compulsory acquisition comes from the acquiring authority. That is why sometimes it is very difficult to say that NLC has spent these number of billions in compulsory acquisition, because its budget is largely administrative and operational. The money for acquisition comes from the acquiring bodies. Madam Temporary Speaker, once the initiation is done, there has to be a gazetted notice of intention to acquire, notice of inquiry, survey, award, transfer and surrender. With such clear provisions, today, you will hear it reported that Integrity House, the one that houses the Ethics and Anti-Corruption Commission (EACC), was acquired in a compulsory manner by the NLC at a cost of Kshs1.5 billion. However, it is reported that the owners remained unknown. The procedure for compulsory acquisition cannot put you in a situation where you buy land where the ownership is unknown. When you do the inquiries or notice of intention to acquire, you are required to call all persons who have an interest in that land. This process cannot happen in an opaque manner, if you decide to follow the law. Madam Temporary Speaker, in Homa Bay County, we have an airstrip that requires to be expanded. The airstrip in Homa Bay measures about 1,100 metres, but with these measurements, it cannot handle large aircraft that can carry our fish and send them directly to New York. It can only handle the 13-seater aircraft. In a conversation with the Chief Executive Officer (CEO) of one of the airlines that are flying to Homa Bay, he tells me that all we need to do is expand the runway by an additional 500 metres and that will allow cargo and bigger planes with tourists to land, who can then go and visit Ruma National Park and all the other beautiful blessings that God has given us in the county. However, the challenge to that 500 metres expansion, is twofold. First, a budget from the Kenya Airports Authority (KPA) has not be forthcoming and the communities living around the airport have demanded that they must be compensated for the land because that was their ancestral land. They have settled and buried their loved ones in that area. When Kenya Airports Authority (KPA) comes, it makes an offer that at best is ridiculous, of Kshs100,000 per acre, whereas in other parts of the country, they are offering close to Kshs1 million per acre. The people of Homa Bay County are demanding that there has to be some equity and fairness in consideration and compensation. That has stalled the expansion of an airport that has got huge potential on the economy of that area, if it was to be opened up. Madam Temporary Speaker, when we say that we are going to use a land value index, that will make it consistent, predictable and will allow the communities living around the airstrip in Homa Bay County to know that if they are to give up their one acre, they should be compensated an amount that is fair as compared to those people who are being compensated on the Standard Gauge Railway (SGR). It is for that reason that I support the intention of this Bill. There are other issues that have been raised that could then be corrected as we continue with this Bill. I wish that we could also see the report of the Lands, Environment and Natural Resources Committee on their consideration of this Bill, so that they can tell us through their expert view, what it is that they believe needs to be changed in this Bill. As I finalise, why did we establish the NLC? One of the commissions that has enjoyed great public confidence and support at its formation was the NLC. Even the appointment of the first Chair of the NLC, it took a lot of political stamina to ensure that Dr. Swazuri was named the first Chair of the NLC. When he went into office, the people who had done shoddy things with land in this country feared that he were going to flush them out. People felt that we had finally found a man who was going to implement the Ndung'u Report. Finally, we had found a man who would implement the Truth Justice and Reconciliation Commission (TJRC) report whether Parliament has adopted it or not. Unfortunately, what we have is far from that expectation. I do not want to enter judgment on the conduct of Dr. Swazuri because there are issues in court. However, when an institution finds itself in a situation where the Chairman is in court, the Chief Executive Officer (CEO) is suspended and there is infighting and factionalism and you have to go back to your office through a court order, it means you have fallen short of the expectations of the people of this country. I will be considering making certain adjustments and additions to this Bill to address this particular question, 'the role of NLC in managing land resources in counties.' A court of law recently ruled that counties cannot grant or dispose of land without involving the NLC. However, it was silent on whether counties must involve the NLC in acquiring land. We have seen in the County Public Accounts and Investment Committee almost every county is acquiring land here and there for establishment of stadia, markets and bus stages. In many of these cases, the land price is grossly inflated. However, the counties do it by following their own procurement laws. If the NLC is not involved at the point of acquisition, then it becomes a bit cumbersome for it to be involved only at the point of disposal. I hope that as we continue through the Committees Stage, we can put in some provisions because this then will go to an amendment of the Lands Act that will provide clarity on how and where the NLC comes in when a county wants to buy land. If the NLC was to stick to its objectives and be faithful to its mandate, I would have no problem saying that for every county that wants to buy land, the NLC must be involved. For custody of those records, there has to be cross-reference to NLC and the lands registry. For disposal and grants of lands, the NLC must also be involved. Our job as Senate is to find out ways in which we can help and strengthen counties in their roles. Finally, in providing my support to this Bill, we, as a country, must be radical. Sen. Orengo spoke very softly, but he said very radical things. He referred us to Article 61 of the Constitution. It says: \"All land in Kenya belongs to the people of Kenya.\" I could clearly see he was trying to remind us that this business of individual ownership of land and hoarding of land is against the principle of the Constitution. The land needs to go back to the people of Kenya. It needs to go back to the communities of Kenya. We need to take these lands from private hands in order to allow the State to do proper planning. We are not talking collectivism or Ujamaa that failed in Tanzania. However, we are talking of a much more pragmatic land tenure system that allows the State to carry out development and that takes away this limited resource from the hands of the few redistributing it to everyone because, at the end of the day, the much land that a man needs is six feet wide and six feet deep. With those many remarks, I beg to support."
     },
     {
-      "order": 252,
+      "order": 250,
       "id": "entry-851048",
       "label": "speech",
       "level": "3",
@@ -3027,7 +3003,7 @@
       "text": "Sen Olekina. S"
     },
     {
-      "order": 253,
+      "order": 251,
       "id": "entry-851049",
       "label": "speech",
       "level": "3",
@@ -3039,7 +3015,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me an opportunity to comment on this important Bill which I hope and wish that a majority of Kenyans are keen to listen to what it is about to do. I have not had enough time to look at the amendments that are being proposed but I have been able to skim through. From the onset, I have to first of all correct my dear brother, the Chairperson of CPIAC, in referring to Article 61 of the Constitution. The Constitution is very clear that:- 'All land in Kenya belongs to the people of Kenya collectively as a nation, as communities and as individuals.' I do not think that there is anything wrong with a particular individual owning a lot of land. The process of acquiring that particular land is what we need to be discussing here. I have looked at this Bill and the proposed amendments and some of them worry me quite a lot. The intention appears as if it is good but what is questionable is the way of making sure that the issue of land is dealt with accordingly. I do not have a problem with setting up a tribunal but I have a problem when this Bill tries to clip powers from the land court. We have a lot of people in this country who have got land but have not paid rates because of the economic challenges. Sometimes, it is very difficult for one to even pay for their fuel. We might have someone who probably has a lot of land that was bequeathed to him by his grandfather or his forefather and all of a sudden he cannot pay the rates. This Bill is proposing in Clause 4 that:- 'Despite subsection (3), if the land is required for a public purpose, the court may not grant relief against forfeiture even if the licensee makes good the default.' How many people default in paying their loans? How many people make good of that? If you take away the powers of the court to give people relief, then where are we going? I think that it is important that when we compulsorily acquire land for the good of the public, we first of all consider the rights of the owner of that land. Article 40 of the Constitution is very clear that everybody has a right to own property and every person has a right either individually or in association with others to acquire and own property. If I acquire land and I own it, this Bill is saying that the value of that land should remain stagnant in two years' time and if the Government wants to acquire that land to develop something huge that will incidentally increase the value of that land, that should not be considered. I do not think that Kenyans are listening. It is a high time that I remind Kenyans that it is imperative that they read the text. When the Committee on Lands, Environment and Natural Resources was holding public hearing of these amendments, those halls should have been flooded by Kenyans reading the text because if they do not, they will be holding demonstrations tomorrow, which will not help them. The Constitution is very clear that when the Government intends to acquire land compulsorily, compensation should be done immediately. Where do you expect people to go and live if you say that they will be paid within 12 months or within a reasonable time of the taking of possession of the land by the commission? Or what happens when they have a written undertaking indicating the appointment dates not being more than one year from the date of the undertaking when compensation is to be made. That is wrong. If you want to acquire my piece of land and make it public and put up a road, then compensate me promptly. This is why Kenyans should read the text, contribute and help us to understand their needs because we could rush when we are. Madam Temporary Speaker, earlier today, I was listening to the Majority Leader in The National Assembly on YouTube castigating the Senate for delaying Bills. I want to correct him that we are not delaying the Bills, we are reading the texts. We want to understand the changes that they want to bring in that will affect the future generations. Madam Temporary Speaker, about three weeks ago, a gentleman from Narok called me and told me that his house is being demolished to pave way for the Standard Gauge Railway (SGR). He was told that the land will be acquired forcefully and he will be given Kshs1 million to look for somewhere else. That gentleman used to work in the Mara Serena Safari Lodge in Narok and built a house worth Kshs20 million. However, he is now being told that he will be compensated within 12 months. Where is he expected to live? He has raised his children to live and expect certain things which he should rightfully provide for them. However, all of a sudden, their lives have changed. Madam Temporary Speaker, therefore, we need to think about the future generations. Any law that we draft and amend, we must do so knowing that we are bequeathing everything to the future generation. It should not only take care of our own immediate interests. I love development and I have no problem with it. However, let us develop while informing the public why it is important to acquire the land. Madam Temporary Speaker, I am concerned about the delays. I sit in the Committee on Energy and in most cases, this country is losing a lot of money particularly on the Lake Turkana Wind Power Project because of issues of compensation. Today, I spoke to a young lady who also raised concerns that she has been told that they will be compensated. However, it is funny that every time the valuation of the land is done, the value never goes up, it keeps going down. Who will protect the land owners? People in Kajiado and Narok are still waiting to be compensated for the SGR land. The people in Turkana have caused the entire public to lose over a billion shilling a month because of the Kenya Electricity Transmission Company Limited (KETRACO) line 5 which is not completed. However, we can only bring the balance if we consult widely, engage the people and show them the need as to why we must compulsorily acquire their land but also promptly and immediately pay them. Madam Temporary Speaker, if you look at Clause 6, it requires that the Land Act be amended by insertion of a new Section 107A to No.6 of 2012 on criteria for assessing value for compulsorily acquired freehold land. One of the things that concerns me the most is that when you read the Clause it says that the following issues will not be taken into consideration, one, in the event a person has acquired land and made some improvements in it, it should be made within two years prior to the date of publication in the gazette of the notice of the intention to acquire the land unless it is proved that the improvement was not made bona fide and not in contemplation of proceedings for the acquisition of the land. When I buy land, the value does not remain the same because I may improve it. It is wrong to state that the improvement cannot be considered within two years. We should encourage people to buy land and hope that the value will go up. If they choose to sell it and go somewhere else, they should not be punished for that. One thing I like about the Bill is that it will make it difficult for those who work in different Government Departments to leak out information to people who may just want to make a quick buck, or speculators if you like, from acquiring land and selling it to make more money. In my view, the Mover should consider increasing the penalty because Kshs500,000 or three months imprisonment or both is very lenient. If someone informs me that a new city will be built by the Government then I rush to buy land there and the next day the Government wants to buy the land and I sell it and make over Kshs1 billion, what is Kshs500,000? The penalty ought to be increased so that it makes it difficult for people to take advantage of communities like the Maasai. There are many people who bought land along the road to Suswa from Kimuka. There are those who bought land in Duka Moja going all the way along the Standard Gauge Railway (SGR). Today, in Suswa Town where most lands do not have title deeds, where one acre used to be at about Kshs70,000, with Kshs5 million, you cannot get a plot because of the SGR. Since some people leaked out the information, many people came from the neighbouring counties and bought a lot of land. Now, they are the ones to be compensated because of the construction of the SGR. That Mover should consider increasing the penalty. One of the key issues that ought to be changed is the powers that the Tribunal will have. I believe in the separation of powers of the Judiciary, Parliament and the Executive. When you take powers that have been given by the Constitution to the courts and give them to a tribunal--- There is a further amendment to Clause 18 in the proposed new Section 133A which provides as follows: \"Clause 18 of the Bill be amended (a) in the proposed new section 133A (i) by deleting sub-section (1) and substituting therefor the following new sub-section-- (1) There is established a Tribunal to be known as the Land Acquisition Tribunal which shall consist of five persons appointed by the Cabinet Secretary through a notice in the Gazette. (ii) by inserting the following new sub-section immediately after sub-section (1) (1A) The members of the Tribunal shall consist of-- (a) one person appointed from among three persons nominated by the Judicial Service Commission, who shall serve as the Chairperson; (b) two persons appointed from among five persons nominated by the Valuers Registration Board; (c) one person appointed from among three persons nominated by the Surveyors Registration Board; and (d) one person appointed from among two persons nominated by the Attorney-General.\" You are bringing in people who do not have a lot of legal background to protect innocent Kenyans. Take, for example, a case of a young Maasai woman whose husband died and has not even gone through the succession process to be able to have the instruments of ownership of the peace of land, and you take away the powers of a court to hear the matter in regard to any dispute relating to that land and give to a Tribunal. In that Tribunal, you have put in valuers and people who are interested in commercial activities rather than the rights of those individuals. It is completely in violation of human rights. Madam Temporary Speaker, the Mover needs to consider giving the Tribunal certain powers, but the original jurisdiction must always fall within the courts. The courts currently have original and appellant jurisdictions to hear and determine all disputes relating to public, private and community land, and contracts. If you take this power away---"
     },
     {
-      "order": 254,
+      "order": 252,
       "id": "entry-851059",
       "label": "scene",
       "level": "3",
@@ -3051,7 +3027,7 @@
       "text": "(The Amber light went on)"
     },
     {
-      "order": 255,
+      "order": 253,
       "id": "entry-851060",
       "label": "speech",
       "level": "3",
@@ -3063,7 +3039,7 @@
       "text": "Madam Temporary Speaker, I thought I still had more time?"
     },
     {
-      "order": 256,
+      "order": 254,
       "id": "entry-851061",
       "label": "scene",
       "level": "3",
@@ -3075,7 +3051,7 @@
       "text": "(The Temporary Speaker (Sen. Pareno) spoke off record)"
     },
     {
-      "order": 257,
+      "order": 255,
       "id": "entry-851062",
       "label": "speech",
       "level": "3",
@@ -3087,7 +3063,7 @@
       "text": "Madam Temporary Speaker, I still have more time. I beg the Mover to defer the reply to another date because it is important for Kenyans to--- This is a Bill that we should not rush."
     },
     {
-      "order": 258,
+      "order": 256,
       "id": "entry-851063",
       "label": "speech",
       "level": "3",
@@ -3099,7 +3075,7 @@
       "text": "Hon. Senator, you have up to 6.29 p.m.; that is just about three minutes to go."
     },
     {
-      "order": 259,
+      "order": 257,
       "id": "entry-851064",
       "label": "speech",
       "level": "3",
@@ -3111,7 +3087,7 @@
       "text": "Madam Temporary Speaker, you took one of my minutes. Issues of land are very emotive. I am worried that we might be trying to rush through this Bill and not give people enough time to really interrogate. I would recommend that the Mover of this Bill sits down maybe even in a Kamukunji, so that we can go through it clause by clause; just to ensure that we do not do something today which will cause more pain. There are so many Maasais out there who do not have title deeds to their land, because they are either in a group ranch or do not know the process of getting title deeds. This Bill sort of considers them all of them as squatters and says that they will be considered as people who have lived in the area for an undisrupted period of 12 years. If that section is there, it has to be clear. Land in Narok County is more expensive than it used to be, but there are parts where the people who live there do not even understand or know the value of that land. There are parts of Narok and Kajiado counties where speculators buy land for Kshs40,000. I am not a violent person, but yesterday I nearly punched someone when he told me that he wanted to buy my car, so that he could go and exchange it with 20 acres of land in Maasai land. We are so gullible. In our cultures we value things that do not have any meaning. It is because we do not have that knowledge. For this Bill to support the communities and not create more poor people in this country, it is important that we---"
     },
     {
-      "order": 260,
+      "order": 258,
       "id": "entry-851067",
       "label": "scene",
       "level": "3",
@@ -3123,7 +3099,7 @@
       "text": "(The red light was switched on)"
     },
     {
-      "order": 261,
+      "order": 259,
       "id": "entry-851068",
       "label": "speech",
       "level": "3",
@@ -3135,7 +3111,7 @@
       "text": "Madam Temporary Speaker, is there no more time for me, please?"
     },
     {
-      "order": 262,
+      "order": 260,
       "id": "entry-851069",
       "label": "speech",
       "level": "3",
@@ -3147,7 +3123,7 @@
       "text": "Your time is up, please. There are no other requests. I, therefore, now call upon the Mover to respond. Looking at the time, I will extend the Sitting by two minutes to allow you to reply."
     },
     {
-      "order": 263,
+      "order": 261,
       "id": "entry-851071",
       "label": "speech",
       "level": "3",
@@ -3159,7 +3135,7 @@
       "text": "Thank you, Madam Temporary Speaker. First of all, I thank all the Senators for their good contributions. There is already concession from me on the question of the delimitation of the courts in so far as the three sections are concerned, and whether or not you can legislate to say that no one should go to court. That is impossible. We must delete those sections. Secondly, I want to inform the House that establishment of tribunals is for the reasons of making delivery of justice simple, timely and expeditious. Most of the tribunals across the country are composed of persons who are non-lawyers although they are headed by lawyers. All of them are managed from the Judiciary and not the Executive because they were all moved there for purposes of expeditious dispensation of justice and proper management. I also want to inform the House that the formation of a tribunal does not take away the constitutional duties of the courts but make it easier for them because after the tribunal has made decisions, one can then go to court. In most cases, tribunals help to dispense justice expeditiously because they are composed of experts that are otherwise not found in courts but would have been brought to court as expert witnesses. I also want to inform the House that this is not a new Bill but just amendments to the existing Land Act. Members must read various sections which apply to leasehold, freehold, community land and traditional land held by communities like where I come from. They should now also read where I heard the Senator of Narok County talking about cases of squatters which is a response to the question of adverse possession. Madam Temporary, Speaker With those many remarks, I beg to reply. I request the Speaker as per Standing Order No.61(3) to postpone the putting of the question to another date."
     },
     {
-      "order": 264,
+      "order": 262,
       "id": "entry-851076",
       "label": "speech",
       "level": "3",
@@ -3171,7 +3147,7 @@
       "text": "Hon. Senators, this being a matter that affects counties, it is therefore, going to proceed for Division on Tuesday, noting that tomorrow is a day for Motions."
     },
     {
-      "order": 265,
+      "order": 263,
       "id": "entry-851077",
       "label": "scene",
       "level": "3",
@@ -3183,7 +3159,7 @@
       "text": "(Putting of the question on the Bill deferred)"
     },
     {
-      "order": 266,
+      "order": 264,
       "id": "entry-851078",
       "label": "heading",
       "level": "1",
@@ -3195,7 +3171,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 267,
+      "order": 265,
       "id": "entry-851079",
       "label": "speech",
       "level": "1",

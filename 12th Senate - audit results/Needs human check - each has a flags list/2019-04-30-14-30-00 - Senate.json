@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2019-04-30-14-30-00",
-  "exported_at": "2026-10-05T08:03:36.275Z",
+  "exported_at": "2026-10-15T19:28:27.179Z",
   "entries": [
     {
       "order": 1,
@@ -1341,7 +1341,7 @@
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "The two Whips, kindly approach the Chair."
@@ -1476,22 +1476,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
       "order": 124,
-      "id": "entry-897286",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 125,
       "id": "entry-897287",
       "label": "speech",
       "level": "3",
@@ -1503,7 +1491,7 @@
       "text": "Hon. Senators, the results of the voting are as follows:\n\nAYES:\n\n33\n\nNOES:"
     },
     {
-      "order": 126,
+      "order": 125,
       "id": "entry-897293",
       "label": "speech",
       "level": "3",
@@ -1515,7 +1503,7 @@
       "text": "Nil.\n\nABSTENTIONS:"
     },
     {
-      "order": 127,
+      "order": 126,
       "id": "entry-897295",
       "label": "speech",
       "level": "3",
@@ -1527,7 +1515,7 @@
       "text": "Nil. The \"Ayes\" have it."
     },
     {
-      "order": 128,
+      "order": 127,
       "id": "entry-897296",
       "label": "scene",
       "level": "3",
@@ -1539,7 +1527,7 @@
       "text": "(Question carried by 33 votes to nil)"
     },
     {
-      "order": 129,
+      "order": 128,
       "id": "entry-897297",
       "label": "scene",
       "level": "3",
@@ -1551,7 +1539,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole today by leave of the House)"
     },
     {
-      "order": 130,
+      "order": 129,
       "id": "entry-897298",
       "label": "speech",
       "level": "3",
@@ -1563,7 +1551,7 @@
       "text": "Before we move to the next Order, I direct that the doors be opened and Bars undrawn."
     },
     {
-      "order": 131,
+      "order": 130,
       "id": "entry-897299",
       "label": "scene",
       "level": "3",
@@ -1575,7 +1563,7 @@
       "text": "(Doors were opened and Bars undrawn)"
     },
     {
-      "order": 132,
+      "order": 131,
       "id": "entry-897300",
       "label": "speech",
       "level": "3",
@@ -1587,7 +1575,7 @@
       "text": "Next Order."
     },
     {
-      "order": 133,
+      "order": 132,
       "id": "entry-897301",
       "label": "heading",
       "level": "1",
@@ -1599,7 +1587,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 134,
+      "order": 133,
       "id": "entry-897302",
       "label": "scene",
       "level": "1",
@@ -1611,7 +1599,7 @@
       "text": "(Order for Committee read)"
     },
     {
-      "order": 135,
+      "order": 134,
       "id": "entry-897303",
       "label": "scene",
       "level": "1",
@@ -1623,7 +1611,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki left the Chair]"
     },
     {
-      "order": 136,
+      "order": 135,
       "id": "entry-897304",
       "label": "heading",
       "level": "2",
@@ -1635,7 +1623,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 137,
+      "order": 136,
       "id": "entry-897305",
       "label": "scene",
       "level": "2",
@@ -1647,7 +1635,7 @@
       "text": "[The Temporary Chairperson (Sen. (Dr.) Lelegwe) in the Chair]"
     },
     {
-      "order": 138,
+      "order": 137,
       "id": "entry-897306",
       "label": "heading",
       "level": "3",
@@ -1659,7 +1647,7 @@
       "text": "THE DIVISION OF REVENUE BILL (NATIONAL ASSEMBLY BILLS NO. 11 OF 2019)"
     },
     {
-      "order": 139,
+      "order": 138,
       "id": "entry-897307",
       "label": "speech",
       "level": "3",
@@ -1671,7 +1659,7 @@
       "text": "Hon. Senators, we are now in the Committee of the Whole to consider The Division of Revenue Bill (National Assembly Bills No. 11 of 2019)."
     },
     {
-      "order": 140,
+      "order": 139,
       "id": "entry-897308-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -1683,7 +1671,7 @@
       "text": "Clauses 3 and 4"
     },
     {
-      "order": 141,
+      "order": 140,
       "id": "entry-897308-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -1695,7 +1683,7 @@
       "text": "(Question, that Clauses 3 and 4 be part of the Bill, proposed)"
     },
     {
-      "order": 142,
+      "order": 141,
       "id": "entry-897309",
       "label": "speech",
       "level": "5",
@@ -1707,7 +1695,7 @@
       "text": "The Division will come at the end."
     },
     {
-      "order": 143,
+      "order": 142,
       "id": "entry-897310",
       "label": "heading",
       "level": "5",
@@ -1719,7 +1707,7 @@
       "text": "Clause 5"
     },
     {
-      "order": 144,
+      "order": 143,
       "id": "entry-897311",
       "label": "speech",
       "level": "5",
@@ -1731,7 +1719,7 @@
       "text": "There is an amendment by the Chairperson of the Committee on Finance and Budget, Sen. (Eng.) Mahamud."
     },
     {
-      "order": 145,
+      "order": 144,
       "id": "entry-897312",
       "label": "speech",
       "level": "5",
@@ -1743,7 +1731,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move:- THAT, clause 5 of the Bill be amended in subclause (1) by deleting the word \"determined\" appearing immediately after the words \"the threshold to be\" and substituting therefor the words \"prescribed in Regulations\"."
     },
     {
-      "order": 146,
+      "order": 145,
       "id": "entry-897313",
       "label": "scene",
       "level": "5",
@@ -1755,7 +1743,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 147,
+      "order": 146,
       "id": "entry-897314",
       "label": "speech",
       "level": "5",
@@ -1767,7 +1755,7 @@
       "text": "The Division will come at the end."
     },
     {
-      "order": 148,
+      "order": 147,
       "id": "entry-897315",
       "label": "heading",
       "level": "5",
@@ -1779,7 +1767,7 @@
       "text": "Schedule"
     },
     {
-      "order": 149,
+      "order": 148,
       "id": "entry-897316",
       "label": "speech",
       "level": "5",
@@ -1791,7 +1779,7 @@
       "text": "There is an amendment by the Chairperson of the Committee on Finance and Budget, Sen. (Eng.) Mahamud."
     },
     {
-      "order": 150,
+      "order": 149,
       "id": "entry-897317",
       "label": "speech",
       "level": "5",
@@ -1803,7 +1791,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move:- THAT the Bill be amended by deleting the schedule and substituting therefor the following new schedule-"
     },
     {
-      "order": 151,
+      "order": 150,
       "id": "entry-897319",
       "label": "heading",
       "level": "5",
@@ -1815,7 +1803,7 @@
       "text": "SCHEDULE"
     },
     {
-      "order": 152,
+      "order": 151,
       "id": "entry-897320-split-selected-5c9de9b2-3be4-49fc-80e3-8ab9ae50e343",
       "label": "heading",
       "level": "3",
@@ -1827,7 +1815,7 @@
       "text": "ALLOCATION OF REVENUE RAISED NATIONALLY AMONG THE NATIONAL AND COUNTY GOVERNMENTS FOR THE FINANCIAL YEAR 2019/20"
     },
     {
-      "order": 153,
+      "order": 152,
       "id": "entry-897320-split-after-c6a13267-5880-4a8e-910d-ae9f8d1e66aa",
       "label": "speech",
       "level": "3",
@@ -1839,7 +1827,7 @@
       "text": "Percentag e (%) of 2014/15 audited and Type/level of allocation Amount in Ksh. approved Revenue i.e. Ksh.1,038, 035 Millions A. National Government 1,535,746,497,191"
     },
     {
-      "order": 154,
+      "order": 153,
       "id": "entry-897321",
       "label": "speech",
       "level": "3",
@@ -1851,7 +1839,7 @@
       "text": "Of which:"
     },
     {
-      "order": 155,
+      "order": 154,
       "id": "entry-897322",
       "label": "heading",
       "level": "3",
@@ -1863,7 +1851,7 @@
       "text": "1. Leasing of Medical Equipment -"
     },
     {
-      "order": 156,
+      "order": 155,
       "id": "entry-897323",
       "label": "heading",
       "level": "3",
@@ -1875,7 +1863,7 @@
       "text": "2. Compensation for User Fees Forgone 900,000,000"
     },
     {
-      "order": 157,
+      "order": 156,
       "id": "entry-897324",
       "label": "heading",
       "level": "3",
@@ -1887,7 +1875,7 @@
       "text": "3. Level 5 Hospitals 4,326,000,000"
     },
     {
-      "order": 158,
+      "order": 157,
       "id": "entry-897325",
       "label": "heading",
       "level": "3",
@@ -1899,7 +1887,7 @@
       "text": "4. Supplement for Construction of County Headquarters 485,152,184"
     },
     {
-      "order": 159,
+      "order": 158,
       "id": "entry-897326",
       "label": "heading",
       "level": "3",
@@ -1911,7 +1899,7 @@
       "text": "5. Rehabilitation of Youth Polytechnics 2,000,000,000"
     },
     {
-      "order": 160,
+      "order": 159,
       "id": "entry-897327",
       "label": "speech",
       "level": "3",
@@ -1923,7 +1911,7 @@
       "text": "B. Equalization Fund 5,760,000,000 0.60%"
     },
     {
-      "order": 161,
+      "order": 160,
       "id": "entry-897328",
       "label": "speech",
       "level": "3",
@@ -1935,7 +1923,7 @@
       "text": "C. County Equitable Share 335,670,000,000 32%"
     },
     {
-      "order": 162,
+      "order": 161,
       "id": "entry-897330",
       "label": "speech",
       "level": "3",
@@ -1947,7 +1935,7 @@
       "text": "D. Total Shareable Revenue 1,877,176,497,191"
     },
     {
-      "order": 163,
+      "order": 162,
       "id": "entry-897331",
       "label": "speech",
       "level": "3",
@@ -1959,7 +1947,7 @@
       "text": "Memo items"
     },
     {
-      "order": 164,
+      "order": 163,
       "id": "entry-897332",
       "label": "speech",
       "level": "3",
@@ -1971,7 +1959,7 @@
       "text": "1. County Equitable Share 335,670,000,000"
     },
     {
-      "order": 165,
+      "order": 164,
       "id": "entry-897333",
       "label": "heading",
       "level": "3",
@@ -1983,7 +1971,7 @@
       "text": "2. Additional conditional allocations (National Government"
     },
     {
-      "order": 166,
+      "order": 165,
       "id": "entry-897334",
       "label": "heading",
       "level": "3",
@@ -1995,7 +1983,7 @@
       "text": "7,711,152,184"
     },
     {
-      "order": 167,
+      "order": 166,
       "id": "entry-897335",
       "label": "scene",
       "level": "3",
@@ -2007,7 +1995,7 @@
       "text": "share of Revenue) of which;2.1. Leasing of Medical Equipment** -"
     },
     {
-      "order": 168,
+      "order": 167,
       "id": "entry-897336",
       "label": "heading",
       "level": "3",
@@ -2019,7 +2007,7 @@
       "text": "2.2 Compensation for User Fees Forgone 900,000,000"
     },
     {
-      "order": 169,
+      "order": 168,
       "id": "entry-897337",
       "label": "heading",
       "level": "3",
@@ -2031,7 +2019,7 @@
       "text": "2.3 Level 5 Hospitals 4,326,000,000"
     },
     {
-      "order": 170,
+      "order": 169,
       "id": "entry-897338",
       "label": "heading",
       "level": "3",
@@ -2043,7 +2031,7 @@
       "text": "2.4 Supplement for Construction Of County Headquarters 485,152,184"
     },
     {
-      "order": 171,
+      "order": 170,
       "id": "entry-897339",
       "label": "heading",
       "level": "3",
@@ -2055,7 +2043,7 @@
       "text": "2.5 Rehabilitation of Youth Polytechnics 2,000,000,000"
     },
     {
-      "order": 172,
+      "order": 171,
       "id": "entry-897340-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "3",
@@ -2067,7 +2055,7 @@
       "text": "3. Allocation from Fuel Levy Fund"
     },
     {
-      "order": 173,
+      "order": 172,
       "id": "entry-897340-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -2079,7 +2067,7 @@
       "text": "(15%)"
     },
     {
-      "order": 174,
+      "order": 173,
       "id": "entry-897341",
       "label": "heading",
       "level": "3",
@@ -2091,7 +2079,7 @@
       "text": "8,984,062,500"
     },
     {
-      "order": 175,
+      "order": 174,
       "id": "entry-897342",
       "label": "heading",
       "level": "3",
@@ -2103,7 +2091,7 @@
       "text": "4. Conditional allocations (Loans & grants) of which: 38,704,877,210"
     },
     {
-      "order": 176,
+      "order": 175,
       "id": "entry-897343",
       "label": "heading",
       "level": "3",
@@ -2115,7 +2103,7 @@
       "text": "4.1 IDA-Kenya Devolution Support Program (KDSP) Level 1 1,410,000,000"
     },
     {
-      "order": 177,
+      "order": 176,
       "id": "entry-897344",
       "label": "heading",
       "level": "3",
@@ -2127,7 +2115,7 @@
       "text": "4.2 IDA-Kenya Devolution Support Program (KDSP) (Level 2 4,890,000,000"
     },
     {
-      "order": 178,
+      "order": 177,
       "id": "entry-897345",
       "label": "heading",
       "level": "3",
@@ -2139,7 +2127,7 @@
       "text": "Grant)4.3 IDA-Transforming Health Systems for Universal Care 2,994,247,736"
     },
     {
-      "order": 179,
+      "order": 178,
       "id": "entry-897346",
       "label": "heading",
       "level": "3",
@@ -2151,7 +2139,7 @@
       "text": "Project4.4 DANIDA-Universal Healthcare For Devolved System 986,583,544"
     },
     {
-      "order": 180,
+      "order": 179,
       "id": "entry-897347",
       "label": "heading",
       "level": "3",
@@ -2163,7 +2151,7 @@
       "text": "Program4.5 IDA-National Agriculture & Rural Inclusive Growth 7,232,719,940"
     },
     {
-      "order": 181,
+      "order": 180,
       "id": "entry-897348",
       "label": "heading",
       "level": "3",
@@ -2175,7 +2163,7 @@
       "text": "Project (NARIGP)4.6 EU-Instruments for Devolution Advice and Support (IDEAS) 492,698,583"
     },
     {
-      "order": 182,
+      "order": 181,
       "id": "entry-897349",
       "label": "heading",
       "level": "3",
@@ -2187,7 +2175,7 @@
       "text": "4.7 IDA (World Bank) - Kenya Climate Smart Agriculture 3,643,298,670"
     },
     {
-      "order": 183,
+      "order": 182,
       "id": "entry-897350",
       "label": "heading",
       "level": "3",
@@ -2199,7 +2187,7 @@
       "text": "Project (KCSAP)4.8 World Bank- Kenya Urban Support Program (KUSP)- UDG 11,464,702,500"
     },
     {
-      "order": 184,
+      "order": 183,
       "id": "entry-897351",
       "label": "heading",
       "level": "3",
@@ -2211,7 +2199,7 @@
       "text": "4.9 World Bank- Kenya Urban Support Program (KUSP)- UIG 396,000,000"
     },
     {
-      "order": 185,
+      "order": 184,
       "id": "entry-897352",
       "label": "heading",
       "level": "3",
@@ -2223,7 +2211,7 @@
       "text": "4.10 IDA- Water and Sanitation Development Project (WSDP) 3,500,000,000"
     },
     {
-      "order": 186,
+      "order": 185,
       "id": "entry-897353",
       "label": "heading",
       "level": "3",
@@ -2235,7 +2223,7 @@
       "text": "4.1 1 Sweden Agriculture Sector Development Programme II 849,626,237"
     },
     {
-      "order": 187,
+      "order": 186,
       "id": "entry-897354-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -2247,7 +2235,7 @@
       "text": "(ASDP II)"
     },
     {
-      "order": 188,
+      "order": 187,
       "id": "entry-897354-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "3",
@@ -2259,7 +2247,7 @@
       "text": "4.12 EU- Water Tower Protection and Climate Change 495,000,000"
     },
     {
-      "order": 189,
+      "order": 188,
       "id": "entry-897355",
       "label": "heading",
       "level": "3",
@@ -2271,7 +2259,7 @@
       "text": "Mitigation and Adaptation Programme (WaTER)4.13 Drought Resilience Programme in Northern Kenya 350,000,000"
     },
     {
-      "order": 190,
+      "order": 189,
       "id": "entry-897356",
       "label": "speech",
       "level": "3",
@@ -2283,7 +2271,7 @@
       "text": "Total County Allocations= (1+2+3+4) 391,070,091,894"
     },
     {
-      "order": 191,
+      "order": 190,
       "id": "entry-897357",
       "label": "scene",
       "level": "3",
@@ -2295,7 +2283,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 192,
+      "order": 191,
       "id": "entry-897358",
       "label": "speech",
       "level": "3",
@@ -2307,7 +2295,7 @@
       "text": "The Division will come at the end."
     },
     {
-      "order": 193,
+      "order": 192,
       "id": "entry-897360-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -2319,7 +2307,7 @@
       "text": "Clause 2, The Title and Clause 1"
     },
     {
-      "order": 194,
+      "order": 193,
       "id": "entry-897360-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -2331,7 +2319,7 @@
       "text": "(Question, that Clause 2, The Title and Clause 1 be part of the Bill, proposed)"
     },
     {
-      "order": 195,
+      "order": 194,
       "id": "entry-897361",
       "label": "speech",
       "level": "5",
@@ -2343,19 +2331,19 @@
       "text": "The Division will come at the end."
     },
     {
-      "order": 196,
+      "order": 195,
       "id": "entry-897362",
       "label": "speech",
       "level": "5",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
       "text": "Hon. Senators, we shall start with division on the clauses with amendments, that is, Clause 5 and the Schedule."
     },
     {
-      "order": 197,
+      "order": 196,
       "id": "entry-897363",
       "label": "speech",
       "level": "5",
@@ -2367,7 +2355,7 @@
       "text": "I now order that the Division Bell be rung for one minute."
     },
     {
-      "order": 198,
+      "order": 197,
       "id": "entry-897364",
       "label": "scene",
       "level": "5",
@@ -2379,7 +2367,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 199,
+      "order": 198,
       "id": "entry-897365",
       "label": "speech",
       "level": "5",
@@ -2391,7 +2379,7 @@
       "text": "Order, hon. Senators. I order that the Door be closed and the Bars drawn."
     },
     {
-      "order": 200,
+      "order": 199,
       "id": "entry-897366",
       "label": "scene",
       "level": "5",
@@ -2403,7 +2391,7 @@
       "text": "(The Door was locked and the Bars Drawn)"
     },
     {
-      "order": 201,
+      "order": 200,
       "id": "entry-897367",
       "label": "heading",
       "level": "3",
@@ -2415,7 +2403,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 202,
+      "order": 201,
       "id": "entry-897369",
       "label": "scene",
       "level": "3",
@@ -2427,7 +2415,7 @@
       "text": "(Question, that Clause 5 and the Schedule be amended as proposed put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 203,
+      "order": 202,
       "id": "entry-897370",
       "label": "other",
       "level": "3",
@@ -2439,7 +2427,7 @@
       "text": "AYES:"
     },
     {
-      "order": 204,
+      "order": 203,
       "id": "entry-897371",
       "label": "other",
       "level": "3",
@@ -2451,7 +2439,7 @@
       "text": "Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. Kajwang‟ M., Homa Bay County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Dr.) Langat, Bomet County ; Sen. (Dr.) Lelegwe, Samburu County ; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 205,
+      "order": 204,
       "id": "entry-897372",
       "label": "other",
       "level": "3",
@@ -2463,7 +2451,7 @@
       "text": "NOES:"
     },
     {
-      "order": 206,
+      "order": 205,
       "id": "entry-897373",
       "label": "speech",
       "level": "3",
@@ -2472,22 +2460,10 @@
       "speaker": "",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
-      "text": "Nil.\n\nABSENTIONS:"
+      "text": "Nil.\n\nABSENTIONS:\n\nNil."
     },
     {
-      "order": 207,
-      "id": "entry-897375",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 208,
+      "order": 206,
       "id": "entry-897376",
       "label": "speech",
       "level": "3",
@@ -2499,7 +2475,7 @@
       "text": "Hon. Senators, these are the results of the Division -\n\nAYES:\n\n31\n\nNOES:"
     },
     {
-      "order": 209,
+      "order": 207,
       "id": "entry-897380",
       "label": "speech",
       "level": "3",
@@ -2511,7 +2487,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 210,
+      "order": 208,
       "id": "entry-897382",
       "label": "speech",
       "level": "3",
@@ -2523,7 +2499,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 211,
+      "order": 209,
       "id": "entry-897383",
       "label": "scene",
       "level": "3",
@@ -2535,7 +2511,7 @@
       "text": "(Question carried by 31 votes to nil)"
     },
     {
-      "order": 212,
+      "order": 210,
       "id": "entry-897384",
       "label": "speech",
       "level": "3",
@@ -2547,7 +2523,7 @@
       "text": "Hon. Senators, we will proceed to clauses without amendments. I will now put the question."
     },
     {
-      "order": 213,
+      "order": 211,
       "id": "entry-897385",
       "label": "heading",
       "level": "3",
@@ -2559,7 +2535,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 214,
+      "order": 212,
       "id": "entry-897387",
       "label": "scene",
       "level": "3",
@@ -2571,7 +2547,7 @@
       "text": "(Question, that Clauses 3, 4, 5 (as amended), the Schedule (as amended) Clause 2, The Title and Clause 1 be part of the Bill put and the Senate proceeded to vote by county delegations)"
     },
     {
-      "order": 215,
+      "order": 213,
       "id": "entry-897388",
       "label": "other",
       "level": "3",
@@ -2583,7 +2559,7 @@
       "text": "AYES:"
     },
     {
-      "order": 216,
+      "order": 214,
       "id": "entry-897389",
       "label": "other",
       "level": "3",
@@ -2595,7 +2571,7 @@
       "text": "Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. Kang‟ata, Murang‟a County; Sen. Kajwang‟ M., Homa Bay County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County, and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 217,
+      "order": 215,
       "id": "entry-897390",
       "label": "other",
       "level": "3",
@@ -2604,22 +2580,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil."
     },
     {
-      "order": 218,
-      "id": "entry-897391",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 219,
+      "order": 216,
       "id": "entry-897392",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2595,7 @@
       "text": "Hon. Senators, the results of the Division are as follows.\n\nAYES:\n\n32\n\nNOES:"
     },
     {
-      "order": 220,
+      "order": 217,
       "id": "entry-897396",
       "label": "speech",
       "level": "3",
@@ -2640,22 +2604,10 @@
       "speaker": "(Sen. (Dr.) Lelegwe)",
       "speaker_title": "The Temporary Chairperson",
       "reviewed": true,
-      "text": "Nil.\n\nABSTENTIONS:"
+      "text": "Nil.\n\nABSTENTIONS:\n\nNil."
     },
     {
-      "order": 221,
-      "id": "entry-897398",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Dr.) Lelegwe)",
-      "speaker_title": "The Temporary Chairperson",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 222,
+      "order": 218,
       "id": "entry-897399",
       "label": "speech",
       "level": "3",
@@ -2667,7 +2619,7 @@
       "text": "The „Ayes‟ have it."
     },
     {
-      "order": 223,
+      "order": 219,
       "id": "entry-897400",
       "label": "speech",
       "level": "3",
@@ -2679,7 +2631,7 @@
       "text": "I request that the doors be open and the Bars be drawn."
     },
     {
-      "order": 224,
+      "order": 220,
       "id": "entry-897401",
       "label": "scene",
       "level": "3",
@@ -2691,7 +2643,7 @@
       "text": "(The doors were opened and the bar drawn)"
     },
     {
-      "order": 225,
+      "order": 221,
       "id": "entry-897402",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2655,7 @@
       "text": "I request the Mover to move."
     },
     {
-      "order": 226,
+      "order": 222,
       "id": "entry-897403",
       "label": "speech",
       "level": "3",
@@ -2715,7 +2667,7 @@
       "text": "Mr. Temporary Speaker, Sir, I beg to move that the Committee do report to the Senate its consideration of the Division of Revenue Bill (National Assembly Bills No. 11 of 2019) and its approval thereof with amendments."
     },
     {
-      "order": 227,
+      "order": 223,
       "id": "entry-897404",
       "label": "scene",
       "level": "3",
@@ -2727,7 +2679,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 228,
+      "order": 224,
       "id": "entry-897405",
       "label": "scene",
       "level": "3",
@@ -2739,7 +2691,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 229,
+      "order": 225,
       "id": "entry-897406",
       "label": "scene",
       "level": "3",
@@ -2751,7 +2703,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 230,
+      "order": 226,
       "id": "entry-897407",
       "label": "scene",
       "level": "3",
@@ -2763,7 +2715,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) in the Chair]"
     },
     {
-      "order": 231,
+      "order": 227,
       "id": "entry-897408",
       "label": "heading",
       "level": "1",
@@ -2775,7 +2727,7 @@
       "text": "REPORT, CONSIDERATION OF REPORT AND THIRD READING"
     },
     {
-      "order": 232,
+      "order": 228,
       "id": "entry-897409",
       "label": "heading",
       "level": "3",
@@ -2787,7 +2739,7 @@
       "text": "THE DIVISION OF REVENUE BILL (NATIONAL ASSEMBLY BILLS NO. 11 OF 2019)"
     },
     {
-      "order": 233,
+      "order": 229,
       "id": "entry-897410",
       "label": "speech",
       "level": "3",
@@ -2799,7 +2751,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to report that the Committee of the Whole has considered the Division of Revenue Bill (National Assembly Bills No.11 of 2019) and its approval thereof with amendments."
     },
     {
-      "order": 234,
+      "order": 230,
       "id": "entry-897411",
       "label": "speech",
       "level": "3",
@@ -2811,7 +2763,7 @@
       "text": "I beg to move that the House do agree with the Committee on the said report."
     },
     {
-      "order": 235,
+      "order": 231,
       "id": "entry-897412",
       "label": "speech",
       "level": "3",
@@ -2823,7 +2775,7 @@
       "text": "Who is seconding?"
     },
     {
-      "order": 236,
+      "order": 232,
       "id": "entry-897413",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2787,7 @@
       "text": "I ask Sen. (Eng.) Hargura to second."
     },
     {
-      "order": 237,
+      "order": 233,
       "id": "entry-897414",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2799,7 @@
       "text": "Mr. Deputy Speaker, Sir, I second."
     },
     {
-      "order": 238,
+      "order": 234,
       "id": "entry-897415",
       "label": "scene",
       "level": "3",
@@ -2859,7 +2811,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 239,
+      "order": 235,
       "id": "entry-897416",
       "label": "scene",
       "level": "3",
@@ -2871,7 +2823,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 240,
+      "order": 236,
       "id": "entry-897417",
       "label": "speech",
       "level": "3",
@@ -2883,7 +2835,7 @@
       "text": "Mover!"
     },
     {
-      "order": 241,
+      "order": 237,
       "id": "entry-897418",
       "label": "speech",
       "level": "3",
@@ -2895,7 +2847,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move that the Division of Revenue Bill (National Assembly Bills No.11 of 2019) be now read a Third Time. I ask Sen. Dullo to second."
     },
     {
-      "order": 242,
+      "order": 238,
       "id": "entry-897419",
       "label": "speech",
       "level": "3",
@@ -2907,7 +2859,7 @@
       "text": "I second."
     },
     {
-      "order": 243,
+      "order": 239,
       "id": "entry-897420",
       "label": "scene",
       "level": "3",
@@ -2919,7 +2871,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 244,
+      "order": 240,
       "id": "entry-897421",
       "label": "scene",
       "level": "3",
@@ -2931,7 +2883,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 245,
+      "order": 241,
       "id": "entry-897422",
       "label": "speech",
       "level": "3",
@@ -2943,7 +2895,7 @@
       "text": "It is time for Division. I now direct that the Division Bell be rung for one Minute."
     },
     {
-      "order": 246,
+      "order": 242,
       "id": "entry-897424",
       "label": "scene",
       "level": "3",
@@ -2955,7 +2907,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 247,
+      "order": 243,
       "id": "entry-897425",
       "label": "speech",
       "level": "3",
@@ -2967,7 +2919,7 @@
       "text": "The Division Bell has stopped ringing. I, therefore, direct that the doors be locked and the bars be drawn."
     },
     {
-      "order": 248,
+      "order": 244,
       "id": "entry-897426",
       "label": "scene",
       "level": "3",
@@ -2979,7 +2931,7 @@
       "text": "(The doors were locked and bars drawn)"
     },
     {
-      "order": 249,
+      "order": 245,
       "id": "entry-897427",
       "label": "speech",
       "level": "3",
@@ -2991,7 +2943,7 @@
       "text": "Senators, assume your seats. It is now time to vote. Start voting now."
     },
     {
-      "order": 250,
+      "order": 246,
       "id": "entry-897428",
       "label": "scene",
       "level": "3",
@@ -3003,7 +2955,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 251,
+      "order": 247,
       "id": "entry-897429",
       "label": "speech",
       "level": "3",
@@ -3015,7 +2967,7 @@
       "text": "You have 30 seconds to go. That is the end of voting. Assisted voters, please approach the Clerks-at-the-Table. Assisted voters led by the Senator for Migori County who is perpetually assisted should approach the Clerks-at-the-Table."
     },
     {
-      "order": 252,
+      "order": 248,
       "id": "entry-897430",
       "label": "scene",
       "level": "3",
@@ -3027,7 +2979,7 @@
       "text": "(Sen. Ochillo-Ayacko walked to the Clerks-at-the-Table and registered his vote)"
     },
     {
-      "order": 253,
+      "order": 249,
       "id": "entry-897431",
       "label": "speech",
       "level": "3",
@@ -3039,7 +2991,7 @@
       "text": "Sen. Kang‟ata, you have not voted."
     },
     {
-      "order": 254,
+      "order": 250,
       "id": "entry-897432",
       "label": "scene",
       "level": "3",
@@ -3051,7 +3003,7 @@
       "text": "(Sen. Kang'ata walked to the Clerks-at-the-Table and registered his vote)"
     },
     {
-      "order": 255,
+      "order": 251,
       "id": "entry-897433",
       "label": "heading",
       "level": "3",
@@ -3063,7 +3015,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 256,
+      "order": 252,
       "id": "entry-897435",
       "label": "scene",
       "level": "3",
@@ -3075,7 +3027,7 @@
       "text": "(Question, that the Division of Revenue Bill (National Assembly Bills No.11 of 2019) be now read a Third Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 257,
+      "order": 253,
       "id": "entry-897436",
       "label": "other",
       "level": "3",
@@ -3087,7 +3039,7 @@
       "text": "AYES:"
     },
     {
-      "order": 258,
+      "order": 254,
       "id": "entry-897437",
       "label": "other",
       "level": "3",
@@ -3099,7 +3051,7 @@
       "text": "Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. (Eng.) Hargura, Marsabit County; Sen. Iman, Garissa County; Sen. Kajwang‟ M., Homa Bay County; Sen. Kang‟ata, Murang‟a County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. (Prof.) Kindiki, Tharaka Nithi County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Mpaayei, Kajiado County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwangi, Nyandarua County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen."
     },
     {
-      "order": 259,
+      "order": 255,
       "id": "entry-897438",
       "label": "other",
       "level": "3",
@@ -3111,7 +3063,7 @@
       "text": "Sakaja, Nairobi City County; Sen. Wamatangi, Kiambu County; Sen. Wambua, Kitui County; Sen. Wario, Tana River County; and, Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 260,
+      "order": 256,
       "id": "entry-897439",
       "label": "other",
       "level": "3",
@@ -3120,22 +3072,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES:"
+      "text": "NOES:\n\nNil"
     },
     {
-      "order": 261,
-      "id": "entry-897440",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 262,
+      "order": 257,
       "id": "entry-897441",
       "label": "speech",
       "level": "3",
@@ -3147,7 +3087,7 @@
       "text": "Hon. Senators, the results of the Division are as follows: -\n\nAYES:\n\n35\n\nNOES:"
     },
     {
-      "order": 263,
+      "order": 258,
       "id": "entry-897445",
       "label": "speech",
       "level": "3",
@@ -3156,22 +3096,10 @@
       "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "Nil\n\nABSTENTIONS:"
+      "text": "Nil\n\nABSTENTIONS:\n\nNil"
     },
     {
-      "order": 264,
-      "id": "entry-897447",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "(Sen. (Prof.) Kindiki)",
-      "speaker_title": "The Deputy Speaker",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 265,
+      "order": 259,
       "id": "entry-897448",
       "label": "scene",
       "level": "3",
@@ -3183,7 +3111,7 @@
       "text": "(Question carried by 35 votes to nil)"
     },
     {
-      "order": 266,
+      "order": 260,
       "id": "entry-897449",
       "label": "scene",
       "level": "3",
@@ -3195,7 +3123,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 267,
+      "order": 261,
       "id": "entry-897450",
       "label": "speech",
       "level": "3",
@@ -3207,7 +3135,7 @@
       "text": "I now direct that the Bars be undrawn and the doors opened."
     },
     {
-      "order": 268,
+      "order": 262,
       "id": "entry-897451",
       "label": "scene",
       "level": "3",
@@ -3219,7 +3147,7 @@
       "text": "(The Bars were undrawn and the doors opened)"
     },
     {
-      "order": 269,
+      "order": 263,
       "id": "entry-897452",
       "label": "scene",
       "level": "3",
@@ -3231,7 +3159,7 @@
       "text": "(Several Senators stood up in their places)"
     },
     {
-      "order": 270,
+      "order": 264,
       "id": "entry-897453",
       "label": "scene",
       "level": "3",
@@ -3243,7 +3171,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 271,
+      "order": 265,
       "id": "entry-897454",
       "label": "speech",
       "level": "3",
@@ -3255,7 +3183,7 @@
       "text": "Order Senator! The House is still in session! Hon. Senators, as you are aware, this was a Special Sitting. Therefore, the business that we had to transact is only the business which was disclosed not only in the Order Paper but also in the Gazette Notice and that business has been exhausted."
     },
     {
-      "order": 272,
+      "order": 266,
       "id": "entry-897456",
       "label": "heading",
       "level": "1",
@@ -3267,7 +3195,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 273,
+      "order": 267,
       "id": "entry-897457",
       "label": "speech",
       "level": "1",

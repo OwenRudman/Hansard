@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2022-05-10-14-30-00",
-  "exported_at": "2026-10-05T08:11:52.096Z",
+  "exported_at": "2026-10-15T19:34:33.301Z",
   "entries": [
     {
       "order": 1,
@@ -669,10 +669,10 @@
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. Prof.)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
-      "text": "(Sen. Prof.) Kamar): Thank you, Sen. Seneta. Sen. (Dr.) Musuruve is online. Kindly proceed."
+      "text": "Kamar): Thank you, Sen. Seneta. Sen. (Dr.) Musuruve is online. Kindly proceed."
     },
     {
       "order": 57,
@@ -849,7 +849,7 @@
       "level": "3",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Hon. Senators, that was the last contribution, I ask the Mover to respond. The Senate Majority Leader, Sen. Poghisio, proceed."

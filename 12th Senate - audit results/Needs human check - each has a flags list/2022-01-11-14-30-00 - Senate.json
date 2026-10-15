@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2022-01-11-14-30-00",
-  "exported_at": "2026-10-05T08:10:59.930Z",
+  "exported_at": "2026-10-15T19:33:54.781Z",
   "entries": [
     {
       "order": 1,
@@ -1032,22 +1032,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Farhiya.\n\nNOES"
+      "text": "Sen. Farhiya.\n\nNOES\n\n: Nil"
     },
     {
       "order": 87,
-      "id": "entry-1139397",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 88,
       "id": "entry-1139398",
       "label": "speech",
       "level": "3",
@@ -1059,7 +1047,7 @@
       "text": "Sen. Shiyonga"
     },
     {
-      "order": 89,
+      "order": 88,
       "id": "entry-1139399",
       "label": "speech",
       "level": "3",
@@ -1071,7 +1059,7 @@
       "text": "Hon. Senators, these are the results of the vote-\n\nAYES\n\n: 35\n\nNOES"
     },
     {
-      "order": 90,
+      "order": 89,
       "id": "entry-1139403",
       "label": "speech",
       "level": "3",
@@ -1083,7 +1071,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 91,
+      "order": 90,
       "id": "entry-1139405",
       "label": "speech",
       "level": "3",
@@ -1095,7 +1083,7 @@
       "text": ": Nil The Ayes have it."
     },
     {
-      "order": 92,
+      "order": 91,
       "id": "entry-1139406",
       "label": "scene",
       "level": "3",
@@ -1107,7 +1095,7 @@
       "text": "(Question carried by 35 votes to Nil)"
     },
     {
-      "order": 93,
+      "order": 92,
       "id": "entry-1139407",
       "label": "scene",
       "level": "3",
@@ -1119,7 +1107,7 @@
       "text": "(The Bill was accordingly read the Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 94,
+      "order": 93,
       "id": "entry-1139409",
       "label": "speech",
       "level": "3",
@@ -1131,7 +1119,7 @@
       "text": "Hon. Senators, we are going to read the rest of the Bills for purposes of Division."
     },
     {
-      "order": 95,
+      "order": 94,
       "id": "entry-1139410",
       "label": "heading",
       "level": "1",
@@ -1143,7 +1131,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 96,
+      "order": 95,
       "id": "entry-1139411",
       "label": "heading",
       "level": "2",
@@ -1155,7 +1143,7 @@
       "text": "THE COUNTY HALL OF FAME BILL (SENATE BILLS NO.9 OF 2021"
     },
     {
-      "order": 97,
+      "order": 96,
       "id": "entry-1139412",
       "label": "scene",
       "level": "2",
@@ -1167,7 +1155,7 @@
       "text": "(Division)"
     },
     {
-      "order": 98,
+      "order": 97,
       "id": "entry-1139413",
       "label": "heading",
       "level": "1",
@@ -1179,7 +1167,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 99,
+      "order": 98,
       "id": "entry-1139414",
       "label": "heading",
       "level": "2",
@@ -1191,7 +1179,7 @@
       "text": "THE KENYA CITIZENSHIP AND IMMIGRATION (AMENDMENT) BILL (SENATE BILLS NO.33 OF 2021)"
     },
     {
-      "order": 100,
+      "order": 99,
       "id": "entry-1139415",
       "label": "scene",
       "level": "2",
@@ -1203,7 +1191,7 @@
       "text": "(Division)"
     },
     {
-      "order": 101,
+      "order": 100,
       "id": "entry-1139416",
       "label": "heading",
       "level": "1",
@@ -1215,7 +1203,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 102,
+      "order": 101,
       "id": "entry-1139417",
       "label": "heading",
       "level": "2",
@@ -1227,7 +1215,7 @@
       "text": "THE KENYAN SIGN LANGUAGE BILL (SENATE BILLS NO.5 OF 2021)"
     },
     {
-      "order": 103,
+      "order": 102,
       "id": "entry-1139418",
       "label": "scene",
       "level": "2",
@@ -1239,7 +1227,7 @@
       "text": "(Division)"
     },
     {
-      "order": 104,
+      "order": 103,
       "id": "entry-1139419",
       "label": "heading",
       "level": "1",
@@ -1251,7 +1239,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 105,
+      "order": 104,
       "id": "entry-1139420",
       "label": "heading",
       "level": "2",
@@ -1263,7 +1251,7 @@
       "text": "THE COUNTY OVERSIGHT AND ACCOUNTABILITY BILL (SENATE BILLS NO.17 OF 2021)"
     },
     {
-      "order": 106,
+      "order": 105,
       "id": "entry-1139421",
       "label": "scene",
       "level": "2",
@@ -1275,7 +1263,7 @@
       "text": "(Division)"
     },
     {
-      "order": 107,
+      "order": 106,
       "id": "entry-1139422",
       "label": "heading",
       "level": "1",
@@ -1287,7 +1275,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 108,
+      "order": 107,
       "id": "entry-1139423",
       "label": "heading",
       "level": "2",
@@ -1299,7 +1287,7 @@
       "text": "THE HERITAGE AND MUSEUMS BILL (SENATE BILLS NO. 22 OF 2021)"
     },
     {
-      "order": 109,
+      "order": 108,
       "id": "entry-1139424",
       "label": "scene",
       "level": "2",
@@ -1311,7 +1299,7 @@
       "text": "(Division)"
     },
     {
-      "order": 110,
+      "order": 109,
       "id": "entry-1139425",
       "label": "heading",
       "level": "1",
@@ -1323,7 +1311,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 111,
+      "order": 110,
       "id": "entry-1139426",
       "label": "heading",
       "level": "2",
@@ -1335,7 +1323,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILL NO. 38 OF 2021)"
     },
     {
-      "order": 112,
+      "order": 111,
       "id": "entry-1139428",
       "label": "scene",
       "level": "2",
@@ -1347,7 +1335,7 @@
       "text": "(Division)"
     },
     {
-      "order": 113,
+      "order": 112,
       "id": "entry-1139429",
       "label": "heading",
       "level": "1",
@@ -1359,7 +1347,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 114,
+      "order": 113,
       "id": "entry-1139430",
       "label": "heading",
       "level": "2",
@@ -1371,7 +1359,7 @@
       "text": "THE INTERGOVERNMENTAL RELATIONS (AMENDMENT) BILL (SENATE BILL NO. 37 OF 2021)"
     },
     {
-      "order": 115,
+      "order": 114,
       "id": "entry-1139431",
       "label": "scene",
       "level": "2",
@@ -1383,7 +1371,7 @@
       "text": "(Division)"
     },
     {
-      "order": 116,
+      "order": 115,
       "id": "entry-1139432",
       "label": "heading",
       "level": "1",
@@ -1395,7 +1383,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 117,
+      "order": 116,
       "id": "entry-1139433",
       "label": "scene",
       "level": "1",
@@ -1407,7 +1395,7 @@
       "text": "(Order for the Committee read)"
     },
     {
-      "order": 118,
+      "order": 117,
       "id": "entry-1139434",
       "label": "scene",
       "level": "1",
@@ -1419,7 +1407,7 @@
       "text": "[The Deputy Speaker (Sen. Pareno) left the Chair]"
     },
     {
-      "order": 119,
+      "order": 118,
       "id": "entry-1139435",
       "label": "heading",
       "level": "2",
@@ -1431,7 +1419,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 120,
+      "order": 119,
       "id": "entry-1139436",
       "label": "scene",
       "level": "2",
@@ -1443,7 +1431,7 @@
       "text": "[The Temporary Chairperson (Sen. Kinyua) in the Chair]"
     },
     {
-      "order": 121,
+      "order": 120,
       "id": "entry-1139437",
       "label": "heading",
       "level": "3",
@@ -1455,7 +1443,7 @@
       "text": "THE COUNTY HALL OF FAME SENATE (BILL NO.9 OF 2021)"
     },
     {
-      "order": 122,
+      "order": 121,
       "id": "entry-1139438",
       "label": "speech",
       "level": "3",
@@ -1467,7 +1455,7 @@
       "text": "Hon. Members, we are in the Committee of the Whole. As we consult, we request that the division bell to be rung for three minutes."
     },
     {
-      "order": 123,
+      "order": 122,
       "id": "entry-1139439",
       "label": "scene",
       "level": "3",
@@ -1479,7 +1467,7 @@
       "text": "(The division bell was rung)"
     },
     {
-      "order": 124,
+      "order": 123,
       "id": "entry-1139440",
       "label": "speech",
       "level": "3",
@@ -1491,7 +1479,7 @@
       "text": "Order, Members! I order that the doors be closed and the bar drawn."
     },
     {
-      "order": 125,
+      "order": 124,
       "id": "entry-1139441",
       "label": "scene",
       "level": "3",
@@ -1503,7 +1491,7 @@
       "text": "(The Doors were closed and the Bars drawn)"
     },
     {
-      "order": 126,
+      "order": 125,
       "id": "entry-1139442",
       "label": "speech",
       "level": "3",
@@ -1515,7 +1503,7 @@
       "text": "Hon. Members, we are in the Committee of the Whole to consider The County Hall of Fame Bill (Senate Bills No.9 of 2021). We are voting on the first question on the clause with an amendment, that Clause 9 be amended as proposed. The second question is that Clauses 3, 4, 5, 6, 7, 8, 9 (as amended), Clause 2, the Title and Clause 1 be part of the Bill. Members, you will vote for the two questions. Clerk-at-the-Table, let us proceed."
     },
     {
-      "order": 127,
+      "order": 126,
       "id": "entry-1139443",
       "label": "scene",
       "level": "3",
@@ -1527,7 +1515,7 @@
       "text": "(Hon. Senators proceeded to vote by Roll Call Voting)"
     },
     {
-      "order": 128,
+      "order": 127,
       "id": "entry-1139444",
       "label": "scene",
       "level": "3",
@@ -1539,7 +1527,7 @@
       "text": "(Roll call voting in progress)"
     },
     {
-      "order": 129,
+      "order": 128,
       "id": "entry-1139445",
       "label": "speech",
       "level": "3",
@@ -1551,7 +1539,7 @@
       "text": "Hon. Senators, we still have some divisions so do not leave please. We now proceed to The Kenya Citizenship and Immigration Amendment Bill (Senate Bills No.33 of 2021). We need tellers. Sen. (Dr.) Lang'at you can be a teller. I proceed to put the question that Clauses 3, 2, 1 and the Title be part of the Bill. Clerk, let us proceed with the Division."
     },
     {
-      "order": 130,
+      "order": 129,
       "id": "entry-1139447",
       "label": "scene",
       "level": "3",
@@ -1563,7 +1551,7 @@
       "text": "(Hon. Senators proceeded to vote by Roll Call voting)"
     },
     {
-      "order": 131,
+      "order": 130,
       "id": "entry-1139448",
       "label": "speech",
       "level": "3",
@@ -1575,7 +1563,7 @@
       "text": "Members, please, do not leave; we still have a few divisions. Members who are online please do not log out. Hon. Senators, we are progressing on well. We are now at the Kenya Sign Language Bill (Senate Bill No.5 of 2021). I put the question that Clauses 3, 4, 5, 6, 7, 9, 10, 16, 17, New Clause 8A and 2 be amended as proposed. The second question is for all clauses that Clause 3(as amended), 4 (as amended), 5 (as amended), 6 (as amended), 7 (as amended), 10 (as amended), 11, 12, 13, 14, 15, 16 (as amended), 17 (as amended), 18, 19, New Clause 8A, Clause 2 (as amended), the Title and Clause 1 be part of the Bill. Let proceed for Division. Clerk-at-the-Table, call out the Senators."
     },
     {
-      "order": 132,
+      "order": 131,
       "id": "entry-1139450",
       "label": "scene",
       "level": "3",
@@ -1587,7 +1575,7 @@
       "text": "(Hon. Senators proceeded to vote by Roll call voting)"
     },
     {
-      "order": 133,
+      "order": 132,
       "id": "entry-1139451",
       "label": "scene",
       "level": "3",
@@ -1599,7 +1587,7 @@
       "text": "(Roll call voting in progress)"
     },
     {
-      "order": 134,
+      "order": 133,
       "id": "entry-1139452",
       "label": "scene",
       "level": "3",
@@ -1611,7 +1599,7 @@
       "text": "(End of Roll call voting)"
     },
     {
-      "order": 135,
+      "order": 134,
       "id": "entry-1139453",
       "label": "speech",
       "level": "3",
@@ -1623,7 +1611,7 @@
       "text": "Hon. Members, I will now start giving the results of the Divisions starting with the County Hall of Fame Bill."
     },
     {
-      "order": 136,
+      "order": 135,
       "id": "entry-1139454",
       "label": "heading",
       "level": "3",
@@ -1635,7 +1623,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 137,
+      "order": 136,
       "id": "entry-1139456",
       "label": "heading",
       "level": "3",
@@ -1647,7 +1635,7 @@
       "text": "THE COUNTY HALL OF FAME BILL (SENATE BILLS NO.9 OF 2021)"
     },
     {
-      "order": 138,
+      "order": 137,
       "id": "entry-1139457",
       "label": "scene",
       "level": "3",
@@ -1659,7 +1647,7 @@
       "text": "(Question, that Clause 9 be amended as proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 139,
+      "order": 138,
       "id": "entry-1139458",
       "label": "other",
       "level": "3",
@@ -1671,7 +1659,7 @@
       "text": "AYES: Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Chebeni, Uasin Gishu County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo"
     },
     {
-      "order": 140,
+      "order": 139,
       "id": "entry-1139460",
       "label": "other",
       "level": "3",
@@ -1683,7 +1671,7 @@
       "text": "County; Sen. (Eng.) Hargura, Marsabit County; Sen. Kajwang' M., Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Kavindu Muthama, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Moi, Baringo County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; and, Sen. Seneta, Kajiado County."
     },
     {
-      "order": 141,
+      "order": 140,
       "id": "entry-1139461",
       "label": "speech",
       "level": "3",
@@ -1692,22 +1680,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Halake.\n\nNOES"
+      "text": "Sen. Halake.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 142,
-      "id": "entry-1139463",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 143,
+      "order": 141,
       "id": "entry-1139464",
       "label": "speech",
       "level": "3",
@@ -1719,7 +1695,7 @@
       "text": "Sen. Shiyonga."
     },
     {
-      "order": 144,
+      "order": 142,
       "id": "entry-1139465",
       "label": "speech",
       "level": "3",
@@ -1731,7 +1707,7 @@
       "text": "Hon. Senators, the results of the Division are as follows-\n\nAYES\n\n: 30\n\nNOES"
     },
     {
-      "order": 145,
+      "order": 143,
       "id": "entry-1139469",
       "label": "speech",
       "level": "3",
@@ -1743,7 +1719,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 146,
+      "order": 144,
       "id": "entry-1139471",
       "label": "speech",
       "level": "3",
@@ -1755,7 +1731,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 147,
+      "order": 145,
       "id": "entry-1139472",
       "label": "scene",
       "level": "3",
@@ -1767,7 +1743,7 @@
       "text": "(Question carried by 30 votes to nil)"
     },
     {
-      "order": 148,
+      "order": 146,
       "id": "entry-1139473",
       "label": "heading",
       "level": "3",
@@ -1779,7 +1755,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 149,
+      "order": 147,
       "id": "entry-1139475",
       "label": "scene",
       "level": "3",
@@ -1791,7 +1767,7 @@
       "text": "(Question, that Clauses 3, 4, 5, 6, 7, 8, 9(as amended), Clause2, the Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 150,
+      "order": 148,
       "id": "entry-1139476",
       "label": "other",
       "level": "3",
@@ -1803,7 +1779,7 @@
       "text": "AYES:"
     },
     {
-      "order": 151,
+      "order": 149,
       "id": "entry-1139477",
       "label": "other",
       "level": "3",
@@ -1815,7 +1791,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Chebeni, Uasin Gishu County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. Kajwang' M., Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Kavindu Muthama, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Moi, Baringo County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; and, Sen. Seneta, Kajiado County."
     },
     {
-      "order": 152,
+      "order": 150,
       "id": "entry-1139478",
       "label": "speech",
       "level": "3",
@@ -1824,22 +1800,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Halake.\n\nNOES"
+      "text": "Sen. Halake.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 153,
-      "id": "entry-1139480",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 154,
+      "order": 151,
       "id": "entry-1139482",
       "label": "speech",
       "level": "3",
@@ -1851,7 +1815,7 @@
       "text": "Sen. Shiyonga."
     },
     {
-      "order": 155,
+      "order": 152,
       "id": "entry-1139483",
       "label": "speech",
       "level": "3",
@@ -1863,7 +1827,7 @@
       "text": "Hon. Senators, the results of the Division are as follows-\n\nAYES\n\n: 30\n\nNOES"
     },
     {
-      "order": 156,
+      "order": 153,
       "id": "entry-1139487",
       "label": "speech",
       "level": "3",
@@ -1875,7 +1839,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 157,
+      "order": 154,
       "id": "entry-1139489",
       "label": "speech",
       "level": "3",
@@ -1887,7 +1851,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 158,
+      "order": 155,
       "id": "entry-1139490",
       "label": "scene",
       "level": "3",
@@ -1899,7 +1863,7 @@
       "text": "(Question carried by 30 votes to nil)"
     },
     {
-      "order": 159,
+      "order": 156,
       "id": "entry-1139491",
       "label": "speech",
       "level": "3",
@@ -1911,7 +1875,7 @@
       "text": "Hon. Senators, next is the Kenya Citizenship and Immigration (Amendment) Bill (Senate Bills No.33 of 2021)."
     },
     {
-      "order": 160,
+      "order": 157,
       "id": "entry-1139492",
       "label": "heading",
       "level": "3",
@@ -1923,7 +1887,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 161,
+      "order": 158,
       "id": "entry-1139494",
       "label": "scene",
       "level": "3",
@@ -1935,7 +1899,7 @@
       "text": "(Question, that Clauses 3, 2, the Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 162,
+      "order": 159,
       "id": "entry-1139495",
       "label": "other",
       "level": "3",
@@ -1947,7 +1911,7 @@
       "text": "AYES:"
     },
     {
-      "order": 163,
+      "order": 160,
       "id": "entry-1139496",
       "label": "other",
       "level": "3",
@@ -1959,7 +1923,7 @@
       "text": "Sen. Boy, Kwale County; Sen. Chebeni, Uasin Gishu County; Sen. Cherargei, Nandi County; Sen. Cheruiyot, Kericho County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. Kajwang' M., Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Kavindu Muthama, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Nyamunga, Kisumu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. Orengo, Siaya County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; and, Sen. Wako, Busia County."
     },
     {
-      "order": 164,
+      "order": 161,
       "id": "entry-1139497",
       "label": "speech",
       "level": "3",
@@ -1968,22 +1932,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. (Dr.) Langat.\n\nNOES"
+      "text": "Sen. (Dr.) Langat.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 165,
-      "id": "entry-1139499",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 166,
+      "order": 162,
       "id": "entry-1139500",
       "label": "speech",
       "level": "3",
@@ -1995,7 +1947,7 @@
       "text": "Sen. Shiyonga."
     },
     {
-      "order": 167,
+      "order": 163,
       "id": "entry-1139501",
       "label": "speech",
       "level": "3",
@@ -2007,7 +1959,7 @@
       "text": "Hon. Senators, the results of the Division are as follows-\n\nAYES\n\n: 27\n\nNOES"
     },
     {
-      "order": 168,
+      "order": 164,
       "id": "entry-1139505",
       "label": "speech",
       "level": "3",
@@ -2019,7 +1971,7 @@
       "text": ": Nil\n\nABSENTIONS"
     },
     {
-      "order": 169,
+      "order": 165,
       "id": "entry-1139507",
       "label": "speech",
       "level": "3",
@@ -2031,7 +1983,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 170,
+      "order": 166,
       "id": "entry-1139509",
       "label": "scene",
       "level": "3",
@@ -2043,7 +1995,7 @@
       "text": "(Question carried by 27 votes to Nil)"
     },
     {
-      "order": 171,
+      "order": 167,
       "id": "entry-1139510",
       "label": "speech",
       "level": "3",
@@ -2055,7 +2007,7 @@
       "text": "Hon. Senators, the next Bill is the Kenya Sign Language Bill (Senate Bills No.5 of 2021). The results are as follows-"
     },
     {
-      "order": 172,
+      "order": 168,
       "id": "entry-1139511",
       "label": "heading",
       "level": "3",
@@ -2067,7 +2019,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 173,
+      "order": 169,
       "id": "entry-1139513",
       "label": "scene",
       "level": "3",
@@ -2079,7 +2031,7 @@
       "text": "(Question, that Clauses 3, 4, 5, 6, 7, 9, 10, 16, 17, New Clause 8A and 2 be amended as proposed, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 174,
+      "order": 170,
       "id": "entry-1139514",
       "label": "other",
       "level": "3",
@@ -2091,7 +2043,7 @@
       "text": "AYES:"
     },
     {
-      "order": 175,
+      "order": 171,
       "id": "entry-1139515",
       "label": "other",
       "level": "3",
@@ -2103,7 +2055,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi City County; Sen. Kajwang' M., Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Kavindu Muthama, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Seneta, Kajiado County; and, Sen. Wako, Busia County."
     },
     {
-      "order": 176,
+      "order": 172,
       "id": "entry-1139516",
       "label": "speech",
       "level": "3",
@@ -2112,22 +2064,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Farhiya.\n\nNOES"
+      "text": "Sen. Farhiya.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 177,
-      "id": "entry-1139518",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 178,
+      "order": 173,
       "id": "entry-1139519",
       "label": "speech",
       "level": "3",
@@ -2139,7 +2079,7 @@
       "text": "Sen. Shiyonga."
     },
     {
-      "order": 179,
+      "order": 174,
       "id": "entry-1139520",
       "label": "speech",
       "level": "3",
@@ -2151,7 +2091,7 @@
       "text": "Hon. Senators, the results of the Division are as follows-\n\nAYES\n\n: 26\n\nNOES\n\n: 0\n\nABSENTIONS"
     },
     {
-      "order": 180,
+      "order": 175,
       "id": "entry-1139526",
       "label": "speech",
       "level": "3",
@@ -2163,7 +2103,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 181,
+      "order": 176,
       "id": "entry-1139527",
       "label": "scene",
       "level": "3",
@@ -2175,7 +2115,7 @@
       "text": "(Question carried by 26 votes to Nil)"
     },
     {
-      "order": 182,
+      "order": 177,
       "id": "entry-1139528",
       "label": "heading",
       "level": "3",
@@ -2187,7 +2127,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 183,
+      "order": 178,
       "id": "entry-1139530",
       "label": "scene",
       "level": "3",
@@ -2199,7 +2139,7 @@
       "text": "(Question, that Clauses 3 (as amended), 4(as amended), 5(as amended), 6(as amended), 7(as amended), 8, 9(as amended), 10(as amended), 11, 12, 13, 14, 15, 16(as amended), 17(as amended), 18, 19, New Clause 8A, Clause 2(as amended), the Title and Clause 1 be part of the Bill, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 184,
+      "order": 179,
       "id": "entry-1139532",
       "label": "other",
       "level": "3",
@@ -2211,7 +2151,7 @@
       "text": "AYES:"
     },
     {
-      "order": 185,
+      "order": 180,
       "id": "entry-1139533",
       "label": "other",
       "level": "3",
@@ -2223,7 +2163,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Faki, Mombasa County; Sen. Farhiya, Nairobi City County; Sen. Kajwang' M., Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Kavindu Muthama, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Seneta, Kajiado County; and, Sen. Wako, Busia County."
     },
     {
-      "order": 186,
+      "order": 181,
       "id": "entry-1139534",
       "label": "speech",
       "level": "3",
@@ -2232,22 +2172,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Farhiya.\n\nNOES"
+      "text": "Sen. Farhiya.\n\nNOES\n\n: Nil"
     },
     {
-      "order": 187,
-      "id": "entry-1139536",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 188,
+      "order": 182,
       "id": "entry-1139537",
       "label": "speech",
       "level": "3",
@@ -2259,7 +2187,7 @@
       "text": "Sen. Shiyonga."
     },
     {
-      "order": 189,
+      "order": 183,
       "id": "entry-1139538",
       "label": "speech",
       "level": "3",
@@ -2271,7 +2199,7 @@
       "text": "Hon. Senators, the results of the Division are as follows-\n\nAYES\n\n: 26\n\nNOES\n\n: 0\n\nABSENTIONS"
     },
     {
-      "order": 190,
+      "order": 184,
       "id": "entry-1139544",
       "label": "speech",
       "level": "3",
@@ -2283,7 +2211,7 @@
       "text": ": 0 The \"Ayes\" have it."
     },
     {
-      "order": 191,
+      "order": 185,
       "id": "entry-1139545",
       "label": "scene",
       "level": "3",
@@ -2295,7 +2223,7 @@
       "text": "(Question carried by 26 votes to 0)"
     },
     {
-      "order": 192,
+      "order": 186,
       "id": "entry-1139546",
       "label": "heading",
       "level": "3",
@@ -2307,7 +2235,7 @@
       "text": "THE COUNTY HALL OF FAME BILL (SENATE BILLS NO.9 OF 2021)"
     },
     {
-      "order": 193,
+      "order": 187,
       "id": "entry-1139547",
       "label": "speech",
       "level": "3",
@@ -2319,7 +2247,7 @@
       "text": "Let us have the Mover."
     },
     {
-      "order": 194,
+      "order": 188,
       "id": "entry-1139548",
       "label": "speech",
       "level": "3",
@@ -2331,7 +2259,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move that the Committee do report to the Senate its consideration of the County Hall of Fame Bill (Senate Bills No.9 of 2021) and its approval thereof with amendments."
     },
     {
-      "order": 195,
+      "order": 189,
       "id": "entry-1139549",
       "label": "speech",
       "level": "3",
@@ -2343,7 +2271,7 @@
       "text": "seconded."
     },
     {
-      "order": 196,
+      "order": 190,
       "id": "entry-1139550",
       "label": "scene",
       "level": "3",
@@ -2355,7 +2283,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 197,
+      "order": 191,
       "id": "entry-1139551",
       "label": "scene",
       "level": "3",
@@ -2367,7 +2295,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 198,
+      "order": 192,
       "id": "entry-1139553",
       "label": "heading",
       "level": "3",
@@ -2379,7 +2307,7 @@
       "text": "THE KENYA CITIZENSHIP AND IMMIGRATION (AMENDMENT) BILL (SENATE BILLS NO.33 OF 2021)"
     },
     {
-      "order": 199,
+      "order": 193,
       "id": "entry-1139554",
       "label": "speech",
       "level": "3",
@@ -2391,7 +2319,7 @@
       "text": "Let us have the Mover."
     },
     {
-      "order": 200,
+      "order": 194,
       "id": "entry-1139555",
       "label": "speech",
       "level": "3",
@@ -2403,7 +2331,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move that the Committee do report to the Senate its consideration of the Kenya Citizenship and Immigration (Amendment) Bill (Senate Bills No.33 of 2021) and its approval thereof without amendments."
     },
     {
-      "order": 201,
+      "order": 195,
       "id": "entry-1139556",
       "label": "speech",
       "level": "3",
@@ -2415,7 +2343,7 @@
       "text": "seconded."
     },
     {
-      "order": 202,
+      "order": 196,
       "id": "entry-1139557",
       "label": "scene",
       "level": "3",
@@ -2427,7 +2355,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 203,
+      "order": 197,
       "id": "entry-1139558",
       "label": "scene",
       "level": "3",
@@ -2439,7 +2367,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 204,
+      "order": 198,
       "id": "entry-1139559",
       "label": "heading",
       "level": "3",
@@ -2451,7 +2379,7 @@
       "text": "THE KENYA SIGN LANGUAGE BILL (SENATE BILLS NO.5 OF 2021)"
     },
     {
-      "order": 205,
+      "order": 199,
       "id": "entry-1139560",
       "label": "speech",
       "level": "3",
@@ -2463,7 +2391,7 @@
       "text": "Let us have the Mover."
     },
     {
-      "order": 206,
+      "order": 200,
       "id": "entry-1139561",
       "label": "speech",
       "level": "3",
@@ -2475,7 +2403,7 @@
       "text": "Mr. Temporary Chairman, Sir, I beg to move that the Committee do report to the Senate its consideration of the Kenya Sign Language Bill (Senate Bills No.5 of 2021) and its approval thereof with amendments."
     },
     {
-      "order": 207,
+      "order": 201,
       "id": "entry-1139562",
       "label": "speech",
       "level": "3",
@@ -2487,7 +2415,7 @@
       "text": "seconded."
     },
     {
-      "order": 208,
+      "order": 202,
       "id": "entry-1139563",
       "label": "scene",
       "level": "3",
@@ -2499,7 +2427,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 209,
+      "order": 203,
       "id": "entry-1139564",
       "label": "scene",
       "level": "3",
@@ -2511,7 +2439,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 210,
+      "order": 204,
       "id": "entry-1139565",
       "label": "scene",
       "level": "3",
@@ -2523,7 +2451,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 211,
+      "order": 205,
       "id": "entry-1139566",
       "label": "scene",
       "level": "3",
@@ -2535,7 +2463,7 @@
       "text": "[The Temporary Speaker (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 212,
+      "order": 206,
       "id": "entry-1139567",
       "label": "heading",
       "level": "3",
@@ -2547,7 +2475,7 @@
       "text": "REPORTS AND CONSIDERATION OF REPORTS"
     },
     {
-      "order": 213,
+      "order": 207,
       "id": "entry-1139568",
       "label": "heading",
       "level": "3",
@@ -2559,7 +2487,7 @@
       "text": "THE COUNTY HALL OF FAME BILL (SENATE BILLS NO.9 OF 2021)"
     },
     {
-      "order": 214,
+      "order": 208,
       "id": "entry-1139569",
       "label": "speech",
       "level": "3",
@@ -2571,7 +2499,7 @@
       "text": "Hon. Senators, we are now on the County Hall of Fame Bill (Senate Bills No.9 of 2021). Let us have the Chairperson."
     },
     {
-      "order": 215,
+      "order": 209,
       "id": "entry-1139570",
       "label": "speech",
       "level": "3",
@@ -2583,7 +2511,7 @@
       "text": "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered the County Hall of Fame Bill (Senate Bills No.9 of 2021) and its approval thereof with amendments."
     },
     {
-      "order": 216,
+      "order": 210,
       "id": "entry-1139571",
       "label": "scene",
       "level": "3",
@@ -2595,7 +2523,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 217,
+      "order": 211,
       "id": "entry-1139572",
       "label": "scene",
       "level": "3",
@@ -2607,7 +2535,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 218,
+      "order": 212,
       "id": "entry-1139573",
       "label": "speech",
       "level": "3",
@@ -2619,7 +2547,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the County Hall of Fame Bill (Senate Bills No.9 of 2021) be now read a Third Time. I request Sen. Olekina to second."
     },
     {
-      "order": 219,
+      "order": 213,
       "id": "entry-1139574",
       "label": "speech",
       "level": "3",
@@ -2631,7 +2559,7 @@
       "text": "Madam Temporary Speaker, I second."
     },
     {
-      "order": 220,
+      "order": 214,
       "id": "entry-1139575",
       "label": "scene",
       "level": "3",
@@ -2643,7 +2571,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 221,
+      "order": 215,
       "id": "entry-1139576",
       "label": "speech",
       "level": "3",
@@ -2655,7 +2583,7 @@
       "text": "Division will be later. Next is reporting on The Kenya Citizenship and Immigration (Amendment) Bill (Senate Bill No.33 of 2021)."
     },
     {
-      "order": 222,
+      "order": 216,
       "id": "entry-1139577",
       "label": "heading",
       "level": "3",
@@ -2667,7 +2595,7 @@
       "text": "THE KENYA CITIZENSHIP AND IMMIGRATION (AMENDMENT) BILL (SENATE BILLS NO.33 OF 2021)"
     },
     {
-      "order": 223,
+      "order": 217,
       "id": "entry-1139578",
       "label": "speech",
       "level": "3",
@@ -2679,7 +2607,7 @@
       "text": "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered The Kenya Citizenship and Immigration (Amendment) Bill (Senate Bills No.33 of 2021) and its approval thereof without amendments."
     },
     {
-      "order": 224,
+      "order": 218,
       "id": "entry-1139579",
       "label": "speech",
       "level": "3",
@@ -2691,7 +2619,7 @@
       "text": "Mover."
     },
     {
-      "order": 225,
+      "order": 219,
       "id": "entry-1139580",
       "label": "speech",
       "level": "3",
@@ -2703,7 +2631,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee on the said Report. I request Sen. Faki to second."
     },
     {
-      "order": 226,
+      "order": 220,
       "id": "entry-1139582",
       "label": "speech",
       "level": "3",
@@ -2715,7 +2643,7 @@
       "text": "Madam Temporary Speaker, I second."
     },
     {
-      "order": 227,
+      "order": 221,
       "id": "entry-1139583",
       "label": "scene",
       "level": "3",
@@ -2727,7 +2655,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 228,
+      "order": 222,
       "id": "entry-1139584",
       "label": "scene",
       "level": "3",
@@ -2739,7 +2667,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 229,
+      "order": 223,
       "id": "entry-1139585",
       "label": "speech",
       "level": "3",
@@ -2751,7 +2679,7 @@
       "text": "I call upon the Mover."
     },
     {
-      "order": 230,
+      "order": 224,
       "id": "entry-1139586",
       "label": "speech",
       "level": "3",
@@ -2763,7 +2691,7 @@
       "text": "Madam Temporary Speaker, I beg to move that The Kenya Citizenship and Immigration (Amendment) Bill (Senate Bills No.33 of 2021) be now read a Third Time. I request Sen. Faki again to second."
     },
     {
-      "order": 231,
+      "order": 225,
       "id": "entry-1139588",
       "label": "speech",
       "level": "3",
@@ -2775,7 +2703,7 @@
       "text": "Madam Temporary Speaker, I second."
     },
     {
-      "order": 232,
+      "order": 226,
       "id": "entry-1139589",
       "label": "scene",
       "level": "3",
@@ -2787,7 +2715,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 233,
+      "order": 227,
       "id": "entry-1139590",
       "label": "speech",
       "level": "3",
@@ -2799,7 +2727,7 @@
       "text": "Division will be done later."
     },
     {
-      "order": 234,
+      "order": 228,
       "id": "entry-1139592",
       "label": "heading",
       "level": "3",
@@ -2811,7 +2739,7 @@
       "text": "THE KENYAN SIGN LANGUAGE BILL (SENATE BILLS NO.5 OF 2021)"
     },
     {
-      "order": 235,
+      "order": 229,
       "id": "entry-1139593",
       "label": "speech",
       "level": "3",
@@ -2823,7 +2751,7 @@
       "text": "Hon. Senators, we now do the reporting of the Bill by the Committee of the Whole of The Kenyan Sign Language Bill (Senate Bills No.5 of 2021). I call upon the Chairperson."
     },
     {
-      "order": 236,
+      "order": 230,
       "id": "entry-1139594",
       "label": "speech",
       "level": "3",
@@ -2835,7 +2763,7 @@
       "text": "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered the Kenyan Sign Language Bill (Senate Bills No.5 of 2021) and its approval therefore with amendments."
     },
     {
-      "order": 237,
+      "order": 231,
       "id": "entry-1139595",
       "label": "speech",
       "level": "3",
@@ -2847,7 +2775,7 @@
       "text": "I call upon the Mover."
     },
     {
-      "order": 238,
+      "order": 232,
       "id": "entry-1139596",
       "label": "speech",
       "level": "3",
@@ -2859,7 +2787,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee in the said report. I call upon Sen. Faki to second."
     },
     {
-      "order": 239,
+      "order": 233,
       "id": "entry-1139597",
       "label": "speech",
       "level": "3",
@@ -2871,7 +2799,7 @@
       "text": "Madam Temporary Speaker, I second."
     },
     {
-      "order": 240,
+      "order": 234,
       "id": "entry-1139598",
       "label": "scene",
       "level": "3",
@@ -2883,7 +2811,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 241,
+      "order": 235,
       "id": "entry-1139599",
       "label": "scene",
       "level": "3",
@@ -2895,7 +2823,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 242,
+      "order": 236,
       "id": "entry-1139600",
       "label": "speech",
       "level": "3",
@@ -2907,7 +2835,7 @@
       "text": "I call upon the Mover."
     },
     {
-      "order": 243,
+      "order": 237,
       "id": "entry-1139601",
       "label": "speech",
       "level": "3",
@@ -2919,7 +2847,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the Kenyan Sign Language Bill (Senate Bills No.5 of 2021) be now read a Third Time. I request Sen. Madzayo to second."
     },
     {
-      "order": 244,
+      "order": 238,
       "id": "entry-1139603",
       "label": "speech",
       "level": "3",
@@ -2931,7 +2859,7 @@
       "text": "Madam Temporary Speaker, I second."
     },
     {
-      "order": 245,
+      "order": 239,
       "id": "entry-1139604",
       "label": "scene",
       "level": "3",
@@ -2943,7 +2871,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 246,
+      "order": 240,
       "id": "entry-1139605",
       "label": "speech",
       "level": "3",
@@ -2955,7 +2883,7 @@
       "text": "Division will be done later. Hon. Senators, I order that the Division Bell be rung for four minutes for us to proceed to Division for the last three Bills. I request all the Senators to remain, even those online. It is just three Bills and there will be one Division for all of them. It will be very short."
     },
     {
-      "order": 247,
+      "order": 241,
       "id": "entry-1139606",
       "label": "scene",
       "level": "3",
@@ -2967,7 +2895,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 248,
+      "order": 242,
       "id": "entry-1139607",
       "label": "speech",
       "level": "3",
@@ -2979,7 +2907,7 @@
       "text": "Hon. Members, let us confirm that we have Tellers. We have Sen. Kang'ata for the Ayes and Sen. Farhiya for the Noes. I therefore order that the bars be drawn and the doors closed."
     },
     {
-      "order": 249,
+      "order": 243,
       "id": "entry-1139608",
       "label": "scene",
       "level": "3",
@@ -2991,7 +2919,7 @@
       "text": "(The Bars were drawn and the doors closed)"
     },
     {
-      "order": 250,
+      "order": 244,
       "id": "entry-1139610",
       "label": "speech",
       "level": "3",
@@ -3003,7 +2931,7 @@
       "text": "Hon. Senators, I proceed to put the question that the County Hall of Fame (Senate Bills No.9 of 2021), the Kenya Citizenship and Immigration (Amendment) Bill (Senate ills No.33 of 2021) and the Kenyan Sign Language Bill (Senate Bills No.5 of 2021) be read a third time. Hon. Senators vote for the three Bills. Indicate that you vote for the three Bills. Let us commence voting."
     },
     {
-      "order": 251,
+      "order": 245,
       "id": "entry-1139613",
       "label": "scene",
       "level": "3",
@@ -3015,7 +2943,7 @@
       "text": "(Hon. Senators proceeded to vote by Roll call voting)"
     },
     {
-      "order": 252,
+      "order": 246,
       "id": "entry-1139614",
       "label": "heading",
       "level": "1",
@@ -3027,7 +2955,7 @@
       "text": "THIRD READINGS"
     },
     {
-      "order": 253,
+      "order": 247,
       "id": "entry-1139615",
       "label": "heading",
       "level": "3",
@@ -3039,7 +2967,7 @@
       "text": "THE COUNTY HALL OF FAME BILL (SENATE BILLS NO.9 OF 2020)"
     },
     {
-      "order": 254,
+      "order": 248,
       "id": "entry-1139616",
       "label": "scene",
       "level": "3",
@@ -3051,7 +2979,7 @@
       "text": "(Question, that the County Hall of Fame Bill (Senate Bills No.9 of 2020) be now read a Third Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 255,
+      "order": 249,
       "id": "entry-1139617",
       "label": "heading",
       "level": "3",
@@ -3063,7 +2991,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 256,
+      "order": 250,
       "id": "entry-1139619",
       "label": "other",
       "level": "3",
@@ -3075,7 +3003,7 @@
       "text": "AYES"
     },
     {
-      "order": 257,
+      "order": 251,
       "id": "entry-1139620",
       "label": "other",
       "level": "3",
@@ -3087,7 +3015,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. M. Kajwang', Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Muthama Kavindu, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Murkomen, Elgeyo-Marakwet County;, Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; and, Sen. Wako, Busia County."
     },
     {
-      "order": 258,
+      "order": 252,
       "id": "entry-1139621",
       "label": "speech",
       "level": "3",
@@ -3096,22 +3024,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kang'ata\n\nNOES:"
+      "text": "Sen. Kang'ata\n\nNOES:\n\nNil."
     },
     {
-      "order": 259,
-      "id": "entry-1139623",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 260,
+      "order": 253,
       "id": "entry-1139624",
       "label": "speech",
       "level": "3",
@@ -3123,7 +3039,7 @@
       "text": "Sen. Farhiya"
     },
     {
-      "order": 261,
+      "order": 254,
       "id": "entry-1139625",
       "label": "speech",
       "level": "3",
@@ -3135,7 +3051,7 @@
       "text": "Hon. Senators, we have the results on the Division-\n\nAYES:\n\n33\n\nNOES:"
     },
     {
-      "order": 262,
+      "order": 255,
       "id": "entry-1139629",
       "label": "speech",
       "level": "3",
@@ -3147,7 +3063,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 263,
+      "order": 256,
       "id": "entry-1139632",
       "label": "speech",
       "level": "3",
@@ -3159,7 +3075,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 264,
+      "order": 257,
       "id": "entry-1139633",
       "label": "scene",
       "level": "3",
@@ -3171,7 +3087,7 @@
       "text": "(Question carried by 33 votes to Nil)"
     },
     {
-      "order": 265,
+      "order": 258,
       "id": "entry-1139634",
       "label": "scene",
       "level": "3",
@@ -3183,7 +3099,7 @@
       "text": "(The Bill was accordingly read a Third Time and passed)"
     },
     {
-      "order": 266,
+      "order": 259,
       "id": "entry-1139635",
       "label": "heading",
       "level": "3",
@@ -3195,7 +3111,7 @@
       "text": "THE KENYA CITIZENSHIP AND IMMIGRATION (AMENDMENT) BILL (SENATE BILLS NO.33 OF 2021)"
     },
     {
-      "order": 267,
+      "order": 260,
       "id": "entry-1139636",
       "label": "scene",
       "level": "3",
@@ -3207,7 +3123,7 @@
       "text": "(Question, that the Kenya Citizenship and Immigration (Amendment) Bill (Senate Bills No.33 of 2021) be now read a Third Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 268,
+      "order": 261,
       "id": "entry-1139637",
       "label": "heading",
       "level": "3",
@@ -3219,7 +3135,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 269,
+      "order": 262,
       "id": "entry-1139639",
       "label": "other",
       "level": "3",
@@ -3231,7 +3147,7 @@
       "text": "AYES"
     },
     {
-      "order": 270,
+      "order": 263,
       "id": "entry-1139640",
       "label": "other",
       "level": "3",
@@ -3243,7 +3159,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. M. Kajwang', Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Muthama Kavindu, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Murkomen, Elgeyo-Marakwet County;, Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; and, Sen. Wako, Busia County."
     },
     {
-      "order": 271,
+      "order": 264,
       "id": "entry-1139641",
       "label": "speech",
       "level": "3",
@@ -3252,22 +3168,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kang'ata\n\nNOES:"
+      "text": "Sen. Kang'ata\n\nNOES:\n\nNil."
     },
     {
-      "order": 272,
-      "id": "entry-1139643",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 273,
+      "order": 265,
       "id": "entry-1139644",
       "label": "speech",
       "level": "3",
@@ -3279,7 +3183,7 @@
       "text": "Sen. Farhiya"
     },
     {
-      "order": 274,
+      "order": 266,
       "id": "entry-1139645",
       "label": "speech",
       "level": "3",
@@ -3291,7 +3195,7 @@
       "text": "Hon. Senators, we have the results on the Division.\n\nAYES:\n\n33\n\nNOES:"
     },
     {
-      "order": 275,
+      "order": 267,
       "id": "entry-1139649",
       "label": "speech",
       "level": "3",
@@ -3303,7 +3207,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 276,
+      "order": 268,
       "id": "entry-1139651",
       "label": "speech",
       "level": "3",
@@ -3315,7 +3219,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 277,
+      "order": 269,
       "id": "entry-1139652",
       "label": "scene",
       "level": "3",
@@ -3327,7 +3231,7 @@
       "text": "(Question carried by 33 votes to Nil)"
     },
     {
-      "order": 278,
+      "order": 270,
       "id": "entry-1139653",
       "label": "scene",
       "level": "3",
@@ -3339,7 +3243,7 @@
       "text": "(The Bill was accordingly read a Third Time and passed)"
     },
     {
-      "order": 279,
+      "order": 271,
       "id": "entry-1139654",
       "label": "heading",
       "level": "3",
@@ -3351,7 +3255,7 @@
       "text": "THE KENYAN SIGN LANGUAGE BILL (SENATE BILLS NO.5 OF 2021)"
     },
     {
-      "order": 280,
+      "order": 272,
       "id": "entry-1139655",
       "label": "scene",
       "level": "3",
@@ -3363,7 +3267,7 @@
       "text": "(Question, that the Kenyan Sign Language Bill (Senate Bills No.5 of 2021)be now read a Third Time put, and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 281,
+      "order": 273,
       "id": "entry-1139656",
       "label": "heading",
       "level": "3",
@@ -3375,7 +3279,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 282,
+      "order": 274,
       "id": "entry-1139658",
       "label": "other",
       "level": "3",
@@ -3387,7 +3291,7 @@
       "text": "AYES"
     },
     {
-      "order": 283,
+      "order": 275,
       "id": "entry-1139659",
       "label": "other",
       "level": "3",
@@ -3399,7 +3303,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cheruiyot, Kericho County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. M. Kajwang', Homa Bay County; Sen. Kang'ata, Murang'a County; Sen. Muthama Kavindu, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kihika, Nakuru County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. Malalah, Kakamega County; Sen. (Dr.) Mbito, Trans Nzoia County; Sen. Murkomen, Elgeyo-Marakwet County;, Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; and, Sen. Wako, Busia County."
     },
     {
-      "order": 284,
+      "order": 276,
       "id": "entry-1139660",
       "label": "speech",
       "level": "3",
@@ -3408,22 +3312,10 @@
       "speaker": "Teller of the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Kang'ata\n\nNOES:"
+      "text": "Sen. Kang'ata\n\nNOES:\n\nNil."
     },
     {
-      "order": 285,
-      "id": "entry-1139662",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller of the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 286,
+      "order": 277,
       "id": "entry-1139663",
       "label": "speech",
       "level": "3",
@@ -3435,7 +3327,7 @@
       "text": "Sen. Farhiya"
     },
     {
-      "order": 287,
+      "order": 278,
       "id": "entry-1139664",
       "label": "speech",
       "level": "3",
@@ -3447,7 +3339,7 @@
       "text": "Hon. Senators, we have the results on the Division.\n\nAYES:\n\n33\n\nNOES:"
     },
     {
-      "order": 288,
+      "order": 279,
       "id": "entry-1139668",
       "label": "speech",
       "level": "3",
@@ -3459,7 +3351,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 289,
+      "order": 280,
       "id": "entry-1139670",
       "label": "speech",
       "level": "3",
@@ -3471,7 +3363,7 @@
       "text": "Nil The \"Ayes\" have it."
     },
     {
-      "order": 290,
+      "order": 281,
       "id": "entry-1139671",
       "label": "scene",
       "level": "3",
@@ -3483,7 +3375,7 @@
       "text": "(Question carried by 33 votes to Nil)"
     },
     {
-      "order": 291,
+      "order": 282,
       "id": "entry-1139672",
       "label": "scene",
       "level": "3",
@@ -3495,7 +3387,7 @@
       "text": "(The Bill was accordingly read a Third Time and passed)"
     },
     {
-      "order": 292,
+      "order": 283,
       "id": "entry-1139674",
       "label": "speech",
       "level": "3",
@@ -3507,7 +3399,7 @@
       "text": "Hon. Senators, for the convenience of the House, I shall defer Orders No.12, 13, 14 and 15."
     },
     {
-      "order": 293,
+      "order": 284,
       "id": "entry-1139675",
       "label": "heading",
       "level": "1",
@@ -3519,7 +3411,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 294,
+      "order": 285,
       "id": "entry-1139676",
       "label": "heading",
       "level": "2",
@@ -3531,7 +3423,7 @@
       "text": "THE COUNTY OVERSIGHT AND ACCOUNTABILITY BILL (SENATE BILLS NO. 17 OF 2021)"
     },
     {
-      "order": 295,
+      "order": 286,
       "id": "entry-1139677",
       "label": "scene",
       "level": "2",
@@ -3543,7 +3435,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 296,
+      "order": 287,
       "id": "entry-1139678",
       "label": "heading",
       "level": "1",
@@ -3555,7 +3447,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 297,
+      "order": 288,
       "id": "entry-1139679",
       "label": "heading",
       "level": "2",
@@ -3567,7 +3459,7 @@
       "text": "THE HERITAGE AND MUSEUMS BILL (SENATE BILLS NO. 22 OF 2021)"
     },
     {
-      "order": 298,
+      "order": 289,
       "id": "entry-1139680",
       "label": "scene",
       "level": "2",
@@ -3579,7 +3471,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 299,
+      "order": 290,
       "id": "entry-1139681",
       "label": "heading",
       "level": "1",
@@ -3591,7 +3483,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 300,
+      "order": 291,
       "id": "entry-1139682",
       "label": "heading",
       "level": "2",
@@ -3603,7 +3495,7 @@
       "text": "THE COUNTY GOVERNMENTS (AMENDMENT) BILL (SENATE BILLS NO.38 OF 2021)"
     },
     {
-      "order": 301,
+      "order": 292,
       "id": "entry-1139683",
       "label": "scene",
       "level": "2",
@@ -3615,7 +3507,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 302,
+      "order": 293,
       "id": "entry-1139684",
       "label": "heading",
       "level": "1",
@@ -3627,7 +3519,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 303,
+      "order": 294,
       "id": "entry-1139685",
       "label": "heading",
       "level": "2",
@@ -3639,7 +3531,7 @@
       "text": "THE INTERGOVERNMENTAL RELATIONS (AMENDMENT) BILL (SENATE BILLS NO.37 OF 2021)"
     },
     {
-      "order": 304,
+      "order": 295,
       "id": "entry-1139686",
       "label": "scene",
       "level": "2",
@@ -3651,7 +3543,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 305,
+      "order": 296,
       "id": "entry-1139687",
       "label": "heading",
       "level": "1",
@@ -3663,7 +3555,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 306,
+      "order": 297,
       "id": "entry-1139688",
       "label": "speech",
       "level": "1",

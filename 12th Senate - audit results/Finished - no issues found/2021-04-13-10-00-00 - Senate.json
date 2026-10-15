@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2021-04-13-10-00-00",
-  "exported_at": "2026-10-05T08:08:49.852Z",
+  "exported_at": "2026-10-15T19:32:26.203Z",
   "entries": [
     {
       "order": 1,
@@ -1377,7 +1377,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "The House, therefore, stands suspended until 2.30 p.m."
@@ -1437,7 +1437,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kamar)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Let us move on to the next Order. Proceed, Senate Majority Leader."
@@ -2976,22 +2976,10 @@
       "speaker": "Teller for the Ayes",
       "speaker_title": "",
       "reviewed": true,
-      "text": "Sen. Halake\n\nNOES:"
+      "text": "Sen. Halake\n\nNOES:\n\nNil."
     },
     {
       "order": 249,
-      "id": "entry-1063418",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Teller for the Ayes",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "Nil."
-    },
-    {
-      "order": 250,
       "id": "entry-1063419",
       "label": "speech",
       "level": "3",
@@ -3003,7 +2991,7 @@
       "text": "Sen. Pareno"
     },
     {
-      "order": 251,
+      "order": 250,
       "id": "entry-1063420",
       "label": "speech",
       "level": "3",
@@ -3015,7 +3003,7 @@
       "text": "Hon. Senators, these are the results of the Division-\n\nAYES\n\n: 34\n\nNOES"
     },
     {
-      "order": 252,
+      "order": 251,
       "id": "entry-1063424",
       "label": "speech",
       "level": "3",
@@ -3027,7 +3015,7 @@
       "text": ": Nil\n\nABSTENTIONS"
     },
     {
-      "order": 253,
+      "order": 252,
       "id": "entry-1063426",
       "label": "speech",
       "level": "3",
@@ -3039,7 +3027,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 254,
+      "order": 253,
       "id": "entry-1063427",
       "label": "scene",
       "level": "3",
@@ -3051,7 +3039,7 @@
       "text": "(Question carried by 34 votes to nil)"
     },
     {
-      "order": 255,
+      "order": 254,
       "id": "entry-1063428",
       "label": "scene",
       "level": "3",
@@ -3063,7 +3051,7 @@
       "text": "(The Bill was read a Second Time and committed to a Committee of the Whole today by leave of the House)"
     },
     {
-      "order": 256,
+      "order": 255,
       "id": "entry-1063429",
       "label": "speech",
       "level": "3",
@@ -3075,7 +3063,7 @@
       "text": "Next Order."
     },
     {
-      "order": 257,
+      "order": 256,
       "id": "entry-1063430",
       "label": "heading",
       "level": "1",
@@ -3087,7 +3075,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 258,
+      "order": 257,
       "id": "entry-1063432",
       "label": "scene",
       "level": "1",
@@ -3099,7 +3087,7 @@
       "text": "(Order for the Committee read)"
     },
     {
-      "order": 259,
+      "order": 258,
       "id": "entry-1063433",
       "label": "scene",
       "level": "1",
@@ -3111,7 +3099,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) left the Chair]"
     },
     {
-      "order": 260,
+      "order": 259,
       "id": "entry-1063434",
       "label": "heading",
       "level": "2",
@@ -3123,7 +3111,7 @@
       "text": "IN THE COMMITTEE"
     },
     {
-      "order": 261,
+      "order": 260,
       "id": "entry-1063435",
       "label": "scene",
       "level": "2",
@@ -3135,7 +3123,7 @@
       "text": "[The Temporary Chairperson (Sen. Pareno) in the Chair]"
     },
     {
-      "order": 262,
+      "order": 261,
       "id": "entry-1063436",
       "label": "heading",
       "level": "3",
@@ -3147,7 +3135,7 @@
       "text": "THE DIVISION OF REVENUE BILL (NATIONAL ASSEMBLY BILLS NO. 7 OF 2021)"
     },
     {
-      "order": 263,
+      "order": 262,
       "id": "entry-1063437",
       "label": "speech",
       "level": "3",
@@ -3159,7 +3147,7 @@
       "text": "Hon. Senators, we are doing Committee of the Whole on the Division of Revenue Bill (National Assembly Bills No.7 of 2021)."
     },
     {
-      "order": 264,
+      "order": 263,
       "id": "entry-1063438-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3171,7 +3159,7 @@
       "text": "Clauses 3, 4, and 5"
     },
     {
-      "order": 265,
+      "order": 264,
       "id": "entry-1063438-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3183,7 +3171,7 @@
       "text": "(Question that Clauses 3, 4 and 5 be part of the Bill, proposed)"
     },
     {
-      "order": 266,
+      "order": 265,
       "id": "entry-1063439",
       "label": "speech",
       "level": "5",
@@ -3195,7 +3183,7 @@
       "text": "Division will be at the end.\n\nThe Schedule\n\nMover to move amendments. The Chairperson of the Committee on Finance and Budget, proceed."
     },
     {
-      "order": 267,
+      "order": 266,
       "id": "entry-1063442",
       "label": "speech",
       "level": "5",
@@ -3207,7 +3195,7 @@
       "text": "Madam Temporary Chairperson, I would like to move- THAT the Bill be amended by deleting the Schedule and substituting therefore the following new Schedule, SCHEDULE (s.4) ALLOCATION OF REVENUE RAISED NATIONALLY BETWEEN THENATIONAL AND COUNTY GOVERNMENTS FOR THE FINANCIALYEAR 2021/22. Percentage (%) of 2016/17 Type/level of allocation Amount in Ksh. audited and approvedRevenue i.e. Ksh.1,357,698 Million A. Total Sharable Revenue 1,775,624,173,860 B. National Government 1,398,798,856,427 C. Equalization Fund 6,825,317,433 0.50% 370,000,000,000 D. County equitable share 27.3% Thank you."
     },
     {
-      "order": 268,
+      "order": 267,
       "id": "entry-1063451",
       "label": "scene",
       "level": "5",
@@ -3219,7 +3207,7 @@
       "text": "(Question of the amendment proposed)"
     },
     {
-      "order": 269,
+      "order": 268,
       "id": "entry-1063452",
       "label": "speech",
       "level": "5",
@@ -3231,7 +3219,7 @@
       "text": "Division will be at the end."
     },
     {
-      "order": 270,
+      "order": 269,
       "id": "entry-1063453-parenthesis-split-1-of-2",
       "label": "heading",
       "level": "5",
@@ -3243,7 +3231,7 @@
       "text": "Clause 2, the Title and Clause 1"
     },
     {
-      "order": 271,
+      "order": 270,
       "id": "entry-1063453-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "5",
@@ -3255,7 +3243,7 @@
       "text": "(Question that Clause 2, the Title and Clause 1 be part of the Bill, proposed)"
     },
     {
-      "order": 272,
+      "order": 271,
       "id": "entry-1063454",
       "label": "speech",
       "level": "5",
@@ -3267,7 +3255,7 @@
       "text": "Division will be at the end. We now proceed to Division and we will answer to two questions. We need to get some Tellers from both sides. Sen. Olekina is from this side. Sen. Halake? I put the question that the Schedule be amended as proposed. That is number one. Number two, I put the question that Clauses 3, 4, 5, the Schedule (as amended), Clause 2, the Title, and Clause 1 be part of the Bill. You will therefore respond to two questions."
     },
     {
-      "order": 273,
+      "order": 272,
       "id": "entry-1063457",
       "label": "scene",
       "level": "5",
@@ -3279,7 +3267,7 @@
       "text": "(Voting in progress)"
     },
     {
-      "order": 274,
+      "order": 273,
       "id": "entry-1063458",
       "label": "heading",
       "level": "3",
@@ -3291,7 +3279,7 @@
       "text": "THE DIVISION OF REVENUE BILL (NATIONAL ASSEMBLY BILLS NO.7 OF 2021)"
     },
     {
-      "order": 275,
+      "order": 274,
       "id": "entry-1063459",
       "label": "heading",
       "level": "3",
@@ -3303,7 +3291,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 276,
+      "order": 275,
       "id": "entry-1063461",
       "label": "speech",
       "level": "3",
@@ -3315,7 +3303,7 @@
       "text": "( Question, that the Schedule be amended as proposed, put and the"
     },
     {
-      "order": 277,
+      "order": 276,
       "id": "entry-1063462",
       "label": "scene",
       "level": "3",
@@ -3327,7 +3315,7 @@
       "text": "Senate proceeded vote by County Delegations)"
     },
     {
-      "order": 278,
+      "order": 277,
       "id": "entry-1063463",
       "label": "other",
       "level": "3",
@@ -3339,7 +3327,7 @@
       "text": "AYES:"
     },
     {
-      "order": 279,
+      "order": 278,
       "id": "entry-1063464",
       "label": "other",
       "level": "3",
@@ -3351,7 +3339,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Chebeni, Uasin Gishu County; Sen. Cherargei, Nandi County; Sen.( Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. Kajwang' Moses, Homa Bay County; Sen. Khaniri; Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru, County; Sen. Kinyua, Laikipia County; Sen. (Dr.)Lang'at, Bomet County; Sen. (Dr.)Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen.(Eng.) Maina, Nyeri County; Sen.(Eng.) Mahamud, Mandera County; Sen. Moi, Baringo County; Sen. Murkomen, Elgeyo- Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita Taveta County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri,"
     },
     {
-      "order": 280,
+      "order": 279,
       "id": "entry-1063466",
       "label": "other",
       "level": "3",
@@ -3363,7 +3351,7 @@
       "text": "Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City County; Sen. Seneta, Kajiado County; Sen. Wamatangi, Kiambu County, Sen. Wambua, Kitui County and Sen.(Dr.) Zani, Kwale County."
     },
     {
-      "order": 281,
+      "order": 280,
       "id": "entry-1063467",
       "label": "speech",
       "level": "3",
@@ -3375,7 +3363,7 @@
       "text": "Sen. Halake"
     },
     {
-      "order": 282,
+      "order": 281,
       "id": "entry-1063468",
       "label": "speech",
       "level": "3",
@@ -3387,7 +3375,7 @@
       "text": "Nil"
     },
     {
-      "order": 283,
+      "order": 282,
       "id": "entry-1063469",
       "label": "speech",
       "level": "3",
@@ -3399,7 +3387,7 @@
       "text": "Sen. Olekina."
     },
     {
-      "order": 284,
+      "order": 283,
       "id": "entry-1063470",
       "label": "speech",
       "level": "3",
@@ -3411,7 +3399,7 @@
       "text": "Madam Temporary Chairperson, I wish to vote."
     },
     {
-      "order": 285,
+      "order": 284,
       "id": "entry-1063471",
       "label": "speech",
       "level": "3",
@@ -3423,7 +3411,7 @@
       "text": "You have already voted. We are asking you to hold for the next vote."
     },
     {
-      "order": 286,
+      "order": 285,
       "id": "entry-1063472",
       "label": "speech",
       "level": "3",
@@ -3435,7 +3423,7 @@
       "text": "Thank you."
     },
     {
-      "order": 287,
+      "order": 286,
       "id": "entry-1063473",
       "label": "speech",
       "level": "3",
@@ -3447,7 +3435,7 @@
       "text": "The results for the vote on the first question are as follows-\n\nAYES:\n\n35\n\nNOES:"
     },
     {
-      "order": 288,
+      "order": 287,
       "id": "entry-1063477",
       "label": "speech",
       "level": "3",
@@ -3456,22 +3444,10 @@
       "speaker": "Judith Ramaita Pareno",
       "speaker_title": "(The Chairperson)",
       "reviewed": true,
-      "text": "Nil\n\nABSENTIONS:"
+      "text": "Nil\n\nABSENTIONS:\n\nNil"
     },
     {
-      "order": 289,
-      "id": "entry-1063479",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Judith Ramaita Pareno",
-      "speaker_title": "(The Chairperson)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 290,
+      "order": 288,
       "id": "entry-1063480",
       "label": "scene",
       "level": "3",
@@ -3483,7 +3459,7 @@
       "text": "(Question carried by 35 votes to nil)"
     },
     {
-      "order": 291,
+      "order": 289,
       "id": "entry-1063481",
       "label": "speech",
       "level": "3",
@@ -3495,7 +3471,7 @@
       "text": "(Sen. Pareno: Is that Sen. Kavindu trying to reach out?"
     },
     {
-      "order": 292,
+      "order": 290,
       "id": "entry-1063482",
       "label": "speech",
       "level": "3",
@@ -3507,7 +3483,7 @@
       "text": "Yes, Madam Temporary Chairperson. I was voting \"Yes.\""
     },
     {
-      "order": 293,
+      "order": 291,
       "id": "entry-1063483",
       "label": "speech",
       "level": "3",
@@ -3519,7 +3495,7 @@
       "text": "Hold on for the next vote. You are too late. We have already communicated the results."
     },
     {
-      "order": 294,
+      "order": 292,
       "id": "entry-1063484",
       "label": "speech",
       "level": "3",
@@ -3531,7 +3507,7 @@
       "text": "Madam Temporary Chairperson, make sure that you also pay attention to those voting online."
     },
     {
-      "order": 295,
+      "order": 293,
       "id": "entry-1063485",
       "label": "speech",
       "level": "3",
@@ -3543,7 +3519,7 @@
       "text": "You are out of order, Sen. Seneta. We paid attention to everybody. ( Question, that Clauses 3, 4 and 5, The Schedule (as amended),"
     },
     {
-      "order": 296,
+      "order": 294,
       "id": "entry-1063488",
       "label": "scene",
       "level": "3",
@@ -3555,7 +3531,7 @@
       "text": "Clause 2, the Title and Clause 1 be part of the Bill, put and the Senate proceeded vote by County Delegations)"
     },
     {
-      "order": 297,
+      "order": 295,
       "id": "entry-1063489",
       "label": "other",
       "level": "3",
@@ -3567,7 +3543,7 @@
       "text": "AYES:"
     },
     {
-      "order": 298,
+      "order": 296,
       "id": "entry-1063490",
       "label": "other",
       "level": "3",
@@ -3579,7 +3555,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Chebeni, Uasin Gishu County; Sen. Cherargei, Nandi County; Sen.( Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. Kavindu Muthama, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen.(Eng.) Maina, Nyeri County; Sen.(Eng.) Mahamud, Mandera County; Sen. Moi, Baringo County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita-Taveta County; Sen. Ndwiga, Embu County; Sen. Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Sakaja, Nairobi City"
     },
     {
-      "order": 299,
+      "order": 297,
       "id": "entry-1063492",
       "label": "other",
       "level": "3",
@@ -3591,7 +3567,7 @@
       "text": "County; Sen. Seneta, Kajiado County; Sen. Wamatangi, Kiambu County, Sen. Wambua, Kitui County; and Sen.(Dr.) Zani, Kwale County."
     },
     {
-      "order": 300,
+      "order": 298,
       "id": "entry-1063493",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3579,7 @@
       "text": "Sen. Halake"
     },
     {
-      "order": 301,
+      "order": 299,
       "id": "entry-1063494",
       "label": "speech",
       "level": "3",
@@ -3615,7 +3591,7 @@
       "text": "Nil"
     },
     {
-      "order": 302,
+      "order": 300,
       "id": "entry-1063495",
       "label": "speech",
       "level": "3",
@@ -3627,7 +3603,7 @@
       "text": "Sen. Olekina."
     },
     {
-      "order": 303,
+      "order": 301,
       "id": "entry-1063496",
       "label": "speech",
       "level": "3",
@@ -3639,7 +3615,7 @@
       "text": "The results of the vote for the second question are as follows-\n\nAYES:\n\n35\n\nNOES:"
     },
     {
-      "order": 304,
+      "order": 302,
       "id": "entry-1063500",
       "label": "speech",
       "level": "3",
@@ -3648,22 +3624,10 @@
       "speaker": "Judith Ramaita Pareno",
       "speaker_title": "(The Chairperson)",
       "reviewed": true,
-      "text": "Nil\n\nABSENTIONS:"
+      "text": "Nil\n\nABSENTIONS:\n\nNil"
     },
     {
-      "order": 305,
-      "id": "entry-1063502",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Judith Ramaita Pareno",
-      "speaker_title": "(The Chairperson)",
-      "reviewed": true,
-      "text": "Nil"
-    },
-    {
-      "order": 306,
+      "order": 303,
       "id": "entry-1063503",
       "label": "scene",
       "level": "3",
@@ -3675,7 +3639,7 @@
       "text": "(Question carried by 35 votes to nil)"
     },
     {
-      "order": 307,
+      "order": 304,
       "id": "entry-1063504",
       "label": "speech",
       "level": "3",
@@ -3687,7 +3651,7 @@
       "text": "Madam Temporary Chairperson, I beg to move that the Committee of the Whole do report to the Senate its consideration of the The Division of Revenue Bill (National Assembly Bills No.7 of 2021and its approval thereof with amendments."
     },
     {
-      "order": 308,
+      "order": 305,
       "id": "entry-1063505",
       "label": "scene",
       "level": "3",
@@ -3699,7 +3663,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 309,
+      "order": 306,
       "id": "entry-1063506",
       "label": "scene",
       "level": "3",
@@ -3711,7 +3675,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 310,
+      "order": 307,
       "id": "entry-1063507",
       "label": "scene",
       "level": "3",
@@ -3723,7 +3687,7 @@
       "text": "(The House resumed)"
     },
     {
-      "order": 311,
+      "order": 308,
       "id": "entry-1063508",
       "label": "scene",
       "level": "3",
@@ -3735,7 +3699,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 312,
+      "order": 309,
       "id": "entry-1063509",
       "label": "heading",
       "level": "3",
@@ -3747,7 +3711,7 @@
       "text": "REPORT AND CONSIDERATION OF REPORT"
     },
     {
-      "order": 313,
+      "order": 310,
       "id": "entry-1063510",
       "label": "heading",
       "level": "3",
@@ -3759,7 +3723,7 @@
       "text": "THE DIVISION OF REVENUE BILL (NATIONAL ASSEMBLY BILLS NO. 7 OF 2021)"
     },
     {
-      "order": 314,
+      "order": 311,
       "id": "entry-1063511",
       "label": "speech",
       "level": "3",
@@ -3771,7 +3735,7 @@
       "text": "Hon. Senators, it is time to report progress. Proceed, Chairperson."
     },
     {
-      "order": 315,
+      "order": 312,
       "id": "entry-1063512",
       "label": "speech",
       "level": "3",
@@ -3783,7 +3747,7 @@
       "text": "Madam Temporary Speaker, I beg to report that the Committee of the Whole has considered The Division of Revenue Bill (National Assembly Bills No.7 of 2021) and its approval thereof with amendments."
     },
     {
-      "order": 316,
+      "order": 313,
       "id": "entry-1063513",
       "label": "speech",
       "level": "3",
@@ -3795,7 +3759,7 @@
       "text": "Proceed, Mover."
     },
     {
-      "order": 317,
+      "order": 314,
       "id": "entry-1063514",
       "label": "speech",
       "level": "3",
@@ -3807,7 +3771,7 @@
       "text": "Madam Temporary Speaker, I beg to move that the House do agree with the Committee in the said report, and request the Senate Minority Leader to second."
     },
     {
-      "order": 318,
+      "order": 315,
       "id": "entry-1063515",
       "label": "speech",
       "level": "3",
@@ -3819,7 +3783,7 @@
       "text": "Seconded."
     },
     {
-      "order": 319,
+      "order": 316,
       "id": "entry-1063516",
       "label": "scene",
       "level": "3",
@@ -3831,7 +3795,7 @@
       "text": "(Question put and agreed to)"
     },
     {
-      "order": 320,
+      "order": 317,
       "id": "entry-1063517",
       "label": "scene",
       "level": "3",
@@ -3843,7 +3807,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 321,
+      "order": 318,
       "id": "entry-1063519",
       "label": "speech",
       "level": "3",
@@ -3855,7 +3819,7 @@
       "text": "Madam Deputy Speaker, I beg to move that The Division of Revenue Bill (National Assembly Bills No.07 of 2021) be now read a Third Time, and request Sen. Orengo to second."
     },
     {
-      "order": 322,
+      "order": 319,
       "id": "entry-1063520",
       "label": "speech",
       "level": "3",
@@ -3867,7 +3831,7 @@
       "text": "Madam Temporary Speaker, I second."
     },
     {
-      "order": 323,
+      "order": 320,
       "id": "entry-1063521",
       "label": "scene",
       "level": "3",
@@ -3879,7 +3843,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 324,
+      "order": 321,
       "id": "entry-1063522",
       "label": "speech",
       "level": "3",
@@ -3891,7 +3855,7 @@
       "text": "We will have a Roll Call Division. This being a matter affecting counties, I direct the Clerk to go through the Roll Call. Tellers, please, come forward; Sen. Halake for the \"Ayes\" and Sen. Olekina for the \"Noes.\""
     },
     {
-      "order": 325,
+      "order": 322,
       "id": "entry-1063523",
       "label": "heading",
       "level": "1",
@@ -3903,7 +3867,7 @@
       "text": "THIRD READING"
     },
     {
-      "order": 326,
+      "order": 323,
       "id": "entry-1063524",
       "label": "heading",
       "level": "3",
@@ -3915,7 +3879,7 @@
       "text": "THE DIVISION OF REVENUE BILL (NATIONAL ASSEMBLY BILLS NO. 7 OF 2021)"
     },
     {
-      "order": 327,
+      "order": 324,
       "id": "entry-1063525",
       "label": "heading",
       "level": "3",
@@ -3927,7 +3891,7 @@
       "text": "DIVISION\nROLL CALL VOTING"
     },
     {
-      "order": 328,
+      "order": 325,
       "id": "entry-1063527",
       "label": "scene",
       "level": "3",
@@ -3939,7 +3903,7 @@
       "text": "(Question, that the Division of Revenue Bill (National Assembly Bills No. 7 of 2021) be now read a Third Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 329,
+      "order": 326,
       "id": "entry-1063528",
       "label": "other",
       "level": "3",
@@ -3951,7 +3915,7 @@
       "text": "AYES"
     },
     {
-      "order": 330,
+      "order": 327,
       "id": "entry-1063529",
       "label": "other",
       "level": "3",
@@ -3963,7 +3927,7 @@
       "text": ": Sen. (Dr.) Ali, Wajir County; Sen. Chebeni, Uasin Gishu County; Sen. (Prof.) Ekal, Turkana County; Sen. Faki, Mombasa County; Sen. Halake, Isiolo County; Sen. (Eng.) Hargura, Marsabit County; Sen. M. Kajwang', Homa Bay County; Sen. Kavindu Muthama, Machakos County; Sen. Khaniri, Vihiga County; Sen. Kibiru, Kirinyaga County; Sen. Kihika, Nakuru County; Sen. Kinyua, Laikipia County; Sen. (Dr.) Langat, Bomet County; Sen. (Dr.) Lelegwe, Samburu County; Sen. Loitiptip, Lamu County; Sen. Madzayo, Kilifi County; Sen. (Eng.) Mahamud, Mandera County; Sen. (Eng.) Maina, Nyeri County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Moi, Baringo County; Sen. Murkomen, Elgeyo-Marakwet County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. Mwaruma, Taita Taveta County; Sen. Ndwiga, Embu County; Sen. (Dr.) Ochillo-Ayacko, Migori County; Sen. Olekina, Narok County; Sen. (Prof.) Ongeri, Kisii County; Sen. Orengo, Siaya County; Sen. Outa, Kisumu County; Sen. Poghisio, West Pokot County; Sen. Seneta, Kajiado County; Sen. Sakaja, Nairobi City County; Sen. Wamatangi, Kiambu County; Sen. Wetangula, Bungoma County; Sen. (Dr.) Zani, Kwale County."
     },
     {
-      "order": 331,
+      "order": 328,
       "id": "entry-1063530",
       "label": "speech",
       "level": "3",
@@ -3975,7 +3939,7 @@
       "text": "Hon. Senators, the results of the Division are as follows: -\n\nAYES:\n\n35\n\nNOES:"
     },
     {
-      "order": 332,
+      "order": 329,
       "id": "entry-1063535",
       "label": "speech",
       "level": "3",
@@ -3987,7 +3951,7 @@
       "text": "Nil\n\nABSTENTIONS:"
     },
     {
-      "order": 333,
+      "order": 330,
       "id": "entry-1063537",
       "label": "speech",
       "level": "3",
@@ -3999,7 +3963,7 @@
       "text": "Nil The 'Ayes' have it."
     },
     {
-      "order": 334,
+      "order": 331,
       "id": "entry-1063538",
       "label": "scene",
       "level": "3",
@@ -4011,7 +3975,7 @@
       "text": "(Question carried by 35 votes to nil)"
     },
     {
-      "order": 335,
+      "order": 332,
       "id": "entry-1063539",
       "label": "scene",
       "level": "3",
@@ -4023,7 +3987,7 @@
       "text": "(The Bill was accordingly read the Third Time and passed)"
     },
     {
-      "order": 336,
+      "order": 333,
       "id": "entry-1063540",
       "label": "speech",
       "level": "3",
@@ -4035,7 +3999,7 @@
       "text": "Hon. Senators, I want to take this opportunity to thank all of you for having shown nationhood by the debate we have had this afternoon and by the voting. It was a long day. We started in the morning up to now. We want to thank you so much for your vigilance."
     },
     {
-      "order": 337,
+      "order": 334,
       "id": "entry-1063541",
       "label": "heading",
       "level": "1",
@@ -4047,7 +4011,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 338,
+      "order": 335,
       "id": "entry-1063542",
       "label": "speech",
       "level": "1",

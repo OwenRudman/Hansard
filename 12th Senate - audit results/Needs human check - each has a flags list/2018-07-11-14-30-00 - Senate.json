@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2018-07-11-14-30-00",
-  "exported_at": "2026-10-13T17:30:43.165Z",
+  "exported_at": "2026-10-15T19:26:34.010Z",
   "entries": [
     {
       "order": 1,
@@ -1248,22 +1248,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil"
     },
     {
       "order": 105,
-      "id": "entry-812515",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "Mr. Speaker",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 106,
       "id": "entry-812516",
       "label": "speech",
       "level": "3",
@@ -1275,7 +1263,7 @@
       "text": "Hon. Senators, the results are as follows:\n\nAYES\n\n: 28\n\nNOES\n\n: 0\n\nABSTENTIONS"
     },
     {
-      "order": 107,
+      "order": 106,
       "id": "entry-812522",
       "label": "speech",
       "level": "3",
@@ -1287,7 +1275,7 @@
       "text": ": Nil The \"Ayes\" have it."
     },
     {
-      "order": 108,
+      "order": 107,
       "id": "entry-812523-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1299,7 +1287,7 @@
       "text": "(Question carried by 28 votes to 0)"
     },
     {
-      "order": 109,
+      "order": 108,
       "id": "entry-812523-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1311,7 +1299,7 @@
       "text": "(The Bill was accordingly read the Second Time and committed to a committee of the Whole tomorrow)"
     },
     {
-      "order": 110,
+      "order": 109,
       "id": "entry-812524",
       "label": "speech",
       "level": "3",
@@ -1323,7 +1311,7 @@
       "text": "I now direct that the Doors be unlocked and the Bar be drawn. Next Order!"
     },
     {
-      "order": 111,
+      "order": 110,
       "id": "entry-812525-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1335,7 +1323,7 @@
       "text": "(The Doors were opened and the Bar drawn)"
     },
     {
-      "order": 112,
+      "order": 111,
       "id": "entry-812525-parenthesis-split-2-of-2",
       "label": "heading",
       "level": "1",
@@ -1347,7 +1335,7 @@
       "text": "Second Reading"
     },
     {
-      "order": 113,
+      "order": 112,
       "id": "entry-812526",
       "label": "heading",
       "level": "3",
@@ -1359,7 +1347,7 @@
       "text": "THE DISASTER RISK MANAGEMENT BILL (SENATE BILLS NO. 8 OF 2018)"
     },
     {
-      "order": 114,
+      "order": 113,
       "id": "entry-812527-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1371,7 +1359,7 @@
       "text": "(Sen. Sakaja and Sen. Mutula Kilonzo Jnr. on 5.7.2018)"
     },
     {
-      "order": 115,
+      "order": 114,
       "id": "entry-812527-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1383,7 +1371,7 @@
       "text": "(Resumption of Debate interrupted on 10.7.2018)"
     },
     {
-      "order": 116,
+      "order": 115,
       "id": "entry-812528",
       "label": "speech",
       "level": "3",
@@ -1395,7 +1383,7 @@
       "text": "Hon. Senators, we will proceed to vote and I direct that the Division Bell be rung for one minute."
     },
     {
-      "order": 117,
+      "order": 116,
       "id": "entry-812530-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1407,7 +1395,7 @@
       "text": "(The Division Bell was rung)"
     },
     {
-      "order": 118,
+      "order": 117,
       "id": "entry-812530-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1419,7 +1407,7 @@
       "text": "(The doors were closed and the Bars drawn)"
     },
     {
-      "order": 119,
+      "order": 118,
       "id": "entry-812531",
       "label": "heading",
       "level": "3",
@@ -1431,7 +1419,7 @@
       "text": "DIVISION\nELECTRONIC VOTING"
     },
     {
-      "order": 120,
+      "order": 119,
       "id": "entry-812533",
       "label": "scene",
       "level": "3",
@@ -1443,7 +1431,7 @@
       "text": "(Question, that the Disaster Risk Management Bill (Senate Bills No. 8 of 2018) be now read a Second Time, put and the Senate proceeded to vote by County Delegations)"
     },
     {
-      "order": 121,
+      "order": 120,
       "id": "entry-812534",
       "label": "other",
       "level": "3",
@@ -1455,7 +1443,7 @@
       "text": "AYES:"
     },
     {
-      "order": 122,
+      "order": 121,
       "id": "entry-812535",
       "label": "other",
       "level": "3",
@@ -1467,7 +1455,7 @@
       "text": "Sen. (Dr.) Ali, Wajir County; Sen. Boy, Kwale County; Sen. Cherargei, Nandi County; Sen. Dullo, Isiolo County; Sen. (Prof.) Ekal, Turkana County; Sen. (Dr.) Kabaka, Machakos County; Sen. (Prof.) Kamar, Uasin Gishu County; Sen. Kibiru, Kirinyaga County County; Sen. (Prof.) Kindiki, Tharaka-Nithi County; Sen. Lelegwe, Samburu County; Sen. Linturi, Meru County; Sen. (Dr) Mbito, Trans Nzoia County; Sen. Mutula Kilonzo Jnr., Makueni County; Sen. (Dr.) Musuruve, Kakamega County; Sen. Mwangi, Nyandarua County; Sen. Mwaruma, Taita Taveta County; Sen. Mwaura, Kiambu County; Sen. Ndwiga, Embu County; Sen. Olekina, Narok County; Sen. Omogeni, Nyamira County; Sen. (Prof.) Ongeri, Kisii County; Sen. Outa, Kisumu County; Sen. Sakaja, Nairobi County; Sen. Seneta, Kajiado County; Sen. Wambua, Kitui County; Sen. Waqo, Marsabit County and Sen. Wetangula, Bungoma County."
     },
     {
-      "order": 123,
+      "order": 122,
       "id": "entry-812536",
       "label": "other",
       "level": "3",
@@ -1476,22 +1464,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "NOES"
+      "text": "NOES\n\n: Nil"
     },
     {
-      "order": 124,
-      "id": "entry-812537",
-      "label": "speech",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "Hon. Lusaka",
-      "speaker_title": "(The Speaker)",
-      "reviewed": true,
-      "text": ": Nil"
-    },
-    {
-      "order": 125,
+      "order": 123,
       "id": "entry-812538",
       "label": "speech",
       "level": "3",
@@ -1503,7 +1479,7 @@
       "text": "Hon. Senators, the results of the Division are as follows:-\n\nAYES:\n\n28\n\nNOES:\n\n0 The \"Ayes\" have it."
     },
     {
-      "order": 126,
+      "order": 124,
       "id": "entry-812543-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -1515,7 +1491,7 @@
       "text": "(Question carried by 28 votes to 0)"
     },
     {
-      "order": 127,
+      "order": 125,
       "id": "entry-812543-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -1527,7 +1503,7 @@
       "text": "(The Bill was accordingly read the Second Time and committed to a Committee of the Whole tomorrow)"
     },
     {
-      "order": 128,
+      "order": 126,
       "id": "entry-812544",
       "label": "speech",
       "level": "3",
@@ -1539,7 +1515,7 @@
       "text": "Hon. Members, before we proceed to the next Order, there is a Statement to be made by Sen. Sakaja."
     },
     {
-      "order": 129,
+      "order": 127,
       "id": "entry-812545",
       "label": "speech",
       "level": "3",
@@ -1551,7 +1527,7 @@
       "text": "Mr. Speaker, Sir, as the Whip, I am concerned that the first results had 29 votes. The second one had 29 votes and yet nobody had left. Is there somebody who left in the middle?"
     },
     {
-      "order": 130,
+      "order": 128,
       "id": "entry-812546",
       "label": "speech",
       "level": "3",
@@ -1563,7 +1539,7 @@
       "text": "Sen. Wario was somewhere within, but he did not vote. It may be necessary for the Senator to explain where he was."
     },
     {
-      "order": 131,
+      "order": 129,
       "id": "entry-812547",
       "label": "speech",
       "level": "3",
@@ -1575,7 +1551,7 @@
       "text": "Mr. Speaker Sir, I was around but I did not vote."
     },
     {
-      "order": 132,
+      "order": 130,
       "id": "entry-812548",
       "label": "speech",
       "level": "3",
@@ -1587,7 +1563,7 @@
       "text": "Order, Members! I have given the Senator an opportunity to tell this House exactly where he was."
     },
     {
-      "order": 133,
+      "order": 131,
       "id": "entry-812549",
       "label": "speech",
       "level": "3",
@@ -1599,7 +1575,7 @@
       "text": "Yes, Mr. Speaker, Sir, I was around, but I did not vote. I was in the washroom. So, I did not vote."
     },
     {
-      "order": 134,
+      "order": 132,
       "id": "entry-812550",
       "label": "speech",
       "level": "3",
@@ -1611,7 +1587,7 @@
       "text": "Noted, Senator."
     },
     {
-      "order": 135,
+      "order": 133,
       "id": "entry-812551",
       "label": "scene",
       "level": "3",
@@ -1623,7 +1599,7 @@
       "text": "(Resumption of Statements)"
     },
     {
-      "order": 136,
+      "order": 134,
       "id": "entry-812552",
       "label": "heading",
       "level": "1",
@@ -1635,7 +1611,7 @@
       "text": "STATEMENT"
     },
     {
-      "order": 137,
+      "order": 135,
       "id": "entry-812553",
       "label": "heading",
       "level": "2",
@@ -1647,7 +1623,7 @@
       "text": "WELFARE OF KENYAN CITIZENS WORKING AT THE SGR"
     },
     {
-      "order": 138,
+      "order": 136,
       "id": "entry-812554",
       "label": "speech",
       "level": "2",
@@ -1659,7 +1635,7 @@
       "text": "Sen. Sakaja:"
     },
     {
-      "order": 139,
+      "order": 137,
       "id": "entry-812555",
       "label": "speech",
       "level": "2",
@@ -1671,7 +1647,7 @@
       "text": "Thank you, Mr. Speaker, Sir. As I give the Statement, I want to thank my colleagues on behalf of Sen. Mutula Kilonzo Jnr. and myself, the co-sponsors of the Disaster Risk Management Bill (Senate Bills No.8 of 2018), for voting and supporting to pass this stage. Pursuant to Standing 46 (2), I rise to make a Statement as the Chairperson of the Committee on Labour and Social Welfare regarding the welfare of staff of the Standard Gauge Railway (SGR). My Committee has received reports on claims of mistreatment and racism on Kenyan citizens working at the SGR. Such reports are being taken seriously and I would like to report to the house and to the country."
     },
     {
-      "order": 140,
+      "order": 138,
       "id": "entry-812556-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -1683,7 +1659,7 @@
       "text": "(The Speaker (Hon. Lusaka) left the Chair)"
     },
     {
-      "order": 141,
+      "order": 139,
       "id": "entry-812556-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -1695,7 +1671,7 @@
       "text": "(The Deputy Speaker (Sen. (Prof.) Kindiki) in the Chair)"
     },
     {
-      "order": 142,
+      "order": 140,
       "id": "entry-812557",
       "label": "speech",
       "level": "2",
@@ -1707,7 +1683,7 @@
       "text": "There are claims of discrimination in the use of facilities at the restaurant and transportation, where there are claims that one cannot even board vans when a Chinese is on board. There are issues of unequal pay for similar work; that foreigners working on the SGR are being paid more than Kenyans who are doing the same kind of work. There are issues of skill transfer. We have a cardinal principle---."
     },
     {
-      "order": 143,
+      "order": 141,
       "id": "entry-812558",
       "label": "speech",
       "level": "2",
@@ -1719,7 +1695,7 @@
       "text": "Order, Sen. Sakaja. Hon. Senators, we have an Order that requires us to go into Committee of the Whole and division. You are requested not to go very far. The Whips and the leadership of the House should take note accordingly, so that Senators do not go very far. I will not allow any comment on this Statement. We will go to---"
     },
     {
-      "order": 144,
+      "order": 142,
       "id": "entry-812559",
       "label": "scene",
       "level": "2",
@@ -1731,7 +1707,7 @@
       "text": "(An hon. Senator spoke off record)"
     },
     {
-      "order": 145,
+      "order": 143,
       "id": "entry-812560",
       "label": "speech",
       "level": "2",
@@ -1743,7 +1719,7 @@
       "text": "Order, Senator. You know what to do when you want to register some sentiments. Proceed, Sen. Sakaja. You have your balance of time. I hope the Clerks-at-the- Table held your time."
     },
     {
-      "order": 146,
+      "order": 144,
       "id": "entry-812563",
       "label": "speech",
       "level": "2",
@@ -1755,7 +1731,7 @@
       "text": "Mr. Deputy Speaker, Sir, the cardinal rule on skills transfer is that work that can be done by Kenyans should not be done by foreign nationals in this country. It has been claimed that there are certain departments where no Kenyan is staffed. There are claims that once the SGR train was launched, Kenyans have never driven it again despite having some with such qualifications. There are claims we are investigating that Kenyans with qualifications such as diplomas and degrees in engineering are being bypassed by Chinese nationals who come in, train for two weeks and take those jobs. As a result of that, we have qualified Kenyans who are doing menial jobs like collecting garbage and cleaning the trains. Even at such levels of employment and work, the claims are that Chinese employees are continually being absorbed to do work that Kenyans can do. We are also looking at personal protective equipment that is lacking for the labour force, underpayment and payslips. There are also claims that Chinese staff are being allowed to undertake activities that ordinarily would cause immediate sacking if done by Kenyan staff. Signage in the machinery is in Chinese, hence Kenyan engineers and labour force are not even able to participate in trouble shooting. Mr. Deputy Speaker, Sir, because of this, the Senate Standing Committee on Labour and Social Welfare is in the process of investigating the above matter and will address the following concerns:- 1) Racism and mistreatment claims. We will look into- a) the alleged abuse of rights and freedoms of Kenyans working at the SGR; b) the terms and conditions of service of the Chinese working at the SGR; and, c) the terms and conditions of service for Kenyans working on the SGR. 2) The role of Kenya Railways in the management of the SGR. In this we will look into- (a) The contractual arrangement between the China Roads and Bridge Corporation (CRBC) and Kenya railways on the management of staff of the SGR; (b) The status of the transfer of skills of the Kenyans working at the SGR and the status of the Kenya job skills gap in the management of the SGR. 3) The role of CRBC in the management of the SGR staff. 4) The law governing the human resources management of the SGR by the CRBC. Mr. Deputy Speaker, Sir, the Committee has issued invitations to various interested parties that Include the Cabinet Secretary for Labour and Social Welfare, the Cabinet Secretary for Transport, Infrastructure, Housing and Urban Development, the Kenya Railways leadership, the Kenya National Commission on Human Rights (KNCHR). We have also invited workers at the SGR, directly or through their representatives, to give us information. Just as these reports have come to us, they shall be treated without any prejudice and all of it shall be treated confidentially at this stage. We assure them of the protection of this House and that they will not be victimised once they bring those issues. Mr. Deputy Speaker, Sir, Kenyans cannot be treated as second class citizens in their country. This is a country that gained independence and self-determination more than 50 years ago. The SGR is not a favour to Kenyans to warrant any mistreatment to them. We will go hard on this issue."
     },
     {
-      "order": 147,
+      "order": 145,
       "id": "entry-812566",
       "label": "scene",
       "level": "2",
@@ -1767,7 +1743,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 148,
+      "order": 146,
       "id": "entry-812567",
       "label": "speech",
       "level": "2",
@@ -1779,7 +1755,7 @@
       "text": "What is it Sen. Mutula Kilonzo Jnr.?"
     },
     {
-      "order": 149,
+      "order": 147,
       "id": "entry-812568",
       "label": "speech",
       "level": "2",
@@ -1791,7 +1767,7 @@
       "text": "Mr. Deputy Speaker, Sir, could you slightly vary you ruling, so that you allow us some comments on this. There are certain serious issues that have arisen in the public domain. With you kindness and usual magnanimity, I am sure you will accede to the said request. May I proceed?"
     },
     {
-      "order": 150,
+      "order": 148,
       "id": "entry-812569",
       "label": "speech",
       "level": "2",
@@ -1803,7 +1779,7 @@
       "text": "Order, Senator. What is out of order, Sen. Mutula Kilonzo Jnr.?'"
     },
     {
-      "order": 151,
+      "order": 149,
       "id": "entry-812570",
       "label": "speech",
       "level": "2",
@@ -1815,7 +1791,7 @@
       "text": "Mr. Deputy Speaker, Sir, I am seeking your direction. I am not holding brief for anybody, but I will be the advocate of all who want to raise some comments. This is a matter of critical concern and the SGR passes through my county. Is it too much to ask for you to waive your ruling; to allow us even a minute? I have something that I want to bring to the attention of the Chair that I received from a journalist concerning this aspect."
     },
     {
-      "order": 152,
+      "order": 150,
       "id": "entry-812571",
       "label": "scene",
       "level": "2",
@@ -1827,7 +1803,7 @@
       "text": "(Interruption of Statement)"
     },
     {
-      "order": 153,
+      "order": 151,
       "id": "entry-812572",
       "label": "speech",
       "level": "2",
@@ -1839,7 +1815,7 @@
       "text": "Order, Senators. I have a Communication make."
     },
     {
-      "order": 154,
+      "order": 152,
       "id": "entry-812573",
       "label": "heading",
       "level": "1",
@@ -1851,7 +1827,7 @@
       "text": "COMMUNICATION FROM THE CHAIR"
     },
     {
-      "order": 155,
+      "order": 153,
       "id": "entry-812574",
       "label": "heading",
       "level": "2",
@@ -1863,7 +1839,7 @@
       "text": "VISITING DELEGATION FROM KERUGOYA GOOD SHEPHERD ACADEMY, KIRINYAGA COUNTY"
     },
     {
-      "order": 156,
+      "order": 154,
       "id": "entry-812575",
       "label": "speech",
       "level": "2",
@@ -1875,7 +1851,7 @@
       "text": "Hon. Senators, I would like to acknowledge the presence, in the Public Gallery this afternoon, of visiting students and teachers from Kerugoya Good Shepherd Academy, Kirinyaga County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them. On behalf of the Senate and my own behalf, I wish them a fruitful visit. I thank you."
     },
     {
-      "order": 157,
+      "order": 155,
       "id": "entry-812576",
       "label": "scene",
       "level": "2",
@@ -1887,7 +1863,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 158,
+      "order": 156,
       "id": "entry-812579",
       "label": "scene",
       "level": "2",
@@ -1899,7 +1875,7 @@
       "text": "(Resumption of Statement)"
     },
     {
-      "order": 159,
+      "order": 157,
       "id": "entry-812580",
       "label": "speech",
       "level": "2",
@@ -1911,7 +1887,7 @@
       "text": "Notwithstanding my direction on this issue, I will allow only two comments of three minutes each from either side. We will have Sen. Mwaura from the Majority side and Sen. Mutula Kilonzo Jnr. from the Minority side."
     },
     {
-      "order": 160,
+      "order": 158,
       "id": "entry-812581",
       "label": "scene",
       "level": "2",
@@ -1923,7 +1899,7 @@
       "text": "(Sen. (Prof.) Kamar spoke off record)"
     },
     {
-      "order": 161,
+      "order": 159,
       "id": "entry-812582",
       "label": "speech",
       "level": "2",
@@ -1935,7 +1911,7 @@
       "text": "Order, Sen. (Prof.) Kamar. What other gender do we have? Is there a third gender because I said Sen. Mwaura and--- Sorry, I hear you. What is it, Sen. Wetangula?"
     },
     {
-      "order": 162,
+      "order": 160,
       "id": "entry-812583",
       "label": "speech",
       "level": "2",
@@ -1947,7 +1923,7 @@
       "text": "Mr. Deputy Speaker, Sir, this matter being as serious as you know it is, and being a patriotic Kenyan that I know you are, I want to beg you that you allow us to ventilate a bit. The issues of the SGR are not limited to what the distinguished Senator for Nairobi has raised. In fact, as a great lawyer, you know that the Cabinet Secretaries he is summoning exclude the Attorney General who advises on contractual obligations of the Government. We will tell him as such. Mr. Deputy Speaker, Sir, I, therefore, encourage you to allow more of us to ventilate on this than the distinguished Nominated Senator and Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 163,
+      "order": 161,
       "id": "entry-812584",
       "label": "speech",
       "level": "2",
@@ -1959,7 +1935,7 @@
       "text": "So that I am not swayed only by the kind remarks of Sen. Wetangula, I would like to confirm whether his sentiments represent the mood of the House. Is that the position? Will as many as of that opinion say \"Aye?\""
     },
     {
-      "order": 164,
+      "order": 162,
       "id": "entry-812585",
       "label": "speech",
       "level": "2",
@@ -1971,7 +1947,7 @@
       "text": "Aye!"
     },
     {
-      "order": 165,
+      "order": 163,
       "id": "entry-812586",
       "label": "speech",
       "level": "2",
@@ -1983,7 +1959,7 @@
       "text": "Will as many as of the contrary opinion say \"Nay?\" The \"Ayes\" have it. Very well; nevertheless, I will limit comments to a maximum of three minutes per Senator. Proceed, Sen. Mwaura."
     },
     {
-      "order": 166,
+      "order": 164,
       "id": "entry-812587",
       "label": "speech",
       "level": "2",
@@ -1995,7 +1971,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for your magnanimity and wisdom because, honestly, this is a very important matter. From the outset, I also recognize Good Shepherd Academy, because it is a school that produced my future wife. I am, therefore, happy to see them here."
     },
     {
-      "order": 167,
+      "order": 165,
       "id": "entry-812588",
       "label": "scene",
       "level": "2",
@@ -2007,7 +1983,7 @@
       "text": "(Loud consultations)"
     },
     {
-      "order": 168,
+      "order": 166,
       "id": "entry-812589",
       "label": "speech",
       "level": "2",
@@ -2019,7 +1995,7 @@
       "text": "Order, Sen. Mwaura! Order!"
     },
     {
-      "order": 169,
+      "order": 167,
       "id": "entry-812590",
       "label": "speech",
       "level": "2",
@@ -2031,7 +2007,7 @@
       "text": "That was then; she is no longer a student there."
     },
     {
-      "order": 170,
+      "order": 168,
       "id": "entry-812591",
       "label": "speech",
       "level": "2",
@@ -2043,7 +2019,7 @@
       "text": "Order, Sen. Mwaura! Can you be clear?"
     },
     {
-      "order": 171,
+      "order": 169,
       "id": "entry-812592",
       "label": "scene",
       "level": "2",
@@ -2055,7 +2031,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 172,
+      "order": 170,
       "id": "entry-812594",
       "label": "speech",
       "level": "2",
@@ -2067,7 +2043,7 @@
       "text": "Mr. Deputy Speaker, Sir, I meant that the school produced my future wife; my wife went through that school. I only have one wife, and she is the current and also the future. Mr. Deputy Speaker, Sir, this whole issue about the Standard Gauge Railway (SGR) is quite telling. We have seen comments in the media and articles have also been written about it. I remember using the SGR recently and I could tell that even for me, as a Senator, to get into the Very Important Person (VIP) section, the person who had to give permission was a Chinese. There is nothing wrong with that but, I found it a bit patronizing that in my own country, even such simple services were being manned by foreigners. Mr. Deputy Speaker, Sir, this country has had bilateral and multilateral partners over the years since we got Independence. For the longest time, we looked to the west, and our projects were funded by countries of that orientation. However, during President Kibaki's administration, we decided to look east, which was very interesting. This is because I remember the then French Ambassador, Etienne de Poncins, saying that it was difficult for him to access State House. Thereafter, State House responded by saying: - \"We see each and every person according to the changing times of the world\". However, these are not the changing times of the world. We are now seeing some new form of colonialism, where our own people are being treated as second class citizens. Mr. Deputy Speaker, Sir, whatever has been reported here by my able Chair, Sen. Sakaja, is a clear manifestation of the effects of the Chinese loans that this country is taking, as if they are free on the market. There is no free lunch! It appears that one of the things that we have to contend with is that, these Chinese people now want to start defecating on us. I am saying so because part of the report that we have is that, at some point, it is alleged that they relieved themselves in one of the coaches of the SGR because there are no toilets in the drivers' cabin. How can that be? The fact that our own people cannot even share transport to and from work if only one Chinese person is sitting in a van, yet this is a loan that is going to be financed by taxpayers' money. Mr. Deputy Speaker, Sir, when you look at Sino-Kenyan relations, one of the things that we must confess is that there is an uneven relationship. We have a portfolio with the World Bank (WB), where they are giving us concessional loans at three per cent. However, the Chinese short-term loans are even at 35 per cent, payable within five years. Is this the way to go?"
     },
     {
-      "order": 173,
+      "order": 171,
       "id": "entry-812595",
       "label": "scene",
       "level": "2",
@@ -2079,7 +2055,7 @@
       "text": "(Sen. Mwaura went off record)"
     },
     {
-      "order": 174,
+      "order": 172,
       "id": "entry-812596",
       "label": "speech",
       "level": "2",
@@ -2091,7 +2067,7 @@
       "text": "Senators, organize your time; you have three minutes only. Proceed, Sen. Mutula Kilonzo Jnr."
     },
     {
-      "order": 175,
+      "order": 173,
       "id": "entry-812597",
       "label": "speech",
       "level": "2",
@@ -2103,7 +2079,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I have just shared a document which was sent to me by a journalist from The Standard Newspaper, on what is a secret agreement that every employee of the SGR has been forced to sign. One of the paragraphs reads---"
     },
     {
-      "order": 176,
+      "order": 174,
       "id": "entry-812600",
       "label": "speech",
       "level": "2",
@@ -2115,7 +2091,7 @@
       "text": "Order, Sen. Mutula Kilonzo Jnr.! Who have you shared the document with?"
     },
     {
-      "order": 177,
+      "order": 175,
       "id": "entry-812601",
       "label": "speech",
       "level": "2",
@@ -2127,7 +2103,7 @@
       "text": "The Chairperson, Sen. Sakaja. That is the reason I just wanted to make a comment."
     },
     {
-      "order": 178,
+      "order": 176,
       "id": "entry-812602",
       "label": "speech",
       "level": "2",
@@ -2139,7 +2115,7 @@
       "text": "Alright, proceed."
     },
     {
-      "order": 179,
+      "order": 177,
       "id": "entry-812603",
       "label": "speech",
       "level": "2",
@@ -2151,7 +2127,7 @@
       "text": "Mr. Deputy Speaker, Sir, this is a secret agreement and one of the paragraphs reads:- \"One should not post negative articles, writings, videos or photos on social media, Facebook, YouTube and et cetera that involve SGR operation.\" The only reason this secret agreement is being done is because photographs have appeared in the newspapers showing workers lying down. This matter is not even a scandal; it is a matter of national concern. Mr. Deputy Speaker, Sir, on the question of wildlife dying along the railway line, I am aware that one of the coaches travels with these Chinese. More importantly, work permits for foreigners are supposed to be given for work which no Kenyan can do. Therefore, when a Chinese who cannot even speak English is manning a gate and Kenyans are looking for jobs, what are you talking about? Sen. Sakaja and his team should get to the bottom of this matter quickly. Lastly, Mr. Deputy Speaker, Sir, can we afford a million shillings a day? What are you saying? This is going to become like the Port of Sierra Leone and Sri Lanka; we are going to sell our national treasures to these people. Our debt to the Chinese now stands at 66 per cent of all our debts, and it is growing. If we do not wake up and smell the coffee, Senators, this is going to be something huge. Thank you, Sen. Sakaja, for bringing this up. Mr. Deputy Speaker, Sir, the Chinese have given me problems. For example, Sen. Seneta was telling us about Emali Primary School, where they split the school into two and the railway line is in the middle. The school has been destroyed and they have refused to repair it. When they go to Makueni and we complain, they go and bribe the teachers with Kshs200,000 or Kshs300,000; we have a crisis! There were floods in Sultan Hamud recently because of the SGR. That was the first time we experienced floods there because they blocked all culverts in order to raise the railway. Mr. Deputy Speaker, Sir, let us get to the bottom of this matter or history is going to judge us so harshly when we begin paying these debts and selling our country to the Chinese by giving them the Port of Mombasa, the Jomo Kenyatta International Airport (JKIA) and a part of Kenya. I call it the road to Shanghai. Thank you, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 180,
+      "order": 178,
       "id": "entry-812604",
       "label": "scene",
       "level": "2",
@@ -2163,7 +2139,7 @@
       "text": "(Applause)"
     },
     {
-      "order": 181,
+      "order": 179,
       "id": "entry-812605",
       "label": "speech",
       "level": "2",
@@ -2175,7 +2151,7 @@
       "text": "Proceed, Sen. (Prof.) Kamar."
     },
     {
-      "order": 182,
+      "order": 180,
       "id": "entry-812606",
       "label": "speech",
       "level": "2",
@@ -2187,7 +2163,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for allowing us to ventilate on this issue. I join my colleagues and, in particular, Sen. Sakaja in relooking at our relationship with the Chinese. I am happy and I congratulate the Senator for coming up with this question, so that the Committee can look critically at how these people are behaving. The behavior of this group is completely different from any other group that has entered this continent or this country in particular. Mr. Deputy Speaker, Sir, they have said that they are going to relook at the rights and freedoms of Kenyans. I want to give a very simple example in Uasin Gishu County, where the Chinese are constructing roads. In particular, we have a road that crosses the county from Naiberi all the way to Chebororwa. You will be surprised that these people will dig roads and make no diversions. In fact as you cross where they are working, you will have to maneuver between graders and bulldozers, and the workers are not allowed to stop for you. I personally went through this experience. The workers are terrified and they will not stop for you. Therefore, as they are scooping the soil, they expect you to sneak in through the machines. If you tell them to stop, they wave at you, telling you that the Chinese will not allow them to do so; and they do not want to lose their jobs. They are very terrified. This is the level we have reached, as Kenyans. Mr. Deputy Speaker, Sir, apart from roads lacking diversions, they also just release water in all directions without digging trenches. Even where farmers have accepted that they can create waterways and direct the water, there are no waterways. Therefore, you find that you are sometimes going through a pool of water or a drift and, as a result, vehicles keep getting stuck because nobody knows the depth of those pools. Vehicles just sink into the muddy roads. Therefore, there is carelessness that is unmatched when it comes to these Chinese consultants. Finally, Mr. Deputy Speaker, Sir, I personally saw Chinese driving graders. I told myself that our young boys are sitting there, asking for the same jobs yet Chinese are grading the roads. Surely, how far can we go? If we are inviting people to come and work for us; how can we give them everything that exists? We have diverted water for them to their stations and connected them with electricity and yet they are just overdoing it. Thank you, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 183,
+      "order": 181,
       "id": "entry-812609",
       "label": "speech",
       "level": "2",
@@ -2199,7 +2175,7 @@
       "text": "That is good time management. Thank you, Sen. (Prof.) Kamar. Proceed, Sen. Wetangula."
     },
     {
-      "order": 184,
+      "order": 182,
       "id": "entry-812610",
       "label": "speech",
       "level": "2",
@@ -2211,7 +2187,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. The information in public now about the Chinese and the Standard Gauge Railway (SGR) is a matter that would warrant a public inquiry. I want to salute the Senator for Nairobi City County for acting as Committees should; that they do not have to wait for this House or the Chair to motion the Committees to act. They must act when matters that affect Kenyans appear. Among the people that he should summon must include the Attorney General who sanctions and approves all contracts signed between the Government, foreign Governments and foreign entities. Second, there are several questions on the amount of money that is being paid to the Chinese firm for managing the SGR. Sen. Sakaja's Committee must find out whether this contract between China Road and Bridge Corporation (CRBC) and the Kenya Government is a Build and Transfer (BT), Build Operate and Transfer (BOT) or Build Own Operate and Transfer (BOOT) or what kind of contract it is. The Standard Gauge Railway (SGR) is a property of the Kenya Railways which is a public corporation. So, if they have assigned a management contract to the Chinese, then who sanctioned it? Managing a railway is not rocket science. A standard gauge railway is just a railway line that is a little broader than the old railway system that we had. So, why would we hand over an asset of this nature to the Chinese to manage? Third, all contracts and borrowings on such projects are long term. How come the SGR was commissioned and the loans are being paid immediately? Are these commercial or concessional loans? The Committee must find out this. Fourth, we must find out under what circumstances the Chinese are employed to work for Kenya Railways. The question is not about the management contract with the Chinese, but the Kenya Railways Corporation. I did not hear Sen. Sakaja state that they are also summoning the management of Kenya Railways Corporation."
     },
     {
-      "order": 185,
+      "order": 183,
       "id": "entry-812613",
       "label": "speech",
       "level": "2",
@@ -2223,7 +2199,7 @@
       "text": "I did."
     },
     {
-      "order": 186,
+      "order": 184,
       "id": "entry-812614",
       "label": "speech",
       "level": "2",
@@ -2235,7 +2211,7 @@
       "text": "If you did, then that is excellent. We, as a country, cannot mortgage ourselves. Our public debt is now standing at Kshs5 trillion. That is unmanageable. The Governor of the Central Bank of Kenya (CBK), Mr. Njoroge, has already fired two warning shots that this country cannot borrow anymore because we have burst the ceiling yet we are told that even the little we have is in the hands of foreigners. The Chinese are doing jobs, like my colleagues have said, that Kenyans can do. I have seen on the highway---"
     },
     {
-      "order": 187,
+      "order": 185,
       "id": "entry-812615",
       "label": "scene",
       "level": "2",
@@ -2247,7 +2223,7 @@
       "text": "(The Red Timer went on)"
     },
     {
-      "order": 188,
+      "order": 186,
       "id": "entry-812616",
       "label": "speech",
       "level": "2",
@@ -2259,7 +2235,7 @@
       "text": "Mr. Deputy Speaker, Sir, just one second."
     },
     {
-      "order": 189,
+      "order": 187,
       "id": "entry-812617",
       "label": "speech",
       "level": "2",
@@ -2271,7 +2247,7 @@
       "text": "I have added you one minute, Sen. Wetangula."
     },
     {
-      "order": 190,
+      "order": 188,
       "id": "entry-812618",
       "label": "speech",
       "level": "2",
@@ -2283,7 +2259,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I have seen, on the highway, the Chinese driving graders and shovels and they wave for a vehicle to stop so that another one can pass from the other side on a construction site. Those are jobs that you do not even need anybody who has gone to school to do. Why are we reducing our country to this? This Committee must make far reaching recommendations on; first, whether the borrowing on SGR was viable. Secondly, whether it is a contract in the terms that I have said; BT, BOT, BOOT or Build Own Operate (BOO). Thank you, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 191,
+      "order": 189,
       "id": "entry-812619",
       "label": "speech",
       "level": "2",
@@ -2295,7 +2271,7 @@
       "text": "Proceed, Sen. Nyamunga."
     },
     {
-      "order": 192,
+      "order": 190,
       "id": "entry-812620",
       "label": "speech",
       "level": "2",
@@ -2307,7 +2283,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity to also make a few comments on this. I know, as a country, we need partners in different areas. However, the rate at which the Chinese have treated our people is not acceptable. It is not only about the SGR, but also on the roads. For example, in Kisumu where I come from, on Kisumu-Kericho Road, there is T-junction towards Kisii where there are borrow pits that were used by the SBI International Holdings. It is not only about the Chinese, but even the SBI International Holdings people who excavated murram from the borrow pits and left the area without fencing them, which poses a lot of danger to our people. Secondly, they did a lot of water channels that made people to suffer so much during the rainy season. They never channelled the water anywhere. It was just left at the mercy of nobody and it flooded the whole village. So, some of the sufferings that we go through in terms of flooding are not only about the rains, but also the way the Chinese or the contractors who have been doing our roads have left the things hanging without conclusion. So, I want to believe that most of these things are just allegations because it is so unfortunate if such things can be true under our watch. Today, the Chinese contractors are in Nairobi and they are now going towards Naivasha. From there, they will go to Malaba or Kisumu. So, some of these things should be sorted out once and for all in good time as we move forward. We must stop the discrimination. We cannot discriminate against our people. Our people need jobs and they are very well trained. However, at the rate at which we are doing things, it is unfortunate. The Government should come up very strongly to support our people and make sure that Kenyans get what is meant for them. Thank you, Mr. Deputy Speaker, Sir."
     },
     {
-      "order": 193,
+      "order": 191,
       "id": "entry-812623",
       "label": "speech",
       "level": "2",
@@ -2319,7 +2295,7 @@
       "text": "Proceed, Sen. Ndwiga."
     },
     {
-      "order": 194,
+      "order": 192,
       "id": "entry-812624",
       "label": "speech",
       "level": "2",
@@ -2331,7 +2307,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I would like to congratulate the Senator for Nairobi City County for bringing this matter to this House. It is high time that we, as a nation, started to relook at the kinds of relationships we have with whoever wants to partner with us in development. Sixty years after Independence, it is very sad that the Senate of the Republic of Kenya is discussing racism. For so many years, the Kenyans fought to have their own dignity. Today, we have a situation where Kenyans are being treated like labourers in their own country. This is not all. I beg to inform the House that if you are a Kenyan and you go to China and you intend to start a small business, first of all, you will not be allowed to start any business if it is not 55 per cent owned by the Chinese. That is where we need to revert. Today, we are seeing the Chinese peddling wares in our markets all over the country. They have an attitude that we are lesser human beings and that they are of a superior extraction. This is something that, as a country, we cannot accept. Getting back to the SGR, I would like to congratulate the Chairperson of the Committee for summoning the people who are concerned in the management of SGR. It is a project that Kenyans are proud of. However, being proud of a project does not mean that our people should be treated in an inhumane manner. Most of these Chinese truck drivers you see are actually prisoners. We all must know that China has a policy of exporting its excess labour to the developing world. If they want to do that, this country must state categorically that we do not want those kinds of fellows. This must be made very clearly that we do not want prisoners and misfits in this country."
     },
     {
-      "order": 195,
+      "order": 193,
       "id": "entry-812626",
       "label": "scene",
       "level": "2",
@@ -2343,7 +2319,7 @@
       "text": "(Sen. Ndwiga's microphone went off)"
     },
     {
-      "order": 196,
+      "order": 194,
       "id": "entry-812627",
       "label": "speech",
       "level": "2",
@@ -2355,7 +2331,7 @@
       "text": "One minute for Sen. Ndwiga."
     },
     {
-      "order": 197,
+      "order": 195,
       "id": "entry-812628",
       "label": "speech",
       "level": "2",
@@ -2367,7 +2343,7 @@
       "text": "Mr. Deputy Speaker, Sir, it is not the first time that we are seeing this kind of behavior from the Chinese in this country. During the construction of Kasarani Stadium, it was the same thing. Those of us who know China very well and their policies, we know the policy is to export their excess or misfits who are not useful in their country to this country."
     },
     {
-      "order": 198,
+      "order": 196,
       "id": "entry-812629",
       "label": "speech",
       "level": "2",
@@ -2379,7 +2355,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity. I thank the great, \"super Senator\" for Nairobi County for this ---"
     },
     {
-      "order": 199,
+      "order": 197,
       "id": "entry-812630",
       "label": "speech",
       "level": "2",
@@ -2391,7 +2367,7 @@
       "text": "Order, Senator! What did you just say? Which Senator are you referring to?"
     },
     {
-      "order": 200,
+      "order": 198,
       "id": "entry-812631",
       "label": "speech",
       "level": "2",
@@ -2403,7 +2379,7 @@
       "text": "Mr. Deputy Speaker, Sir, Sen. Sakaja."
     },
     {
-      "order": 201,
+      "order": 199,
       "id": "entry-812632",
       "label": "speech",
       "level": "2",
@@ -2415,7 +2391,7 @@
       "text": "Who is?"
     },
     {
-      "order": 202,
+      "order": 200,
       "id": "entry-812633",
       "label": "speech",
       "level": "2",
@@ -2427,7 +2403,7 @@
       "text": "The \"super Senator\" of ---"
     },
     {
-      "order": 203,
+      "order": 201,
       "id": "entry-812634",
       "label": "speech",
       "level": "2",
@@ -2439,7 +2415,7 @@
       "text": "Order! This is not a political rally."
     },
     {
-      "order": 204,
+      "order": 202,
       "id": "entry-812635",
       "label": "speech",
       "level": "2",
@@ -2451,7 +2427,7 @@
       "text": "Mr. Deputy Speaker, Sir, I withdraw."
     },
     {
-      "order": 205,
+      "order": 203,
       "id": "entry-812636",
       "label": "speech",
       "level": "2",
@@ -2463,7 +2439,7 @@
       "text": "Out there, fine. In this Chamber, we have Senators."
     },
     {
-      "order": 206,
+      "order": 204,
       "id": "entry-812637",
       "label": "speech",
       "level": "2",
@@ -2475,7 +2451,7 @@
       "text": "Okay. I stand guided."
     },
     {
-      "order": 207,
+      "order": 205,
       "id": "entry-812638",
       "label": "speech",
       "level": "2",
@@ -2487,7 +2463,7 @@
       "text": "We have no super or junior Senator anywhere in this Chamber. We only have Sen. Mutula Kilonzo Jnr., Senator for Makueni County."
     },
     {
-      "order": 208,
+      "order": 206,
       "id": "entry-812639",
       "label": "speech",
       "level": "2",
@@ -2499,7 +2475,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for that indulgence."
     },
     {
-      "order": 209,
+      "order": 207,
       "id": "entry-812640",
       "label": "speech",
       "level": "2",
@@ -2511,7 +2487,7 @@
       "text": "Add Sen. Cherargei one more minute."
     },
     {
-      "order": 210,
+      "order": 208,
       "id": "entry-812641",
       "label": "speech",
       "level": "2",
@@ -2523,7 +2499,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir for this opportunity. I also thank Sen. Sakaja who is also my Chairperson in the Committee on Labour and Social Welfare. I think as a Committee, we will treat this matter with the seriousness that it deserves. One, it is very sad that most opportunities that should have be given to our people are being given to the Chinese. I think we need to relook the issue of work permits and I challenge my Chairperson, Sen. Sakaja, that we must relook and agree on the work permits. The only place in this world where you walk in like a toilet and you do what you want is Kenya. That is why you find Chinese selling even roasted maize in Narok County. In the same county, the other day you saw people fighting over Corporate Social Responsibility (CSR) projects. These are people who think they are more important than Kenyans. We must review how we handle the work permit regulations in this country and avoid a situation where every Tom, Dick and Harry walks into this country and behaves as they wish. Second is on the issue of CSR. I have seen many Kenyans up in arms when the Chinese are given projects to work on. They do not care about how people use their roads - as my colleague from Uasin Gishu County has said - even in preparing diversions when they are constructing roads. CSR is very important and it is practiced by even the best renowned corporate organisations in this world. Why is it that people have to demonstrate against Chinese companies by carrying twigs or even intimidate or coerce them to give CSR? I think time has come that my Committee on Legal Affairs and Human Rights will relook our engagement with foreigners in this country. We will not sit back and auction our country. As the Senate, it is high time we stood up in the gap that has been left and bring radical changes that will ensure the dignity of Kenyans. It is not even about the economy/. It is about the dignity of Kenyans. We appreciate that they are also assisting us in procreation."
     },
     {
-      "order": 211,
+      "order": 209,
       "id": "entry-812644",
       "label": "scene",
       "level": "2",
@@ -2535,7 +2511,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 212,
+      "order": 210,
       "id": "entry-812645",
       "label": "speech",
       "level": "2",
@@ -2547,7 +2523,7 @@
       "text": "However, that does not give them the license to treat us as lesser human beings. I support and I hope that we will come up with necessary and radical recommendations."
     },
     {
-      "order": 213,
+      "order": 211,
       "id": "entry-812646-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "2",
@@ -2559,7 +2535,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 214,
+      "order": 212,
       "id": "entry-812646-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "2",
@@ -2571,7 +2547,7 @@
       "text": "[The Temporary Speaker (Sen. Nyamunga) in the Chair]"
     },
     {
-      "order": 215,
+      "order": 213,
       "id": "entry-812647",
       "label": "speech",
       "level": "2",
@@ -2583,7 +2559,7 @@
       "text": "Finally, on the issue of human tights, we know China - I do not fear to say this - ranks the lowest in terms of human rights in this world. We must relook this as it could be their problem or where they come from and that is why they abuse labourers. They see Kenyans as clever because they rank lowest in the human rights index in this world. I call upon my Chairperson in the Committee on Labour and Social Welfare and all of us who are Members, to come up with earth-shaking radical reforms that will change the engagement that we have in this country with foreigners. Thank you, Mr. Deputy Speaker, --- Sorry, Madam Temporary Speaker."
     },
     {
-      "order": 216,
+      "order": 214,
       "id": "entry-812648",
       "label": "speech",
       "level": "2",
@@ -2595,7 +2571,7 @@
       "text": "Yes. Madam Temporary Speaker. Sen. (Prof.) Ekal, proceed."
     },
     {
-      "order": 217,
+      "order": 215,
       "id": "entry-812649",
       "label": "speech",
       "level": "2",
@@ -2607,7 +2583,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me the chance to also say a few things about the Chinse issue. The Senator for Nairobi County - we are not allowed to call him \"super\" but he is a great Senator - thank you for bringing up this topic. This is not only at the SGR but all over the country and it is a matter of Kenyan dignity as Sen. Cherargei said. I have been to China and the Chinese are not as civilized as we thought they were. We think that they have been civilized for 5,000 years but when we were in China, we got very lousy treatment from the Chinese. Having Chinese all over this country is questionable. Why do we have them doing the little things that our children should be doing when they do not have jobs? I know the Chinese are in Turkana County constructing roads but their treatment of the people of Turkana is wanting. I have heard complaints from young people that the Chinese discriminate against them and in the process, give the jobs to younger Chinese that some people now call criminals who are brought from China. There is a time when I interacted with a Chinese engineer. There was a market that had rain water which made the market to stink and the residents wanted it drained and some murram put there. Do you know these Chinese engineers actually cheated me? I went to one of them who then told me that he wanted to call his boss in Nairobi so that they could do that job. When I came to Nairobi City, I called the boss and nothing has since been done. If these people do not respect Senators of a county like Turkana, Nairobi or any other, what do they respect? As hon. Members have said, they think we are lesser beings and no matter who you are, you are not really what you say you are because you are a lesser being even if you are a Senator. We need to look into why the Chinese come to Kenya. Is this the only country in the world where we can get the technical help or where we can borrow people to construct our roads? There are people in the United States of America (USA) who know how to construct better roads than the Chinese but they are a lot more civilized than the Chinese. So, why do we not call them in and leave China out? If we are not going to be taken over by the Chinese, we need to look into why they come in and how they do it and why they should take the jobs that our youngsters should be doing."
     },
     {
-      "order": 218,
+      "order": 216,
       "id": "entry-812652",
       "label": "speech",
       "level": "2",
@@ -2619,7 +2595,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me a chance to add my voice on this important Statement. I congratulate the Chairperson of the Committee on Labour and Social Welfare for having thought about this SGR issue. These are arguments that our Government should look into in terms of the percentage of the local content in these agreements. We are not against foreign investors but against an investor in the country getting all the raw material he wants and even the required labour from his own country. It is not all about the SGR. Yesterday, the Senator for Turkana County raised an issue where Tullow Oil companies are not employing locals. Here is a company working in Turkana County - a county that has been already marginalized for many years - where we are getting an important resource and yet locals do not get any returns in terms of labour and businesses. They get nothing from that resource. Therefore, it is time for our country to review these investments. We should clarify what we, as a country, should get from an investor when they invest in our counties. This does not just apply to the national Government, but also the county governments. I am sure that many counties are excited to get investors, but as they do so, they should not enter into agreements without agreeing on what an investor is supposed to give back to the community. We shall support this when it comes to the Committee. I wish to ask the Chairperson to invite all of us, so that we can contribute and listen from the Ministry concerned on what they are supposed to be doing about this. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 219,
+      "order": 217,
       "id": "entry-812653",
       "label": "speech",
       "level": "2",
@@ -2631,7 +2607,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity. I would like to thank the Senator for Nairobi County for bringing this matter. Last year, when the Maasai were discriminated against by the Chinese in Narok, they did something that I would consider as fighting for their rights and a few of them ended up in hospital. What Sen. Sakaja has done now, is actually warning us that if we do not take action, Kenyans outside there will take action and fight for their rights. It was very unfortunate that a young Maasai man was killed in Narok County and as a result of that, it took the intervention of the Governor and I for the Standard Gauge Railway (SGR) work to continue in Narok. This is something that we must be very careful about and deal with the speed and urgency that it requires. Recently, when the Minister of Foreign Affairs of the People's Republic of China was in this country, he talked about their policy on foreign industrialization. There are more Chinese who are coming to this country and will take over all our industries. This is not new. When the Kenya-Uganda Railway was being constructed, a lot of Asians came here and we know what happened. If you go to Westlands now, you will realize that it is mostly owned by one particular community. If we do not stop this, the same thing might happen. Why can we not ensure that Kenyans are employed as attendants? If they can be trusted worldwide as flight attendants, why can they not man a railway? This is ridiculous. This issue proves what the Western nations say that China works as a predator. They come into your country and suck all our resources and bring them back. We know that they have a population of 1.4 billion and if we are not careful, one million Chinese will be brought and the entire population of Kenya will change into something else. This is a matter that we must take seriously because China is now cementing its foothold in this country. We are very gullible and quick to accept all their money, yet we do not know that we are digging our own graves. Unless we deal with---"
     },
     {
-      "order": 220,
+      "order": 218,
       "id": "entry-812656",
       "label": "scene",
       "level": "2",
@@ -2643,7 +2619,7 @@
       "text": "(Sen. Olekina's microphone went off)"
     },
     {
-      "order": 221,
+      "order": 219,
       "id": "entry-812657",
       "label": "speech",
       "level": "2",
@@ -2655,7 +2631,7 @@
       "text": "Madam Temporary Speaker, I beg to be added more time."
     },
     {
-      "order": 222,
+      "order": 220,
       "id": "entry-812658",
       "label": "speech",
       "level": "2",
@@ -2667,7 +2643,7 @@
       "text": "You may proceed."
     },
     {
-      "order": 223,
+      "order": 221,
       "id": "entry-812659",
       "label": "speech",
       "level": "2",
@@ -2679,7 +2655,7 @@
       "text": "Thank you Madam Temporary Speaker. The Chinese do not care about the environment when they extract resources for the construction of the SGR. Right now, the children who live in an orphanage that is next to Siyiapei River are taken to hospital frequently because of respiratory diseases. Therefore, we have to be careful. In fact, the floods washed away all their equipment into the Ewaso Nyiro River. This is a matter that must be dealt with the urgency that it deserves, so as to ensure that our Kenyans have jobs. Earlier on, the Statement that was brought by the Senator for Turkana County talked about cattle rustling. I can also take a gun and fight if I cannot be given a job in this country. I support this Statement and want to ask Sen. Sakaja to call upon us--- I am warning that if this matter is not resolved and the Maasai of Narok will be not considered to work in the SGR in Narok, then it will not work; we do not need it. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 224,
+      "order": 222,
       "id": "entry-812660",
       "label": "speech",
       "level": "2",
@@ -2691,7 +2667,7 @@
       "text": "Thank you Madam Temporary Speaker. I also stand to express my concerns on what is happening, as I support Sen. Sakaja on how the Chinese have been treating our fellow Kenyans. For those who have read history, there was a gentleman called Mugo Kibiru, and I come from that lineage. He once talked of a snake that would pass across our country and warned people that it may not come with all good things. What we are seeing is neocolonialism. Just like the white men asked us to close our eyes as they took over our land and resources, the Chinese people are telling us to take the money and development and by the time we will wake up, they may have colonized us. The traits and signs are there of how this happens. When the people, who have persuaded us to allow them to come into this country tell us that we cannot do some jobs or pass through some areas, that is neocolonialism. We do not want another Mau Mau uprising. We ask Sen. Sakaja and the Committee to address this issue. If that does not work, we may have to use other means similar to what happened with the man-eaters of Tsavo. Chinese companies are the perpetrators of corruption in this country, and we have evidence of how they get jobs. They have come up with what they call finder's fee, which is increasing corruption. Our contractors cannot compete with the Chinese because they are unable to get the finder's fee. Therefore, we need a level playing ground and Sen. Sakaja and the team should do us a favour. They should tell the country what we need to hear. Tell us the truth. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 225,
+      "order": 223,
       "id": "entry-812663",
       "label": "speech",
       "level": "2",
@@ -2703,7 +2679,7 @@
       "text": "Thank you Madam Temporary Speaker. I stand to support the Statement. In Zimbabwe the Chinese were literally doing everything. That is also coming to Kenya. It is not just about the SGR; if you go Eastleigh you will find the Chinese hawking. What else do we expect from them, if they can go to that level? This is the right time for us to tell them to go home. They can give us the money, which we will pay back, but they should not give us blood money, which will kill us. Madam Temporary Speaker, when they will bring industries to Athi River there will be the wholesalers, agents and hawkers. Next time as the Senator from Narok said, they will make sure that they have a lot of their children here. Already I am told that there are Chinese children around Thika and other areas because of the Thika Superhighway. In another 10 or 20 years, half of Kenya will be Chinese. If that is what we want, then we will be in trouble. My take is that these people are too much. You can see what the Americans are doing; they are pushing them out of their country. I think we need another Donald Trump here. Everything now comes from China and we have nothing to give them. The little they take from us is of no use to them. We should make sure that we get our dues properly and China either invests in this country properly where Kenyans get what they need. They should bring technology transfer to us. They are stealing it from America and the western countries. We cannot steal from them. The only way we can learn from them is for them to change all their machineries and language to either Kiswahili or English. If everything is in Chinese, we will learn nothing. So, the Government of the day should act. As Senators, we are behind Sen. Sakaja."
     },
     {
-      "order": 226,
+      "order": 224,
       "id": "entry-812664",
       "label": "scene",
       "level": "2",
@@ -2715,7 +2691,7 @@
       "text": "(Interruption of Statements)"
     },
     {
-      "order": 227,
+      "order": 225,
       "id": "entry-812666",
       "label": "heading",
       "level": "1",
@@ -2727,7 +2703,7 @@
       "text": "COMMUNICATION FROM THE CHAIR"
     },
     {
-      "order": 228,
+      "order": 226,
       "id": "entry-812667",
       "label": "heading",
       "level": "2",
@@ -2739,7 +2715,7 @@
       "text": "VISITING DELEGATION FROM LOGORATE PRIMARY SCHOOL, SAMBURU COUNTY"
     },
     {
-      "order": 229,
+      "order": 227,
       "id": "entry-812668",
       "label": "speech",
       "level": "2",
@@ -2751,7 +2727,7 @@
       "text": "Hon. Senators, I would like to acknowledge the presence in the Public Gallery this afternoon of visiting students and teachers from Logorate Primary School, Samburu County. In our usual tradition of receiving and welcoming visitors to Parliament, I extend a warm welcome to them. On behalf of the Senate and on my own behalf, I wish them a fruitful visit. Sen. Sakaja, do you have an intervention?"
     },
     {
-      "order": 230,
+      "order": 228,
       "id": "entry-812669",
       "label": "speech",
       "level": "2",
@@ -2763,7 +2739,7 @@
       "text": "Madam Temporary Speaker, I thought Members had all contributed to this particular issue. However, I will speak after they are all done because I just want to acknowledge the comments that I have received as the Committee goes into it. A few others want to contribute."
     },
     {
-      "order": 231,
+      "order": 229,
       "id": "entry-812670",
       "label": "speech",
       "level": "2",
@@ -2775,7 +2751,7 @@
       "text": "Order! I would like to give an opportunity to the Senator for Samburu County to welcome the delegation from his county."
     },
     {
-      "order": 232,
+      "order": 230,
       "id": "entry-812671",
       "label": "speech",
       "level": "2",
@@ -2787,7 +2763,7 @@
       "text": "Thank you, Madam Temporary Speaker. I take this opportunity, on behalf of the Senate, on your behalf and on behalf of the people of Samburu to welcome the students and teachers of Logorate Primary School to the Senate of Kenya. I am sure that this is the first school from Samburu County that we have received here in the Senate. I welcome them to see how we do business in this Chamber. This is where the people of Samburu have sent me to represent them. I am here today to welcome you and any other school that is willing to come to this Senate and learn what we do in the Senate. The Senate of Kenya does functions that concern our counties. We have been to your school; I have been to your place. I want you to take greetings from this Senate and tell the people that we welcome schools and visitors. We have a place for them in the Senate. Thank you and welcome."
     },
     {
-      "order": 233,
+      "order": 231,
       "id": "entry-812672",
       "label": "speech",
       "level": "2",
@@ -2799,7 +2775,7 @@
       "text": "Bi. Spika wa Muda, nina kushuru kwa kunipa nafasi hii ili niwakaribishe wanafunzi na walimu wa shule ya Logorate kutoka Kaunti ya Samburu. Ningependa kuwahimiza watie bidii katika masomo yao kwa sababu sisi kama viongozi tulikuwa wanafunzi kama nyinyi. Seneta wenyu kutoka Samburu Kaunti ni shujaa. Yeye ni kiongozi ambaye anawatetea masilahi yenu hapa. Pia nyinyi lazima muweze kumfuatilia na kutazama yale ambayo anafanya. Ninajua kuna mambo mengi ambayo yanafanyika katika Samburu Kaunti. Kwa mfano, viongozi na watu wa Samburu Kaunti wanajishughulisha na town council kuwa municipality na kadhalika. Hilo ni jambo ambalo pia nyinyi mnatakiwa kuhusishwa nalo. Ningependa kuwakaribisha kabisa na mjihisi nyumbani. Feel at home . Kiswahili ni ngumu sana lakini nitajaribu kidogo, Enjuro!"
     },
     {
-      "order": 234,
+      "order": 232,
       "id": "entry-812673",
       "label": "speech",
       "level": "2",
@@ -2811,7 +2787,7 @@
       "text": "Senator, that is very unprocedural!"
     },
     {
-      "order": 235,
+      "order": 233,
       "id": "entry-812674",
       "label": "speech",
       "level": "2",
@@ -2823,7 +2799,7 @@
       "text": "Madam Temporary Speaker, allow me to join my colleagues in welcoming the students from Samburu West. I have been to that constituency severally. I am glad to note that their constituency is the first ever in Samburu to elect a Samburu lady by the name, Hon. Naisula Lesuuda. She is the first elected Samburu lady on the earth. We want to congratulate them. I remember the last time I went there for a harambee, at that time the current MP was a nominated Senator who I was proud to have nominated when I was chairman of TNA. I got three punctures from Rumuruti to Samburu. I went there with a vehicle that had low profile tyres. I had to be evacuated from a place called Suguta Marmar. As a result of that, I committed to make sure that their road is done from Rumuruti and also from Maralal to meet in the middle. I am glad the Senator of Samburu has alerted me that progress has been ongoing. So, remember Sakaja when you see that road. I wish you all the best; I wish them great success. They can be anything they choose to be if they put their hearts and minds in education and the values that they need to stand by as patriotic Kenyans. You are fortunate that you have amazing leaders like the Senator here, your MP Hon. Naisula, your governor and all the rest of the leaders. Support them and be diligent in your studies.\n\nAshe Oleng."
     },
     {
-      "order": 236,
+      "order": 234,
       "id": "entry-812676",
       "label": "speech",
       "level": "2",
@@ -2835,7 +2811,7 @@
       "text": "You must always remember that we do not address the visitors directly; but we address them through the Chair. We can now revert back to our previous debate. I would like to give the opportunity to Sen. Maina."
     },
     {
-      "order": 237,
+      "order": 235,
       "id": "entry-812677",
       "label": "scene",
       "level": "2",
@@ -2847,7 +2823,7 @@
       "text": "(Resumption of Statements)"
     },
     {
-      "order": 238,
+      "order": 236,
       "id": "entry-812678",
       "label": "speech",
       "level": "2",
@@ -2859,7 +2835,7 @@
       "text": "Thank you, Madam Temporary Speaker. I came here because this matter is weighty. It goes beyond mere mistreatment of our workers. The issue of the Chinese in this world is not a new one. Malaysia developed when Dr. Mahat took power and actually chased them out. That is the time Malaysia took the route of development. Madam Temporary Speaker, before I come to the mistreatment of our workers, this country has youth who are seeking employment which, to me, is a time bomb. Anybody who comes here with prisoners from his country so that our children cannot get employment, no matter the financial benefit, that should be set aside. We want Kenya to have a social benefit. Sessional Paper No.10, which was authored by the late Tom Mboya and Hon. Mwai Kibaki as his Assistant Minister, was signed by the late Mzee Kenyatta in 1965. During that time, I was in school. If people read it, they will see the policies that our forefathers set for the development of this country. One of them was Kenya first. If Kenya wants to remain as Kenya, the issue of the Chinese needs to be looked into. Anybody giving us money so that he can bring his prisoners here to work as cooks and bring goods from his country duty-free should not be welcomed. We need people who will come, develop Kenya and bring expertise that we do not have while using locally available Kenyan expertise. Madam Temporary Speaker, I am an engineer and I know that this country was built by a few European, Indian and African countries which joined us. However, in the road sector today, you will just see the Chinese and we are all clapping. I want to warn Africans that they should go to Angola and Zimbabwe to see the effect of the Chinese. The Chinese are not in Angola today because the people there opened their eyes. In Zambia, a certain Minister went to a copper mine and left crying, because she met people who were literally naked and sweating some three kilometres down the mine without any air conditioning. The Chinese do not believe in God; therefore, for you to tell them not to mistreat you, so that in case you die, they do not get a sin, that does not apply."
     },
     {
-      "order": 239,
+      "order": 237,
       "id": "entry-812681",
       "label": "scene",
       "level": "2",
@@ -2871,7 +2847,7 @@
       "text": "(Sen. (Eng. Maina spoke off record)"
     },
     {
-      "order": 240,
+      "order": 238,
       "id": "entry-812682",
       "label": "speech",
       "level": "2",
@@ -2883,7 +2859,7 @@
       "text": "Sen. (Eng.) Maina, you have an additional minute."
     },
     {
-      "order": 241,
+      "order": 239,
       "id": "entry-812683",
       "label": "speech",
       "level": "2",
@@ -2895,7 +2871,7 @@
       "text": "Okay, Madam Temporary Speaker. This is a subject that we need to address in another forum. We must retrace our footsteps as a country and remember our forefathers. We must start reclaiming ourselves through papers, like Sessional Paper No.10, which was made right here in this House; the old Parliament building. Therefore, Madam Temporary Speaker, the issue of the Chinese mistreating our people needs to be relooked, because it is a disgrace in this century and it should never happen. I encourage and support this Committee to come out without mincing words and tell Kenyans what they have seen. They should go beyond the mistreatment and see the destruction that is on the way. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 242,
+      "order": 240,
       "id": "entry-812684",
       "label": "speech",
       "level": "2",
@@ -2907,7 +2883,7 @@
       "text": "Proceed, Sen. Farhiya."
     },
     {
-      "order": 243,
+      "order": 241,
       "id": "entry-812685",
       "label": "speech",
       "level": "2",
@@ -2919,7 +2895,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me this opportunity to contribute. I thank Sen. Sakaja, for bringing up this issue. As I listen to other Senators discussing this issue, what goes through my mind is that we have employment contracts in this country. If normal companies breach any employment contract and harass their staff, there are laws that deal with them. Do these laws not apply to the Chinese? What is going on? Madam Temporary Speaker, on the discussion regarding corruption, I know that corruption breeds a lot of poverty in this country. Instead of money going into the pockets of Kenyans, it is going into the pockets of the Chinese. It is very unfortunate that they are taking all contracts, including jobs that Kenyans can do. We know that 70 per cent of the population of this country is youth and all of them are coming to the market to seek employment. If foreigners are taking up all the employment opportunities, where does that leave Kenya? Madam Temporary Speaker, we should not allow a foreign country to take up our heritage. If we get so indebted to them, then it means that very soon, we will lose not only our heritage, but also our sovereignty. The Committee should also conduct an analysis of the financial costs in terms of our borrowing and compare it to the cost of what the Chinese are giving us. Are we getting value for money or will we continue being indebted, sell our ports and everything we own to the Chinese? Madam Temporary Speaker, on matters of immigration and work permits, I know the amount of trouble you face just to acquire a work permit for highly skilled experts. I have worked for an organisation where some people - who were highly skilled and who would have transferred some skills to this country - were denied work permits. It is an uphill task to get a work permit in Kenya. Why is it different for the Chinese? We need to investigate our immigration department on this issue. Let us make people account---"
     },
     {
-      "order": 244,
+      "order": 242,
       "id": "entry-812688",
       "label": "speech",
       "level": "2",
@@ -2931,7 +2907,7 @@
       "text": "Finally, proceed, Sen. Mwangi Paul Githiomi."
     },
     {
-      "order": 245,
+      "order": 243,
       "id": "entry-812689",
       "label": "speech",
       "level": "2",
@@ -2943,7 +2919,7 @@
       "text": "Thank you, Madam Temporary Speaker. I stand to support Sen. Sakaja's Statement. It is becoming difficult to get jobs in Kenya and we know that our youths do not have jobs. It is common knowledge that Chinese companies in Kenya are taking prisoners from China to come and work for them here for free. Therefore, these companies cannot compete with local contractors because they are not paying for labour, because they are using their prisoners. Madam Temporary Speaker, it is important that we start creating jobs in Kenya whichever way we can to ensure that our youth get jobs. We are sitting on a time bomb because our youth are graduating from our universities and are unemployed, yet we are giving the few available jobs to the Chinese. We know that their cost of building roads is less than those of local contractors. This is only because they are not paying for labour. It is time we started thinking of our local contractors. Yes, we know that at some stage in time, they did not perform and they used to delay construction of roads. However, it is time we started thinking of our local contractors because there is nothing they lack. They have the right education, the machinery and everything else it takes to build roads. By now, they must have known that they can lose their jobs because of not being serious on their jobs. We should, therefore, embark on giving our people contracts and ensure that our youth are employed by the local contractors. Madam Temporary Speaker, theft by servant in China attracts a death sentence by hanging. Their law is such that those found guilty are to hang until they die. If they have such strict laws, why should we allow them to bring prisoners to Kenya to work in the construction of roads?"
     },
     {
-      "order": 246,
+      "order": 244,
       "id": "entry-812690",
       "label": "scene",
       "level": "2",
@@ -2955,7 +2931,7 @@
       "text": "(Sen. Mwangi Spoke off record)"
     },
     {
-      "order": 247,
+      "order": 245,
       "id": "entry-812691",
       "label": "speech",
       "level": "2",
@@ -2967,7 +2943,7 @@
       "text": "Sen. Sakaja, do you want to respond? You have one minute and then I will give directions."
     },
     {
-      "order": 248,
+      "order": 246,
       "id": "entry-812692",
       "label": "speech",
       "level": "2",
@@ -2979,7 +2955,7 @@
       "text": "Yes, Madam Temporary Speaker. I thank the Senators who have improved their areas of focus. If we look at our Constitution, Article 10 talks about the National Values and Principles, while Article 102(b) is about human dignity, equity, social justice, inclusiveness, equality, human rights, nondiscrimination and protection of the marginalised. Similarly, Article 27 of the Constitution talks about freedom from discrimination. Part 1 of Chapter 12 talks about the Principles and Framework of Public Finance, where Article 201 talks about the burdens and benefits of the use of resources shall be shared equitably between present and future generations. We will look at all those issues that the Senators have raised. Our bias is towards the labour issues. However, the local content question that has been raised by Sen. Mwangi Githiomi is important. We must protect Kenyan industries. We cannot have competition on contracts of even Kshs5 million or Kshs10 million. We will propose legislative interventions of a limit below which no foreign company should compete unless it is proven that a skill does not exist in this country. That way, we will protect our local businessmen and contractors. I feel that any business below Kshs1 billion should be left to Kenyan contractors to compete. If we have more than six companies shortlisted from China or Singapore yet Kenyans can do the same job, when will we grow our industries? Madam Temporary Speaker, we will look at all these issues and bring a report at the soonest opportunity hopefully before we go on recess. I thank you."
     },
     {
-      "order": 249,
+      "order": 247,
       "id": "entry-812695",
       "label": "speech",
       "level": "2",
@@ -2991,7 +2967,7 @@
       "text": "Hon. Senators, it is very clear that we have been dealing with a very weighty matter. I, therefore, direct that Sen. Sakaja and his Committee carry out a thorough and watertight investigation with all the facts that have been raised here and report back on this matter in two weeks' time. Hon. Senators, I am deferring Order No.s 10, 11 and 12 to the next sitting."
     },
     {
-      "order": 250,
+      "order": 248,
       "id": "entry-812696",
       "label": "heading",
       "level": "1",
@@ -3003,7 +2979,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 251,
+      "order": 249,
       "id": "entry-812697-split-before-159ba3c9-52dd-46ac-a35b-996a9444c8eb",
       "label": "heading",
       "level": "2",
@@ -3015,7 +2991,7 @@
       "text": "THE COUNTY BOUNDARIES BILL (SENATE BILLS NO.6 OF 2017)"
     },
     {
-      "order": 252,
+      "order": 250,
       "id": "entry-812697-split-selected-7945c2e5-3172-44fd-b8df-004ffc3a902e",
       "label": "heading",
       "level": "2",
@@ -3027,7 +3003,7 @@
       "text": "THE OFFICE OF THE COUNTY ATTORNEY BILL (SENATE BILLS NO.3 OF 2018) THE FOOD SECURITY BILL (SENATE BILLS NO.12 OF 2017)"
     },
     {
-      "order": 253,
+      "order": 251,
       "id": "entry-812698",
       "label": "scene",
       "level": "2",
@@ -3039,7 +3015,7 @@
       "text": "(Committee of the Whole Deferred)"
     },
     {
-      "order": 254,
+      "order": 252,
       "id": "entry-812699",
       "label": "speech",
       "level": "2",
@@ -3051,7 +3027,7 @@
       "text": "On a point of order Madam Temporary Speaker."
     },
     {
-      "order": 255,
+      "order": 253,
       "id": "entry-812700",
       "label": "speech",
       "level": "2",
@@ -3063,7 +3039,7 @@
       "text": "What is your point of order, Sen. Sakaja?"
     },
     {
-      "order": 256,
+      "order": 254,
       "id": "entry-812701",
       "label": "speech",
       "level": "2",
@@ -3075,7 +3051,7 @@
       "text": "Madam Temporary Speaker, on a purely procedural matter, I acknowledge that we have moved on to the use of technology in the House and that the Order Papers are on our iPads. I hope that the secretariat has noted that when they bring us a Supplementary Order Paper, it is not updated on the iPads, so we cannot follow. For instance, the matter that has been read out as Order No. 13 is Order No.12 and the County Boundaries Bill does not exist on the original Order Paper. I, therefore, ask that you direct that the Office of the Clerk of the Senate makes sure that if there is a Supplementary Paper, we all receive it in hardcopy or they update the version that is in our iPads. Otherwise we are not following the same thing."
     },
     {
-      "order": 257,
+      "order": 255,
       "id": "entry-812704",
       "label": "speech",
       "level": "2",
@@ -3087,7 +3063,7 @@
       "text": "Sen. Sakaja, have you looked at your Order Paper? I do not think that there is any change?"
     },
     {
-      "order": 258,
+      "order": 256,
       "id": "entry-812705",
       "label": "speech",
       "level": "2",
@@ -3099,7 +3075,7 @@
       "text": "Madam Temporary Speaker, pardon me, I will consult the technology."
     },
     {
-      "order": 259,
+      "order": 257,
       "id": "entry-812706",
       "label": "scene",
       "level": "2",
@@ -3111,7 +3087,7 @@
       "text": "(Laughter)"
     },
     {
-      "order": 260,
+      "order": 258,
       "id": "entry-812707",
       "label": "speech",
       "level": "2",
@@ -3123,7 +3099,7 @@
       "text": "Let us move on to the next Order."
     },
     {
-      "order": 261,
+      "order": 259,
       "id": "entry-812708",
       "label": "heading",
       "level": "1",
@@ -3135,7 +3111,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 262,
+      "order": 260,
       "id": "entry-812710",
       "label": "heading",
       "level": "3",
@@ -3147,7 +3123,7 @@
       "text": "THE RETIREMENT BENEFITS (DEPUTY PRESIDENT AND DESIGNATED STATE OFFICERS) (AMENDMENT) BILL (SENATE BILLS NO.2 OF 2018)"
     },
     {
-      "order": 263,
+      "order": 261,
       "id": "entry-812711-parenthesis-split-1-of-2",
       "label": "scene",
       "level": "3",
@@ -3159,7 +3135,7 @@
       "text": "(Sen. Olekina on 10.7.2018)"
     },
     {
-      "order": 264,
+      "order": 262,
       "id": "entry-812711-parenthesis-split-2-of-2",
       "label": "scene",
       "level": "3",
@@ -3171,7 +3147,7 @@
       "text": "(Resumption of Debate interrupted on 10.7.2018)"
     },
     {
-      "order": 265,
+      "order": 263,
       "id": "entry-812712",
       "label": "speech",
       "level": "3",
@@ -3183,7 +3159,7 @@
       "text": "Sen. (Dr.) Mwaura had a balance of 14 minutes. Please proceed."
     },
     {
-      "order": 266,
+      "order": 264,
       "id": "entry-812713",
       "label": "speech",
       "level": "3",
@@ -3195,7 +3171,7 @@
       "text": "Madam Temporary Speaker, the issue of retirement benefits for senior public officials is a matter that we need to canvas ably in this august House. Yesterday, as I was speaking, my main concern was the fact that there are so many commitments that public officials make for the benefit of this country. If these benefits are not seen as to ensure our country is able to run effectively and that these leaders end up being ridiculed by the kind of lives that they lead after they leave public office, then we are encouraging people to cling onto power. This is the reason why in most African governments, you will find people not willing to retire. Mr. Mo Ibrahim, the founder of Celtel has come up with a very innovative award scheme to ensure that the presidents who retire voluntarily are able to go home with dignity. We all saw what happened in Zimbabwe. The military had to come in for one President Robert Mugabe, to retire from public office. Madam Temporary Speaker, I do not want to belabor the point but a majority of our retiring parliamentarians live in abject poverty. These are people who have no future because they are unemployable. When you have led a very robust public life and now you are in the process that you cannot go back to be under somebody; maybe you are too big for that institution, it certainly means that you do not benefit from whatever economic activity that others would very willingly achieve. That is because you have the baggage of being a ' mheshimiwa. ' There is a lifestyle that you are expected to live. This Bill is very timely. It is totally unacceptable that if you have presidential ambitions in this country and you have been a long serving parliamentarian and you end up not getting the seat--- Currently some of the people who have done so are not even able to access their own pension. Suppose you have been here as a Member of Parliament (MP) for four terms and you are now running for presidency, you are supposed to access your pension as a parliamentarian. Madam Temporary Speaker, if the systems were working well, this Bill by Sen. Olekina could not even be there. However, as we know, in this country, we tend to politic a lot and take advantage of situations. That is exactly what has happened in this case. We have a situation where people who have served this country are now not seen as eligible for what is rightfully theirs. We may think that this issue is today affecting whoever would be our political nemesis, however, the truth of the matter as has been said by Masinde Muliro and others, if you have no ambition; you have no business being in politics. I do not know where we will find ourselves in some few years to come but we may find ourselves in the same predicament. You find the same in the law of contracts and labour laws, there is a procedure and precedence but because we have politicized public positions in this country, it appears as if when you become a politician, it is like you forfeit some of your rights. I say this without a fear of doubt that while it is true that there are people who live off politics and others who live for politics, a good number of people who find themselves in the public service actually volunteer themselves to ensure that there is a change in the society. For me, it is very important that we establish precedence so that it is not for conjecture or for somebody to decide. For the avoidance of doubt, when you have served as the Deputy President, Prime Minister and other similar positions, if we change the Constitution to bring back the position in future who knows, you should be given your dues as and when you have served. Madam Temporary Speaker, retirement benefits are not a salary. However, there is a misconception that retirement benefits amount to someone being maintained by the State. We have defined contribution and benefits. This is a defined benefit. We are losing a lot of money in corruption. We have just come from debating the Chinese contracts that are ending up with the behavior that we are seeing with the management of the Madaraka Express and the Standard Gauge Railway (SGR). Let us face it; it is easy to access loans from the Chinese Export/Import Bank at a higher rate of 35 per cent, which is less than the World Bank at three per cent because Chinese banks have kickbacks. So, people know that if you go and get a Chinese company, you are sorted. This is widening the gap between the haves and the have not's or the poor and the rich in this country. As Wilson Churchill said: \"To tax yourself into prosperity is like a man in a bucket waiting to lift the bucket using the handle.\" That is the challenge we are having. Madam Temporary Speaker, Sir, if you look at our analysis of the Budget, a good chunk of that money from the consolidated financial services is going to pay the wages of those people who have retired, at the same time, we have a huge reservoir of retirement money. I believe our Pension Fund in the whole country is now over Kshs1 trillion. These are monies that are lying idle that can be put into better use and, therefore, it is not lack of what we can do. We must not be seen to be depriving people who have put their lives to the fore or people who have actually committed to the development of a better Kenya just because of the prevailing political circumstances. I do not know whether Sen. Olekina will still bring the Bill, now that both sides of the political divide have closed the gap. You can see from that, people are having a sober debate and that is a contribution; you are able to forfeit your political ambitions and demands for the sake of this country. How better can we serve this country if we cannot reward or take care of those who fight for us? Kenya is very well known of forgetting its heroes and heroines. People who fought for the liberation of this country have lived in abject poverty. Those who get into power would want to laugh and feel more powerful when they see their nemesis or competitors suffering in the streets. So, when you are placed between the raw power on the post or the rule of the jungle and the marauding masses in the village that come to you every morning and all of a sudden you do not have, how do you survive? How do you survive as a retiring politician when you have given all your life to public good and yet you have no investments? You had even forfeited your monies to ensure that Kenyans benefit. Where does that live you? No wonder, when we are competing for political positions, it looks like a matter of life and death because if you get it, you survive. In fact, I remember one former parliamentarian told me: \"There are only three things that happen when you are running for public office - you either win, fair enough, die or become poor.\" That is the fate of individuals who commit themselves to public service. Madam Temporary Speaker, this Bill does not call for extravagant life after retirement where you live in opulence. That is not and should not be the case. It is just a way of ensuring that you facilitate the life of individuals who have committed to the public good; basically, having a house allowance or a small stipend or having one or two drivers and cooks. It is easy. Unfortunately, we have created our society in such a manner that you are used to other people doing everything for you, including opening the door for you and all of a sudden you are alone. Let me tell you: When people lose power - as I was saying yesterday - phone calls do not come through and those who are supposed to work around you have no time for you. You have lost your value; you are no longer as worthy. You need people to help you and at least to keep you going. That is the point. So, it is not a big cost for this country. I do not believe that we are going to have as many retiring Deputy Presidents and Prime Ministers in future. Obviously, these people who may come up every five to ten years unless we change our system. Madam Temporary Speaker, this is a culture that will ensure that somebody's security is guaranteed after they have served the country, hence someone will serve selflessly. However, the moment you serve knowing very well that you are going to live in abject poverty, is the reason we are seeing the primitive accumulation of wealth and the open theft of our public coffers. I would like to say without fear of doubt that there is a nexus between lack of retirement packages and corruption. This is because the election campaign financing is tasking and involving. Further, we must not encourage this idea where politics does not empower the people; what I call 'poverty producing politics.' We must have a paradigm shift where we have prosperity propelling politics. This is where when you serve the people. You do not look at the individual, but you look at what would accrue for the present and the future. Madam Temporary Speaker, we all know that we have twinned two things - ethnicity and politics. In fact, that also connects with our economy. If you look at the cost of our electioneering period, whatever grievances that arise thereof and the cost to the economy, it cannot be equated to the retirement benefits. Some of these agitations primarily emanate from lack of this very provisions. If you have already served in a position and you are thrown into the wilderness, will you not have grievances and you have people following you? You will mobilize them so that they can actually ask for your rights. That does not augur well for business or for the progress for this country. This is a very important moment of reckoning. We, as the legislators, certainly cannot legislate character. However, in the spirit of objectivity and nationhood, we must not also be blinded by personality politics. We must not say: \"Since this is benefitting so and so, I will oppose it.\" As leaders, we owe it to this country to rise above our own personal proclivities and become the statesmen that we are, so that we can speak not only to the present but also to the future this country. I am persuaded that we are going to pass this Bill and if it has any contestations whatsoever, we shall use the positive aspects of bicameralism to resolve whatever that would arise rather than just saying that: \"It is a money Bill that has emanated from the Senate and, therefore, it is not the purview of the Senate.\" Madam Temporary Speaker, the Senate has got the responsibility of impeaching the President, if that were to happen. Therefore, the Senate cannot be said not to be having the mandate to also speak to the welfare of retiring Deputy Presidents, Prime Ministers and whichever constitutional office. All of these have to come through this House even if an impeachment Motion emanates from the National Assembly. We have a duty because we are leaders who represent counties, people and interests. The best interest of the country can only be if we are able to secure the future of our leaders, not as an end in itself, but to mitigate the risk of our political process. Also, to mitigate the clinging on to power and to mitigate the corruption that is prevalent in our Ministries, departments and agencies and to ensure that we untie the aspect of making political judgments based on ethnicity and outcomes of political processes that would change as time goes by. I conclude by saying that Kenya is still a young country and we have many responsibilities ahead of us. We are still crafting and catching up with the world. When we sit in this August House, we must constantly reflect what it is that we can do to move this country forward. This is because there is so much negativity and evil that is happening and everybody is pulling to their direction. As we speak, there is too much corruption in this country---"
     },
     {
-      "order": 267,
+      "order": 265,
       "id": "entry-812720",
       "label": "speech",
       "level": "3",
@@ -3207,7 +3183,7 @@
       "text": "Your time is up. Proceed, Sen. Cherargei."
     },
     {
-      "order": 268,
+      "order": 266,
       "id": "entry-812721",
       "label": "speech",
       "level": "3",
@@ -3219,7 +3195,7 @@
       "text": "Thank you, Madam Temporary Speaker, for the opportunity to contribute to this Bill. Many of my colleagues have contributed to this Bill with a lot passion. When Sen. Mwaura was on the Floor, I could tell this Bill deserves seriousness. Madam Temporary Speaker, I thank the Senator of Narok County, my good friend, Sen. Olekina for well-thought out amendments to the Retirement Benefits (Deputy President and Designated State Officers) (Amendment) Bill (Senate Bill No. 2 of 2018). I agree leadership is a calling which needs sacrifice. It is more of a sacrifice to the people. It does not have personal benefit to a leader. Napoleon once said: \"Leaders are dealers of hope\". Therefore, we, as leaders, must inspire and give hope to our people so that we achieve our dream, as a nation. Madam Temporary Speaker, there are high expectations from people when they meet a retired Member of Parliament, councillor or anybody else who has served in a position of leadership. They asked what those people did with their life when they were leaders. That is what Sen. Mwaura said that it calls upon the people in leadership to try and aggrandize, steal and perpetuate corruption. This is because they know that after they fail to be elected again, they do not have an opportunity. It is hard for somebody who has been in politics or leadership to earn a living or to get a job. That is why we find that many leaders who did not make it in the last general election or those who have served this country with distinction, used their productive years to change the lives of Kenyans, are now languishing in poverty. Madam Temporary Speaker, we appreciate there are iPads in this Chamber. I can see Sen. Olekina is smiling because he might be tech savvy like many of us. I urge the leadership of Senate to update and make sure the internet being accessed here is faster because some of us rely more on online access. With your guidance, you should direct them to ensure the internet access in this Chamber is supersonic, so that we access reference material quickly. The issue of former councillors has been with us for the longest time possible. It is a pity to see them struggling to make their ends meet. They are currently referred to as County Assembly Members (MCAs). It is paining when one is invited to a fundraiser of a leader who cannot even support his family because he did not get re-elected. Madam Temporary Speaker, I want to appreciate the famous \"handshake\" although some of us have been very cautious about it. The former Prime Minister said he will give full disclosure of what the \"handshake\" was all about. It was between him and President Uhuru. If he has done so, it is okay. This is because there was a lot speculation. It was even said for the former Prime Minister and Vice-President to access their pension benefits, they had to become politically inactive. I know this Bill will generate a lot of interest. However, we are looking into the future. We do not know what will happen in future. Some people told me to support this Bill because nobody knows about the future. However, I am certain about the future because I know the fifth President will be Hon. William Samoei Ruto. My friend, Sen. Olekina, was trying to prepare a soft landing. I assure him the future is bright. Maybe in future and it is infinite, some of these issues will be put to rest. Let us avoid looting. We want to see other families. These are people who have a particular stature in the society. We need that when the former Prime Minister is invited to give a lecture in London, we should be able to facilitate his office. This should be the same for the Vice- Presidents and retired Presidents Moi and Kibaki. The office has the cooks, a gardener and few others. It is quite lean as has been provided. Of course, know that there are lots of challenges in the wage bill and many other issues that we have in this country. These are very important people. We look upon them for advice. Madam Temporary Speaker, the fight against corruption and lifestyle audit and any other will come to a conclusive end. This will be when somebody knows that after serving for many years as a leader in this country, the send-off package will make his or her family live comfortable."
     },
     {
-      "order": 269,
+      "order": 267,
       "id": "entry-812724",
       "label": "speech",
       "level": "3",
@@ -3231,7 +3207,7 @@
       "text": "Excuse me Senator, I really need some clearance between whoever is speaking and my Chair so that I concentrate. You can continue."
     },
     {
-      "order": 270,
+      "order": 268,
       "id": "entry-812725",
       "label": "speech",
       "level": "3",
@@ -3243,7 +3219,7 @@
       "text": "Thank you, Madam Temporary Speaker. I want to talk about the issues of corruption. I know some of us will run for governorship. My good friend from Narok County and many others will run for the governor seat. Sen. Sakaja is smiling; he might not be running for governor, but for president in future. If we know that you are a leader, but unfortunately, you do not get re-elected, you and your family must be comfortable. Recently the former Prime Minister was in India to take a message of goodwill from President Uhuru Kenyatta. It will be good to facilitate such leaders. Even in our county governments we would like to see serving governors assigning former governors, senators and others to represent them in various fora or level of administration. We need to facilitate and ensure that the human resources that we give them are people who can assist in management and execution of many other aspects. Madam Temporary Speaker, in as much as I congratulate my brother, let us include the former councillors and any former leader. They also even need medical cover. The other day I was invitedto do a fundraiser for a former Member of Parliament, I do not want to say where, his family could not even raise Kshs500,000 for hospital bill. He could not afford it after losing the seat. There is no medical cover. We should include medical insurance for the former leaders because they are still our leaders and need to be treated with dignity. We do not want to create hopeless leadership such that when somebody is elected, he knows that after losing the seat, he cannot have hope. He cannot even be hired despite the fact that he is held in high regard. We do not want to see our leadership being ridiculed that: \"Do you know this person? He was a former Senator or governor. Look at him now; he cannot even afford a bicycle.\" Madam Temporary Speaker, it even reaches a point where their spouses run away because they no longer provide. I know there are people who increase the number of spouses when they get elected. However, we know the first family remains with him, but others take off. We need to protect them so that \"team mafisi \" will not take advantage of the desperation of former leaders. Fourthly, apart from medical insurance and human resource, the other aspect is the issue of dignity. Let us not expose our leadership. I have an opinion on the issue of whether you should get retirement benefits either as the Deputy President or designated state officer. In future if they want to benefit from this, they should become politically inactive. However, when they become politically active again and are elected, the facilities can now stop. That is a better proposal. However, I am happy that the former Prime Minister said that people who have political ambitions for 2022 were locked out of the handshake. I hope that the people who will not be politically active will be locked out of this law. When my good friend, Sen. Githiomi, was elected as a Senator, his pension ceased to be paid. It is important that we become clear. It is illegal to earn from different sources. It is economically unjustifiable and immoral and we cannot allow it. I am happy with the aspect drawn from yesterday; that it is when you become politically inactive that you can benefit from this. This will enable us to avoid using public resources to undercut or sabotage an already elected leader. An example is the case where I am a former governor and have been given pension. I call upon my brother to consider lowering it. Even if some of us serve for three terms, we might not be entitled to pension. Many young people are now in leadership. In fact, there was a proposal to be paid pension after one term. The age should also be lowered slightly to below 40 years, so that even if you serve for two terms, you can still have an opportunity. Madam Temporary Speaker, I think we should also factor in former councilors, former Members of County Assembly (MCAs), former governors, former Senators and many other state officers. They should also access these facilities. We need to consider improving pension terms, because Kenyans are concerned that leaders are discussing only about their welfare. As a country, we should look at the pension that we pay our employees, be it retired teachers or police officers. There is a case of retired teachers who have not been paid their package up to today, yet they have worked tirelessly and given their best to the service of this country for many years. Madam Temporary Speaker, I hope that my Chair, Sen. Sakaja, is taking notes. In future, as we discuss pension terms and retirement benefits for the state officers, we also look at improving the pension of people who have served in the public service, be it retired chiefs and many others. Many people think that this is not economically viable, but it is. When you have served for long, you become an institution. At the end of the day, we need to assist these people to still give back to the society. I hope Sen. Ledama Olekina will consider this opinion. We should also see on how we can get back to the designated leadership. As we give them public resources, there should be a way we can find out on how they give back to the society. We can explore academic avenues on how they can come back as honorary lecturers to our universities and colleges. They can be part of inspiration for the young people and the future of this country. Madam Temporary Speaker, this Bill is timely. It factors in Former President Moi, President Kibaki, former Vice Presidents, Hon. Kalonzo Musyoka, Hon. Moody Awori and Hon. Musalia Mudavadi. It also factors in the former Prime Minister, Raila Odinga. Our beloved President, His Excellency Uhuru Kenyatta's time will come in 2022. After 2032, Hon. William Samoei Ruto will earn this benefit. Thank you, Madam Temporary Speaker and I support."
     },
     {
-      "order": 271,
+      "order": 269,
       "id": "entry-812728",
       "label": "speech",
       "level": "3",
@@ -3255,7 +3231,7 @@
       "text": "Proceed, Sen. (Dr.) Gertrude Musuruve."
     },
     {
-      "order": 272,
+      "order": 270,
       "id": "entry-812729",
       "label": "speech",
       "level": "3",
@@ -3267,7 +3243,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me an opportunity to add my voice to this important Bill. I feel humbled. This Bill will be used now and for very many other years, even after we will be out of active politics. The deliberations that this House is making concerning this Bill will affect the future leaders of this nation. The students who have been coming here many times to listen to our debates will find themselves here. This Bill will help them. It is a Bill will help this nation and ensure that we mentor leaders who have esteem. Once someone is a leader, that person will forever be a leader. When you are in leadership, you will be proactive to do what you are mandated to do. Even when you are not in leadership, you are still a leader, but just passive. When we look at the functions of the leaders of this nation, even constitutionally, they use a lot of their energy in terms of time to ensure that they deliver to the people of the Republic of Kenya. When you look at what the constitutional demands of the Deputy President, he cannot even have time for himself. He assists the President and has to be there when the President demands. In a situation where the President is incapacitated or is not in apposition to execute, the Deputy President has no otherwise. He has to perform because it is a constitutional mandate. This constitutional mandate has an impact, which is diverse. The impact is that he has to give himself selflessly to the Republic of Kenya. For him to perform, he has to give up his everything. In a situation where a Deputy President has performed for the purpose of his nation, there is need for him to be remembered when he retires. Remembering the Deputy President means that his family and people should not suffer because he is not serving anymore. When I talk of the Deputy President, I am referring to many of them in the making. The students who come here to listen to our debates are also Deputy Presidents in the making. This is a pronouncement we want to make that will help the future of this nation. Madam Temporary Speaker, there are situations where leaders of this country sacrificed their time and everything but, eventually, their families languish in poverty during their old age. I remember that at one point, there was the story of the widow of Dedan Kimathi. Who in this country does not know what Dedan Kimathi did? However, his widow and children were dying in poverty. It is time we remembered the people who worked for this nation and ensured that we do not embarrass them when they are old and their hair turns white. That is the time they need us to support them and tell them; \"Yes, you stood with this nation and we want to take care of you.\" Their health comes first and it should be maintained as it was before. They also need to have cooks and drivers, as they had before because they gave themselves selflessly to this country. Madam Temporary Speaker, while talking about this, I am looking at all the designated State Officers who have given positive contributions to this country, including the former Prime Minister. We had a Prime Minister whose contribution in this country is still very vivid. Even the handshake itself tells us of how important he is to this country and we cannot possibly ignore him in any way. Leaders who have led this country can act as consultants and advisors because they have a wealth of information and knowledge about policies that are important in this country. We cannot, therefore, possibly ignore them. Madam Temporary Speaker, I just want to remind this House that, contrary to popular opinion, the former Prime Minister was recently not sent to India. However, because of his commitment to the people and the fact that he has the interest of the people at heart, he took himself to India. He did not go to India because of himself, but he was trying to see how he can sort out the issue of cancer in this country. Many people have been dying of cancer and they are still dying of the disease, including our leaders. I am also a cancer survivor and I do not want to die because of this disease. Therefore, when the former Prime Minister went to India, he had a clear purpose, because he wanted to contribute to the welfare of this country. In doing so, he was helping to sort out one of the President's Big Four Agenda for this nation, which is Universal Health Coverage. We cannot, therefore, possibly ignore and assume leaders who have led this country. We have to look for a mechanism of ensuring that they continue giving us the noble information and ideas they have, because they have Solomonic wisdom for this country. Even in crisis management, the former Prime Minister comes in as the \"manager-in-chief\" in the political arena. Therefore, Madam Temporary Speaker, considering the commitment that leaders have had in this country, we should not eventually abuse them by not taking care of them. We will be judged harshly here on earth and even in Heaven as leaders if we do not hold our leaders' hands when they are aging. Madam Temporary Speaker, when talking about retirement benefits of these leaders, we need to support them and ensure that we are doing something to make sure that they are living their lives normally. We need to ensure that they do not get frustrated because they are no longer leaders. We should make them feel that they are appreciated. We should also appreciate the noble advice they give us as a nation. To add on to the issue of retirement benefits, I know that we also have many Kenyans who have worked hard for the Government. Upon retirement, they have to be given the benefits they deserve so that their lives do not go to the dogs, so that they do not cry or feel that the country does not remember them. Therefore, there is need to ensure that leaders and workers of this nation are given retirement benefits that will help them, so that when they look back, they will say: \"I am happy that I worked in this nation because I have been remembered by the people of this country.\" Madam Temporary Speaker, when it comes to children of leaders of this nation, sometimes you wonder if so-and-so is the daughter or son of the Prime Minister, President or Deputy President and so on. This should not be happening in Kenya. Upon retirement, their children should also benefit. In the event of - God forbid - one dying, their children should be given a meaningful package that will help them move on with their lives normally. I strongly support this Bill and hope that it sees the end of the tunnel."
     },
     {
-      "order": 273,
+      "order": 271,
       "id": "entry-812732",
       "label": "speech",
       "level": "3",
@@ -3279,7 +3255,7 @@
       "text": "That is very good. Sen. Sakaja, proceed."
     },
     {
-      "order": 274,
+      "order": 272,
       "id": "entry-812733-split-before-8fc34839-3b16-41a8-b0a3-f4e5562af3af",
       "label": "speech",
       "level": "3",
@@ -3291,7 +3267,7 @@
       "text": "Thank you for this opportunity to contribute to this debate on retirement benefits. This is really just an amendment to an already existing law that provides for the retirement benefits of the Deputy President and designated state officers which was passed in the last Parliament. If you remember the timing of this Bill and also look at the memorandum, the real motivation was to ensure that arbitrary decisions are not made at the whims of any individual in the Executive, in case they are made to somebody who might be of a different political persuasion at that time.I remember this is the time when the former Vice President, Hon. Kalonzo Musyoka and former Vice President, Hon. Musalia Mudavadi, had their security withdrawn. My colleague, Sen. Olekina and many Kenyans were not happy at that point. Of course, the security agencies might have had their reasons but we need to remember that these are people who have reached a certain stature in society. From the outset, I must say that I am always very uncomfortable when we discuss our benefits and those of our leaders - not necessarily at the expense of - but without remembering what the ordinary Kenyans are going thorough. I have asked Senators to pick up the Economic Survey of 2018. We are a country that is economically struggling. Many Kenyans do not even know what we mean when we talk about retirement benefits. Many of them are not beneficiaries of the National Security Fund (NSSF). Even in county governments, they are struggling to get their pensions. Many of them in different agencies, which I am dealing with as the Chairperson of the Committee on Labour and Social Welfare - whether it is the Kenya Railways Pension Scheme (KRPS) and many others, have not been able to access their meagre earnings. People have died chasing their pension monies. Madam Temporary Speaker, county governments have not been remitting contributions of their members to the Local Authorities Provident (Lap Fund) and the Local Authorities Pension Trust (Lap Trust) . I know my county of Nairobi City owes close to Kshs20 billion. At some point, I suggested that we should consider amending the County Allocation of Revenue Bill and do it as a conditional grant to these pension agencies, monies owed to them by counties and agree that in five years, we want to clear those debts. So, if Nakuru County owes Kshs5 billion, we will remove a Kshs1 billion every year and put it directly to the pension agencies. If Nairobi City County owes Kshs20 billion, we will remove Kshs2 billion every year. However, because pension is a right of anybody who has offered their service - whether in the private or public sector - it provides for them some safety net once they are beyond the economically active age which is around 60 in this country. That is, if you are not a judge or if you are not in any other high office but in the public service. It is for these reasons that we need to look at these issues holistically. We need to make sure that every Kenyan is able to access social welfare and the pensions that they deserve for the work that they have done and it should not just be about the elected leaders, former presidents and designated state officers. I heard Sen. Cherargei, who I have tremendous respect for, say that the retirement benefit should only be given to someone once they have retired from active politics. This is an argument that has been there even before. I do not think that anything is further from a solid misinterpretation of the Constitution as that assertion. I know that it has been previously said that it has been targeting the former Prime Minister, Rt. Hon. Raila Amolo Odinga, and I remember that when his pension was stopped in the last Parliament, I stood up and opposed that clamour. I do not agree with him politically and I am not in his party for I am a Member of the Jubilee family. I believe in the President, his Deputy and their agenda for this country but that does not mean that I stop looking at issues objectively. The Constitution in Article 38 provides what we call political rights. Article 38(1)says- \"Every citizen is free to make political choices, which includes the right-\n\n(a) to form, or participate in forming, a political party; (b) to participate in the activities of, or recruit members for, a\n\npolitical party; or (c) to campaign for a political party or cause.\" There is no subsidiary legislation or Act of Parliament that can contradict the Constitution and if any law or Act of Parliament contradicts the Constitution, then it is null and void to the extent of that contradiction. I told those of us who were opposing his presidential bid to deal with him politically other than using the law or his retirement funds, which were owed to him for he had been a Prime Minister and a Member. I told them not to try and gain any political mileage from that. In fact, if anything, it made us look small. I know that I got into trouble but I have an act of getting into trouble and I am not concerned by that. I stand by what is right and what is true. Give to Ceasar what is Ceasar's and give Musalia, Raila, Kalonzo, Ruto, Uhuru and Kibaki what belongs to them rightfully. I have also had questions on what happens to Members once they leave Parliament. We have heard people say that there are those who languish in poverty so we should get perks that will assist us yet I find that to be very irresponsible of us. Kenyans are out there doing their own work and when one gets elected, they should know that they have a five year contract which can be renewed or not. I got into Parliament when I was 28 years old and I am now eligible to a pension after this term though I cannot get it until I get to 45 years of age which will still be a wear out for in 2022, I will be 37 years old. That means that if I do not get re-elected, I have to wait. The law does not prohibit us from engaging in economic activities and business so long as it is not gainful employment for that is the only thing that we are prohibited from getting engaged in. People should not see public office as a method of self- enrichment. These are not permanent jobs, they are contracts that we get when people want us to serve them. It expires when they decide that they do not want us to serve them so they will send us home. In fact, we were having a discussion with some Members in the lounge, including Sen. Ndwiga, who has been in Parliament, out and back again and one of the Senators gave an analogy that being a politician is like being in a shop. He said that there is a time when a potential buyer will come and look through your shop then go to the next shop just to come in later after probably two days and buy something from you. At some point, Kenyans might say that they are tired of Sen. Sakaja or Sen. Olekina, thus they will not elect them in 2022 just for them to elect them in 2027 to a higher office. Therefore, let us not look at the positions that we hold whether you are an MCA, MP, Senator or a Governor, as a position of economic empowerment or self-enrichment. These are positions of service to the public, the nation and being able to leave a legacy behind; being able to leave a trail of things you have done whether it is legislatively or changing your community. It is means leaving a mark in this country because of what you stand for and not because of what you get in your pocket. There is no great leader in this world who is remembered because of what he earned. Leaders are remembers because of what they did when they were in public office. Madam Temporary Speaker, when this Bill came before my Committee on Labour and Social Welfare, we expressed certain reservations on a number of the sections and I am sure that will be dealt with later. That is Section 8 which states- \"Section 12 of the Principal Act is amended by- (a) Renumbering the existing provision as subsection (1); and, (b) Inserting the following new subsections immediately after subsection(1)- (2) Without prejudice to the generality of subsection(1), where an entitled person is entitled to provision of security, the entitled person shall be accorded the opportunity to select the officers to serve them. \" After that, there is the issue of the Inspector-General of Police adjusting security arrangements. There is a committee that is set up to review security arrangements for these public officers and also limiting saying that they shall have not less than six and not exceeding 10 armed security guards. Madam Temporary Speaker, we felt that this was a direct contravention of the Constitution. Article 245 of the Constitution, is clear that we cannot direct the Inspector- General of Police in terms of his operational work. It is the direction given to the Inspector-General of Police by the Cabinet Secretary when direction must be in writing. It talks about the issues of the Cabinet Secretary may lawfully give a direction with respect to any matter of policy, but no person may give a direction to the Inspector- General of Police with respect to investigation of any particular offence or offences, enforcement of the law against any particular person or persons or the employment assignment which is deployment giving them assignments, promotion, suspension or dismissal of any member of the National Police Service. I think because of that provision, then we suggest that during the Committee stage the good Senator for Narok shall consider either sponsoring amendments as the Mover or allowing somebody else of the Committee to deal with that issue. We know the mischief he was trying to cure; that mischief still needs to be cured. It is the same mischief that got me in trouble when I went to deal with the situation in a police station where a Member of Parliament was unlawfully held for a case that someone can be bailed out. It was a situation whereby those of us who are at a certain point in power feel that we can use the police service to settle scores. For instance, a governor is accused of corruption, instead of taking him to court properly you want him to appear hand-cuffed and to sleep in a cell unnecessarily. Yet when Patel who owns Solai Dam that has killed 47 people is taken to court, he sauntered in with security and is walking with his hands in his pockets. You do that because you want to humiliate the governor. If Sen. Ledama does wrong and I am here as a police officer, I will not arrest him today because today is Wednesday. I will wait for Friday so that I arrest him, so that he sleeps in a cell from Friday, comes out on Monday, goes to court and he is given bail. Let us not misuse the police because today you are in power, tomorrow you are not. Somebody like Sen. Beth Mugo knows; she has been in both the Government and the Opposition. These things change; we say Vindu Vichenjanga . So, we should make laws assuming that it is your worst enemy who will be implementing those laws; because that might be the case. Do not make laws assuming that you will always be the one who will implement them because what is good for the goose is also good for the gander. Madam Temporary Speaker, I support the amendments brought here. I would wish to ask that we, as leaders, have a slight paradigm shift when it comes to issues of our own remuneration and how we address issues of the common Kenyan. Let us accord leaders respect from whichever political parties they may be from even if we do not agree with them politically because you must be led for you to lead and one day you might be the ones occupying those offices. Tomorrow, Sen. Ledama might be the Deputy President or Sen. Mugo; it could be anyone; it could be me. Let us lead a country of equity, where everybody feels that no matter where you are from or what your political persuasion or religion is, you are a Kenyan. Therefore, the Senate and National Assembly of the Republic of Kenya should legislate for Kenyans first and not for ourselves. Madam Temporary Speaker, I beg to support and hope that Sen. Olekina will be kind enough to allow us to adjust the offensive clauses in this Bill."
     },
     {
-      "order": 275,
+      "order": 273,
       "id": "entry-812742",
       "label": "speech",
       "level": "3",
@@ -3303,7 +3279,7 @@
       "text": "We have Sen. Seneta in line to contribute and three minutes left to adjourn. You can start and then continue in the next sitting."
     },
     {
-      "order": 276,
+      "order": 274,
       "id": "entry-812743",
       "label": "speech",
       "level": "3",
@@ -3315,7 +3291,7 @@
       "text": "Madam Temporary Speaker, thank you for giving me a chance to contribute to this very important amendment Bill. From the outset, I want to congratulate Sen. Olekina for thinking about the people who have given service to us, as a country. When talking about people who have served this country, either as Presidents or state officers, we should think about individuals. We should think about the fact that, at one time, you might be the one being talked about. When discussing the retirement benefits for the former President, Vice Presidents and State officers, we should think about the people who have served in this country. These are people who have given a lot of their time, commitment, energy and family resources to serve this country. When you are President, Deputy President or state officer you give all that you can to the country. Therefore, there is need for this House and the country to appreciate you when you are out of service. Also, there is need to ensure that there are policies and laws that are friendly even after someone leaves office. It saddens me when I come across people who served our country, like the former councilors, mayors, Senators and Member of Parliaments and are not in good health and their children are struggling. It is very sad that their children are suffering, yet they served this country and people well. Therefore, this Bill seeks to promote or preserve the dignity of the people who have given all they could to the country. It is a very good Bill, just like we shall talk about---"
     },
     {
-      "order": 277,
+      "order": 275,
       "id": "entry-812744",
       "label": "speech",
       "level": "3",
@@ -3327,7 +3303,7 @@
       "text": "Hon. Senator, I am sorry to interrupt you. You will have a balance of 16minutes next time the Bill is listed for debate."
     },
     {
-      "order": 278,
+      "order": 276,
       "id": "entry-812745-speaker_title-uppercase-heading",
       "label": "heading",
       "level": "1",
@@ -3339,7 +3315,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 279,
+      "order": 277,
       "id": "entry-812745",
       "label": "speech",
       "level": "1",

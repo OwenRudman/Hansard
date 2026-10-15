@@ -1,6 +1,6 @@
 {
   "source_url": "https://info.mzalendo.com/hansard/sitting/senate/2019-11-26-14-30-00",
-  "exported_at": "2026-10-05T08:05:42.547Z",
+  "exported_at": "2026-10-15T19:30:09.937Z",
   "entries": [
     {
       "order": 1,
@@ -765,7 +765,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "As hon. Senators. Period!"
@@ -1629,7 +1629,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Sen. Kinyua, proceed."
@@ -1785,7 +1785,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Sen. Farhiya, proceed."
@@ -2073,7 +2073,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Finally, I also want to bring to our attention that, although I am cognizant that some of the observations made by some of the colleagues are valid, these observations are to the effect that the train has already left the station and, therefore, the Report is now beyond the Committee and that it should, therefore, come here and face its fate, one way or the other---"
@@ -2829,7 +2829,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "Proceed, Sen. M. Kajwang'."
@@ -2865,7 +2865,7 @@
       "level": "2",
       "cutout": false,
       "original_label": "",
-      "speaker": "",
+      "speaker": "(Sen. (Prof.) Kindiki)",
       "speaker_title": "The Deputy Speaker",
       "reviewed": true,
       "text": "enough for one committee to flag the issue. We need to move further and have some collaborative engagement to ensure that a legislative proposal is initiated as soon as possible. Proceed, Sen. Cheruiyot; you have two minutes."
@@ -3132,22 +3132,10 @@
       "speaker": "",
       "speaker_title": "",
       "reviewed": true,
-      "text": "THE ALTERNATIVE DISPUTE RESOLUTION BILL"
+      "text": "THE ALTERNATIVE DISPUTE RESOLUTION BILL\n\n(SENATE BILLS NO.19 OF 2019)"
     },
     {
       "order": 262,
-      "id": "entry-932611",
-      "label": "scene",
-      "level": "3",
-      "cutout": false,
-      "original_label": "",
-      "speaker": "",
-      "speaker_title": "",
-      "reviewed": true,
-      "text": "(SENATE BILLS NO.19 OF 2019)"
-    },
-    {
-      "order": 263,
       "id": "entry-932612",
       "label": "scene",
       "level": "3",
@@ -3159,7 +3147,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 264,
+      "order": 263,
       "id": "entry-932613",
       "label": "speech",
       "level": "3",
@@ -3171,7 +3159,7 @@
       "text": "I would request that we go to Order No.12, because there is a point of order that Sen. Olekina would like to process. Next Order."
     },
     {
-      "order": 265,
+      "order": 264,
       "id": "entry-932614",
       "label": "heading",
       "level": "1",
@@ -3183,7 +3171,7 @@
       "text": "BILL"
     },
     {
-      "order": 266,
+      "order": 265,
       "id": "entry-932615",
       "label": "heading",
       "level": "1",
@@ -3195,7 +3183,7 @@
       "text": "COMMITTEE OF THE WHOLE"
     },
     {
-      "order": 267,
+      "order": 266,
       "id": "entry-932616",
       "label": "heading",
       "level": "2",
@@ -3207,7 +3195,7 @@
       "text": "THE ELECTION LAWS (AMENDMENT) BILL (SENATE BILLS NO.33 OF 2018)"
     },
     {
-      "order": 268,
+      "order": 267,
       "id": "entry-932617",
       "label": "speech",
       "level": "2",
@@ -3219,7 +3207,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. On Order No.12, the Election Laws (Amendment) Bill (Senate Bills No. 33 of 2018), I would like to seek that the matter be held for some time. I am still seeking certain directions, and will later on give the way forward."
     },
     {
-      "order": 269,
+      "order": 268,
       "id": "entry-932618",
       "label": "speech",
       "level": "2",
@@ -3231,7 +3219,7 @@
       "text": "It is so ordered."
     },
     {
-      "order": 270,
+      "order": 269,
       "id": "entry-932619",
       "label": "scene",
       "level": "2",
@@ -3243,7 +3231,7 @@
       "text": "(Committee of the Whole deferred)"
     },
     {
-      "order": 271,
+      "order": 270,
       "id": "entry-932620",
       "label": "speech",
       "level": "2",
@@ -3255,7 +3243,7 @@
       "text": "Next Order."
     },
     {
-      "order": 272,
+      "order": 271,
       "id": "entry-932621",
       "label": "heading",
       "level": "1",
@@ -3267,7 +3255,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 273,
+      "order": 272,
       "id": "entry-932623",
       "label": "heading",
       "level": "3",
@@ -3279,7 +3267,7 @@
       "text": "THE KENYAN SIGN LANGUAGE BILL (SENATE BILLS NO. 15 OF 2019)"
     },
     {
-      "order": 274,
+      "order": 273,
       "id": "entry-932624",
       "label": "scene",
       "level": "3",
@@ -3291,7 +3279,7 @@
       "text": "(Sen. (Dr.) Musuruve on 20.11.2018)"
     },
     {
-      "order": 275,
+      "order": 274,
       "id": "entry-932625",
       "label": "scene",
       "level": "3",
@@ -3303,7 +3291,7 @@
       "text": "(Resumption of Debate interrupted on 20.11.2019)"
     },
     {
-      "order": 276,
+      "order": 275,
       "id": "entry-932626",
       "label": "speech",
       "level": "3",
@@ -3315,7 +3303,7 @@
       "text": "I do not see any interest. Can the Mover reply? The Mover is not here and there is no specific request for the Mover to reply. I direct that the matter proceed to division when the Senate Business Committee so directs."
     },
     {
-      "order": 277,
+      "order": 276,
       "id": "entry-932627",
       "label": "scene",
       "level": "3",
@@ -3327,7 +3315,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 278,
+      "order": 277,
       "id": "entry-932628",
       "label": "speech",
       "level": "3",
@@ -3339,7 +3327,7 @@
       "text": "Next Order."
     },
     {
-      "order": 279,
+      "order": 278,
       "id": "entry-932630",
       "label": "heading",
       "level": "1",
@@ -3351,7 +3339,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 280,
+      "order": 279,
       "id": "entry-932632",
       "label": "heading",
       "level": "3",
@@ -3363,7 +3351,7 @@
       "text": "THE COUNTY LICENSING (UNIFORM PROCEDURE) BILL (SENATE BILLS NO. 17 OF 2019)"
     },
     {
-      "order": 281,
+      "order": 280,
       "id": "entry-932633",
       "label": "scene",
       "level": "3",
@@ -3375,7 +3363,7 @@
       "text": "(Sen. Chebeni on 21.11.2018)"
     },
     {
-      "order": 282,
+      "order": 281,
       "id": "entry-932634",
       "label": "scene",
       "level": "3",
@@ -3387,7 +3375,7 @@
       "text": "(Resumption of Debate interrupted on 21.11.2019)"
     },
     {
-      "order": 283,
+      "order": 282,
       "id": "entry-932635",
       "label": "speech",
       "level": "3",
@@ -3399,7 +3387,7 @@
       "text": "I do not see any interest. I, therefore, direct accordingly. I cannot see the Mover. The Bill will be placed for division when the Senate Business Committee so directs."
     },
     {
-      "order": 284,
+      "order": 283,
       "id": "entry-932636",
       "label": "scene",
       "level": "3",
@@ -3411,7 +3399,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 285,
+      "order": 284,
       "id": "entry-932637",
       "label": "speech",
       "level": "3",
@@ -3423,7 +3411,7 @@
       "text": "Next Order."
     },
     {
-      "order": 286,
+      "order": 285,
       "id": "entry-932638",
       "label": "heading",
       "level": "1",
@@ -3435,7 +3423,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 287,
+      "order": 286,
       "id": "entry-932640",
       "label": "heading",
       "level": "3",
@@ -3447,7 +3435,7 @@
       "text": "THE STATUTE LAW (MISCELLANEOUS AMENDMENTS) (NO. 2) BILL (NATIONAL ASSEMBLY BILLS NO. 13 OF 2018)"
     },
     {
-      "order": 288,
+      "order": 287,
       "id": "entry-932641",
       "label": "speech",
       "level": "3",
@@ -3459,7 +3447,7 @@
       "text": "I cannot see the Senate Majority Leader. This Bill is deferred."
     },
     {
-      "order": 289,
+      "order": 288,
       "id": "entry-932642",
       "label": "scene",
       "level": "3",
@@ -3471,7 +3459,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 290,
+      "order": 289,
       "id": "entry-932643",
       "label": "speech",
       "level": "3",
@@ -3483,7 +3471,7 @@
       "text": "Next Order."
     },
     {
-      "order": 291,
+      "order": 290,
       "id": "entry-932644",
       "label": "heading",
       "level": "1",
@@ -3495,7 +3483,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 292,
+      "order": 291,
       "id": "entry-932646",
       "label": "heading",
       "level": "3",
@@ -3507,7 +3495,7 @@
       "text": "THE INDEPENDENT ELECTORAL AND BOUNDARIES COMMISSION (AMENDMENT) (NO. 3) BILL (NATIONAL ASSEMBLY BILLS NO. 35 OF 2019)"
     },
     {
-      "order": 293,
+      "order": 292,
       "id": "entry-932647",
       "label": "speech",
       "level": "3",
@@ -3519,7 +3507,7 @@
       "text": "I cannot see the Senate Majority Leader or his representative. This Bill is deferred."
     },
     {
-      "order": 294,
+      "order": 293,
       "id": "entry-932649",
       "label": "scene",
       "level": "3",
@@ -3531,7 +3519,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 295,
+      "order": 294,
       "id": "entry-932650",
       "label": "speech",
       "level": "3",
@@ -3543,7 +3531,7 @@
       "text": "Next Order."
     },
     {
-      "order": 296,
+      "order": 295,
       "id": "entry-932651",
       "label": "heading",
       "level": "1",
@@ -3555,7 +3543,7 @@
       "text": "BILL\nSecond Reading"
     },
     {
-      "order": 297,
+      "order": 296,
       "id": "entry-932653",
       "label": "heading",
       "level": "3",
@@ -3567,7 +3555,7 @@
       "text": "THE ELECTION (AMENDMENT) BILL (SENATE BILLS NO. 18 OF 2019)"
     },
     {
-      "order": 298,
+      "order": 297,
       "id": "entry-932654",
       "label": "speech",
       "level": "3",
@@ -3579,7 +3567,7 @@
       "text": "Sen. (Eng.) Maina is not here. This Bill is also deferred."
     },
     {
-      "order": 299,
+      "order": 298,
       "id": "entry-932655",
       "label": "scene",
       "level": "3",
@@ -3591,7 +3579,7 @@
       "text": "(Bill deferred)"
     },
     {
-      "order": 300,
+      "order": 299,
       "id": "entry-932656",
       "label": "speech",
       "level": "3",
@@ -3603,7 +3591,7 @@
       "text": "Next time, if the Speaker defers an item whose Sponsor has not approached the Chair to explain themselves, there will be consequences. Next Order."
     },
     {
-      "order": 301,
+      "order": 300,
       "id": "entry-932657",
       "label": "heading",
       "level": "1",
@@ -3615,7 +3603,7 @@
       "text": "MOTION"
     },
     {
-      "order": 302,
+      "order": 301,
       "id": "entry-932658",
       "label": "heading",
       "level": "3",
@@ -3627,7 +3615,7 @@
       "text": "ADOPTION OF CPAIC REPORT ON INQUIRY INTO FINANCIAL OPERATIONS OF VARIOUS COUNTY EXECUTIVES FOR FY 2013/2014"
     },
     {
-      "order": 303,
+      "order": 302,
       "id": "entry-932659",
       "label": "speech",
       "level": "3",
@@ -3639,7 +3627,7 @@
       "text": "Mr. Deputy Speaker, Sir, I beg to move the following Motion- THAT, the Senate adopts the Report of the Sessional Committee on County Public Accounts and Investments on the inquiry into the Financial Operations of Kiambu, Busia, Kwale, Tana River, Trans Nzoia, Nyandarua, Migori, Kisumu, Samburu, Kericho, Bomet, Bungoma, Garissa, Isiolo, Kitui, Lamu, Makueni, Mandera, Marsabit, Meru, Mombasa, Nyamira, Taita Taveta, Uasin Gishu, Vihiga and Wajir County Executives for the Financial Year 2013/2014 (1st July, 2013-30th June, 2014), laid on the Table of the Senate on Thursday, 21st November, 2019. Mr. Deputy Speaker, Sir, if you look at the list of counties whose reports were presented today, you will notice that 15 out of the 26 counties have had new chief executives since then. You will also notice that this report covers the Financial Year (FY) 2013/2014. This House has previously pronounced itself that the Committee on County Public Accounts and Investments (CPAIC) needs to be more up to date. I wish to report to the House that the reports that we are discussing today will bring to 63 the reports that CPAIC has laid before the House. Of the 63, seven reports were adopted in the last Session, 10 reports have been adopted in this Session, 20 reports are on the Order Paper awaiting division, and 26 reports are the subject of today's Motion. It would then be expected that for the two FYs 2013/2014 and 2014/2015, we would lay on the table of the House 94 reports. I can account for the remaining 21 reports. The pending 20 reports have been written and are awaiting adoption. They were part of a retreat that CPAIC took about three weeks ago. It is our expectation that by the end of this session, CPAIC will have closed the chapter for the first two financial years of devolution. It must also go on record that the first Senate did a lot of good work in terms of defining the space, mandate, job description of CPAIC and affirming the oversight role of the Senate, particularly on financial operations of counties. Unfortunately, we were unable to adopt a single report in the last Senate. We now have 63 reports before the House, and 20 reports that are at different stages of report writing and adoption. We hope to focus on much more recent financial years when we start the new Session. A few issues have been raised in the reports that are before us, and I am aware that we will be discussing a matter of national importance at 5.00 p.m. Therefore, you will allow me to be very brief in my observations. These reports are focusing on the FY 2013/2014, hence some of the things might have been overtaken by events. This House has adopted the Fiduciary Risks Report, which summarizes all these issues as from 2013 to 2015. These reports speak of illegalities, breaches of the Constitution and violation of various statutes. Some of them are a violation of the Intergovernmental Relations Act, where county governments continue to make payments to the Council of Governors (CoGs), which is then used to take the Senate and other Government agencies to court. These are the illegalities that we have clearly pointed out. However, that is a small thing compared to the other illegalities that we have seen, in terms of breaches of the Public Procurement and Disposal Act and the Public Finance Management Act. For every illegality, we have made recommendations that investigations should be undertaken with a view of prosecuting those found culpable. We are very cognizant that the Senate, in itself, cannot render verdict or jail somebody. That then goes to the expectation that many people have had around our work as CPAIC. There have been questions like: \"Why is so and so still walking around free, when the Auditor-General has said that they embezzled public funds?\" We have been guided by this House and I do recall a Report that I brought to this House, and the House reminded my Committee that it is not the place of Parliament to render verdict on someone's culpability or guilt. We were told that it has to be established through investigation and subsequent prosecution. These reports have a cocktail of stories of theft, corruption and rampant plunder. Some of my Members, particularly those who are endowed as a result of drinking too much milk and meat, like Sen. Olekina, have always thought that we need to deal with the governors there and then. That is because of the annoyance and bewilderment that comes when we see the colossal amounts of money that the Auditor-General says has been misapplied. In this particular financial year, there is a matter that will, unfortunately, have to go back to the National Assembly. The Transition Authority (TA) gave a conditional grant to county governments for refurbishment and establishment of county government offices, executives and assemblies. The money was an average of Kshs70 million per county. In that year, none of the counties were able to account for that money. They instead said that they would account for it through the TA. When we asked that question, we were told that a report on the audit of the TA would be laid before the National Assembly. Just imagine how much Kshs.70 million across 47 counties could have done to help the people of our counties. Therefore, we have flagged out such cases of corruption and theft Subsequently, we have been saying that the governor is a Chief Executive Officer (CEO) of the county entity. Our understanding is that the CEO is also the chief accounting officer. If you are the CEO, you are also the chief accounting officer. You cannot run away and say that it is the Chief Officer for Lands who is responsible of some junior persons. We are holding the CEOs and the governors jointly responsible, and we are subjecting them to investigation and prosecution. We have seen many cases of inefficiency and cases of fiscal imprudence, particularly on issues of employment costs. Many counties are running employment costs above 40 per cent, and the governors do not have what I call the 'balls' to deal with that particular matter. We have seen operations take up more than 30 percent of county governments' allocation; we have seen county assemblies taking almost 15 per cent of county revenues in certain counties. Those are cases of fiscal imprudence, where we have made some prudential recommendations. We have seen cases of ineptitude, particularly decisions around projects, where some projects like one of the Reports that has been adopted previously in my County of Homa Bay, where the County Executive was distributing electric chicken hatcheries to areas that have never seen electricity. Those are poor decisions in which we end up losing millions of shillings. We have also made recommendations on that. On book keeping, I agree with one of the distinguished Senators who talked of coming up with a minimum certification or minimum qualification standards for chief officers of finance. The PFM Act has been interpreted in a problematic manner. In the PFM Act, the county treasury is established. The members of that county treasury are identified as the County Executive Committee (CEC) Member in charge of Finance, and several other people. The Act says that the CEC in charge of Finance shall be the head of treasury. In the reporting standards, there is a requirement that the head of treasury should be a member of a professional body. Indeed, there is a requirement that the professional membership number be appended to the financial statements. Unfortunately, county chief executives have interpreted the role of a CEC to be a political appointee. We had a case - it must have been in Wajir County - where we were told that the CEC Finance was a physiotherapist. There is nothing wrong with being a physiotherapist, but round pegs should be put in round holes, and not in square holes. There is a county where the chief officer for finance was an ECDE teacher. There is nothing wrong with being and ECDE teacher, but an ECDE teacher would offer more value in the ECDs and education department rather than in finance. Therefore, I agree with the suggestion by the Senator that we need to amend the law and prescribe minimum qualification standards for people who manage books at the county government levels. There are also cases where the national Government is frustrating county governments. None of the cases speak to it more than the current inquiry that is going on with regard to the Managed Equipment Scheme (MES). Once again, even though this is a matter that has occurred outside the duration that we are discussing, it has been brought to the attention of my Committee, though informally, that the national Government seeks to take away the Universal Health Care (UHC) Programme from counties. The national Government is attempting to recentralize health care and health service provision by allocating a very huge budget for the UHC, managing it from Nairobi, where the principal of subsidiarity would have demanded that it would be better managed at the county government level. The other case that has been there since 2013 is the issue of the Integrated Financial Management Information System (IFMIS). We had a meeting with the Director of IFMIS and chairs of public accounts committees. The Director of IFMIS said that IFMIS works 99.9 per cent, and he was almost lynched. It was a sense of déjà vu, because I have also gone through such an experience in the hands of our honourable MCAs. However, it was because the report that the National Treasury was giving was inconsistent with the reality on the ground. The IFMIS continues to be a problem, interfering with operations of county governments. Another issue is that of late disbursement of funds to county governments. From an accounting perspective, the cash basis accounting that county governments use; if money is received on the 1st of July, then that money is for the new financial year. However, the National Treasury sends money, not to counties, and then demands that counties account for that money in the previous financial year. That causes serious problems and almost every county in this Republic opens the year with a surplus. In some cases, the surplus is close to 20 to 25 per cent of their total revenues. The surplus paints the picture that county governments have got money, they have got cash in banks as cash, and cash equivalents, and yet they still have pending bills. The culprit in that particular case is the National Treasury, which released money after the end of the financial year. Mr. Temporary Speaker, Sir, there are other issues of political concern, like the transfer of assets and liabilities from the defunct local authorities, seven years, going to eight years down the line. Counties have identified their assets, but the process of transfer of assets and liabilities has not been effected. Our concern is that in the process, unscrupulous persons would be appropriating and allocating to themselves some of the assets of defunct local authorities. At the same time, unscrupulous persons would be entering liabilities into the books of county governments which do not exist. Mr. Temporary Speaker, Sir, the Senate needs to provide leadership on this, because all the bodies that we have talked about do not seem to have any idea on how to unlock this. Everyone is blaming the TA. Even the members of Intergovernmental Budget and Economic Committee (IBEC) are blaming the TA, which folded almost four years ago. It is probably time that the Senate, through a Motion, would revive this matter so that it is brought to a close. The issue of pending bills started immediately upon the advent of devolution. Counties like Nairobi started with billions of shillings in pending bills. This is because they started with a Kshs5 billion bank loan and overdraft facility which today, eight years down the line, has not moved from the original Kshs5 billion. All the money that we collect at Gikomba Market goes into servicing a loan that was taken to pay salaries, even before the advent of devolution. It is a ridiculous situation to have a Kshs5 billion loan. At some point, when we looked at the rate of interest on that loan, it was at 24 per cent, even in the era of interest rate controls. That is because the bank said that 14 per cent is the interest, and 10 per cent is a penal interest. You can imagine the Nairobi City County paying a quarter of Kshs5 billion every year to a bank or to a financial institution. We again need to provide leadership on this matter, so that we can free the people of Nairobi. Finally, is the issue of human resources. I had earlier on talked about the capacity assessment and rationalization programme that was initiated somewhere along the line. This was to ensure that for the staff who were amalgamated from the defunct local authorities, there can be clear job evaluation, job descriptions and so that we can weed out unnecessary staff. It is disappointing that the National Treasury, the Ministry of Devolution and ASALs, the Salaries and Remuneration Committee (SRC), and all those other bodies have chosen to organize a National Wage Bill Conference without any reference or invitation to the Senate. I will be finding out from the Clerk if, indeed, there was any invitation, because I believe that the Senate has developed some very deep expertise on issues of the wage bill and on employee matters across the 47 counties. It would be useful if the Senate was part of that conversation, so that we can come back and implement the necessary policies, regulations and legislation. Mr. Deputy Speaker, Sir, I beg to move that the Senate adopts these 26 Reports. I will ask Sen. Kibiru to second."
     },
     {
-      "order": 304,
+      "order": 303,
       "id": "entry-932664",
       "label": "speech",
       "level": "3",
@@ -3651,7 +3639,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I rise to second the Motion. Indeed, the Committee has looked at a number of issues. We are sharper than when we started, and I want to commend the Chairperson for leading the team well. This is one Committee where we keep time so that we can be accountable. We have agreed in the Committee---"
     },
     {
-      "order": 305,
+      "order": 304,
       "id": "entry-932665",
       "label": "speech",
       "level": "3",
@@ -3663,7 +3651,7 @@
       "text": "Order, Sen. Kibiru! Are there committees that do not keep time? You know they say that to name one is to exclude others."
     },
     {
-      "order": 306,
+      "order": 305,
       "id": "entry-932666",
       "label": "speech",
       "level": "3",
@@ -3675,7 +3663,7 @@
       "text": "Mr. Deputy Speaker Sir, I am just trying to say that we need to keep time, because it is a valuable resource."
     },
     {
-      "order": 307,
+      "order": 306,
       "id": "entry-932667",
       "label": "scene",
       "level": "3",
@@ -3687,7 +3675,7 @@
       "text": "(Sen. Wamatangi withdrew from the Chamber)"
     },
     {
-      "order": 308,
+      "order": 307,
       "id": "entry-932669",
       "label": "speech",
       "level": "3",
@@ -3699,7 +3687,7 @@
       "text": "Mr. Deputy Speaker, Sir, Sen. Wamatangi has just walked out, instead of keeping time and waiting to listen to this Motion. Moving forward, as a country, let us agree that we need to be accountable. Accountability starts from the resources that we get. When we talk about counties, I like giving an example about organizations and the corporate world, where as the management, you are given what we call in accounting the \"Agency Theory.\" Shareholders give you the mandate, as the board and the management, to run the affairs of the organization. You are then to report at the end of the financial year through the audited accounts and, for that matter, the audited financial statements. The same applies to the counties. When we elected governors, and the leadership at the national level took over, they got into a social contract with the people, who gave them that mandate. When one is given a contract, they need to respect it. One way of doing so is by accounting for every penny that is given. Over the period I have been in that Committee, many governors have come there and behaved as if they were shocked. It is as if these are new things to them. In Uasin Gishu County, when we told the Governor that he borrowed without consulting the National Assembly and the National Treasury, he got shocked that he was borrowing to buy equipment without consulting. Mr. Deputy Speaker Sir, we need to amend the Public Finance Management (PFM) Act or one of the Acts, so that whoever is governor--- This is something that we can do as a sandwich course, and probably pass legislation that we need to retrain governors, who are the CEOs of the counties, so that they can take the issues of governance seriously. We have seen governors who told us that they have risky framework and policies, and yet when you ask them what that entails, you see them whispering to their staff and asking them what that means. Probably, we did uplift our governors to a level of incompetence. This is because by the time one takes a job, they need to know what the job entails. I am more often disappointed when you see a governor who does not even understand the audit process. In a nutshell, Mr. Deputy Speaker Sir, I am saying that we have been morticians. We are talking about the FY2013/2014. We have complained of being morticians, but as a Committee and as the Chairperson has said, we have tried to expedite some of the work. We are dealing with issues that passed. Unfortunately, the governors who did this probably did not know that some of the issues that we have debated today and the recommendations that we have made will be executed during this time. They probably said, like it has happened before in this country, that some of the audit issues will come in another decade, but here we are. All that we are saying is that some of the measures that have been recommended by the Committee need to be executed. Like I mentioned earlier, the Committee invited liaison officers from the EACC, the DCI and the DPP. This was so that when we make recommendations, the multiagencies can pick the issues and prosecute them as and when the recommendations are made. Having said that, I want to come back to the issue of the health sector. The other day, I saw a newspaper article saying, \"The dying Level 4 Hospital in West Pokot.\" Unfortunately, that is where we have this calamity, and the issue will be debated shortly. The Level 4 hospital was described as a \"dying\" hospital. I want to hear of one county, other than Machakos, where health institutions are actually giving the services that are deserved. I believe that it is not an issue of public relations. Every day, the news is full of health institutions that are not working. As much as we say that health is a devolved function, I repeat that we need a marshal plan. We need to come together, as a nation, and ask ourselves what the cause of these problems is. At one time, the nurses are on strike; the next time it is the paramedics or the doctors; and at another time, the MES programme is not working. In Kirinyaga County, for example, which has 52 doctors, half of them have been in school for the last two years, yet we continue paying them. These are some of the recommendations that, as the Committee of the Senate, has made. In some of the reports, we need to ask ourselves what it is that we can do, so that health services work. There are countries where this works. It works in Mauritius, the United Kingdom (UK) and even in some of the tiny countries. We need to put our work together and make that work. If you look at all the reports that have been presented here, one glaring issue is on value for money. Let us pay the bills because the Auditor-General has said so. We will be recommending this, and I believe that, that is what will be debated tomorrow. However, the question of value for money can never be ascertained. This is because a road was graveled, some fish fingerlings were bought and put into the water, but a service was done and a proper process of procurement was also done. We need to relook at what it is that we can legislate or put in place to ensure that whatever project is undertaken, somebody puts in time to justify value for money. Mr. Deputy Speaker, as per that last audit, the value of the projects that have stalled are in excess of Kshs366 billion. I believe that as we progress, we are probably at Kshs400 billion. We are losing money. Here we are saying that the country does not have money and that the economy is not performing well, yet at the same time, we have projects that are not being utilized to generate money. As we look at the reports and the recommendations that we have made, I saw in today's newspaper that in terms of revenue collection, the Nairobi City County already has a shortfall of 1.7 billion. It should bother us, as a country and as the Senate, which protects and oversight the counties, that counties with the potential of collecting Kshs60 billion are still over relying on shareable revenue. There is a report that was carried out by the national Government and supported by the World Bank (WB) that indicated that Nairobi City County can generate over Kshs60 billion. There is one county that I was keen to know its potential to raise revenue; I think it is Kericho County. Somebody told us they are able to collect over Kshs10 billion in own-source revenue. The framework and the discipline need to be instilled. We need to encourage counties to increase on their own-source revenue. Finally, we should discuss the new formula that is coming up, on sharing of revenue. One of the key issues that will come up is that of prudence and the way counties perform when it comes to accounting issues. A percentage will be given to that. The other one is own-source revenue. These are some of the key things that we need to put as motivators for purposes of making counties work. Mr. Deputy Speaker Sir, with those many remarks, as usual, I beg to second the Motion."
     },
     {
-      "order": 309,
+      "order": 308,
       "id": "entry-932672",
       "label": "speech",
       "level": "3",
@@ -3711,7 +3699,7 @@
       "text": "Well done, Sen. Kibiru."
     },
     {
-      "order": 310,
+      "order": 309,
       "id": "entry-932673",
       "label": "scene",
       "level": "3",
@@ -3723,7 +3711,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 311,
+      "order": 310,
       "id": "entry-932674",
       "label": "speech",
       "level": "3",
@@ -3735,7 +3723,7 @@
       "text": "I can see a request from Sen. Olekina and Sen. M. Kajwang'; this is your Motion, but you are aware that we have a scheduled Motion for 5.00 o' clock. However, you can proceed; we will interrupt the debate at that point. Proceed, Sen. Olekina."
     },
     {
-      "order": 312,
+      "order": 311,
       "id": "entry-932675",
       "label": "speech",
       "level": "3",
@@ -3747,7 +3735,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I rise to support the adoption of this very important Motion. I was hoping that every Senator would be here today, because I have sat in all the sessions, apart from either one or two of them, dealing with the issues of Financial Year 2013/2014 to a point where we thought we should start looking at the current reports. Whenever I meet a former governor, the first thing that comes to mind is; what will happen to this governor when Article 226(5) of the Constitution finally catches up with him? One of the main observations that I noted, going through various volumes of the Auditor-General's reports, was the lack of competence in the county government financial management. When governors appear before us, it is as if it is the first time they are hearing that there are pieces of legislation called the Public Audit Act, the Public Procurement and Disposal Act (PPDA), or even the Constitution, in that case. When you ask the governors whether they were familiar with the audit process, most of them will tell you, \"No.\" In fact one former governor I met said, \"If you ask me today to comment on things that happened when I was the governor, where will I start?\" My message to them, and this is part of an observation or hopefully a recommendation, is that they have to make right where they went wrong. This is money that belongs to the public. Currently, we are having serious challenges in terms of paying bills. When you go to each and every county, there are stalled projects which will never be completed. All these are noted in these reports that we have worked on diligently, day in and day out, so as to ensure that there is continuity and proper accountability. Additionally, there are certain observations that we made where when you look at the Auditor-General's reports, many of the governors will say: \"At least this year, we have received a qualified opinion.\" They then believe that a qualified opinion means they have spent the money wisely. Most governors were shocked when we made it clear to them that a qualified opinion only means that you did, to some extent, provide the documentation which the Auditor-General was seeking. As I support this Report, I believe that the EACC and also the Director of Public Prosecutions (DPP) will have fun reading the recommendations so that they can follow the money to the former and current governors. My message is very clear as I support this Report: That where you have misappropriated public funds, it is about time for you to start correcting. When we got to several counties which are noted here, beginning from Kiambu all the way down to Wajir, we found that projects were being undertaken which were not budgeted for. It is no wonder then that we have a lot of pending bills. They would have a budget and even request money from the Controller of Budget (CoB) to pay for projects which are budgeted for. However, when the money is finally transacted to their accounts, they end up paying for things which are not in the budget. This is a result of incompetence and lack of understanding as to why people are put there. I am sure that when they finally sit down and pay attention to the reports, the former and current governors will rush to the Senate tomorrow to get a copy of this Report, which we are now debating. This is because you will find that in most counties, as long the Chief Executive Officers (CEOs) are already out of office, they are like \"it is none of my business.\" They do not know that even the new governors who came in, and who are still their competitors, will not try to do anything to help them to fix their mess; so the mess is still with them. If a governor was defeated and he does not correct or try to mitigate on the issues pointed out by the Auditor-General, that issue will still be alive until the time when the EACC or the DPP catches up with them. On the issue of lack of discipline, we noted that a lot of counties deducted the statutory deductions, for example, the Pay As you Earn (PAYE), et cetera, but they never remitted it to the Kenya Revenue Authority (KRA), to retirement bodies, the National Hospital Insurance Fund (NHIF) or the National Social Security Fund (NSSF); yet they still have huge pending bills. This is an issue that I hope we can reign in on these governors and ensure that whatever amount of money is deducted from employees can be sent to the bodies that require that money. On this note, I would like to encourage Kenyans out there to check their pay slips and follow up so that they do not have to wait until the last minute when they have retired for them to look for their retirement benefits and they cannot get them or to even follow up with KRA. On the issue of pending bills, it is my hope that when these governors sit down and think about what it happening in this country--- I support 100 per cent and actually commend the current Acting Cabinet Secretary (CS) for the National Treasury and Planning for having instituted administrative measures to try and bring in sanity. If these governors can look at those bills, and pay off the ones that they believe are genuine, at least the KRA will be able to collect the money. This is because the moment the contractors have been paid, the KRA will also go after those contractors and collect money, thus enabling them to up their annual collection. Because of time and I know that we have another debate at 5.00 p.m., I would like to end by saying that it is imperative that the governors and the entire finance departments in all counties familiarize themselves with the four pieces of legislation. This is in order to ensure that they can account for all the money and literally use the money in the manner that it is supposed to be used. These four pieces of legislation are; one, the Public Audit Act, and is very important for them to understand the audit process. They can specifically go to Section 31 of that Public Audit Act. Two is the Public Finance Management (PFM) Act, which is very important. In fact, when you think about the issues of reconciliation, the PFM Act requires county governments to reconcile their books on a monthly basis and share with the Auditor- General, but quite seldom do they do that? Three, the Public Procurement and Disposal Act and finally, four, is the Constitution. This is so that we can ensure that at least when you are tasked with the responsibility of ensuring that counties collect and utilize their money to develop the county, you will not be there lining your own pocket and leaving the people out there who cannot afford drugs. As I sit, I fully support this Report and I hope that all Senators who are elected and also nominated can take time to read it and go back and support their counties. Thank you, Mr. Deputy Speaker Sir."
     },
     {
-      "order": 313,
+      "order": 312,
       "id": "entry-932678",
       "label": "speech",
       "level": "3",
@@ -3759,7 +3747,7 @@
       "text": "Very well. Proceed, Sen. (Dr.) Langat."
     },
     {
-      "order": 314,
+      "order": 313,
       "id": "entry-932679",
       "label": "speech",
       "level": "3",
@@ -3771,7 +3759,7 @@
       "text": "Thank you, Mr Deputy Speaker, Sir, for allowing me to add my voice to this important Motion by Sen. M. Kajwang'. It is important that we do thorough oversight of our counties. There are many messes in our counties, but I do not know if it is out of ignorance or whether it is done deliberately. Governors are ignorant when it comes to giving accounts of what is happening in the counties. We read the audit reports that we normally receive. I am surprised that in most cases, they are being asked to have internal auditors because they do not have these auditors to advise them. It could be that some governors do not want to have internal auditors because of fear that they might expose some of their weaknesses. However, if they employ those particular technocrats, it will be possible for them to understand some basics when it comes to issues concerning counties. I was surprised that some of them have been coming to seek sympathy. A few weeks ago, the whole nation was surprised to see a governor coming with hospital documents to claim that he was sick and not in a position even to manage what is going on in the county yet he has his deputy and some officers to assist him or inform him what is going on in the county. If we do not do something as the Senate, some of them will fake sickness by going to hospitals and staying there for a long time so that they avoid the Senate. We have to be strict and make sure that our counties are running smoothly. Mr. Deputy Speaker, Sir, I am also surprised because we go round and see stalled projects. We witnessed this in Kitui having visited one polytechnic. We have stalled projects that have not been completed. We heard from some people that whenever the residents approach the governor or MCAs on the same, they are told that the projects cannot be completed because they were started by former governors and they do not know where the money went. Most of the projects which were started by governors who never managed to come back have never been completed. It is likely that they will never see the light of day despite the fact that public money was used. Therefore, we need to come up with a strategy to monitor how projects can be completed because public money is used. Again, like Sen. Olekina said, they have a funny way of managing money or revenue that is collected from the source. We have heard of counties where clerks can collect money and issue receipts, but that money is not deposited into the right bank accounts. What is happening in our counties is interesting and I would like Members of the Senate to know that terrible things are happening. There is a county that constructed one ECDE classroom at a cost of Kshs1.5 million yet MPs construct classrooms at a cost of Kshs500,000. In fact, today I had a discussion with the Deputy Speaker of the National Assembly. He told me that he has never constructed a completely finished classroom with ceiling boards and tiles for more than Kshs700,000. If you go to our counties, you will find that costs are exaggerated. It is hyperbole that a classroom can be constructed at a cost of Kshs1.5 million. The wastage of money that we give to the counties is alarming. It is even worse when we invite them to come and account for the money and they fail to appear. Like one Senator said, we should come up with a law that when they fail to come and account, money should not be disbursed to them. Why should you be given more when you are unable to account for the money that you have received? Like Sen. Olekina said, I expected all the Senators to be around today so that we fully support this because of its magnitude. I thank you."
     },
     {
-      "order": 315,
+      "order": 314,
       "id": "entry-932681",
       "label": "speech",
       "level": "3",
@@ -3783,7 +3771,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for giving me this opportunity to also add my voice in support of this Motion by the Chairperson of the CPAIC. I will try to be brief in light of the debate that is coming up in the next few minutes. I will focus my contribution to three issues which are; processes, leakages and white elephants and then propose a way forward. On processes, I want to say that---"
     },
     {
-      "order": 316,
+      "order": 315,
       "id": "entry-932682",
       "label": "speech",
       "level": "3",
@@ -3795,7 +3783,7 @@
       "text": "Order, Hon. Senator. Sen. (Dr.) Langat and Sen. Cherargei kindly approach the Chair."
     },
     {
-      "order": 317,
+      "order": 316,
       "id": "entry-932683",
       "label": "scene",
       "level": "3",
@@ -3807,7 +3795,7 @@
       "text": "(Sen. (Dr.) Langat and Sen. Cherargei approached the Chair)"
     },
     {
-      "order": 318,
+      "order": 317,
       "id": "entry-932684",
       "label": "speech",
       "level": "3",
@@ -3819,7 +3807,7 @@
       "text": "Proceed Sen. Wambua."
     },
     {
-      "order": 319,
+      "order": 318,
       "id": "entry-932685",
       "label": "speech",
       "level": "3",
@@ -3831,7 +3819,7 @@
       "text": "Mr. Deputy Speaker, Sir, there is a growing trend not just in counties that have been listed in the Motion as read out by Sen. M. Kajwang', but even in other counties where governors have decided to blatantly ignore or just abuse the procurement laws in this country when it comes to issuance of tenders especially for capital projects. Under processes, there is also the issue of the blatant disregard of labour laws where especially the executive arms of county governments have converted them to employment bureaus. Today I received a letter from a number of casuals who were engaged by the County Government of Kitui. They have not been paid for the past three months and now their contracts have been terminated without pay and explanation. Some of these issues should be taken up seriously by the CPAIC and other relevant Committees of the Senate. We also have the issue on leakages and this is where the biggest problem is. Without casting aspersion on any one, many governors are running successful criminal enterprises in terms of theft of public resources. It is amazing that a governor can authorise collection of statutory remittances or deductions and fail to remit to the National Hospital Insurance Fund (NHIF), the Kenya Revenue Authority (KRA) and other statutory bodies. Worst still, governors collect money in terms of taxes, levies and cess and spend it directly without depositing it. The money is supposed to be deposited before it is processed for use. Thirdly and lastly is the issue of white elephants. It is what Sen. (Dr.) Langat alluded to where projects that were started by the first batch of governors who did not make it for the second time have entirely stalled. I will speak about projects in Kitui. All the projects that were incomplete before the previous general election have stalled and there is no word from the county government as to whether monies will be committed to complete them. We have scenarios where white elephants are started all over the country. We have heard that white elephants in the counties account for more than Kshs360 billion. This is serious wastage. In fact, it is a lot more money than the monies we are allocating to counties for a whole financial year. Mr. Deputy Speaker, Sir, for us to be taken seriously as a Senate - and I want the Committee to hear this - we cannot be talking about white elephant projects running into hundreds of billions of shillings and still continue to allocate monies to these counties. Going forward I propose that all governors appearing before the County Public Accounts Investment Committee (CPAIC) should adduce their evidence on oath. Secondly, those governors who repeatedly refuse to appear before CPAIC, their counties or their governments should be struck off the list of the disbursement schedule. Mr. Deputy Speaker, Sir, it cannot be that the Senate will continue giving money to counties, but governors do not want to account on how they are using those monies allocated to them. Mr. Deputy Speaker, Sir, I support."
     },
     {
-      "order": 320,
+      "order": 319,
       "id": "entry-932687",
       "label": "speech",
       "level": "3",
@@ -3843,7 +3831,7 @@
       "text": "Order, Senators. I wish to give directions as follows:- We have one more request for contribution on this debate and I will give the floor to that request; I think it is Sen. Omogeni. The reason I am doing that is because this is a very old Report and we need to dispose of it. If there is no other interest in the debate, we had better wind up with it and be left with Division. We might overshoot the 5.00 o'clock limit because the speaker will have a maximum of 20 minutes, if he takes shorter, the better. In the event that, that happens, you will indulge me and then the Motion by the Senator for Bomet will proceed immediately after we wind up this Order. Secondly, sometime ago I directed that I will deliver a ruling on the Motion that had been brought to the House for debate by the Senator for Narok County, Sen. Olekina. I now want to apologize that it has taken a bit of time because I had travelled. However, the ruling will be delivered on Thursday, 28th November, 2019 at 2:30 p.m. or soon thereafter in the afternoon. Proceed, Sen. Omogeni."
     },
     {
-      "order": 321,
+      "order": 320,
       "id": "entry-932688",
       "label": "speech",
       "level": "3",
@@ -3855,7 +3843,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for according me the opportunity to also make my contribution on the Report that has been tabled by CPAIC. First, I wish to thank the Chairperson of this Committee, my good friend the Senator for Homabay who as usual continues to do a very good job together with his team of Members. This is on record as one of those Committees that have tabled so many reports before the House. We must commend and encourage him. The job he is doing is not easy, it is a difficult job. When fighting corruption and seeking accountability, you are also dealing with temptations. You are dealing with people who have ill-gotten money and at times they may go to extreme levels to scuttle the work of people who are trying to push for accountability. Therefore, we really commend the team for standing firm and for continuing to ensure that this Senate pushes for accountability, and that we undertake our duties under Article 96 which is to defend county governments and the people who reside in our counties. Secondly is to also register my sorrow that we are into the seventh year of our devolution, but we are still yet to see the fruits of devolution. When the people of Kenya enacted the Constitution 2010, there was excitement that we were devolving power and resources to our counties. As a result, people expected to see fruits of development, provision of services, the healthcare system working, our young children attending early childhood schools and that there would be change. The dreams of the people that we represent have been shattered. Seven years into devolution, we are yet to see the fruits of devolution. The enemy that has stood in the way of our realization of those dreams is this animal called corruption. If we do not tackle and deal with it, we will never realize the fruits of devolution. Mr. Deputy Speaker, Sir, that is a fact and we cannot run away from it. We must ask our partners in this war; the Directorate of Criminal Investigation (DCI), the Ethics and Anti-Corruption Commission (EACC) and the Director of Public Prosecutions (DPP) not to give up. This is because we need to see more heads rolling. We want to see blood. We cannot be sitting in this House year in, year out, sending money to counties which end up in people's pockets. I am looking forward to a time when the palatial homes that have been built using corruption money will be repossessed and we will convert those buildings into hospitals where we will put Magnetic Resonance Imaging (MRI) machines to treat our people of cancer. We expect to see in place hospitals, not palatial homes that have been built by governors. That is not the reason why we devolved power and resources to our counties. It is because we wanted good hospitals; we wanted to give good services to our people from the counties to the sub-counties. That was the dream and expectations of the people of Kenya. Mr. Deputy Speaker, Sir, we did not devolve power so that we have people who walk around with huge amounts of money in their pockets. We wanted to see hospitals that have drugs and specialists. We wanted to see cases of cancer being detected early and our people being able to receive treatment. However, that is not the case. If you read the Report that has been tabled before the House, in a County like Migori, there are no records for medical supplies that were delivered. The stories that you get across the counties makes you wonder: This money that we send to counties where does it go? Hospitals do not have drugs. It is like it was better when the national Government was running hospitals than now when hospitals are under counties. That is not what we need to see. Mr. Deputy Speaker, Sir, I want to speak to the DPP, EACC and DCI that action has been taken in other places on people who hold senior positions than governors. As we speak, the Prime Minister of Israel is facing corruption charges. The former President of Brazil has spent time in jail. The same applies to the former President of South Korea. Those are high ranking officials who are senior than our governors. I wish to commend the good job that has been done of late by the EACC. I do not wish to speak of the merits of the case, but what is now being presented in court is not just a case of failure to comply with procurement laws, but these are cases where there is proper paper trail. These are cases where governors have been found culpable of using their cronies to award contracts to their friends and their family members and in return that money is wired to their personal accounts. We need to fix that. I thank the Central Bank of Kenya (CBK) for coming up with this idea of not allowing people to withdraw money over the counter. This way we are able to have paper trail. What we expect now is for the Judiciary to play its role. Where cases have been brought to court and there is enough evidence to sustain a conviction, let there be first quick trials and those culpable be sent to jail. Mr. Deputy Speaker, Sir, we cannot allow a case where in this era and age, counties are unable to have proper book keeping. I mean, how can that be the case? If you are a county government and you cannot keep proper books, that is unforgivable. I hope what we are doing is not in vain; that these reports will not be put in some shelf to gather dust, but that some authorities will pick them up and action will be taken. We need to see deterrence. Let me speak to the Office of the Auditor-General because at times, there is a feeling that staff in the Auditor-General's office get compromised. A case in point is the Kiambu County case where the Committee had to make recommendations for another audit to be undertaken for that county government. I was in the session of my own County of Nyamira, when the auditors had given an almost clean bill of health over the accounts of Nyamira County and yet there were glaring issues. May I ask the EACC and the DPP to also have a very keen eye on the Auditor- General. This is because if they get compromised, we get shoddy jobs being delivered to us and we will not be able to play our oversight role. They must remain professional. It should not be the case that if your hands are greased with some good money, then you give shoddy reports but you do adverse reports for those who do not \"see you\". No! We need to see a professional team from the office of the Auditor-General. I hope the new appointee to that office will ensure that the officers in those offices are professional, detailed and can do good work so that when we get these reports at the Senate level, our work can be made easy. Mr. Deputy Speaker, Sir, corruption has caused the downfall of many countries. Venezuela was doing very well 20 years ago, but because of corruption, it has gone down. A report was done in the 1980s that picked out Nigeria, India and Brazil as one of the countries that could have attained industrialisation at the turn of the century. Nigeria was singled out because it has been blessed with so many natural resources. However, because of corruption, Nigeria never picked up. As we speak, Brazil is the manufacturer of Embraer planes because they fixed corruption issues. India produces the highest number of doctors in the world and is the Information Technology (IT) hub as we speak. However, Nigeria, because of corruption, never picked. Mr. Deputy Speaker, Sir, if we do not assist some of these counties in terms of ensuring that these incidents of corruption are dealt with, counties will never pick up. The development that the people of Kenya hoped to attain by devolving power and resources will never see the light of day. With those remarks, I support."
     },
     {
-      "order": 322,
+      "order": 321,
       "id": "entry-932694",
       "label": "speech",
       "level": "3",
@@ -3867,7 +3855,7 @@
       "text": "Order, Members. Senate Minority Leader, we had made an administrative decision, but we can give you a few minutes just to say a few things. Please, proceed."
     },
     {
-      "order": 323,
+      "order": 322,
       "id": "entry-932695",
       "label": "speech",
       "level": "3",
@@ -3879,7 +3867,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. I stand to support the Motion and particularly, thank the Committee led by the distinguished Senator for Homa Bay County. Generally, this Committee is doing very well. In fact, if you look at the reports we are dealing with, comparatively going to the past, we will be talking about reports of accounts of seven or eight years ago. I think we are catching up and this reporting omnibus is also enabling us to deal with these reports in a more effective manner and faster than we would normally do. I thank the Committee and I hope you continue with that good work. Having sat in some sessions of this Committee, I think of all the parliamentary committees - I am talking about Committees of both the National Assembly and the Senate - this Committee has very talented Members. When they interrogate public officials who appear before them led by governors, at the end of the day, the Senate is put in very good light. More importantly, this Committee is important in the sense that one of the most fundamental principles for which modern democracies are established, is to ensure that that old principle which was very well established by those who lived in the American colonies fighting against British imperialism, talking about no taxation without representation. That particular doctrine has been crystalised in our Constitution. It is not only in the European Constitution, but more importantly, in this current Constitution. Mr. Deputy Speaker, Sir, whenever we are considering these reports, it must be remembered that this is one of the principal ways in which Parliament and the Senate are putting into effect our role of oversight and ensuring the people's resources and revenue are not put to waste. Also, those who have the control of these appropriated funds are made accountable. Therefore, in doing this work the way they are doing, I hope that we, as a Senate, will continue to show that we are not protecting counties just by ensuring that they get more resources, but ensuring that the resources that go to counties are used in accordance with the directions of Parliament as a whole and more particularly, the Senate. While at it, there should be no delay in the appointment of the Auditor-General. I think it is getting overdue because when there is no substantive holder in that office at any one time, that is when opportunities are created to ensure cartels get away with what they should not be getting away with. Mr. Deputy Speaker, Sir, I will only add one more issue since you have been gracious and kind enough to give me some little time. I appreciate for being given some little time because I know there is a Motion of Adjournment coming. I am talking on the basis that I have heard people talking about this animal called corruption from many Governments of the past. Every Government has tried to deal with corruption more particularly, by trying to punish impunity and if they were successful, I cannot say. The most important way of ensuring that there is no corruption is by shutting out the opportunity for corruption. Not dealing with corruption once it has been committed, I do not think that is the most effective way. The other day, I heard a senior lawyer in India in one of the courts talking about the jockeys running away and leaving their horses. In our environment, we strike when both the horse and the jockey have gone. We are trying to catch up with the jockey, but we can never catch up with the horse. I would like us to remember what former President Kibaki did to ensure that those who managed public resources were able to do so at the places the resources were. That is the point at which we should stop corruption. This is because by dealing with the enemy when he or she has already struck is just getting involved in a recovery process. Mr. Deputy Speaker, Sir, we have seen where we come from. Sometimes we endlessly blame the courts, the DPP and sometimes the EACC. The problem lies with those who are given these monies to spend. It is at that place where this money is being spent that strict application of the law should be executed to make sure we do not go through this rigmarole year after year. The success of the counties or the devolved system will depend on how they manage their resources. All around, if you talk to the ordinary person in the streets and the villages, they are not particularly happy about how their resources are being spent. Mr. Deputy Speaker, Sir, while we do not want the devolved systems and the counties to be destroyed on account of governors and county governments not doing what they should, but the governors and the county governments, including the county assemblies, must also make sure that at that end, they spend the resources the way they should. The governors and their representatives in the executive should also try to be humble. When governors want to replicate their counties as small fiefdoms by replicating what they see at the national level, this is the beginning of power getting into the minds of people at that level. Mr. Deputy Speaker, Sir, I will end it there. As a word of encouragement to the Chairperson Sen. M Kajwang' and his team, I appreciate their work."
     },
     {
-      "order": 324,
+      "order": 323,
       "id": "entry-932704",
       "label": "speech",
       "level": "3",
@@ -3891,7 +3879,7 @@
       "text": "Thank you, Leader of the Minority."
     },
     {
-      "order": 325,
+      "order": 324,
       "id": "entry-932705",
       "label": "scene",
       "level": "3",
@@ -3903,7 +3891,7 @@
       "text": "(Sen. M. Kajwang' stood up in his place)"
     },
     {
-      "order": 326,
+      "order": 325,
       "id": "entry-932706",
       "label": "speech",
       "level": "3",
@@ -3915,7 +3903,7 @@
       "text": "Hold on Sen. M Kajwang'. I also want to accommodate the Senator for Bungoma because it is one of the counties mentioned in this Report. He has graciously accepted to take not more than five minutes."
     },
     {
-      "order": 327,
+      "order": 326,
       "id": "entry-932707",
       "label": "speech",
       "level": "3",
@@ -3927,7 +3915,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir, for this special dispensation from you for me to make a comment on this CPAIC Report. Bungoma is one of the counties audited and reported in this Report under debate. The regrettable thing is that even as the Committee under the distinguished Senator for Homa Bay continues doing a good job, we are still lagging too far behind with audits. This Report covers the year up to 2016 while we are already in 2019. It means that we continue being morticians on public expenditure. This is not particularly good because in the course of time people lose memories, things and dynamics change, the culprits change positions and we end up failing to hold people culpable. I encourage the Committee that as they continue looking at these accounts, they should also be able to make firm recommendations about what needs to be done where there are transgressions of the law, mis-expenditure and above all where counties are manning and accumulating huge imprests. I just saw in the media that unaccounted for imprest in my county now stands at about KShs150 million. That is an outrage. Nobody should ever be allowed to take imprest without surrendering the previous one. It is through imprest that we lose a lot of public money. Mr. Deputy Speaker, Sir, more importantly - and this is not just about Bungoma but all counties - the Transition Authority(TA) and the successor to it the counties, have never been able to properly account for public assets. There was a lot of land everywhere in this country in terms of public parks, public markets, dams, cattle dips and a lot of things which in the transition and confusion of moving from local authorities to county governments some of these properties just disappeared. There are always criminals hanging in the wings to take advantage of any confused situation. I would want to see that CPAIC call in and hire an external valuer and investigator to go through the records of each and every county. They have authority to do this. This is because if we are talking about property for example, in Nairobi City County, a small property measuring 50 by 100 meters is worth millions, probably Kshs50milliion or 100 million. People have floated away this for their personal benefit in many former municipalities. My county is not any different. Public land has been stolen. Mr. Deputy Speaker, Sir, more importantly, the Committee should not just end up saying that they recommend that such and such be done or improved. Where there is culpability, they must recommend that other agencies of Government must take up and investigate the matter if there was criminal conduct on the part of accounting officers, so that we can have proper accountability in our management of public affairs. I say this because corruption has eaten away this country. In the old days and even in the last Parliament, public accounts management and reports coming here were taken very seriously. If you look at this, we have accounts of about 15 counties. How many of us are here? I do not know if some of us have spoken to this before. A misappropriation of funds in Tharaka Nithi County is as offensive to the Senator for Bungoma County as it is to the Senator for Tharaka Nithi County because we are all custodians of public good. We need to have a very concerted effort. More importantly, a way must be found. Today, we had the Cabinet Secretary for the National Treasury and Planning appearing before the Senate Committee on Finance and Budget. He has come up with a very innovative way of dealing with some of the errant counties. He is seeking Parliamentary authority under Article 225 to freeze disbursement of funds to counties that are continuously flouting rules of public finance management including but not limited to payment of bills of suppliers of goods and services and other things. Mr. Deputy Speaker, Sir, we need to extend that application to the management of accounts. Unfortunately, we are looking at accounts of people who have since left office. You cannot now start punishing a new regime for the sins of the previous one even if there is perpetual succession. I would want to see a way in which the CPAIC under the management of Sen. M Kajwang' or his successor in title at whatever time, to do their best and keep abreast with the financial years so that by now we should be debating the accounts and audits of the Financial Year 2018/2019 because we are now in the Financial Year 2019/20. If we are tackling accounts of the FY2015/16, then we are just tapping wrongdoers on the wrist and telling them to move. Some have already moved on. Although I know the workload is very heavy, looking at what they have done on Bungoma, the conclusions and the statements made are very casual and feeble. Mr. Deputy Speaker, Sir, we want to see that where tax payers' money has not been accounted for, protected or out-rightly misappropriated, to be an issue we must deal with firmly. We should show the resolve of this House as the last oversight House after the county assemblies. We are capable of doing what we are enjoined to do by the Constitution including, but not limited to, inviting in criminal investigative agencies to deal with situations as they arise. Mr. Deputy Speaker, Sir, I beg to support the report."
     },
     {
-      "order": 328,
+      "order": 327,
       "id": "entry-932712",
       "label": "speech",
       "level": "3",
@@ -3939,7 +3927,7 @@
       "text": "Thank you, Sen. Wetangula. I request Sen. M. Kajwang, who is the Mover, to reply. I encourage him to do a symbolic reply given the circumstances of this afternoon."
     },
     {
-      "order": 329,
+      "order": 328,
       "id": "entry-932713",
       "label": "speech",
       "level": "3",
@@ -3951,7 +3939,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. In respect to your directions and to Sen. (Dr.) Langat who moved the Motion of Adjournment, I beg to reply. I want it to go on record that this will be the 63rd Report that the CPAIC has brought to this House. We have 20 more reports remaining for us to close the 2013/2014, 2014/2015 financial years. I report to the House that our considerations and interrogations are on the current Financial Year 2017/2018. I invite Members of the Senate to our Committee when we invite governors from their counties or any other governor. They are free to join as friends of the Committee. I also wish to urge Senators present that we need to have a much more robust debate. I cannot agree with Sen. Wetangula more. We seem to be taking reports of CPAIC quite casually. This then sets in Motion the process of implementation. The Clerk of the Senate is expected to write to all the accounting officers and implementing agencies. They will have three months to implement and write back to the Senate. I invite Senators to join the CPAIC in following up the recommendations. Mr. Deputy Speaker, Sir, pursuant to Standing Order No. 61(3) I pray that you defer putting of the question to a later date."
     },
     {
-      "order": 330,
+      "order": 329,
       "id": "entry-932715",
       "label": "speech",
       "level": "3",
@@ -3963,7 +3951,7 @@
       "text": "Sen. M. Kajwang, this Motion requires Division through delegation. Would you like to request that Division be deferred? Again, given the circumstances of this afternoon, would you like to make that request?"
     },
     {
-      "order": 331,
+      "order": 330,
       "id": "entry-932716",
       "label": "speech",
       "level": "3",
@@ -3975,7 +3963,7 @@
       "text": "Mr. Deputy Speaker, Sir, I request that you defer putting the question to a later date pursuant to Standing Order No. 61(3)."
     },
     {
-      "order": 332,
+      "order": 331,
       "id": "entry-932717",
       "label": "speech",
       "level": "3",
@@ -3987,7 +3975,7 @@
       "text": "It is so ordered. Division will be tomorrow."
     },
     {
-      "order": 333,
+      "order": 332,
       "id": "entry-932718",
       "label": "scene",
       "level": "3",
@@ -3999,7 +3987,7 @@
       "text": "(Putting of the Question on the Motion deferred)"
     },
     {
-      "order": 334,
+      "order": 333,
       "id": "entry-932719",
       "label": "speech",
       "level": "3",
@@ -4011,7 +3999,7 @@
       "text": "We move on to the Next Order. I now call upon the Senator for Bomet County to move his Motion of Adjournment. We have eaten into around 20 minutes of this Motion, should any Senator wish to compensate for that time, the procedure is that he or she can request for an extension of time beyond 6.30 p.m. That Senator must make that request before 6.00 O'clock in accordance with the Standing Orders. Proceed, Sen. (Dr.) Langat."
     },
     {
-      "order": 335,
+      "order": 334,
       "id": "entry-932720",
       "label": "heading",
       "level": "1",
@@ -4023,7 +4011,7 @@
       "text": "MOTION OF ADJOURNMENT UNDER STANDING ORDER 34(1)"
     },
     {
-      "order": 336,
+      "order": 335,
       "id": "entry-932721",
       "label": "heading",
       "level": "3",
@@ -4035,7 +4023,7 @@
       "text": "LANDSLIDE DISASTER IN WEST POKOT COUNTY"
     },
     {
-      "order": 337,
+      "order": 336,
       "id": "entry-932722",
       "label": "speech",
       "level": "3",
@@ -4047,7 +4035,7 @@
       "text": "Thank you, Mr. Deputy Speaker, Sir. Pursuant to Standing Order No.34(1), I beg to move that the Senate do adjourn to discuss a definite matter of urgent national importance regarding the disaster in West Pokot County, occasioned by the landslide that claimed over 50 lives following days of heavy rains in the country. Mr. Deputy Speaker, Sir, I convey my heartfelt condolence to the people of West Pokot County and more especially to all families that were directly or indirectly affected by the landslide. As I have mentioned, the tragedy has claimed over 50 lives and more bodies are still missing and are yet to be retrieved from the mud sludge. Some families have lost all their members. As we heard in the media yesterday, there is a family that lost five members. Apart from the loss of lives, many other residents have been injured, property worth millions destroyed and livelihood lost. I, however, express my disappointment regarding the slow emergency response to this particular disaster. We have heard over the media that the Cabinet Secretary (CS) for National Security and Coordination of National Government, CS for Devolution and Planning and the Regional Commissioner were still in Eldoret up to yesterday waiting for the weather to be conducive so that they could visit the place. While the military has been deployed to assist in recovery and relocation of people from areas perceived to be in danger, very little has been done to ease the suffering of the affected people of West Pokot. Medical assistance, for instance, is slow and needs to be stepped up to save lives of people that have been injured. Mr. Deputy Speaker, Sir, the disaster has affected the people and they have suffered greatly. Therefore, further provision of food, water and clothing should be fast- tracked to cover all the affected families. According to the meteorological department, heavy rain is still expected to continue with intensity in the coming week before easing towards mid December. This raises fears of more devastating effects in various parts of the country as it was mentioned yesterday. This calls for the National Disaster Operation Centre (NDOC) and other emergencies rescue to be proactive in mitigating any potential disasters that may occur arising from the ongoing weather. Mr. Deputy Speaker, Sir, in light of this disaster, I urge you to refer the matter to the Standing Committee on National Security, Defence and Foreign Relations to invite the CS to respond to a Committee of the Whole to explain the disaster situation occasioned by the ongoing rains in various parts of our country and measures put in place to mitigate this particular disaster."
     },
     {
-      "order": 338,
+      "order": 337,
       "id": "entry-932724",
       "label": "scene",
       "level": "3",
@@ -4059,7 +4047,7 @@
       "text": "[The Deputy Speaker (Sen. (Prof.) Kindiki) left the Chair]"
     },
     {
-      "order": 339,
+      "order": 338,
       "id": "entry-932725",
       "label": "scene",
       "level": "3",
@@ -4071,7 +4059,7 @@
       "text": "[The Temporary Speaker (Sen. (Prof.) Kamar) in the Chair]"
     },
     {
-      "order": 340,
+      "order": 339,
       "id": "entry-932726",
       "label": "speech",
       "level": "3",
@@ -4083,7 +4071,7 @@
       "text": "Madam Temporary Speaker, county governments have got least strength to respond to these particular disasters. Therefore, this House needs to reconsider strategies and money that the county governments have put aside for disaster management. The Governor of West Pokot County is only making statements, but is unable to do much in this area of concern. I have also registered a lot of disappointment. This is because the highest officers in Government moved to Eldoret using machineries like a helicopter from the army. They gave an excuse that they could not reach that particular place yet the Deputy President's chopper landed in that place and did the necessary. This negligence should not be taken lightly yet people are dying. We also heard yesterday that places like Murang'a, Bomet, Kericho and others parts of this country are sending signals of danger yet we have not seen any Government response in those particular places warning people to keep off areas that are giving signals of danger. Therefore, the Government has to pull up its socks when it comes to responding to these particular disasters. People in West Pokot have received little medication on specialised areas. The military officers that have been deployed to the place are few. Therefore, we request the Government to send more so that they can open up roads for the people to be assisted by members of other agencies, for example, the Kenya Red Cross (KRC). We have seen the efforts of the KRC who are doing a good job but are challenged by the bad roads. The military personnel would have been deployed to those areas to assist the affected families. Madam Temporary Speaker, I would like to thank the people who have made contributions to assist the affected families such as churches and other well-wishers. We thank the Government of the United States of America (USA) through the Ambassador. Yesterday, the President of the USA, Mr. Donald Trump, announced that they will assist the affected families financially. I am not happy with how the Government of Kenya is responding to this tragedy. There have been warnings on impending mudslides in other counties such as Murang'a yet the Government has not taken proactive measures to assist our people. Disaster management in our country is poor. I wonder whether there are any disaster preparedness measures for such situations. This is a matter of grave concern and I have requested the particular committees concerned to take serious action. Madam Temporary Speaker, I beg to move this Motion and ask Sen. Cherargei to second."
     },
     {
-      "order": 341,
+      "order": 340,
       "id": "entry-932731",
       "label": "speech",
       "level": "3",
@@ -4095,7 +4083,7 @@
       "text": "Madam Temporary Speaker, I would like to begin by congratulating you for the appointment as a trustee of the National Fund for the Disabled of Kenya (NFDK). I take this opportunity on my own behalf and on behalf of the people of Nandi County, to pass our deepest condolences to the families of more than 50 lives that were lost in West Pokot County. I also wish a quick recovery to the many people who are still recuperating in various health facilities in West Pokot and the neighbouring counties. There has been wanton destruction of property in West Pokot County. Secondly, I thank the agencies that have come out to support the people of West Pokot County through finance and other forms of support such as prayers. As Sen. (Dr.) Langat has said, we would like to see a more proactive reaction to disaster response and management in the country so that we prevent more disasters from happening. Madam Temporary Speaker, yesterday, the national Government, through the Deputy President, reached out to people in the affected area. I hope that in future, our systems will be more proactive. We cannot prevent disasters from happening, but we can at least mitigate them by putting necessary measures and systems in place. Unfortunately, the Cabinet Secretaries in charge of the Ministry of Interior and Coordination of National Government and the Ministry of Devolution and ASAL Areas as well as the Regional Commissioner could not fly to West Pokot County yet we needed to see them on the ground. You are the Senator for Uasin Gishu County which is 73 kilometres to West Pokot. We expected the Cabinet Secretaries to even go by road if the choppers were not in working condition. Interestingly, when the Auditor-General raised a red flag on the purchase of military helicopters, the Ministry concerned informed us that the helicopters have night vision and can fly in the dark. I hope that the necessary agencies will be censured. The senior Government officials are taking this issue lightly without the commitment. You can imagine the pain and anguish that the residents of West Pokot County are undergoing yet some people are treating this issue casually. I hope that with the interventions by the national Government and the County Government of West Pokot, the people of West Pokot County will get an opportunity to recuperate as they mourn their loved ones. I hope that systems will be put in place to ensure that the county resumes normalcy. Madam Temporary Speaker, as you may recall, this House passed the Disaster Risk Management Bill (Senate Bills No. 8 of 2018) that was subsequently referred to the National Assembly. Without a proper framework, efforts on disaster and risk and management will continue to fail. A legal and institutional framework will provide clarification concerning the division of tasks to be undertaken on the two levels of government and policy guidelines on how the system should operate in practice during disasters such as the one that occurred in West Pokot County and other areas. I take this opportunity to urge colleagues in the National Assembly to fast-track and expedite the passage of the Bill. The Disaster Risk Management Bill (Senate Bills No. 8 of 2018) will ensure that we have a well-coordinated programme to ensure there is no blame game when a disaster happens. It is sad that the County Government of West Pokot has issued an M-Pesa pay bill number asking for contributions from well-wishers yet we have allocations in the budget that are meant to assist the victims of such disasters. We need to fast-track both institutional and legal frameworks to ensure proper disaster response. Madam Temporary Speaker, resources meant for disaster preparedness should be allocated to the county governments. The national Government should only assist in coordination and logistical support. It is not practical to buy food supplies for the affected families in Nairobi and fly them all the way to West Pokot yet the same supplies can be found in Kapenguria, Kitale, Eldoret and many other neighbouring towns. I urge our colleagues in the National Assembly to expedite the process of passing the Disaster Risk Management Bill (Senate Bills No. 8 of 2018). I hope that the President will assent to the Bill as soon as possible after it is passed in the National Assembly so that we have a law to assist in the management of such disasters. Madam Temporary Speaker, the Meteorological Department has flagged out high risk counties and said that most of the parts of the country will be affected by continued high rainfall. Let us not wait for disasters to happen. We should take this opportunity to put necessary intervention in place and ensure that we remain focused. With the discussion on the need for constitutional review, this is an opportune time to review the role of the national Government vis-à-vis that of the county governments to ensure that there are adequate resources allocated towards disaster and risk management. Now that we are having the conversation about constitutional review, we must think about disaster and risk management in this country so that we do not lose more lives or property in the near future. Madam Temporary Speaker, I wish well the people of West Pokot County as they come to terms with the disaster. I thank you for this opportunity and beg to second."
     },
     {
-      "order": 342,
+      "order": 341,
       "id": "entry-932737",
       "label": "scene",
       "level": "3",
@@ -4107,7 +4095,7 @@
       "text": "(Question proposed)"
     },
     {
-      "order": 343,
+      "order": 342,
       "id": "entry-932738",
       "label": "speech",
       "level": "3",
@@ -4119,7 +4107,7 @@
       "text": "Kindly proceed, Sen. (Dr.) Musuruve."
     },
     {
-      "order": 344,
+      "order": 343,
       "id": "entry-932739",
       "label": "speech",
       "level": "3",
@@ -4131,7 +4119,7 @@
       "text": "Madam Temporary Speaker, I thank you for giving me the opportunity to ventilate on this Motion. I also thank Sen. (Dr.) Langat for bringing this Motion to the House. We have been experiencing heavy rainfall throughout the country. Therefore, we must address the issue of disaster preparedness as a nation. The county governments must be effective in addressing the same. I would like to pass my condolences to the people of West Pokot County who have lost their loved ones. Disasters are painful because they are not planned for. Some disasters are man-made while others are natural. The one for West Pokot County is actually a natural calamity. However, as much as it is a natural calamity, we cannot just sit back because that is a natural calamity. There are some natural calamities that are preventable. For instance, Madam Temporary Speaker, we all very well know that every year, we have a period of heavy rains. Therefore, there is need for county governments to interrogate this issue of floods, because this is not the first time that floods have taken away a number of lives. It has happened before in other parts of the country, and there is need for county executives to ensure that they put aside some money solely for arresting this flood menace. I watched on television how the road was intensely damaged, and it had even been separated into two. It is so bad that if you had gone to the East to see a family, you could not go back to the West. It was a sad situation. As I was watching the television, I could tell that even the quality of the road was not up to standard. There is need for us, as a nation, to try and prevent some of these natural disasters. For instance, floods can sweep away a road and buildings because of soil erosion. However, there are many ways in which the county governments can manage this situation, for example, by planting trees. Madam Temporary Speaker, I thank organizations like the Kenya Red Cross Society (KRCS) and everyone else who has come on board to support the families that were affected by the disaster with food, clothing and basic needs. However, as much as they are supporting, there is need to look for a sustainable way of ensuring that we bring this disaster to a stop. There was a time when county governments were putting aside funds to prevent disasters. I remember that at one point, I saw some culverts and terraces being erected for purposes of preventing floods in Nairobi. However, there is need for county governments to seriously look into the issue of floods, because prevention is better than cure. Madam Temporary Speaker, we should not always wait for a disaster for us to come to ventilate on the issue here in Parliament. Some Bills, like The National Disaster Management Authority Bill, 2019, should not be delayed so that it addresses some of these issues. Even county governments and county executives should address this issue and report to the Senate. They should let the Senate know what they are doing about that Bill, and what they are doing about managing floods. It is possible to arrest some of these issues early. Some of the ways that such natural floods can be managed is by the construction of flood ways. Now, if the county governments put aside some little money for this, it is possible to prevent flooding. Planting of vegetation, erecting terraces and culverts are all equally important in preventing floods. Apart from that, it is important for county governments to have crisis management centres to deal with disasters. These centres should manage disasters before they start. Even when disasters strike, they should address the affected families directly and indirectly. These centres should also come up with sustainable solutions to arrest such calamities. Therefore, Madam Temporary Speaker, I beg to support this Motion. I hope that it goes to the next level, and that it will be taken seriously for the purpose of intervention."
     },
     {
-      "order": 345,
+      "order": 344,
       "id": "entry-932741",
       "label": "speech",
       "level": "3",
@@ -4143,7 +4131,7 @@
       "text": "Thank you. Proceed, Sen. Ochillo-Ayacko."
     },
     {
-      "order": 346,
+      "order": 345,
       "id": "entry-932742",
       "label": "speech",
       "level": "3",
@@ -4155,7 +4143,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me an opportunity to add my voice to those of the people of goodwill, who are expressing their sympathies, love and concern to our unfortunate brothers, sisters and families in West Pokot. As a family, nation and as a people, we are mourning the loss of lives of many people whose sin or offence, perhaps, is poverty. They are the poor and vulnerable people who live in one remote area called West Pokot, and they are part and parcel of this nation. Those unfortunate citizens died very sadly. Some of them did not know that a disaster of this magnitude would ensue in their lives. Some of them had dreams and hopes. Maybe others were robustly aspiring to participate in supporting or amending the Building Bridges Initiative (BBI) Report, or doing something positive about the future of this country. It is, therefore, unfortunate that this disaster has cut their expectations and hopes in life before they are realised. However, those of us who are left behind must continuously pray for these unfortunate Kenyans. We must continue doing what we must do to ensure that such disasters do not recur. Having said that, Madam Temporary Speaker, I have also heard some of my colleagues castigating some government officials for not visiting West Pokot, in spite of the fact that they have helicopters and other things. I do not know why officials are being castigated for being unable to make it to West Pokot, but it may not be that simplistic. I remember that in my earlier life, I was also being flown around in choppers. My brother, Sen. Wetangula, has also had a similar experience. At times it gets to a situation where the instructions of the captain of a chopper become final. They tell you that from the information available to them, they are unable to continue further. It does not matter how mighty or which office you hold. They simply tell you that they do not want to be part of the suicide mission that you are engaging in. Therefore, before we castigate officers, we must also set back and know that, at some point in this country, we have lost leaders who tried to fly from one place to the other. I hope the reason these leaders were unable to fly to West Pokot was one that could not be avoided. I persuade anyone who is angered at them for not flying, to also be mindful of the fact that when the captain says you cannot fly, then you should not fly. We do not want to increase suffering and death by adding on to what Kenyans are already suffering from after losing very many people in West Pokot, by losing any leader who is going there to rescue victims. Madam Temporary Speaker, I encourage people in responsible positions, including Members of Parliament (MPs), both at the National Assembly and at the Senate, to do something. We should talk about this disaster and do something that is pragmatic to alleviate the suffering of our brothers and sisters in West Pokot. It may not be opportune right now to bicker, quarrel and grandstand about who should be doing what. This is the time we should unite in our support, both emotional and material, for those who are suffering. With those remarks, thank you, Madam Temporary Speaker."
     },
     {
-      "order": 347,
+      "order": 346,
       "id": "entry-932744",
       "label": "speech",
       "level": "3",
@@ -4167,7 +4155,7 @@
       "text": "Thank you, Madam Temporary Speaker, for giving me time to contribute to this Motion of Adjournment. I send my condolences, those of my family, the people I represent in Bungoma and the FORD Kenya (FORD-K) Party to the people of West Pokot County. West Pokot is a poor county set in a very difficult terrain. This is a county that has suffered neglect from colonial Kenya, through independent Governments of this country. At one time, West Pokot used to be referred to as a closed district, where the Government would close the entire county from access by anybody. Therefore, no media or nothing could go there and they would commit untold atrocities against the people of that county. It is even more tragic that Mother Nature can bring such pain to the people of West Pokot County. We have had landslides in Central Kenya, Murang'a County in particular, Khuvasali in Malava Constituency which is in Kakamega County, and other parts of the country, but it has never been that tragic. I expected the national Government to direct that flags be flown at half-mast in remembrance and acknowledgement of the tragedy that has hit West Pokot County. Madam Temporary Speaker, disaster management is a shared responsibility under the Constitution. The Fourth Schedule gives authority to both national and county governments to manage disaster. I do not share the view that the delay in passage of a Bill that left this House and went to the National Assembly is a hindrance. A disaster is a disaster and the response by the Government must be instantaneous and effective. When we have a situation such as what we have in West Pokot County, I expect the Government to deploy the military. Thank God that we have a military that is never at war with anybody apart from going out to keep peace and the current misadventure in Somalia. The national Government should deploy the military to West Pokot County to assist families to carry bodies of their loved ones who are being recovered. I am told that more than 50 people have died, but most of the bodies have not been found. The army should go down the stream. We have River Muruny that joins Turkwel River that flows to Lake Turkana which is heavily infested with crocodiles. They should see that the families that have lost their loved ones have the opportunity to give them a decent burial, but that is not happening. More importantly, I would like to hear that the Government is helping to erect shelter on safer grounds for people who have had their dwellings washed away. Again, that is not happening. We do not want to see people being put in inhumane camps as if they are refugees in their own country because we have enough capacity, space, and opportunity to give a sense of pride to Kenyans. When something happens in any part of this country, people everywhere in the country should feel the pain like the people of West Pokot County are feeling. Madam Temporary Speaker, what hurts many people more is the reckless users of social media. A deluge like what we saw in West Pokot County swept away families. The floods swept away an entire family of seven people. Users of social media, completely oblivious of the pain people are going through, are posting horrid pictures of dead Kenyans on social media. Where have our morals gone? We cannot have people behaving like beasts towards others. Whereas people need comfort, confidentiality and prayers, criminal and crooked minded people are busy taking pictures of naked dead bodies and posting them on social media. This is extremely callous and has to be condemned. We have a law in this country like they have in the USA. Even American soldiers that are bastardized and killed in Afghanistan, Somalia, Iraq and everywhere---"
     },
     {
-      "order": 348,
+      "order": 347,
       "id": "entry-932746",
       "label": "scene",
       "level": "3",
@@ -4179,7 +4167,7 @@
       "text": "(The amber light was switched on)"
     },
     {
-      "order": 349,
+      "order": 348,
       "id": "entry-932747",
       "label": "speech",
       "level": "3",
@@ -4191,7 +4179,7 @@
       "text": "Madam Temporary Speaker, can I have a few more minutes?"
     },
     {
-      "order": 350,
+      "order": 349,
       "id": "entry-932748",
       "label": "speech",
       "level": "3",
@@ -4203,7 +4191,7 @@
       "text": "I will allow you one more minute."
     },
     {
-      "order": 351,
+      "order": 350,
       "id": "entry-932749",
       "label": "speech",
       "level": "3",
@@ -4215,7 +4203,7 @@
       "text": "One minute is too little."
     },
     {
-      "order": 352,
+      "order": 351,
       "id": "entry-932750",
       "label": "speech",
       "level": "3",
@@ -4227,7 +4215,7 @@
       "text": "You still have two minutes."
     },
     {
-      "order": 353,
+      "order": 352,
       "id": "entry-932751",
       "label": "speech",
       "level": "3",
@@ -4239,7 +4227,7 @@
       "text": "Madam Temporary Speaker, when Americans are killed in the countries that I have mentioned, you will never see blood and dead bodies on American television screens. Where are the morals of our country? We cannot have this kind of recklessness by people who do nothing but live on social media insulting each other from morning to evening and posting all manner of things. That has to stop. We have a law that needs to be enforced. We do not have a shortage of laws against offensive public moral behaviour. Equally important, there are areas where this devastation has taken place. We have those who have died, those who have been left homeless and children who will be going to school. We also have wildlife in those areas that needs to be taken care of in terms of protecting people. Part of my early life, I lived in Ortum where River Muruny that devastated the area passes. It is a difficult terrain. It is hilly, forested and with wildlife and so on and so forth. West Pokot County, more than anything else, needs the entire national Government's machine in relation to disaster management. Equally important, is the capacity and the ability of the national Government, through the Meteorological Department and other agencies, to inform people when we expect heavy rains. It is not enough for the Meteorological Department to keep on telling us that we will have above average rains or we will have rains up to Christmas time. They should tell people that we have areas like Murang'a, Kakamega, and West Pokot counties that are prone to landslides and advise people to move to safer ground. The Government has a duty to do that. Even where people nostalgically want to hang on to their traditional homes, they should be moved forcefully to save their lives and avoid disaster from happening. This is an act of negligence on the part of the national Government because this was foreseeable. Before the Solai Dam Tragedy, people saw the dam cracking and the embankment weakening, but nobody told those who lived on the path of the water to move away. We lost close to 50 people. After a short while, it becomes part of our history. In this country, there is a phrase that we should forget and move on. Madam Temporary Speaker, just like I tweeted, this matter should not be left to the County Government of West Pokot. This is because county governments in this country are too weak. Their resources are limited and their ability is not sufficient. There is no single county in this country that has helicopters to fly people through difficult terrains. The army should set up a camp in Kapenguria and Makutano towns and do everything humanly possible for the next three, four or five months to give comfort to our brothers and sisters in West Pokot County. They should build houses for them, repair the broken roads and give them a normalcy of life that they require. Madam Temporary Speaker, I beg to support."
     },
     {
-      "order": 354,
+      "order": 353,
       "id": "entry-932752",
       "label": "speech",
       "level": "3",
@@ -4251,7 +4239,7 @@
       "text": "Madam Temporary Speaker, I wish to start by thanking Sen. (Dr.) Langat for bringing this important Motion for Adjournment. Again, we have been caught flat footed. We spoke about this issue last week. We talked about the vagaries of the weather and weather patterns that are expected, but we always have the same problem. We experience floods when there is a lot of rain. However, we do not have a way of tapping rain water that could be needed another time. After that, we have a series of droughts that end up leaving people dead. People die either because there is too much water or lack of water. We talked about this and the need for having laws being implemented. Every country should plan well for disaster management. It is raining in Kenya and the neighbouring country, but they have not been affected like us. Our neighbours built dykes and were prepared for the rains. It is not about the weather but how one plans for the weather. We know the weather patterns in sub-Saharan Africa and it is possible to pre-empt and plan. Our meteorological departments should send the warning signs early so that people are moved to safer grounds. I wept when I saw parents identifying bodies of their children and people identifying bodies of family members who lost their lives as a result of the floods. It is torturous for a whole family to be wiped out within a minute. We do not even have plans for those who have been left. They do not know where they will get housing, water and food. It is disaster after disaster and this creates a big problem yet this is something that can be projected and planned for. The national Government should put up an emergency kitty to deal with such cases. We have organisations that have been assisting the victims. I am happy that aid is now being given directly to the victims, which is a good direction to take. We have had cases where people take advantage of such disasters and use the money that is meant to help such people for their own benefit. I find that approach good and that is the way to go even as we plan and think of how to move forward with devolution. We can borrow that and later have the leaders oversight the use of the funds to see if they are used appropriately rather than hearing that funds have not reached the people who are in need. We have the County Integrated Development Plans (CIDPs) within the counties that are usually pushed back because of lack of mitigating circumstances. We are taken back development-wise when such disasters happen. Netherlands is surrounded by water, but it has found a way of handling its situation. In USA, the citizens are forewarned of a storm long before it happens. People in such areas should be asked to leave early. If they do not agree, then they should be pushed out. The basic principle should always be to save life. We have heard of countries that have had Tsunamis without a single person dying. We now have technology that can predict the weather patterns and ways for mitigation."
     },
     {
-      "order": 355,
+      "order": 354,
       "id": "entry-932754",
       "label": "scene",
       "level": "3",
@@ -4263,7 +4251,7 @@
       "text": "(Sen. (Dr.)Zani's microphone went off)"
     },
     {
-      "order": 356,
+      "order": 355,
       "id": "entry-932755",
       "label": "speech",
       "level": "3",
@@ -4275,7 +4263,7 @@
       "text": "Are you done? I want to give you 50 seconds."
     },
     {
-      "order": 357,
+      "order": 356,
       "id": "entry-932756",
       "label": "speech",
       "level": "3",
@@ -4287,7 +4275,7 @@
       "text": "Thank you, Madam Temporary Speaker. We will move away from this if those other plans are put in place. It is about pre-warning, action, saving lives, focussing for the future and acting in advance. It is also about valuing the lives of all Kenyans."
     },
     {
-      "order": 358,
+      "order": 357,
       "id": "entry-932757",
       "label": "speech",
       "level": "3",
@@ -4299,7 +4287,7 @@
       "text": "Thank you, Madam Temporary Speaker, for allowing me to express my sympathy and condolences to the families in West Pokot, Taita-Taveta, Meru and Murang'a counties who have experienced nasty flooding during heavy rains. This is not a new story in Kenya. We have been having disaster after disaster. Watching those clips is very worrisome. We have seen children, fathers, mothers and members of the community struggle to salvage what they can. I felt bad when I heard that Wei Wei Secondary School had also been affected. That school produced one of the best performing students and I visited it sometimes back. The causative effect of flooding is clear in everybody's mind. The deaths were as a result of geophysical effects. The mudslides swept away houses and habitation. Help was not forthcoming because those people are remotely located. The County Government of West Pokot has no capacity to deal with that kind of emergency because it was on a higher scale. I commend the Government because it deployed officers of the armed forces and other security organs. I also thank the humanitarian agencies who dealt with the problem. We empathise with the families, but what else can we do as a nation to avoid such things from happening in future? Climate change has been a story and I remember negotiating the Convention Climate Change Framework when I was the United Nations (UN) Environment Ambassador. We went to Paris to get the Paris Convention and discussed the mitigating factors that are required to deal with such emergencies. We know that there will be flooding, earthquakes and flash floods because of climate change. Therefore, we should have mitigating factors. One mitigating factor is having a plan between the national Government and the county governments and the focus should be on areas that are prone to flooding. We should also plant vegetation along the slopes so as to reduce the intensity of flooding that goes downstream. We should also construct water ways to direct the water to other places. Flooding is not a strange thing in areas like Wajir and Marsabit counties. I know that because I have worked in Wajir. That place is a savannah and it gets flooded everywhere. What worries me is the epidemic that emerges after the floods such as waterborne diseases as a result of shallow pit latrines in those areas."
     },
     {
-      "order": 359,
+      "order": 358,
       "id": "entry-932758",
       "label": "scene",
       "level": "3",
@@ -4311,7 +4299,7 @@
       "text": "(The red timer was switched on)"
     },
     {
-      "order": 360,
+      "order": 359,
       "id": "entry-932759",
       "label": "speech",
       "level": "3",
@@ -4323,7 +4311,7 @@
       "text": "Madam Temporary Speaker, kindly allow me a minute to conclude."
     },
     {
-      "order": 361,
+      "order": 360,
       "id": "entry-932760",
       "label": "speech",
       "level": "3",
@@ -4335,7 +4323,7 @@
       "text": "I will give you a minute."
     },
     {
-      "order": 362,
+      "order": 361,
       "id": "entry-932761",
       "label": "speech",
       "level": "3",
@@ -4347,7 +4335,7 @@
       "text": "Thank you, Madam Temporary Speaker. Apart from evacuating people in places like West Pokot and having the humanitarian groups like the Kenya Red Cross Society (KRCS), we should maintain the morale and the nutritional status of the people who have been left behind. Those people did not have anything to eat for many hours and there was no service reaching them. There were no blankets and nothing to shield them from harsh climatic conditions because we know it is very chilly. You and I have protected ourselves with heavy gearing so that we are safe from pneumonia and other diseases that might develop because it has been raining today. My recommendation is that as a nation, we should be prepared to take over the emergencies at the county level because counties may be unable. I thank the Mover of this Motion because it is timely. All Kenyans must empathize with people from the areas that have been affected. Appropriate measures and resources should also be set aside in order to deal with the situation. I thank you."
     },
     {
-      "order": 363,
+      "order": 362,
       "id": "entry-932763",
       "label": "speech",
       "level": "3",
@@ -4359,7 +4347,7 @@
       "text": "Madam Temporary Speaker, I also wish to thank Sen. (Dr.) Langat for bringing this very important Motion to the House. It shows that we are one as country. The fact that Sen. (Dr.) Langat from Bomet County thought about the tribulations of the people in West Pokot County, that is a demonstration that when we have national problems and disasters, we must be patriotic and think as a nation especially we Members of the Senate. I know that the Senator for West Pokot County is not here for a good reason. Madam Temporary Speaker, climate change and global warming are with us and we cannot run away from them. Although there are naysayers, there is evidence out there to show that we must deal with global warming. If you look at the Arctic and the Antarctic, the ice is thawing at a fast rate and the sea level is getting higher. Even where there was life, you could still find disaster. The flora and fauna is changing because of this phenomenon. The reason we must deal with it is because many areas are being affected constantly. An area like the Caribbean has experienced hurricanes and storms for a long period. Constant hurricanes and typhoons have hit Indonesia, the Indian sub-continent and South East Asia. The phenomenon we are seeing in West Pokot County is not just a Kenyan affair. Even the USA had Hurricane Katrina, which was a major disaster for a country as rich as the USA. Some of the naysayers in Washington D.C. do not read the signs and listen to science that global warming is a phenomenon that must be dealt with. Nationally, we must deal with it by protecting our forests since some of these things are happening because of deforestation and other phenomena like desertification. Having said that, I sympathize with the people of West Pokot County because they have gone through great suffering. What is happening there is a great tragedy. I feel that we should not be parading our police officers, firefighters and the NYS on national holidays because when speeches are made, they say that they are ready to fight any problem anywhere and at any time round the clock. During national holidays, they are in their thousands, but these units were not there to be seen in West Pokot. One of the things I have noted is that there is also some dysfunction in the Government because the Deputy President and the Minister for Interior and Coordination of National Government are members of the National Security Council (NSC). When they go to a place like West Pokot County, it must be in an organised fashion. There must be activity to be seen. The first responders should be people like the police, the army and fire fighters among others and they must be trained at both the county and the national level. We should not be parading them during national holidays, but we see very few of them when it comes to national disasters. The Deputy President looked a lonely figure and looked helpless in a private helicopter. Could we have state resources taken there? This is a question that we must ask. The Deputy President should have first organised the NSC to ensure that the people of West Pokot County were given what they deserve."
     },
     {
-      "order": 364,
+      "order": 363,
       "id": "entry-932765",
       "label": "scene",
       "level": "3",
@@ -4371,7 +4359,7 @@
       "text": "(The red timer was switched off)"
     },
     {
-      "order": 365,
+      "order": 364,
       "id": "entry-932766",
       "label": "speech",
       "level": "3",
@@ -4383,7 +4371,7 @@
       "text": "You have one last minute."
     },
     {
-      "order": 366,
+      "order": 365,
       "id": "entry-932767",
       "label": "speech",
       "level": "3",
@@ -4395,7 +4383,7 @@
       "text": "This is because they are taxpayers, they are Kenyans and must get the services of the national Government when a situation like that happens in that part of the country. Thank you, Sen. (Dr.) Langat, for bringing this Motion."
     },
     {
-      "order": 367,
+      "order": 366,
       "id": "entry-932768",
       "label": "speech",
       "level": "3",
@@ -4407,7 +4395,7 @@
       "text": "Asante, Bi. Spika wa Muda kwa kunipa nafasi kutoa maoni yangu kuhusu janga ambalo lilitokea kaunti ya West Pokot. West Pokot ni sehemu ya Kenya ambayo imekumbwa na shida nyingi. Kwanza, ningependa kutoa rambirambi zangu za dhati kwa watu wa West Pokot. Vile vile, ningependa kutoa rambi rambi kwa aliyekuwa Seneta na ambaye ni Gavana, Prof. John Lonyangapuo, kwa jitihada ambazo anafanya kusaidia watu wake. Nilisikitishwa sana na karibu machozi yanitoke nilivyo ona alivyokuwa akijieleza. Ni kama alikuwa analia. Alisema kwamba ameachiwa watu wa West Pokot ilhali hana uwezo. Hiyo ina maanisha Serikali haijatilia maanani watu wa West Pokot. Bi. Spika wa Muda, sehemu ikikumbwa na janga kama lile lililotokea West Pokot, Serikali inafaa kuingia kati mara moja. Serikali inafaa kutoa mikakati ili watu waone kwamba inaweza kuwasaidia, kuwatumikia, kuwapunguzia shida walizo nazo, na pia kuwatoa katika sehemu ambazo hazifai. Mito mingi imefurika na maeneo mengi yamekumbwa na mmomonyoko wa udongo. Hali hii imesababisha madhara makubwa. Kwa hivyo, Serikali, haswa Idara ya Utabiri wa Anga, inafaa kutahadharisha watu kutoka kwenye maeneo hatari ili kuepukana na majanga. Bi. Spika wa Muda, sio watu wa Kaunti ya Pokot Magharibi peke yao. Vile vile, watu wa Kaunti ya Kwale wamekumbwa na mafuriko. Watu wa Bunyala na Kaunti ya Kilifi pia hukumbwa na mafuriko. Miezi kadhaa iliyopita, kumekuwa na hali ya suitofahamu katika maeneo fulani ya Kaunti ya Kilifi ambapo watu walikuwa wakipelekewa chakula kupitia kwa ndege aina ya helikopta. Lazima sisi Wakenya tuzingatie mambo kama haya. Serikali yetu pia inafaa ihakikishe kuwa athari kama hizi zinazokumba Wakenya zinadhibitiwa kabla kutokea. Asante kwa kunipa muda huo."
     },
     {
-      "order": 368,
+      "order": 367,
       "id": "entry-932769",
       "label": "speech",
       "level": "3",
@@ -4419,7 +4407,7 @@
       "text": "Thank you, Senator. Sen. Omogeni, proceed."
     },
     {
-      "order": 369,
+      "order": 368,
       "id": "entry-932770",
       "label": "speech",
       "level": "3",
@@ -4431,7 +4419,7 @@
       "text": "Thank you, Madam Temporary Speaker, for also according me an opportunity to contribute. First, I thank my good friend, the Senator for Bomet County, Sen. Dr. Langat, for introducing this Motion for debate before the Senate. I would like to register my condolences to the people of West Pokot County who have been affected by this natural calamity. On behalf of myself and the people of Nyamira County, I say, pole . We hope that they will be strengthened because whatever happened is beyond the prevention of human beings. Secondly, we should not be embarrassed by what occurred in West Pokot County because natural disasters happen everywhere. I read in the newspaper yesterday and I watched CNN this morning. What we are seeing in Kenya is also happening in Italy, though it has not killed people. The City of Venice is flooded and people have been forced out of their houses. These things happen. What is important is how we respond to some of these disasters. How prepared is our Government in responding to disasters? Let us give the blame where it squarely lies. Under the Sixth Schedule of our Constitution, the issue of disaster management is the responsibility of the national Government. So, we should not be sitting here blaming the County Government of West Pokot. It is the national Government that has been tasked with the responsibility of ensuring that there are mechanisms in place to respond to any disaster. The efforts that have been put in place by the national Government are commendable, but I hope that they will do more. There are some facts which are glaring and everybody can see. The affected families have lost homes, valuable items and farming investments. Therefore, they need assistance from the Government. I hope the Government has put in place some compensation fund that will be given to the affected families because we have been told that rains will subside in the next five days or so. Once that is done, to be seen that we have a Government that cares for its people in place, we need to ensure that we identify the affected families and give them money to reconstruct their homes so that they continue with their day-to-day activities. Madam Temporary Speaker, we should not allow disasters to happen year in, year out. If we can map out West Pokot County and scientifically arrive at a conclusion that, that is an area that is prone to this kind of calamity during the rainy seasons, then we should put in place mechanisms of mitigating the losses likely to occur when we have landslides. Madam Temporary Speaker, in America in the 1930s, there used to be serious floods in the Tennessee Valley---"
     },
     {
-      "order": 370,
+      "order": 369,
       "id": "entry-932771",
       "label": "scene",
       "level": "3",
@@ -4443,7 +4431,7 @@
       "text": "(The red timer was switched on)"
     },
     {
-      "order": 371,
+      "order": 370,
       "id": "entry-932772",
       "label": "speech",
       "level": "3",
@@ -4455,7 +4443,7 @@
       "text": "I have a minute, I believe. I will conclude. What President Roosevelt did was to set up the Tennessee Valley Authority (TVA) that put in place mechanisms to mitigate the issue of floods. They tapped the water that was emanating from the floods into dams that could generate power for the locals."
     },
     {
-      "order": 372,
+      "order": 371,
       "id": "entry-932774",
       "label": "speech",
       "level": "3",
@@ -4467,7 +4455,7 @@
       "text": "(Sen. (Prof.) Kamar: Please conclude!"
     },
     {
-      "order": 373,
+      "order": 372,
       "id": "entry-932775",
       "label": "speech",
       "level": "3",
@@ -4479,7 +4467,7 @@
       "text": "Madam Temporary Speaker, the TVA supplies to the national grid the cheapest electricity in America. I hope that we can also utilise some of these topographical areas and convert them to investments that can be of use to our country. I hope the Government can do something to mitigate the losses that have been suffered by the people of West Pokot County. Thank you, Madam Temporary Speaker."
     },
     {
-      "order": 374,
+      "order": 373,
       "id": "entry-932776",
       "label": "speech",
       "level": "3",
@@ -4491,7 +4479,7 @@
       "text": "Thank you, Senators, for those good contributions."
     },
     {
-      "order": 375,
+      "order": 374,
       "id": "entry-932777",
       "label": "heading",
       "level": "1",
@@ -4503,7 +4491,7 @@
       "text": "ADJOURNMENT"
     },
     {
-      "order": 376,
+      "order": 375,
       "id": "entry-932778",
       "label": "speech",
       "level": "1",
