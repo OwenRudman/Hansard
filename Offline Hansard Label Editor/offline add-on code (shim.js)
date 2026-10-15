@@ -1,0 +1,121 @@
+/* ===== Offline add-on (not part of the SMU tool) =====
+   The SMU server did three things: render a JSON into blocks, keep the autosave, and
+   serve the separate Hierarchy-mode page. This add-on does those in the browser.
+   Everything else on this page is the tool's own code, unchanged. */
+(function () {
+  const STATE_KEY = "offline.state";
+  const MODE_KEY = "offline.mode";
+  const editor = document.getElementById("editor");
+  const template = editor.querySelector(".entry").cloneNode(true);
+
+  function storeState(obj) {
+    try { localStorage.setItem(STATE_KEY, JSON.stringify(obj)); return true; }
+    catch (e) { console.error(e); setAutosaveStatus("Autosave failed: browser storage full"); return false; }
+  }
+  function readState() {
+    try { return JSON.parse(localStorage.getItem(STATE_KEY) || "null"); } catch (e) { return null; }
+  }
+
+  // ---- render blocks the way the server did, using the tool's own helpers ----
+  function render(state) {
+    editor.querySelectorAll(".entry").forEach(e => e.remove());
+    editor.dataset.sourceUrl = state.url || "";
+    for (const en of state.entries) {
+      const s = template.cloneNode(true);
+      s.className = "entry";
+      s.removeAttribute("data-inserted"); s.removeAttribute("data-cutout");
+      s.dataset.label = en.label;
+      s.dataset.originalLabel = en.original_label || "";
+      s.dataset.level = en.label === "heading" ? (en.level || "") : "";
+      delete s.dataset.inheritedLevel;
+      s.querySelector(".label-select").value = en.label;
+      s.querySelector(".level-select").value = en.label === "heading" ? (en.level || "") : "";
+      s.querySelector(".entry-id").textContent = en.id;
+      if (String(en.id).includes("-inserted-")) s.dataset.inserted = "true";
+      editor.appendChild(s);
+      setSpeakerField(s, ".speaker-input", en.speaker || "");
+      setSpeakerField(s, ".title-input", en.speaker_title || "");
+      setEditableText(s.querySelector(".editable-text"), en.text || "");
+      if (en.reviewed) s.classList.add("reviewed");
+      // Same as the server-rendered page: show or hide the speaker box, but never
+      // clear it (the tool only clears speakers when you change a label).
+      s.dataset.label = en.label;
+      setOriginalLabelNote(s);
+      const wrap = s.querySelector(".speaker-wrap");
+      if (wrap) wrap.style.display = shouldShowSpeaker(s, en.label) ? "" : "none";
+      if (en.cutout) markCutout(s, true);
+    }
+    applyInheritedLevels();
+  }
+
+  // ---- replace the three server calls ----
+  window.postState = async function () {
+    if (!document.querySelector("#editor .entry")) return;
+    const c = collectEntries();
+    if (!storeState({ url: c.source_url, entries: c.entries })) throw new Error("storage full");
+  };
+  let skipUnloadSave = false;   // set while a new file is being opened, so the old page cannot overwrite it
+  window.autosaveStateNow = function () {
+    if (skipUnloadSave || !document.querySelector("#editor .entry")) return;
+    const c = collectEntries(); storeState({ url: c.source_url, entries: c.entries });
+  };
+  window.resumeFromJSONFile = async function (event) {
+    event.preventDefault();
+    const input = document.getElementById("jsonFile");
+    if (!input || !input.files || !input.files.length) { alert("Please choose a JSON file to upload."); return; }
+    try {
+      const parsed = entriesFromUploadedJSON(JSON.parse(await input.files[0].text()));
+      if (!storeState({ url: parsed.sourceUrl, entries: parsed.entries })) return;
+      skipUnloadSave = true; clearTimeout(autosaveTimer);
+      window.location.href = window.location.pathname;
+    } catch (error) { console.error(error); alert(`Could not load JSON file: ${error.message}`); }
+  };
+  window.switchMode = async function (target) {
+    if (target === APP_MODE) return;
+    const active = document.querySelector(".entry-active");
+    const focusId = active ? active.querySelector(".entry-id").textContent.trim() : "";
+    window.autosaveStateNow();
+    try { localStorage.setItem(MODE_KEY, target); } catch (e) {}
+    window.location.href = window.location.pathname + (focusId ? `?focus=${encodeURIComponent(focusId)}` : "");
+  };
+
+  // ---- page chrome for this mode ----
+  document.body.classList.remove("mode-label", "mode-hierarchy");
+  document.body.classList.add(APP_MODE === "hierarchy" ? "mode-hierarchy" : "mode-label");
+  document.querySelectorAll(".mode-switch button").forEach(b => {
+    const isMine = (b.getAttribute("onclick") || "").includes(`'${APP_MODE}'`);
+    b.disabled = isMine; if (isMine) b.setAttribute("aria-current", "true"); else b.removeAttribute("aria-current");
+  });
+  const note = document.querySelector(".mode-note");
+  if (note && APP_MODE === "hierarchy") note.innerHTML = "Set heading levels, run <strong>Suggest hierarchy</strong>, and mark Quorum/Division cutouts.";
+
+  // Mzalendo links need a server to fetch them; offline, load the JSON instead.
+  const urlForm = document.querySelector('form[method="get"]');
+  if (urlForm) urlForm.outerHTML = '<p class="sidebar-divider offline-note"><strong>Offline copy.</strong> Loading a Mzalendo link needs the SMU server. Open a JSON with <em>Resume from JSON</em> below instead. Your work autosaves in this browser.</p>';
+
+  if (APP_MODE === "hierarchy") {
+    const box = document.createElement("div");
+    box.className = "sidebar-divider offline-hierarchy-controls";
+    box.innerHTML = `
+      <p><button type="button" onclick="suggestHierarchy()">Suggest hierarchy</button>
+         <button type="button" id="undoSuggestButton" onclick="undoSuggestedHierarchy()" disabled>Undo suggestion</button></p>
+      <label><input type="checkbox" id="suggestReplace"> Replace levels already set</label><br>
+      <label><input type="checkbox" id="headingsOnly" onchange="applyHeadingsOnly()"> Hide non-headings entirely</label>
+      <p id="suggestStatus" class="mode-note"></p>`;
+    const anchor = document.querySelector(".upload-panel");
+    anchor.parentNode.insertBefore(box, anchor.nextSibling);
+    if (typeof restoreHeadingsOnly === "function") restoreHeadingsOnly();
+  }
+
+  // ---- load saved work, or start empty ----
+  const state = readState();
+  if (state && Array.isArray(state.entries) && state.entries.length) {
+    render(state);
+  } else {
+    editor.querySelectorAll(".entry").forEach(e => e.remove());
+    editor.dataset.sourceUrl = "";
+    const p = document.createElement("p"); p.className = "offline-empty";
+    p.textContent = "No sitting open. Use “Resume from JSON” in the sidebar to open a JSON file.";
+    editor.appendChild(p);
+  }
+})();

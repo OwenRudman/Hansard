@@ -1,0 +1,16 @@
+Offline Hansard Label Editor - works without SMU wifi
+
+1. Double-click "Hansard Label Editor (offline).html" (Chrome works best). No internet needed.
+2. Click "Resume from JSON" and pick a sitting JSON (raw, cleaned, or one you finished).
+3. Edit as normal. Work autosaves in this browser, so you can close the tab and come back.
+4. When done, click "Download JSON". It saves "<sitting> - Senate.json" to Downloads,
+   in the same format as the SMU tool.
+
+Limits:
+- The "Load" box (Mzalendo link) does not work offline. Use Resume from JSON instead.
+- It holds one sitting at a time. Opening a new JSON replaces the one in progress,
+  so download first.
+- Saved work lives in this one browser on this one computer.
+- Label mode is the SMU tool's own code. The Hierarchy-mode sidebar buttons (Suggest
+  hierarchy, Undo, Replace levels already set, Hide non-headings) were rebuilt, because
+  the saved page was in Label mode; they call the tool's own functions.
